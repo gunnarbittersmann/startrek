@@ -1,6 +1,14 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/"
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
 	},
 	"@type": "TVSeries",
 	"name": "Star Trek: The Original Series",
