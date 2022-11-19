@@ -1,0 +1,587 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: The Animated Series",
+	"identifier": "TAS",
+	"inLanguage": "en",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series#Episodes",
+	"numberOfSeasons": 2,
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"numberOfEpisodes": 16,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E1",
+					"name": "Beyond the Farthest Star",
+					"datePublished": "1973-09-08",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Keine Blumen für Kirk",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-10-26"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Das körperlose Wesen",
+							"inLanguage": "de",
+							"datePublished": "2016-09-08"
+						}
+					],
+					"abstract": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E2",
+					"name": "Yesteryear",
+					"datePublished": "1973-09-15",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Die Täuschung",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-10-19"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Das Zeitportal",
+							"inLanguage": "de",
+							"datePublished": "2016-09-09"
+						}
+					],
+					"abstract": "Spock must travel to the past to rescue his younger self from danger."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E3",
+					"name": "One of Our Planets Is Missing",
+					"datePublished": "1973-09-22",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Ein Planet wird gerettet",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-04-27"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Die gefährliche Wolke",
+							"inLanguage": "de",
+							"datePublished": "2016-09-12"
+						}
+					],
+					"abstract": "The Enterprise encounters a giant cloud creature that feeds on the energy of the planets that lie in its path. They determine it is heading for Mantilles, home to a Federation colony governed by former Starfleet officer Bob Wesley (featured in the TOS episode “The Ultimate Computer)”."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E4",
+					"name": "The Lorelei Signal",
+					"datePublished": "1973-09-29",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Planet der Amazonen",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-11-23"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Das Lorelei-Signal",
+							"inLanguage": "de",
+							"datePublished": "2016-09-13"
+						}
+					],
+					"abstract": "Investigating a sector of space where starships have disappeared every 27 years, the Enterprise finds a race of beautiful women living on the planet Taurus II."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E5",
+					"name": "More Tribbles, More Troubles",
+					"datePublished": "1973-10-06",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Invasion der Wollmöpse",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-04-13"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Mehr Trouble mit Tribbles",
+							"inLanguage": "de",
+							"datePublished": "2016-09-14"
+						}
+					],
+					"abstract": "While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman’s Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E6",
+					"name": "The Survivor",
+					"datePublished": "1973-10-13",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Geliebter Spion",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-10-05"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Der Überlebende",
+							"inLanguage": "de",
+							"datePublished": "2016-09-15"
+						}
+					],
+					"abstract": "Patrolling near the Romulan Neutral Zone, the USS Enterprise finds a ship carrying Carter Winston, a Federation citizen and philanthropist who has been missing for five years."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E7",
+					"name": "The Infinite Vulcan",
+					"datePublished": "1973-10-20",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Planet der Riesen",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-10-12"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Das Superhirn",
+							"inLanguage": "de",
+							"datePublished": "2016-09-16"
+						}
+					],
+					"abstract": "While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu’s life, but kidnap Mr. Spock."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E8",
+					"name": "The Magicks of Megas-tu",
+					"datePublished": "1973-10-27",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Geheimnis von Megas-Tu",
+						"datePublished": "2016-09-19"
+					},
+					"abstract": "While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship’s systems and takes the crew to explore his planet, Megas-Tu."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E9",
+					"name": "Once Upon a Planet",
+					"datePublished": "1973-11-03",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Urlaub im Wunderland",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-11-30"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Phantasie oder Wirklichkeit",
+							"inLanguage": "de",
+							"datePublished": "2016-09-20"
+						}
+					],
+					"abstract": "The Enterprise crew revisits the “amusement park” planet first seen in the Classic Trek episode “Shore Leave” hoping for some rest and relaxation."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E10",
+					"name": "Mudd’s Passion",
+					"datePublished": "1973-11-10",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Der Liebeskristall",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-03-09"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Der Liebeskristall",
+							"inLanguage": "de",
+							"datePublished": "2016-09-21"
+						}
+					],
+					"abstract": "The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd, who is accused of selling fake love crystals. Intercepting Harry on the mining colony of Motherlode, they bring him aboard the Enterprise."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E11",
+					"name": "The Terratin Incident",
+					"datePublished": "1973-11-17",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Auch Kleine haben oft groß angefangen",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-11-02"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Die Rettungsmission",
+							"inLanguage": "de",
+							"datePublished": "2016-09-22"
+						}
+					],
+					"abstract": "While observing a burnt-out supernova, the USS Enterprise picks up a strange message transmitted in a two-hundred-year-old code."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E12",
+					"name": "The Time Trap",
+					"datePublished": "1973-11-24",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Klingons Hinterlist",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-03-23"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Die Zeitfalle",
+							"inLanguage": "de",
+							"datePublished": "2016-09-23"
+						}
+					],
+					"abstract": "While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E13",
+					"name": "The Ambergris Element",
+					"datePublished": "1973-12-01",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Das unheimliche Wasser",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-11-09"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Die Entführung",
+							"inLanguage": "de",
+							"datePublished": "2016-09-26"
+						}
+					],
+					"abstract": "While exploring the water planet Argo, Captain Kirk and Mr. Spock are transformed into water breathers by the planet’s undersea inhabitants, the Aquans. In order to return to their normal selves, they must enlist the help of the Aquans to capture a giant sur-snake, whose venom holds the antidote."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E14",
+					"name": "The Slaver Weapon",
+					"datePublished": "1973-12-08",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Geheimnis der Stasis-Box",
+						"datePublished": "2016-09-27"
+					},
+					"abstract": "In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E15",
+					"name": "The Eye of the Beholder",
+					"datePublished": "1973-12-15",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Die gejagten Jäger",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-03-30"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Auf der Suche nach Überlebenden",
+							"inLanguage": "de",
+							"datePublished": "2016-09-28"
+						}
+					],
+					"abstract": "The disappearance of a scientific team lures the USS Enterprise to investigate near Lactra VII. The starship Ariel is located there, abandoned, with its captain having transported to the planet’s surface."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E16",
+					"name": "The Jihad",
+					"datePublished": "1974-01-12",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"@type": "Person",
+						"name": "Hal Sutherland"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das gestohlene Gehirnwellenmuster",
+						"datePublished": "2016-09-29"
+					},
+					"abstract": "The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr. Spock have been summoned to learn about a stolen religious artifact, the “Soul of the Skorr”, whose theft could ignite a galactic holy war."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"numberOfEpisodes": 6,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E1",
+					"name": "The Pirates of Orion",
+					"datePublished": "1974-09-07",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Verfolgung im Weltall",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-03-02"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Die Piraten von Orion",
+							"inLanguage": "de",
+							"datePublished": "2016-09-30"
+						}
+					],
+					"abstract": "Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E2",
+					"name": "Bem",
+					"datePublished": "1974-09-14",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Echsenjagd",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-11-16"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Gefährliche Prüfung",
+							"inLanguage": "de",
+							"datePublished": "2016-10-04"
+						}
+					],
+					"abstract": "The Enterprise crew is taken captive by a race of primitives on a newly discovered planet."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E3",
+					"name": "The Practical Joker",
+					"datePublished": "1974-09-21",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Das lachende Ungeheuer",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-04-20"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Wüste Scherze",
+							"inLanguage": "de",
+							"datePublished": "2016-10-05"
+						}
+					],
+					"abstract": "A strange energy field causes the Enterprise computer to play practical jokes on the crew, but the humor soon turns to danger."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E4",
+					"name": "Albatross",
+					"datePublished": "1974-09-28",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Dr. McCoy unter Anklage",
+							"inLanguage": "de",
+							"datePublished": "2016-10-06"
+						}
+					],
+					"abstract": "Doctor McCoy is arrested for allegedly causing a deadly plague which once ravaged the planet Dramia."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E5",
+					"name": "How Sharper Than a Serpent’s Tooth",
+					"datePublished": "1974-10-05",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Die versunkene Welt",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-04-06"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Kukulkan – der Mächtige",
+							"inLanguage": "de",
+							"datePublished": "2016-10-07"
+						}
+					],
+					"abstract": "A mysterious being threatens to destroy the Enterprise if the crew is unable to solve an ancient puzzle."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E6",
+					"name": "The Counter-Clock Incident",
+					"datePublished": "1974-10-12",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"@type": "Person",
+						"name": "Bill Reed"
+					},
+					"workTranslation": [
+						{
+							"@type": "TVEpisode",
+							"name": "Weltraumkosmetik",
+							"version": "gekürzt",
+							"inLanguage": "de",
+							"datePublished": "1976-03-16"
+						},
+						{
+							"@type": "TVEpisode",
+							"name": "Flucht aus einem anderen Universum",
+							"inLanguage": "de",
+							"datePublished": "2016-10-10"
+						}
+					],
+					"abstract": "An unusual spaceship pulls the Enterprise into a “negative universe” where time seems to flow backwards."
+				}
+			]
+		}
+	]
+}

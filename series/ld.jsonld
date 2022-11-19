@@ -1,0 +1,786 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: Lower Decks",
+	"identifier": "LD",
+	"inLanguage": "en",
+	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks#Episodenliste",
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_1",
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E1",
+					"name": "Second Contact",
+					"datePublished": "2020-08-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Zweite Kontakt",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
+						"@type": "Person",
+						"name": "Barry J. Kelly"
+					},
+					"description": "Ensign Tendi hat ihren ersten Arbeitstag auf der USS Cerritos der Sternenflotte. Dort trifft sie einige Crew-Mitglieder, darunter Ensign Beckett Mariner, Ensign Brad Boimler und Ensign Rutherford. Unterdessen bekommt Boimler eine geheime Spezialmission übertragen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/d4ekWGHzAPI"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E2",
+					"name": "Envoys",
+					"datePublished": "2020-08-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gesandte",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Nachdem eine äußerst wichtige Mission fehlschlägt, plagt sich Boimler weiter mit Selbstzweifeln. Vor allem weil sich Mariner als Naturtalent beweist. Rutherford kündigt seinen Ingenieursjob und erkundet andere Abteilungen der USS Cerritos.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/9_6iwVBe5Pw"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E3",
+					"name": "Temporal Edict",
+					"datePublished": "2020-08-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Zeitpuffer",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Ein neues Arbeitsprotokoll entfernt die Bufferzeit und bringt die Crew der USS Cerritos dazu, sich die Hacken wund zu laufen während sie versuchen, mit ihrem neuen, straffen Zeitplan mitzuhalten. Ensign Beckett Mariner und Commander Jack Ransom haben beide zu wenig Respekt und das zeigt sich auf einer Mission unterwegs.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/M6NutwSxWJI"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E4",
+					"name": "Moist Vessel",
+					"datePublished": "2020-08-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Generationenschiff",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
+						"@type": "Person",
+						"name": "Barry J. Kelly"
+					},
+					"description": "Captain Carol Freeman sucht die ultimative Rache, nachdem Ensign Beckett Mariner sie einfach so vor ihrer Crew erniedrigt. Ein wohlmeinender Ensign Tendi verdirbt aus Versehen den Versuch von Lieutenant Shaxs für einen spirituellen Aufstieg und versucht, es wieder gut zu machen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/nLF4HMsV1nk"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E5",
+					"name": "Cupid’s Errant Arrow",
+					"datePublished": "2020-09-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Mondtrümmer und Liebesleid",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Mariner ist skeptisch gegenüber Boimlers neuer Freundin. Tendi und Rutherford sind eifersüchtig auf die Ausstattung eines größeren Raumschiffs.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/i6P_AogWvqE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E6",
+					"name": "Terminal Provocations",
+					"datePublished": "2020-09-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Diplomatischer Schrott",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Der liebenswerte aber merkwürdige Ensign Fletcher macht es Mariner und Boimler schwer. Rutherford zeigt Tendi ein Holodeck-Programm, das er kreiert hat.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/2qhzXma13GI"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E7",
+					"name": "Much Ado About Boimler",
+					"datePublished": "2020-09-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Viel Lärm um Boimler",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
+						"@type": "Person",
+						"name": "Barry J. Kelly"
+					},
+					"description": "Mariner versucht ihre beste Freundin von der Starfleet Academy zu beeindrucken, die mittlerweile Captain ist. Boimler wird nach einem Unfall aufs Medizinschiff geschickt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/SqpRGpLO8Nc"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E8",
+					"name": "Veritas",
+					"datePublished": "2020-09-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Veritas",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Mariner, Boimler, Tendi und Rutherford sind überrascht als die Aliens sie zwingen, über eine Reihe scheinbar unzusammenhängender Ereignisse auszusagen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/xl0V2bOEEus"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E9",
+					"name": "Crisis Point",
+					"datePublished": "2020-10-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Aufstieg von Vindicta",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Ensign Beckett Mariner versucht Boimlers Holodeck-Programm zweckzuentfremden um darin als Bösewicht im Lower-Decks-Filmstyle dazustehen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/2VsKm_Bt_KM"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E10",
+					"name": "No Small Parts",
+					"datePublished": "2020-10-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Keine kleinen Rollen",
+						"datePublished": "2021-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
+						"@type": "Person",
+						"name": "Barry J. Kelly"
+					},
+					"description": "Die USS Cerritos trifft auf einen bekannten Gegner, die Pakled. Ensign Tendi hilft einer strauchelnden Neuen namens Erdnusssnackbox, sich zurechtzufinden. Diese lehnt es ab, die Cerritos vor den Pakled zu retten. Die USS Titan mit Riker und Troi kommt im letzten Moment zu Hilfe und rettet die Cerritos.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/bhpdhAAxUaU"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2",
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E1",
+					"name": "Strange Energies",
+					"datePublished": "2021-08-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Seltsame Energien",
+						"datePublished": "2021-08-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"description": "Drei Monate sind vergangen. Die USS Cerritos hat den Zweitkontakt mit dem Planeten Apergos erfolgreich beendet. Mit dem Einverständnis ihrer Mutter, Captain Carol Freeman, säubert Beckett Mariner noch ein verschmutztes Gebäude der Hauptstadt, um die Bewohner damit anzuregen, auch andere Häuser sauber zu halten. Dabei entlädt sich jedoch ein Energiestrahl aus dem Gebäude und trifft den Ersten Offizier Jack Ransom. Der erhält dadurch gottgleiche Fähigkeiten. Sein riesiger Kopf schwebt in den Weltraum, um die Cerritos anzugreifen. Auf Apergos tritt Mariner dem kopflosen Ransom in den Schritt, was dessen Kräfte wieder normalisiert. Fähnrich D’Vana Tendi sorgt sich indessen um ihren Freund, Fähnrich Sam Rutherford, weil der ein neues Implantat bekommen hat. Währenddessen wird Brad Boimler auf der USS Titan in ein Gefecht mit den Pakleds verwickelt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/-KnIthczcpE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E2",
+					"name": "Kayshon, His Eyes Open",
+					"datePublished": "2021-08-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kayshon, seine Augen offen",
+						"datePublished": "2021-08-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Kayshon, der erste Tamarianer in der Sternenflotte, kommt als neuer Sicherheitschef auf die USS Cerritos. Er, Mariner, Tendi, Rutherford und Jet Manhaver, der ihnen als Ersatz für Boimler zugeteilt wurde, sollen den Nachlass eines verstorbenen Mitglieds der Sammler-Gilde auf gefährliche Objekte überprüfen. Als Siggi, ein anderer Sammler, die Sicherheitssysteme der Station auslöst, wird Kayshon in eine Puppe verwandelt. Mariner will das Kommando übernehmen und muss erkennen, dass Manhaver, Tendi und Rutherford auch gute Lösungsideen haben. Währenddessen wird Brad Boimler durch einen Transporterunfall verdoppelt, und einer der Boimler wird von der USS Titan zurück auf die USS Cerritos geschickt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/mfHkukZSbmE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E3",
+					"name": "We’ll Always Have Tom Paris",
+					"datePublished": "2021-08-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Begegnung mit der Befangenheit",
+						"datePublished": "2021-08-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Tom Paris besucht die USS Cerritos. Brad Boimler wird von den Systemen der USS Cerritos nicht mehr als Crewmitglied erkannt. Er muss durch die Jefferies-Röhren kriechen, um seinen Erinnerungs-Teller mit dem Bild von Tom Paris signieren zu lassen. Lieutenant Shaxs ist überraschend wieder zurück, ohne dass erklärt wird, wie er zurückkam. Als Rutherford ihn danach fragt, kann er die schreckliche Wahrheit nicht ertragen. Tendi soll nach Qualor II fliegen und ein privates Familienerbstück von Dr. T’Ana auf das Schiff holen. Sie nimmt Mariner mit. Beide finden heraus, dass es sich bei dem Erbstück um einen sogenannten „Libidopfosten“ handelt, den Caitianer benutzen, weil sie einmal im Jahr intim sein müssen, um nicht verrückt zu werden. Als der Pfosten versehentlich zerbricht, versuchen sie ihn zuerst auf Sternenbasis Earhart und dann auf einem orionischen Piratenstützpunkt reparieren zu lassen, was beides misslingt. Um Tendi zu schützen, lässt Mariner bei der Rückkehr das Shuttle absichtlich mit der Cerritos kollidieren, wobei angeblich das Erbstück zerstört wurde. T’Ana brauchte aber nur die Kiste, in der das Erbstück lag.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/hR6TnmZjuu0"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E4",
+					"name": "Mugato, Gumato",
+					"datePublished": "2021-09-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Mugato, Gumato",
+						"datePublished": "2021-09-03"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"description": "Der Barkeeper der Cerritos redet Boimler und Rutherford ein, dass Mariner ein Spion von Sektion 31 sei. Als auf einem Planeten Mugatos gefunden werden, soll die USS Cerritos dies untersuchen. Das Außenteam mit Mariner, Boimler, Rutherford und Shaxs entdeckt, dass die Mugatos von Ferengis gejagt und eingefangen werden, um deren Hörner teuer zu verkaufen. Das Raumschiff des Schmugglers Mr. Hyde, der die Hörner kaufen wollte, wird von der Cerritos mit einem Traktorstrahl erfasst und geht dabei zu Bruch. Die Cerritos bietet als Wiedergutmachung ein eigenes Shuttle und andere wertvolle Gegenstände, bevor sich herausstellt, dass er mit diesem Trick schon andere Schiffe betrogen hatte. Mariner kann Boimler und Rutherford überzeugen, dass sie kein Spion ist. Außerdem überreden sie die Ferengi, dass ein Mugato-Reservat mit Touristen viel mehr Profit erbringt kann als die Mugato-Jagd. Auf der Cerritos soll Tendi Besatzungsmitglieder aufspüren, die nicht zu ihrer medizinischen Routine-Untersuchung erschienen sind. Auch Dr. T’Ana gehört dazu.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/0ouuV7haWa8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E5",
+					"name": "An Embarrassment of Dooplers",
+					"datePublished": "2021-09-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Doopler-Verwirrung",
+						"datePublished": "2021-09-10"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Die USS Cerritos eskortiert einen Doopler zur Sternenbasis 25. Wenn dieser emotional verunsichert wird, dann verdoppelt er sich. Dies geschieht schließlich unkontrolliert, was bereits nach kurzer Zeit den gesamten Platz im Schiff in Anspruch nimmt. Captain Freeman erkennt, dass die Verdoppelungen rückgängig gemacht werden können, wenn die Doopler wütend werden. Also werden diese solange beleidigt, bis nur noch ein einziger übrig ist. Tendi und Rutherford arbeiten an einem Raumschiffmodell. Rutherford zweifelt an sich, weil ihm die Fertigstellung nicht gelingt. Aber Tendi verrät ihm, dass er die Fertigstellung früher absichtlich verzögert hatte, um mehr Zeit mit ihr zu verbringen. Um an einer Sternenflotten-Party auf der Sternenbasis teilnehmen zu können, überredet Mariner Boimler, sich dort als seinen Doppelgänger-Klon William auszugeben. Da Mariner aber nicht mit hinein darf, verlässt Boimler die Party wieder. In einer Bar, in der schon Kirk und Spock gewesen waren, treffen sie schließlich auf die Führungscrew der Cerritos, die ebenfalls am Einlass der Party abgewiesen wurde. Der Doopler wird schließlich auf die Party gebeamt und sprengt diese aufgrund seiner Beschämung, dort nicht eingeladen zu sein.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/EythsJoTLIc"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E6",
+					"name": "The Spy Humongous",
+					"datePublished": "2021-09-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der große, braune Spion",
+						"datePublished": "2021-09-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Die USS Cerritos ist beim Heimatplaneten der Pakleds um Friedensgespräche zu führen. Ein Pakled will Asyl auf der Cerritos, erweist sich jedoch als Spion. Commander Ransom und Lieutenant Kayshon sollen ihn beschäftigen, verlieren ihn aber zeitweise aus den Augen. Als er nach Pakled zurückkehrt, verrät er Freeman auf deren clevere Fragen, dass die Pakled planen, die Erde mit einer Bombe anzugreifen. Mariner, Tendi und Rutherford haben Anomaliekonsolidierungsdienst und sammeln diverse gefährliche Artefakte ein. Tendi ist die einzige, die das positiv sieht. Boimler schließt sich einer Gruppe Rothemden um Ensign Casey an, die sich durch hohen Ehrgeiz auszeichnen und bei ihrem Aufstieg in der Sternenflotte gegenseitig unterstützen wollen. Sie drängen ihn zwar dazu, sich von seinen bisherigen Freunden zu distanzieren, doch als Tendi beim Artefakte-Einsammeln in eine Art Skorpion verwandelt wird, macht er sich absichtlich lächerlich, um sie zum Lachen zu bringen, was auch gelingt und die Situation bereinigt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/807utCuq0IY"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E7",
+					"name": "Where Pleasant Fountains Lie",
+					"datePublished": "2021-09-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wo die lust’gen Quellen liegen",
+						"datePublished": "2021-09-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"description": "Die USS Cerritos hilft dem Schiff von Königin Paolana, der Herrscherin von Hysperia und Mutter von Billups. Diese will, dass ihr Sohn endlich Sex hat, damit er seinen Platz in der Thronfolge einnehmen kann. Sie inszeniert eine Explosion, bei der sie und Rutherford scheinbar getötet werden. Tendi ist von Rutherfords Tod erschüttert, bemerkt jedoch, dass er und Paolana am Leben sind. Sie verhindert gerade noch rechtzeitig, dass Billups seine Jungfräulichkeit verliert. Mariner und Boimler sollen den manipulativen Agimus-Computer zum Daystrom-Institut transportieren und stürzen mit dem Shuttle auf einem Wüstenplaneten ab. Obwohl Agimus seine Hilfe anbietet, vertrauen die beiden ihm nicht. Als er die beiden gegeneinander aufzuhetzen versucht, überlistet ihn Boimler, nutzt seine Batterie aus und sendet eine Notsignal. Der Computer endet im Gefängnis böser Rechenmaschinen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/tr5n3qOA62w"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E8",
+					"name": "I, Excretus",
+					"datePublished": "2021-09-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ich, Excretus",
+						"datePublished": "2021-10-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
+						"@type": "Person",
+						"name": "Kim Arndt"
+					},
+					"description": "Mariner, Boimler, Rutherford und Tendi werden nach einer Mission versehentlich im freien Raum zurückgelassen. Das ist der Anlass für die pandronianische Übungsleiterin Shari yn Yem, die USS Cerritos für eine Reihe von Überprüfungssimulationen auszuwählen, bei denen die Brückenoffiziere auf den unteren Decks Dienst tun, während Mariner, Boimler, Rutherford und Tendi zu Führungsoffizieren werden. Die Übungsleiterin spielt allerdings ein falsches Spiel, denn nur wenn eine Schiffsbesatzung versagt, kann sie ihre eigene Notwendigkeit nachweisen. Tatsächlich scheitern alle bei ihren Holodeck-Übungen, mit Ausnahme der Borg-Simulation von Fähnrich Boimler. Er wiederholt die Übung besessen, um seine Punktzahl weiter zu verbessern. Die einzige Möglichkeit, um die sofortige Stilllegung des Schiffes zu verhindern, besteht darin, das Boimler seine Übung auch nach Erreichen der Höchstpunktzahl weiterführt, denn solange läuft auch der Gesamttest weiter. Freeman lässt daraufhin das Schiff in mehrere gefährliche Situationen fliegen, die für Shari immer bedrohlicher werden, bis diese freiwillig die Resultate für alle anderen nach oben korrigiert. Zum Dank wird den unteren Decks endlich ein leistungsfähigerer Nahrungsreplikator zur Verfügung gestellt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/dlEdS0tWlM8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E9",
+					"name": "wej Duj",
+					"datePublished": "2021-10-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "wej Duj",
+						"datePublished": "2021-10-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
+					},
+					"description": "Auf einem langen Warp-Flug gewährt Captain Freeman der Besatzung einen Ruhetag. Boimler behauptet, von Hawaii zu stammen, um mit Commander Ransom die Freizeit verbringen zu können. Es stellt sich jedoch heraus, dass Ransom gar nicht von dort kommt, sondern dies in seiner früheren Unterdeck-Zeit behauptet hatte, um sich mit einem damaligen Brückenoffizier anzufreunden. Der klingonische Bird of Prey Che’ta versorgt die Pakled mit klingonischen Waffen, um einen Krieg der Pakled mit der Föderation zu provozieren. Der klingonische Unterdeck-Offizier Ma’ah steigt zum zweiten Offizier von Kapitän Dorg auf. Weil die Waffentests der Pakled lokale Anomalien verursacht haben, bremst die Cerritos ab und wird sofort von Pakled und Klingonen angegriffen. Auch das vulkanische Raumschiff Sh’Vahl bremst ab, weil die Unterdecks-Offizierin T’lyn außerhalb ihrer eigentlichen Aufgabe die Anomalien bemerkte. Da sie auch technische Verbesserungen vorgenommen hat, kann sie das Schiff vor der Vernichtung durch die Klingonen bewahren. Auf der Che’ta erkennt Ma’ah das unehrenhafte verhalten von Dorg, tötet ihn und wird Kapitän. Die Klingonen ziehen sich zurück, und auch die Pakleds fliehen. T’lyn wird trotz ihrer Verdienste für ihr emotionales Handeln bestraft und auf ein Sternenflottenschiff versetzt. Auf der Cerritos freundet sich Boimler mit einem jungen Fähnrich an.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/xkWQszjdWrc"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E10",
+					"name": "First First Contact",
+					"datePublished": "2021-10-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Erster Erster Kontakt",
+						"datePublished": "2021-10-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"description": "Captain Freeman wird eine Beförderung angeboten, zu der sie aber kein Besatzungsmitglied mitnehmen könnte. Mariner, die das zufällig belauscht, erzählt es den Brückenoffizieren, die wütend sind, weil sie nicht von Freeman darüber informiert wurden. Die Cerritos begleitet die Archimedes unter Captain Sonya Gomez zu einer Erst-Kontakt-Mission. Als die Archimedes durch eine Sonneneruption havariert, stößt die Cerritos das Außenschild ab und rettet die Archimedes kurz vor dem Aufschlag mit dem Traktorstrahl. Tendi soll die Krankenstation verlassen und denkt, dies geschehe, weil Dr. T’Ana sie für unfähig hält. Stattdessen wird sie in die Wissenschaftsabteilung befördert, um ihre Fähigkeiten nicht in der Krankenstation zu verschwenden. Rutherfords Implantat zeigt Fehlermeldungen, weil der Speicherplatz nicht mehr ausreicht: Er hatte dreifach redundante Backups seiner Erinnerungen an Tendi erstellt, um ihre Freundschaft nicht zu verlieren. Als er diese löscht, sieht er überraschend eine Erinnerung, wonach das Implantat gegen seinen Willen installiert wurde. Freeman wird von der Sternenflottensicherheit verhaftet, weil sie eine Bombe auf dem Planeten der Pakled gezündet habe.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/aPtfg-XDyrY"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 3,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_3",
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E1",
+					"name": "Grounded",
+					"datePublished": "2022-08-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Startverbot",
+						"datePublished": "2022-08-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"abstract": "While Captain Freeman undergoes a trial for allegedly detonating a bomb on Packled Planet, the Cerritos is impounded in a space dock, and its crew is placed on leave. Though her father asks her to trust the system to prove her mother innocent, Mariner gathers Boimler, Tendi, and Rutherford to help her hijack an amusement park spaceship to enter space and board the Cerritos in search of evidence to clear Freeman’s name. When their efforts are investigated by Starfleet security, they are saved by the arrival of the recently exonerated Freeman and the senior crew, who explain that Starfleet’s undercover operations determined that the Packleds framed Freeman in a bid to force Starfleet to compensate them with a new, more advantageous home planet. Finally fed up with Mariner’s repeated insubordinations, Freeman places the decision of Mariner’s future with Starfleet by placing her under Ransom’s direct supervision.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/5S1s8J62brs"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E2",
+					"name": "The Least Dangerous Game",
+					"datePublished": "2022-09-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das ungefährlichste Spiel",
+						"datePublished": "2022-09-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
+						"@type": "Person",
+						"name": "Michael Mullen"
+					},
+					"abstract": "Discouraged that playing it safe is holding him back from advancing in rank, Boimler opts to say yes to more opportunities that come his way. Following some positive experiences bonding with superior officers, Boimler unthinkingly agrees to be the prey for hunter alien named K’ranch. Boimler flees, fearing for his life, until he decides to turn the tables and hunt K’ranch instead. He is easily taken down, but K’ranch reveals that his people practice catch and release hunting with non-lethal methods. He commends Boimler to his superior officers. Boimler, ecstatic to have received more recognition in a single day of being bold than his years of caution, resolves to remain “Bold Boimler”. Meanwhile, Mariner joins Ransom, Rutherford, and Billups on a mission to Dulaine to repair a broken orbital lift while engaging in diplomatic relations with the Dulainians. In an effort to prove Mariner’s insubordinate tendencies, Ransom has the engineering team engage in diplomacy instead while he and Mariner do the repairs, despite its inefficiency. Fearing that Rutherford and Billups are in danger after they transgress upon delicate Dulainian customs, Mariner sneaks away to assist them, but returns when Ransom apologizes for trying to provoke her. They repair the diplomatic ties with the Dulainians and rescue Rutherford and Billups.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/mTqsN22E_uY"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E3",
+					"name": "Mining The Mind’s Mines",
+					"datePublished": "2022-09-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Psycho-Gestein",
+						"datePublished": "2022-09-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
+						"@type": "Person",
+						"name": "Fill Marc Sagadraca"
+					},
+					"abstract": "Starfleet oversees peace relations between aliens called the Scrubble and Federation scientists on Jengus IV. Mariner, Boimler, and Rutherford are sent to assist members of the Carlsbad in deactivating the Scrubble’s psychic landmines on the planet’s surface. The mines show a person’s deepest desires, turning them to stone if they touch the illusions. Meanwhile, Tendi experiences her first day of senior science officer training under Dr. Migleemo, who tasks her with getting the Captain’s attention during her extensive peace negotiations. A representative of the Scrubble gifts Captain Freeman and Carlsbad’s Captain Maier with a rock. Tendi scans it, noting strange readings, but fails to gain Freeman’s attention. Discouraged, she returns to the med lab, where Commander T’Ana gives her a pep talk. On Jengus IV, the Cerritos crew receive a cold welcome from their Carlsbad counterparts and worry that they have gained a reputation as slackers. While seeking to outperform the crew, several of the mines detonate, and they all flee into a nearby cave. Noticing that the mines seem to pulling random information from them beyond their desires, the group discover that the mines actually pull and record all psychic information, and that the Scrubble and scientists are secretly working together to datamine Starfleet. They unsuccessfully attempt to warn Freeman, until an emboldened Tendi smashes the rock gift and reveals that it contains technology designed to spy on them. The Scrubble and scientist representatives are detained for questioning. The Carlsbad crew reveal that their behavior was due to their awe of the Cerritos crew, who have a reputation as mavericks among the other California-class ships.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/OEeBmdLDV-4"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E4",
+					"name": "Room for Growth",
+					"datePublished": "2022-09-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Raum für Entfaltung",
+						"datePublished": "2022-09-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"abstract": "Captain Freeman rewards the exhausted engineering crew for their tireless work by taking them to a relaxation spa, The Dove. However, the crew continues to engage in work at the spa, causing Freeman’s stress level to rise to emergency levels. The engineering crew, feeling guilty, responds by creating a machine that is able to instantly destress her, to the spa manager’s chagrin. Meanwhile, Boimler, Tendi, and Mariner complain about the cramped quarters and lack of privacy in lower decks. After overhearing that delta shift plans to hack into the lottery to gain individual upper deck room assignments, Boimler, Mariner, and Tendi attempt to circumvent them and hack into the lottery first. The journey through the bowels of the ship to reach the terminal is perilous and they wind up stuck waiting with the members of Delta shift. The beta and delta shift members seemingly bond before delta shift traps them in order to get to the lottery terminal first. Beta shift breaks free and manages to reach the terminal first, but sees that only one room is available. Not wanting to break up their friend group, they opt to allow Delta shift to fight over it. They are dismayed when they learn that Delta shift opted to share the single room among their four members, which they had not considered doing themselves.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/ikBx8h4x52M"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E5",
+					"name": "Reflections",
+					"datePublished": "2022-09-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Spiegelbilder",
+						"datePublished": "2022-09-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
+						"@type": "Person",
+						"name": "Michael Mullen"
+					},
+					"abstract": "Rutherford’s implant malfunctions, allowing an alternate personality to take over. During a skirmish with security, Rutherford ends up in a coma. In his mindscape, Rutherford realizes that the personality is his younger self, whose memories were saved before he received his implant. An angry first year recruit in Starfleet who funds his unsanctioned engineering projects by secretly building and racing space vehicles, he challenges Rutherford to a race with any vehicle they can imagine; the winner gets control of their body. Rutherford wins by piloting a Starfleet ship crewed by his lower decks friends. His younger self concedes, seeing that his new life brought growth, and shares a memory of how they got their implant before he disappears: young Rutherford’s experimental engine blew up, gravely injuring him. Shadowy members of Starfleet installed the implant to erase his memories of their own mysterious illegal activity. Meanwhile, Ransom assigns Boimler and Mariner to staff the Starfleet recruitment booth at Tulgana IV’s job fair, warning them not to step out of line. They are provoked and mocked by various attendees, including a smug former Starfleet officer, Petra Aberdeen. Boimler tries to keep Mariner calm until he snaps himself and rampages through the fair berating the other attendees for taking everything Starfleet does for all of them for granted. His actions inspire attendees to sign up with Starfleet. Later, Ransom punishes Boimler with a night in the brig, but commends him for defending Starfleet. Mariner receives a communication from Aberdeen, who apologizes, but offers her a job if she ever finds Starfleet too confining.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/stpETxzY8d0"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E6",
+					"name": "Hear All, Trust Nothing",
+					"datePublished": "2022-09-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Diplomatie mal anders",
+						"datePublished": "2022-09-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
+						"@type": "Person",
+						"name": "Fill Marc Sagadraca"
+					},
+					"abstract": "Captain Carol Freeman oversees trade negotiations with the Karemma at Deep Space Nine, alongside Kira Nerys. Mariner struggles to be personable with Jen’s friends, who engage in pretentious “salons” where they engage in bad performance art and light candles “charged” with their intentions. Tendi and Rutherford tour DS9, but encounter an Orion DS9 officer, Mesk, who tags along, excited to meet another Orion and relishing in their culture’s criminal behaviors, to Tendi’s chagrin. Meanwhile, failing negotiations force Freeman to seek out Quark, who has invented a new replicator used in his successful bar franchise “Quark’s”. The Karemma are livid upon seeing Quark’s replicator and kidnap him, using a device to shut down all power on DS9. The power failure seals the salon attendees inside their room, which begins losing oxygen rapidly due to the candles. Mariner tries to be gently suggest extinguishing the candles, but Jen’s hysterical friends refuse to listen. Jen tells Mariner not to worry about her friends affecting their relationship and gives her permission to handle them as she usually would. Mariner gleefully stuns them all with her phaser to reduce their oxygen intake. She and Jen extinguish the candles, kiss, and stun themselves. Meanwhile, Tendi erupts at Mesk, saying that Orion pirate culture makes her ashamed. Mesk confesses that he was adopted on Earth, and only learned of their culture through trashy novels and others’ expectations of him, adopting the persona with no other Orions around to tell him differently. Tendi sympathizes and tells him to just be himself. They witness the Kareema absconding with Quark aboard their ship. Using her impressive pirate skills, Tendi single-handedly commandeers the vessel, allowing DS9 to apprehend the Kareema. In the brig, the Kareema reveal that Quark’s replicators were made of their stolen technology, and that Quark was being arrested, not kidnapped. Freeman forges a successful negotiation where the Kareema receive 76% of Quark’s franchise profits. Tendi resolves to embrace her heritage.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/fAcx_rnT4As"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E7",
+					"name": "A Mathematically Perfect Redemption",
+					"datePublished": "2022-10-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Eine mathematisch perfekte Vergeltung",
+						"datePublished": "2022-10-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"abstract": "After teleporting out of the Cerritos while it is under attack (season 1 episode 10) to save herself, Exocomp (sentient mechanical lifeform) ensign Peanut Hamper finds herself abandoned in space when the USS Titan saves the Cerritos. After she barely escapes Drookmani scavengers in a ship she built, she crashlands on a planet inhabited by winged fauna and a sentient species, the Aerore, who are amazed by her technological abilities. As time passes, Peanut Hamper seems to change her mind about organic lifeforms which she used to despise",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/fCLXh27agGs"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E8",
+					"name": "Crisis Point 2: Paradoxus",
+					"datePublished": "2022-10-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Paradoxus",
+						"datePublished": "2022-10-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
+						"@type": "Person",
+						"name": "Michael Mullen"
+					},
+					"abstract": "Boimler programs a sequel to Mariner’s holodeck movie, called Crisis Point II: Paradoxus where Romulans have stolen a top secret gem capable of time travel, intending to use it to erase the Federation. However, Boimler receives some bad news and loses his enthusiasm, leaving Tendi to lead the story’s exciting mission. Instead, he becomes fixated on a side quest that promises the secret to life. Annoyed, Mariner ditches him, but learns from Commander Ransom that Boimler’s transporter twin, William, died in a gas leak in his sleep. She returns to the program and helps Boimler in his quest, recognizing that the program helped her and can do the same for him. Boimler eventually finds the program’s mythical being who can reveal the secret to life. Asking it why William senselessly died and what it means for himself, the being can only parrot back inspirational quotes. Boimler goes on a frustrated rampage until he wakes up on an idyllic farm with Hikaru Sulu, who tells him to embrace randomness, both good and bad, as it represents the unexpected joy of life. Satisfied, Boimler wakes up in sick bay, realizing that the farm was a dream while he passed out from near fatal dehydration in the holodeck. Meanwhile, Tendi’s success as the lead officer in the holodeck helps her realize that she aspires to become a captain. Elsewhere, William is revived, his death a ruse to draft him into Section 31.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/GONtKFXwiZc"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E9",
+					"name": "Trusted Sources",
+					"datePublished": "2022-10-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das große Missverständnis",
+						"datePublished": "2022-10-21"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
+						"@type": "Person",
+						"name": "Fill Marc Sagadraca"
+					},
+					"abstract": "Freeman’s planetary-revisitation initiative, “Project Swing By,” is approved. Admiral Buenamigo assigns her to visit Ornara, a planet whose population were forced to quit an addictive substance, felicium, due to Jean-Luc Picard’s actions seventeen years earlier. To Freeman’s dismay, they are to be accompanied by journalist Victoria Nuzé; Freeman cracks down on recreation and controls Nuzé’s access to crew, hoping to project competence. Finding Ornara thriving and uninterested in Federation aid, Freeman and Buenamigo decide the Cerritos will visit nearby Brekka, whose sole industry had been felicium, in hopes of justifying Swing By. After Mariner circumvents Freeman to speak with Nuzé, Nuzé confronts Freeman about many embarrassing details of past missions. Incensed, Freeman immediately transfers Mariner to Starbase 80, a dead-end assignment. The Cerritos discovers a depopulated Brekka occupied by the Breen, and are narrowly saved by the Aledo, a new, fully automated ship. Nuzé’s report is heavily critical of Freeman, and reveals that the embarassing details were gleaned from the approved interviews, while Mariner had only glowing words for the ship and Freeman. A remorseful Freeman tries to reach Mariner at Starbase 80, but learns she has resigned from Starfleet. Mariner is now Petra Aberdeen’s first officer.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/K5y4aDhxqv8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E10",
+					"name": "The Stars At Night",
+					"datePublished": "2022-10-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Sterne in der Nacht",
+						"datePublished": "2022-10-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+						"@type": "Person",
+						"name": "Jason Zurek"
+					},
+					"abstract": "In the wake of Victoria Nuzé’s embarrassing expose, Star Fleet opts to follow Admiral Buenamigo’s proposal to decommission all California-class ships and replace Second Contact duties with his automated Texas-class ships. Captain Freeman challenges Buenamigo’s ships to a race to run their duties. Rutherford is intrigued by the new ships’ programming. Meanwhile, Mariner becomes suspicious of her and Petra’s mysterious benefactor, but learns that it’s funded by Jean-Luc Picard. She confesses to Petra that she may have been searching for a reason to return to Star Fleet. During the race, the Cerritos barely keeps up with the Texas-class ship’s capabilities and loses when the crew must pause their work to rescan for life on a desolate planet. Freeman realizes that the Texas-class failing to stop and scan proves that the ships are inadequate to handle Second Contact parameters. She informs Buenamigo about reporting this information to Star Fleet when Rutherford bursts in. He recognizes the Texas-class’s A.I. programming as his own from his early days and the shadowy Star Fleet official who erased his memory was Buenamigo. Buenamigo reveals that he set up the Cerritos all along hoping they would fail, allowing him to promote his ships. Rutherford warns him not to bring the ships to full automation, as the A.I. code is the same as Badgey’s and could result in aggressiveness. Buenamigo ignores him and brings the ships online, ordering them to destroy the Cerritos to cover his tracks, but they attack the star base, killing him, before attacking the Cerritos. Hopelessly outmatched, Freeman sends out a distress signal, which is answered by Mariner and Petra, who also summon all the other California-class ships to assist. The Texas-class ships are defeated. Later, the crews of the California-class ships celebrate, and Freeman apologizes to Mariner, who forgives her and rejoins the Cerritos. T’lyn arrives as the Science Department’s newest recruit under Tendi’s mentorship. Meanwhile, the remnants of the Texas-class ships with Badgey’s corrupted A.I. are collected by a mysterious source.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/Y9XHJ6benTA"
+						}
+					}
+				}
+			]
+		}
+	]
+}

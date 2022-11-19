@@ -1,0 +1,539 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: Picard",
+	"identifier": "PIC",
+	"inLanguage": "en",
+	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard#Episodenliste",
+	"numberOfSeasons": 3,
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1",
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E1",
+					"name": "Remembrance",
+					"datePublished": "2020-01-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gedenken",
+						"datePublished": "2020-01-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HanelleMCulpepper",
+						"@type": "Person",
+						"name": "Hanelle M. Culpepper"
+					},
+					"description": "Im Jahr 2399, 14 Jahre nach dem Verlassen der Sternenflotte, gibt Jean-Luc Picard ein erstes Interview zur damaligen romulanischen Supernova. Dahj, die von romulanischen Agenten in ihrer Wohnung angegriffen wurde, diese aber – zu ihrer eigenen Überraschung – töten konnte, sieht Picard im Fernsehen und erkennt ihn als den Mann aus ihrer Erinnerung. Sie sucht Picard auf, um ihn um Hilfe zu bitten. Nachdem zuvor bereits Dahjs Freund beim Angriff gestorben ist und sie deshalb Picard nicht auch noch in Gefahr bringen möchte, verlässt sie sein Anwesen wieder. Am nächsten Tag besucht Picard das Archiv der Sternenflotte und stellt fest, dass die Frau auf einem Gemälde, das Data vor etwa 30 Jahren gemalt und Tochter genannt hat, aussieht wie Dahj. In der Zwischenzeit kontaktiert Dahj, die weiterhin von Romulanern verfolgt wird, ihre Mutter, die ihr rät, zu Picard zurückzukehren, weil nur er ihr helfen könne. Sie findet Picard erneut. Dieser versucht ihr zu erklären, dass sie etwas Besonderes, womöglich eine menschlich wirkende Androidin ist, was Dahj erst nicht wahrhaben will. Picard schlägt ihr hierauf vor, gemeinsam zum Daystrom-Institut zu gehen, als Dahj bemerkt, dass ihre Verfolger wieder ihre Spur aufgenommen haben. Es gelingt ihr, etliche Romulaner zu töten, wird dann aber von einem am Boden liegenden Angreifer überrascht und stirbt. Picard sucht darauf Dr. Agnes Jurati im Daystrom-Institut auf und erfährt, dass Dahj einen Zwilling haben muss.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/F_On0JvDCVI"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E2",
+					"name": "Maps and Legends",
+					"datePublished": "2020-01-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Karten und Legenden",
+						"datePublished": "2020-01-31"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HanelleMCulpepper",
+						"@type": "Person",
+						"name": "Hanelle M. Culpepper"
+					},
+					"description": "Vor 14 Jahren, also im Jahr 2385, kam es zu einem Amoklauf der Androiden auf dem Mars, woraufhin es verboten wurde, weitere Androiden zu produzieren. Picard erfährt bei einer Untersuchung von Dahjs Wohnung mit der Romulanerin Laris, dass sich Soji, Dahjs Schwester, nicht auf der Erde befinden kann und dass die Zhat Vash, eine romulanische Geheimorganisation, die eigentlich nur ein Mythos ist, für den Angriff verantwortlich sein könnte. Picards Arzt, der ihn schon von der Stargazer kennt, besucht Picard in seiner Wohnung und bescheinigt ihm beste Gesundheit bis auf ein kleines Ungleichgewicht im Gehirn, das schon in Gestern, heute, morgen (TNG 7.25 & 7.26) angedeutet wurde. Er versucht daraufhin vergeblich, von der Sternenflotte ein Kommando über ein Raumschiff zugewiesen zu bekommen, um Soji zu finden und zu retten. In einem Gespräch mit Dr. Jurati erfährt Picard, dass Dahjs gesamte Identität erst vor ca. drei Jahren erschaffen wurde. Bei der Suche, auf anderen Wegen an ein Raumschiff und eine Crew zu gelangen, kontaktiert Picard seine ehemalige Kollegin Raffi. Er weiß noch nicht, dass die Sternenflotte von Romulanern unterwandert ist und diese aufgrund seiner dortigen Vorsprache inzwischen von seinem Vorhaben Kenntnis erlangt haben. Unterdessen beginnt Soji auf der Romulanischen Rückgewinnungsstation, einem zerstörten Borg-Kubus, eine Liebesbeziehung mit dem Romulaner Narek.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/u2hRdIVmtto"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E3",
+					"name": "The End is the Beginning",
+					"datePublished": "2020-02-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Ende ist der Anfang",
+						"datePublished": "2020-02-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#HanelleMCulpepper",
+						"@type": "Person",
+						"name": "Hanelle M. Culpepper"
+					},
+					"description": "Kurz nach dem Amoklauf der Androiden auf dem Mars und vor der romulanischen Supernova vor 14 Jahren stellte Picard damals die Sternenflotte vor die Entscheidung, ihm entweder bei der Evakuierung der Romulaner zu helfen oder ihn aus der Sternenflotte zu entlassen. Diese entschied sich gegen Picard und akzeptierte seinen Rücktritt, was ebenso negative Folgen für seine Kollegin Raffi mit sich brachte, da diese auf Picards Hilfe baute. Deshalb ist diese bei seinem aktuellen Eintreffen nicht sehr gut auf ihn zu sprechen. Aufgrund von Picards Schilderungen verschafft sie ihm aber dennoch ein Raumschiff mit Pilot. Unterdessen wird Dr. Jurati von der Sternenflotten-Sicherheitschefin Commodore Oh aufgesucht und über Picards Besuche ausgefragt. Picard findet sich zwischenzeitlich auf dem Schiff La Sirena ein und macht sich mit dessen Captain Rios, der auch der Pilot ist, bekannt. Zurück auf seinem Anwesen kommt es zu einem Angriff der Romulaner, den Picard mit den beiden bei ihm lebenden Romulanern Laris und Zhaban sowie der eintreffenden Dr. Jurati gemeinsam abwehren kann. Beim Verhör eines überlebenden Angreifers erfahren die Anwesenden, dass Dahjs Zwillingsschwester die Zerstörerin aus der romulanischen Mythologie sein soll. Auch Soji erfährt auf dem Borg-Kubus dasselbe, kann die Bedeutung aber noch nicht einordnen. Ebenso wird ihr offenbart, dass ihre Schwester tot sein soll. Ihre vorgebliche Mutter teilt ihr aber mit, sie sei wohlauf. Dr. Jurati schließt sich Picards Crew an. Beim erneuten Eintreffen auf dem Schiff ist Raffi bereits an Bord, die jedoch andere Ziele verfolgt und nur mitfliegen möchte. Zu viert starten sie die Reise nach Freecloud, wo sich Bruce Maddox befinden soll, der die Androiden erschaffen hatte, die die Katastrophe auf dem Mars auslösten, und der vermutlich auch die Zwillinge erschuf."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E4",
+					"name": "Absolute Candor",
+					"datePublished": "2020-02-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unbedingte Offenheit",
+						"datePublished": "2020-02-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"description": "Picard befindet sich kurz vor dem Amoklauf der Androiden vor 14 Jahren in einer neuen romulanischen Kolonie auf Vashti, wo er bei den Qowat Milat, romulanischen Kriegernonnen, auf die Ankunft neuer Umsiedlungstransporter wartet. Dabei baut er eine Freundschaft zu dem Waisenjungen Elnor auf, der ebenfalls bei den Qowat Milat lebt, erzählt ihm Geschichten und bringt ihm Fechten bei. Kurz darauf erfährt er vom Amoklauf der Androiden und muss überstürzt aufbrechen. In der Gegenwart setzt sich Picard gegenüber Raffi durch, einen Abstecher zu dem Planeten zu unternehmen, der sich jetzt in einem gefährlichen Sektor befindet. Dort möchte er eine Qowat Milat engagieren und nach Elnor schauen. Auf dem Planeten ist man auf die Föderation nicht mehr gut zu sprechen, da diese die Romulaner nach dem Amoklauf im Stich gelassen hat. Die Qowat Milat empfangen Picard jedoch mit offenen Armen. Er trifft auf Elnor, der seine Krieger-Ausbildung abgeschlossen hat, jedoch aufgrund seines Geschlechts nie zu den Kriegernonnen gehören kann, und möchte ihn mitnehmen, was dieser jedoch zunächst ablehnt. Picard geht danach zurück in die romulanische Siedlung, gerät dort in einen Streit mit Romulanern, kann jedoch mit Hilfe Elnors entkommen, der Picards Angebot nun doch annimmt. Währenddessen versucht Soji, auf dem Borg-Kubus weiteres über die Zerstörerin herauszufinden. Ihre Liebesbeziehung zu Narek vertieft sich, dieser wird jedoch von seiner Schwester Narissa dazu angehalten, mehr über Soji herauszufinden, sonst würde sie, wie schon bei Dahj auf der Erde, mit Gewalt vorgehen. Im Orbit von Vashti greift derweil ein alter romulanischer Bird of Prey an, dessen Angriff durch die Hilfe eines zweiten Raumschiffs abgewehrt werden kann. Von diesem explodierenden Schiff wird die verletzte Pilotin, Seven of Nine, an Bord gebeamt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/874YxTynp7k"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E5",
+					"name": "Stardust City Rag",
+					"datePublished": "2020-02-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Keine Gnade",
+						"datePublished": "2020-02-21"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"description": "13 Jahre vor den aktuellen Ereignissen werden Icheb, einem engen Freund von Seven of Nine von der Voyager, bei vollem Bewusstsein die Borg-Implantate entfernt. Seven kommt zu seiner Rettung, es ist jedoch zu spät für ihn und sie bringt ihn aus Gnade um. Zwei Wochen, bevor Picards Crew auf Freecloud, einem Casino-Planeten, eintrifft, sucht Maddox dort bei seiner Auftraggeberin Bjayzl Unterschlupf vor dem Tal Shiar, der sein Labor zerstört hat. Jedoch stellt diese ihn ruhig und nimmt ihn gefangen. Nach dem Eintreffen der La Sirena mit Picard und seinen Begleitern arbeiten diese einen Plan zur Rettung von Maddox aus. Dieser sieht vor, dass alle bis auf Dr. Jurati undercover auf den Planeten beamen und Seven of Nine dort als Köder für Bjayzl agiert, die Borg zum Ausschlachten sucht. Unwissend, dass Seven und Bjayzl eine gemeinsame Vergangenheit haben, funktioniert der Plan zunächst: Der lebende Maddox wird als Austausch für Seven zum Treffpunkt gebracht. Als Seven jedoch auch am Treffpunkt ankommt und klar wird, dass sie nur geholfen hat, um an Bjayzl heranzukommen, die für das Leid von Icheb verantwortlich war, gerät die Situation außer Kontrolle. Währenddessen trifft Raffi ihren Sohn, der ihr vorwirft, ihn und seinen Vater wegen einer mutmaßlichen Verschwörung im Stich gelassen zu haben. Er möchte nichts mehr mit ihr zu tun haben, woraufhin Raffi ihn und seine schwangere romulanische Freundin verlässt und heimlich auf die La Sirena zurückkehrt. Gleichzeitig möchte Seven Bjayzl umbringen, welche jedoch vorschlägt, Maddox für ihr Leben einzutauschen und kein Kopfgeld auf die La-Sirena-Besatzung anzusetzen. Durch das Drängen von Picard willigt Seven ein und alle beamen an Bord. Dort verrät der verletzte Maddox Picard, dass sich Soji auf dem Artefakt, dem Borg-Kubus, aufhält und er die beiden Androiden auf die Erde und den Kubus geschickt hat, um eine Verschwörung aufzudecken. Seven gibt Picard einen Chip, mit dem er Hilfe von Sevens Fenris Rangern (eine Art selbsternannte Bürgerwehr, welche „auf eigene Faust“ für Ordnung und Gerechtigkeit sorgt) rufen kann, beamt sich dann mit zwei Waffen wieder auf den Planeten, bringt Bjayzl um und schießt sich ihren Weg in die Freiheit. Zeitgleich ändert Dr. Jurati auf der La Sirena die medizinische Versorgung von Maddox so, dass dieser stirbt, während sie ihm erklärt: „Es tut mir leid, würdest Du nur wissen, was ich schon weiß, und würde ich es doch nicht wissen. Ich wünschte, sie hätten es mir nicht gesagt.“",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/F5ha7K2rnPQ"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E6",
+					"name": "The Impossible Box",
+					"datePublished": "2020-02-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Geheimnisvolle Box",
+						"datePublished": "2020-02-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"@type": "Person",
+						"name": "Maja Vrvilo"
+					},
+					"description": "Soji hat einen immer wiederkehrenden Traum, der sich auf ihre Kindheit bezieht. Narek glaubt, dass die Auswertung und Erkundung dieses Traumes ihm Sojis Heimatwelt enthüllen wird. An Bord der La Sirena erklärt Dr. Jurati Picard, dass Maddox an den Folgen der auf Freecloud erlittenen Verletzungen starb. Raffi überredet einen ihrer Sternenflottenkontakte dazu, Picard einen zeitlich begrenzten Diplomatenstatus zu gewähren, um ihm Zutritt zum Artefakt genannten Borg-Kubus zu verschaffen und Hugh treffen zu können. Narek setzt seine Taktik fort, bei Soji Zweifel an ihrer Identität hervorzurufen. Als sie alle ihre Besitztümer auf deren Alter hin scannt, findet sie heraus, dass keines älter als 37 Monate ist. Narek hilft ihr daraufhin, in einem romulanischen Ritual ihre Träume aktiv zu erkunden und zu entschlüsseln; dabei werden beide von Nareks Schwester Narissa im Verborgenen beobachtet. In diesem Ritual kann Soji den im Traum zu sehenden Himmel beschreiben, was Nareks Schwester Anhaltspunkte für die Identifizierung des Ortes liefert. Narek versucht Soji zu töten, diese kann jedoch entkommen und trifft auf ihrer Flucht auf Picard und Hugh, die sie ebenfalls suchen. Hugh führt Picard und Soji zu einem Notfall-Transportsystem der Borg, von dem nur er weiß und mit dem sie vom Kubus nach Nepenthe gelangen. Romulanische Wachen werden von dem plötzlich hinzugekommenen Elnor getötet. Er und Hugh halten weitere Verfolger vom Zutritt zum Notfall-Transportsystem ab.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/nzVN1H8E_Cc"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E7",
+					"name": "Nepenthe",
+					"datePublished": "2020-03-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Nepenthe",
+						"datePublished": "2020-03-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"@type": "Person",
+						"name": "Doug Aarniokoski"
+					},
+					"description": "Drei Wochen vor den aktuellen Ereignissen führte Commodore Oh eine Gedankenverschmelzung mit Dr. Agnes Jurati durch, bei der sie ihr die Zerstörung eines Planeten zeigte. Jurati bekam von Commodore Oh einen Tracker und den Auftrag, sich Picards Crew anzuschließen. In der Gegenwart tötet Lieutenant Narissa Rizzo auf dem Borg-Kubus mehrere Ex-Borgdrohnen, um von Hugh den Aufenthaltsort von Picard zu erpressen. Picard und Soji gelangen derweil auf den Planeten Nepenthe, wo sie auf Kestra Troi-Riker, die Tochter von Will Riker und Deanna Troi, treffen. Diese führt sie zu ihren Eltern, und es kommt zu einem herzlichen Wiedersehen der ehemaligen Enterprise-Crewmitglieder. Soji ist traumatisiert und misstraut allen fremden Personen, wird aber schließlich durch Kestra davon überzeugt, dass sie Picard vertrauen kann. Auf der La Sirena stellt Rios fest, dass Narek das Schiff verfolgt und sich nicht abschütteln lässt. Rios verdächtigt Raffi, von den Romulanern auf Freecloud einen Tracker erhalten zu haben, und zieht Agnes ins Vertrauen. Agnes weiß jedoch insgeheim, dass die Romulaner ihrem Tracker folgen, und repliziert Uranhydrid, das sie sich injiziert, um den Tracker zu zerstören. Dies gelingt, aber durch die neurotoxische Wirkung fällt sie ins Koma. Auf dem Borg-Kubus kommt es währenddessen zu einem Kampf zwischen Elnor und Narissa, in dessen Verlauf Hugh getötet wird. Elnor findet Hughs Fenris-Notrufsender und betätigt ihn. Auf Nepenthe findet Kestra mithilfe des befreundeten Captain Crandall heraus, dass sich Sojis Heimatplanet im Ghulion-System befindet, das im Vayt-Sektor liegt. Picard und Soji verabschieden sich und werden auf die La Sirena gebeamt, um sich auf den Weg dorthin zu machen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/XSC0DNRqgic"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E8",
+					"name": "Broken Pieces",
+					"datePublished": "2020-03-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Bruchstücke",
+						"datePublished": "2020-03-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"@type": "Person",
+						"name": "Maja Vrvilo"
+					},
+					"description": "14 Jahre zuvor trifft sich eine Gruppe romulanischer Agenten unter der Leitung der halbromulanischen Vulkanierin Oh auf dem Planeten Aia, welcher in einem künstlich erschaffenen System aus acht Sonnen liegt. Dort erwarten sie die Mahnung und werden im Rahmen einer Zeremonie Zeuge einer Vision, die von einem untergegangenen Volk vor mehreren hunderttausend Jahren installiert worden war, um vor der Ankunft der „Zerstörer“ zu warnen. Zwischen apokalyptischen Bildern ist für einen Sekundenbruchteil auch das Gesicht einer künstlichen Lebensform zu sehen, das sich in das Gesicht von Data verwandelt. Nur Narissa und ihre Tante Ramdha überleben die Vision und erhalten von Oh die Information, dass sie sich dem Mars zuwenden müssen, um einen erneuten Untergang zu verhindern. In der Gegenwart kommt Agnes Jurati auf der La Sirena wieder zu Bewusstsein, gesteht ihre Rekrutierung durch Commodore Oh und die Ermordung von Maddox und gibt an, sich am nächsten Flottenstützpunkt Deep Space 12 freiwillig zu stellen. Raffi findet mit Hilfe der fünf holografischen Notfallprogramme heraus, dass Captain Rios vor neun Jahren miterleben musste, wie sein damaliger Mentor und Vorgesetzter auf der USS Ibn Majid, Captain Alonzo Vandermeer, Selbstmord beging, nachdem er – ebenfalls auf Veranlassung von Oh – zwei Abgesandte einer unbekannten Welt getötet hatte, von denen einer den Namen Jana trug und ein Ebenbild Sojis war. Die Crew beschließt auf Drängen von Soji, sofort zu ihrem Heimatplaneten zu fliegen, ohne erst auf das Geschwader zu warten, das Picard zuvor Admiral Clancy abgerungen hatte. Um möglichst schnell zu diesem Planeten zu gelangen, öffnet die La Sirena einen Transwarpkanal der Borg. Als sie dort eintreffen, werden sie von einem getarnten romulanischen Raumschiff verfolgt. Inzwischen ist Seven of Nine auf dem Borg-Kubus erschienen und kommt Elnor zu Hilfe. Es gelingt ihr, die Reparaturmechanismen des Kubus in Gang zu setzen und die verbliebenen Borg kurzzeitig in einer Art Mikro-Kollektiv zu verbinden, um sie gegen die Romulaner einzusetzen. Narissa öffnet jedoch die Luftschleuse des Kubus, so dass ein Großteil der Borg ins All geblasen und getötet wird. Daraufhin startet die romulanische Flotte in Richtung Sojis Heimatplanet. Nachdem sich Seven wieder vom Kollektiv getrennt hat, übernehmen die übriggebliebenen Ex-Borg den Borg-Kubus.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/HPF_Y6mvmHk"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E9",
+					"name": "Et in Arcadia Ego, Part 1",
+					"datePublished": "2020-03-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Et in Arcadia Ego, Teil 1",
+						"datePublished": "2020-03-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"@type": "Person",
+						"name": "Akiva Goldsman"
+					},
+					"description": "Kurz nacheinander treffen die La Sirena, Narek sowie der Borgkubus bei Coppelius, dem vierten Planeten des Ghulion-Systems, ein und werden von orchideenartigen Objekten gewaltsam auf die Oberfläche gebracht. Die Crew der La Sirena bricht zunächst zur Absturzstelle des Borgkubus auf und trifft dort auf Elnor und Seven of Nine. Mithilfe der Langstreckensensoren des Kubus ermitteln sie 218 romulanische Warbirds, die noch etwa zwei Tage entfernt sind. Elnor und Seven bleiben zurück, um die Verteidigungssysteme des Borgkubus wieder in Gang zu bringen, während sich die restliche Crew auf den Weg zur Coppelius-Station macht, die von Androiden bewohnt und von Dr. Altan Inigo Soong geleitet wird. Dieser behauptet, der leibliche Sohn von Dr. Noonien Soong, dem Erschaffer Datas, zu sein. Sutra, die Schwester von Jana, führt eine Gedankenverschmelzung mit Agnes Jurati durch und stellt fest, dass die „Mahnung“ in Wirklichkeit nicht an die Romulaner, sondern an die Androiden gerichtet ist und von einer Allianz künstlicher Lebensformen stammt, die Schutz gegen die Zerstörung durch organisches Leben anbieten. Narek wird gefangen genommen, aber Sutra lässt ihn für ihre eigenen Zwecke heimlich entkommen. Daraufhin flüchtet er in Richtung des Borgkubus. Währenddessen wird Saga, eine Androidin, welche Narek zuvor bewacht hatte, tot aufgefunden. Sutra nimmt den Tod der Androidin zum Anlass, unter den anderen Angst vor allen organischen Lebensformen zu verbreiten. Sie und Dr. Soong haben den Plan, die Allianz der künstlichen Lebensformen mittels einer Bake herbeizurufen, um die romulanische Flotte (und alles organische Leben) zu vernichten. Picard wird unter Arrest gestellt, nachdem er eine Rettungsmission mit der La Sirena vorschlägt, an deren Reparatur Rios und Raffi arbeiten. Dr. Jurati hingegen bleibt frei, um mit Dr. Soong zusammen an einem Projekt der Mentalübertragung zu arbeiten, für das zuvor Bruce Maddox zuständig war. Dr. Soong hatte hierfür zuvor schon einen Golem gefertigt, so wie er zuvor auch die Körper der restlichen Androiden-Geschwister gebaut hatte, bei denen Bruce Maddox die mentalen Fähigkeiten programmiert hatte. Inzwischen ist die romulanische Flotte unter dem Kommando von Commodore Oh noch 24 Stunden entfernt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/-3SbVOiozzg"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E10",
+					"name": "Et in Arcadia Ego, Part 2",
+					"datePublished": "2020-03-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Et in Arcadia Ego, Teil 2",
+						"datePublished": "2020-03-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"@type": "Person",
+						"name": "Akiva Goldsman"
+					},
+					"description": "Nachdem Raffi und Rios die La Sirena repariert haben, verbündet sich Narek mit ihnen, um gemeinsam mit ihnen die Bake der Androiden zu zerstören. Picard wird derweil von Agnes aus Maddox Labor befreit, während Sutra und Soji dabei sind, die Bake zu aktivieren. Es gelingt Raffi, Rios und Narek einige Granaten in das Androiden-Dorf zu schmuggeln. Als sie jedoch eine Granate auf die Bake werfen wollen, fängt Soji diese ab und wirft sie in die Luft, wo diese detoniert. Dr. Soong findet heraus, dass Sutra für den Tod der Androidin Saga verantwortlich ist, und deaktiviert sie daraufhin, Soji allerdings hält weiterhin am Plan, die Bake zu aktivieren, fest. Picard und Agnes kehren währenddessen zur La Sirena zurück und steuern diese ins All, um die romulanische Flotte aufzuhalten. Diese wurde zuvor vom Orchideen-Abwehrsystem von Coppelius nur kurz aufgehalten. Mithilfe eines „Reparaturgeräts“, welches Saga zuvor Rios gegeben hatte, gelingt es Picard und Agnes, den Romulanern vorzutäuschen, dass es eine ganze Flotte von La Sirenas gibt. Als die Romulaner jedoch im Gefecht die echte La Sirena treffen, verschwinden die anderen Hologramme. Seven kann zeitgleich auf dem Borgkubus das Eingreifen von Narissa in das Geschehen im letzten Moment verhindern und tötet sie. Gerade rechtzeitig taucht ein Geschwader der Sternenflotte unter dem Kommando des kurzfristig reaktivierten Captain Riker auf. Um einen drohenden Konflikt zu verhindern, redet Picard via Subraumübertragung auf Soji ein und kann sie schlussendlich dadurch, dass er sein Leben für die Androiden gibt, davon überzeugen, die Bake zu deaktivieren, sodass die herbeigerufenen, unbekannten synthetischen Lebensformen nicht durch das sich gerade öffnende Portal gelangen. Picard stirbt an den Folgen des irumodischen Syndroms, sein Bewusstsein kann aber in den ursprünglich für Dr. Soong bestimmten Golem transferiert werden. In den Schaltkreisen der Übertragungsvorrichtung trifft er auf das Bewusstsein von Data, welches zuvor von Maddox aus B4 gerettet worden war. In einem Gespräch sagt Data zu Picard, dass er gerne sterben möchte, weil nur die Endlichkeit des Lebens all die Dinge, die man erfährt, zu etwas Einzigartigem machen. Nachdem Picard als Golem wiederbelebt wurde, erfüllt er Data diesen Wunsch und deaktiviert sein Bewusstsein. Anschließend startet die La Sirena mit der nun vergrößerten Crew, zu der Seven und Soji, welche sich selbst als Abenteurerin sieht, neu hinzugestoßen sind.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/k_cCdKF113k"
+						}
+					}
+				}
+			],
+			"review": {
+				"@type": "Review",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube.com/embed/-CQk9xWNtbM"
+				}
+			}
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E1",
+					"name": "The Star Gazer",
+					"datePublished": "2022-03-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Stargazer",
+						"datePublished": "2022-03-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"@type": "Person",
+						"name": "Doug Aarniokoski"
+					},
+					"abstract": "Retired admiral Jean-Luc Picard rejects the romantic advances of his housekeeper Laris, a year-and-a-half after the death of her partner Zhaban. After giving a speech to a new class of cadets—including his former ward Elnor—in his role as chancellor of Starfleet Academy, Picard visits his old friend and bartender Guinan to talk about his life-long avoidance of romantic relationships. In deep space, Captain Chris Rios and Dr. Agnes Jurati of the USS Stargazer investigate an anomaly that broadcasts a request to meet with Picard to negotiate joining the Federation. They are joined by Seven of Nine, a vigilante flying Rios’s old ship La Sirena, and a fleet of starships including the USS Excelsior which has Elnor and Picard’s old first officer Raffi Musiker on board. When Picard arrives, a Borg ship emerges from the anomaly and transports their Queen onto the Stargazer. The Queen begins assimilating the entire fleet, prompting Picard to initiate the Stargazer’s self-destruct. After the explosion, Picard wakes up in a version of his home and is greeted by Q, an extra-dimensional being who has long put Picard on trial.",
+					"description": "Mehr als ein Jahr ist seit den Ereignissen der ersten Staffel vergangen. Picard ist wieder Admiral, Musiker ist Captain der Excelsior und Rios Captain der Stargazer. Elnor ist Kadett der Sternenflotte. Als die Stargazer eine Anomalie entdeckt und Jurati in einer Übertragung einen Hilferuf nach Picard findet, folgt Picard der Stargazer. Als Picard ankommt, wird klar, dass der Hilferuf von den Borg kommt. Die Borg versuchen, die Stargazer zu übernehmen. Picard aktiviert die Selbstzerstörung. Als das Schiff explodiert, wacht Picard in einem veränderten Weingut auf. Q erscheint und deutet an, dass diese Umgebung in einer alternativen Zeitlinie ist.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/9BNLj1NdpB8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E2",
+					"name": "Penance",
+					"datePublished": "2022-03-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Buße",
+						"datePublished": "2022-03-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"@type": "Person",
+						"name": "Doug Aarniokoski"
+					},
+					"abstract": "Picard learns from Q that he and his crew have been placed in an alternate timeline where, instead of the Federation, humanity has unified into the xenophobic “Confederation of Earth”, systematically eradicating and enslaving all other alien races. Picard, hailed as the Confederation’s greatest military commander, has been granted the honor of executing the last Borg Queen by Seven of Nine, who in this timeline is the President of the Confederation, whose husband is First Magistrate. After realizing their situation and that only by traveling to the past can they prevent the Confederation’s formation and thus prove to Q that humans are capable of peaceful coexistence with other races, Picard forms a plan to rescue the Queen by having Raffi, Elnor, and Agnes infiltrate the Confederation’s headquarters and get access to a transporter while Rios obtains a ship. Agnes only barely manages to obtain the necessary coordinates, resulting in the First Magistrate learning of their deception. Aboard the ship, Agnes connects the Queen to the mainframe over Rios’ objections to initiate time travel. The First Magistrate, with security, beams aboard; they shoot and wound Elnor, and prepare to execute Picard and his crew for treason.",
+					"description": "Picard erfährt, dass er und seine Gefährten sich in einer alternativen Zeitlinie befinden, in der die Menschheit die fremdenfeindliche „Konföderation der Erde“ gebildet hat, die systematisch außerirdische Rassen auslöscht oder versklavt. Picard, dem größten Militärbefehlshaber der Konföderation, wurde von Seven of Nine, der Präsidentin der Konföderation und mit dem Magistrat verheiratet, die Ehre zuteil, die letzte Borg-Königin hinzurichten. Die Gruppe kommt wieder zusammen und erfährt von der Borg-Königin, dass sie die Gründung der Konföderation verhindern kann, indem sie 2024 nach Los Angeles reist, was sie nur mit der Hilfe der Königin tun können. Agnes, Raffi und Elnor übernehmen die Kontrolle über die Kommunikations- und Transportsysteme im Hauptquartier der Konföderation, während Seven und Picard Zeit bei der öffentlichen Hinrichtung gewinnen. Als die Menge und der Magistrat zunehmend besorgt über ihr Hinhalten sind, erfüllen die anderen ihre Ziele und Picard, Seven, Agnes, Raffi, Elnor und die Königin werden auf Rios’ Schiff gebeamt. Sie bereiten sich darauf vor, eine Zeitreise einzuleiten, als der Magistrat und die Sicherheitsbeamten an Bord beamen, auf Elnor schießen, ihn verwunden und sich darauf vorbereiten, sie alle wegen Hochverrats hinzurichten.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/RHDbmTugriw"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E3",
+					"name": "Assimilation",
+					"datePublished": "2022-03-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Assimilation",
+						"datePublished": "2022-03-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeaThompson",
+						"@type": "Person",
+						"name": "Lea Thompson"
+					},
+					"abstract": "Seven distracts the Magistrate long enough for the group to overpower and kill him and his officers. The ship comes under attack, and the Queen takes advantage of the situation to directly connect herself to the ship’s computers. She swiftly destroys their pursuers before taking control of the helm and transporting Picard’s crew to 2024 Los Angeles, where they must find the “Watcher”. The ship crashes, and the Queen diverts all power, including from the medical bay, to sustain herself. Elnor dies of his wounds and Raffi angrily blames Picard before departing with Seven and Rios to start searching for the Watcher. Rios’ transporter malfunctions and he gets knocked out, waking up in a secret clinic that treats undocumented immigrants. Before he can leave, immigration officers raid the clinic. Rios manages to get the patients out before being arrested, accidentally leaving his communicator behind. Agnes defies Picard’s warnings and allows the Queen to begin assimilating her, which enables her to learn valuable information before severing their connection. The Queen informs Agnes that she has done something unexpected: impress her.",
+					"description": "Die kleine Gruppe schafft es, den Magistraten und die anderen Offiziere zu töten. Durch Eingreifen der Borg-Königin gelingt es ihnen auch, Verfolgerschiffe zu zerstören. Ebenfalls mit der Hilfe der Borg-Königin und unter Anwendung eines Parabelfluges um die Sonne, den in früheren Zeiten schon Captain James T. Kirk mit seiner Crew für einen Zeitsprung nutzte, gelangen sie ins Jahr 2024, wo der Ursprung der veränderten Zeitlinie liegen soll. Im Los Angeles dieses Jahres soll es laut der Borg-Königin auch einen sogenannten Wächter geben, der ihnen helfen kann. Elnor stirbt jedoch an Schussverletzungen. Rios, Seven und Raffi beamen sich nach Los Angeles, und Picard und Agnes Jurati versuchen, zur Borg-Königin durchzudringen, die offline ist, um ihr weitere Informationen zu entlocken. Während sich Seven und Raffi zu einem Hochhaus begeben, um von dort die Gegend besser nach dem Wächter scannen zu können, wacht Rios nach dem Transport in einer Klinik für illegale Einwanderer auf. Dort freundet er sich mit einer Ärztin und ihrem Sohn an, bevor die Klinik von Beamten der Behörden gestürmt wird und er seinen Kommunikator verliert. Agnes gelingt es derweil, sich mit der Borg-Königin zu verbinden und findet, ohne assimiliert zu werden, den Standort des Wächters heraus.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/B9kX_RDijqY"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E4",
+					"name": "Watcher",
+					"datePublished": "2022-03-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wächter",
+						"datePublished": "2022-03-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeaThompson",
+						"@type": "Person",
+						"name": "Lea Thompson"
+					},
+					"abstract": "Picard and Agnes learn from Agnes’s connection to the Queen that the change to the timeline they must prevent, to avoid the dark future of the Confederation, will happen in three days time on April 15, 2024. Picard transports to the location Agnes learned from the Queen, and finds a younger version of Guinan who does not know him and is planning to leave Earth due to humanity’s dark ways. Seven and Raffi search for Rios, who is processed by immigration and sent to a sanctuary district on the U.S. border. They are able to track the bus that Rios is in with the help of Agnes, who tricks the Queen into fixing certain parts of La Sirena to aid in better transporting. After Picard reveals his name and explains that he is looking for a watcher, Guinan leads him to someone who is also known as a supervisor and is acting as a guardian angel for someone on Earth. This person looks like a human version of Laris, who teleports away with Picard. Meanwhile, Q approaches a woman who is working on the planned Europa spaceflight mission. Q attempts to alter her destiny, and is surprised that he is unable to.",
+					"description": "Picard und Agnes erfahren von Agnes’ Verbindung zur Königin, dass die Änderung der Zeitlinie, die sie verhindern müssen, um die dunkle Zukunft der Konföderation zu vermeiden, in drei Tagen am 15. April 2024 stattfinden wird. Picard befördert sich zu dem Ort, von dem Agnes von der Königin erfahren hat und findet eine jüngere Version von Guinan, die ihn nicht kennt und plant, die Erde aufgrund der dunklen Wege der Menschheit zu verlassen. Seven und Raffi suchen nach Rios, der von der Einwanderungsbehörde bearbeitet und in einen Schutzbezirk an der US-Grenze gebracht wird. Sie können den Bus, in dem Rios sitzt, mit Hilfe von Agnes verfolgen, die die Königin dazu bringt, bestimmte Teile von La Sirena zu reparieren, um den Transport zu erleichtern. Nachdem Picard seinen Namen preisgegeben und erklärt hat, dass er nach einem Wächter sucht, führt ihn Guinan zu jemandem, der auch als Aufseher bekannt ist und als Schutzengel für jemanden auf der Erde fungiert. Diese Person sieht aus wie eine menschliche Version von Laris, die sich mit Picard wegteleportiert. Währenddessen nähert sich Q einer Frau, die an der geplanten Europa-Raumflugmission arbeitet. Q versucht, ihr Schicksal zu ändern und ist überrascht, dass ihm das nicht gelingt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/74p0A7sN-_I"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E5",
+					"name": "Fly Me to the Moon",
+					"datePublished": "2022-03-31",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Flieg mich zum Mond",
+						"datePublished": "2022-04-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"abstract": "The Supervisor reveals to Picard that she has been tasked with protecting his ancestor Renee Picard, the same woman whom Q had targeted earlier. Q secretly approaches Dr. Adam Soong, Renee’s ostracized colleague, and explains how he knows Soong is desperate to find a cure for his daughter’s terminal genetic illness. In exchange for a vial of medicine that can save her life, he requests that Soong help him deal with Renee. Seven and Raffi catch up to Rios’ bus and help him escape ICE custody. Back on La Sirena, the Queen taps into the ship’s communications to broadcast an emergency call and lure a policeman onto the ship, attempting to assimilate him; Agnes is subsequently forced to shoot her. Agnes is then tricked into letting herself be injected with nanites, putting her under the Queen’s control. Unsure of what exactly Renee’s role in future events will be, Picard, assisted by the Supervisor, Rios, and Agnes, infiltrates a gala to spy on her. Agnes is detained by the gala’s security; the Queen muses that she only let them capture her.",
+					"description": "Die Supervisorin Tallinn enthüllt Picard, dass sie damit beauftragt wurde, seine Vorfahrin Renee Picard zu beschützen, dieselbe Frau, die Q zuvor ins Visier genommen hatte. Q wendet sich an Dr. Adam Soong, einen in Ungnade gefallenen Genetiker, der verzweifelt nach einem Heilmittel für die tödliche genetische Krankheit seiner Tochter Kore sucht. Als Gegenleistung für eine Phiole mit Medizin, die Kores Leben retten kann, bittet er Soong, ihm bei der Behandlung von Renee zu helfen. Seven und Raffi holen Rios’ Bus ein und helfen ihm, der ICE-Haft zu entkommen. Zurück auf der La Sirena zapft die Königin die Schiffskommunikation an, um einen Notruf auszusenden und einen Polizisten auf das Schiff zu locken. Agnes erschießt die Königin, um sie daran zu hindern, den Polizisten zu assimilieren, aber die sterbende Königin injiziert Agnes Borg-Nanosonden. Picard ist sich nicht sicher, welche Rolle Renee bei zukünftigen Ereignissen spielen wird, und schickt Agnes los, um eine Gala zu infiltrieren, um sie auszuspionieren. Agnes, mit dem Bewusstsein der Borg-Königin in ihrem Kopf, lässt sich von den Wachleuten der Gala festnehmen.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/baV5wQOsqp8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E6",
+					"name": "Two of One",
+					"datePublished": "2022-04-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Gala",
+						"alternateName": "Zwei von Eins",
+						"datePublished": "2022-04-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"abstract": "Picard, Tallinn, and Rios use assumed identities provided by Agnes (with the Queen’s help) to enter the gala. Before Picard can approach Renee, he is confronted by Soong, who threatens him and attempts to alert security. Agnes then cuts the lights, before creating a distraction by singing a jazz cover of “Shadows of the Night”. The resulting rush of endorphins to her brain removes the last barrier to the Queen, enabling her to fully assimilate Agnes. Picard finds Renee by herself in a space exhibit and convinces her to go through with the mission by sharing a memory of his mother Yvette urging him to explore the galaxy. Soong sees him walking outside, and furiously runs over Picard with his car. Rushing home, he starts deliriously ranting at Kore before going to bed. Kore discovers his research notes and learns that she is one of dozens of clones created by Soong, all of whom died except for her. At the hospital, Tallinn decides to enter a comatose Picard’s mind to save his life. The Queen, posing as Agnes, abandons the crew to carry out her own plans.",
+					"description": "Picard, Tallinn und Rios verwenden falsche Identitäten, die Agnes erstellt hat, um an der Gala teilzunehmen. Agnes schleust diese mit Hilfe der Königin ins System. Bevor Picard sich Renée nähern kann, stellt sich ihm Soong und alarmiert das Sicherheitspersonal. Agnes und die Königin sorgen für eine Ablenkung, indem sie durch einen EMP das Licht ausschalten und dann ein Jazz-Cover von „Shadows of the Night“ singen. Der daraus resultierende Endorphinschub in Agnes’ Gehirn beseitigt die letzte Barriere für die Königin und ermöglicht ihr, Agnes vollständig zu übernehmen. Picard findet Renée alleine in einer Raumfahrtausstellung und überzeugt sie, die Mission anzutreten, indem er eine Erinnerung an seine Mutter Yvette mit ihr teilt, die ihn drängt, die Galaxie zu erkunden. Soong sieht Renée und Picard nach draußen gehen und versucht, Renée mit seinem Auto zu überfahren. Picard rettet sie, indem er sie aus dem Weg stößt, und wird dabei selbst angefahren. Tallinn, Seven, Raffi und Rios bringen Picard zu Teresas Klinik. Soong eilt nach Hause und schimpft wie wahnsinnig, bevor er ins Bett geht. Kore untersucht seine Forschungsnotizen und erfährt, dass sie der letzte von Dutzenden von Klonen ist, die von Soong erstellt wurden, und dass alle anderen starben. In Teresas Klinik beschließt Tallinn, in den Verstand des komatösen Picard einzudringen, um ihn wieder zu Bewusstsein zu bringen. Die Königin, im Körper von Agnes, geht alleine in die Nacht.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/hdwxPcHSgIs"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E7",
+					"name": "Monsters",
+					"datePublished": "2022-04-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": " Monster",
+						"datePublished": "2022-04-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JoeMenendez",
+						"@type": "Person",
+						"name": "Joe Menendez"
+					},
+					"abstract": "Inside his mind, Picard relives part of a memory from his childhood where his apparently abusive father Maurice chased Picard’s younger self and his mother Yvette through the house. Tallinn helps Picard realize that his mother was actually struggling with mental illness and Maurice was just trying to protect her and Picard. Picard wakes up from his coma and Tallinn reveals that she is actually Romulan and possibly Laris’s ancestor. Picard theorizes that Q may have a personal stake in his “trial” and asks Guinan to summon Q using an El-Aurian ritual; the ritual fails just as an FBI agent enters the bar and arrests them based on surveillance footage of Picard using his transporter. Rios secretly brings Teresa and her son onto La Sirena, confessing that he is a time-traveler. Raffi and Seven discover that the ship’s computers have been sabotaged with Borg encryption codes and begin tracking Agnes. They find a bar where she smashed a window and realize that the Queen is trying to create more endorphins in Agnes until she has enough power to assimilate more people and become a new Borg Queen.",
+					"description": "In seinem Kopf durchlebt Picard einen Teil einer Erinnerung aus seiner Kindheit, als sein anscheinend missbräuchlicher Vater Maurice Picards jüngeres Ich und seine Mutter Yvette durch das Haus jagte. Tallinn hilft Picard zu erkennen, dass seine Mutter tatsächlich mit einer Geisteskrankheit zu kämpfen hatte und Maurice nur versuchte, sie und Picard zu beschützen. Picard erwacht aus seinem Koma und Tallinn enthüllt, dass sie tatsächlich Romulanerin und möglicherweise Laris’ Vorfahrin ist. Picard vermutet, dass Q einen persönlichen Anteil an seinem „Prozess“ haben könnte und bittet Guinan, Q mit einem El-Aurian-Ritual zu beschwören. Das Ritual schlägt fehl, als ein FBI-Agent die Bar betritt und sie festnimmt, basierend auf Überwachungsaufnahmen, die zeigen, wie Picard seinen Transporter benutzt. Rios bringt Teresa und ihren Sohn heimlich auf die La Sirena und gesteht, dass er Raumfahrer ist. Raffi und Seven entdecken, dass die Schiffscomputer mit Borg-Verschlüsselungscodes sabotiert wurden und beginnen, Agnes zu verfolgen. Sie finden eine Bar, in der sie ein Fenster eingeschlagen hat, und stellen fest, dass die Königin versucht, mehr Endorphine in Agnes zu erzeugen, bis sie genug Kraft hat, um Menschen zu assimilieren und zu einer neuen Borg-Königin zu werden.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/hklE5e71_k8"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E8",
+					"name": "Mercy",
+					"datePublished": "2022-04-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gnade",
+						"datePublished": "2022-04-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JoeMenendez",
+						"@type": "Person",
+						"name": "Joe Menendez"
+					},
+					"abstract": "Welles tries to make Picard and Guinan confess to being aliens. He separates them, and Guinan is visited by Q who explains that he is dying and that the “trial” is a final attempt to give his own life meaning. He notes that all humans are stuck in the past, and Guinan uses astral projection to share this message with Picard. Welles reveals that he encountered aliens when he was a child and thought they wanted to kill him, but Picard explains that these were Vulcans who only tried to erase his memories. Welles is forced to release Picard and Guinan after the FBI dismisses him for conducting an illegal investigation. Meanwhile, Raffi and Seven find the Queen collecting car and phone batteries to modify Jurati’s body and make it capable of assimilation. She attacks them, but Agnes is able to force her to stop and leave. After learning about her true nature, Kore leaves her father with help from Q. The Queen persuades Soong that he can save his legacy by helping her steal La Sirena, thereby enabling her to conquer the galaxy. Soong provides her with a squad of mercenaries to convert into Borg drones.",
+					"description": "Welles versucht, Picard und Guinan dazu zu bringen, zu gestehen, Außerirdische zu sein. Er trennt sie voneinander, und Guinan wird von Q besucht, der erklärt, dass er im Sterben liegt und dass der „Prozess“ ein letzter Versuch ist, seinem eigenen Leben einen Sinn zu geben. Er stellt fest, dass alle Menschen in der Vergangenheit stecken und Guinan benutzt eine Astralprojektion, um diese Botschaft mit Picard zu teilen. Welles enthüllt, dass er als Kind auf Aliens gestoßen ist und dachte, sie wollten ihn töten, aber Picard erklärt, dass dies Vulkanier waren, die nur versucht haben, seine Erinnerungen zu löschen. Welles ist gezwungen, Picard und Guinan freizulassen, nachdem ihn das FBI wegen illegaler Ermittlungen entlassen hat. Währenddessen finden Raffi und Seven die Borg-Königin, die Auto- und Handybatterien sammelt, um Juratis Körper zu modifizieren und die Fähigkeit zum Assimilieren zu erlangen. Sie greift die beiden an, aber ein Rest von Agnes’ Bewusstsein bringt die Borg-Königin dazu, sie zu verschonen. Nachdem Kore von ihrer wahren Natur erfahren hat, verlässt sie ihren Vater mit Hilfe von Q. Die Borg-Königin überzeugt Soong, dass er sein Vermächtnis retten kann, indem er ihr hilft, die La Sirena zu stehlen und ihr so ermöglicht, die Galaxie zu erobern. Soong stellt ihr eine Gruppe Söldner zur Verfügung, die sie in Borg-Drohnen umwandelt.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/NN4Wj2eNmQ0"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E9",
+					"name": "Hide and Seek",
+					"datePublished": "2022-04-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Versteckspiel",
+						"datePublished": "2022-04-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelWeaver",
+						"@type": "Person",
+						"name": "Michael Weaver"
+					},
+					"abstract": "Picard sends Raffi and Seven to protect La Sirena, while he and Tallinn distract Soong and the drones. With help from a hologram of Elnor, which Agnes had programmed, Raffi and Seven eliminate the Borg sent to kill them, but the Queen transfers her abilities from her original body into her new one, erases Elnor’s hologram, and mortally wounds Seven. Picard orders Rios to transport Teresa and her son to safety, then cuts the transporter signal to protect him. He and Tallinn go into the tunnels beneath the chateau, where Picard recalls a memory of witnessing his mother commit suicide during a game of hide-and-seek and Tallinn helps him come to terms with his trauma. Soong corners them, but Rios (having fixed the signal), appears and forces him to flee. The Queen is confronted by Agnes, who argues that seeking perfection through conquest is meaningless. The Queen heals Seven and offers a deal: she and Agnes will take La Sirena and build a Borg collective through cooperation. The Queen also warns Picard that there must be “two” versions of Renée, one who will fly the Europa mission and one who will die.",
+					"description": "Picard schickt Raffi und Seven, um La Sirena zu beschützen, während er und Tallinn Soong und die Drohnen ablenken. Mit Hilfe eines Hologramms von Elnor, das Agnes programmiert hatte, eliminieren Raffi und Seven die Borg, die geschickt wurden, um sie zu töten, aber die Königin überträgt ihre Fähigkeiten von ihrem ursprünglichen Körper in ihren neuen, löscht Elnors Hologramm und verwundet Seven tödlich. Picard befiehlt Rios, Teresa und ihren Sohn in Sicherheit zu bringen, und unterbricht dann das Signal des Transporters, um ihn zu schützen. Er und Tallinn gehen in die Tunnel unter dem Schloss, wo Picard sich an eine Erinnerung erinnert, wie er Zeuge des Selbstmords seiner Mutter während eines Versteckspiels wurde und Tallinn ihm hilft, sein Trauma zu verarbeiten. Soong bringt sie in die Enge, aber Rios (der das Signal repariert hat) erscheint und zwingt ihn zur Flucht. Die Königin wird von Agnes konfrontiert, die argumentiert, dass das Streben nach Perfektion durch Eroberung bedeutungslos ist. Die Königin heilt Seven und bietet einen Deal an: Sie und Agnes werden La Sirena übernehmen und durch Zusammenarbeit ein Borg-Kollektiv aufbauen. Die Königin warnt Picard auch, dass es „zwei“ Versionen von Renée geben muss, eine, die die Europa-Mission fliegen wird, und eine, die sterben wird.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/WDfmP4mRVVk"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E10",
+					"name": "Farewell",
+					"datePublished": "2022-05-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Abschied",
+						"datePublished": "2022-05-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelWeaver",
+						"@type": "Person",
+						"name": "Michael Weaver"
+					},
+				"abstract": "Despite Picard’s protests, Tallinn interprets the Queen’s message as her needing to sacrifice herself to save Renée. She uses a holographic disguise to thwart Soong’s murder attempt on Renée, and dies in Picard’s arms while Renée departs on the Europa mission. After his failure, Soong returns home to find that Kore has deleted his digital files, though he still has a physical file labeled “Project Khan”. Kore is recruited to join the Travelers by Wesley Crusher, and Rios decides to stay in the past with Teresa. Q and Picard discuss the purpose of the trial, with Q hoping that Picard has learned to let go of the past and accept love. Q then uses the last of his power to send Picard, Seven, and Raffi back to the Stargazer in their own timeline, where Elnor is alive. Picard recognizes that this Borg Queen is Agnes, whose collective has detected a new trans-warp conduit that they offer to monitor as provisional members of the Federation. After reuniting with the older Guinan and learning about Rios’s life in the 21st century, Picard returns to his chateau and asks Laris for a second chance at being together.",
+					"description": "Picard erkennt, was die Botschaft der Königin bedeutet: Tallinn muss sich opfern, um Renées Überleben zu sichern. Er versucht sie aufzuhalten, aber Tallinn spricht ihm das Recht ab, über ihr Leben zu entscheiden. Sie verwendet eine holografische Verkleidung, um mit Renée die Plätze zu tauschen, und kann damit Soongs Versuch vereiteln, Renée mit einem Neurotoxin zu ermorden. Picard findet die sterbende Tallinn und tröstet sie, während Renée erfolgreich zur Europa-Mission aufbricht. Kore hat sich von ihrem „Vater“ Dr. Soong abgewandt und löscht dessen Forschungsergebnisse in seinen Computern. Danach wird ihr von einem Reisenden, der sich als Wesley Crusher vorstellt, angeboten sich den Reisenden anzuschließen. Obwohl dies nicht ungefährlich sei, stimmt sie zu. Q erklärt Picard die Motive seiner Zeitmanipulation: Angesichts seines eigenen bevorstehenden einsamen Todes wollte er verhindern, dass es Picard ebenso ergeht. Obwohl Q es bestreitet, vermutet Picard, dass Q ihn auf eine unbekannte Katastrophe in der Zukunft vorbereitet, indem er ihm half, die Dämonen seiner Vergangenheit zu überwinden. Rios beschließt, bei Teresa in der Vergangenheit zu bleiben. Q nutzt dann seine verbleibende Kraft, um Picard, Seven und Raffi in ihre eigene Zeit auf die Stargazer zurückzuschicken und Elnor wiederzubeleben. Picard stoppt die Selbstzerstörung des Raumschiffes und die Borgkönigin gibt sich daraufhin als Agnes zu erkennen. Sie erklärt, dass die Borg das Auftauchen eines Trans-Warp-Kanals im Weltraum vorausgesehen haben, dessen Explosionsenergie nur mittels der vereinten Schilde der Föderationsschiffe abgefangen werden kann. Agnes beantragt für die Borg die vorläufige Aufnahme in die Föderation, um den Trans-Warp-Kanal zu überwachen und zu untersuchen. Picard geht zurück zu seinem Schloss, findet Laris und gesteht ihr seine Gefühle.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/TjewWT-W93w"
+						}
+					}
+				}
+			]
+		}
+	]
+}

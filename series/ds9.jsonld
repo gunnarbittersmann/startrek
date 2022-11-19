@@ -1,0 +1,3195 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: Deep Space Nine",
+	"identifier": "DS9",
+	"inLanguage": "en",
+	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Episodenliste",
+	"numberOfSeasons": 7,
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_1",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E1, S1:E2",
+					"name": "Emissary",
+					"datePublished": "1992-12-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Abgesandte",
+						"datePublished": "1994-01-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
+						"@type": "Person",
+						"name": "David Carson"
+					},
+					"description": "Im Jahr 2369 endet die Okkupation der Cardassianer über die Bajoraner, auch als Folge andauernden bajoranischen Widerstands. Dabei ziehen sich die bisherigen Besatzer von der im Orbit von Bajor gelegenen Raumstation Deep Space Nine zurück, auf der sie zuvor unter Einsatz bajoranischer Zwangsarbeiter Erzaufbereitung betrieben. Um politische Stabilität in dieser Gegend des Universums zu sichern und den Bajoranern bei der Schaffung der Voraussetzungen für den Beitritt zur Föderation zu helfen, übernimmt die Vereinte Föderation der Planeten, unterstützt von Bajoranern, den Betrieb der Station. Das Kommando erhält der Sternenflottenoffizier Benjamin Sisko. Weil sich das untereinander zerstrittene bajoranische Volk von Sisko erhofft, die Bajoraner miteinander zu vereinigen, wird er von den „Propheten“, den Göttern der Bajoraner, dazu auserkoren, entsprechend einer lange währenden bajoranischen Prophezeiung als „Abgesandter“ den „Himmelstempel“ zu entdecken. Wenig später entdeckt Sisko mit Hilfe seiner Crew in der Nähe von Bajor ein künstliches, stabiles Wurmloch, das zeitsparendes Reisen in eine 70.000 Lichtjahre entfernte Gegend des bislang kaum erforschten Gamma-Quadranten ermöglicht. Um die eigenen Ansprüche an der Nutzung des Wurmlochs zu sichern und denen der Cardassianer zuvorzukommen, verlegen Föderation und Bajoraner die Station direkt vor den Eingang des Wurmlochs. Das Wurmloch beziehungsweise der Himmelstempel wird von Wesen bewohnt, die abseits räumlicher und zeitlicher Existenz leben und die die Bajoraner als die Propheten verehren. Gemäß dem bajoranischen Glauben bestimmen diese die Geschicke Bajors. Nachdem Sisko die Wesen im Wurmloch davon überzeugt hat, dass die Föderation keine bösen Absichten hat, gewähren sie allen Raumschiffen freies Geleit durch das Wurmloch."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E3",
+					"name": "Past Prologue",
+					"datePublished": "1993-01-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Khon-Ma",
+						"datePublished": "1994-01-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Der Bajoraner Tahna versucht als Mitglied der Terroristengruppe Khon-Ma, das Wurmloch zu zerstören, um Bajor dadurch unattraktiver sowohl für die Cardassianer als auch für die Föderation zu machen. Kira kann Tahnas Plan in letzter Sekunde durchkreuzen und ihn stoppen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E4",
+					"name": "A Man Alone",
+					"datePublished": "1993-01-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unter Verdacht",
+						"datePublished": "1994-02-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
+						"@type": "Person",
+						"name": "Paul Lynch"
+					},
+					"description": "Nach dem Mord an dem Bajoraner Ibudan ist Odo der Hauptverdächtige. Es stellt sich heraus, dass Ibudan einen Klon von sich angefertigt und diesen anschließend getötet hat, um Odo den Mord anzuhängen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E5",
+					"name": "Babel",
+					"datePublished": "1993-01-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Babel",
+						"datePublished": "1994-02-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
+						"@type": "Person",
+						"name": "Paul Lynch"
+					},
+					"description": "O’Brien setzt versehentlich eine Sabotageeinrichtung der Bajoraner aus der Besatzungszeit in Gang. Dadurch wird ein Virus freigesetzt, das das Sprachvermögen beeinträchtigt und schließlich zum Tod führt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E6",
+					"name": "Captive Pursuit",
+					"datePublished": "1993-01-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Tosk, der Gejagte",
+						"datePublished": "1994-02-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
+						"@type": "Person",
+						"name": "Corey Allen"
+					},
+					"description": "Nach der Entdeckung des Wurmlochs kommt es beiderseits der Passage zunehmend zu Kontakten der Stationsbesatzung mit Vertretern bislang fremder Spezies aus dem Gamma-Quadranten. Dazu gehört auch Tosk von der gleichnamigen Spezies, der nur existiert, um gejagt zu werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E7",
+					"name": "Q-Less",
+					"datePublished": "1993-02-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Q – unerwünscht",
+						"datePublished": "1994-02-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
+						"@type": "Person",
+						"name": "Paul Lynch"
+					},
+					"description": "Bei einer Expedition in den Gamma-Quadranten stößt Dax auf Picards Freundin Vash. Nach der Rückkehr zur Station verliert DS9 zunehmend Energie, fliegt auf das Wurmloch zu und droht dabei zerstört zu werden. O’Brien entdeckt den allmächtigen Q auf der Station, der versucht Vash davon zu überzeugen wieder mit ihm durch den Weltraum zu reisen. O’Brien vermutet, dass er hinter den Problemen steckt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E8",
+					"name": "Dax",
+					"datePublished": "1993-02-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Fall „Dax“",
+						"datePublished": "1994-03-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
+						"@type": "Person",
+						"name": "David Carson"
+					},
+					"description": "Dax soll von der Station entführt werden, da man ihr einen Mord vorwirft und sie vor Gericht gestellt werden soll. Die Entführung kann jedoch verhindert werden und Sisko weigert sich Dax auszuliefern, da DS9 eine bajoranische Station ist und somit kein Auslieferungsabkommen besteht. Eine Gerichtsverhandlung soll den Fall jetzt klären."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E9",
+					"name": "The Passenger",
+					"datePublished": "1993-02-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Parasit",
+						"datePublished": "1994-03-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
+						"@type": "Person",
+						"name": "Paul Lynch"
+					},
+					"description": "Bashir und Kira stoßen auf ein stark beschädigtes Schiff, auf dem der Verbrecher Vantika transportiert wird. Obwohl der Gefangene stirbt, ist Kajada, die ihn bewachte, sehr misstrauisch und vermutet, dass Vantika noch lebt. In der Folge kommt es zu Zwischenfällen auf der Station, die vermuten lassen, dass Kajada recht hat."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E10",
+					"name": "Move Along Home",
+					"datePublished": "1993-03-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Chula – das Spiel",
+						"datePublished": "1994-03-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
+						"@type": "Person",
+						"name": "David Carson"
+					},
+					"description": "Bei einem Erstkontakt, empfängt die Besatzung von DS9 die Wadi, ein Volk aus dem Gamma-Quadrant, das Spiele über alles liebt. Als Quark versucht sie zu betrügen fordern die Wadi ihn zu einem ihrer Spiel heraus. Sisko, Kira, Dax und Bashir sind daraufhin verschwunden und finden sich in einer surrealen Umgebung wieder wo man sie auffordert zum Ziel zu gehen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E11",
+					"name": "The Nagus",
+					"datePublished": "1993-03-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Nachfolge",
+						"datePublished": "1994-03-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Der höchste Ferengi, der Große Nagus Zek, kommt auf die Station und ernennt Quark zu seinem Nachfolger."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E12",
+					"name": "Vortex",
+					"datePublished": "1993-04-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Steinwandler",
+						"datePublished": "1994-04-03"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Bei einem illegalen Geschäft kommt es zu einem Kampf, bei dem Ro-Kel, ein Zwillingsmiradone von Croden erschossen wird. Sein Bruder Ah-kel schwört nun Rache am Mörder seines Bruders. Odo nimmt Croden, der behauptet mehr über Formwandler zu wissen, in Gewahrsam."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E13",
+					"name": "Battle Lines",
+					"datePublished": "1993-04-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Prophezeiung",
+						"datePublished": "1994-04-10"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
+						"@type": "Person",
+						"name": "Paul Lynch"
+					},
+					"description": "Bei einer Reise in den Gamma-Quadranten stirbt Kai Opaka, die religiöse Führerin der Bajoraner, als das Runabout auf einem Mond abstürzt. Dort tobt seit Jahrhunderten ein Krieg zwischen zwei verfeindeten Gruppen in den nun auch die Besatzung von DS9 hineingezogen wird. Allerdings wird Opaka wieder zum Leben erweckt, jedoch kann sie den Planeten nicht mehr verlassen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E14",
+					"name": "The Storyteller",
+					"datePublished": "1993-05-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Legende von Dal’Rok",
+						"datePublished": "1994-04-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "O’Brien und Bashir werden in einem Dorf auf Bajor von der Bevölkerung auserwählt um gegen ein mächtiges Energiewesen, das Dal’Rok, zu kämpfen. Derweilen laufen auf DS9 Verhandlungen zwischen rivalisierenden bajoranischen Völkergruppen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E15",
+					"name": "Progress",
+					"datePublished": "1993-05-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Mulliboks Mond",
+						"datePublished": "1994-04-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Ein Mond soll zur Energiegewinnung genutzt werden und muss daher evakuiert werden. Kira trifft auf Mullibok, der seine Heimat nicht verlassen will."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E16",
+					"name": "If Wishes Were Horses",
+					"datePublished": "1993-05-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Macht der Phantasie",
+						"datePublished": "1994-05-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RobertLegato",
+						"@type": "Person",
+						"name": "Robert Legato"
+					},
+					"description": "Auf DS9 erscheinen lebendig gewordene Phantasiewesen. Die Station droht außerdem von einem Subraumphänomen zerstört zu werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E17",
+					"name": "The Forsaken",
+					"datePublished": "1993-05-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Persönlichkeiten",
+						"datePublished": "1994-05-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Zahlreiche Botschafter der Föderation treffen sich auf DS9 um das Wurmloch zu besichtigen, unter ihnen auch Lwaxana Troi. Die Station wird außerdem von einer außerirdischen Sonde bedroht."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E18",
+					"name": "Dramatis Personae",
+					"datePublished": "1993-05-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Meuterei",
+						"datePublished": "1994-05-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Nachdem ein klingonisches Schiff, das aus dem Gamma-Quadranten zurückgekehrt ist, explodierte und ein Besatzungsmitglied nur noch tot zur Station gebeamt werden konnte, beginnen die Crewmitglieder von DS9 gegeneinander zu intrigieren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E19",
+					"name": "Duet",
+					"datePublished": "1993-06-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der undurchschaubare Marritza",
+						"datePublished": "1994-05-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Der Cardassianer Marritza kommt auf die Station. In ihm erkennt Kira einen gesuchten Kriegsverbrecher. Es stellt sich aber heraus, dass er diese Rolle nur vorgetäuscht hat, um das cardassianische Volk dazu zu zwingen, dessen Schuld für die cardassianischen Gräueltaten während der Besatzung Bajors einzugestehen. Schließlich wird Marritza durch einen Bajoraner getötet. Als Grund gibt er an, dass Marritza Cardassianer war und dies Grund genug sei."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E20",
+					"name": "In The Hands Of The Prophets",
+					"datePublished": "1993-06-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Blasphemie",
+						"datePublished": "1994-05-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Das sich auf Bajor vergrößernde Machtvakuum ausnutzend, versucht die intrigante, orthodoxe Bajoranerin Vedek Winn, mit einem Mordanschlag einen ihrer Konkurrenten um die Nachfolge als religiöses Oberhaupt zu beseitigen. Sisko kann den Anschlag aber in letzter Sekunde vereiteln."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_2",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E1",
+					"name": "The Homecoming (1)",
+					"datePublished": "1993-09-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Heimkehr (1)",
+						"datePublished": "1994-08-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Kira befreit aus einem cardassianischen Arbeitslager den bajoranischen Helden Li Nalas. Daraufhin wird sie von Minister Jaro von ihren Pflichten entbunden und Li Nalas übernimmt ihre Position als Verbindungsoffizier auf DS9."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E2",
+					"name": "The Circle (2)",
+					"datePublished": "1993-10-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Kreis (2)",
+						"datePublished": "1994-08-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
+						"@type": "Person",
+						"name": "Corey Allen"
+					},
+					"description": "Die politische Krise auf Bajor spitzt sich zu. „Der Kreis“ eine Gruppe bajoranischer Fundamentalisten plant die Macht zu übernehmen. Mit Hilfe der machtbesessenen Vedek Win gelingt es den Bajoranern die Föderation von DS9 zu vertreiben. Die Bajoraner wissen nicht, dass sie von den Cardassianern die Waffen für diesen Staatsstreich erhalten haben."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E3",
+					"name": "The Siege (3)",
+					"datePublished": "1993-10-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Belagerung (3)",
+						"datePublished": "1994-08-31"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Obwohl Sisko die Station evakuieren lässt, gelingt es ihm die Station mit einigen Freiwilligen zu sabotieren und die Stellung zu halten. Kira und Dax schaffen es auf Bajor die Regierung von der Einmischung der Cardassianer zu überzeugen und den „Kreis“, dessen Anführer der Regierungschef ist, zu besiegen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E4",
+					"name": "Invasive Procedures",
+					"datePublished": "1993-10-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Symbiont",
+						"datePublished": "1994-09-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Da die Station durch einen Plasmasturm bedroht wird, wurde sie evakuiert und nur die Führungsoffiziere bleiben auf ihren Posten. Die Gelegenheit wird von dem Trill Verad genutzt um Jadzia zu zwingen ihm den Symbionten Dax zu überlassen. Jadzia kann allerdings ohne den Symbionten nicht überleben."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E5",
+					"name": "Cardassians",
+					"datePublished": "1993-10-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Konspiration",
+						"datePublished": "1994-09-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Ein junger Cardassianer, während des Krieges zum Waisen geworden und von Bajoranern aufgezogen, kommt auf die Station und greift Garak, den letzten Cardassianer auf der Station, an. Bashir entdeckt bei seinen Nachforschungen, dass es noch zahlreiche cardassianische Waisen auf Bajor gibt, die in politischen Ränkelspielen auf Cardassia eine große Rolle spielen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E6",
+					"name": "Melora",
+					"datePublished": "1993-10-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das „Melora“-Problem",
+						"datePublished": "1994-09-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Fähnrich Melora Pazlar kommt nach DS9. Sie stammt von einem Planeten mit geringer Schwerkraft und kann sich auf der Station nur mit Hilfe eines Rollstuhls bewegen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E7",
+					"name": "Rules Of Acquisition",
+					"datePublished": "1993-11-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Profit oder Partner!",
+						"datePublished": "1994-09-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Der Große Nagus Zek, der oberste Ferengi, macht Quark zum Teilhaber an Geschäften der Ferengi mit den Dosi, einer Rasse im Gamma-Quadranten, die zum Dominion gehört."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E8",
+					"name": "Necessary Evil",
+					"datePublished": "1993-11-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Ermittlung",
+						"datePublished": "1994-09-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "In Rückblenden werden Odos Ermittlungen in einem Mordfall geschildert, der sich fünf Jahre zuvor, während der cardassianischen Besatzung der Station, ereignete und in den auch Kira involviert war."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E9",
+					"name": "Second Sight",
+					"datePublished": "1993-11-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Rätselhafte Fenna",
+						"datePublished": "1994-09-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Sisko begegnet auf der Station einer Frau, in die er sich verliebt, die aber ständig verschwindet. Als er an Bord der USS Prometheus auf die Frau von Professor Seyetik trifft, erkennt er in ihr diese Frau. Sie kann sich allerdings an nichts erinnern."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E10",
+					"name": "Sanctuary",
+					"datePublished": "1993-11-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Auge des Universums",
+						"datePublished": "1994-09-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Die Skrreea kommen durch das Wurmloch auf die Station. Es handelt sich um eine Rasse, die aus ihrer Heimat vertrieben wurde und nun glaubt in Bajor die prophezeite Heimat gefunden zu haben. Doch die Bajoraner lehnen eine Ansiedlung der tausenden Fremden ab."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E11",
+					"name": "Rivals",
+					"datePublished": "1994-01-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Rivalen",
+						"datePublished": "1994-09-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Nachdem der Glücksritter Martus auf die Station gekommen ist, kommt es zu zahlreichen unwahrscheinlichen Ereignissen auf DS9."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E12",
+					"name": "The Alternate",
+					"datePublished": "1994-01-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Metamorphosen",
+						"datePublished": "1994-09-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
+						"@type": "Person",
+						"name": "David Carson"
+					},
+					"description": "Odo erhält zu seiner Enttäuschung Besuch von Dr. Mora Pol, dem bajoranischen Wissenschaftler, der mit ihm einst in Experimenten das Formwandeln übte. Pol hilft bei den Ermittlungen zur Aufklärung rätselhafter Vorfälle, als deren Verantwortlicher sich schließlich Odo herausstellt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E13",
+					"name": "Armageddon Game",
+					"datePublished": "1994-01-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Harvester-Desaster",
+						"datePublished": "1994-09-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Bashir und O’Brien sollen auf T’Lani Prime eine Waffe, die Harvester, unschädlich machen. Das gelingt auch, doch werden die Forscher nach dem Ende der Prozedur von Soldaten überfallen. Den beiden gelingt zwar die Flucht aber O’Brien hat sich mit Harvestern infiziert und droht zu sterben. Außerdem wurde von den T’Lani nach DS9 gemeldet, dass O’Brien und Bashir bei einem Unfall getötet worden seien."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E14",
+					"name": "Whispers",
+					"datePublished": "1994-02-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "O’Briens Identität",
+						"datePublished": "1994-09-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Als Miles O’Brien von den Paradas zurückkehrt, für deren Sicherheit er bei einer Konferenz auf DS9 sorgen soll, verhalten sich alle ihm gegenüber sehr merkwürdig. O’Brien vermutet eine Konspiration und fliegt zurück ins Parada System."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E15",
+					"name": "Paradise",
+					"datePublished": "1994-02-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Paradiesexperiment",
+						"datePublished": "1994-09-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
+						"@type": "Person",
+						"name": "Corey Allen"
+					},
+					"description": "Sisko und O’Brien stranden auf einem Planeten, wo sie auf eine Gemeinschaft stoßen, die sich dem einfachen Leben ohne Technik verschrieben hat und von der Anführerin Alixus beinah diktatorisch geführt wird. Sisko und O’Brien verstoßen durch ihre Bemühungen zurück auf ihr Schiff zu gelangen schnell gegen die Regeln und werden drakonisch bestraft. O’Brien erkennt jedoch schnell, dass es kein natürliches Phänomen ist, dass sie an der Rückkehr zum Schiff hindert."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E16",
+					"name": "Shadowplay",
+					"datePublished": "1994-02-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Illusion",
+						"datePublished": "1994-09-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
+						"@type": "Person",
+						"name": "Robert Scheerer"
+					},
+					"description": "Auf einem Planeten im Gamma-Quadranten entdecken Dax und Odo ein Dorf, dessen Bewohner nach und nach verschwinden. Sie finden heraus, dass das Dorf nur ein Hologramm ist, geschaffen vom Dorfältesten, um sein vom Dominion einst vernichtetes Heimatdorf zu ersetzen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E17",
+					"name": "Playing God",
+					"datePublished": "1994-02-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Trill-Kandidat",
+						"datePublished": "1994-09-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Arjin, ein junger Trill, kommt auf die Station. Dax soll testen, ob er bereit ist einen Symbionten zu empfangen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E18",
+					"name": "Profit And Loss",
+					"datePublished": "1994-03-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Profit und Verlust",
+						"datePublished": "1994-09-21"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
+						"@type": "Person",
+						"name": "Robert Wiemer"
+					},
+					"abstract": "Quark is reunited with his former Cardassian lover, Natima Lang, but she is engaged in dangerous political intrigue with her students Rekela and Hogue: they want to reduce the political power of the Cardassian military."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E19",
+					"name": "Blood Oath",
+					"datePublished": "1994-03-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Blutschwur",
+						"datePublished": "1994-09-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Dax löst mit Unterstützung der drei Klingonen Kang, Koloss und Kor einen Blutschwur ein, den einer von Dax’ früheren Wirten einst geleistet hatte. Zusammen besiegen sie einen für frühere Morde verantwortlichen klingonischen Albino."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E20",
+					"name": "The Maquis, Part I",
+					"datePublished": "1994-04-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Maquis – Teil 1",
+						"datePublished": "1994-09-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Der Friedensschluss zwischen der Föderation und Cardassia gerät durch terroristische Aktionen des Maquis in Gefahr. Diese, teils aus abtrünnigen Föderationsmitgliedern bestehende und von Siedlern getragene Widerstandsbewegung richtet sich gegen die cardassianische Herrschaft über Föderationskolonien im Grenzstreifen – der sogenannten entmilitarisierten Zone. Deswegen kämpft sie sowohl gegen die Föderation als auch gegen Cardassia."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E21",
+					"name": "The Maquis, Part II",
+					"datePublished": "1994-04-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Maquis – Teil 2",
+						"datePublished": "1994-09-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
+						"@type": "Person",
+						"name": "Corey Allen"
+					},
+					"description": "Sisko spürt den Marquis in den Badlands, einer abgeschiedenen Region des Weltraums, auf. Er muss sich nicht nur mit der Gruppe auseinandersetzen und verhindern, dass sie die Cardassianer angreifen und damit einen Krieg provozieren, sondern auch mit seinem alten Freund Cal Hudson, der Mitglied des Marquis ist."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E22",
+					"name": "The Wire",
+					"datePublished": "1994-05-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Implantat",
+						"datePublished": "1994-09-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Über den cardassianischen Schneider Garak wird bekannt, dass er einst vom cardassianischen Geheimdienst, dem Obsidianischen Kommando ein Schädelimplantat erhielt, das ihn bei Folterungen widerstandsfähiger machen sollte. Als das Implantat aufgrund von Fehlfunktionen Garak zu töten droht, verstrickt er sich gegenüber Bashir in Widersprüche betreffs seiner eigenen Vergangenheit."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E23",
+					"name": "Crossover",
+					"datePublished": "1994-05-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die andere Seite",
+						"datePublished": "1994-09-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Kira und Bashir landen aufgrund technischer Probleme in dem schon von Kirk und Spock besuchten Paralleluniversum, in dem die Station durch Kiras Pendant, die sadistische Intendantin, geleitet wird. Mit der Hilfe des dort inhaftierten zweiten O’Briens gelingt ihnen aber schließlich die Rückkehr in ihre Welt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E24",
+					"name": "The Collaborator",
+					"datePublished": "1994-05-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Wahl des Kai",
+						"datePublished": "1994-09-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Vedek Bareil hat die größten Chancen zum neuen religiösen Oberhaupt der Bajoraner gewählt zu werden. Vedek Winn, die das Amt selbst anstrebt, versucht Bareil um jeden Preis in Misskredit zu bringen und enthüllt, dass Bareil in der Zeit der Besatzung für den Tod zahlreicher Bajoraner mitverantwortlich war. Bareil verzichtet daraufhin auf das Amt und Winn wird zur Kai gewählt. Kira findet jedoch heraus, dass Bareil gar nicht verantwortlich war."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E25",
+					"name": "Tribunal",
+					"datePublished": "1994-06-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Tribunal",
+						"datePublished": "1994-09-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "O’Brien wird von den Cardassianern entführt, die mit ihm als Angeklagtem einen Schauprozess inszenieren, bei dem sein Todesurteil schon von vornherein feststeht. Durch die Ermittlungen der Stationscrew ergibt sich, dass der Prozess nur dazu dient, die Föderation dazu zu veranlassen, Schritte gegen Maquis-Kolonisten im cardassianischen Grenzgebiet einzuleiten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S2:E26",
+					"name": "The Jem’Hadar",
+					"datePublished": "1994-06-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Plan des Dominion",
+						"datePublished": "1994-10-03"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Sisko trifft im Gamma-Quadranten auf Mitglieder des Dominion. Das Dominion, zu dem auch die Jem’Hadar-Soldaten gehören, betrachtet das Eindringen in sein Territorium als kriegerischen Akt. Es vernichtet schließlich sogar ein Raumschiff der Sternenflotte."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 3,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_3",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E1",
+					"name": "The Search, Part I",
+					"datePublished": "1994-09-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Suche – Teil 1",
+						"datePublished": "1996-02-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Um die Gründer, die das Dominion anführen, zu suchen und davon zu überzeugen, dass die Föderation keine Gefahr für sie darstellt, erhält Sisko das Kommando über das Kriegsraumschiff Defiant, das mit einer Tarnvorrichtung ausgestattet ist."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E2",
+					"name": "The Search, Part II",
+					"datePublished": "1994-10-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Suche – Teil 2",
+						"datePublished": "1996-02-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"description": "Die von Sisko und seiner Mannschaft durchgeführte Suche im Gamma-Quadranten ergibt, dass es sich bei den Gründern um Formwandler handelt, auch Wechselbälger genannt. Dabei erfährt Odo auch von seiner Herkunft. Um ihre ungefährdete Existenz zu sichern und um Ordnung in den Weltraum zu bringen, begannen die Gründer einst, die anderen Völker ihres Teils des Alls zu unterwerfen. Ein von den Gründern durchgeführtes Gedankenexperiment mit Siskos Mannschaft ergibt, dass die Föderation aus der Sicht der Gründer eine Bedrohung darstellt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E3",
+					"name": "The House Of Quark",
+					"datePublished": "1994-10-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Haus des Quark",
+						"datePublished": "1996-02-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Um seine Gäste zu beeindrucken, erzählt Quark, dass er einen Klingonen, der in Wirklichkeit betrunken in sein eigenes Messer gestürzt ist, im Kampf getötet habe. Grilka, die Frau des Klingonen, kommt nach DS9, um ihre Familienehre wiederherzustellen und Quark als neues Familienoberhaupt zu heiraten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E4",
+					"name": "Equilibrium",
+					"datePublished": "1994-10-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Equilibrium",
+						"datePublished": "1996-02-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"abstract": "A secret from Dax’s past could mean the end of the current host’s life."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E5",
+					"name": "Second Skin",
+					"datePublished": "1994-10-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die zweite Haut",
+						"datePublished": "1996-02-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Kira erwacht in der Gestalt einer Cardassianerin im Haus von Tekeny Ghemor, der ihr erklärt, ihr Vater zu sein. Es stellt sich jedoch heraus, dass Kira in Wirklichkeit doch Bajoranerin ist und vom Obsidianischen Orden, dem cardassianischen Geheimdienst, entführt und chirurgisch verändert wurde, um Tekeny Ghemor, einen Dissidenten zu diskreditieren. Durch die Bemühungen der Stationscrew und Garaks kann Kira aber gerettet werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E6",
+					"name": "The Abandoned",
+					"datePublished": "1994-10-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Ausgesetzte",
+						"datePublished": "1996-02-21"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "Auf DS9 wird ein Jem’Hadar-Baby entdeckt, das in rasender Geschwindigkeit heranwächst und sich, wie von den Gründern vorgesehen, zu einem Krieger entwickelt. Aufgrund der vor allem von Odo empfundenen Aussichtslosigkeit, den Jem’Hadar zu etwas anderem als einer Killermaschine umzuerziehen, bringt er ihn zu dessen Artgenossen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E7",
+					"name": "Civil Defense",
+					"datePublished": "1994-11-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "In der Falle",
+						"datePublished": "1996-02-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
+						"@type": "Person",
+						"name": "Reza Badiyi"
+					},
+					"description": "Auf der Station wird versehentlich ein altes cardassianisches Computerprogramm aktiviert, das noch davon ausgeht, die Station stünde unter cardassianischer Herrschaft und es müsse – etwa durch den Einsatz von Nervengas – ein gerade stattfindender Aufstand bajoranischer Zwangsarbeiter beendet werden. Unterstützt von Garak und Dukat gelingt es der Mannschaft aber letztlich, die Selbstzerstörung der Station zu verhindern und die Ausführung des Programms zu beenden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E8",
+					"name": "Meridian",
+					"datePublished": "1994-11-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Meridian",
+						"datePublished": "1996-02-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"description": "Die Defiant entdeckt einen Planeten, der nur alle 60 Jahre für kurze Zeit in festem Zustand existiert. Die Bewohner können sich daher nicht mehr fortpflanzen und versuchen diese Dimensionswechsel in Zukunft zu verhindern. Dax verliebt sich bei der Suche nach einer Lösung in den Anführer Deral und möchte deshalb auf Meridian bleiben."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E9",
+					"name": "Defiant",
+					"datePublished": "1994-11-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Defiant",
+						"datePublished": "1996-02-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Thomas Riker, ein Mitglied des Maquis, entführt die Defiant, um damit eine geheime Schiffswerft des cardassianischen Geheimdienstes aufzuspüren. Kira und Sisko schaffen es aber, Rikers Plan zu durchkreuzen und ihn zu verhaften."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E10",
+					"name": "Fascination",
+					"datePublished": "1994-11-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Festival",
+						"datePublished": "1996-02-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"abstract": "Lwaxana Troi pursues Odo during the Bajoran Gratitude Festival as members of the crew suddenly become infatuated with one another."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E11",
+					"name": "Past Tense, Part I",
+					"datePublished": "1994-12-31",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gefangen in der Vergangenheit – Teil 1",
+						"datePublished": "1996-02-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
+						"@type": "Person",
+						"name": "Reza Badiyi"
+					},
+					"description": "Durch eine Fehlfunktion beim Beamen geraten Sisko, Dax und Bashir in das San Francisco des 21. Jahrhunderts und mitten in ein städtisches Elendsviertel. Als der Anführer eines Aufstandes der Slumbewohner ermordet wird, droht die Zeitlinie einen abweichenden Verlauf zu nehmen und die Rückkehr der drei in ihre Zeit zu vereiteln."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E12",
+					"name": "Past Tense, Part II",
+					"datePublished": "1995-01-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gefangen in der Vergangenheit – Teil 2",
+						"datePublished": "1996-02-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"description": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E13",
+					"name": "Life Support",
+					"datePublished": "1995-01-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Funke des Lebens",
+						"datePublished": "1996-02-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
+						"@type": "Person",
+						"name": "Reza Badiyi"
+					},
+					"description": "Es gelingt Vedek Bareil, die cardassianische Regierung zu einem Friedensvertrag mit Bajor zu bewegen. Da er jedoch schwer verletzt wurde, bezahlt er den Erfolg mit dem Leben."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E14",
+					"name": "Heart Of Stone",
+					"datePublished": "1995-02-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Herz aus Stein",
+						"datePublished": "1996-03-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Odo und Kira geraten bei der Verfolgung eines Maquis-Piloten in eine Höhle. Dort gerät Kiras Fuß in einen Kristall, aus dem sie sich nicht mehr befreien kann. Da der Kristall zu wachsen beginnt, droht Kira in wenigen Stunden der Tod."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E15",
+					"name": "Destiny",
+					"datePublished": "1995-02-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Trekors Prophezeiung",
+						"datePublished": "1996-03-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "In alten bajoranischen Texten ist die Prophezeiung von Trekor überliefert. Kira befürchtet nun, dass drei Cardassianer, die gemeinsam mit der Besatzung versuchen, Kommunikation durch das Wurmloch zu ermöglichen, die drei in diesem Text erwähnten Vipern sind, die das als Tempel der Propheten verehrte Wurmloch zerstören werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E16",
+					"name": "Prophet Motive",
+					"datePublished": "1995-02-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Motiv der Propheten",
+						"datePublished": "1996-03-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Der große Nagus, der Anführer der Ferengi, kommt nach DS9 und ist merkwürdig verändert. Er zeigt sich auf einmal wohltätig und gibt neue „Regeln des Erwerbs“ heraus, in denen die Ferengie aufgefordert werden, dem grenzenlosen Profitstreben abzuschwören. Quark und Rom entdecken, dass er vor Kurzem bei den Wurmlochwesen, den Propheten, war und versuchen nun, ihren alten Nagus zurückzubekommen, indem sie mit ihnen Kontakt aufnehmen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E17",
+					"name": "Visionary",
+					"datePublished": "1995-02-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Visionär",
+						"datePublished": "1996-03-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
+						"@type": "Person",
+						"name": "Reza Badiyi"
+					},
+					"description": "Die Romulaner sehen sich der Gefahr eines Angriffes durch das Dominion ausgesetzt. Den Plan der Romulaner, das Wurmloch zu zerstören, um das Dominion daran zu hindern, in ihren Raum einzudringen, kann aber verhindert werden, da O’Brien durch einen Unfall durch die Zeit reist."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E18",
+					"name": "Distant Voices",
+					"datePublished": "1995-04-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ferne Stimmen",
+						"datePublished": "1996-03-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Bashir wird von einem Letheaner angegriffen und findet sich auf einer merkwürdig veränderten Station wieder. Er muss versuchen, den Letheaner zu überwältigen, von dem er immer wieder angegriffen wird. Da er aber schnell zu altern beginnt, bleibt ihm nicht viel Zeit und seine Kräfte schwinden. In Wirklichkeit ist Bashir nach dem Angriff aber ins Koma gefallen und ringt mit dem Tod."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E19",
+					"name": "Through The Looking Glass",
+					"datePublished": "1995-04-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Durch den Spiegel",
+						"datePublished": "1996-03-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Sisko wird in das Spiegeluniversum entführt. Mit seiner Hilfe gelingt es, das Ebenbild von Siskos verstorbener Frau Jennifer, die im Spiegeluniversum noch lebt und als Wissenschaftlerin der die Allianz dient, zu überreden, doch für die Rebellen zu arbeiten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E20",
+					"name": "Improbable Cause (1)",
+					"datePublished": "1995-04-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der geheimnisvolle Garak – Teil 1",
+						"datePublished": "1996-03-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "Nachdem Garaks Geschäft explodiert ist, stoßen Odo und Garak bei den Untersuchungen auf eine große Flotte romulanischer und cardassianischer Schiffe. Es stellt sich heraus, dass es Schiffe der Geheimdienste beider Welten sind, die die Heimatwelt der Gründer angreifen wollen, um dadurch das Dominion zu vernichten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E21",
+					"name": "The Die Is Cast (2)",
+					"datePublished": "1995-04-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der geheimnisvolle Garak – Teil 2",
+						"datePublished": "1996-03-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Das Vorhaben des romulanischen und des cardassianischen Geheimdienstes misslingt und stellt sich als eine Falle des Dominion mit dem Zweck heraus, Romulaner und Cardassianer militärisch zu schwächen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E22",
+					"name": "Explorers",
+					"datePublished": "1995-05-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Erforscher",
+						"datePublished": "1996-03-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"description": "Sisko baut nach sehr alten Konstruktionsplänen, die er auf Bajor in einer Bibliothek gefunden hat, ein primitives, mit Solarsegeln betriebenes Raumschiff, um zu beweisen, dass die alten Bajoraner, gemäß ihrer Legenden, mit solchen Schiffen weit gereist sind, etwa bis nach Cardassia. Trotz einiger Schwierigkeiten gelingt Sisko und Jake die Reise dorthin, wo sie von Gul Dukat freundlich empfangen werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E23",
+					"name": "Family Business",
+					"datePublished": "1995-05-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Familienangelegenheiten",
+						"datePublished": "1996-03-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Quarks Mutter wird verdächtigt, Profit gemacht zu haben. Da es Frauen der Ferengie verboten, ist sich wirtschaftlich zu betätigen, bekommt Quark Besuch von der Ferengiehandelsbehörde, die ihn auffordert, seine Mutter zur Vernunft zu bringen. Quarks Mutter erweist sich aber als stur und kann erst durch Quarks Bruder Rom zu einem Kompromiss bewegt werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E24",
+					"name": "Shakaar",
+					"datePublished": "1995-05-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Shakaar",
+						"datePublished": "1996-03-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Nach dem plötzlichen Tod des bajoranischen Premierministers wird Kai Winn auch noch Regierungschefin von Bajor. Zur Festigung ihrer Macht riskiert sie einen Bürgerkrieg. Aus Furcht vor dem Publikwerden ihres Verhaltens tritt sie am Ende jedoch nicht bei den Neuwahlen an, die schließlich der Farmer Shakaar für sich entscheidet."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E25",
+					"name": "Facets",
+					"datePublished": "1995-06-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Facetten",
+						"datePublished": "1996-03-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"@type": "Person",
+						"name": "Cliff Bole"
+					},
+					"abstract": "Jadzia Dax deals with feelings of inferiority as she encounters past hosts in a Trill Zhian’tara ceremony which is able to transfer the memories of former hosts into another recipient, and Odo takes on the role of Curzon Dax during the experience."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E26",
+					"name": "The Adversary",
+					"datePublished": "1995-06-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Widersacher",
+						"datePublished": "1996-03-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Nachdem er zum Captain befördert wurde, startet Sisko mit der Defiant, um einen Putsch auf der Heimatwelt der Tzenkethi zu untersuchen. Es stellt sich heraus, dass ihr Auftraggeber Admiral Krajensky ein Formwandler ist, der die Defiant auf diese Mission geschickt hat, um einen Krieg zu provozieren. Sisko und seine Mannschaft können das jedoch in letzter Minute verhindern."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 4,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_4",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E1, S4:E2",
+					"name": "The Way Of The Warrior",
+					"datePublished": "1995-09-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Weg des Kriegers",
+						"datePublished": "1996-10-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Die Klingonen gehen davon aus, dass die cardassianische Regierung von Formwandlern infiltriert wurde um den Alpha-Quadrant zu erobern. Sie planen daher Cardassia zu überfallen und die dortige Regierung zu beseitigen. Da die Föderation, vertreten durch Sisko, zur Vermeidung eines Krieges diesen Plan verhindern will, kündigen die Klingonen ihren Friedensvertrag mit der Föderation auf. Außerdem greifen sie Deep Space Nine mit einer Raumschiffflotte an und entern die Station. Die Stationsbesatzung kann den Angriff jedoch abwehren und die Klingonen ziehen sich wieder zurück. Zwecks Verhandlungen zwischen Sternenflotte und klingonischem Reich holt Sisko auch den einst auf der Enterprise-D eingesetzten Sternenflottenoffizier Worf auf die Station. Er wird fortan neuer Offizier für strategische Operationen. Wegen seiner Weigerung, die klingonische Strategie zu unterstützen, wird Worf aber von seinem Volk geächtet."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E3",
+					"name": "The Visitor",
+					"datePublished": "1995-10-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Besuch",
+						"datePublished": "1996-10-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Als sich auf der Defiant ein Unfall ereignet, gerät Captain Sisko in den Subraum, wo er durch die Zeit reist und auch seinem stark gealterten Sohn begegnet; dieser hilft ihm schließlich dabei, in seine Zeit zurückzukehren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E4",
+					"name": "Hippocratic Oath",
+					"datePublished": "1995-10-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der hippokratische Eid",
+						"datePublished": "1996-10-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "O’Brien und Bashir treffen auf einem Planeten im Gamma-Quadranten auf gestrandete Jem’Hadar-Soldaten, deren Vorrat an ihrer Droge Ketracel White zur Neige geht und die nun von Bashir das Herstellen eines Ersatzmittels fordern."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E5",
+					"name": "Indiscretion",
+					"datePublished": "1995-10-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Indiskretion",
+						"datePublished": "1996-10-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Bei der Suche nach einem vor langer Zeit verschollenen Transporter, auf dem sich bajoranische Gefangene und Cardassianer befanden, finden Kira und Dukat die je zur Hälfte bajoranische und cardassianische, uneheliche Tochter Dukats, Tora Ziyal."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E6",
+					"name": "Rejoined",
+					"datePublished": "1995-10-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wiedervereinigt",
+						"datePublished": "1996-10-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"abstract": "Dax is reunited with Lenara Kahn, whose previous host was the wife of one of Dax’s former hosts, Torias Dax, and the two struggle with their feelings for one another."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E7",
+					"name": "Starship Down",
+					"datePublished": "1995-11-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Wagnis",
+						"datePublished": "1996-10-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Bei einem Handelstreffen mit den Karemma wird die Defiant von Jem’Hadar-Raumschiffen angegriffen, gejagt und dabei so schwer beschädigt, dass sie und ihre Besatzung eine Zeitlang in der Atmosphäre eines Gasplaneten gefangen sind."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E8",
+					"name": "Little Green Men",
+					"datePublished": "1995-11-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kleine grüne Männchen",
+						"datePublished": "1996-10-21"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Als Quark Rom und dessen Sohn Nog mit einem geschenkten Raumschiff zur Sternenflottenakademie auf der Erde bringt, werden die drei wegen technischer Probleme in das Jahr 1947 versetzt und in einer nordamerikanischen Militärbasis inhaftiert, von wo sie schließlich mit der Hilfe des heimlich mitgereisten Odo wieder fliehen und in ihre Zeit zurückkehren können."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E9",
+					"name": "The Sword Of Kahless",
+					"datePublished": "1995-11-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Schwert des Kahless",
+						"datePublished": "1996-10-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Worf und Dax helfen dem Klingonen Kor dabei, ein altes, sagenumwobenes Schwert zu suchen, und geraten dabei in Lebensgefahr als sie von Dieben angegriffen werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E10",
+					"name": "Our Man Bashir",
+					"datePublished": "1995-11-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unser Mann Bashir",
+						"datePublished": "1996-10-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Einige Besatzungsmitglieder werden durch einen Defekt beim Beamen in einer Holosuite gefangen, wo sie in Lebensgefahr geraten, als sie in ein Holoprogramm geraten, in dem Dr. Bashir als Geheimagent seine Freizeit verbringt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E11",
+					"name": "Homefront (1)",
+					"datePublished": "1995-12-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Front (1)",
+						"datePublished": "1996-10-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Der Aufenthalt von Formwandlern auf der Erde verursacht unter der Erdbevölkerung Angst vor einem baldigen Angriff des Dominion. Diese Angst schürend, möchte ein Sternenflottenadmiral zwecks besserer Verteidigungsmöglichkeiten die demokratische Erdregierung durch eine Militärherrschaft ablösen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E12",
+					"name": "Paradise Lost (2)",
+					"datePublished": "1996-01-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das verlorene Paradies (2)",
+						"datePublished": "1996-10-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
+						"@type": "Person",
+						"name": "Reza Badiyi"
+					},
+					"description": "Weil der Putschversuch des Admirals die Absicht des Dominion unterstützt, die Föderation zu destabilisieren, stoppen Sisko und seine Mannschaft den Admiral bei der Umsetzung von dessen Plan."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E13",
+					"name": "Crossfire",
+					"datePublished": "1996-01-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Emotionen",
+						"datePublished": "1996-10-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"abstract": "Odo’s hidden feelings for Kira surface when the visiting Bajoran First Minister, Shakaar Edon, begins to court her."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E14",
+					"name": "Return To Grace",
+					"datePublished": "1996-02-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Zu neuer Würde",
+						"datePublished": "1996-10-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Durch das Publikwerden seiner Vaterschaft gesellschaftlich und beruflich ruiniert, möchte Dukat die Anerkennung seines Volkes zurückgewinnen, während er sich mit Kira auf einer Rettungsmission mit einem alten Frachtraumschiff befindet und dabei den Kampf mit den Klingonen sucht."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E15",
+					"name": "Sons Of Mogh",
+					"datePublished": "1996-02-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Söhne von Mogh",
+						"datePublished": "1996-10-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Worf hilft seinem Halbbruder Kurn dabei, dessen verloren gegangene Ehre wiederherzustellen, dabei zerstören sie auch ein Minenfeld, das Klingonen am Wurmloch errichtet hatten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E16",
+					"name": "Bar Association",
+					"datePublished": "1996-02-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Streik",
+						"datePublished": "1996-10-31"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E17",
+					"name": "Accession",
+					"datePublished": "1996-02-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Übernahme",
+						"datePublished": "1996-11-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Ein aus dem Wurmloch erschienener alter Bajoraner behauptet, der Abgesandte zu sein, jedoch kann sich Sisko nach einem Kontakt zu den Propheten von seiner Rolle, der wahre Abgesandte zu sein, überzeugen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E18",
+					"name": "Rules Of Engagement",
+					"datePublished": "1996-04-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Gefecht",
+						"datePublished": "1996-11-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Worf wird durch einen klingonischen Anwalt angeklagt, ein Raumschiff mit Zivilisten an Bord zerstört zu haben. Sisko kann jedoch letztlich die Unschuld Worfs beweisen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E19",
+					"name": "Hard Time",
+					"datePublished": "1996-04-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Strafzyklen",
+						"datePublished": "1996-11-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
+						"@type": "Person",
+						"name": "Alexander Singer"
+					},
+					"description": "Chief O’Brien wird durch fremde Wesen die Erinnerungen an einen 20-jährigen Gefängnisaufenthalt eingepflanzt und droht sich aufgrund des dadurch empfundenen Traumas von seinen Mitmenschen zu entfremden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E20",
+					"name": "Shattered Mirror",
+					"datePublished": "1996-04-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der zerbrochene Spiegel",
+						"datePublished": "1996-11-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Sisko ist gezwungen, in das Spiegeluniversum zu beamen und dort den Rebellen dabei zu helfen, eine neue Defiant zu bauen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E21",
+					"name": "The Muse",
+					"datePublished": "1996-04-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Muse",
+						"datePublished": "1996-11-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"abstract": "While Odo assists a pregnant Lwaxana Troi, Jake falls under the spell of a mysterious woman, Onaya."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E22",
+					"name": "For The Cause",
+					"datePublished": "1996-05-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "In eigener Sache",
+						"datePublished": "1996-11-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Dem Maquis schließt sich der Sternenflottenoffizier Michael Eddington an, der bislang auf DS9 stationiert war; dabei werden auch Kassidy Yates’ Verwicklungen in Aktivitäten des Maquis offenbar und Sisko entwickelt eine harsche Rachsucht gegen Eddington. Ziyal und Garak verlieben sich ineinander."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E23",
+					"name": "To The Death",
+					"datePublished": "1996-05-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Abtrünnigen",
+						"datePublished": "1996-11-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "DS9 wird von einer Gruppe abtrünniger Jem’Hadar-Soldaten angegriffen und schwer beschädigt, sodass Siskos Crew mit der Defiant die Angreifer zu finden versucht, wobei sie auch mit einigen loyalen Jem’Hadar zusammenarbeiten muss."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E24",
+					"name": "The Quickening",
+					"datePublished": "1996-05-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Hoffnung",
+						"datePublished": "1996-11-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Auf einem Planeten im Gamma-Quadranten hilft Bashir den Bewohnern dabei, sie von ihrer bislang tödlich verlaufenden Krankheit zu heilen, mit der sie einst durch das Dominion infiziert wurden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E25",
+					"name": "Body Parts",
+					"datePublished": "1996-06-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Quarks Schicksal",
+						"datePublished": "1996-11-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "Nachdem bei Quark eine tödlich verlaufende Krankheit diagnostiziert wurde, verkauft er seine Körperteile höchstbietend, kann aber nicht liefern, als sich die Ankündigung seines Todes als falsch herausstellt. Nachdem O’Briens Frau Keiko bei einem Shuttle-Unfall verletzt wurde, muss Bashir ihr ungeborenes Baby in Kiras Körper transplantieren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S4:E26",
+					"name": "Broken Link",
+					"datePublished": "1996-06-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Urteil",
+						"datePublished": "1996-11-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Odo erkrankt schwer und kann kaum noch seine menschliche Form halten. Da er zu sterben droht, bringt ihn die Defiant in den Gamma-Quadranten zu seinem Volk, den Gründern. Es stellt sich heraus, dass Odo dort für den Mord an einem Artgenossen verurteilt werden soll."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 5,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_5",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E1",
+					"name": "Apocalypse Rising",
+					"datePublished": "1996-09-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Apokalypse droht",
+						"datePublished": "1998-02-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
+						"@type": "Person",
+						"name": "James L. Conway"
+					},
+					"description": "Mit der Absicht, Kanzler Gowron vor der klingonischen Regierung als Formwandler zu enttarnen, reisen Worf sowie Sisko, O’Brien und Odo, die chirurgisch in Klingonen verwandelt wurden, zum klingonischen Heimatplaneten, wo sie, zur Überraschung aller, nicht Gowron, sondern dessen Adjutanten General Martok als Formwandler entlarven."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E2",
+					"name": "The Ship",
+					"datePublished": "1996-10-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Schiff",
+						"datePublished": "1998-02-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Auf einem Planeten im Gamma-Quadranten finden Sisko und seine Crew ein abgestürztes Raumschiff der Jem’Hadar. Als sich ein weiteres Schiff nähert, müssen sich Sisko und seine Crew in dem Wrack verschanzen. Sie finden heraus, dass die Jem’Hadar das Schiff nicht entern, weil sich ein Gründer auf dem Schiff versteckt und versuchen zurück nach DS9 zu kommen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E3",
+					"name": "Looking For Par’mach In All The Wrong Places",
+					"datePublished": "1996-10-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gefährliche Liebschaften",
+						"datePublished": "1998-02-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AndrewJRobinson",
+						"@type": "Person",
+						"name": "Andrew J. Robinson"
+					},
+					"description": "Quark erhält Besuch von seiner klingonischen Ex-Frau Grilka und versucht dabei, auch mit der Hilfe von Worf und Dax, Grilkas Herz zu erobern."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E4",
+					"name": "Nor The Battle To The Strong",
+					"datePublished": "1996-10-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Schlacht um Ajilon Prime",
+						"datePublished": "1998-02-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Die Klingonen setzen ihre Angriffe gegen die Föderation fort. Das erfährt Jake Sisko am eigenen Leib als er und Bashir durch einen Notruf zu einer Föderationskolonie gerufen werden, die von Klingonen angegriffen wird. Als Sanitäter erfährt Jake die Schrecken des Krieges."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E5",
+					"name": "The Assignment",
+					"datePublished": "1996-10-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Erpressung",
+						"datePublished": "1998-02-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Es gelingt einem sogenannten Pah-Geist, sich des Körpers von O’Briens Frau Keiko zu bemächtigen. Die Pah-Geister, so erzählt es eine bajoranische Legende, waren einstmals selbst Wurmlochbewohner, wurden von den Propheten aber aus dem Wurmloch verstoßen und streben seitdem danach, ihren früheren Platz wieder einzunehmen. Mit Hilfe von Keiko versuchen sie ihr Ziel nun in die Tat umzusetzen, können aber daran gehindert werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E6",
+					"name": "Trials And Tribble-ations",
+					"datePublished": "1996-11-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Immer die Last mit den Tribbles",
+						"datePublished": "1997-12-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Durch einen Drehkörper wird die Defiant in die Zeit Captain Kirks zurückversetzt. Sie trifft auf die USS Enterprise NCC-1701, die die Raumstation K7 umkreist. Sisko und seine Mannschaft finden heraus, dass der Mensch, den sie auf Cardassia an Bord genommen haben, in Wirklichkeit ein klingonischer Spion ist, der sich an Captain Kirk rächen will und dadurch die Zeitlinie gefährdet. Es gelingt der Crew der Defiant den Mord zu verhindern und in ihre eigene Zeit zurückzukehren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E7",
+					"name": "Let He Who Is Without Sin…",
+					"datePublished": "1996-11-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Reise nach Risa",
+						"datePublished": "1998-02-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Bei ihrem Urlaub auf dem Ferienplaneten Risa erkennen Worf und Dax ihre zunächst unterschiedlichen Auffassungen vom Führen einer Beziehung, weswegen sich Worf von Jadzia abwendet und sich vorübergehend einer Gruppe politischer Fundamentalisten anschließt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E8",
+					"name": "Things Past",
+					"datePublished": "1996-11-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Schuld",
+						"datePublished": "1998-03-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Sisko, Odo, Dax und Garak finden sich nach einem Shuttle-Unfall in der Vergangenheit wieder. DS9 heißt noch Terok Nor und ist noch von Cardassianern besetzt. Dort werden sie für bajoranische Terroristen gehalten, denen die Todesstrafe droht. Odo, der schon damals für die Sicherheit verantwortlich war, scheint in die Ereignisse verstrickt gewesen zu sein und versucht einen damaligen Fehler zu korrigieren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E9",
+					"name": "The Ascent",
+					"datePublished": "1996-11-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Aufstieg",
+						"datePublished": "1998-03-03"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Durch die Explosion einer Bombe an Bord ihres Shuttles stranden Odo und Quark auf einem unwirtlichen Planeten. Sie sind dazu gezwungen, sich zusammenzuraufen, um die Station über ihren Aufenthaltsort zu informieren und gerettet zu werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E10",
+					"name": "Rapture",
+					"datePublished": "1996-12-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Heilige Visionen",
+						"datePublished": "1998-03-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Als Sisko Visionen hat, in denen er auch eine Gefahr für die Existenz von Bajor aufkommen sieht, verschiebt die bajoranische Regierung auf Siskos Drängen hin den Beitritt ihres Volks zur Föderation, den diese bereits bewilligt hatte."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E11",
+					"name": "The Darkness And The Light",
+					"datePublished": "1997-01-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Dunkelheit und Licht",
+						"datePublished": "1998-03-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"description": "Nachdem der Reihe nach Mitglieder aus Kiras früherer Widerstandszelle ermordet werden, ermittelt sie zusammen mit Odo die möglichen Täter und gerät, als sie den Mörder gefunden hat, auch selbst in Lebensgefahr."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E12",
+					"name": "The Begotten",
+					"datePublished": "1997-01-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Baby",
+						"datePublished": "1998-03-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
+						"@type": "Person",
+						"name": "Jesús Salvador Treviño"
+					},
+					"description": "Nachdem auf der Station ein Wechselbalg-Baby gefunden wurde, erhält Odo seine Fähigkeit, formzuwandeln, wieder zurück. Kira bringt das Baby der O’Briens gesund zur Welt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E13",
+					"name": "For The Uniform",
+					"datePublished": "1997-02-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Für die Uniform",
+						"datePublished": "1998-03-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
+						"@type": "Person",
+						"name": "Victor Lobl"
+					},
+					"description": "Der Maquis-Anführer und frühere Stationsoffizier Eddington will biogenetische Waffen gegen cardassianische Kolonien in der entmilitarisierten Zone einsetzen. Sisko, getrieben von Rache, versucht mit allen Mitteln den ehemaligen Sternenflotten-Offizier zur Strecke zu bringen und schreckt auch nicht davor zurück einen ganzen Planeten zu vergiften."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E14",
+					"name": "In Purgatory’s Shadow (1)",
+					"datePublished": "1997-02-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Schatten der Hölle (1)",
+						"datePublished": "1998-03-10"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
+						"@type": "Person",
+						"name": "Gabrielle Beaumont"
+					},
+					"description": "Worf und Garak fliegen in den Gamma-Quadranten nachdem man eine Notruf des totgeglaubten Enabran Tain, dem ehemaligen Chef des cardassianischen Geheimdienstes, empfangen hat. Die beiden geraten in Gefangenschaft der Jem’Hadar und treffen dort unter anderem auf Dr. Bashir, der bereits vor Wochen entführt wurde. Sie treffen auch auf den schwer kranken Enabran Tain."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E15",
+					"name": "By Inferno’s Light (2)",
+					"datePublished": "1997-02-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Im Lichte des Infernos (2)",
+						"datePublished": "1998-03-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Eine Flotte aus Jem’Hadar-Raumschiffen dringt durch das Wurmloch in den Alpha-Quadranten ein und fliegt nach Cardassia. Zeitgleich enthüllt der Cardassianer Gul Dukat, ehemaliger Kommandant von DS9, dass Cardassia dem Dominion beigetreten ist, um sein Reich, geschwächt durch Angriffe der Klingonen und des Maquis, zurück zu alter Stärke zu führen. Er selbst ist der neue Herrscher von Cardassia und erwartet nun, dass die Föderation auch dem Dominion beitritt; Sisko lehnt jedoch ab. Da sich das klingonische Reich durch das Bündnis zwischen Cardassia und dem Dominion ebenfalls bedroht sieht, stellt es nicht nur den Friedensvertrag mit der Föderation wieder her, sondern wird auch zu deren Alliiertem. Unterdessen versuchen Dr. Bashir, Worf, Garak und General Martok aus dem Jem’Hadar-Gefängnis zu fliehen. Derweilen versucht ein Wechselbalg auf DS9, der sich seit Wochen als Dr. Bashir tarnt, die Station und Bajor zu zerstören, indem er die bajoranische Sonne in eine Supernova verwandelt. Die Defiant kann ihn gerade noch stoppen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E16",
+					"name": "Doctor Bashir, I Presume?",
+					"datePublished": "1997-02-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Dr. Bashirs Geheimnis",
+						"datePublished": "1998-03-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Durch Indiskretion wird auf DS9 bekannt, dass Dr. Bashir im Kindesalter auf Veranlassung seiner Eltern genetisch aufgewertet wurde, auch, um einen höheren Intellekt zu erlangen. Da das Verfahren verboten ist, droht Bashir das Ende seiner Karriere."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E17",
+					"name": "A Simple Investigation",
+					"datePublished": "1997-03-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Datenkristall",
+						"datePublished": "1998-03-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JohnTKretchmer",
+						"@type": "Person",
+						"name": "John T. Kretchmer"
+					},
+					"description": "Odo erhält Besuch von einer jungen Frau, die dem verbrecherischen Orion-Syndikat angehört und auf der Flucht vor Jägern ist, vor denen sie Odo zunächst beschützt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E18",
+					"name": "Business As Usual",
+					"datePublished": "1997-04-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kriegsgeschäfte",
+						"datePublished": "1998-03-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
+						"@type": "Person",
+						"name": "Siddig El Fadil"
+					},
+					"description": "Quark ist über die Möglichkeit, durch illegale Waffenlieferungen viel Geld zu verdienen, zunächst begeistert, gerät aber in ein moralisches Dilemma, als der Käufer eine Massenvernichtungswaffe erwerben möchte."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E19",
+					"name": "Ties Of Blood And Water",
+					"datePublished": "1997-04-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Überwindung",
+						"datePublished": "1998-03-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "Als der Cardassianer Tekeny Ghemor, der Kira als seine Tochter betrachtet, zum Sterben auf die Station kommt, muss Kira, als sie von früheren Kriegsverbrechen Ghemors erfährt, seine Verbrechen emotional verkraften."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E20",
+					"name": "Ferengi Love Songs",
+					"datePublished": "1997-04-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Liebe und Profit",
+						"datePublished": "1998-03-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Auf Ferenginar wird Quark, der seine Geschäftslizenz verloren hatte, die Möglichkeit geboten, diese wieder zurückzuerhalten. Dazu muss er jedoch seine Mutter enttarnen, die als Geliebte des Ferengi-Herrschers trotz Verbotes die finanziellen Geschicke des Planeten lenkt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E21",
+					"name": "Soldiers Of The Empire",
+					"datePublished": "1997-04-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Martoks Ehre",
+						"datePublished": "1998-03-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Bei der Suchaktion, die Martok, begleitet von Worf, als Raumschiffkommandant durchführt, werden Worfs Fähigkeiten als Krieger in Frage gestellt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E22",
+					"name": "Children Of Time",
+					"datePublished": "1997-05-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kinder der Zeit",
+						"datePublished": "1998-03-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Die Crew der in der Atmosphäre eines Planeten im Gamma-Quadranten gefangenen Defiant trifft auf dem Planeten ihre eigenen, zukünftigen Nachkommen und versucht nun, den Planeten wieder zu verlassen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E23",
+					"name": "Blaze Of Glory",
+					"datePublished": "1997-05-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Glanz des Ruhms",
+						"datePublished": "1998-03-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
+						"@type": "Person",
+						"name": "Kim Friedman"
+					},
+					"description": "Die Information über ein geplantes Attentat des Maquis gegen die Cardassianer stellt sich als Bluff heraus, der nur deshalb verbreitet wurde, um Anhänger von Eddington zu befreien. Dabei erfährt Sisko auch, dass der Maquis nach anhaltenden Kämpfen mit den Jem’Hadar weitgehend vernichtet wurde und keine Gefahr für Föderation oder Cardassianer mehr darstellt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E24",
+					"name": "Empok Nor",
+					"datePublished": "1997-05-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Empok Nor",
+						"datePublished": "1998-03-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"description": "Um sich Ersatzteile zu besorgen fliegen O’Brien, Nog, Garak und einige Techniker zur verlassenen Raumstation Empok Nor, da diese baugleich zu DS9 ist. Dort angekommen werden sie von Cardassianern gejagt, die in Stasekammern zurückgelassen wurden, um die Station zu verteidigen und durch eine Droge zu blutrünstigen Killern geworden sind. Die nur für Cardassianer wirksame Droge beginnt auch auf Garak zu wirken, der nun Jagd auf den Rest des Teams macht."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E25",
+					"name": "In The Cards",
+					"datePublished": "1997-06-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Karte",
+						"datePublished": "1998-03-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
+						"@type": "Person",
+						"name": "Michael Dorn"
+					},
+					"description": "Um seinem Vater eine alte Baseballkarte zu beschaffen, erledigt Jake zusammen mit Nog einige Anschaffungen für den Karteneigentümer und wird dabei auch mit dem Dominion konfrontiert."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S5:E26",
+					"name": "Call To Arms",
+					"datePublished": "1997-06-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Zu den Waffen!",
+						"datePublished": "1998-03-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Nachdem die Romulaner und andere Völker des Alpha-Quadranten Nichtangriffspakte mit dem Dominion abschließen, lässt die Sternenflotte das Wurmloch verminen, um ein weiteres Aufrüsten des Dominion und ein Anwachsen der von ihm ausgehenden Bedrohung zu verhindern. Wohlwissend, dass die Blockade des Wurmlochs einen Krieg provoziert, veranlasst Sisko die bajoranische Regierung zum Abschluss eines Nichtangriffspaktes mit dem Dominion. Wenig später greift eine Flotte von Cardassianern und Jem’Hadar die mittlerweile fast vollständig evakuierte und von der Sternenflotte verlassene Station an und nimmt sie trotz hoher eigener Verluste ein."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 6,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_6",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E1",
+					"name": "A Time To Stand",
+					"datePublished": "1997-09-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Zeit des Widerstands",
+						"datePublished": "1998-05-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Im Alpha-Quadranten entbrennt ein interstellarer Krieg zwischen dem Dominion und den Alliierten der Föderation. Bei dem Versuch, das Dominion zurückzuschlagen verlieren die Sternenflotte und die Klingonen mehrere Dutzend Raumschiffe und DS9 ist in der Hand des Dominion. Sisko und seine Crew sollen die Ketracel-White-Vorräte zerstören, die die Jem’Hadar zum Überleben brauchen, um den Krieg zu ihren Gunsten zu drehen. Dazu fliegen sie mit dem Jem’Hadar-Schiff, das sie vor einem Jahr erbeuten konnten, in den Raum des Dominion."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E2",
+					"name": "Rocks And Shoals",
+					"datePublished": "1997-10-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Entscheidungen",
+						"datePublished": "1998-05-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"description": "Auf dem Weg in feindliches Gebiet wurde das von Sisko und seiner Crew benutzte Jem’Hadar-Schiff so stark beschädigt, dass sie damit auf einem Planeten abstürzen. Dort werden sie  mit einer Gruppe Jem’Hadar konfrontiert, deren Vorta krank ist und die Hilfe Bashirs benötigt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E3",
+					"name": "Sons And Daughters",
+					"datePublished": "1997-10-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Söhne und Töchter",
+						"datePublished": "1998-05-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
+						"@type": "Person",
+						"name": "Jesús Salvador Treviño"
+					},
+					"description": "Worf wird an Bord der von Martok befehligten Rotarran versetzt und trifft dort auf seinen Sohn, der sich von ihm entfremdet hat."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E4",
+					"name": "Behind The Lines",
+					"datePublished": "1997-10-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Hinter der Linie",
+						"datePublished": "1998-05-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Die Defiant erhält den Auftrag, eine Sensorstation, die sich in der Hand des Dominion befindet zu zerstören. Unterdessen haben auf Deep Space Nine verbliebene bajoranische Militärangehörige, unter ihnen Kira, Odo, Jake, Rom und Quark, eine Widerstandszelle gegründet, um den Kriegsverlauf zu Ungunsten des Dominion zu beeinflussen, etwa indem sie Zwietracht zwischen Cardassianern und Jem’Hadar sähen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E5",
+					"name": "Favor The Bold (1)",
+					"datePublished": "1997-10-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ein kühner Plan (1)",
+						"datePublished": "1998-06-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Als die Föderation den Krieg zu verlieren droht und die Gefahr besteht, dass das verminte Wurmloch wieder geöffnet wird, setzt die Sternenflotte Siskos Plan zur Rückeroberung von Deep Space Nine um und führt dabei mit hunderten Raumschiffen eine – trotz deutlicher gegnerischer Übermacht – beiderseits verlustreiche Schlacht mit dem Dominion."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E6",
+					"name": "Sacrifice Of Angels (2)",
+					"datePublished": "1997-11-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Sieg oder Niederlage? (2)",
+						"datePublished": "1998-06-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Auch wenn es Sisko gelingt mit der Defiant bis nach DS9 vorzudringen, kann er die Zerstörung der Minen nicht verhindern. Als das Wurmloch wieder geöffnet ist, droht eine riesige Armada des Dominion in den Alpha-Quadranten einzudringen. Als Abgesandter der Propheten kann Sisko die Wurmlochwesen überzeugen, in seinem Sinn in den Kriegsverlauf einzugreifen. Das Dominion kann dadurch vorerst zurückgedrängt werden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E7",
+					"name": "You Are Cordially Invited",
+					"datePublished": "1997-11-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Klingonische Tradition",
+						"datePublished": "1998-06-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Kurz nach der Rückkehr der Mannschaft auf die Station heiraten Worf und Jadzia. Bei der Vorbereitung der Trauungszeremonie müssen ihre engsten Freunde einige klingonische Rituale überstehen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E8",
+					"name": "Resurrection",
+					"datePublished": "1997-11-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Erkenntnis",
+						"datePublished": "1998-06-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Kira erhält zu ihrer Überraschung Besuch von Bareil aus dem Spiegeluniversum und beginnt mit ihm eine Liebesbeziehung, muss aber erkennen, dass sie von ihm und er durch die Intendantin nur benutzt wurde, um einen Diebstahl zu ermöglichen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E9",
+					"name": "Statistical Probabilities",
+					"datePublished": "1997-11-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Statistische Wahrscheinlichkeiten",
+						"datePublished": "1998-07-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
+						"@type": "Person",
+						"name": "Anson Williams"
+					},
+					"description": "Eine durch Bashir zeitweise auf DS9 untersuchte, 4-köpfige Gruppe einst gentechnisch aufgewerteter Menschen empfiehlt der Führung der Sternenflotte strategische Maßnahmen, die den Kriegsverlauf für die Föderation positiv beeinflussen können, darunter den Schritt, das romulanische Imperium als Alliierte zu gewinnen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E10",
+					"name": "The Magnificent Ferengi",
+					"datePublished": "1997-12-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der glorreiche Ferengi",
+						"datePublished": "1998-07-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
+						"@type": "Person",
+						"name": "Chip Chalmers"
+					},
+					"description": "Als Quarks und Roms Mutter Ishka durch das Dominion gefangengenommen wird, organisieren die beiden eine Rettungsmission und tauschen einen gefangenen Vorta gegen Ishka ein."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E11",
+					"name": "Waltz",
+					"datePublished": "1998-01-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Gute und das Böse",
+						"datePublished": "1998-07-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"description": "Durch den Tod seiner Tochter schwer traumatisiert, befindet sich Dukat in Kriegsgefangenschaft der Sternenflotte. Damar wird neuer Herrscher Cardassias. Dukat verfällt in der Gefangenschaft in Wahnvorstellungen, in deren Folge er beschließt, aufgrund des von ihm empfundenen, tiefen Hasses alle Bajoraner zu töten, wenn er aus der Gefangenschaft der Föderation entkommt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E12",
+					"name": "Who Mourns For Morn?",
+					"datePublished": "1998-01-31",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wer trauert um Morn?",
+						"datePublished": "1998-07-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
+						"@type": "Person",
+						"name": "Victor Lobl"
+					},
+					"description": "Als sich die angebliche Nachricht verbreitet, Quarks Stammgast Morn sei gestorben und habe Quark als Erben ausgewählt, unternimmt Quark mehrere Schritte, um an sein Erbe zu gelangen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E13",
+					"name": "Far Beyond The Stars",
+					"datePublished": "1998-02-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Jenseits der Sterne",
+						"datePublished": "1998-08-01"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"description": "Sisko träumt von sich als Benny Russell, einem Science-fiction-Schriftsteller, der in den 1950er Jahren versucht, seine von einer Raumstation in ferner Zukunft handelnde Geschichte zu veröffentlichen. Weil sein Titelheld wie Russell selbst ein Afroamerikaner ist, wird er mit Rassismus konfrontiert und hat zahlreiche Widerstände zu überwinden."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E14",
+					"name": "One Little Ship",
+					"datePublished": "1998-02-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das winzige Raumschiff",
+						"datePublished": "1998-08-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Als die Defiant durch Jem’Hadar-Soldaten erobert wird, muss die zuvor in einem Experiment stark geschrumpfte Besatzung mit ihrem Shuttle dabei helfen, die Angreifer zu bekämpfen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E15",
+					"name": "Honor Among Thieves",
+					"datePublished": "1998-02-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ehre unter Dieben",
+						"datePublished": "1998-08-15"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
+						"@type": "Person",
+						"name": "Allan Eastman"
+					},
+					"description": "Chief O’Brien ermittelt verdeckt im verbrecherischen Orion-Syndikat, um herauszufinden, wer das Syndikat mit Informationen über die Sternenflotte versorgt; dabei erfährt er auch, dass das Syndikat mit dem Dominion zusammenarbeitet."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E16",
+					"name": "Change Of Heart",
+					"datePublished": "1998-02-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wandel des Herzens",
+						"datePublished": "1998-08-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Später sind Worf und Jadzia unterwegs zu einem Treffen mit einem Cardassianer, der möglicherweise kriegsentscheidende Informationen besitzt, wobei Jadzia schwer verletzt wird."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E17",
+					"name": "Wrongs Darker Than Death Or Night",
+					"datePublished": "1998-03-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Tiefes Unrecht",
+						"datePublished": "1998-08-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Nachdem Dukat Kira eröffnet hat, dass er ihre Mutter einst innig geliebt hat, reist Kira zurück in die Zeit der cardassianischen Besatzung, um Dukats Mitteilung zu überprüfen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E18",
+					"name": "Inquisition",
+					"datePublished": "1998-04-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Inquisition",
+						"datePublished": "1998-09-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
+						"@type": "Person",
+						"name": "Michael Dorn"
+					},
+					"description": "Nachdem Bashir verdächtigt wird, ein Spion des Dominion zu sein, erkennt er, dass er durch den Sternenflottengeheimdienst Sektion 31 nur getäuscht wurde, um seine Eignung als Agent der Sektion zu testen und ihn für diese anzuwerben."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E19",
+					"name": "In The Pale Moonlight",
+					"datePublished": "1998-04-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "In fahlem Mondlicht",
+						"datePublished": "1998-09-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
+						"@type": "Person",
+						"name": "Victor Lobl"
+					},
+					"description": "Einige Monate später gelingt es Sisko, einen diesen Schritt beinhaltenden Plan umzusetzen, indem er einen eigenen, streng geheimen Plan umsetzt, der mehrere rechtlich und moralisch fragwürdige Schritte beinhaltet, darunter die Weitergabe von biowaffenfähigem Material."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E20",
+					"name": "His Way",
+					"datePublished": "1998-04-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Auf seine Art",
+						"datePublished": "1998-09-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Als Odo von einem neuen Holosuite-Programm erfährt, in dem der Sänger Vic Fontaine in einem Nachtclub der 1960er Jahre auftritt, okkupiert er das Programm für sich allein und lässt sich von Fontaine dabei helfen, Kiras Liebe zu gewinnen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E21",
+					"name": "The Reckoning",
+					"datePublished": "1998-04-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Zeit der Abrechnung",
+						"datePublished": "1998-09-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
+						"@type": "Person",
+						"name": "Jesús Salvador Treviño"
+					},
+					"description": "Kai Winn, ihre religiöse Führungsrolle im Falle des Eintretens einer bajoranischen Prophezeiung schützend, vereitelt die Vollendung des Kampfes zwischen einem Propheten und einem Pah-Geist, bevor letzterer bei dem Kampf vernichtet worden wäre."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E22",
+					"name": "Valiant",
+					"datePublished": "1998-05-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Valiant",
+						"datePublished": "1998-10-10"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"description": "Nachdem Jake und Nog in ihrem Shuttle durch Jem’Hadar-Raumschiffe beschossen wurden, rettet sie das Sternenflottenschiff Valiant, das von lauter elitären Sternenflottenkadetten geführt wird, die voller Selbstbewusstsein die letztlich tödlich endende Konfrontation mit dem Dominion suchen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E23",
+					"name": "Profit And Lace",
+					"datePublished": "1998-05-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Beraterin",
+						"datePublished": "1998-10-17"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
+						"@type": "Person",
+						"name": "Alexander Siddig"
+					},
+					"description": "Als Ishka einen Herzinfarkt erleidet, muss sie Quark in Verhandlungen mit der Ferengi-Handelsbehörde ersetzen, wofür sich Quark zeitweise in eine Ferengi-Weibliche umwandeln lässt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E24",
+					"name": "Time’s Orphan",
+					"datePublished": "1998-05-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Zeitportal",
+						"datePublished": "1998-10-24"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Bei einem Ausflug auf Bajor passiert O’Briens Tochter Molly ein Zeitportal und erscheint als wesentlich ältere, völlig entfremdete Person, weswegen die Stationsoffiziere dazu gezwungen sind, an einer Lösung des Problems zu arbeiten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E25",
+					"name": "The Sound Of Her Voice",
+					"datePublished": "1998-06-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Klang ihrer Stimme",
+						"datePublished": "1998-10-31"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Die Crew der Defiant empfängt den Notruf einer Sternenflottenoffizierin, die, auf einem Planeten notgelandet, zu sterben droht, falls es der Defiant nicht gelingen sollte, rechtzeitig bei ihr zu sein. Bei der Ankunft der Defiant stellt deren Besatzung aber fest, dass die Frau schon seit Jahren tot ist."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S6:E26",
+					"name": "Tears Of The Prophets",
+					"datePublished": "1998-06-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Tränen der Propheten",
+						"datePublished": "1998-11-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Sisko, durch die Sternenflottenführung zum Planen der Invasion von Cardassia auserkoren, führt eine aus Sternenflotte, Klingonen und Romulanern bestehende Kriegsraumschiffflotte in eine Schlacht gegen das Dominion, die allerdings beiderseits verlustreich endet. Nach der dabei gelungenen Einnahme des im Dominion-Territorium gelegenen Chin’toka-Planetensystems dringt die Föderation tatsächlich bis nach Cardassia vor. Dukat lässt einen Pah-Geist von sich Besitz ergreifen, der den Eingang zum Wurmloch versiegelt, um so den Bajoranern und Sisko ihre Verbindung zu den Propheten zu entziehen und die Föderation militärisch zu schwächen. Weil ihm dabei Jadzia Dax im Wege ist, ermordet er sie."
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 7,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_7",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E1",
+					"name": "Image In The Sand (1)",
+					"datePublished": "1998-09-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Gesicht im Sand (1)",
+						"datePublished": "1999-09-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Sisko hat sich auf die Erde in das Restaurant seines Vaters zurückgezogen und erlebt eine Vision, durch die er zu der Erkenntnis gelangt, dass er der Abgesandte der Propheten ist und dass sie es waren, die einst seine Geburt veranlassten. Daraufhin macht er sich auf die Suche nach dem Drehkörper des Abgesandten, der ihm den Kontakt zu den Propheten, die mitsamt dem Wurmloch verschwunden sind, ermöglicht. Währenddessen errichten die neuen romulanischen Verbündeten auf einem bajoranischen Mond ein Waffenlager."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E2",
+					"name": "Shadows And Symbols (2)",
+					"datePublished": "1998-10-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Schatten und Symbole (2)",
+						"datePublished": "1999-09-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Nachdem er den Drehkörper geöffnet hat, vertreiben die Propheten den Pah-Geist aus dem Wurmloch und öffnen dessen Eingang wieder. Da es gegen die Souveränitätsrechte Bajors verstößt, veranlasst Kira, ein Gefecht riskierend, eine Blockade des Versorgungsweges zu dem Mond."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E3",
+					"name": "Afterimage",
+					"datePublished": "1998-10-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Nachempfindung",
+						"datePublished": "1999-09-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
+						"@type": "Person",
+						"name": "Les Landau"
+					},
+					"description": "Ezri Dax, neu auf der Station eingetroffen, hat zunächst Anpassungsschwierigkeiten sowohl in ihrer Rolle als Counselor als auch als Vertraute Worfs."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E4",
+					"name": "Take Me Out To The Holosuite",
+					"datePublished": "1998-10-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wettkampf in der Holosuite",
+						"datePublished": "1999-09-25"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
+						"@type": "Person",
+						"name": "Chip Chalmers"
+					},
+					"description": "Der vulkanische Sternenflottencaptain Solok fordert Sisko und seine Crew zu einem Baseball-Wettkampf in der Holosuite heraus."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E5",
+					"name": "Chrysalis",
+					"datePublished": "1998-10-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Sarina",
+						"datePublished": "1999-10-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
+						"@type": "Person",
+						"name": "Jonathan West"
+					},
+					"description": "Bashir hilft der autistischen, genetisch aufgewerteten Sarina dabei, die Fähigkeit zu Sprechen zurückzugewinnen."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E6",
+					"name": "Treachery, Faith And The Great River",
+					"datePublished": "1998-10-31",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Verrat, Glaube und gewaltiger Fluss",
+						"datePublished": "1999-10-09"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#StevePosey",
+						"@type": "Person",
+						"name": "Steve Posey"
+					},
+					"description": "Als ein Klon des Vortas Weyoun zur Föderation überlaufen möchte, erfährt Odo von ihm, dass die Gründer an einer Krankheit leiden, die ihre Körper degenerieren lässt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E7",
+					"name": "Once More Unto The Breach",
+					"datePublished": "1998-11-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Dahar-Meister",
+						"datePublished": "1999-10-16"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"description": "Damit er ehrenvoll sterben kann, möchte der gealterte Klingone Kor das Kommando über ein Raumschiff erhalten, stößt mit diesem Wunsch aber bei Martok zunächst auf Widerstand und erhält schließlich Unterstützung durch Worf."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E8",
+					"name": "The Siege Of AR-558",
+					"datePublished": "1998-11-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Belagerung von AR-558",
+						"datePublished": "1999-10-23"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"description": "Der Krieg fordert weiterhin Tausende Opfer auf Seiten der Föderation. Bei der Verteidigung einer Kommunikationsanlage des Dominion durch die Sternenflotte werden zahlreiche Sternenflottenangehörige verletzt oder getötet, Nog wird angeschossen und schwer verletzt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E9",
+					"name": "Covenant",
+					"datePublished": "1998-11-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Entscheidung auf Empok Nor",
+						"datePublished": "1999-10-30"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
+						"@type": "Person",
+						"name": "John Kretchmer"
+					},
+					"description": "Kira erfährt, dass sich Dukat zum Führer einer bajoranischen Sekte aufgeschwungen hat, die die Pah-Geister als die wahren Götter Bajors verehrt. Als die Sektenmitglieder aber – auch durch die Ermittlungen Kiras – erfahren, dass sie von Dukat betrogen wurden, flieht dieser."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E10",
+					"name": "It’s Only a Paper Moon",
+					"datePublished": "1998-12-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Leben in der Holosuite",
+						"datePublished": "1999-11-06"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
+						"@type": "Person",
+						"name": "Anson Williams"
+					},
+					"description": "Durch den Verlust seines Beines traumatisiert, zieht sich Nog in das Holosuite-Programm zurück, das den Sänger Vic Fontaine beinhaltet."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E11",
+					"name": "Prodigal Daughter",
+					"datePublished": "1999-01-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die verlorene Tochter",
+						"datePublished": "1999-11-13"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
+						"@type": "Person",
+						"name": "Victor Lobl"
+					},
+					"description": "Als sie ihre Familie auf dem Planeten New Sidney besucht, erfährt Ezri, dass Mitglieder ihrer Familie in Aktivitäten des verbrecherischen Orion-Syndikats verwickelt sind."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E12",
+					"name": "The Emperor’s New Cloak",
+					"datePublished": "1999-01-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Tarnvorrichtung",
+						"datePublished": "1999-11-20"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
+						"@type": "Person",
+						"name": "LeVar Burton"
+					},
+					"description": "Nachdem der Große Nagus Zek in das Spiegeluniversum entführt wurde und dort exekutiert werden soll, beamen sich Quark und Rom in die Parallelwelt, um Zek gegen eine Tarnvorrichtung einzutauschen, die die Allianz benötigt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E13",
+					"name": "Field Of Fire",
+					"datePublished": "1999-02-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Freies Schussfeld",
+						"datePublished": "1999-11-27"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#TonyDow",
+						"@type": "Person",
+						"name": "Tony Dow"
+					},
+					"description": "Ezri erhält vom Bewusstsein einer ihrer früheren Wirte Unterstützung bei der Suche nach einem Mörder, der unter Verwendung einer experimentellen Waffe sein Unwesen auf der Station treibt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E14",
+					"name": "Chimera",
+					"datePublished": "1999-02-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Hirngespinst",
+						"datePublished": "1999-12-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#StevePosey",
+						"@type": "Person",
+						"name": "Steve Posey"
+					},
+					"description": "Odo begegnet während eines Shuttle-Fluges ein anderer Formwandler, der einst ebenso wie Odo zur Erforschung der Galaxis ausgesetzt wurde und nun von Odo mehr über sein Volk erfährt."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E15",
+					"name": "Badda-Bing, Badda-Bang",
+					"datePublished": "1999-02-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Badda-Bing, Badda-Bang",
+						"datePublished": "1999-12-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"description": "Vic Fontaines holografischem Casino droht von Gangstern übernommen zu werden und dadurch Fontaines Programmspeicher gelöscht zu werden. Siskos und seine Offiziere müssen die Gangster besiegen, um ihn zu retten."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E16",
+					"name": "Inter Arma Enim Silent Leges",
+					"datePublished": "1999-02-27",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unter den Waffen schweigen die Gesetze",
+						"datePublished": "2000-01-08"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"@type": "Person",
+						"name": "David Livingston"
+					},
+					"description": "Bashir lässt sich vorgeblich auf die Anfrage des Agenten Sloan von der Sektion 31 ein, die romulanische Regierung auszuspionieren, um so mehr über die Hintermänner der Sektion zu erfahren."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E17",
+					"name": "Penumbra",
+					"datePublished": "1999-04-03",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Im Ungewissen",
+						"datePublished": "2000-01-22"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#StevePosey",
+						"@type": "Person",
+						"name": "Steve Posey"
+					},
+					"abstract": "Ezri searches for a missing Worf; Sisko makes plans to marry Kasidy Yates."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E18",
+					"name": "’Til Death Do Us Part",
+					"datePublished": "1999-04-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Bis dass der Tod uns scheide",
+						"datePublished": "2000-01-29"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"@type": "Person",
+						"name": "Winrich Kolbe"
+					},
+					"abstract": "Captured by the Breen, Ezri and Worf undergo mental torture. Sisko agonizes over his broken engagement."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E19",
+					"name": "Strange Bedfellows",
+					"datePublished": "1999-04-17",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Eine sonderbare Kombination",
+						"datePublished": "2000-02-05"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
+						"@type": "Person",
+						"name": "René Auberjonois"
+					},
+					"abstract": "An alliance is born between the Dominion and the Breen which will prove devastating for the Federation. Ezri and Worf are sentenced to death on Cardassia."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E20",
+					"name": "The Changing Face Of Evil",
+					"datePublished": "1999-04-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Im Angesicht des Bösen",
+						"datePublished": "2000-02-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"abstract": "The war reaches a crucial turning point when the Dominion retakes the Chin’Toka system, the only Allied foothold in enemy space. Meanwhile, Winn learns that Dukat plans to release the Pah-Wraiths, and Damar leads a revolt against the Dominion."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E21",
+					"name": "When It Rains…",
+					"datePublished": "1999-05-01",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ein Unglück kommt selten allein",
+						"datePublished": "2000-02-19"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
+						"@type": "Person",
+						"name": "Michael Dorn"
+					},
+					"abstract": "Sisko orders Kira, Garak and Odo to Cardassia to assist Cardassians in resistance tactics as Damar’s rebellion gains ground; meanwhile, Bashir makes a shocking discovery about the disease that is ravaging the Founders."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E22",
+					"name": "Tacking Into The Wind",
+					"datePublished": "1999-05-08",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kampf mit allen Mitteln",
+						"datePublished": "2000-02-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
+						"@type": "Person",
+						"name": "Mike Vejar"
+					},
+					"abstract": "Kira masterminds a plot to steal the Breen energy-dampening weapon and Worf instigates a power shift in the Klingon Empire."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E23",
+					"name": "Extreme Measures",
+					"datePublished": "1999-05-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Extreme Maßnahmen",
+						"datePublished": "2000-03-04"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#StevePosey",
+						"@type": "Person",
+						"name": "Steve Posey"
+					},
+					"abstract": "As Odo falls gravely ill to the shape-shifter disease, Bashir and O’Brien must get inside the mind of Luther Sloan, who holds Odo’s cure."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E24",
+					"name": "The Dogs Of War",
+					"datePublished": "1999-05-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "In den Wirren des Krieges",
+						"datePublished": "2000-03-11"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
+						"@type": "Person",
+						"name": "Avery Brooks"
+					},
+					"abstract": "Sisko takes command of a new ship; Kira and Garak face a Dominion ambush on Cardassia. Grand Nagus Zek has an announcement to make, as well as the Siskos."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E25",
+					"name": "What You Leave Behind (1)",
+					"datePublished": "1999-05-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das, was du zurücklässt, Teil 1",
+						"datePublished": "2000-03-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"abstract": "Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the Cardassian homeworld. Dukat and Winn journey to the fire caves to release the Pah’Wraiths, and Damar leads his people in a revolution in an attempt to overthrow their Dominion oppressors. "
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S7:E26",
+					"name": "What You Leave Behind (2)",
+					"datePublished": "1999-05-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das, was du zurücklässt, Teil 2",
+						"datePublished": "2000-03-18"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
+						"@type": "Person",
+						"name": "Allan Kroeker"
+					},
+					"abstract": "Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the Cardassian homeworld. Dukat and Winn journey to the fire caves to release the Pah’Wraiths, and Damar leads his people in a revolution in an attempt to overthrow their Dominion oppressors.",
+					"description": "Handlung der Episoden S7:E17 bis S7:E26: Sisko eröffnet Kassidy, dass er für ihre gemeinsame Zukunft auf Bajor ein Haus bauen möchte, und verlobt sich dabei mit ihr. Später heiratet er Kassidy, obwohl ihn die Propheten davon abzuhalten versuchen. Zudem erfährt er von Kassidy, dass sie schwanger ist.  Das Dominion scheitert dabei, ein Heilmittel für die Krankheit der Formwandler herzustellen. Später findet Bashir heraus, dass Sektion 31 drei Jahre zuvor Odo mit der Krankheit infiziert hat, damit dieser die Krankheit an sein Volk überträgt. Odos Krankheitssymptome verschlimmern sich wegen des Formwandelns deutlich. Bashir und O’Brien beschließen, Vertreter der Sektion 31 nach DS9 zu locken, um Informationen über ein Mittel gegen die Krankheit zu gewinnen. Als Sloan von der Sektion 31 auf DS9 erscheint, dringen Bashir und O’Brien durch den Einsatz neurotechnologischer Apparate in Sloans Gedankenwelt ein. Dabei finden sie Informationen über die Zusammensetzung eines Gegenmittels für die Krankheit, Bashir gesteht O’Brien seine Liebe zu Ezrir Dax und Sloan stirbt. Nachdem Bashir das Gegenmittel hergestellt und Odo verabreicht hat, gesundet Odo umgehend. Sisko besteht darauf, dass das Heilmittel nicht an die Gründer gelangen darf.  Gowron übernimmt von Martok die Funktion des Befehlshabers der klingonischen Streitkräfte, um seine Macht gegenüber Martok zu stärken. Als Gowron mit seinen riskanten Kampfstrategien die vereinten Kräfte der Klingonen und der Föderation zu schwächen droht, fordert ihn Worf zum Rücktritt von seinem Amt auf und tötet ihn im anschließenden Duell, infolgedessen Martok neuer klingonischer Herrscher wird.  Der seinen Ruhestand planende Große Nagus Zek ernennt Rom zu seinem Amtsnachfolger.  Ezri findet bei ihrer eigenmächtigen Suchaktion den nach einem Raumschiffunglück zunächst verschollenen Worf. Bei ihrem Rückflug werden sie jedoch durch die Breen gefangengenommen. Als Folge von Folterungen durch die Breen gesteht Ezri gegenüber Worf unbewusst, Bashir zu lieben. Anschließend sind sie Zeuge des Entstehens einer Allianz zwischen dem Dominion und den Breen. Der cardassianische Herrscher Damar bringt wiederholt seinen Missmut über die Dominion-Breen-Allianz zum Ausdruck, da die Allianz ohne sein Wissen abgeschlossen wurde und Weyouns Aufmerksamkeit vielmehr den Breen als den jüngst im Krieg gefallenen Cardassianern gilt. Besorgt um die cardassianische Eigenständigkeit, verhilft Damar Worf und Dax zur Flucht von Cardassia und gibt ihnen mit auf den Weg, fortan Alliierter der Föderation zu sein. Kurz darauf greifen die Breen das Sternenflottenhauptquartier auf der Erde an. Mit ihrer Hilfe erobert das Dominion auch das Chin’toka-System von der Föderation zurück. Dabei zerstören die Breen mit ihrer Energiedämpfungswaffe auch die Defiant, deren aus Siskos Offizieren bestehende Mannschaft sich zuvor retten konnte. Damar hat unterdessen eine cardassianische Widerstandsbewegung gegründet mit dem Ziel, Cardassia von der Herrschaft des Dominion zu befreien. Auf Siskos Geheiß hin helfen Kira, Odo und Garak dabei, Damar beim Aufbau des Widerstands zu unterstützen. Die Sternenflotte findet heraus, dass der Energiedämpfungswaffe der Breen nur klingonische Schiffe gewappnet sind. Der Widerstandsbewegung gelingt es, ein mit der Breen-Energiedämpfungswaffe ausgerüstetes Jem’Hadar-Raumschiff aus dem Dominion-Territorium zu entführen. Wenig später erhält Sisko das Kommando über die zur Defiant baugleiche USS Sao Paulo, die er sogleich in Defiant umbenennen lässt. Nachdem die Widerstandsbewegung durch Angriffe des Dominion weitgehend zusammengebrochen ist, gelingt es Damar mit der Hilfe von Kira und Garak, sich zum Anführer einer geplanten Revolution aufzuschwingen, durch die er Cardassia vom Dominion befreien möchte. Zum endgültigen Erlangen der Herrschaft über den Alpha-Quadranten ändert die Dominion-Führung ihre Strategie, indem sie ihre Raumschiffe sich zunächst auf ihr eigenes Territorium zurückziehen lässt. Als Reaktion darauf planen Föderation, Romulaner und Klingonen einen groß angelegten Angriff auf das Dominion. Der Angriff, an dem auch die von Sisko befehligte Defiant teilnimmt, auf die Stellungen des Dominion rund um Cardassia Prime bringt ihnen zunächst schwere Verluste. Ausgelöst durch den von Damar eingeleiteten cardassianischen Volksaufstand beginnen sich dabei jedoch cardassianische Raumschiffe aus der Dominion-Flotte zu lösen und sich auf die Seite der Föderation zu schlagen. Als Reaktion darauf lässt die durch ihre Krankheit geschwächte Gründerin einen Genozid an den Cardassianern beginnen und Millionen von ihnen töten. Während er und seine Begleiter die Kommandozentrale des Dominion stürmen, wird Damar durch Jem’Hadar erschossen und der letzte Weyoun-Klon durch Garak exekutiert. Indem er sich mit ihr verbindet und sie von ihrer Krankheit heilt, überzeugt Odo die Gründerin davon, das Dominion kapitulieren zu lassen. Sich in einem Konferenzsaal auf DS9 gegenüberstehend, unterzeichnen die Gründerin und Vertreter von Föderation, Romulanern, Klingonen und Breen ein gemeinsames Friedensabkommen, durch den der Dominion-Krieg, der etwa 800 Millionen Tote forderte, beendet wird. Manche von Siskos Führungsoffizieren beginnen damit, die Station zu verlassen und neue Verantwortlichkeiten wahrzunehmen.  Dukat lässt sich chirurgisch in einen Bajoraner namens Anjohl Tenan verwandeln. In dieser Gestalt befindlich, erweckt er das Aufsehen von Kai Winn, die in Anjohls Besuch die Wahrwerdung einer Ankündigung der Propheten zu verstehen glaubt, der entsprechend sie beide dazu bestimmt seien, Bajor in eine Zeit der Erneuerung zu führen. Dukats alias Anjohls Ansinnen, Winn zur Abkehr vom Glauben an die Propheten und hin zum Glauben an die Pah-Geister zu bewegen, gelingt ihm, als Winn einsieht, dass sie nur so ihre Macht erhalten kann. Später findet Kai Winns Diener Solbor heraus, dass Anjohl in Wirklichkeit Gul Dukat ist und erzählt es Kai Winn, die, völlig schockiert über diese Mitteilung, im Affekt Solbor ermordet. Winn und Dukat beginnen schließlich damit, die Pah-Geister aus einem Höhlensystem auf Bajor zu befreien, in dem diese seit langer Zeit gefangengehalten werden. Dabei tötet Dukat Winn. Um die Pah-Geister in der Höhle gefangen zu halten, stürzt sich Sisko, Dukat mit sich reißend, in einen Abgrund. Im Himmelstempel erfährt Sisko von den Propheten, dass er noch viele ihrer Aufgaben zu erfüllen hat."
+				}
+			]
+		}
+	]
+}

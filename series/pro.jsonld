@@ -1,0 +1,408 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: Prodigy",
+	"identifier": "PRO",
+	"inLanguage": "en",
+	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy#Episodenliste",
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"numberOfEpisodes": 20,
+			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1",
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E1",
+					"name": "Lost & Found, Part 1",
+					"datePublished": "2021-10-28",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
+						"@type": "Person",
+						"name": "Ben Hibon"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gesucht und gefunden, Teil 1",
+						"datePublished": "2022-04-18"
+					},
+					"abstract": "On the Tars Lamora mining colony in the Delta Quadrant, a young alien named Dal dreams of escaping the colony and exploring what lies beyond the stars, while hoping to also learn more about where he came from. Thanks to a chance mission from the colony’s leader, The Diviner, to explore the surface and find a mysterious Medusean prisoner called “Zero”, Dal finds an abandoned Federation starship—the USS Protostar—but is unaware that The Diviner is also looking for the ship as well. With a ragtag crew of fellow colony members & The Diviner’s daughter Gwyndala (aka Gwyn) by his side and with the assistance of a holographic version of former USS Voyager Captain Kathryn Janeway, Dal uses the Protostar to escape the colony & begin the adventure of a lifetime."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E2",
+					"name": "Lost & Found, Part 2",
+					"datePublished": "2021-10-28",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
+						"@type": "Person",
+						"name": "Ben Hibon"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Gesucht und gefunden, Teil 2",
+						"datePublished": "2022-04-19"
+					},
+					"abstract": "On the Tars Lamora mining colony in the Delta Quadrant, a young alien named Dal dreams of escaping the colony and exploring what lies beyond the stars, while hoping to also learn more about where he came from. Thanks to a chance mission from the colony’s leader, The Diviner, to explore the surface and find a mysterious Medusean prisoner called “Zero”, Dal finds an abandoned Federation starship—the USS Protostar—but is unaware that The Diviner is also looking for the ship as well. With a ragtag crew of fellow colony members & The Diviner’s daughter Gwyndala (aka Gwyn) by his side and with the assistance of a holographic version of former USS Voyager Captain Kathryn Janeway, Dal uses the Protostar to escape the colony & begin the adventure of a lifetime.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/hboS_FHcfaU"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E3",
+					"name": "Starstruck",
+					"datePublished": "2021-11-04",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlanWan",
+						"@type": "Person",
+						"name": "Alan Wan"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Sehnsucht nach den Sternen",
+						"datePublished": "2022-04-13"
+					},
+					"abstract": "Janeway, under the assumption that the colony escapists are Starfleet cadets, begins to train them on how to operate the Protostar and explains to them the purpose of both the Federation & Starfleet. While Zero, Jankom Pog, Rok-Takk and Murf are eager to take on the chance to learn more about both and possibly being a part of the Federation, Dal—who has appointed himself Captain of the ship—decides to be the dissenter as he feels this would be a bad idea and dismisses Janeway. This decision comes back to haunt him when he directs Zero to fly the Protostar to a location only to learn that said location is harboring a dying star, putting the ship directly into its gravitational pull. Meanwhile, Gwyn is held as a prisoner aboard the ship but begins to plot an escape to try and gain control so she can return it to her father, who along with his dangerous second in command Dreadnok is in pursuit.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/_2F9odd64BU"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E4",
+					"name": "Dreamcatcher",
+					"datePublished": "2021-11-11",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
+							"@type": "Person",
+							"name": "Steve Ahn"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Traumfänger",
+						"datePublished": "2022-04-21"
+					},
+					"abstract": "Dal and the crew find an M-Class planet and decide to land the Protostar on its surface to investigate it. Using the ship’s exploration vehicle the Runaway, the crew finds the planet to be very hospitable and finds the planet willing to make whatever the individual desires the most become reality. But when Dal becomes enlightened to things by seeing a critical error committed by the illusion the planet creates of Janeway, it is revealed that there is a very sinister drawback to the planet’s plan. Gwyn, still a prisoner aboard the ship, once again attempts to escape captivity and take the Protostar to her father. However she soon finds that her actions will have detrimental consequences for herself and the entire team.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/mUSmPjnrdyk"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E5",
+					"name": "Terror Firma",
+					"datePublished": "2021-11-18",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#AlanWan",
+							"@type": "Person",
+							"name": "Alan Wan"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
+							"@type": "Person",
+							"name": "Olga Ulanova"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Killerplanet",
+						"datePublished": "2022-04-22"
+					},
+					"abstract": "The M-Class planet the team has landed upon (which Jankom Pog declares to be “Murder Planet”) has changed tactics to where instead of giving the crew a choice to stay it now plans on forcing them by assimilating them into its ecosystem, emphasizing this by destroying the Runaway and flinging Protostar 10 kilometers away from the crew, however Gwyn and Murf avoid joining the ship at the cost of injuring Gwyn. Janeway activates a beacon to direct the team to the ship while defending it from the planet’s attempt to attack it. When they spend most of the day traveling in circles due to terraforming (moving the land area) to keep the team 10 kilometers away, Dal & Gwyn ultimately find the solution that gets them heading in the right direction, unfortunately finding that Dreadnok and The Diviner are on the planet as well. A daring escape and a shocking betrayal leads to the team finding the ship at last and getting off Murder Planet. A final confrontation between the Protostar and the Diviner’s ship ultimately reveals the biggest secret of the experimental ship’s name.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/zcXrKRAjxEo"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E6",
+					"name": "Kobayashi",
+					"datePublished": "2022-01-06",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AlanWan",
+						"@type": "Person",
+						"name": "Alan Wan"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kobayashi",
+						"datePublished": "2022-04-25"
+					},
+					"abstract": "The Protostar comes out of warp and the Proto Drive is inactive after a 4,000-light-year jump from the Delta Quadrant into the Gamma Quadrant. While the others work to reactivate the Proto Drive, Dal seeks to prove his abilities as a captain by taking on the most difficult training exercise in Starfleet: The Kobayashi Maru. Using the simulated bridge of the Enterprise-D, he selects a crew of the best that Starfleet has to advise him: Spock, Scotty & Uhura (from the Original Series), Odo (from DS9), and Dr. Crusher (from TNG). After multiple attempts to pass, he finally beats the simulation using a very unorthodox method, only to inadvertently launch a photon torpedo at the Enterprise-D and destroy it. Dal then realizes that the Maru is a no-win scenario and that a good captain accepts some situations as unsolvable. Gwyn uses her knowledge of languages to decipher a section of code in Janeway’s memory bank that reveals the Protostar may not have gone into the Delta Quadrant by chance."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E7",
+					"name": "First Con-tact",
+					"datePublished": "2022-01-13",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
+							"@type": "Person",
+							"name": "Steve Ahn"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Erstkontakt",
+						"datePublished": "2022-04-26"
+					},
+					"abstract": "The crew responds to a distress signal that turns out to be Nandi, a Ferengi smuggler who raised Dal. Nandi has cloaking technology on her ship that can be powered by the chimerium crystals on the Protostar, and she offers to give the technology to the crew if they help her retrieve a remalite crystal from a nearby, unexplored planet. Janeway warns that interfering with the young civilization on that planet would violate Starfleet’s Prime Directive, but her concerns are dismissed and the crew help Nandi steal the crystal. When they realize the damage that they have done, the crew steal the crystal back and return it to the planet, but Nandi escapes with their chimerium."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E8",
+					"name": "Time Amok",
+					"datePublished": "2022-01-20",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
+							"@type": "Person",
+							"name": "Olga Ulanova"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Zeitphasen",
+						"datePublished": "2022-04-27"
+					},
+					"abstract": "Nandi contacts the Diviner and gives him the location of the Protostar. It will take months for them to reach that location, but the Diviner is able to hack the ship’s shuttlecraft replicator to form a copy of Drednok. After the crew fail to work together to solve a riddle, the Protostar goes through a tachyon storm that splits each of them into different streams of time where each experience the speed of time differently. Janeway moves between each crewmember and helps them all contribute to a plan to save the ship. Experiencing time the slowest, Rok-Tahk finishes the plan and reverses the anomaly. A partially completed replication of Drednok survives the event."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E9",
+					"name": "A Moral Star, Part 1",
+					"datePublished": "2022-01-27",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
+						"@type": "Person",
+						"name": "Ben Hibon"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Rückkehr nach Tars Lamora, Teil I",
+						"datePublished": "2022-04-28"
+					},
+					"abstract": "The Drednok replication displays a message from the Diviner offering to free the miners of Tars Lamora if the crew return the Protostar to him. They are eager to help the miners, though Dal is hesitant about returning to the prison. Forming a plan, they proto-warp to Tars Lamora and give the Protostar to the Diviner, who departs with Drednok and Gwyn after destroying the Tars Lamora power source. He soon discovers that the “proto-star” that powers the proto-warp engine is missing; the indestructible Murf consumed it as part of the plan, with the others preparing to restore Tars Lamora’s power so they can escape with the miners on the Diviner’s ship."
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E10",
+					"name": "A Moral Star, Part 2",
+					"datePublished": "2022-02-03",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
+						"@type": "Person",
+						"name": "Ben Hibon"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Rückkehr nach Tars Lamora, Teil II",
+						"datePublished": "2022-04-29"
+					},
+					"abstract": "The Protostar returns to Tars Lamora where the crew destroy Drednok and restore power. The Diviner reveals to Gwyn that he was sent from the future to prevent the destruction of their people after first contact with Starfleet caused a civil war; he plans to destroy Starfleet with a computer virus onboard the Protostar. Zero reveals their true form to the Diviner, driving him mad, while Gwyn sees Zero’s reflection and loses her memory of the Diviner’s plan. The Diviner is left in exile on Tars Lamora, the miners leave on his ship, and the crew of the Protostar fly towards Federation space where they are tracked by the real Janeway on the USS Dauntless.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/7sDQVbfdC1E"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E11",
+					"name": "Asylum",
+					"datePublished": "2022-10-27",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
+							"@type": "Person",
+							"name": "Steve Ahn"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Asyl",
+						"datePublished": "2022-11-14"
+					},
+					"abstract": "Following the events in the previous episode, the Protostar crew performs several unique missions as they make their way towards Federation space. They find a distant Starfleet space station and make contact with its caretaker, Lt. Frex, to request asylum & join Starfleet. A biometric scan reveals facts about the crew, particularly that Jankom’s Tellurite race is a founding Federation member and that Gwyn’s race is unknown to Starfleet. A stunning revelation is that Dal’s race is known to the Federation and that information needs to be reported to Starfleet as soon as possible. As the rest of the crew explores the station, Zero and Gwyn use the station’s Sickbay to recover memories lost when Gwyn caught a brief glimpse of Zero on Tars Lamora. When Frex attempts to access Protostar’s ship logs, he unknowingly activates the “weapon” The Diviner placed aboard it which proceeds to corrupt the station’s computer and destroy itself from within. Frex accuses the crew of being saboteurs and departs in the station’s only escape pod. With Rahk-Takk’s mind going into action, the team finds a way to escape the station’s destruction and return to the ship when Gwyn reveals that her memory has been restored and that she now knows everything. Meanwhile, Admiral Janeway aboard the USS Dauntless continues to investigate the reasoning behind the Protostar being in the Gamma Quadrant and why its original Captain Chakotay—her former second-in-command aboard the USS Voyager—failed to call for help if he was in danger, in addition to where the ship may currently be headed. She arrives on Tars Lamora where she finds The Diviner lying in stasis and plans to possibly get more information from him.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/38820B3gyOI"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E12",
+					"name": "Let Sleeping Borg Lie",
+					"datePublished": "2022-11-03",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
+							"@type": "Person",
+							"name": "Olga Ulanova"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Schlafende Borg soll man nicht wecken",
+						"datePublished": "2022-11-15"
+					},
+					"abstract": "The crew watches a holodeck program of Gwyn & The Diviner’s conversation regarding the “weapon” aboard the ship and its devastating purpose. They conduct a search of the ship but find nothing until a hidden set of letters from Gwyn’s home of Solum is located on the Bridge. Her “heirloom” becomes a key revealing a hidden sub-deck where they find the device. Attempts to destroy it fail as it possesses a self-defense sentience. An alert signals a ship in front of the Protostar, and it is revealed to be a deactivated Borg Cube. The discovery intrigues everyone else but Hologram Janeway has severe trepidations due to past experiences with the race. Dal and company think that maybe the Borg can help figure out how to remove the device so Janeway reluctantly agrees to try and board the Cube. Once aboard, Zero uses their ability to link to the ship’s system but the crew are suddenly overwhelmed as their actions awaken the dormant Borgs and capture the crew for assimilation. Zero is assimilated into the collective but Gwyn helps break them away when she alerts them that they swore not to harm anyone but allowing assimilations would counter their belief. Zero returns to normal, puts the entire ship back into dormancy and the team return to Protostar. The crew learn that the device is a living construct and cannot be removed or destroyed but decide to continue to use the ship to conduct heroic missions as they respond to a distress signal. Aboard the Dauntless, Admiral Janeway learns that The Diviner is somewhat conscious but not completely to where she can question him regarding the ship. Lt. Ascensia suggests using the bio-serum in the suit he was in to rejuvenate him to which Janeway agrees. Directing the ship to the last Protostar warp signature, they arrive to find the remains of CR 721 which was destroyed in the previous episode. Janeway comes to the conclusion that Chakotay is no longer in control of the Protostar and that whoever does must be a threat to be stopped. Janeway has The Diviner revived and he awakens.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/ofZbuiMWcVw"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E13",
+					"name": "All The World’s A Stage",
+					"datePublished": "2022-11-10",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
+						"@type": "Person",
+						"name": "Andrew L. Schmidt"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die ganze Welt ist eine Bühne",
+						"datePublished": "2022-11-16"
+					},
+					"abstract": "Admiral Janeway tries to coax more information from the still-weak and delirious Diviner. The “Protostar” crew resolves to avoid Starfleet for the time being and responds to a distress call from a M-class planet. Murf comes down with an illness which Rok cannot determine. After beaming down, the crew comes across an alien race who religiously revere Starfleet and named themselves the “Enda-Prizans”, and leads the Protostar crew to their village. After some time, the crew discover that a mysterious disease is afflicting the villagers, which also infects Dal. They track the disease to its source inside a cave which turns out to be a downed Federation shuttlecraft that is leaking plasma and poisoning the environment. The crew and villagers work together to dispose of the shuttlecraft and seal the cave while Zero devises a cure. As the Protostar crew work with the villagers to revitalize their society, Rok discovers that Murf has turned into a cocoon.",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/f4JNWmT5cW4"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E14",
+					"name": "Crossroads",
+					"datePublished": "2022-11-17",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
+							"@type": "Person",
+							"name": "Steve In Chang Ahn"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					],
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/eBJ_2AFvaPk"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E15",
+					"name": "Masquerade",
+					"datePublished": "2022-11-24"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E16",
+					"name": "Preludes"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E17",
+					"name": "Ghost in the Mashine"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E18",
+					"name": "Mindwalk"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E19",
+					"name": "Supernova, Part 1"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S1:E20",
+					"name": "Supernova, Part 2"
+				}
+			]
+		}
+	]
+}

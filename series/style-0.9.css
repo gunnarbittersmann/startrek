@@ -1,0 +1,278 @@
+@font-face {
+	font-family: 'Lato';
+	src: local(Lato Regular), url('/webfonts/lato/LatoLatin-Regular.woff2') format('woff2');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: local(Lato Bold), url('/webfonts/lato/LatoLatin-Bold.woff2') format('woff2');
+	font-style: normal;
+	font-weight: bold;
+	text-rendering: optimizeLegibility;
+}
+
+*, ::before, ::after {
+	box-sizing: border-box;
+}
+
+html {
+	--background-color: white;
+	--text-color: black;
+	--link-color: var(--text-color);
+	--disabled-color: gray;
+	--rule-color: silver;
+	--table-margin: 2em;
+	scroll-padding-top: calc(var(--header-height, 0) + var(--table-margin));
+	background: linear-gradient(
+		to bottom,
+		var(--background-color) var(--header-height, 0),
+		var(--rule-color) 0 calc(var(--header-height, 0) + 1px),
+		var(--background-color) 0
+	) fixed;
+}
+
+body {
+	background: linear-gradient(
+		to bottom,
+		var(--background-color) calc(var(--header-height) + var(--table-margin)),
+		transparent 0
+	);
+	color: var(--text-color);
+	margin: 0;
+	padding: 0 1em;
+	padding: 0 clamp(1em, 2vw, 2em);
+	font: 1em/1.1 Lato, Source Sans Pro, sans-serif;
+	font-variant-numeric: lining-nums tabular-nums;
+	font-variant-ligatures: none;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		--background-color: #222;
+		--text-color: white;
+		--disabled-color: darkgray;
+	}
+}
+
+:focus-visible {
+	outline: thin solid;
+	outline-offset: 0.25em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	:focus-visible {
+		transition: outline-offset .2s ease;
+	}
+}
+
+a {
+	color: var(--link-color);
+}
+
+.skip-link {
+	position: absolute;
+	top: 1em;
+	z-index: 1;
+	background: var(--background-color);
+	box-shadow: 0 0 0 1em var(--background-color);
+}
+
+.skip-link:not(:focus),
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+header, footer {
+	padding: 1em 0;
+	font-size: 0.9em;
+}
+
+header {
+	position: sticky;
+	top: 0;
+	background: var(--background-color);
+}
+
+#index header {
+	position: static;
+}
+
+nav ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	flex-flow: row wrap;
+	gap: 1em;
+}
+
+nav a {
+	color: var(--disabled-color);
+}
+
+nav a[href] {
+	color: inherit;
+	text-decoration: none;
+}
+
+nav a[href][aria-current] {
+	text-decoration: underline;
+	text-decoration-thickness: 0.1em;
+}
+
+svg {
+	width: auto;
+	height: 1rem;
+}
+
+/* workaround against Firefox bug, cf. https://forum.selfhtml.org/self/2022/mar/06/strange-rendering-bug-im-firefox/1796988#m1796988 */
+main {
+	background: linear-gradient(
+		to bottom,
+		transparent calc(var(--header-height) + 2px),
+		var(--background-color) 0
+	) fixed;
+}
+
+table {
+	margin: var(--table-margin) 0;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+
+caption {
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-bottom: 0.75em;
+	text-align: left;
+}
+
+tbody:not(:last-of-type) {
+	border-bottom: thin solid var(--rule-color);
+}
+
+th, td {
+	box-sizing: content-box;
+	padding: 0.25em 0.5em;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: top;
+}
+
+:is(th, td):first-child {
+	padding-left: 0;
+}
+
+:is(th, td):last-child {
+	padding-right: 0;
+}
+
+:where(#index) :is(th, td) {
+	vertical-align: middle;	
+}
+
+td {
+	width: 6em;
+}
+
+td:empty {
+	width: 0 !important;
+	padding: 0 !important;
+}
+
+[property="episodeNumber"] {
+	width: 4em;
+}
+
+td[property="name"],
+td[property="workTranslation"],
+td[property="director"] {
+	width: 16em;
+}
+
+p {
+	max-width: 36em;
+	margin-left: -32em;
+	line-height: 1.4;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
+:where(#tas, #pro) p {
+	max-width: 28em;
+	margin-left: -24em;
+}
+
+@media (max-width: 40em) {
+	thead {
+		display: none;
+	}
+	
+	table, caption, tbody, tr, th, td {
+		display: block;
+		width: 100% !important;
+	}
+	
+	tr {
+		padding: 0.5em 0;
+	}
+	
+	:is(th, td) {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	#index td {
+		display: inline;
+	}
+	
+	#index [property="startDate"]::after {
+		content: '–';
+	}
+
+	p {
+		max-width: initial;
+		margin-left: 0;
+	}
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+li:not(:last-of-type) > span::after {
+	content: ', ';
+}
+
+li:nth-last-of-type(2) > span::after {
+	content: ' & ';
+}
+
+img {
+	display: block;
+	margin: auto;
+	height: 2.5em;
+}
+
+summary {
+	width: fit-content;
+}
+
+:where(summary) {
+	outline: none;
+}

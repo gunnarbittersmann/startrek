@@ -1,0 +1,101 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "CreativeWorkSeries",
+	"name": "Star Trek",
+	"inLanguage": "en",
+	"hasPart": [
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: The Original Series",
+			"identifier": "TOS",
+			"startDate": "1966-09-08",
+			"endDate": "1969-06-03",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Star_Trek_TOS_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: The Animated Series",
+			"identifier": "TAS",
+			"startDate": "1973-09-08",
+			"endDate": "1974-10-12",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Star_Trek_TAS_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: The Next Generation",
+			"identifier": "TNG",
+			"startDate": "1987-09-26",
+			"endDate": "1994-05-26",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Star_Trek_The_Next_Generation_Logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Deep Space Nine",
+			"identifier": "DS9",
+			"startDate": "1992-12-30",
+			"endDate": "1999-05-22",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Star_Trek_DS9_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Voyager",
+			"identifier": "VOY",
+			"startDate": "1995-01-16",
+			"endDate": "2001-05-23",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/archive/8/80/20151107222737%21Star_Trek_VOY_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Enterprise",
+			"identifier": "ENT",
+			"startDate": "2001-09-26",
+			"endDate": "2005-05-13",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Star_Trek_ENT_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Discovery",
+			"identifier": "DSC",
+			"startDate": "2017-09-24",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Star_Trek_Discovery_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Short Treks",
+			"identifier": "ST",
+			"startDate": "2018-10-04",
+			"endDate": "2020-01-09",
+			"image": "https://upload.wikimedia.org/wikipedia/en/7/7c/StarTrekShortTreks.png"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Picard",
+			"identifier": "PIC",
+			"startDate": "2020-01-23",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Star_Trek_Picard_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Lower Decks",
+			"identifier": "LD",
+			"startDate": "2020-08-06",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Star_Trek_LD_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Prodigy",
+			"identifier": "PRO",
+			"startDate": "2021-10-28",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Star_Trek_Prod_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Strange New Worlds",
+			"identifier": "SNW",
+			"startDate": "2022-05-05",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Star_Trek_SNW_logo.svg"
+		}
+	]
+}

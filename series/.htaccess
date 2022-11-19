@@ -1,0 +1,10 @@
+Options -MultiViews
+RewriteEngine On
+RewriteBase /startrek/series
+# RewriteCond %{REQUEST_URI} !index.php$
+# RewriteCond %{REQUEST_URI} !\.jsonld$
+# RewriteCond %{REQUEST_URI} !\.css$
+# RewriteCond %{REQUEST_URI} !\.svg$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.+)$ index.php?series=$1
