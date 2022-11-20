@@ -1,6 +1,14 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/"
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
 	},
 	"@type": "TVSeries",
 	"name": "Star Trek: Prodigy",
@@ -30,7 +38,9 @@
 						"name": "Gesucht und gefunden, Teil 1",
 						"datePublished": "2022-04-18"
 					},
-					"abstract": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
+					"description": {
+						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -48,7 +58,9 @@
 						"name": "Gesucht und gefunden, Teil 2",
 						"datePublished": "2022-04-19"
 					},
-					"abstract": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway.",
+					"description": {
+						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -73,7 +85,9 @@
 						"name": "Sehnsucht nach den Sternen",
 						"datePublished": "2022-04-13"
 					},
-					"abstract": "Janeway, under the assumption that the colony escapists are Starfleet cadets, begins to train them on how to operate the Protostar and explains to them the purpose of the Federation and Starfleet. While Zero, Jankom, Rok-Tahk and Murf are eager to join the Federation, Dal—who has appointed himself Captain of the ship—dismisses Janeway. When he unknowingly directs Zero to fly the Protostar into a dying star, Dal is forced to ask for Janeway’s help to save themselves and the ship. Meanwhile, Gwyn is held prisoner but begins to plot an escape so she can gain control of the ship and return it to her father, who is already in pursuit with Drednok.",
+					"description": {
+						"en": "Janeway, under the assumption that the colony escapists are Starfleet cadets, begins to train them on how to operate the Protostar and explains to them the purpose of the Federation and Starfleet. While Zero, Jankom, Rok-Tahk and Murf are eager to join the Federation, Dal—who has appointed himself Captain of the ship—dismisses Janeway. When he unknowingly directs Zero to fly the Protostar into a dying star, Dal is forced to ask for Janeway’s help to save themselves and the ship. Meanwhile, Gwyn is held prisoner but begins to plot an escape so she can gain control of the ship and return it to her father, who is already in pursuit with Drednok."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -105,7 +119,9 @@
 						"name": "Traumfänger",
 						"datePublished": "2022-04-21"
 					},
-					"abstract": "Dal and the crew find an M-Class planet and decide to land the Protostar on its surface to investigate it. Using the ship’s exploration vehicle the Runaway, the crew finds the planet to be very hospitable and decide to split up. Alone, each of them sees the thing that they each desire most, which for Dal is a representation of the parents that he does not remember. He soon realizes that these illusions are not what they seem and races to save the others from the planet. On the Protostar, Gwyn escapes captivity and takes control of the ship. She is able to get out with Murf before the planet attacks the ship and throws it 10 kilometers away.",
+					"description": {
+						"en": "Dal and the crew find an M-Class planet and decide to land the Protostar on its surface to investigate it. Using the ship’s exploration vehicle the Runaway, the crew finds the planet to be very hospitable and decide to split up. Alone, each of them sees the thing that they each desire most, which for Dal is a representation of the parents that he does not remember. He soon realizes that these illusions are not what they seem and races to save the others from the planet. On the Protostar, Gwyn escapes captivity and takes control of the ship. She is able to get out with Murf before the planet attacks the ship and throws it 10 kilometers away."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -137,7 +153,9 @@
 						"name": "Der Killerplanet",
 						"datePublished": "2022-04-22"
 					},
-					"abstract": "The group find Murf and an injured Gwyn, and Janeway activates a beacon to direct the team to the undamaged ship while defending it from the planet’s attacks. After they spend most of the day traveling in circles due to the planet changing its terrain around them, Dal and Gwyn devise a solution together to navigate towards the ship using the stars. The Diviner and Drednok soon arrive, but the young crew are able to make it to the ship when the Diviner is tricked by the planet into thinking the ship is somewhere else. When he and Drednok return to their own ship, they pursue the Protostar but lose it when the young crew, including Gwyn, activates the special “proto-warp” function.",
+					"description": {
+						"en": "The group find Murf and an injured Gwyn, and Janeway activates a beacon to direct the team to the undamaged ship while defending it from the planet’s attacks. After they spend most of the day traveling in circles due to the planet changing its terrain around them, Dal and Gwyn devise a solution together to navigate towards the ship using the stars. The Diviner and Drednok soon arrive, but the young crew are able to make it to the ship when the Diviner is tricked by the planet into thinking the ship is somewhere else. When he and Drednok return to their own ship, they pursue the Protostar but lose it when the young crew, including Gwyn, activates the special “proto-warp” function."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -162,7 +180,9 @@
 						"name": "Kobayashi",
 						"datePublished": "2022-04-25"
 					},
-					"abstract": "The Protostar comes out of proto-warp after a 4,000-light-year jump into the Gamma Quadrant. Janeway introduces the crew to the holodeck, which can simulate virtual environments, and Dal uses it to take the Kobayashi Maru, a Starfleet captaincy examination. After unsuccessfully taking the test many times, even with a simulated crew of famous Starfleet officers, Dal learns that it is a no-win scenario and a good captain accepts some situations as being out of their control. Meanwhile, Gwyn uses her knowledge of languages to decipher a section of code in Janeway’s memory bank that reveals the Protostar’s original crew was boarded by an unknown enemy."
+					"description": {
+						"en": "The Protostar comes out of proto-warp after a 4,000-light-year jump into the Gamma Quadrant. Janeway introduces the crew to the holodeck, which can simulate virtual environments, and Dal uses it to take the Kobayashi Maru, a Starfleet captaincy examination. After unsuccessfully taking the test many times, even with a simulated crew of famous Starfleet officers, Dal learns that it is a no-win scenario and a good captain accepts some situations as being out of their control. Meanwhile, Gwyn uses her knowledge of languages to decipher a section of code in Janeway’s memory bank that reveals the Protostar’s original crew was boarded by an unknown enemy."
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -187,7 +207,9 @@
 						"name": "Erstkontakt",
 						"datePublished": "2022-04-26"
 					},
-					"abstract": "The crew responds to a distress signal that turns out to be Nandi, a Ferengi smuggler who raised Dal. Nandi has cloaking technology on her ship that can be powered by the chimerium crystals on the Protostar, and she offers to give the technology to the crew if they help her retrieve a remalite crystal from a nearby, unexplored planet. Janeway warns that interfering with the young civilization on that planet would violate Starfleet’s Prime Directive, but her concerns are dismissed and the crew help Nandi steal the crystal. When they realize the damage that they have done, the crew steal the crystal back and return it to the planet, but Nandi escapes with their chimerium."
+					"description": {
+						"en": "The crew responds to a distress signal that turns out to be Nandi, a Ferengi smuggler who raised Dal. Nandi has cloaking technology on her ship that can be powered by the chimerium crystals on the Protostar, and she offers to give the technology to the crew if they help her retrieve a remalite crystal from a nearby, unexplored planet. Janeway warns that interfering with the young civilization on that planet would violate Starfleet’s Prime Directive, but her concerns are dismissed and the crew help Nandi steal the crystal. When they realize the damage that they have done, the crew steal the crystal back and return it to the planet, but Nandi escapes with their chimerium."
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -212,7 +234,9 @@
 						"name": "Zeitphasen",
 						"datePublished": "2022-04-27"
 					},
-					"abstract": "Nandi contacts the Diviner and gives him the location of the Protostar. It will take months for them to reach that location, but the Diviner is able to hack the ship’s shuttlecraft replicator to form a copy of Drednok. After the crew fail to work together to solve a riddle, the Protostar goes through a tachyon storm that splits each of them into different streams of time where each experience the speed of time differently. Janeway moves between each crewmember and helps them all contribute to a plan to save the ship. Experiencing time the slowest, Rok-Tahk finishes the plan and reverses the anomaly. A partially completed replication of Drednok survives the event."
+					"description": {
+						"en": "Nandi contacts the Diviner and gives him the location of the Protostar. It will take months for them to reach that location, but the Diviner is able to hack the ship’s shuttlecraft replicator to form a copy of Drednok. After the crew fail to work together to solve a riddle, the Protostar goes through a tachyon storm that splits each of them into different streams of time where each experience the speed of time differently. Janeway moves between each crewmember and helps them all contribute to a plan to save the ship. Experiencing time the slowest, Rok-Tahk finishes the plan and reverses the anomaly. A partially completed replication of Drednok survives the event."
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -230,7 +254,9 @@
 						"name": "Rückkehr nach Tars Lamora, Teil I",
 						"datePublished": "2022-04-28"
 					},
-					"abstract": "The Drednok replication displays a message from the Diviner offering to free the miners of Tars Lamora if the crew return the Protostar to him. They are eager to help the miners, though Dal is hesitant about returning to the prison. Forming a plan, they proto-warp to Tars Lamora and give the Protostar to the Diviner, who departs with Drednok and Gwyn after destroying the Tars Lamora power source. He soon discovers that the “proto-star” that powers the proto-warp engine is missing; the indestructible Murf consumed it as part of the plan, with the others preparing to restore Tars Lamora’s power so they can escape with the miners on the Diviner’s ship."
+					"description": {
+						"en": "The Drednok replication displays a message from the Diviner offering to free the miners of Tars Lamora if the crew return the Protostar to him. They are eager to help the miners, though Dal is hesitant about returning to the prison. Forming a plan, they proto-warp to Tars Lamora and give the Protostar to the Diviner, who departs with Drednok and Gwyn after destroying the Tars Lamora power source. He soon discovers that the “proto-star” that powers the proto-warp engine is missing; the indestructible Murf consumed it as part of the plan, with the others preparing to restore Tars Lamora’s power so they can escape with the miners on the Diviner’s ship."
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -248,7 +274,9 @@
 						"name": "Rückkehr nach Tars Lamora, Teil II",
 						"datePublished": "2022-04-29"
 					},
-					"abstract": "The Protostar returns to Tars Lamora where the crew destroy Drednok and restore power. The Diviner reveals to Gwyn that he was sent from the future to prevent the destruction of their people after first contact with Starfleet caused a civil war; he plans to destroy Starfleet with a computer virus onboard the Protostar. Zero reveals their true form to the Diviner, driving him mad, while Gwyn sees Zero’s reflection and loses her memory of the Diviner’s plan. The Diviner is left in exile on Tars Lamora, the miners leave on his ship, and the crew of the Protostar fly towards Federation space where they are tracked by the real Janeway on the USS Dauntless.",
+					"description": {
+						"en": "The Protostar returns to Tars Lamora where the crew destroy Drednok and restore power. The Diviner reveals to Gwyn that he was sent from the future to prevent the destruction of their people after first contact with Starfleet caused a civil war; he plans to destroy Starfleet with a computer virus onboard the Protostar. Zero reveals their true form to the Diviner, driving him mad, while Gwyn sees Zero’s reflection and loses her memory of the Diviner’s plan. The Diviner is left in exile on Tars Lamora, the miners leave on his ship, and the crew of the Protostar fly towards Federation space where they are tracked by the real Janeway on the USS Dauntless."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -280,7 +308,9 @@
 						"name": "Asyl",
 						"datePublished": "2022-11-14"
 					},
-					"abstract": "The Protostar crew conduct several missions as they make their way toward Federation space. At a remote Starfleet communications relay station, they seek asylum and membership from its caretaker, Lt. Frex. In biometric scans, Murf is revealed to be a Mellanoid slime worm and Gwyn’s Vau N’Akat race is unknown to Starfleet. Dal’s race is known and he is directed to report to Starfleet Command. Frex unknowingly activates a Protostar “weapon”, which sends the Protostar adrift and causes the station to destroy itself from within, while Gwyn is in Sickbay to recover her memories. After returning to Protostar, Gwyn announces that she remembers everything. Meanwhile, Admiral Janeway aboard the Dauntless continues to follow the Protostar’s path in her quest to find Captain Chakotay. Arriving on Tars Lamora, she finds The Diviner lying in stasis.",
+					"description": {
+						"en": "The Protostar crew conduct several missions as they make their way toward Federation space. At a remote Starfleet communications relay station, they seek asylum and membership from its caretaker, Lt. Frex. In biometric scans, Murf is revealed to be a Mellanoid slime worm and Gwyn’s Vau N’Akat race is unknown to Starfleet. Dal’s race is known and he is directed to report to Starfleet Command. Frex unknowingly activates a Protostar “weapon”, which sends the Protostar adrift and causes the station to destroy itself from within, while Gwyn is in Sickbay to recover her memories. After returning to Protostar, Gwyn announces that she remembers everything. Meanwhile, Admiral Janeway aboard the Dauntless continues to follow the Protostar’s path in her quest to find Captain Chakotay. Arriving on Tars Lamora, she finds The Diviner lying in stasis."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -312,7 +342,9 @@
 						"name": "Schlafende Borg soll man nicht wecken",
 						"datePublished": "2022-11-15"
 					},
-					"abstract": "After watching a holodeck re-creation of Gwyn and The Diviner’s conversation about the ship’s anti-Starfleet weapon, the crew find a hidden sub-deck that leads to the device. Soon after, they encounter a dormant Borg Cube that Gwyn and Dal think may hold information to disarm Protostar’s unwanted weapon. A team goes aboard and Zero connects to search for information, which awakens the Borg, who then capture the others. Gwyn escapes and coaches Zero to break away from assimilation. Zero then returns the Borg to dormancy and the team return to Protostar and depart. The crew learn that the device, a living construct, cannot be disarmed or removed and thus they cannot risk returning to Starfleet. The Dauntless visits the last location of the Protostar warp signature, only to find the remains of relay station CR 721. Admiral Janeway concludes that Chakotay is no longer in control of the Protostar and that whoever is must be stopped. Janeway has The Diviner revived and he awakens.",
+					"description": {
+						"en": "After watching a holodeck re-creation of Gwyn and The Diviner’s conversation about the ship’s anti-Starfleet weapon, the crew find a hidden sub-deck that leads to the device. Soon after, they encounter a dormant Borg Cube that Gwyn and Dal think may hold information to disarm Protostar’s unwanted weapon. A team goes aboard and Zero connects to search for information, which awakens the Borg, who then capture the others. Gwyn escapes and coaches Zero to break away from assimilation. Zero then returns the Borg to dormancy and the team return to Protostar and depart. The crew learn that the device, a living construct, cannot be disarmed or removed and thus they cannot risk returning to Starfleet. The Dauntless visits the last location of the Protostar warp signature, only to find the remains of relay station CR 721. Admiral Janeway concludes that Chakotay is no longer in control of the Protostar and that whoever is must be stopped. Janeway has The Diviner revived and he awakens."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -337,7 +369,9 @@
 						"name": "Die ganze Welt ist eine Bühne",
 						"datePublished": "2022-11-16"
 					},
-					"abstract": "Admiral Janeway tries to coax more information from the still-weak and delirious Diviner. The Protostar crew resolves to avoid Starfleet for the time being and responds to a distress call from a M-class planet. Murf comes down with an illness which Rok cannot determine. After beaming down, the crew comes across an alien race who religiously revere Starfleet and named themselves the “Enda-Prizans”, and leads the Protostar crew to their village. After some time, the crew discover that a mysterious disease is afflicting the villagers, which also infects Dal. They track the disease to its source inside a cave which turns out to be a downed Federation shuttlecraft that is leaking plasma and poisoning the environment. The crew and villagers work together to dispose of the shuttlecraft and seal the cave while Zero devises a cure. As the Protostar crew work with the villagers to revitalize their society, Rok discovers that Murf has turned into a cocoon.",
+					"description": {
+						"en": "Admiral Janeway tries to coax more information from the still-weak and delirious Diviner. The Protostar crew resolves to avoid Starfleet for the time being and responds to a distress call from a M-class planet. Murf comes down with an illness which Rok cannot determine. After beaming down, the crew comes across an alien race who religiously revere Starfleet and named themselves the “Enda-Prizans”, and leads the Protostar crew to their village. After some time, the crew discover that a mysterious disease is afflicting the villagers, which also infects Dal. They track the disease to its source inside a cave which turns out to be a downed Federation shuttlecraft that is leaking plasma and poisoning the environment. The crew and villagers work together to dispose of the shuttlecraft and seal the cave while Zero devises a cure. As the Protostar crew work with the villagers to revitalize their society, Rok discovers that Murf has turned into a cocoon."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {
@@ -363,7 +397,9 @@
 							"name": "Sung Shin"
 						}
 					],
-					"abstract": "Realizing that it is their best chance to join Star Fleet the crew plans to ditch The Protostar and hitch a ride to the nearest starbase. Meanwhile on The Dauntless Admiral Janeway talks with The Diviner who yet conscious and aware still has most of his memories supressed, suddenly The Diviner remembers Gwyn’s name and Janeway arrives on a ice planet to interogate Frex unknown to them The Protostar and her crew are there as well. The group arrives at a trading post and meet Thaddeus Okona who offers them a ride the kids decline due to his high price, soon after Okona is arrested for smuggling illegal contraband. The kids split up to search for a ride with Gwyn asking a Klingon but changes her mind when he asks for her weapon as payment Gwyn is saved by Ensign Ascensia but flees when Acensia reveals her father is on The Dauntless. Elsewhere Dal runs into Janeway herself and they have brief conversation that ends when Frex appears, Frex reveals the group’s identies to Janeway but not before Dal successfully escapes Dal reunites with the rest of the group and they manage to escape the trading post Janeway chases after them but they make it back to the ship with the help of Okona who stowed away on the speeder. The crew flees into warp and prepares to activate the protodrive but Janeway shoots at them disabling The Protostar. The crew retreats into the Romulan neutral zone with Janeway in pursuit.",
+					"description": {
+						"en": "Realizing that it is their best chance to join Star Fleet the crew plans to ditch The Protostar and hitch a ride to the nearest starbase. Meanwhile on The Dauntless Admiral Janeway talks with The Diviner who yet conscious and aware still has most of his memories supressed, suddenly The Diviner remembers Gwyn’s name and Janeway arrives on a ice planet to interogate Frex unknown to them The Protostar and her crew are there as well. The group arrives at a trading post and meet Thaddeus Okona who offers them a ride the kids decline due to his high price, soon after Okona is arrested for smuggling illegal contraband. The kids split up to search for a ride with Gwyn asking a Klingon but changes her mind when he asks for her weapon as payment Gwyn is saved by Ensign Ascensia but flees when Acensia reveals her father is on The Dauntless. Elsewhere Dal runs into Janeway herself and they have brief conversation that ends when Frex appears, Frex reveals the group’s identies to Janeway but not before Dal successfully escapes Dal reunites with the rest of the group and they manage to escape the trading post Janeway chases after them but they make it back to the ship with the help of Okona who stowed away on the speeder. The crew flees into warp and prepares to activate the protodrive but Janeway shoots at them disabling The Protostar. The crew retreats into the Romulan neutral zone with Janeway in pursuit."
+					},
 					"review": {
 						"@type": "Review",
 						"video": {

@@ -1,0 +1,12 @@
+					"abstract": "([^"]*)",
+					"description": "([^"]*)"
+
+					"description": {\n\t\t\t\t\t\t"en": "$1",\n\t\t\t\t\t\t"de": "$2"\n\t\t\t\t\t}
+---
+					"description": "([^"]*)"
+
+					"description": {\n\t\t\t\t\t\t"de": "$1"\n\t\t\t\t\t}
+---
+					"abstract": "([^"]*)"
+
+					"description": {\n\t\t\t\t\t\t"en": "$1"\n\t\t\t\t\t}
