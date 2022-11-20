@@ -1,4 +1,5 @@
 <?php
+  const PREFERRED_LANG = 'de';
   const IS_LOGO_VISIBLE = FALSE;
   const IS_DIRECTOR_VISIBLE = FALSE;
   const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
@@ -179,37 +180,30 @@ EOT;
                       <?php endif; ?>
                     <?php endif; ?>
                   <?php endif; ?>
-                  <?php if ($episode['description']): ?>
+                  <?php if ($episode['description'] OR $episode['abstract']): ?>
+                    <?php
+                      $plotType = ($episode['description']) ? 'description' : 'abstract';
+                      $plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : 'en';
+                    ?>
                     <td>
-                      <details lang="de">
+                      <details lang="<?php html($plotLang); ?>">
                         <summary aria-describedby="<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>">
-                          Handlung
+                          <?php if ($plotLang = 'de'): ?>
+                            Handlung
+                          <?php else: ?>
+                            Plot
+                          <?php endif; ?>
                         </summary>
-                        <p property="description">
-                          <?php html($episode['description']); ?>
+                        <p property="<?php html($plotType); ?>">
+                          <?php html($episode[$plotType][$lang]); ?>
                         </p>
                         <?php if ($episode['sameAs']): ?>
                           <p>
-                            mehr in der 
-                            <a property="sameAs" href="<?php html($episode['sameAs']); ?>">
-                              Wikipedia
-                            </a>
-                          </p>
-                        <?php endif; ?>
-                      </details>
-                    </td>
-                  <?php elseif ($episode['abstract']): ?>
-                    <td>
-                      <details>
-                        <summary aria-describedby="<?php html($episode['@identifier']); ?>">
-                          Plot
-                        </summary>
-                        <p property="abstract">
-                          <?php html($episode['abstract']); ?>
-                        </p>
-                        <?php if ($episode['sameAs']): ?>
-                          <p>
-                            see also 
+                            <?php if ($plotLang = 'de'): ?>
+                              mehr in der
+                            <?php else: ?>
+                              see also
+                            <?php endif; ?>
                             <a property="sameAs" href="<?php html($episode['sameAs']); ?>">
                               Wikipedia
                             </a>
