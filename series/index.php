@@ -183,7 +183,7 @@ EOT;
                   <?php if ($episode['description'] OR $episode['abstract']): ?>
                     <?php
                       $plotType = ($episode['description']) ? 'description' : 'abstract';
-                      $plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : 'en';
+                      $plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
                     ?>
                     <td>
                       <details lang="<?php html($plotLang); ?>">
