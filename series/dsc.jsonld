@@ -165,12 +165,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E8",
-					"name": "Si Vis Pacem, Para Bellum",
+					"name": {
+						"@value": "Si Vis Pacem, Para Bellum",
+						"@language": "la"
+					},
 					"datePublished": "2017-11-05",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Si Vis Pacem, Para Bellum",
+						"name": {
+							"@value": "Si Vis Pacem, Para Bellum",
+							"@language": "la"
+						},
 						"datePublished": "2017-11-06"
 					},
 					"director": {

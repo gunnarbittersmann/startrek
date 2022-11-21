@@ -3327,7 +3327,10 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S7:E16",
-					"name": "Inter Arma Enim Silent Leges",
+					"name": {
+						"@value": "Inter Arma Enim Silent Leges",
+						"@language": "la"
+					},
 					"datePublished": "1999-02-27",
 					"workTranslation": {
 						"@type": "TVEpisode",
