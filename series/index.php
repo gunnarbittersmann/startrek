@@ -188,18 +188,18 @@ EOT;
                     <td>
                       <details lang="<?php html($plotLang); ?>">
                         <summary aria-describedby="<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>">
-                          <?php if ($plotLang = 'de'): ?>
+                          <?php if ($plotLang == 'de'): ?>
                             Handlung
                           <?php else: ?>
                             Plot
                           <?php endif; ?>
                         </summary>
                         <p property="<?php html($plotType); ?>">
-                          <?php html($episode[$plotType][$lang]); ?>
+                          <?php html($episode[$plotType][$plotLang]); ?>
                         </p>
                         <?php if ($episode['sameAs']): ?>
                           <p>
-                            <?php if ($plotLang = 'de'): ?>
+                            <?php if ($plotLang == 'de'): ?>
                               mehr in der
                             <?php else: ?>
                               see also
