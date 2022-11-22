@@ -104,8 +104,12 @@ EOT;
                     <?php $episode['@identifier'] = uniqid(); ?>
                     <th></th>
                   <?php endif; ?>
-                  <td property="name" id="<?php html($episode['@identifier']); ?>">
-                    <?php html($episode['name']); ?>
+                  <td property="name" id="<?php html($episode['@identifier']); ?>"
+                    <?php if (is_array($episode['name'])): ?>
+                      lang="<?php html($episode['name']['@language'] ?? 'und'); ?>"
+                    <?php endif; ?>
+                  >
+                    <?php html($episode['name']['@value'] ?? $episode['name']); ?>
                   </td>
                   <?php if ($translation): ?>
                     <td
@@ -131,7 +135,13 @@ EOT;
                           </span>
                         <?php endif; ?>
                       <?php else: ?>
-                        <span property="name"><?php html($translation['name']); ?></span>
+                        <span property="name"
+                          <?php if (is_array($translation['name'])): ?>
+                            lang="<?php html($translation['name']['@language'] ?? 'und'); ?>"
+                          <?php endif; ?>
+                        >
+                          <?php html($translation['name']['@value'] ?? $translation['name']); ?>
+                        </span>
                       <?php endif; ?>
                     </td>
                   <?php else: ?>
