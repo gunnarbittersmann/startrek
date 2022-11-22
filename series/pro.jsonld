@@ -389,7 +389,7 @@
 						{
 							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
-							"name": "Steve In Chang Ahn"
+							"name": "Steve Ahn"
 						},
 						{
 							"@id": "https://bittersmann.de/startrek/people#SungShin",
@@ -412,7 +412,12 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E15",
 					"name": "Masquerade",
-					"datePublished": "2022-11-24"
+					"datePublished": "2022-11-24",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#SungShin",
+						"@type": "Person",
+						"name": "Sung Shin"
+					}
 				},
 				{
 					"@type": "TVEpisode",
