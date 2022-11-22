@@ -519,12 +519,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S2:E9",
-					"name": "wej Duj",
+					"name": {
+						"@value": "wej Duj",
+						"@language": "tlh"
+					},
 					"datePublished": "2021-10-07",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "wej Duj",
+						"name": {
+							"@value": "wej Duj",
+							"@language": "tlh"
+						},
 						"datePublished": "2021-10-08"
 					},
 					"director": {
