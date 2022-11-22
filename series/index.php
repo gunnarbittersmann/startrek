@@ -3,7 +3,7 @@
   const IS_LOGO_VISIBLE = FALSE;
   const IS_DIRECTOR_VISIBLE = FALSE;
   const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
-  
+
   const STARFLEET_LOGO = 'starfleet.svg';
   const FAVICON = STARFLEET_LOGO;
   const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
@@ -11,17 +11,17 @@
   const SCRIPT = 'script.js';
 
   $files = scandir('.');
-  
+
   $json = file_get_contents('startrek.jsonld');
   $franchise = json_decode($json, TRUE);
-  
+
   $json = @file_get_contents($_GET['series'] . '.jsonld');
   $data = json_decode($json, TRUE);
-  
+
   function html($str) {
     echo htmlSpecialChars($str);
   }
-  
+
   function head($title) {
     $title = htmlSpecialChars($title);
     $starfleet_logo = htmlSpecialChars(STARFLEET_LOGO);
@@ -130,9 +130,9 @@ EOT;
                             <?php html($translation['alternateName']); ?>
                           </span>
                         <?php endif; ?>
-                      <?php else: ?>                    
+                      <?php else: ?>
                         <span property="name"><?php html($translation['name']); ?></span>
-                      <?php endif; ?>                    
+                      <?php endif; ?>
                     </td>
                   <?php else: ?>
                     <td></td>
