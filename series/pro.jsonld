@@ -417,6 +417,16 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"@type": "Person",
 						"name": "Sung Shin"
+					},
+					"description": {
+						"en": "The Protostar and her crew venture deeper into the neutral zone with the help of Okona, in need of further repairs Okona suggests they go to a scientific station where he was originally headed to complete them. On The Dauntless Admiral Janeway urges Admiral Jellico to let her enter the neutral zone Jellico denies her request due to her conflicting emotions, Janeway ultimately decides to enter the neutral zone when she realises the Romulans are going to attempt to steal The Protostar. At the Science station Dal learns from the head scientist that he is a genetic experiment created by Dr. Arik Soong a 22nd century geneticist horrifying him. On The Protostar Zero, Jankom, and Hologram Janeway are attacked by Tal Shiar agents who are after the weapon. Dal takes a procedure believing it will make him better as the crew leaves the Science lab the Tal Shiar agents ambush them, fearing the Romulans Okona leaves the kids to fend for themselves. Believing the kids won’t make it back in time Janeway fires two proton torpedoes at The Protostar but the kids with the help of Murf successfully evade the Romulans and Janeway has the torpedoes aborted. Later Zero cures Dal and the kids celebrate their small victory and earn Janeway’s respect. On The Dauntless The Diviner is confronted by Acensia who reveals herself to be another Vau N’Akat from the future in disguise accompanied by a new and improved Drednok."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/Ce_bTng4nLA"
+						}
 					}
 				},
 				{
