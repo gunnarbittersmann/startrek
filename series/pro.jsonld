@@ -419,7 +419,7 @@
 						"name": "Sung Shin"
 					},
 					"description": {
-						"en": "The Protostar and her crew venture deeper into the neutral zone with the help of Okona, in need of further repairs Okona suggests they go to a scientific station where he was originally headed to complete them. On The Dauntless Admiral Janeway urges Admiral Jellico to let her enter the neutral zone Jellico denies her request due to her conflicting emotions, Janeway ultimately decides to enter the neutral zone when she realises the Romulans are going to attempt to steal The Protostar. At the Science station Dal learns from the head scientist that he is a genetic experiment created by Dr. Arik Soong a 22nd century geneticist horrifying him. On The Protostar Zero, Jankom, and Hologram Janeway are attacked by Tal Shiar agents who are after the weapon. Dal takes a procedure believing it will make him better as the crew leaves the Science lab the Tal Shiar agents ambush them, fearing the Romulans Okona leaves the kids to fend for themselves. Believing the kids won’t make it back in time Janeway fires two proton torpedoes at The Protostar but the kids with the help of Murf successfully evade the Romulans and Janeway has the torpedoes aborted. Later Zero cures Dal and the kids celebrate their small victory and earn Janeway’s respect. On The Dauntless The Diviner is confronted by Acensia who reveals herself to be another Vau N’Akat from the future in disguise accompanied by a new and improved Drednok."
+						"en": " The Protostar stops for repairs at a starport in the Romulan Neutral Zone. Admiral Jellico denies Admiral Janeway's request to enter the zone in pursuit, but orders Dauntless to destroy the Protostar if the Romulans try to steal it. Geneticist Dr. Jago informs Dal that he is a human hybrid experiment, augmented with 26 other species. Dal reluctantly accepts an implant to unlock the augments. Dauntless enters the zone after concluding the Romulans are trying to steal the Protostar. Romulan agents learn they need the captain to gain control of Protostar; when they find the crew, Okona leaves and Dal subdues them using his new abilities. The Romulans continue to ambush the crew as they return to their ship. Janeway fires photon torpedoes at the Protostar, but has them diverted after the crew repel the agents. Zero removes Dal's implant and he returns to normal. On Dauntless, Acensia reveals herself to The Diviner as another Vau N'Akat in disguise, accompanied by a new and improved Drednok."
 					},
 					"review": {
 						"@type": "Review",
@@ -432,27 +432,44 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E16",
-					"name": "Preludes"
+					"name": "Preludes",
+					"datePublished": "2022-12-01",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
+							"@type": "Person",
+							"name": "Steve Ahn"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
+							"@type": "Person",
+							"name": "Sung Shin"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E17",
-					"name": "Ghost in the Machine"
+					"name": "Ghost in the Machine",
+					"datePublished": "2022-12-08"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E18",
-					"name": "Mindwalk"
+					"name": "Mindwalk",
+					"datePublished": "2022-12-15"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E19",
-					"name": "Supernova, Part 1"
+					"name": "Supernova, Part 1",
+					"datePublished": "2022-12-22"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E20",
-					"name": "Supernova, Part 2"
+					"name": "Supernova, Part 2",
+					"datePublished": "2022-12-29"
 				}
 			]
 		}
