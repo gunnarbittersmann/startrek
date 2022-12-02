@@ -445,7 +445,17 @@
 							"@type": "Person",
 							"name": "Sung Shin"
 						}
-					]
+					],
+					"description": {
+						"en": "On The Protostar the kids attempt to repair the protodrive so they can escape the neutral zone, as they work each of them recount how they got to Tars Lamora. Rok reveals she once was a fighter often playing the bad guy after she and her friend fell on hard times he sold her. Zero tells the group they were part of a Medusan exploriation crew one day they were lured away from the group and captured by hunters and taken to Tars Lamora where they met Drednok and Gwyn. Jankom goes last and recounts how he was awakened early from cryogenic sleep on a Tellorite ship once up he helped fix the ship which was severely damaged with the help of the security drone, though repairs were completed the air supply would be unable to sustain all of them for the rest of the trip so Jankom left the ship in a escape pod but was immediately captured by Kazon mercenaries. The Protostar’s repairs are finished and the kids prepare to leave the zone. On The Dauntless Acensia and Drednok recount to The Diviner of how they arrived in the past and about the events that happened beforehand involving Chakotay, and reveals herself as The Vindicator. Meanwhile Admiral Janeway receives more information on the kids including their names and backgrounds and also becomes suspicious of The Diviner, Janeway arrives at Acensia’s quarters and is shocked to see her undisgused along with Drednok before she can react she is knocked unconcious by The Diviner whose memories are fully restored."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/woTxI8XYTJ0"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
