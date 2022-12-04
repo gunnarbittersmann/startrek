@@ -582,6 +582,113 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 3,
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E1",
+					"datePublished": "2023-02-16",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"@type": "Person",
+						"name": "Doug Aarniokoski"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E2",
+					"datePublished": "2023-02-23",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"@type": "Person",
+						"name": "Doug Aarniokoski"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E3",
+					"datePublished": "2023-03-02",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E4",
+					"datePublished": "2023-03-09",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E5",
+					"datePublished": "2023-03-16",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"@type": "Person",
+						"name": "Dan Liu"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E6",
+					"datePublished": "2023-03-23",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"@type": "Person",
+						"name": "Dan Liu"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E7",
+					"datePublished": "2023-03-30",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
+						"@type": "Person",
+						"name": "Deborah Kampmeier"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E8",
+					"datePublished": "2023-04-06",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
+						"@type": "Person",
+						"name": "Deborah Kampmeier"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E9",
+					"datePublished": "2023-04-13",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+						"@type": "Person",
+						"name": "Terry Matalas"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "S3:E10",
+					"datePublished": "2023-04-20",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+						"@type": "Person",
+						"name": "Terry Matalas"
+					}
+				}
+			]
 		}
 	]
 }
