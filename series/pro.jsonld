@@ -461,7 +461,12 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E17",
 					"name": "Ghost in the Machine",
-					"datePublished": "2022-12-08"
+					"datePublished": "2022-12-08",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
+						"@type": "Person",
+						"name": "Andrew L. Schmidt"
+					}
 				},
 				{
 					"@type": "TVEpisode",
