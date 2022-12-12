@@ -31,6 +31,12 @@
 						"@type": "Person",
 						"name": "Akiva Goldsman"
 					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Fremde neue Welten",
+						"datePublished": "2022-12-07"
+					},
 					"description": {
 						"en": "In the 23rd century, Starfleet Admiral Robert April recalls Captain Christopher Pike of the starship USS Enterprise from shore leave after Pike’s first officer, Una Chin-Riley (referred to as “Number One”), goes missing during a first contact mission. Pike is reluctant to return to space, and confides in Vulcan science officer Spock—who has just become engaged to T’Pring—that he saw a vision of his own paralysis during their mission with the USS Discovery. They travel to the planet Kiley 279, which is in a similar state to 21st century Earth and on the brink of civil war. They have reverse-engineered a weapon from starship warp drives after witnessing the Discovery mission in nearby space. Pike and his crew rescue Number One from captivity, and break Starfleet’s General Order 1 by interfering in the society to convince them not to use the weapon. They avoid repercussions because of the top secret nature of the Discovery mission, but Starfleet doubles-down on the rule by renaming it the Prime Directive. Pike recommits to his role, and captains the Enterprise on a new five-year mission of exploration.",
 						"de": "Im 23. Jahrhundert. Christopher Pike, Captain der USS Enterprise wird von Admiral Robert April während eines Landgangs zurück beordert, nachdem Pikes Erster Offizier, Una Chin-Riley (als „Nummer Eins“ bezeichnet), während einer Erstkontakt-Mission vermisst wird. Pike zögert, in den Weltraum zurückzukehren, da er auf der USS Discovery eine Vision seines eigenen Todes hatte. Zusammen mit seinem vulkanischen Wissenschaftsoffizier Spock reisen sie zum Planet Kiley 279, der sich in einem ähnlichen Zustand wie die Erde des 21. Jahrhunderts befindet und am Rande eines Bürgerkriegs steht. Die Bewohner des Planeten haben eine Waffe aus Teilen eines Warpantriebes nachgebaut. Pike und seine Crew können Chin-Riley retten, sind aber dadurch gezwungen den Allgemeinen Befehl 1 der Sternenflotte, sich nicht in die Gesellschaft fremder Planten einzumischen, zu brechen. Pike bekennt sich erneut zu seiner Aufgabe als Sternenflottenoffizier und führt die Enterprise auf eine neue fünfjährige Erkundungsmission."
@@ -52,6 +58,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
 						"@type": "Person",
 						"name": "Maja Vrvilo"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2022-12-07"
 					},
 					"description": {
 						"en": "Cadet Nyota Uhura is invited to a meal with other crewmembers in Pike’s quarters, where she reveals that she is unsure about her future in Starfleet because she only joined as a way to escape from the pain of her parents’ deaths. The Enterprise crew attempt to alter the course of a comet that is set to kill all of the inhabitants of a desolate planet, but it has a force field that prevents this. Uhura joins a team that transports to the comet’s surface and discovers that it responds to music. A starship of “shepherds” who are escorting the comet position themselves between it and the Enterprise; they believe it is a being called M’hanit who is an ancient arbiter of life. Enterprise distracts them to allow Spock to alter the comet’s course, and as it passes by the planet it releases water vapor into the atmosphere that will improve the conditions for life. Uhura decodes music from the comet which indicates that it had expected this interference, and Pike ponders the origins of the comet and whether this was more than coincidence. He also considers the lives of the cadets that he is destined to save by sacrificing himself.",
