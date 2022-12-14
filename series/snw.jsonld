@@ -62,6 +62,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Kinder des Kometen",
 						"datePublished": "2022-12-07"
 					},
 					"abstract": {
@@ -88,6 +89,11 @@
 						"@type": "Person",
 						"name": "Leslie Hope"
 					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Geister von Illyria"
+					},
 					"abstract": {
 						"de": "Als die Enterprise das Verschwinden einer Kolonie von Illyrianern untersucht, infiziert sich ein Außenteam mit einem Virus, das sie süchtig nach Licht macht. Bis auf Commander Chin-Riley, die selbst Illyrianerin ist, steckt sich bald die gesamte Crew der Enterprise an. Während Pike und Spock durch einen Ionensturm auf dem Planeten gefangen sind, versucht Chin-Riley ein Heilmittel zu finden."
 					},
@@ -111,6 +117,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"@type": "Person",
 						"name": "Dan Liu"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Memento Mori"
 					},
 					"abstract": {
 						"de": "Bei einer Versorgungsmission zu einer Föderationskolonie gerät die Enterprise in eine Falle der Gorn. Mit Hilfe der Sicherheitschefin La’an Noonien-Singh die als Kind einen Gorn-Angriff überlebt hat, schafft es die Enterrpise die Gorn zu überlisten."
@@ -136,6 +147,11 @@
 						"@type": "Person",
 						"name": "Rachel Leiterman"
 					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Spock Amok"
+					},
 					"abstract": {
 						"de": "Während die Enterprise auf Sternenbasis 1 repariert wird begibt sich Spock nach Vulkan, um dort mit T’Pring eine Geistesverschmelzung zu vollziehen. Doch kurz darauf wird er von Admiral April kontaktiert der ihn und Pike bittet ihn bei den Verhandlungen mit den R’ongovianern zu unterstützen. Währenddessen erwischen Commander Chin-Riley und Noonien-Singh zwei Fähnriche bei einem unerlaubten Weltraumspaziergang, der Teil eines Spiels ist, das von rangniedrigeren Besatzungsmitgliedern gespielt wird und „Enterprise-Bingo“ heißt. Als sie erfahren, dass sie als „Spaßbremsen“ gelten, probieren die beiden das Spiel selbst aus und finden Gefallen daran."
 					},
@@ -159,6 +175,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
 						"@type": "Person",
 						"name": "Andi Armaganian"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Erhebe uns dorthin, wo das Leid nicht hinkommt"
 					},
 					"abstract": {
 						"de": "Auf dem Weg zum Planeten Majalis empfängt die Enterprise einen Notruf von einem Shuttle, das von einem fremden Schiff angegriffen wird. Die Enterprise kann das Raumschiff zerstören und die Shuttle-Crew – ein Junge, der als „Erster Diener“ bezeichnet wird, sein Vater Gamal und Alora, eine alte Bekanntschaft von Pike – an Bord beamen. Pike willigt ein, sie nach Majalis zurückzubringen."
@@ -184,6 +205,11 @@
 						"@type": "Person",
 						"name": "Sydney Freeland"
 					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die heitere Sturmböe"
+					},
 					"description": {
 						"en": "Starfleet Counselor Aspen travels with the Enterprise to a far-flung colony under attack from space pirates in the rogue ship Serene Squall. Pike and a boarding party beam over to the ship, only for its crew to board Enterprise at the same time. Pike uses his culinary skills and some manipulative tactics to encourage a mutiny on the Serene Squall, allowing him and his boarding party to gain control of the ship. Meanwhile, Aspen reveals themself to actually be Angel, the Serene Squall’s captain. They contact T’Pring and give her an ultimatum: release Angel’s lover, a Vulcan prisoner that T’Pring is attempting to rehabilitate, or Spock dies. T’Pring chooses to hand the prisoner over, but Spock pretends to break their engagement by claiming to have an affair with Chapel. Angel tries to fire on T’Pring’s ship, but the Serene Squall boarding party use remote access codes to lock Enterprise’s controls. Angel flees and the pirates surrender. Spock reassures T’Pring of his love for her and tells Chapel that their friendship is strictly platonic. He also reveals to Chapel that Angel’s lover is his half-brother Sybok.",
 						"de": "Die Sternenflottenberaterin Aspen reist mit der Enterprise zu einer weit entfernten Kolonie, die von der Serene Squall einem „Piratenschiff“ angegriffen wird. Als Pike und ein Außenteam sich auf das Schiff beamen, gelangt ein Enterkommando der Serene Squall gleichzeitig an Bord der Enterprise. Während Pike versucht, eine Meuterei auf der Serene Squall auszulösen, die es ermöglichen würde, die Kontrolle über das Schiff zu erlangen, gibt sich Aspen auf der Enterprise als Angel, Captain der Serene Squall, zu erkennen. Ihr eigentliches Ziel ist es, ihren Geliebten freizupressen, der sich in vulkanischer Gefangenschaft befindet."
@@ -205,6 +231,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
 						"@type": "Person",
 						"name": "Amanda Row"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das elysische Königreich"
 					},
 					"description": {
 						"en": "The Enterprise is surveying a nebula when its warp drive fails, causing the crew to black out. M’Benga awakens to find the Enterprise’s interior dressed as the high fantasy setting of Rukiya’s favorite book, with the crew unknowingly portraying its characters. Chief engineer Hemmer is the only other crew member aware of the situation, thanks to his telepathic abilities, and they discover that the nebula has its own consciousness comparable to a Boltzmann brain. They find Rukiya and learn that the nebula had detected her loneliness and created the fantasy to entertain her. It also cured her disease, but this will not last if they leave the nebula. The nebula offers to preserve Rukiya by converting her into an energy being within the nebula, which M’Benga reluctantly agrees to. He then sees a vision of Rukiya as a grown woman having experienced a life of adventures with the nebula, whom she calls Debra. Debra releases the Enterprise, restoring its warp drive and interior design with no one other than M’Benga being able to remember the fantasy. He tells Number One about Rukiya’s fate.",
@@ -228,6 +259,11 @@
 						"@type": "Person",
 						"name": "Christopher J. Byrne"
 					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Alle, die wandern"
+					},
 					"description": {
 						"en": "The Enterprise is en route to Deep Space K-7 when it receives another priority assignment to investigate the missing USS Peregrine. While Enterprise continues to K-7, Pike leads an away team to an ice planet where they find the grounded Peregrine. Hemmer and Uhura restore the ship’s systems while Pike learns that it was carrying three refugees. One was infected with Gorn eggs which hatched, with the hatchlings bursting from his body and attacking the crew. Pike’s team finds the other two refugees to be the only survivors. One of them, Buckley, is also infected with Gorn eggs, and the hatchlings burst out. They attack the team, but they also fight each other until only the strongest hatchling is left. The team form a successful plan to kill the hatchling using cold temperatures from the ship’s environment controls, but not before Hemmer is infected. He encourages Uhura to remain in Starfleet before throwing himself from the ship so he will die in the cold along with the Gorn inside him. After the crew mourn Hemmer, Noonien-Singh takes a leave of absence to help the last refugee find her family.",
 						"de": "Die Enterprise ist auf dem Weg nach Deep Space K-7, als sie den Auftrag erhält, nach der vermissten USS Peregrine zu suchen. Während die Enterprise nach K-7 weiterfliegt, führt Pike zusammen mit Hemmer und Uhura ein Außenteam zu einem Eisplaneten, wo sie die havarierte Peregrine finden. Nachdem die Systeme des Schiffes wiederhergestellt sind, erfahren sie, das sich mehrere Personen an Bord befanden, die mit Eiern der Gorn „infiziert“ waren und die geschlüpften Gorn die Besatzung angriffen hatten. Nachdem sie einen Überlebenden finden, stellt sich heraus, das dieser ebenfalls infiziert ist. Um der Bedrohung Herr zu werden, will Pike mit Hilfe der Umweltkontrollen des Schiffes die Küken zu töten."
@@ -249,6 +285,11 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"@type": "Person",
 						"name": "Chris Fisher"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Eine Eigenschaft der Barmherzigkeit"
 					},
 					"description": {
 						"en": "When the Enterprise and the USS Cayuga provide supplies to an outpost by the Romulan Neutral Zone, Pike accidentally meets one of the cadets that he will sacrifice himself for in the future and decides to send warnings to them to prevent the accident from happening. He is visited by an older version of himself from a future where the accident does not happen, who shows Pike the consequences of this decision: seven years in the future, the Enterprise sees a Romulan Bird of Prey starship destroy the outpost. They track it with support from the USS Farragut and Captain James T. Kirk, who suggests an aggressive approach, but Pike insists on negotiating. The Romulan commander agrees to a ceasefire, but his sub-commander summons an armada of Romulan warships that damage the Enterprise, severely injuring Spock, and declare war on the Federation. In his own time, Pike accepts that his fate is necessary to save Spock and prevent war. His peace is interrupted by Captain Batel of the Cayuga, who boards the Enterprise and arrests Number One for being a genetically altered Illyrian.",
