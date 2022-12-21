@@ -306,7 +306,7 @@ EOT;
         </div>
       </header>
       <main>
-        <h1 property="name"><?php html($franchise['name']); ?></h1>
+        <h1 property="name"><?php html($franchise['name'] . ' series'); ?></h1>
         <table>
           <thead>
             <tr>
