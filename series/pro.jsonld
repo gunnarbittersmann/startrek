@@ -465,7 +465,7 @@
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"@type": "Person",
-						"name": "Andrew L. Schmidt"
+						"name": "Andrew Schmidt"
 					},
 					"description": {
 						"en": "The crew uses the holodeck to simulate ways to try and warn the Dauntless of the Living Construct but continually fail. They decide to take a break and enjoy some ice cream before getting some rest. After noticing some strange things about the ship, the crew soon realizes that they’re still in the holodeck. They begin working their way through various holodeck simulations programmed by the crew: Zero’s detective story, Jankom’s street fighting simulation, a jazz club program by Murf, and an amalgam of Dal’s pirate simulation and Rok’s virtual pet game. Zero soon deduces that the simulation is designed to keep them searching for clues indefinitely and tells them to stay put as the pirate ship sinks, ending the program. Zero explains that Hologram Janeway trapped them in the holodeck, acting under a secret subroutine programmed by the Living Construct that would keep the kids busy while the Protostar returned to Federation space. Hologram Janeway apologizes as the crew suddenly finds themselves face to face with the Dauntless and unable to control the Protostar."
@@ -503,7 +503,12 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E19",
 					"name": "Supernova, Part 1",
-					"datePublished": "2022-12-22"
+					"datePublished": "2022-12-22",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
+						"@type": "Person",
+						"name": "Andrew Schmidt"
+					}
 				},
 				{
 					"@type": "TVEpisode",
