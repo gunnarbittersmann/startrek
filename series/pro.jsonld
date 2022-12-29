@@ -524,7 +524,12 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E20",
 					"name": "Supernova, Part 2",
-					"datePublished": "2022-12-29"
+					"datePublished": "2022-12-29",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
+						"@type": "Person",
+						"name": "Ben Hibon"
+					}
 				}
 			]
 		}
