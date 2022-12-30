@@ -529,6 +529,16 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"@type": "Person",
 						"name": "Ben Hibon"
+					},
+					"description": {
+						"en": "The Protostar crew determine they can prevent the continued destruction of the Starfleet armada by taking the ship to proto-warp and simultaneously destroying it. They only have manual control of the systems, meaning someone will have to stay behind. Holo-Janeway sacrifices herself while the others escape on a hastily built shuttle. Destruction of the Protostar creates a wormhole to a point 52 years in the future, where Chakotay may still be alive. The crew are placed on trial, but with Admiral Janeway‘s advocacy they are cleared of all charges. Although they are not permitted to formally join Starfleet, permission is granted for Janeway to mentor them on her own ship. Gwyn will instead go to her homeworld and attempt to prevent the civil war that destroyed her people in the future, a mission that may involve meeting her father‘s younger self. With Gwyn heading off on her mission, Admiral Janeway takes the others to begin her new mission: the search for Chakotay."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/Bv_aoeJ6OFs"
+						}
 					}
 				}
 			]
