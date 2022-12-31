@@ -235,12 +235,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E9",
-					"name": "Et in Arcadia Ego, Part 1",
+					"name": {
+						"@value": "Et in Arcadia Ego, Part 1",
+						"@language": "la"
+					},
 					"datePublished": "2020-03-19",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Et in Arcadia Ego, Teil 1",
+						"name": {
+							"@value": "Et in Arcadia Ego, Teil 1",
+							"@language": "la"
+						},
 						"datePublished": "2020-03-20"
 					},
 					"director": {
@@ -262,12 +268,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "S1:E10",
-					"name": "Et in Arcadia Ego, Part 2",
+					"name": {
+						"@value": "Et in Arcadia Ego, Part 2",
+						"@language": "la"
+					},
 					"datePublished": "2020-03-26",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Et in Arcadia Ego, Teil 2",
+						"name": {
+							"@value": "Et in Arcadia Ego, Teil 2",
+							"@language": "la"
+						},
 						"datePublished": "2020-03-27"
 					},
 					"director": {
