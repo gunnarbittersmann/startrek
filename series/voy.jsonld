@@ -1,6 +1,10 @@
 {
 	"@context": {
 		"@vocab": "https://schema.org/",
+		"name": {
+			"@id": "https://schema.org/name",
+			"@container": "@language"
+		},
 		"abstract": {
 			"@id": "https://schema.org/abstract",
 			"@container": "@language"
