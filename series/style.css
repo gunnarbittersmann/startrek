@@ -213,27 +213,22 @@ td:empty {
 }
 
 [property="episodeNumber"] {
-	width: 4em;
+	width: 2em;
 }
 
 td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
 td[property="review"] {
-	width: 16em;
+	width: 18em;
 }
 
 p {
-	max-width: 36em;
-	margin-left: -32em;
+	max-width: 32em;
+	margin-left: -26em;
 	line-height: 1.4;
 	-webkit-hyphens: auto;
 	hyphens: auto;
-}
-
-:where(#tas, #pro, #snw) p {
-	max-width: 28em;
-	margin-left: -24em;
 }
 
 @media (max-width: 40em) {

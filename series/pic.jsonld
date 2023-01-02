@@ -25,7 +25,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1",
+					"episodeNumber": "1.1",
 					"name": "Remembrance",
 					"datePublished": "2020-01-23",
 					"workTranslation": {
@@ -52,7 +52,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E2",
+					"episodeNumber": "1.2",
 					"name": "Maps and Legends",
 					"datePublished": "2020-01-30",
 					"workTranslation": {
@@ -79,7 +79,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E3",
+					"episodeNumber": "1.3",
 					"name": "The End is the Beginning",
 					"datePublished": "2020-02-06",
 					"workTranslation": {
@@ -99,7 +99,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E4",
+					"episodeNumber": "1.4",
 					"name": "Absolute Candor",
 					"datePublished": "2020-02-13",
 					"workTranslation": {
@@ -126,7 +126,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E5",
+					"episodeNumber": "1.5",
 					"name": "Stardust City Rag",
 					"datePublished": "2020-02-20",
 					"workTranslation": {
@@ -153,7 +153,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E6",
+					"episodeNumber": "1.6",
 					"name": "The Impossible Box",
 					"datePublished": "2020-02-27",
 					"workTranslation": {
@@ -180,7 +180,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E7",
+					"episodeNumber": "1.7",
 					"name": "Nepenthe",
 					"datePublished": "2020-03-05",
 					"workTranslation": {
@@ -207,7 +207,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E8",
+					"episodeNumber": "1.8",
 					"name": "Broken Pieces",
 					"datePublished": "2020-03-12",
 					"workTranslation": {
@@ -234,7 +234,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E9",
+					"episodeNumber": "1.9",
 					"name": {
 						"@value": "Et in Arcadia Ego, Part 1",
 						"@language": "la"
@@ -267,7 +267,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E10",
+					"episodeNumber": "1.10",
 					"name": {
 						"@value": "Et in Arcadia Ego, Part 2",
 						"@language": "la"
@@ -314,7 +314,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E1",
+					"episodeNumber": "2.1",
 					"name": "The Star Gazer",
 					"datePublished": "2022-03-03",
 					"workTranslation": {
@@ -342,7 +342,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E2",
+					"episodeNumber": "2.2",
 					"name": "Penance",
 					"datePublished": "2022-03-10",
 					"workTranslation": {
@@ -370,7 +370,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E3",
+					"episodeNumber": "2.3",
 					"name": "Assimilation",
 					"datePublished": "2022-03-17",
 					"workTranslation": {
@@ -398,7 +398,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E4",
+					"episodeNumber": "2.4",
 					"name": "Watcher",
 					"datePublished": "2022-03-24",
 					"workTranslation": {
@@ -426,7 +426,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E5",
+					"episodeNumber": "2.5",
 					"name": "Fly Me to the Moon",
 					"datePublished": "2022-03-31",
 					"workTranslation": {
@@ -454,7 +454,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E6",
+					"episodeNumber": "2.6",
 					"name": "Two of One",
 					"datePublished": "2022-04-07",
 					"workTranslation": {
@@ -483,7 +483,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E7",
+					"episodeNumber": "2.7",
 					"name": "Monsters",
 					"datePublished": "2022-04-14",
 					"workTranslation": {
@@ -511,7 +511,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E8",
+					"episodeNumber": "2.8",
 					"name": "Mercy",
 					"datePublished": "2022-04-21",
 					"workTranslation": {
@@ -539,7 +539,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E9",
+					"episodeNumber": "2.9",
 					"name": "Hide and Seek",
 					"datePublished": "2022-04-28",
 					"workTranslation": {
@@ -567,7 +567,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E10",
+					"episodeNumber": "2.10",
 					"name": "Farewell",
 					"datePublished": "2022-05-05",
 					"workTranslation": {
@@ -602,7 +602,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E1",
+					"episodeNumber": "3.1",
 					"datePublished": "2023-02-16",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
@@ -612,7 +612,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E2",
+					"episodeNumber": "3.2",
 					"datePublished": "2023-02-23",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
@@ -622,7 +622,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E3",
+					"episodeNumber": "3.3",
 					"datePublished": "2023-03-02",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -632,7 +632,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E4",
+					"episodeNumber": "3.4",
 					"datePublished": "2023-03-09",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -642,7 +642,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E5",
+					"episodeNumber": "3.5",
 					"datePublished": "2023-03-16",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -652,7 +652,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E6",
+					"episodeNumber": "3.6",
 					"datePublished": "2023-03-23",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -662,7 +662,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E7",
+					"episodeNumber": "3.7",
 					"datePublished": "2023-03-30",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
@@ -672,7 +672,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E8",
+					"episodeNumber": "3.8",
 					"datePublished": "2023-04-06",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
@@ -682,7 +682,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E9",
+					"episodeNumber": "3.9",
 					"datePublished": "2023-04-13",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
@@ -692,7 +692,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E10",
+					"episodeNumber": "3.10",
 					"datePublished": "2023-04-20",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",

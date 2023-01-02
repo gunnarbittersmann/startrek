@@ -24,8 +24,8 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1",
-					"name": "Lost & Found, Part 1",
+					"episodeNumber": "1.1, 1.2",
+					"name": "Lost & Found",
 					"datePublished": "2021-10-28",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
@@ -35,28 +35,8 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Gesucht und gefunden, Teil 1",
-						"datePublished": "2022-04-18"
-					},
-					"description": {
-						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
-					}
-				},
-				{
-					"@type": "TVEpisode",
-					"episodeNumber": "S1:E2",
-					"name": "Lost & Found, Part 2",
-					"datePublished": "2021-10-28",
-					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
-						"@type": "Person",
-						"name": "Ben Hibon"
-					},
-					"workTranslation": {
-						"@type": "TVEpisode",
-						"inLanguage": "de",
-						"name": "Gesucht und gefunden, Teil 2",
-						"datePublished": "2022-04-19"
+						"name": "Gesucht und gefunden",
+						"datePublished": "2022-04-18/2022-04-19"
 					},
 					"description": {
 						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
@@ -71,7 +51,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E3",
+					"episodeNumber": "1.3",
 					"name": "Starstruck",
 					"datePublished": "2021-11-04",
 					"director": {
@@ -98,7 +78,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E4",
+					"episodeNumber": "1.4",
 					"name": "Dreamcatcher",
 					"datePublished": "2021-11-11",
 					"director": [
@@ -132,7 +112,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E5",
+					"episodeNumber": "1.5",
 					"name": "Terror Firma",
 					"datePublished": "2021-11-18",
 					"director": [
@@ -166,7 +146,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E6",
+					"episodeNumber": "1.6",
 					"name": "Kobayashi",
 					"datePublished": "2022-01-06",
 					"director": {
@@ -186,7 +166,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E7",
+					"episodeNumber": "1.7",
 					"name": "First Con-tact",
 					"datePublished": "2022-01-13",
 					"director": [
@@ -213,7 +193,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E8",
+					"episodeNumber": "1.8",
 					"name": "Time Amok",
 					"datePublished": "2022-01-20",
 					"director": [
@@ -240,7 +220,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E9",
+					"episodeNumber": "1.9",
 					"name": "A Moral Star, Part 1",
 					"datePublished": "2022-01-27",
 					"director": {
@@ -260,7 +240,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E10",
+					"episodeNumber": "1.10",
 					"name": "A Moral Star, Part 2",
 					"datePublished": "2022-02-03",
 					"director": {
@@ -287,7 +267,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E11",
+					"episodeNumber": "1.11",
 					"name": "Asylum",
 					"datePublished": "2022-10-27",
 					"director": [
@@ -321,7 +301,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E12",
+					"episodeNumber": "1.12",
 					"name": "Let Sleeping Borg Lie",
 					"datePublished": "2022-11-03",
 					"director": [
@@ -355,7 +335,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E13",
+					"episodeNumber": "1.13",
 					"name": "All The World’s A Stage",
 					"datePublished": "2022-11-10",
 					"director": {
@@ -382,7 +362,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E14",
+					"episodeNumber": "1.14",
 					"name": "Crossroads",
 					"datePublished": "2022-11-17",
 					"director": [
@@ -410,7 +390,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E15",
+					"episodeNumber": "1.15",
 					"name": "Masquerade",
 					"datePublished": "2022-11-24",
 					"director": {
@@ -431,7 +411,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E16",
+					"episodeNumber": "1.16",
 					"name": "Preludes",
 					"datePublished": "2022-12-01",
 					"director": [
@@ -459,7 +439,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E17",
+					"episodeNumber": "1.17",
 					"name": "Ghost in the Machine",
 					"datePublished": "2022-12-08",
 					"director": {
@@ -480,7 +460,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E18",
+					"episodeNumber": "1.18",
 					"name": "Mindwalk",
 					"datePublished": "2022-12-15",
 					"director": {
@@ -501,7 +481,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E19",
+					"episodeNumber": "1.19",
 					"name": "Supernova, Part 1",
 					"datePublished": "2022-12-22",
 					"director": {
@@ -522,7 +502,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E20",
+					"episodeNumber": "1.20",
 					"name": "Supernova, Part 2",
 					"datePublished": "2022-12-29",
 					"director": {
