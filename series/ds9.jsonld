@@ -24,7 +24,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1, S1:E2",
+					"episodeNumber": "1.1, 1.2",
 					"name": "Emissary",
 					"datePublished": "1992-12-30",
 					"workTranslation": {
@@ -44,7 +44,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E3",
+					"episodeNumber": "1.3",
 					"name": "Past Prologue",
 					"datePublished": "1993-01-09",
 					"workTranslation": {
@@ -64,7 +64,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E4",
+					"episodeNumber": "1.4",
 					"name": "A Man Alone",
 					"datePublished": "1993-01-16",
 					"workTranslation": {
@@ -84,7 +84,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E5",
+					"episodeNumber": "1.5",
 					"name": "Babel",
 					"datePublished": "1993-01-23",
 					"workTranslation": {
@@ -104,7 +104,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E6",
+					"episodeNumber": "1.6",
 					"name": "Captive Pursuit",
 					"datePublished": "1993-01-30",
 					"workTranslation": {
@@ -124,7 +124,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E7",
+					"episodeNumber": "1.7",
 					"name": "Q-Less",
 					"datePublished": "1993-02-06",
 					"workTranslation": {
@@ -144,7 +144,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E8",
+					"episodeNumber": "1.8",
 					"name": "Dax",
 					"datePublished": "1993-02-13",
 					"workTranslation": {
@@ -164,7 +164,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E9",
+					"episodeNumber": "1.9",
 					"name": "The Passenger",
 					"datePublished": "1993-02-20",
 					"workTranslation": {
@@ -184,7 +184,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E10",
+					"episodeNumber": "1.10",
 					"name": "Move Along Home",
 					"datePublished": "1993-03-13",
 					"workTranslation": {
@@ -204,7 +204,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E11",
+					"episodeNumber": "1.11",
 					"name": "The Nagus",
 					"datePublished": "1993-03-20",
 					"workTranslation": {
@@ -224,7 +224,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E12",
+					"episodeNumber": "1.12",
 					"name": "Vortex",
 					"datePublished": "1993-04-17",
 					"workTranslation": {
@@ -244,7 +244,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E13",
+					"episodeNumber": "1.13",
 					"name": "Battle Lines",
 					"datePublished": "1993-04-24",
 					"workTranslation": {
@@ -264,7 +264,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E14",
+					"episodeNumber": "1.14",
 					"name": "The Storyteller",
 					"datePublished": "1993-05-01",
 					"workTranslation": {
@@ -284,7 +284,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E15",
+					"episodeNumber": "1.15",
 					"name": "Progress",
 					"datePublished": "1993-05-08",
 					"workTranslation": {
@@ -304,7 +304,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E16",
+					"episodeNumber": "1.16",
 					"name": "If Wishes Were Horses",
 					"datePublished": "1993-05-15",
 					"workTranslation": {
@@ -324,7 +324,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E17",
+					"episodeNumber": "1.17",
 					"name": "The Forsaken",
 					"datePublished": "1993-05-22",
 					"workTranslation": {
@@ -344,7 +344,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E18",
+					"episodeNumber": "1.18",
 					"name": "Dramatis Personae",
 					"datePublished": "1993-05-29",
 					"workTranslation": {
@@ -364,7 +364,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E19",
+					"episodeNumber": "1.19",
 					"name": "Duet",
 					"datePublished": "1993-06-12",
 					"workTranslation": {
@@ -384,7 +384,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E20",
+					"episodeNumber": "1.20",
 					"name": "In The Hands Of The Prophets",
 					"datePublished": "1993-06-19",
 					"workTranslation": {
@@ -411,7 +411,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E1",
+					"episodeNumber": "2.1",
 					"name": "The Homecoming (1)",
 					"datePublished": "1993-09-25",
 					"workTranslation": {
@@ -431,7 +431,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E2",
+					"episodeNumber": "2.2",
 					"name": "The Circle (2)",
 					"datePublished": "1993-10-02",
 					"workTranslation": {
@@ -451,7 +451,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E3",
+					"episodeNumber": "2.3",
 					"name": "The Siege (3)",
 					"datePublished": "1993-10-09",
 					"workTranslation": {
@@ -471,7 +471,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E4",
+					"episodeNumber": "2.4",
 					"name": "Invasive Procedures",
 					"datePublished": "1993-10-16",
 					"workTranslation": {
@@ -491,7 +491,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E5",
+					"episodeNumber": "2.5",
 					"name": "Cardassians",
 					"datePublished": "1993-10-23",
 					"workTranslation": {
@@ -511,7 +511,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E6",
+					"episodeNumber": "2.6",
 					"name": "Melora",
 					"datePublished": "1993-10-30",
 					"workTranslation": {
@@ -531,7 +531,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E7",
+					"episodeNumber": "2.7",
 					"name": "Rules Of Acquisition",
 					"datePublished": "1993-11-06",
 					"workTranslation": {
@@ -551,7 +551,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E8",
+					"episodeNumber": "2.8",
 					"name": "Necessary Evil",
 					"datePublished": "1993-11-13",
 					"workTranslation": {
@@ -571,7 +571,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E9",
+					"episodeNumber": "2.9",
 					"name": "Second Sight",
 					"datePublished": "1993-11-20",
 					"workTranslation": {
@@ -591,7 +591,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E10",
+					"episodeNumber": "2.10",
 					"name": "Sanctuary",
 					"datePublished": "1993-11-27",
 					"workTranslation": {
@@ -611,7 +611,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E11",
+					"episodeNumber": "2.11",
 					"name": "Rivals",
 					"datePublished": "1994-01-01",
 					"workTranslation": {
@@ -631,7 +631,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E12",
+					"episodeNumber": "2.12",
 					"name": "The Alternate",
 					"datePublished": "1994-01-08",
 					"workTranslation": {
@@ -651,7 +651,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E13",
+					"episodeNumber": "2.13",
 					"name": "Armageddon Game",
 					"datePublished": "1994-01-29",
 					"workTranslation": {
@@ -671,7 +671,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E14",
+					"episodeNumber": "2.14",
 					"name": "Whispers",
 					"datePublished": "1994-02-05",
 					"workTranslation": {
@@ -691,7 +691,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E15",
+					"episodeNumber": "2.15",
 					"name": "Paradise",
 					"datePublished": "1994-02-12",
 					"workTranslation": {
@@ -711,7 +711,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E16",
+					"episodeNumber": "2.16",
 					"name": "Shadowplay",
 					"datePublished": "1994-02-19",
 					"workTranslation": {
@@ -731,7 +731,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E17",
+					"episodeNumber": "2.17",
 					"name": "Playing God",
 					"datePublished": "1994-02-26",
 					"workTranslation": {
@@ -751,7 +751,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E18",
+					"episodeNumber": "2.18",
 					"name": "Profit And Loss",
 					"datePublished": "1994-03-19",
 					"workTranslation": {
@@ -771,7 +771,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E19",
+					"episodeNumber": "2.19",
 					"name": "Blood Oath",
 					"datePublished": "1994-03-26",
 					"workTranslation": {
@@ -791,7 +791,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E20",
+					"episodeNumber": "2.20",
 					"name": "The Maquis, Part I",
 					"datePublished": "1994-04-23",
 					"workTranslation": {
@@ -811,7 +811,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E21",
+					"episodeNumber": "2.21",
 					"name": "The Maquis, Part II",
 					"datePublished": "1994-04-30",
 					"workTranslation": {
@@ -831,7 +831,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E22",
+					"episodeNumber": "2.22",
 					"name": "The Wire",
 					"datePublished": "1994-05-07",
 					"workTranslation": {
@@ -851,7 +851,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E23",
+					"episodeNumber": "2.23",
 					"name": "Crossover",
 					"datePublished": "1994-05-14",
 					"workTranslation": {
@@ -871,7 +871,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E24",
+					"episodeNumber": "2.24",
 					"name": "The Collaborator",
 					"datePublished": "1994-05-21",
 					"workTranslation": {
@@ -891,7 +891,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E25",
+					"episodeNumber": "2.25",
 					"name": "Tribunal",
 					"datePublished": "1994-06-04",
 					"workTranslation": {
@@ -911,7 +911,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E26",
+					"episodeNumber": "2.26",
 					"name": "The Jem’Hadar",
 					"datePublished": "1994-06-11",
 					"workTranslation": {
@@ -938,7 +938,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E1",
+					"episodeNumber": "3.1",
 					"name": "The Search, Part I",
 					"datePublished": "1994-09-24",
 					"workTranslation": {
@@ -958,7 +958,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E2",
+					"episodeNumber": "3.2",
 					"name": "The Search, Part II",
 					"datePublished": "1994-10-01",
 					"workTranslation": {
@@ -978,7 +978,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E3",
+					"episodeNumber": "3.3",
 					"name": "The House Of Quark",
 					"datePublished": "1994-10-08",
 					"workTranslation": {
@@ -998,7 +998,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E4",
+					"episodeNumber": "3.4",
 					"name": "Equilibrium",
 					"datePublished": "1994-10-15",
 					"workTranslation": {
@@ -1018,7 +1018,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E5",
+					"episodeNumber": "3.5",
 					"name": "Second Skin",
 					"datePublished": "1994-10-22",
 					"workTranslation": {
@@ -1038,7 +1038,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E6",
+					"episodeNumber": "3.6",
 					"name": "The Abandoned",
 					"datePublished": "1994-10-29",
 					"workTranslation": {
@@ -1058,7 +1058,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E7",
+					"episodeNumber": "3.7",
 					"name": "Civil Defense",
 					"datePublished": "1994-11-05",
 					"workTranslation": {
@@ -1078,7 +1078,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E8",
+					"episodeNumber": "3.8",
 					"name": "Meridian",
 					"datePublished": "1994-11-12",
 					"workTranslation": {
@@ -1098,7 +1098,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E9",
+					"episodeNumber": "3.9",
 					"name": "Defiant",
 					"datePublished": "1994-11-19",
 					"workTranslation": {
@@ -1118,7 +1118,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E10",
+					"episodeNumber": "3.10",
 					"name": "Fascination",
 					"datePublished": "1994-11-26",
 					"workTranslation": {
@@ -1138,7 +1138,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E11",
+					"episodeNumber": "3.11",
 					"name": "Past Tense, Part I",
 					"datePublished": "1994-12-31",
 					"workTranslation": {
@@ -1158,7 +1158,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E12",
+					"episodeNumber": "3.12",
 					"name": "Past Tense, Part II",
 					"datePublished": "1995-01-07",
 					"workTranslation": {
@@ -1178,7 +1178,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E13",
+					"episodeNumber": "3.13",
 					"name": "Life Support",
 					"datePublished": "1995-01-28",
 					"workTranslation": {
@@ -1198,7 +1198,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E14",
+					"episodeNumber": "3.14",
 					"name": "Heart Of Stone",
 					"datePublished": "1995-02-04",
 					"workTranslation": {
@@ -1218,7 +1218,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E15",
+					"episodeNumber": "3.15",
 					"name": "Destiny",
 					"datePublished": "1995-02-11",
 					"workTranslation": {
@@ -1238,7 +1238,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E16",
+					"episodeNumber": "3.16",
 					"name": "Prophet Motive",
 					"datePublished": "1995-02-18",
 					"workTranslation": {
@@ -1258,7 +1258,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E17",
+					"episodeNumber": "3.17",
 					"name": "Visionary",
 					"datePublished": "1995-02-25",
 					"workTranslation": {
@@ -1278,7 +1278,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E18",
+					"episodeNumber": "3.18",
 					"name": "Distant Voices",
 					"datePublished": "1995-04-08",
 					"workTranslation": {
@@ -1298,7 +1298,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E19",
+					"episodeNumber": "3.19",
 					"name": "Through The Looking Glass",
 					"datePublished": "1995-04-15",
 					"workTranslation": {
@@ -1318,7 +1318,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E20",
+					"episodeNumber": "3.20",
 					"name": "Improbable Cause (1)",
 					"datePublished": "1995-04-22",
 					"workTranslation": {
@@ -1338,7 +1338,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E21",
+					"episodeNumber": "3.21",
 					"name": "The Die Is Cast (2)",
 					"datePublished": "1995-04-29",
 					"workTranslation": {
@@ -1358,7 +1358,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E22",
+					"episodeNumber": "3.22",
 					"name": "Explorers",
 					"datePublished": "1995-05-06",
 					"workTranslation": {
@@ -1378,7 +1378,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E23",
+					"episodeNumber": "3.23",
 					"name": "Family Business",
 					"datePublished": "1995-05-13",
 					"workTranslation": {
@@ -1398,7 +1398,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E24",
+					"episodeNumber": "3.24",
 					"name": "Shakaar",
 					"datePublished": "1995-05-20",
 					"workTranslation": {
@@ -1418,7 +1418,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E25",
+					"episodeNumber": "3.25",
 					"name": "Facets",
 					"datePublished": "1995-06-10",
 					"workTranslation": {
@@ -1438,7 +1438,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E26",
+					"episodeNumber": "3.26",
 					"name": "The Adversary",
 					"datePublished": "1995-06-17",
 					"workTranslation": {
@@ -1465,7 +1465,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E1, S4:E2",
+					"episodeNumber": "4.1, 4.2",
 					"name": "The Way Of The Warrior",
 					"datePublished": "1995-09-30",
 					"workTranslation": {
@@ -1485,7 +1485,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E3",
+					"episodeNumber": "4.3",
 					"name": "The Visitor",
 					"datePublished": "1995-10-07",
 					"workTranslation": {
@@ -1505,7 +1505,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E4",
+					"episodeNumber": "4.4",
 					"name": "Hippocratic Oath",
 					"datePublished": "1995-10-14",
 					"workTranslation": {
@@ -1525,7 +1525,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E5",
+					"episodeNumber": "4.5",
 					"name": "Indiscretion",
 					"datePublished": "1995-10-21",
 					"workTranslation": {
@@ -1545,7 +1545,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E6",
+					"episodeNumber": "4.6",
 					"name": "Rejoined",
 					"datePublished": "1995-10-28",
 					"workTranslation": {
@@ -1565,7 +1565,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E7",
+					"episodeNumber": "4.7",
 					"name": "Starship Down",
 					"datePublished": "1995-11-04",
 					"workTranslation": {
@@ -1585,7 +1585,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E8",
+					"episodeNumber": "4.8",
 					"name": "Little Green Men",
 					"datePublished": "1995-11-11",
 					"workTranslation": {
@@ -1605,7 +1605,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E9",
+					"episodeNumber": "4.9",
 					"name": "The Sword Of Kahless",
 					"datePublished": "1995-11-18",
 					"workTranslation": {
@@ -1625,7 +1625,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E10",
+					"episodeNumber": "4.10",
 					"name": "Our Man Bashir",
 					"datePublished": "1995-11-25",
 					"workTranslation": {
@@ -1645,7 +1645,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E11",
+					"episodeNumber": "4.11",
 					"name": "Homefront (1)",
 					"datePublished": "1995-12-30",
 					"workTranslation": {
@@ -1665,7 +1665,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E12",
+					"episodeNumber": "4.12",
 					"name": "Paradise Lost (2)",
 					"datePublished": "1996-01-06",
 					"workTranslation": {
@@ -1685,7 +1685,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E13",
+					"episodeNumber": "4.13",
 					"name": "Crossfire",
 					"datePublished": "1996-01-27",
 					"workTranslation": {
@@ -1705,7 +1705,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E14",
+					"episodeNumber": "4.14",
 					"name": "Return To Grace",
 					"datePublished": "1996-02-03",
 					"workTranslation": {
@@ -1725,7 +1725,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E15",
+					"episodeNumber": "4.15",
 					"name": "Sons Of Mogh",
 					"datePublished": "1996-02-10",
 					"workTranslation": {
@@ -1745,7 +1745,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E16",
+					"episodeNumber": "4.16",
 					"name": "Bar Association",
 					"datePublished": "1996-02-17",
 					"workTranslation": {
@@ -1765,7 +1765,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E17",
+					"episodeNumber": "4.17",
 					"name": "Accession",
 					"datePublished": "1996-02-24",
 					"workTranslation": {
@@ -1785,7 +1785,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E18",
+					"episodeNumber": "4.18",
 					"name": "Rules Of Engagement",
 					"datePublished": "1996-04-06",
 					"workTranslation": {
@@ -1805,7 +1805,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E19",
+					"episodeNumber": "4.19",
 					"name": "Hard Time",
 					"datePublished": "1996-04-13",
 					"workTranslation": {
@@ -1825,7 +1825,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E20",
+					"episodeNumber": "4.20",
 					"name": "Shattered Mirror",
 					"datePublished": "1996-04-20",
 					"workTranslation": {
@@ -1845,7 +1845,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E21",
+					"episodeNumber": "4.21",
 					"name": "The Muse",
 					"datePublished": "1996-04-27",
 					"workTranslation": {
@@ -1865,7 +1865,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E22",
+					"episodeNumber": "4.22",
 					"name": "For The Cause",
 					"datePublished": "1996-05-04",
 					"workTranslation": {
@@ -1885,7 +1885,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E23",
+					"episodeNumber": "4.23",
 					"name": "To The Death",
 					"datePublished": "1996-05-11",
 					"workTranslation": {
@@ -1905,7 +1905,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E24",
+					"episodeNumber": "4.24",
 					"name": "The Quickening",
 					"datePublished": "1996-05-18",
 					"workTranslation": {
@@ -1925,7 +1925,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E25",
+					"episodeNumber": "4.25",
 					"name": "Body Parts",
 					"datePublished": "1996-06-08",
 					"workTranslation": {
@@ -1945,7 +1945,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E26",
+					"episodeNumber": "4.26",
 					"name": "Broken Link",
 					"datePublished": "1996-06-15",
 					"workTranslation": {
@@ -1972,7 +1972,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E1",
+					"episodeNumber": "5.1",
 					"name": "Apocalypse Rising",
 					"datePublished": "1996-09-28",
 					"workTranslation": {
@@ -1992,7 +1992,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E2",
+					"episodeNumber": "5.2",
 					"name": "The Ship",
 					"datePublished": "1996-10-05",
 					"workTranslation": {
@@ -2012,7 +2012,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E3",
+					"episodeNumber": "5.3",
 					"name": "Looking For Par’mach In All The Wrong Places",
 					"datePublished": "1996-10-12",
 					"workTranslation": {
@@ -2032,7 +2032,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E4",
+					"episodeNumber": "5.4",
 					"name": "Nor The Battle To The Strong",
 					"datePublished": "1996-10-19",
 					"workTranslation": {
@@ -2052,7 +2052,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E5",
+					"episodeNumber": "5.5",
 					"name": "The Assignment",
 					"datePublished": "1996-10-26",
 					"workTranslation": {
@@ -2072,7 +2072,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E6",
+					"episodeNumber": "5.6",
 					"name": "Trials And Tribble-ations",
 					"datePublished": "1996-11-02",
 					"workTranslation": {
@@ -2092,7 +2092,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E7",
+					"episodeNumber": "5.7",
 					"name": "Let He Who Is Without Sin…",
 					"datePublished": "1996-11-09",
 					"workTranslation": {
@@ -2112,7 +2112,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E8",
+					"episodeNumber": "5.8",
 					"name": "Things Past",
 					"datePublished": "1996-11-16",
 					"workTranslation": {
@@ -2132,7 +2132,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E9",
+					"episodeNumber": "5.9",
 					"name": "The Ascent",
 					"datePublished": "1996-11-23",
 					"workTranslation": {
@@ -2152,7 +2152,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E10",
+					"episodeNumber": "5.10",
 					"name": "Rapture",
 					"datePublished": "1996-12-28",
 					"workTranslation": {
@@ -2172,7 +2172,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E11",
+					"episodeNumber": "5.11",
 					"name": "The Darkness And The Light",
 					"datePublished": "1997-01-04",
 					"workTranslation": {
@@ -2192,7 +2192,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E12",
+					"episodeNumber": "5.12",
 					"name": "The Begotten",
 					"datePublished": "1997-01-25",
 					"workTranslation": {
@@ -2212,7 +2212,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E13",
+					"episodeNumber": "5.13",
 					"name": "For The Uniform",
 					"datePublished": "1997-02-01",
 					"workTranslation": {
@@ -2232,7 +2232,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E14",
+					"episodeNumber": "5.14",
 					"name": "In Purgatory’s Shadow (1)",
 					"datePublished": "1997-02-08",
 					"workTranslation": {
@@ -2252,7 +2252,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E15",
+					"episodeNumber": "5.15",
 					"name": "By Inferno’s Light (2)",
 					"datePublished": "1997-02-15",
 					"workTranslation": {
@@ -2272,7 +2272,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E16",
+					"episodeNumber": "5.16",
 					"name": "Doctor Bashir, I Presume?",
 					"datePublished": "1997-02-22",
 					"workTranslation": {
@@ -2292,7 +2292,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E17",
+					"episodeNumber": "5.17",
 					"name": "A Simple Investigation",
 					"datePublished": "1997-03-29",
 					"workTranslation": {
@@ -2312,7 +2312,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E18",
+					"episodeNumber": "5.18",
 					"name": "Business As Usual",
 					"datePublished": "1997-04-05",
 					"workTranslation": {
@@ -2332,7 +2332,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E19",
+					"episodeNumber": "5.19",
 					"name": "Ties Of Blood And Water",
 					"datePublished": "1997-04-12",
 					"workTranslation": {
@@ -2352,7 +2352,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E20",
+					"episodeNumber": "5.20",
 					"name": "Ferengi Love Songs",
 					"datePublished": "1997-04-19",
 					"workTranslation": {
@@ -2372,7 +2372,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E21",
+					"episodeNumber": "5.21",
 					"name": "Soldiers Of The Empire",
 					"datePublished": "1997-04-26",
 					"workTranslation": {
@@ -2392,7 +2392,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E22",
+					"episodeNumber": "5.22",
 					"name": "Children Of Time",
 					"datePublished": "1997-05-03",
 					"workTranslation": {
@@ -2412,7 +2412,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E23",
+					"episodeNumber": "5.23",
 					"name": "Blaze Of Glory",
 					"datePublished": "1997-05-10",
 					"workTranslation": {
@@ -2432,7 +2432,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E24",
+					"episodeNumber": "5.24",
 					"name": "Empok Nor",
 					"datePublished": "1997-05-17",
 					"workTranslation": {
@@ -2452,7 +2452,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E25",
+					"episodeNumber": "5.25",
 					"name": "In The Cards",
 					"datePublished": "1997-06-07",
 					"workTranslation": {
@@ -2472,7 +2472,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S5:E26",
+					"episodeNumber": "5.26",
 					"name": "Call To Arms",
 					"datePublished": "1997-06-14",
 					"workTranslation": {
@@ -2499,7 +2499,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E1",
+					"episodeNumber": "6.1",
 					"name": "A Time To Stand",
 					"datePublished": "1997-09-27",
 					"workTranslation": {
@@ -2519,7 +2519,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E2",
+					"episodeNumber": "6.2",
 					"name": "Rocks And Shoals",
 					"datePublished": "1997-10-04",
 					"workTranslation": {
@@ -2539,7 +2539,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E3",
+					"episodeNumber": "6.3",
 					"name": "Sons And Daughters",
 					"datePublished": "1997-10-11",
 					"workTranslation": {
@@ -2559,7 +2559,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E4",
+					"episodeNumber": "6.4",
 					"name": "Behind The Lines",
 					"datePublished": "1997-10-18",
 					"workTranslation": {
@@ -2579,7 +2579,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E5",
+					"episodeNumber": "6.5",
 					"name": "Favor The Bold (1)",
 					"datePublished": "1997-10-25",
 					"workTranslation": {
@@ -2599,7 +2599,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E6",
+					"episodeNumber": "6.6",
 					"name": "Sacrifice Of Angels (2)",
 					"datePublished": "1997-11-01",
 					"workTranslation": {
@@ -2619,7 +2619,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E7",
+					"episodeNumber": "6.7",
 					"name": "You Are Cordially Invited",
 					"datePublished": "1997-11-08",
 					"workTranslation": {
@@ -2639,7 +2639,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E8",
+					"episodeNumber": "6.8",
 					"name": "Resurrection",
 					"datePublished": "1997-11-15",
 					"workTranslation": {
@@ -2659,7 +2659,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E9",
+					"episodeNumber": "6.9",
 					"name": "Statistical Probabilities",
 					"datePublished": "1997-11-22",
 					"workTranslation": {
@@ -2679,7 +2679,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E10",
+					"episodeNumber": "6.10",
 					"name": "The Magnificent Ferengi",
 					"datePublished": "1997-12-27",
 					"workTranslation": {
@@ -2699,7 +2699,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E11",
+					"episodeNumber": "6.11",
 					"name": "Waltz",
 					"datePublished": "1998-01-03",
 					"workTranslation": {
@@ -2719,7 +2719,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E12",
+					"episodeNumber": "6.12",
 					"name": "Who Mourns For Morn?",
 					"datePublished": "1998-01-31",
 					"workTranslation": {
@@ -2739,7 +2739,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E13",
+					"episodeNumber": "6.13",
 					"name": "Far Beyond The Stars",
 					"datePublished": "1998-02-07",
 					"workTranslation": {
@@ -2759,7 +2759,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E14",
+					"episodeNumber": "6.14",
 					"name": "One Little Ship",
 					"datePublished": "1998-02-14",
 					"workTranslation": {
@@ -2779,7 +2779,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E15",
+					"episodeNumber": "6.15",
 					"name": "Honor Among Thieves",
 					"datePublished": "1998-02-21",
 					"workTranslation": {
@@ -2799,7 +2799,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E16",
+					"episodeNumber": "6.16",
 					"name": "Change Of Heart",
 					"datePublished": "1998-02-28",
 					"workTranslation": {
@@ -2819,7 +2819,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E17",
+					"episodeNumber": "6.17",
 					"name": "Wrongs Darker Than Death Or Night",
 					"datePublished": "1998-03-28",
 					"workTranslation": {
@@ -2839,7 +2839,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E18",
+					"episodeNumber": "6.18",
 					"name": "Inquisition",
 					"datePublished": "1998-04-04",
 					"workTranslation": {
@@ -2859,7 +2859,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E19",
+					"episodeNumber": "6.19",
 					"name": "In The Pale Moonlight",
 					"datePublished": "1998-04-11",
 					"workTranslation": {
@@ -2879,7 +2879,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E20",
+					"episodeNumber": "6.20",
 					"name": "His Way",
 					"datePublished": "1998-04-18",
 					"workTranslation": {
@@ -2899,7 +2899,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E21",
+					"episodeNumber": "6.21",
 					"name": "The Reckoning",
 					"datePublished": "1998-04-25",
 					"workTranslation": {
@@ -2919,7 +2919,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E22",
+					"episodeNumber": "6.22",
 					"name": "Valiant",
 					"datePublished": "1998-05-02",
 					"workTranslation": {
@@ -2939,7 +2939,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E23",
+					"episodeNumber": "6.23",
 					"name": "Profit And Lace",
 					"datePublished": "1998-05-09",
 					"workTranslation": {
@@ -2959,7 +2959,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E24",
+					"episodeNumber": "6.24",
 					"name": "Time’s Orphan",
 					"datePublished": "1998-05-16",
 					"workTranslation": {
@@ -2979,7 +2979,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E25",
+					"episodeNumber": "6.25",
 					"name": "The Sound Of Her Voice",
 					"datePublished": "1998-06-06",
 					"workTranslation": {
@@ -2999,7 +2999,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S6:E26",
+					"episodeNumber": "6.26",
 					"name": "Tears Of The Prophets",
 					"datePublished": "1998-06-13",
 					"workTranslation": {
@@ -3026,7 +3026,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E1",
+					"episodeNumber": "7.1",
 					"name": "Image In The Sand (1)",
 					"datePublished": "1998-09-26",
 					"workTranslation": {
@@ -3046,7 +3046,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E2",
+					"episodeNumber": "7.2",
 					"name": "Shadows And Symbols (2)",
 					"datePublished": "1998-10-03",
 					"workTranslation": {
@@ -3066,7 +3066,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E3",
+					"episodeNumber": "7.3",
 					"name": "Afterimage",
 					"datePublished": "1998-10-10",
 					"workTranslation": {
@@ -3086,7 +3086,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E4",
+					"episodeNumber": "7.4",
 					"name": "Take Me Out To The Holosuite",
 					"datePublished": "1998-10-17",
 					"workTranslation": {
@@ -3106,7 +3106,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E5",
+					"episodeNumber": "7.5",
 					"name": "Chrysalis",
 					"datePublished": "1998-10-24",
 					"workTranslation": {
@@ -3126,7 +3126,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E6",
+					"episodeNumber": "7.6",
 					"name": "Treachery, Faith And The Great River",
 					"datePublished": "1998-10-31",
 					"workTranslation": {
@@ -3146,7 +3146,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E7",
+					"episodeNumber": "7.7",
 					"name": "Once More Unto The Breach",
 					"datePublished": "1998-11-07",
 					"workTranslation": {
@@ -3166,7 +3166,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E8",
+					"episodeNumber": "7.8",
 					"name": "The Siege Of AR-558",
 					"datePublished": "1998-11-14",
 					"workTranslation": {
@@ -3186,7 +3186,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E9",
+					"episodeNumber": "7.9",
 					"name": "Covenant",
 					"datePublished": "1998-11-21",
 					"workTranslation": {
@@ -3206,7 +3206,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E10",
+					"episodeNumber": "7.10",
 					"name": "It’s Only a Paper Moon",
 					"datePublished": "1998-12-26",
 					"workTranslation": {
@@ -3226,7 +3226,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E11",
+					"episodeNumber": "7.11",
 					"name": "Prodigal Daughter",
 					"datePublished": "1999-01-02",
 					"workTranslation": {
@@ -3246,7 +3246,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E12",
+					"episodeNumber": "7.12",
 					"name": "The Emperor’s New Cloak",
 					"datePublished": "1999-01-30",
 					"workTranslation": {
@@ -3266,7 +3266,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E13",
+					"episodeNumber": "7.13",
 					"name": "Field Of Fire",
 					"datePublished": "1999-02-06",
 					"workTranslation": {
@@ -3286,7 +3286,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E14",
+					"episodeNumber": "7.14",
 					"name": "Chimera",
 					"datePublished": "1999-02-13",
 					"workTranslation": {
@@ -3306,7 +3306,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E15",
+					"episodeNumber": "7.15",
 					"name": "Badda-Bing, Badda-Bang",
 					"datePublished": "1999-02-20",
 					"workTranslation": {
@@ -3326,7 +3326,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E16",
+					"episodeNumber": "7.16",
 					"name": {
 						"@value": "Inter Arma Enim Silent Leges",
 						"@language": "la"
@@ -3349,7 +3349,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E17",
+					"episodeNumber": "7.17",
 					"name": "Penumbra",
 					"datePublished": "1999-04-03",
 					"workTranslation": {
@@ -3369,7 +3369,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E18",
+					"episodeNumber": "7.18",
 					"name": "’Til Death Do Us Part",
 					"datePublished": "1999-04-10",
 					"workTranslation": {
@@ -3389,7 +3389,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E19",
+					"episodeNumber": "7.19",
 					"name": "Strange Bedfellows",
 					"datePublished": "1999-04-17",
 					"workTranslation": {
@@ -3409,7 +3409,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E20",
+					"episodeNumber": "7.20",
 					"name": "The Changing Face Of Evil",
 					"datePublished": "1999-04-24",
 					"workTranslation": {
@@ -3429,7 +3429,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E21",
+					"episodeNumber": "7.21",
 					"name": "When It Rains…",
 					"datePublished": "1999-05-01",
 					"workTranslation": {
@@ -3449,7 +3449,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E22",
+					"episodeNumber": "7.22",
 					"name": "Tacking Into The Wind",
 					"datePublished": "1999-05-08",
 					"workTranslation": {
@@ -3469,7 +3469,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E23",
+					"episodeNumber": "7.23",
 					"name": "Extreme Measures",
 					"datePublished": "1999-05-15",
 					"workTranslation": {
@@ -3489,7 +3489,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E24",
+					"episodeNumber": "7.24",
 					"name": "The Dogs Of War",
 					"datePublished": "1999-05-22",
 					"workTranslation": {
@@ -3509,7 +3509,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E25",
+					"episodeNumber": "7.25",
 					"name": "What You Leave Behind (1)",
 					"datePublished": "1999-05-29",
 					"workTranslation": {
@@ -3529,7 +3529,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S7:E26",
+					"episodeNumber": "7.26",
 					"name": "What You Leave Behind (2)",
 					"datePublished": "1999-05-29",
 					"workTranslation": {

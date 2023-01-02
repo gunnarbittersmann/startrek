@@ -24,7 +24,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1",
+					"episodeNumber": "1.1",
 					"name": "Second Contact",
 					"datePublished": "2020-08-06",
 					"workTranslation": {
@@ -51,7 +51,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E2",
+					"episodeNumber": "1.2",
 					"name": "Envoys",
 					"datePublished": "2020-08-13",
 					"workTranslation": {
@@ -78,7 +78,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E3",
+					"episodeNumber": "1.3",
 					"name": "Temporal Edict",
 					"datePublished": "2020-08-20",
 					"workTranslation": {
@@ -105,7 +105,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E4",
+					"episodeNumber": "1.4",
 					"name": "Moist Vessel",
 					"datePublished": "2020-08-27",
 					"workTranslation": {
@@ -132,7 +132,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E5",
+					"episodeNumber": "1.5",
 					"name": "Cupid’s Errant Arrow",
 					"datePublished": "2020-09-03",
 					"workTranslation": {
@@ -159,7 +159,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E6",
+					"episodeNumber": "1.6",
 					"name": "Terminal Provocations",
 					"datePublished": "2020-09-10",
 					"workTranslation": {
@@ -186,7 +186,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E7",
+					"episodeNumber": "1.7",
 					"name": "Much Ado About Boimler",
 					"datePublished": "2020-09-17",
 					"workTranslation": {
@@ -213,7 +213,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E8",
+					"episodeNumber": "1.8",
 					"name": "Veritas",
 					"datePublished": "2020-09-24",
 					"workTranslation": {
@@ -240,7 +240,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E9",
+					"episodeNumber": "1.9",
 					"name": "Crisis Point",
 					"datePublished": "2020-10-01",
 					"workTranslation": {
@@ -267,7 +267,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E10",
+					"episodeNumber": "1.10",
 					"name": "No Small Parts",
 					"datePublished": "2020-10-08",
 					"workTranslation": {
@@ -302,7 +302,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E1",
+					"episodeNumber": "2.1",
 					"name": "Strange Energies",
 					"datePublished": "2021-08-12",
 					"workTranslation": {
@@ -329,7 +329,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E2",
+					"episodeNumber": "2.2",
 					"name": "Kayshon, His Eyes Open",
 					"datePublished": "2021-08-19",
 					"workTranslation": {
@@ -356,7 +356,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E3",
+					"episodeNumber": "2.3",
 					"name": "We’ll Always Have Tom Paris",
 					"datePublished": "2021-08-26",
 					"workTranslation": {
@@ -383,7 +383,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E4",
+					"episodeNumber": "2.4",
 					"name": "Mugato, Gumato",
 					"datePublished": "2021-09-02",
 					"workTranslation": {
@@ -410,7 +410,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E5",
+					"episodeNumber": "2.5",
 					"name": "An Embarrassment of Dooplers",
 					"datePublished": "2021-09-09",
 					"workTranslation": {
@@ -437,7 +437,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E6",
+					"episodeNumber": "2.6",
 					"name": "The Spy Humongous",
 					"datePublished": "2021-09-16",
 					"workTranslation": {
@@ -464,7 +464,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E7",
+					"episodeNumber": "2.7",
 					"name": "Where Pleasant Fountains Lie",
 					"datePublished": "2021-09-23",
 					"workTranslation": {
@@ -491,7 +491,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E8",
+					"episodeNumber": "2.8",
 					"name": "I, Excretus",
 					"datePublished": "2021-09-30",
 					"workTranslation": {
@@ -518,7 +518,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E9",
+					"episodeNumber": "2.9",
 					"name": {
 						"@value": "wej Duj",
 						"@language": "tlh"
@@ -551,7 +551,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E10",
+					"episodeNumber": "2.10",
 					"name": "First First Contact",
 					"datePublished": "2021-10-14",
 					"workTranslation": {
@@ -586,7 +586,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E1",
+					"episodeNumber": "3.1",
 					"name": "Grounded",
 					"datePublished": "2022-08-25",
 					"workTranslation": {
@@ -616,7 +616,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E2",
+					"episodeNumber": "3.2",
 					"name": "The Least Dangerous Game",
 					"datePublished": "2022-09-01",
 					"workTranslation": {
@@ -646,7 +646,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E3",
+					"episodeNumber": "3.3",
 					"name": "Mining The Mind’s Mines",
 					"datePublished": "2022-09-08",
 					"workTranslation": {
@@ -676,7 +676,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E4",
+					"episodeNumber": "3.4",
 					"name": "Room for Growth",
 					"datePublished": "2022-09-15",
 					"workTranslation": {
@@ -706,7 +706,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E5",
+					"episodeNumber": "3.5",
 					"name": "Reflections",
 					"datePublished": "2022-09-22",
 					"workTranslation": {
@@ -736,7 +736,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E6",
+					"episodeNumber": "3.6",
 					"name": "Hear All, Trust Nothing",
 					"datePublished": "2022-09-29",
 					"workTranslation": {
@@ -766,7 +766,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E7",
+					"episodeNumber": "3.7",
 					"name": "A Mathematically Perfect Redemption",
 					"datePublished": "2022-10-06",
 					"workTranslation": {
@@ -796,7 +796,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E8",
+					"episodeNumber": "3.8",
 					"name": "Crisis Point 2: Paradoxus",
 					"datePublished": "2022-10-13",
 					"workTranslation": {
@@ -826,7 +826,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E9",
+					"episodeNumber": "3.9",
 					"name": "Trusted Sources",
 					"datePublished": "2022-10-20",
 					"workTranslation": {
@@ -856,7 +856,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E10",
+					"episodeNumber": "3.10",
 					"name": "The Stars At Night",
 					"datePublished": "2022-10-27",
 					"workTranslation": {

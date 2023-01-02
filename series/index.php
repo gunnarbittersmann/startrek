@@ -7,7 +7,7 @@
   const STARFLEET_LOGO = 'starfleet.svg';
   const FAVICON = STARFLEET_LOGO;
   const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
-  const STYLESHEET = 'style.css?date=2022-10-12T13:13Z';
+  const STYLESHEET = 'style.css?date=2023-01-02T14:48Z';
   const SCRIPT = 'script.js';
 
   $files = scandir('.');
@@ -96,7 +96,7 @@ EOT;
                 <?php $translation = $episode['workTranslation'][1] ?? $episode['workTranslation'][0] ?? $episode['workTranslation']; ?>
                 <tr property="episode" typeof="<?php html($episode['@type']); ?>">
                   <?php if ($episode['episodeNumber']): ?>
-                    <?php $episode['@identifier'] = preg_replace('/\W+/', '', $episode['episodeNumber']); ?>
+                    <?php $episode['@identifier'] = $data['identifier'] . preg_replace('/,\s*/', '-', $episode['episodeNumber']); ?>
                     <th property="episodeNumber">
                       <?php html($episode['episodeNumber']); ?>
                     </th>
