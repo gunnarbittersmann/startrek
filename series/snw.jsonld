@@ -112,7 +112,10 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "1.4",
-					"name": "Memento Mori",
+					"name": {
+						"@value": "Memento Mori",
+						"@language": "la"
+					},
 					"datePublished": "2022-05-26",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -122,7 +125,10 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Memento Mori",
+						"name": {
+							"@value": "Memento Mori",
+							"@language": "la"
+						},
 						"datePublished": "2022-12-15"
 					},
 					"abstract": {
