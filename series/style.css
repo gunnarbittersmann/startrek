@@ -224,16 +224,11 @@ td[property="review"] {
 }
 
 p {
-	max-width: 36em;
-	margin-left: -32em;
+	max-width: 32em;
+	margin-left: -26em;
 	line-height: 1.4;
 	-webkit-hyphens: auto;
 	hyphens: auto;
-}
-
-:where(#tas, #pro, #snw) p {
-	max-width: 28em;
-	margin-left: -24em;
 }
 
 @media (max-width: 40em) {
