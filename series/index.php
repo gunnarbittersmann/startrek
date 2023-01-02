@@ -96,7 +96,7 @@ EOT;
                 <?php $translation = $episode['workTranslation'][1] ?? $episode['workTranslation'][0] ?? $episode['workTranslation']; ?>
                 <tr property="episode" typeof="<?php html($episode['@type']); ?>">
                   <?php if ($episode['episodeNumber']): ?>
-                    <?php $episode['@identifier'] = preg_replace('/\W+/', '', $episode['episodeNumber']); ?>
+                    <?php $episode['@identifier'] = $data['identifier'] . preg_replace('/,\s*/', '-', $episode['episodeNumber']); ?>
                     <th property="episodeNumber">
                       <?php html($episode['episodeNumber']); ?>
                     </th>
