@@ -24,7 +24,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1, S1:E2",
+					"episodeNumber": "1.1, 1.2",
 					"name": "Broken Bow",
 					"datePublished": "2001-09-26",
 					"workTranslation": {
@@ -45,7 +45,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E3",
+					"episodeNumber": "1.3",
 					"name": "Fight or Flight",
 					"datePublished": "2001-10-03",
 					"workTranslation": {
@@ -65,7 +65,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E4",
+					"episodeNumber": "1.4",
 					"name": "Strange New World",
 					"datePublished": "2001-10-10",
 					"workTranslation": {
@@ -85,7 +85,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E5",
+					"episodeNumber": "1.5",
 					"name": "Unexpected",
 					"datePublished": "2001-10-17",
 					"workTranslation": {
@@ -105,7 +105,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E6",
+					"episodeNumber": "1.6",
 					"name": "Terra Nova",
 					"datePublished": "2001-10-24",
 					"workTranslation": {
@@ -125,7 +125,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E7",
+					"episodeNumber": "1.7",
 					"name": "The Andorian Incident",
 					"datePublished": "2001-10-31",
 					"workTranslation": {
@@ -145,7 +145,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E8",
+					"episodeNumber": "1.8",
 					"name": "Breaking the Ice",
 					"datePublished": "2001-11-07",
 					"workTranslation": {
@@ -165,7 +165,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E9",
+					"episodeNumber": "1.9",
 					"name": "Civilization",
 					"datePublished": "2001-11-15",
 					"workTranslation": {
@@ -185,7 +185,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E10",
+					"episodeNumber": "1.10",
 					"name": "Fortunate Son",
 					"datePublished": "2001-11-21",
 					"workTranslation": {
@@ -205,7 +205,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E11",
+					"episodeNumber": "1.11",
 					"name": "Cold Front",
 					"datePublished": "2001-11-28",
 					"workTranslation": {
@@ -225,7 +225,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E12",
+					"episodeNumber": "1.12",
 					"name": "Silent Enemy",
 					"datePublished": "2002-01-16",
 					"workTranslation": {
@@ -245,7 +245,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E13",
+					"episodeNumber": "1.13",
 					"name": "Dear Doctor",
 					"datePublished": "2002-01-23",
 					"workTranslation": {
@@ -265,7 +265,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E14",
+					"episodeNumber": "1.14",
 					"name": "Sleeping Dogs",
 					"datePublished": "2002-01-30",
 					"workTranslation": {
@@ -285,7 +285,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E15",
+					"episodeNumber": "1.15",
 					"name": "Shadows of P’Jem",
 					"datePublished": "2002-02-06",
 					"workTranslation": {
@@ -305,7 +305,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E16",
+					"episodeNumber": "1.16",
 					"name": "Shuttlepod One",
 					"datePublished": "2002-02-13",
 					"workTranslation": {
@@ -325,7 +325,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E17",
+					"episodeNumber": "1.17",
 					"name": "Fusion",
 					"datePublished": "2002-02-27",
 					"workTranslation": {
@@ -345,7 +345,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E18",
+					"episodeNumber": "1.18",
 					"name": "Rogue Planet",
 					"datePublished": "2002-03-20",
 					"workTranslation": {
@@ -365,7 +365,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E19",
+					"episodeNumber": "1.19",
 					"name": "Acquisition",
 					"datePublished": "2002-03-27",
 					"workTranslation": {
@@ -385,7 +385,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E20",
+					"episodeNumber": "1.20",
 					"name": "Oasis",
 					"datePublished": "2002-04-03",
 					"workTranslation": {
@@ -405,7 +405,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E21",
+					"episodeNumber": "1.21",
 					"name": "Detained",
 					"datePublished": "2002-04-24",
 					"workTranslation": {
@@ -425,7 +425,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E22",
+					"episodeNumber": "1.22",
 					"name": "Vox Sola",
 					"datePublished": "2002-05-01",
 					"workTranslation": {
@@ -445,7 +445,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E23",
+					"episodeNumber": "1.23",
 					"name": "Fallen Hero",
 					"datePublished": "2002-05-08",
 					"workTranslation": {
@@ -465,7 +465,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E24",
+					"episodeNumber": "1.24",
 					"name": "Desert Crossing",
 					"datePublished": "2002-05-08",
 					"workTranslation": {
@@ -485,7 +485,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E25",
+					"episodeNumber": "1.25",
 					"name": "Two Days and Two Nights",
 					"datePublished": "2002-05-15",
 					"workTranslation": {
@@ -505,7 +505,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E26",
+					"episodeNumber": "1.26",
 					"name": "Shockwave (1)",
 					"datePublished": "2002-05-22",
 					"workTranslation": {
@@ -532,7 +532,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E1",
+					"episodeNumber": "2.1",
 					"name": "Shockwave, Part II",
 					"datePublished": "2002-09-18",
 					"workTranslation": {
@@ -552,7 +552,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E2",
+					"episodeNumber": "2.2",
 					"name": "Carbon Creek",
 					"datePublished": "2002-09-25",
 					"workTranslation": {
@@ -572,7 +572,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E3",
+					"episodeNumber": "2.3",
 					"name": "Minefield",
 					"datePublished": "2002-10-02",
 					"workTranslation": {
@@ -592,7 +592,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E4",
+					"episodeNumber": "2.4",
 					"name": "Dead Stop",
 					"datePublished": "2002-10-09",
 					"workTranslation": {
@@ -612,7 +612,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E5",
+					"episodeNumber": "2.5",
 					"name": "A Night In Sickbay",
 					"datePublished": "2002-10-16",
 					"workTranslation": {
@@ -632,7 +632,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E6",
+					"episodeNumber": "2.6",
 					"name": "Marauders",
 					"datePublished": "2002-10-30",
 					"workTranslation": {
@@ -652,7 +652,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E7",
+					"episodeNumber": "2.7",
 					"name": "The Seventh",
 					"datePublished": "2002-11-06",
 					"workTranslation": {
@@ -672,7 +672,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E8",
+					"episodeNumber": "2.8",
 					"name": "The Communicator",
 					"datePublished": "2002-11-13",
 					"workTranslation": {
@@ -692,7 +692,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E9",
+					"episodeNumber": "2.9",
 					"name": "Singularity",
 					"datePublished": "2002-11-20",
 					"workTranslation": {
@@ -712,7 +712,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E10",
+					"episodeNumber": "2.10",
 					"name": "Vanishing Point",
 					"datePublished": "2002-11-27",
 					"workTranslation": {
@@ -732,7 +732,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E11",
+					"episodeNumber": "2.11",
 					"name": "Precious Cargo",
 					"datePublished": "2002-12-11",
 					"workTranslation": {
@@ -752,7 +752,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E12",
+					"episodeNumber": "2.12",
 					"name": "The Catwalk",
 					"datePublished": "2002-12-18",
 					"workTranslation": {
@@ -772,7 +772,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E13",
+					"episodeNumber": "2.13",
 					"name": "Dawn",
 					"datePublished": "2003-01-08",
 					"workTranslation": {
@@ -792,7 +792,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E14",
+					"episodeNumber": "2.14",
 					"name": "Stigma",
 					"datePublished": "2003-02-05",
 					"workTranslation": {
@@ -812,7 +812,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E15",
+					"episodeNumber": "2.15",
 					"name": "Cease Fire",
 					"datePublished": "2003-02-12",
 					"workTranslation": {
@@ -832,7 +832,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E16",
+					"episodeNumber": "2.16",
 					"name": "Future Tense",
 					"datePublished": "2003-02-19",
 					"workTranslation": {
@@ -852,7 +852,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E17",
+					"episodeNumber": "2.17",
 					"name": "Canamar",
 					"datePublished": "2003-02-26",
 					"workTranslation": {
@@ -872,7 +872,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E18",
+					"episodeNumber": "2.18",
 					"name": "The Crossing",
 					"datePublished": "2003-04-02",
 					"workTranslation": {
@@ -892,7 +892,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E19",
+					"episodeNumber": "2.19",
 					"name": "Judgment",
 					"datePublished": "2003-04-09",
 					"workTranslation": {
@@ -912,7 +912,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E20",
+					"episodeNumber": "2.20",
 					"name": "Horizon",
 					"datePublished": "2003-04-16",
 					"workTranslation": {
@@ -932,7 +932,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E21",
+					"episodeNumber": "2.21",
 					"name": "The Breach",
 					"datePublished": "2003-04-23",
 					"workTranslation": {
@@ -952,7 +952,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E22",
+					"episodeNumber": "2.22",
 					"name": "Cogenitor",
 					"datePublished": "2003-04-30",
 					"workTranslation": {
@@ -972,7 +972,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E23",
+					"episodeNumber": "2.23",
 					"name": "Regeneration",
 					"datePublished": "2003-05-07",
 					"workTranslation": {
@@ -992,7 +992,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E24",
+					"episodeNumber": "2.24",
 					"name": "First Flight",
 					"datePublished": "2003-05-14",
 					"workTranslation": {
@@ -1012,7 +1012,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E25",
+					"episodeNumber": "2.25",
 					"name": "Bounty",
 					"datePublished": "2003-05-14",
 					"workTranslation": {
@@ -1032,7 +1032,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S2:E26",
+					"episodeNumber": "2.26",
 					"name": "The Expanse",
 					"datePublished": "2003-05-21",
 					"workTranslation": {
@@ -1060,7 +1060,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E1",
+					"episodeNumber": "3.1",
 					"name": "The Xindi",
 					"datePublished": "2003-09-10",
 					"workTranslation": {
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E2",
+					"episodeNumber": "3.2",
 					"name": "Anomaly",
 					"datePublished": "2003-09-17",
 					"workTranslation": {
@@ -1100,7 +1100,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E3",
+					"episodeNumber": "3.3",
 					"name": "Extinction",
 					"datePublished": "2003-09-24",
 					"workTranslation": {
@@ -1120,7 +1120,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E4",
+					"episodeNumber": "3.4",
 					"name": "Rajiin",
 					"datePublished": "2003-10-01",
 					"workTranslation": {
@@ -1140,7 +1140,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E5",
+					"episodeNumber": "3.5",
 					"name": "Impulse",
 					"datePublished": "2003-10-08",
 					"workTranslation": {
@@ -1160,7 +1160,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E6",
+					"episodeNumber": "3.6",
 					"name": "Exile",
 					"datePublished": "2003-10-15",
 					"workTranslation": {
@@ -1180,7 +1180,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E7",
+					"episodeNumber": "3.7",
 					"name": "The Shipment",
 					"datePublished": "2003-10-29",
 					"workTranslation": {
@@ -1200,7 +1200,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E8",
+					"episodeNumber": "3.8",
 					"name": "Twilight",
 					"datePublished": "2003-11-05",
 					"workTranslation": {
@@ -1220,7 +1220,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E9",
+					"episodeNumber": "3.9",
 					"name": "North Star",
 					"datePublished": "2003-11-12",
 					"workTranslation": {
@@ -1240,7 +1240,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E10",
+					"episodeNumber": "3.10",
 					"name": "Similitude",
 					"datePublished": "2003-11-19",
 					"workTranslation": {
@@ -1260,7 +1260,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E11",
+					"episodeNumber": "3.11",
 					"name": "Carpenter Street",
 					"datePublished": "2003-11-26",
 					"workTranslation": {
@@ -1280,7 +1280,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E12",
+					"episodeNumber": "3.12",
 					"name": "Chosen Realm",
 					"datePublished": "2004-01-14",
 					"workTranslation": {
@@ -1300,7 +1300,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E13",
+					"episodeNumber": "3.13",
 					"name": "Proving Ground",
 					"datePublished": "2004-01-21",
 					"workTranslation": {
@@ -1320,7 +1320,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E14",
+					"episodeNumber": "3.14",
 					"name": "Stratagem",
 					"datePublished": "2004-02-04",
 					"workTranslation": {
@@ -1340,7 +1340,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E15",
+					"episodeNumber": "3.15",
 					"name": "Harbinger",
 					"datePublished": "2004-02-11",
 					"workTranslation": {
@@ -1360,7 +1360,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E16",
+					"episodeNumber": "3.16",
 					"name": "Doctor’s Orders",
 					"datePublished": "2004-02-18",
 					"workTranslation": {
@@ -1380,7 +1380,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E17",
+					"episodeNumber": "3.17",
 					"name": "Hatchery",
 					"datePublished": "2004-02-25",
 					"workTranslation": {
@@ -1400,7 +1400,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E18",
+					"episodeNumber": "3.18",
 					"name": "Azati Prime (1)",
 					"datePublished": "2004-03-03",
 					"workTranslation": {
@@ -1420,7 +1420,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E19",
+					"episodeNumber": "3.19",
 					"name": "Damage (2)",
 					"datePublished": "2004-04-21",
 					"workTranslation": {
@@ -1440,7 +1440,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E20",
+					"episodeNumber": "3.20",
 					"name": "The Forgotten",
 					"datePublished": "2004-04-28",
 					"workTranslation": {
@@ -1460,7 +1460,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E21",
+					"episodeNumber": "3.21",
 					"name": "E²",
 					"datePublished": "2004-05-05",
 					"workTranslation": {
@@ -1480,7 +1480,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E22",
+					"episodeNumber": "3.22",
 					"name": "The Council",
 					"datePublished": "2004-05-12",
 					"workTranslation": {
@@ -1500,7 +1500,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E23",
+					"episodeNumber": "3.23",
 					"name": "Countdown",
 					"datePublished": "2004-05-19",
 					"workTranslation": {
@@ -1520,7 +1520,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S3:E24",
+					"episodeNumber": "3.24",
 					"name": "Zero Hour",
 					"datePublished": "2004-05-26",
 					"workTranslation": {
@@ -1547,7 +1547,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E1",
+					"episodeNumber": "4.1",
 					"name": "Storm Front",
 					"datePublished": "2004-10-08",
 					"workTranslation": {
@@ -1567,7 +1567,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E2",
+					"episodeNumber": "4.2",
 					"name": "Storm Front, Part II",
 					"datePublished": "2004-10-15",
 					"workTranslation": {
@@ -1587,7 +1587,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E3",
+					"episodeNumber": "4.3",
 					"name": "Home",
 					"datePublished": "2004-10-22",
 					"workTranslation": {
@@ -1607,7 +1607,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E4",
+					"episodeNumber": "4.4",
 					"name": "Borderland (1)",
 					"datePublished": "2004-10-29",
 					"workTranslation": {
@@ -1627,7 +1627,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E5",
+					"episodeNumber": "4.5",
 					"name": "Cold Station 12 (2)",
 					"datePublished": "2004-11-05",
 					"workTranslation": {
@@ -1647,7 +1647,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E6",
+					"episodeNumber": "4.6",
 					"name": "The Augments (3)",
 					"datePublished": "2004-11-12",
 					"workTranslation": {
@@ -1667,7 +1667,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E7",
+					"episodeNumber": "4.7",
 					"name": "The Forge (1)",
 					"datePublished": "2004-11-19",
 					"workTranslation": {
@@ -1687,7 +1687,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E8",
+					"episodeNumber": "4.8",
 					"name": "Awakening (2)",
 					"datePublished": "2004-11-26",
 					"workTranslation": {
@@ -1707,7 +1707,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E9",
+					"episodeNumber": "4.9",
 					"name": "Kir’Shara (3)",
 					"datePublished": "2004-12-03",
 					"workTranslation": {
@@ -1727,7 +1727,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E10",
+					"episodeNumber": "4.10",
 					"name": "Daedalus",
 					"datePublished": "2005-01-14",
 					"workTranslation": {
@@ -1747,7 +1747,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E11",
+					"episodeNumber": "4.11",
 					"name": "Observer Effect",
 					"datePublished": "2005-01-21",
 					"workTranslation": {
@@ -1767,7 +1767,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E12",
+					"episodeNumber": "4.12",
 					"name": "Babel One (1)",
 					"datePublished": "2005-01-28",
 					"workTranslation": {
@@ -1787,7 +1787,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E13",
+					"episodeNumber": "4.13",
 					"name": "United (2)",
 					"datePublished": "2005-02-04",
 					"workTranslation": {
@@ -1807,7 +1807,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E14",
+					"episodeNumber": "4.14",
 					"name": "The Aenar (3)",
 					"datePublished": "2005-02-11",
 					"workTranslation": {
@@ -1827,7 +1827,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E15",
+					"episodeNumber": "4.15",
 					"name": "Affliction (1)",
 					"datePublished": "2005-02-18",
 					"workTranslation": {
@@ -1847,7 +1847,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E16",
+					"episodeNumber": "4.16",
 					"name": "Divergence (2)",
 					"datePublished": "2005-02-25",
 					"workTranslation": {
@@ -1867,7 +1867,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E17",
+					"episodeNumber": "4.17",
 					"name": "Bound",
 					"datePublished": "2005-04-15",
 					"workTranslation": {
@@ -1887,7 +1887,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E18",
+					"episodeNumber": "4.18",
 					"name": "In a Mirror, Darkly, Part I",
 					"datePublished": "2005-04-22",
 					"workTranslation": {
@@ -1907,7 +1907,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E19",
+					"episodeNumber": "4.19",
 					"name": "In a Mirror, Darkly, Part II",
 					"datePublished": "2005-04-29",
 					"workTranslation": {
@@ -1927,7 +1927,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E20",
+					"episodeNumber": "4.20",
 					"name": "Demons (1)",
 					"datePublished": "2005-05-06",
 					"workTranslation": {
@@ -1947,7 +1947,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E21",
+					"episodeNumber": "4.21",
 					"name": "Terra Prime (2)",
 					"datePublished": "2005-05-13",
 					"workTranslation": {
@@ -1967,7 +1967,7 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S4:E22",
+					"episodeNumber": "4.22",
 					"name": "These Are the Voyages",
 					"datePublished": "2005-05-13",
 					"workTranslation": {
