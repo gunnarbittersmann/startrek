@@ -24,8 +24,8 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "S1:E1",
-					"name": "Lost & Found, Part 1",
+					"episodeNumber": "S1:E1, S1:E2",
+					"name": "Lost & Found",
 					"datePublished": "2021-10-28",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
@@ -35,28 +35,8 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Gesucht und gefunden, Teil 1",
-						"datePublished": "2022-04-18"
-					},
-					"description": {
-						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
-					}
-				},
-				{
-					"@type": "TVEpisode",
-					"episodeNumber": "S1:E2",
-					"name": "Lost & Found, Part 2",
-					"datePublished": "2021-10-28",
-					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
-						"@type": "Person",
-						"name": "Ben Hibon"
-					},
-					"workTranslation": {
-						"@type": "TVEpisode",
-						"inLanguage": "de",
-						"name": "Gesucht und gefunden, Teil 2",
-						"datePublished": "2022-04-19"
+						"name": "Gesucht und gefunden",
+						"datePublished": "2022-04-18/2022-04-19"
 					},
 					"description": {
 						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship the USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
