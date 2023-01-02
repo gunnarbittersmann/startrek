@@ -213,14 +213,14 @@ td:empty {
 }
 
 [property="episodeNumber"] {
-	width: 4em;
+	width: 3em;
 }
 
 td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
 td[property="review"] {
-	width: 16em;
+	width: 18em;
 }
 
 p {
