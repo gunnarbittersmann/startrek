@@ -213,7 +213,7 @@ td:empty {
 }
 
 [property="episodeNumber"] {
-	width: 3em;
+	width: 2em;
 }
 
 td[property="name"],
