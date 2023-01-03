@@ -55,6 +55,7 @@ EOT;
     </header>
     <main>
       <h1 property="name"><?= htmlSpecialChars($franchise['name']); ?></h1>
+      <h2><a href="series">Series</a></h2>
       <ol>
         <?php foreach ($franchise['hasPart'] as $series): ?>
           <li property="hasPart" typeof="<?= htmlSpecialChars($series['@type']); ?>">
@@ -76,6 +77,7 @@ EOT;
           </li>
         <?php endforeach; ?>
       </ol>
+      <h2><a href="timelines">Timelines</a></h2>
     </main>
   </body>
 </html>
