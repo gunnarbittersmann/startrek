@@ -33,9 +33,9 @@ EOT;
 <!DOCTYPE html>
 <html
   id="index"
-  lang="<?= htmlSpecialChars($franchise['inLanguage']); ?>"
-  typeof="<?= htmlSpecialChars($franchise['@type']); ?>"
-  vocab="<?= htmlSpecialChars($franchise['@context']['@vocab'] ?? $franchise['@context']); ?>"
+  lang="<?= htmlSpecialChars($franchise['inLanguage']) ?>"
+  typeof="<?= htmlSpecialChars($franchise['@type']) ?>"
+  vocab="<?= htmlSpecialChars($franchise['@context']['@vocab'] ?? $franchise['@context']) ?>"
 >
   <?php head($franchise['name']); ?>
   <body>
@@ -54,24 +54,24 @@ EOT;
       </div>
     </header>
     <main>
-      <h1 property="name"><?= htmlSpecialChars($franchise['name']); ?></h1>
+      <h1 property="name"><?= htmlSpecialChars($franchise['name']) ?></h1>
       <h2><a href="series">Series</a></h2>
       <ol>
         <?php foreach ($franchise['hasPart'] as $series): ?>
-          <li property="hasPart" typeof="<?= htmlSpecialChars($series['@type']); ?>">
+          <li property="hasPart" typeof="<?= htmlSpecialChars($series['@type']) ?>">
             <a
               <?php if (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
-                href="series/<?= htmlSpecialChars(mb_strtolower($series['identifier'])); ?>"
+                href="series/<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
               <?php endif; ?>
             >
               <?php if ($series['image']): ?>
                 <img
                   property="image"
-                  src="<?= htmlSpecialChars($series['image']); ?>"
-                  alt="<?= htmlSpecialChars($series['name']); ?>"
+                  src="<?= htmlSpecialChars($series['image']) ?>"
+                  alt="<?= htmlSpecialChars($series['name']) ?>"
                 />
               <?php else: ?>
-                <?= htmlSpecialChars($series['name']); ?>
+                <?= htmlSpecialChars($series['name']) ?>
               <?php endif; ?>
             </a>
           </li>
