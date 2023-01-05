@@ -66,10 +66,10 @@ EOT;
             >
               <?php if ($series['image']): ?>
                 <img
-									property="image"
-									src="<?= htmlSpecialChars($series['image']); ?>"
-									alt="<?= htmlSpecialChars($series['name']); ?>"
-								/>
+                  property="image"
+                  src="<?= htmlSpecialChars($series['image']); ?>"
+                  alt="<?= htmlSpecialChars($series['name']); ?>"
+                />
               <?php else: ?>
                 <?= htmlSpecialChars($series['name']); ?>
               <?php endif; ?>
