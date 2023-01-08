@@ -8,7 +8,7 @@
 
   $files = scandir('series');
 
-  $json = file_get_contents('series/startrek.jsonld');
+  $json = file_get_contents('series/series.jsonld');
   $franchise = json_decode($json, TRUE);
 
   function head($title) {

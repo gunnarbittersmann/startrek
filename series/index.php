@@ -12,7 +12,7 @@
 
   $files = scandir('.');
 
-  $json = file_get_contents('startrek.jsonld');
+  $json = file_get_contents('series.jsonld');
   $franchise = json_decode($json, TRUE);
 
   $json = @file_get_contents($_GET['series'] . '.jsonld');
