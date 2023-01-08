@@ -7,12 +7,12 @@
   const STARFLEET_LOGO = 'starfleet.svg';
   const FAVICON = STARFLEET_LOGO;
   const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
-  const STYLESHEET = 'style.css?date=2022-10-12T13:13Z';
+  const STYLESHEET = 'style.css?date=2023-01-02T14:48Z';
   const SCRIPT = 'script.js';
 
   $files = scandir('.');
 
-  $json = file_get_contents('startrek.jsonld');
+  $json = file_get_contents('series.jsonld');
   $franchise = json_decode($json, TRUE);
 
   $json = @file_get_contents($_GET['series'] . '.jsonld');
@@ -57,12 +57,15 @@ EOT;
           <ol>
             <li>
               <a
-                title="Star Trek series"
-                aria-label="Star Trek series"
-                href="<?php html($_SERVER['SCRIPT_NAME']); ?>"
+                title="Star Trek"
+                aria-label="Star Trek"
+                href="/startrek"
               >
                 <?php readfile(STARFLEET_LOGO); ?>
               </a>
+            </li>
+            <li>
+              <a href="<?php html($_SERVER['SCRIPT_NAME']); ?>">series</a>:
             </li>
             <?php foreach ($franchise['hasPart'] as $series): ?>
               <li>
@@ -96,7 +99,7 @@ EOT;
                 <?php $translation = $episode['workTranslation'][1] ?? $episode['workTranslation'][0] ?? $episode['workTranslation']; ?>
                 <tr property="episode" typeof="<?php html($episode['@type']); ?>">
                   <?php if ($episode['episodeNumber']): ?>
-                    <?php $episode['@identifier'] = preg_replace('/\W+/', '', $episode['episodeNumber']); ?>
+                    <?php $episode['@identifier'] = $data['identifier'] . preg_replace('/,\s*/', '-', $episode['episodeNumber']); ?>
                     <th property="episodeNumber">
                       <?php html($episode['episodeNumber']); ?>
                     </th>
@@ -301,11 +304,24 @@ EOT;
     <?php head($franchise['name'] . ' series'); ?>
     <body>
       <header>
-        <div aria-hidden="true">
-          <?php readfile(STARFLEET_LOGO); ?>
-        </div>
+        <nav>
+          <ol>
+            <li>
+              <a
+                title="Star Trek"
+                aria-label="Star Trek"
+                href="/startrek"
+              >
+                <?php readfile(STARFLEET_LOGO); ?>
+              </a>
+            </li>
+            <li>
+              <a href="#main" aria-current="page">series</a>
+            </li>
+          </ol>
+        </nav>
       </header>
-      <main>
+      <main id="main">
         <h1 property="name"><?php html($franchise['name'] . ' series'); ?></h1>
         <table>
           <thead>
