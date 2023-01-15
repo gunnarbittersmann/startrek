@@ -40,7 +40,16 @@ EOT;
   <?php head($franchise['name']); ?>
   <body>
     <style>
-      ol {
+      main > ul > li {
+        display: flex;
+        margin: 4em 0;
+      }
+
+      main > ul > li > a {
+        min-width: 6em;
+      }
+ 
+      #series-list {
         display: flex;
         flex-wrap: wrap;
         gap: 1em 2em;
@@ -55,29 +64,33 @@ EOT;
     </header>
     <main>
       <h1 property="name"><?= htmlSpecialChars($franchise['name']) ?></h1>
-      <h2><a href="series">Series</a></h2>
-      <ol>
-        <?php foreach ($franchise['hasPart'] as $series): ?>
-          <li property="hasPart" typeof="<?= htmlSpecialChars($series['@type']) ?>">
-            <a
-              <?php if (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
-                href="series/<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
-              <?php endif; ?>
-            >
-              <?php if ($series['image']): ?>
-                <img
-                  property="image"
-                  src="<?= htmlSpecialChars($series['image']) ?>"
-                  alt="<?= htmlSpecialChars($series['name']) ?>"
-                />
-              <?php else: ?>
-                <?= htmlSpecialChars($series['name']) ?>
-              <?php endif; ?>
-            </a>
-          </li>
-        <?php endforeach; ?>
-      </ol>
-      <h2><a href="timelines">Timelines</a></h2>
+      <ul>
+        <li>
+          <a href="series">Series</a>
+          <ol id="series-list">
+            <?php foreach ($franchise['hasPart'] as $series): ?>
+              <li property="hasPart" typeof="<?= htmlSpecialChars($series['@type']) ?>">
+                <a
+                  <?php if (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
+                    href="series/<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
+                  <?php endif; ?>
+                >
+                  <?php if ($series['image']): ?>
+                    <img
+                      property="image"
+                      src="<?= htmlSpecialChars($series['image']) ?>"
+                      alt="<?= htmlSpecialChars($series['name']) ?>"
+                    />
+                  <?php else: ?>
+                    <?= htmlSpecialChars($series['name']) ?>
+                  <?php endif; ?>
+                </a>
+              </li>
+            <?php endforeach; ?>
+          </ol>
+        </li>
+        <li><a href="timelines">Timelines</a></li>
+      </li>
     </main>
   </body>
 </html>
