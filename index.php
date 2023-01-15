@@ -90,7 +90,7 @@ EOT;
           </ol>
         </li>
         <li><a href="timelines">Timelines</a></li>
-      </li>
+      </ul>
     </main>
   </body>
 </html>
