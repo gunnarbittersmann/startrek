@@ -12,7 +12,7 @@
 
   $files = scandir('.');
 
-  $json = file_get_contents('startrek.jsonld');
+  $json = file_get_contents('series.jsonld');
   $franchise = json_decode($json, TRUE);
 
   $json = @file_get_contents($_GET['series'] . '.jsonld');
@@ -57,12 +57,15 @@ EOT;
           <ol>
             <li>
               <a
-                title="Star Trek series"
-                aria-label="Star Trek series"
-                href="<?php html($_SERVER['SCRIPT_NAME']); ?>"
+                title="Star Trek"
+                aria-label="Star Trek"
+                href="/startrek"
               >
                 <?php readfile(STARFLEET_LOGO); ?>
               </a>
+            </li>
+            <li>
+              <a href="<?php html($_SERVER['SCRIPT_NAME']); ?>">series</a>:
             </li>
             <?php foreach ($franchise['hasPart'] as $series): ?>
               <li>
@@ -301,11 +304,24 @@ EOT;
     <?php head($franchise['name'] . ' series'); ?>
     <body>
       <header>
-        <div aria-hidden="true">
-          <?php readfile(STARFLEET_LOGO); ?>
-        </div>
+        <nav>
+          <ol>
+            <li>
+              <a
+                title="Star Trek"
+                aria-label="Star Trek"
+                href="/startrek"
+              >
+                <?php readfile(STARFLEET_LOGO); ?>
+              </a>
+            </li>
+            <li>
+              <a href="#main" aria-current="page">series</a>
+            </li>
+          </ol>
+        </nav>
       </header>
-      <main>
+      <main id="main">
         <h1 property="name"><?php html($franchise['name'] . ' series'); ?></h1>
         <table>
           <thead>
