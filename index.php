@@ -11,6 +11,9 @@
   $json = file_get_contents('series/series.jsonld');
   $franchise = json_decode($json, TRUE);
 
+  $json = file_get_contents('presentations/presentations.jsonld');
+  $presentations = json_decode($json, TRUE);
+
   function head($title) {
     $title = htmlSpecialChars($title);
     $starfleet_logo = htmlSpecialChars(STARFLEET_LOGO);
@@ -49,12 +52,18 @@ EOT;
         min-width: 6em;
       }
  
-      #series-list {
+      #series-list,
+      #presentation-list {
         display: flex;
         flex-wrap: wrap;
         gap: 1em 2em;
         padding-inline: 0;
         max-width: 60em;
+      }
+      
+      #presentation-list img {
+        width: auto;
+        height: 8em;
       }
     </style>
     <header>
@@ -90,7 +99,22 @@ EOT;
           </ol>
         </li>
         <li><a href="timelines">Timelines</a></li>
-      </li>
+        <li>
+          <a>Presentations</a>
+          <ol id="presentation-list">
+            <?php foreach ($presentations as $presentation): ?>
+              <li>
+                <a href="<?= htmlSpecialChars($presentation['sameAs']) ?>">
+                  <img
+                    src="<?= htmlSpecialChars($presentation['image']) ?>"
+                    alt="<?= htmlSpecialChars($presentation['name']) ?>"
+                  />
+                </a>
+              </li>
+            <?php endforeach; ?>
+          </ol>
+        </li>
+      </ul>
     </main>
   </body>
 </html>
