@@ -1,6 +1,7 @@
 Options -MultiViews
 RewriteEngine On
 RewriteBase /startrek/series
+RewriteRule index.phps index.phps.php
 RewriteRule index.jsonld startrek.jsonld
 # RewriteCond %{REQUEST_URI} !index.php$
 # RewriteCond %{REQUEST_URI} !\.jsonld$
