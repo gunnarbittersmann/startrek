@@ -18,10 +18,6 @@
   $json = @file_get_contents($_GET['series'] . '.jsonld');
   $data = json_decode($json, TRUE);
 
-  function html($str) {
-    echo htmlSpecialChars($str);
-  }
-
   function head($title) {
     $title = htmlSpecialChars($title);
     $starfleet_logo = htmlSpecialChars(STARFLEET_LOGO);
@@ -44,10 +40,10 @@ EOT;
 <!DOCTYPE html>
 <?php if ($data): ?>
   <html
-    id="<?php html($_GET['series']); ?>"
-    lang="<?php html($data['inLanguage']); ?>"
-    typeof="<?php html($data['@type']); ?>"
-    vocab="<?php html($data['@context']['@vocab'] ?? $data['@context']); ?>"
+    id="<?= htmlSpecialChars($_GET['series']) ?>"
+    lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
+    typeof="<?= htmlSpecialChars($data['@type']) ?>"
+    vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
   >
     <?php head($data['name'] . ' episode list'); ?>
     <body>
@@ -65,20 +61,20 @@ EOT;
               </a>
             </li>
             <li>
-              <a href="<?php html($_SERVER['SCRIPT_NAME']); ?>">series</a>:
+              <a href="<?= htmlSpecialChars($_SERVER['SCRIPT_NAME']) ?>">series</a>:
             </li>
             <?php foreach ($franchise['hasPart'] as $series): ?>
               <li>
                 <a
-                  title="<?php html($series['name']); ?>"
-                  aria-label="<?php html($series['name']); ?>"
+                  title="<?= htmlSpecialChars($series['name']) ?>"
+                  aria-label="<?= htmlSpecialChars($series['name']) ?>"
                   <?php if (mb_strtolower($series['identifier']) == $_GET['series']): ?>
                     href="#main" aria-current="page"
                   <?php elseif (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
-                    href="<?php html(mb_strtolower($series['identifier'])); ?>"
+                    href="<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
                   <?php endif; ?>
                 >
-                  <?php html(mb_strtoupper($series['identifier'])); ?>
+                  <?= htmlSpecialChars(mb_strtoupper($series['identifier'])) ?>
                 </a>
               </li>
             <?php endforeach; ?>
@@ -86,64 +82,64 @@ EOT;
         </nav>
       </header>
       <main id="main">
-        <h1 property="name"><?php html($data['name']); ?></h1>
+        <h1 property="name"><?= htmlSpecialChars($data['name']) ?></h1>
         <table>
           <?php foreach ($data['containsSeason'] as $season): ?>
             <tbody
               <?php if ($season['@type']): ?>
-                property="containsSeason" typeof="<?php html($season['@type']); ?>"
+                property="containsSeason" typeof="<?= htmlSpecialChars($season['@type']) ?>"
               <?php endif; ?>
             >
               <?php foreach ($season['episode'] as $episode): ?>
                 <?php // $translationCount = ($episode['workTranslation'] && $episode['workTranslation']['name']) ? NULL : sizeof($episode['workTranslation']); ?>
                 <?php $translation = $episode['workTranslation'][1] ?? $episode['workTranslation'][0] ?? $episode['workTranslation']; ?>
-                <tr property="episode" typeof="<?php html($episode['@type']); ?>">
+                <tr property="episode" typeof="<?= htmlSpecialChars($episode['@type']) ?>">
                   <?php if ($episode['episodeNumber']): ?>
                     <?php $episode['@identifier'] = $data['identifier'] . preg_replace('/,\s*/', '-', $episode['episodeNumber']); ?>
                     <th property="episodeNumber">
-                      <?php html($episode['episodeNumber']); ?>
+                      <?= htmlSpecialChars($episode['episodeNumber']) ?>
                     </th>
                   <?php else: ?>
                     <?php $episode['@identifier'] = uniqid(); ?>
                     <th></th>
                   <?php endif; ?>
-                  <td property="name" id="<?php html($episode['@identifier']); ?>"
+                  <td property="name" id="<?= htmlSpecialChars($episode['@identifier']) ?>"
                     <?php if (is_array($episode['name'])): ?>
-                      lang="<?php html($episode['name']['@language'] ?? 'und'); ?>"
+                      lang="<?= htmlSpecialChars($episode['name']['@language'] ?? 'und') ?>"
                     <?php endif; ?>
                   >
-                    <?php html($episode['name']['@value'] ?? $episode['name']); ?>
+                    <?= htmlSpecialChars($episode['name']['@value'] ?? $episode['name']) ?>
                   </td>
                   <?php if ($translation): ?>
                     <td
                       property="workTranslation"
-                      typeof="<?php html($translation['@type']); ?>"
-                      lang="<?php html($translation['inLanguage']); ?>"
-                      resource="_:<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>"
-                      id="<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>"
+                      typeof="<?= htmlSpecialChars($translation['@type']) ?>"
+                      lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
+                      resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+                      id="<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
                     >
                       <?php if ($translation['alternateName']): ?>
-                        <s property="name"><?php html($translation['name']); ?></s>
+                        <s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
                         <?php if (is_array($translation['alternateName'])): ?>
                           <?php foreach ($translation['alternateName'] as $alternateName): ?>
                             /
                             <span property="alternateName">
-                              <?php html($alternateName); ?>
+                              <?= htmlSpecialChars($alternateName) ?>
                             </span>
                           <?php endforeach; ?>
                         <?php else: ?>
                           /
                           <span property="alternateName">
-                            <?php html($translation['alternateName']); ?>
+                            <?= htmlSpecialChars($translation['alternateName']) ?>
                           </span>
                         <?php endif; ?>
                       <?php else: ?>
                         <span property="name"
                           <?php if (is_array($translation['name'])): ?>
-                            lang="<?php html($translation['name']['@language'] ?? 'und'); ?>"
+                            lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
                           <?php endif; ?>
                         >
-                          <?php html($translation['name']['@value'] ?? $translation['name']); ?>
+                          <?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
                         </span>
                       <?php endif; ?>
                     </td>
@@ -151,15 +147,15 @@ EOT;
                     <td></td>
                   <?php endif; ?>
                   <td>
-                    <time property="datePublished"><?php html($episode['datePublished']); ?></time>
+                    <time property="datePublished"><?= htmlSpecialChars($episode['datePublished']) ?></time>
                   </td>
                   <?php if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE): ?>
                     <?php if ($translation): ?>
                       <td
-                        resource="_:<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>"
+                        resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
                       >
                         <time property="datePublished">
-                          <?php html($translation['datePublished']); ?>
+                          <?= htmlSpecialChars($translation['datePublished']) ?>
                         </time>
                       </td>
                     <?php else: ?>
@@ -171,10 +167,10 @@ EOT;
                       <?php if ($episode['director']['name']): ?>
                         <td
                           property="director"
-                          typeof="<?php html($episode['director']['@type']); ?>"
-                          resource="https://bittersmann.de/startrek/persons/<?php html($episode['director']['@id']); ?>"
+                          typeof="<?= htmlSpecialChars($episode['director']['@type']) ?>"
+                          resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['director']['@id']) ?>"
                         >
-                          <span property="name"><?php html($episode['director']['name']); ?></span>
+                          <span property="name"><?= htmlSpecialChars($episode['director']['name']) ?></span>
                         </td>
                       <?php else: ?>
                         <td>
@@ -182,10 +178,10 @@ EOT;
                             <?php foreach ($episode['director'] as $director): ?>
                               <li
                                 property="director"
-                                typeof="<?php html($director['@type']); ?>"
-                                resource="https://bittersmann.de/startrek/persons/<?php html($director['@id']); ?>"
+                                typeof="<?= htmlSpecialChars($director['@type']) ?>"
+                                resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($director['@id']) ?>"
                               >
-                                <span property="name"><?php html($director['name']); ?></span>
+                                <span property="name"><?= htmlSpecialChars($director['name']) ?></span>
                               </li>
                             <?php endforeach; ?>
                           </ul>
@@ -199,16 +195,16 @@ EOT;
                       $plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
                     ?>
                     <td>
-                      <details lang="<?php html($plotLang); ?>">
-                        <summary aria-describedby="<?php html($episode['@identifier']); ?><?php html($translation['inLanguage']); ?>">
+                      <details lang="<?= htmlSpecialChars($plotLang) ?>">
+                        <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>">
                           <?php if ($plotLang == 'de'): ?>
                             Handlung
                           <?php else: ?>
                             Plot
                           <?php endif; ?>
                         </summary>
-                        <p property="<?php html($plotType); ?>">
-                          <?php html($episode[$plotType][$plotLang]); ?>
+                        <p property="<?= htmlSpecialChars($plotType) ?>">
+                          <?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
                         </p>
                         <?php if ($episode['sameAs']): ?>
                           <p>
@@ -217,7 +213,7 @@ EOT;
                             <?php else: ?>
                               see also
                             <?php endif; ?>
-                            <a property="sameAs" href="<?php html($episode['sameAs']); ?>">
+                            <a property="sameAs" href="<?= htmlSpecialChars($episode['sameAs']) ?>">
                               Wikipedia
                             </a>
                           </p>
@@ -231,17 +227,17 @@ EOT;
                     <?php if ($episode['review']['video']): ?>
                       <td property="review" typeof="Review">
                         <details lang="en" property="video" typeof="VideoObject">
-                          <summary aria-describedby="<?php html($episode['@identifier']); ?>">
+                          <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                             Ups &amp; Downs
                           </summary>
                           <meta
                             property="embedUrl"
-                            content="<?php html($episode['review']['video']['embedUrl']); ?>"
+                            content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
                           />
                           <iframe
                             allowfullscreen=""
                             aria-label="Ups &amp; Downs"
-                            aria-describedby="<?php html($episode['@identifier']); ?>">
+                            aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                           </iframe>
                         </details>
                       </td>
@@ -251,17 +247,17 @@ EOT;
                           <?php foreach ($episode['review'] as $review): ?>
                             <li property="review" typeof="Review">
                               <details lang="en" property="video" typeof="VideoObject">
-                                <summary aria-describedby="<?php html($episode['@identifier']); ?>">
+                                <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                                   Ups &amp; Downs
                                 </summary>
                                 <meta
                                   property="embedUrl"
-                                  content="<?php html($review['video']['embedUrl']); ?>"
+                                  content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
                                 />
                                 <iframe
                                   allowfullscreen=""
                                   aria-label="Ups &amp; Downs"
-                                  aria-describedby="<?php html($episode['@identifier']); ?>">
+                                  aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                                 </iframe>
                               </details>
                             </li>
@@ -283,7 +279,7 @@ EOT;
         <a
           <?php if ($data['sameAs']): ?>
             property="sameAs"
-            href="<?php html($data['sameAs']); ?>"
+            href="<?= htmlSpecialChars($data['sameAs']) ?>"
           <?php endif; ?>
         >
           Wikipedia
@@ -297,9 +293,9 @@ EOT;
 <?php else: ?>
   <html
     id="index"
-    lang="<?php html($franchise['inLanguage']); ?>"
-    typeof="<?php html($franchise['@type']); ?>"
-    vocab="<?php html($franchise['@context']['@vocab'] ?? $franchise['@context']); ?>"
+    lang="<?= htmlSpecialChars($franchise['inLanguage']) ?>"
+    typeof="<?= htmlSpecialChars($franchise['@type']) ?>"
+    vocab="<?= htmlSpecialChars($franchise['@context']['@vocab'] ?? $franchise['@context']) ?>"
   >
     <?php head($franchise['name'] . ' series'); ?>
     <body>
@@ -322,7 +318,7 @@ EOT;
         </nav>
       </header>
       <main id="main">
-        <h1 property="name"><?php html($franchise['name'] . ' series'); ?></h1>
+        <h1 property="name"><?= htmlSpecialChars($franchise['name'] . ' series') ?></h1>
         <table>
           <thead>
             <tr>
@@ -336,7 +332,7 @@ EOT;
           </thead>
           <tbody>
             <?php foreach ($franchise['hasPart'] as $series): ?>
-              <tr property="hasPart" typeof="<?php html($series['@type']); ?>">
+              <tr property="hasPart" typeof="<?= htmlSpecialChars($series['@type']) ?>">
                 <?php if (IS_LOGO_VISIBLE): ?>
                   <?php if ($series['image']): ?>
                     <td>
@@ -344,10 +340,10 @@ EOT;
                         aria-hidden="true"
                         tabindex="-1"
                         <?php if (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
-                          href="?series=<?php html(mb_strtolower($series['identifier'])); ?>"
+                          href="?series=<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
                         <?php endif; ?>
                       >
-                        <img property="image" src="<?php html($series['image']); ?>" alt=""/>
+                        <img property="image" src="<?= htmlSpecialChars($series['image']) ?>" alt=""/>
                       </a>
                     </td>
                   <?php else: ?>
@@ -357,16 +353,16 @@ EOT;
                 <th property="name">
                   <a
                     <?php if (in_array(mb_strtolower($series['identifier']) . '.jsonld', $files)): ?>
-                      href="<?php html(mb_strtolower($series['identifier'])); ?>"
+                      href="<?= htmlSpecialChars(mb_strtolower($series['identifier'])) ?>"
                     <?php endif; ?>
                   >
-                    <?php html($series['name']); ?>
+                    <?= htmlSpecialChars($series['name']) ?>
                   </a>
                 </th>
                 <?php if ($series['startDate']): ?>
                   <td>
                     <time property="startDate">
-                      <?php html($series['startDate']); ?>
+                      <?= htmlSpecialChars($series['startDate']) ?>
                     </time>
                   </td>
                 <?php else: ?>
@@ -375,7 +371,7 @@ EOT;
                 <?php if ($series['endDate']): ?>
                   <td>
                     <time property="endDate">
-                      <?php html($series['endDate']); ?>
+                      <?= htmlSpecialChars($series['endDate']) ?>
                     </time>
                   </td>
                 <?php else: ?>
