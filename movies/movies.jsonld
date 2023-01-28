@@ -11,6 +11,8 @@
 		}
 	},
 	"@type": "MovieSeries",
+	"name": "Star Trek",
+	"inLanguage": "en",
 	"hasPart": [
 		{
 			"@type": "MovieSeries",
