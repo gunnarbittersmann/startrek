@@ -15,14 +15,14 @@
 <!DOCTYPE html>
 <html
   id="movies"
-  lang="<?= htmlSpecialChars($movies['inLanguage']) ?>"
-  typeof="<?= htmlSpecialChars($movies['@type']) ?>"
-  vocab="<?= htmlSpecialChars($movies['@context']['@vocab'] ?? $movies['@context']) ?>"
+  lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
+  typeof="<?= htmlSpecialChars($data['@type']) ?>"
+  vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 >
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title><?= htmlSpecialChars($movies['name']) ?></title>
+    <title><?= htmlSpecialChars($data['name']) ?></title>
     <link rel="icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
