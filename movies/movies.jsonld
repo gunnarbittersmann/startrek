@@ -1,0 +1,241 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
+	},
+	"@type": "MovieSeries",
+	"hasPart": [
+		{
+			"@type": "MovieSeries",
+			"name": "The Original Series",
+			"hasPart": [
+				{
+					"@type": "Movie",
+					"name": "Star Trek: The Motion Picture",
+					"datePublished": "1979-12-07",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#RobertWise",
+						"@type": "Person",
+						"name": "Robert Wise"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Der Film",
+						"datePublished": "1980-03-27"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek II: The Wrath of Khan",
+					"datePublished": "1982-06-04",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+						"@type": "Person",
+						"name": "Nicholas Meyer"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek II: Der Zorn des Khan",
+						"datePublished": "1982-11-05"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek III: The Search for Spock",
+					"datePublished": "1984-06-01",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+						"@type": "Person",
+						"name": "Leonard Nimoy"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek III: Auf der Suche nach Mr. Spock",
+						"datePublished": "1984-11-16"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek IV: The Voyage Home",
+					"datePublished": "1986-11-26",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+						"@type": "Person",
+						"name": "Leonard Nimoy"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek IV: Zurück in die Gegenwart",
+						"datePublished": "1987-03-26"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek V: The Final Frontier",
+					"datePublished": "1989-06-09",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
+						"@type": "Person",
+						"name": "William Shatner"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek V: Am Rande des Universums"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek VI: The Undiscovered Country",
+					"datePublished": "1991-12-06",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+						"@type": "Person",
+						"name": "Nicholas Meyer"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek VI: Das unentdeckte Land",
+						"datePublished": "1992-02-13"
+					}
+				}
+			]
+		},
+		{
+			"@type": "MovieSeries",
+			"name": "The Next Generation",
+			"hasPart": [
+				{
+					"@type": "Movie",
+					"name": "Star Trek Generations",
+					"datePublished": "1994-11-18",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
+						"@type": "Person",
+						"name": "David Carson"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Treffen der Generationen",
+						"datePublished": "1995-02-09"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek: First Contact",
+					"datePublished": "1996-11-22",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Der erste Kontakt",
+						"datePublished": "1996-12-19"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek: Insurrection",
+					"datePublished": "1998-12-11",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Der Aufstand",
+						"datePublished": "1998-12-31"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek: Nemesis",
+					"datePublished": "2002-12-13",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#StuartBaird",
+						"@type": "Person",
+						"name": "Stuart Baird"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Nemesis",
+						"datePublished": "2003-01-16"
+					}
+				}
+			]
+		},
+		{
+			"@type": "MovieSeries",
+			"name": "Reboot (Kelvin Timeline)",
+			"hasPart": [
+				{
+					"@type": "Movie",
+					"name": "Star Trek",
+					"datePublished": "2009-04-07",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
+						"@type": "Person",
+						"name": "J. J. Abrams"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek",
+						"datePublished": "2009-04-16"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek Into Darkness",
+					"datePublished": "2013-05-16",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
+						"@type": "Person",
+						"name": "J. J. Abrams"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek Into Darkness",
+						"datePublished": "2013-05-09"
+					}
+				},
+				{
+					"@type": "Movie",
+					"name": "Star Trek Beyond",
+					"datePublished": "2016-07-07",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JustinLin",
+						"@type": "Person",
+						"name": "Justin Lin"
+					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek Beyond",
+						"datePublished": "2016-07-21"
+					}
+				}
+			]
+		}
+	]
+}

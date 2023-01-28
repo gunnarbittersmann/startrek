@@ -121,7 +121,6 @@ footer {
 	width: calc(100% - 2 * clamp(1em, 2vw, 2em));
 }
 
-#index header,
 .scrolled footer {
 	position: static;
 	border-color: transparent;

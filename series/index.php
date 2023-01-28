@@ -4,11 +4,11 @@
   const IS_DIRECTOR_VISIBLE = FALSE;
   const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
-  const STARFLEET_LOGO = 'starfleet.svg';
+  const STARFLEET_LOGO = '../starfleet.svg';
   const FAVICON = STARFLEET_LOGO;
-  const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
-  const STYLESHEET = 'style.css?date=2023-01-02T14:48Z';
-  const SCRIPT = 'script.js';
+  const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
+  const STYLESHEET = '../style.css?date=2023-01-02T14:48Z';
+  const SCRIPT = '../script.js';
 
   $files = scandir('.');
 
@@ -382,6 +382,9 @@ EOT;
           </tbody>
         </table>
       </main>
+      <script>
+        <?php readfile(SCRIPT); ?>
+      </script>
     </body>
   </html>
 <?php endif; ?>
