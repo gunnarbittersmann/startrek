@@ -98,6 +98,7 @@ EOT;
             <?php endforeach; ?>
           </ol>
         </li>
+        <li><a href="movies">Movies</a></li>
         <li><a href="timelines">Timelines</a></li>
         <li>
           <a>Presentations</a>
