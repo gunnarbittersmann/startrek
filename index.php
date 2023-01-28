@@ -1,10 +1,10 @@
 <?php
   const PREFERRED_LANG = 'de';
 
-  const STARFLEET_LOGO = 'series/starfleet.svg';
+  const STARFLEET_LOGO = 'starfleet.svg';
   const FAVICON = STARFLEET_LOGO;
-  const APPLE_TOUCH_ICON = 'series/apple-touch-icon.png';
-  const STYLESHEET = 'series/style.css?date=2022-10-12T13:13Z';
+  const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
+  const STYLESHEET = 'style.css?date=2022-10-12T13:13Z';
 
   $files = scandir('series');
 
