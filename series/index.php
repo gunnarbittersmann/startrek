@@ -382,6 +382,9 @@ EOT;
           </tbody>
         </table>
       </main>
+      <script>
+        <?php readfile(SCRIPT); ?>
+      </script>
     </body>
   </html>
 <?php endif; ?>
