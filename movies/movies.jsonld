@@ -1,6 +1,10 @@
 {
 	"@context": {
 		"@vocab": "https://schema.org/",
+		"name": {
+			"@id": "https://schema.org/name",
+			"@container": "@language"
+		},
 		"abstract": {
 			"@id": "https://schema.org/abstract",
 			"@container": "@language"
@@ -199,7 +203,10 @@
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
-						"name": "Star Trek",
+						"name": {
+							"@value": "Star Trek",
+							"@language": "en"
+						},
 						"datePublished": "2009-04-16"
 					}
 				},
@@ -215,7 +222,10 @@
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
-						"name": "Star Trek Into Darkness",
+						"name": {
+							"@value": "Star Trek Into Darkness",
+							"@language": "en"
+						},
 						"datePublished": "2013-05-09"
 					}
 				},
@@ -231,7 +241,10 @@
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
-						"name": "Star Trek Beyond",
+						"name": {
+							"@value": "Star Trek Beyond",
+							"@language": "en"
+						},
 						"datePublished": "2016-07-21"
 					}
 				}
