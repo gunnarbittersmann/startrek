@@ -13,25 +13,6 @@
 
   $json = file_get_contents('presentations/presentations.jsonld');
   $presentations = json_decode($json, TRUE);
-
-  function head($title) {
-    $title = htmlSpecialChars($title);
-    $starfleet_logo = htmlSpecialChars(STARFLEET_LOGO);
-    $favicon = htmlSpecialChars(FAVICON);
-    $apple_touch_icon = htmlSpecialChars(APPLE_TOUCH_ICON);
-    $stylesheet = htmlSpecialChars(STYLESHEET);
-    echo <<<EOT
-      <head>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>$title</title>
-        <link rel="icon" href="$favicon"/>
-        <link rel="mask-icon" href="$favicon"/>
-        <link rel="apple-touch-icon" href="$apple_touch_icon"/>
-        <link rel="stylesheet" href="$stylesheet"/>
-      </head>
-EOT;
-  }
 ?>
 <!DOCTYPE html>
 <html
@@ -40,7 +21,15 @@ EOT;
   typeof="<?= htmlSpecialChars($franchise['@type']) ?>"
   vocab="<?= htmlSpecialChars($franchise['@context']['@vocab'] ?? $franchise['@context']) ?>"
 >
-  <?php head($franchise['name']); ?>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title><?= $franchise['name'] ?></title>
+    <link rel="icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
+    <link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
+    <link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
+    <link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
+  </head>
   <body>
     <style>
       main > ul > li {
