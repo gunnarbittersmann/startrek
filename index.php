@@ -29,8 +29,6 @@
     <link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
     <link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
-  </head>
-  <body>
     <style>
       main > ul > li {
         display: flex;
@@ -55,6 +53,8 @@
         height: 8em;
       }
     </style>
+  </head>
+  <body>
     <header>
       <div aria-hidden="true">
         <?php readfile(STARFLEET_LOGO); ?>
