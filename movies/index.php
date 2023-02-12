@@ -83,7 +83,7 @@
             <?php foreach ($era['hasPart'] as $movie): ?>
               <?php // $translationCount = ($movie['workTranslation'] && $movie['workTranslation']['name']) ? NULL : sizeof($movie['workTranslation']); ?>
               <?php $translation = $movie['workTranslation'][1] ?? $movie['workTranslation'][0] ?? $movie['workTranslation']; ?>
-              <tr property="episode" typeof="<?= htmlSpecialChars($movie['@type']) ?>">
+              <tr property="hasPart" typeof="<?= htmlSpecialChars($movie['@type']) ?>">
                 <?php $movie['@identifier'] = uniqid(); ?>
                 <td property="name" id="<?= htmlSpecialChars($movie['@identifier']) ?>"
                   <?php if (is_array($movie['name'])): ?>
