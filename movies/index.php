@@ -27,30 +27,6 @@
     <link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
     <link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
-    <style>
-      main > ul > li {
-        display: flex;
-        margin: 4em 0;
-      }
-
-      main > ul > li > a {
-        min-width: 6em;
-      }
- 
-      #series-list,
-      #presentation-list {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1em 2em;
-        padding-inline: 0;
-        max-width: 60em;
-      }
-      
-      #presentation-list img {
-        width: auto;
-        height: 8em;
-      }
-    </style>
   </head>
   <body>
     <header>
