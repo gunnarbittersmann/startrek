@@ -23,6 +23,13 @@ window.setTimeout(() => {
 }, 0);
 
 
+if (document.documentElement.id == 'index') {
+  window.addEventListener ('load', () => {
+    document.querySelector('#series-list').click();
+  });
+}
+
+
 for (let videoDetailsElement of document.querySelectorAll('details[property="video"]')) {
 	videoDetailsElement.addEventListener('toggle', event => {
 		const iframeElement = event.target.querySelector('iframe');
