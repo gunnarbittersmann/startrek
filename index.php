@@ -106,5 +106,10 @@
         </li>
       </ul>
     </main>
+    <script>
+      window.addEventListener ('load', () => {
+        document.querySelector('#series-list').click();
+      });
+    </script>
   </body>
 </html>
