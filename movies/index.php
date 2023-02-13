@@ -29,30 +29,6 @@
     <link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
   </head>
   <body>
-    <style>
-      main > ul > li {
-        display: flex;
-        margin: 4em 0;
-      }
-
-      main > ul > li > a {
-        min-width: 6em;
-      }
- 
-      #series-list,
-      #presentation-list {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1em 2em;
-        padding-inline: 0;
-        max-width: 60em;
-      }
-      
-      #presentation-list img {
-        width: auto;
-        height: 8em;
-      }
-    </style>
     <header>
       <nav>
         <ol>
@@ -83,7 +59,7 @@
             <?php foreach ($era['hasPart'] as $movie): ?>
               <?php // $translationCount = ($movie['workTranslation'] && $movie['workTranslation']['name']) ? NULL : sizeof($movie['workTranslation']); ?>
               <?php $translation = $movie['workTranslation'][1] ?? $movie['workTranslation'][0] ?? $movie['workTranslation']; ?>
-              <tr property="episode" typeof="<?= htmlSpecialChars($movie['@type']) ?>">
+              <tr property="hasPart" typeof="<?= htmlSpecialChars($movie['@type']) ?>">
                 <?php $movie['@identifier'] = uniqid(); ?>
                 <td property="name" id="<?= htmlSpecialChars($movie['@identifier']) ?>"
                   <?php if (is_array($movie['name'])): ?>
