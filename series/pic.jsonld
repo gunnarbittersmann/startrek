@@ -617,6 +617,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.1",
+					"name": "The Next Generation",
 					"datePublished": "2023-02-16",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
@@ -627,6 +628,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.2",
+					"name": "Disengage",
 					"datePublished": "2023-02-23",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
@@ -637,6 +639,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.3",
+					"name": "Seventeen Seconds",
 					"datePublished": "2023-03-02",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -647,6 +650,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.4",
+					"name": "No Win Scenario",
 					"datePublished": "2023-03-09",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -657,6 +661,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.5",
+					"name": "Imposter",
 					"datePublished": "2023-03-16",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -667,6 +672,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.6",
+					"name": "Bounty",
 					"datePublished": "2023-03-23",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
