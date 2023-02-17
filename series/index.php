@@ -301,6 +301,21 @@ EOT;
         <?php else: ?>
           <cite>Wikipedia</cite>
         <?php endif; ?>
+        <?php if (substr(end($data['containsSeason'])['episode'][0]['datePublished'], 0, 4) == '2023'): ?>
+          – current season <?= htmlSpecialChars(end($data['containsSeason'])['seasonNumber']) ?>:
+          <?php foreach (end($data['containsSeason'])['subjectOf'] as $index => $source): ?>
+            <?php if ($index): ?>
+              &amp;
+            <? endif; ?>
+            <cite property="subjectOf" typeof="Webpage">
+              <a
+                property="url"
+                href="<?= htmlSpecialChars($source['url']) ?>"
+              >
+                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+            </cite>
+          <?php endforeach; ?>
+        <?php endif; ?>
       </footer>
       <script>
         <?php readfile(SCRIPT); ?>
