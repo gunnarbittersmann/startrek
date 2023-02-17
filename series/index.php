@@ -302,7 +302,7 @@ EOT;
           <cite>Wikipedia</cite>
         <?php endif; ?>
         <?php if (substr(end($data['containsSeason'])['episode'][0]['datePublished'], 0, 4) == '2023'): ?>
-          – current season:
+          – current season <?= htmlSpecialChars(end($data['containsSeason'])['seasonNumber']) ?>:
           <?php foreach (end($data['containsSeason'])['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>
               &amp;
