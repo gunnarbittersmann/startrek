@@ -14,13 +14,37 @@
 	"name": "Star Trek: Enterprise",
 	"identifier": "ENT",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Enterprise/Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
+		},
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Enterprise"
+		}
+	],
 	"numberOfSeasons": 4,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Enterprise/Staffel_1",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_1)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_1)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_1"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -528,7 +552,19 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://de.wikipedia.org/wiki/Enterprise/Staffel_2",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_2)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_2)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_2"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1056,7 +1092,19 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://de.wikipedia.org/wiki/Enterprise/Staffel_3",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_3)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_3)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_3"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1543,7 +1591,19 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 4,
-			"sameAs": "https://de.wikipedia.org/wiki/Enterprise/Staffel_4",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_4)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_(season_4)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_4"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
