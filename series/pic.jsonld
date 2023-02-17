@@ -615,6 +615,12 @@
 					"episodeNumber": "3.1",
 					"name": "The Next Generation",
 					"datePublished": "2023-02-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die nächste Generation",
+						"datePublished": "2023-02-17"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"@type": "Person",
