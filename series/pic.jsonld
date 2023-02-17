@@ -14,8 +14,13 @@
 	"name": "Star Trek: Picard",
 	"identifier": "PIC",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard#Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard",
 	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard#Episodes"
+		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
@@ -27,8 +32,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_1)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_1)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
@@ -334,6 +344,19 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_2)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_2)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_2"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -623,6 +646,19 @@
 			"@type": "TVSeason",
 			"seasonNumber": 3,
 			"numberOfEpisodes": 10,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
