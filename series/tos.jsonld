@@ -14,12 +14,17 @@
 	"name": "Star Trek: The Original Series",
 	"identifier": "TOS",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series"
+		},
+		{
+			"@type": "Webpage",
 			"inLanguage": "de",
-			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Episodenliste"
+			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise"
 		}
 	],
 	"numberOfSeasons": 3,
@@ -50,8 +55,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_1",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_1)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_1)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
@@ -648,8 +658,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_2",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_2)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_2)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
@@ -1184,8 +1199,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_3",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_3)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_(season_3)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",

@@ -14,12 +14,17 @@
 	"name": "Star Trek: Short Treks",
 	"identifier": "ST",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks#Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks"
+		},
+		{
+			"@type": "Webpage",
 			"inLanguage": "de",
-			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks#Episodenliste"
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		}
 	],
 	"numberOfSeasons": 2,

@@ -14,12 +14,17 @@
 	"name": "Star Trek: The Animated Series",
 	"identifier": "TAS",
 	"inLanguage": "en",
-	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series#Episodes",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series"
+		},
+		{
+			"@type": "Webpage",
 			"inLanguage": "de",
-			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series#Episodes"
+			"url": "https://de.wikipedia.org/wiki/Die_Enterprise"
 		}
 	],
 	"numberOfSeasons": 2,

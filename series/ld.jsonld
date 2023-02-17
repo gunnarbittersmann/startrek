@@ -14,20 +14,30 @@
 	"name": "Star Trek: Lower Decks",
 	"identifier": "LD",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks#Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
+		},
+		{
+			"@type": "Webpage",
 			"inLanguage": "de",
-			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks#Episodenliste"
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
 		}
 	],
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_1",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_1)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_1)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
@@ -321,8 +331,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_2)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_2)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
@@ -622,8 +637,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_3",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_3)",
 			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_3)"
+				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",

@@ -14,12 +14,17 @@
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
+		},
+		{
+			"@type": "Webpage",
 			"inLanguage": "de",
-			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Episodenliste"
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
 		}
 	],
 	"numberOfSeasons": 7,
@@ -27,7 +32,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_1",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -421,7 +425,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_2",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -955,7 +958,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_3",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1489,7 +1491,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 4,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_4",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -2003,7 +2004,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 5,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_5",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -2537,7 +2537,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 6,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_6",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -3071,7 +3070,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 7,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_7",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
