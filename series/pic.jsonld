@@ -625,6 +625,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"@type": "Person",
 						"name": "Doug Aarniokoski"
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/x4A0qXZmsSY"
+						}
 					}
 				},
 				{
