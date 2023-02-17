@@ -126,6 +126,10 @@ footer {
 	border-color: transparent;
 }
 
+footer cite {
+	font-style: normal;
+}
+
 nav ol {
 	margin: 0;
 	padding: 0;
