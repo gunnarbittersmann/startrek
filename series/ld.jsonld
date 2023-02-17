@@ -15,11 +15,25 @@
 	"identifier": "LD",
 	"inLanguage": "en",
 	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks#Episodenliste",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks#Episodenliste"
+		}
+	],
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_1"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -308,6 +322,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 2,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -602,6 +623,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 3,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_3",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_3"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{

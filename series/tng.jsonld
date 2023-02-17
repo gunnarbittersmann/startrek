@@ -15,12 +15,26 @@
 	"identifier": "TNG",
 	"inLanguage": "en",
 	"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Episodenliste",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Episodenliste"
+		}
+	],
 	"numberOfSeasons": 7,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_1"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -548,6 +562,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 2,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_2",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_2"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -997,6 +1018,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 3,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_3",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_3"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1526,6 +1554,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 4,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_4",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_4"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -2054,6 +2089,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 5,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_5",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_5"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -2584,6 +2626,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 6,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_6",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_6"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -3111,6 +3160,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 7,
 			"sameAs": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_7",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_7"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",

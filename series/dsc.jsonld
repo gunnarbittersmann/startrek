@@ -15,11 +15,25 @@
 	"identifier": "DSC",
 	"inLanguage": "en",
 	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Episodenliste",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Episodenliste"
+		}
+	],
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_1"
+				}
+			],
 			"numberOfEpisodes": 15,
 			"episode": [
 				{
@@ -349,6 +363,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 2,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_2",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_2"
+				}
+			],
 			"numberOfEpisodes": 14,
 			"episode": [
 				{
@@ -651,6 +672,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 3,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
+				}
+			],
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
@@ -1023,6 +1051,13 @@
 			"@type": "TVSeason",
 			"seasonNumber": 4,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_4",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_4"
+				}
+			],
 			"numberOfEpisodes": 13,
 			"episode": [
 				{

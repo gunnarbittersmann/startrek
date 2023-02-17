@@ -15,12 +15,26 @@
 	"identifier": "PIC",
 	"inLanguage": "en",
 	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard#Episodenliste",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard#Episodenliste"
+		}
+	],
 	"numberOfSeasons": 3,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
 			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{

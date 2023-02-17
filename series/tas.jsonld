@@ -15,6 +15,13 @@
 	"identifier": "TAS",
 	"inLanguage": "en",
 	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series#Episodes",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series#Episodes"
+		}
+	],
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
