@@ -693,10 +693,27 @@
 					"episodeNumber": "3.2",
 					"name": "Disengage",
 					"datePublished": "2023-02-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Abgezogen",
+						"datePublished": "2023-02-24"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"@type": "Person",
 						"name": "Doug Aarniokoski"
+					},
+					"description": {
+						"en": "In a flashback sequence, the Fenris Rangers pursue Jack aboard the Eleos, revealing him to be an outlaw, and apprehend him. Two weeks later, Picard and Riker prevent the large ship, the Shrike, from transporting Jack. The Shrike’s captain, a mysterious woman named Vadic, destroys the shuttle and Beverly’s stasis pod, but when Seven persuades Shaw to intervene, Picard and Riker contact the Titan and are beamed aboard with the Crushers. Jack is arrested while Beverly heals. Vadic demands that Picard hand over Jack, and makes the Shrike’s tractor beam fling the Eleos at the Titan, destroying the former. Jack escapes the brig and attempts to save the Titan by offering himself to Vadic, but upon seeing Riker and Beverly on the bridge, Picard dissuades him, realizing Jack is Picard’s son, and orders the Titan crew to steer deeper into the Shrike’s home zone. Meanwhile, after the attack, Raffi finds a lead, the Ferengi criminal Sneed, but her handler requests that she not investigate any further. Disobeying him, she confronts Sneed and takes a narcotic to strengthen her cover. Sneed reveals he knows her deceit and is about to kill her when her handler, Worf, decapitates Sneed.",
+						"de": "In einer Rückblende verfolgen die Fenris-Ranger Jack an Bord der SS Eleos, entlarven ihn bei einer Inspektion als Verbrecher und nehmen ihn fest. Zwei Wochen später hindern Picard und Riker das unbekannte Schiff, die Shrike („Würger“ in Anlehnung an die Vogelart), daran, Jack zu transportieren. Der Captain der Shrike, eine mysteriöse Frau namens Vadic, greift die SS Eleos an, zerstört dabei das Shuttle und beschädigt Beverlys Stasiskapsel. Als ein Tranportversuch durch Picard verhindert wird, versucht Vadic mit einer Art Traktorstrahl die SS Eleos an die Shrike heranzuziehen, doch die USS Titan stellt sich dazwischen und beamt Picard, Riker, Jack und die Staiskapsel mit Beverly an Bord. Jack wird verhaftet, während Beverly sich auf der Krankenstation erholt. Vadic verlangt, dass Picard Jack ausliefert, und unterstreicht ihr Verlangen, indem sie mittels Traktorstrahl die SS Eleos auf die USS Titan schleudern, die dadurch schwer beschädigt wird. Währenddessen sucht Raffi nach dem Angriff auf M’talas Prime nach einer Spur zu den Hintermännern und findet den Ferengi-Kriminellen Sneed. Ihr mysteröser Kontakt verlangt jedoch, dass sie keine weiteren Nachforschungen anstellt. Sie widersetzt sich ihm und konfrontiert Sneed in einer Bar mit den Anschuldigungen. Um Sneed zu beweisen, dass sie nicht für die Sternenflotte arbeitet, nimmt sie ein von ihm angebotenes Betäubungsmittel. Sneed offenbart daraufhin, dass er ihren Betrug durchschaut hat, und will sie töten, als ein Angreifer Sneeds Wachen überwältigt und Sneed enthauptet. Der Angreifer stützt daraufhin die halb-bewusstlose Raffi und entpuppt sich als Worf, der im gehen knurrt: „Ich habe doch gesagt, dass Sie nicht weiter eingreifen sollen!“ Jack entkommt derweil auf der USS Titan aus der Arrestzelle und versucht, das Schiff zu retten, indem er sich Vadic anbietet. Captain Shaw will gerade den Transport von Jack befehlen, als Riker mit Beverly auf die Brücke kommen und Picard erkennt, dass Jack sein Sohn ist. Er verhindert den Transport, übernimmt das Kommando und und befiehlt der Titan-Besatzung, tiefer in die Heimatzone der Shrike zu fliegen und das Schiff nimmt die Verfolgung auf."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/sNn9pgXlNRE"
+						}
 					}
 				},
 				{
