@@ -110,10 +110,5 @@
     <script>
       <?php readfile(SCRIPT); ?>
     </script>
-    <script>
-      window.addEventListener ('load', () => {
-        document.querySelector('#series-list').click();
-      });
-    </script>
   </body>
 </html>
