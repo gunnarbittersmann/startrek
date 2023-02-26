@@ -275,6 +275,9 @@ EOT;
         </table>
       </main>
       <footer>
+        <a href="../privacy">
+          <span lang="en">Privacy</span>/<span lang="de">Datenschutz</span>
+        </a> – 
         Data source:
         <?php if ($data['subjectOf']): ?>
           <?php foreach ($data['subjectOf'] as $index => $source): ?>

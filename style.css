@@ -226,7 +226,7 @@ td[property="review"] {
 	width: 18em;
 }
 
-p {
+table p {
 	max-width: 32em;
 	margin-left: -26em;
 	line-height: 1.4;
@@ -261,7 +261,7 @@ p {
 		content: '–';
 	}
 
-	p {
+	table p {
 		max-width: initial;
 		margin-left: 0;
 	}
