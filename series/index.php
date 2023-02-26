@@ -21,7 +21,9 @@
   if ($data) {
     $lastSeason = end($data['containsSeason']);
     $lastEpisode = end($lastSeason['episode']);
-    $hasRecentSeason = (!$lastEpisode['datePublished'] OR substr($lastEpisode['datePublished'], 0, 4) == '2023');
+    $hasRecentSeason = (
+      !$lastEpisode['datePublished'] OR substr($lastEpisode['datePublished'], 0, 4) == '2023'
+    );
   }
 
   function head($title) {
