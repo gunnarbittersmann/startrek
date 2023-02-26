@@ -21,8 +21,9 @@
   if ($data) {
     $lastSeason = end($data['containsSeason']);
     $lastEpisode = end($lastSeason['episode']);
+    $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
     $hasRecentSeason = (
-      !$lastEpisode['datePublished'] OR substr($lastEpisode['datePublished'], 0, 4) == '2023'
+      !$lastEpisode['datePublished'] OR $lastEpisode['datePublished'] > $recentAfterDateString
     );
   }
 
