@@ -18,6 +18,10 @@
   $json = @file_get_contents($_GET['series'] . '.jsonld');
   $data = json_decode($json, TRUE);
 
+  if ($data) {
+    $hasRecentSeason = (substr(end($data['containsSeason'])['episode'][0]['datePublished'], 0, 4) == '2023');
+  }
+
   function head($title) {
     $title = htmlSpecialChars($title);
     $starfleet_logo = htmlSpecialChars(STARFLEET_LOGO);
@@ -301,7 +305,7 @@ EOT;
         <?php else: ?>
           <cite>Wikipedia</cite>
         <?php endif; ?>
-        <?php if (substr(end($data['containsSeason'])['episode'][0]['datePublished'], 0, 4) == '2023'): ?>
+        <?php if ($hasRecentSeason): ?>
           – season <?= htmlSpecialChars(end($data['containsSeason'])['seasonNumber']) ?>:
           <?php foreach (end($data['containsSeason'])['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>
