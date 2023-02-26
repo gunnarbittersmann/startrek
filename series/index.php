@@ -315,7 +315,7 @@ EOT;
         <?php else: ?>
           <cite>Wikipedia</cite>
         <?php endif; ?>
-        <?php if ($hasRecentSeason): ?>
+        <?php if ($hasRecentSeason AND $lastSeason['subjectOf']): ?>
           – season <?= htmlSpecialChars($lastSeason['seasonNumber']) ?>:
           <?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>
