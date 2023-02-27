@@ -126,6 +126,10 @@ footer {
 	border-color: transparent;
 }
 
+footer cite {
+	font-style: normal;
+}
+
 nav ol {
 	margin: 0;
 	padding: 0;
@@ -222,7 +226,7 @@ td[property="review"] {
 	width: 18em;
 }
 
-p {
+table p {
 	max-width: 32em;
 	margin-left: -26em;
 	line-height: 1.4;
@@ -257,7 +261,7 @@ p {
 		content: '–';
 	}
 
-	p {
+	table p {
 		max-width: initial;
 		margin-left: 0;
 	}

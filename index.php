@@ -5,6 +5,7 @@
   const FAVICON = STARFLEET_LOGO;
   const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
   const STYLESHEET = 'style.css?date=2022-10-12T13:13Z';
+  const SCRIPT = 'script.js';
 
   $files = scandir('series');
 
@@ -106,5 +107,8 @@
         </li>
       </ul>
     </main>
+    <script>
+      <?php readfile(SCRIPT); ?>
+    </script>
   </body>
 </html>

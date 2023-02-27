@@ -18,13 +18,31 @@
 	"name": "Star Trek: Prodigy",
 	"identifier": "PRO",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy#Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy"
+		},
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy"
+		}
+	],
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
 			"numberOfEpisodes": 20,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",

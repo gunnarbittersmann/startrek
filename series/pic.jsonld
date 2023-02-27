@@ -18,13 +18,37 @@
 	"name": "Star Trek: Picard",
 	"identifier": "PIC",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard#Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard"
+		},
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard"
+		}
+	],
 	"numberOfSeasons": 3,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_1)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_1)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -324,6 +348,19 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_2)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_2)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_2"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -613,16 +650,46 @@
 			"@type": "TVSeason",
 			"seasonNumber": 3,
 			"numberOfEpisodes": 10,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.1",
 					"name": "The Next Generation",
 					"datePublished": "2023-02-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die nächste Generation",
+						"datePublished": "2023-02-17"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"@type": "Person",
 						"name": "Doug Aarniokoski"
+					},
+					"description": {
+						"en": "In the 25th century, Dr. Beverly Crusher and her son Jack are attacked aboard the SS Eleos. Beverly is injured and sends an emergency message to her former Starfleet captain, the retired Admiral Jean-Luc Picard. Picard and his love Laris are planning a trip to Chaltok IV when he receives the message, and she encourages him to go. Beverly told Picard not to involve Starfleet, so he goes to their friend Captain William Riker. Riker uses his status to stage a surprise inspection of his former ship, the USS Titan, with plans to convince its captain, Liam Shaw, to take the ship to Beverly’s location without revealing their intentions. Picard and Riker are unable to convince Shaw, but his first officer is Picard’s friend Seven of Nine who ignores Shaw’s orders and changes the Titan’s course. On M’talas Prime, Starfleet intelligence officer Raffi Musiker searches for a stolen quantum tunneling device that her mysterious handler fears will be used in a terrorist attack; Raffi is too late to stop it from being used to destroy a Starfleet facility. Picard and Riker board the Eleos, finding Beverly and Jack just as a large ship appears.",
+						"de": "Im 25. Jahrhundert wird die SS Eleos mit Dr. Beverly Crusher an Bord von einer unbekannten außerirdischen Rasse angegriffen. Beverly wird bei einem Schusswechsel schwer verletzt und sendet gerade noch einen Notruf an ihren ehemaligen Sternenflottenkapitän, den pensionierten Admiral Jean-Luc Picard. Picard und seine Geliebte Laris planen derweil auf der Erde eine Reise nach Chaltok IV, als er Beverlys Nachricht erhält und Laris ermutigt ihn zu gehen. Picard wendet sich daher an seinen ehemaligen ersten Offizier, Captain William Riker, und beide sind entschlossen, Beverly zu helfen. Um an ein Schiff zu kommen, welches sie an Berverlys Standort transportiert, inszenieren Riker und Picard eine Überraschungsinspektion an Bord von Rikers ehemaligem Schiff, der USS Titan-A, und planen, den neuen Captain Liam Shaw davon zu überzeugen, sich zu Beverlys Aufenthaltsort zu begeben, ohne ihre Absichten zu verraten. Es gelingt ihnen nicht, Shaw zu überzeugen, aber sein erster Offizier, Picards Freundin Seven of Nine ignoriert Shaws Befehle und ändert den Kurs der Titan. Auf M’talas Prime sucht die Geheimdienstoffizierin der Sternenflotte, Raffi Musiker, nach einem gestohlenen Quantentunnelgerät, von dem ihr mysteriöser Vorgesetzter befürchtet, dass es für einen Terroranschlag verwendet werden könnte. Es gelingt ihr nicht, es zu finden, bevor dies zur Zerstörung einer Einrichtung der Sternenflotte eingesetzt wird. Derweil gehen Picard und Riker an Bord der Eleos und finden Beverly und ihren, Picard und Riker unbekannten, Sohn, als ein großes unbekanntes Schiff auftaucht."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/x4A0qXZmsSY"
+						}
 					}
 				},
 				{
@@ -630,10 +697,27 @@
 					"episodeNumber": "3.2",
 					"name": "Disengage",
 					"datePublished": "2023-02-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Abgezogen",
+						"datePublished": "2023-02-24"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"@type": "Person",
 						"name": "Doug Aarniokoski"
+					},
+					"description": {
+						"en": "In a flashback sequence, the Fenris Rangers pursue Jack aboard the Eleos, revealing him to be an outlaw, and apprehend him. Two weeks later, Picard and Riker prevent the large ship, the Shrike, from transporting Jack. The Shrike’s captain, a mysterious woman named Vadic, destroys the shuttle and Beverly’s stasis pod, but when Seven persuades Shaw to intervene, Picard and Riker contact the Titan and are beamed aboard with the Crushers. Jack is arrested while Beverly heals. Vadic demands that Picard hand over Jack, and makes the Shrike’s tractor beam fling the Eleos at the Titan, destroying the former. Jack escapes the brig and attempts to save the Titan by offering himself to Vadic, but upon seeing Riker and Beverly on the bridge, Picard dissuades him, realizing Jack is Picard’s son, and orders the Titan crew to steer deeper into the Shrike’s home zone. Meanwhile, after the attack, Raffi finds a lead, the Ferengi criminal Sneed, but her handler requests that she not investigate any further. Disobeying him, she confronts Sneed and takes a narcotic to strengthen her cover. Sneed reveals he knows her deceit and is about to kill her when her handler, Worf, decapitates Sneed.",
+						"de": "In einer Rückblende verfolgen die Fenris-Ranger Jack an Bord der SS Eleos, entlarven ihn bei einer Inspektion als Verbrecher und nehmen ihn fest. Zwei Wochen später hindern Picard und Riker das unbekannte Schiff, die Shrike („Würger“ in Anlehnung an die Vogelart), daran, Jack zu transportieren. Der Captain der Shrike, eine mysteriöse Frau namens Vadic, greift die SS Eleos an, zerstört dabei das Shuttle und beschädigt Beverlys Stasiskapsel. Als ein Tranportversuch durch Picard verhindert wird, versucht Vadic mit einer Art Traktorstrahl die SS Eleos an die Shrike heranzuziehen, doch die USS Titan stellt sich dazwischen und beamt Picard, Riker, Jack und die Staiskapsel mit Beverly an Bord. Jack wird verhaftet, während Beverly sich auf der Krankenstation erholt. Vadic verlangt, dass Picard Jack ausliefert, und unterstreicht ihr Verlangen, indem sie mittels Traktorstrahl die SS Eleos auf die USS Titan schleudern, die dadurch schwer beschädigt wird. Währenddessen sucht Raffi nach dem Angriff auf M’talas Prime nach einer Spur zu den Hintermännern und findet den Ferengi-Kriminellen Sneed. Ihr mysteröser Kontakt verlangt jedoch, dass sie keine weiteren Nachforschungen anstellt. Sie widersetzt sich ihm und konfrontiert Sneed in einer Bar mit den Anschuldigungen. Um Sneed zu beweisen, dass sie nicht für die Sternenflotte arbeitet, nimmt sie ein von ihm angebotenes Betäubungsmittel. Sneed offenbart daraufhin, dass er ihren Betrug durchschaut hat, und will sie töten, als ein Angreifer Sneeds Wachen überwältigt und Sneed enthauptet. Der Angreifer stützt daraufhin die halb-bewusstlose Raffi und entpuppt sich als Worf, der im gehen knurrt: „Ich habe doch gesagt, dass Sie nicht weiter eingreifen sollen!“ Jack entkommt derweil auf der USS Titan aus der Arrestzelle und versucht, das Schiff zu retten, indem er sich Vadic anbietet. Captain Shaw will gerade den Transport von Jack befehlen, als Riker mit Beverly auf die Brücke kommen und Picard erkennt, dass Jack sein Sohn ist. Er verhindert den Transport, übernimmt das Kommando und und befiehlt der Titan-Besatzung, tiefer in die Heimatzone der Shrike zu fliegen und das Schiff nimmt die Verfolgung auf."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/sNn9pgXlNRE"
+						}
 					}
 				},
 				{

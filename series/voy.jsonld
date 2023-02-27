@@ -18,13 +18,31 @@
 	"name": "Star Trek: Voyager",
 	"identifier": "VOY",
 	"inLanguage": "en",
-	"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Episodenliste",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Voyager"
+		},
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager"
+		}
+	],
 	"numberOfSeasons": 7,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -376,7 +394,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_2",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_2"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -966,7 +990,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_3",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_3"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1562,7 +1592,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 4,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_4",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_4"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -2167,7 +2203,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 5,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_5",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_5"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -2709,7 +2751,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 6,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_6",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_6"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -3314,7 +3362,13 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 7,
-			"sameAs": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_7",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_7"
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
