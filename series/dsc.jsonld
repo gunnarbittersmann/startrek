@@ -1465,19 +1465,6 @@
 					}
 				}
 			]
-		},
-		{
-			"@type": "TVSeason",
-			"seasonNumber": 5,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_(season_5)",
-			"subjectOf": [
-				{
-					"@type": "Webpage",
-					"inLanguage": "en",
-					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_(season_5)"
-				}
-			],
-			"numberOfEpisodes": 10
 		}
 	]
 }
