@@ -1,10 +1,16 @@
-const resizeObserver = new ResizeObserver(entries => {
-	document.documentElement.style.setProperty(
-		'--header-height', `${entries[0].target.offsetHeight}px`
-	);
-});
+const headerElement = document.querySelector('header');
 
-resizeObserver.observe(document.querySelector('header'));
+const storeHeaderHeight = () => {
+	document.documentElement.style.setProperty(
+		'--header-height', `${headerElement.offsetHeight}px`
+	);
+};
+
+storeHeaderHeight();
+
+const resizeObserver = new ResizeObserver(storeHeaderHeight);
+
+resizeObserver.observe(headerElement);
 
 
 const intersectionObserver = new IntersectionObserver(entries => {
@@ -14,13 +20,6 @@ const intersectionObserver = new IntersectionObserver(entries => {
 }, { rootMargin: '36px' });
 
 intersectionObserver.observe(document.head);
-
-
-window.setTimeout(() => {
-	if (location.hash) {
-		document.querySelector(location.hash).scrollIntoView();
-	}
-}, 0);
 
 
 for (let videoDetailsElement of document.querySelectorAll('details[property="video"]')) {
