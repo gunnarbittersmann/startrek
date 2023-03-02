@@ -1,14 +1,14 @@
 const headerElement = document.querySelector('header');
 
-document.documentElement.style.setProperty(
-	'--header-height', `${headerElement.offsetHeight}px`
-);
-
-const resizeObserver = new ResizeObserver(entries => {
+const storeHeaderHeight = () => {
 	document.documentElement.style.setProperty(
 		'--header-height', `${headerElement.offsetHeight}px`
 	);
-});
+};
+
+storeHeaderHeight();
+
+const resizeObserver = new ResizeObserver(storeHeaderHeight);
 
 resizeObserver.observe(headerElement);
 
