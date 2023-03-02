@@ -1,14 +1,16 @@
+const headerElement = document.querySelector('header');
+
 document.documentElement.style.setProperty(
-	'--header-height', `${document.querySelector('header').offsetHeight}px`
+	'--header-height', `${headerElement.offsetHeight}px`
 );
 
 const resizeObserver = new ResizeObserver(entries => {
 	document.documentElement.style.setProperty(
-		'--header-height', `${entries[0].target.offsetHeight}px`
+		'--header-height', `${headerElement.offsetHeight}px`
 	);
 });
 
-resizeObserver.observe(document.querySelector('header'));
+resizeObserver.observe(headerElement);
 
 
 const intersectionObserver = new IntersectionObserver(entries => {
