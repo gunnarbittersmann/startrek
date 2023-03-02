@@ -725,6 +725,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
 						"name": "Jonathan Frakes"
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/cI3NpKGujLE"
+						}
 					}
 				},
 				{
