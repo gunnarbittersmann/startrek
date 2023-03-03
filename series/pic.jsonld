@@ -721,6 +721,12 @@
 					"episodeNumber": "3.3",
 					"name": "Seventeen Seconds",
 					"datePublished": "2023-03-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "17 Sekunden",
+						"datePublished": "2023-03-03"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
