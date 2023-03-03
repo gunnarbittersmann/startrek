@@ -13,6 +13,13 @@
 	"@type": "MovieSeries",
 	"name": "Star Trek",
 	"inLanguage": "en",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/List_of_Star_Trek_films"
+		}
+	],
 	"hasPart": [
 		{
 			"@type": "MovieSeries",
