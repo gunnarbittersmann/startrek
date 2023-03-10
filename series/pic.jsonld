@@ -749,6 +749,12 @@
 					"episodeNumber": "3.4",
 					"name": "No Win Scenario",
 					"datePublished": "2023-03-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Pattsituation",
+						"datePublished": "2023-03-10"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
