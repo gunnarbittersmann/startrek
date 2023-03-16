@@ -777,10 +777,26 @@
 					"episodeNumber": "3.5",
 					"name": "Imposter",
 					"datePublished": "2023-03-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wechselbälger",
+						"datePublished": "2023-03-17"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"@type": "Person",
 						"name": "Dan Liu"
+					},
+					"description": {
+						"en": "Riker returns command of the Titan to Captain Shaw. Shaw contacts Starfleet, who promptly send the USS Intrepid to intercept them and take Picard and Riker into custody. The Starfleet officer in charge of the security team is Ro Laren, who had betrayed Starfleet years earlier by defecting to the Maquis, but returned after her imprisonment. Beverly conducts the impostor’s autopsy, discovers that the Changelings have evolved to hold their shape longer and evade body scanning technology, and notifies Picard, but Ro dragoons him into the holodeck. Ro suspects that Starfleet’s highest levels and both Intrepid and Titan are compromised by the Changeling conspiracy. Picard realizes he still trusts her, and they reconcile, before Ro gives Picard her earring. Ro pilots her shuttle, but Changeling saboteurs plant a bomb onboard, forcing her to steer into the Intrepid, sacrificing herself. Picard and Riker realize Ro’s earring contains the intelligence she gathered, and a communications device. Worf and Raffi continue their investigation into the attack on M’Talas Prime, finding the Vulcan criminal Krinn, who forces them to duel. Raffi seemingly defeats Worf, but Worf manages to kill Krinn’s minions and force Krinn to give vital information about the attack. Worf and Raffi contact Picard and Riker via the earring, just as the Titan flees the Intrepid."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/hnqcoJ6hzTw"
+						}
 					}
 				},
 				{
