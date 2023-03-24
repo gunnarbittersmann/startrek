@@ -805,6 +805,12 @@
 					"episodeNumber": "3.6",
 					"name": "The Bounty",
 					"datePublished": "2023-03-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Bounty",
+						"datePublished": "2023-03-24"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"@type": "Person",
