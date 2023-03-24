@@ -817,7 +817,7 @@
 						"name": "Dan Liu"
 					},
 					"description": {
-						"en": "Worf and Raffi board the Titan and together with the crew develop and execute a plan to infiltrate Daystrom Station. The Titan is forced to flee after Starfleet ships arrive. Picard seeks out help from Geordi La Forge, his former Chief Engineer, now a Commodore in charge of the Starfleet Museum. The away team discovers that a Soong-type android containing the memories of Data, B-4, Lal, and Lore, is at the heart of Daystrom and also contains the projects database they are looking for. Equipped with a Klingon cloaking device stolen by Jack (who is suffering from Picard’s old neurological condition) and La Forge’s daughters, the crew returns to Daystrom, where they recover the away team (minus Riker who was captured). They discover that the item stolen by the Changelings was the original organic body of Jean-Luc Picard. Riker is brought aboard the Shrike, where he is reunited with his wife Deanna Troi who was also kidnapped by the Changelings."
+						"en": "Worf and Raffi board the Titan and together with the crew develop and execute a plan to infiltrate Daystrom Station. The Titan is forced to flee after Starfleet ships arrive. Picard seeks out help from Geordi La Forge, his former Chief Engineer, now a Commodore in charge of the Starfleet Museum. The away team discovers that a Soong-type android containing the memories of Data, B-4, Lal, Lore, and Altan Soong, is at the heart of Daystrom and also contains the projects database they are looking for. Equipped with a Klingon cloaking device stolen by Jack (who is suffering from Picard’s old neurological condition) and La Forge’s daughters, the crew returns to Daystrom, where they recover the away team (minus Riker who was captured). They discover that the item stolen by the Changelings was the original dead organic body of Jean-Luc Picard. Riker is brought aboard the Shrike, where he is reunited with his wife Deanna Troi who was also kidnapped by the Changelings."
 					},
 					"review": {
 						"@type": "Review",
@@ -830,6 +830,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.7",
+					"name": "Dominion",
 					"datePublished": "2023-03-30",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
