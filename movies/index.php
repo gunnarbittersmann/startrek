@@ -76,30 +76,13 @@
                     resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
                     id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
                   >
-                    <?php if ($translation['alternateName']): ?>
-                      <s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
-                      <?php if (is_array($translation['alternateName'])): ?>
-                        <?php foreach ($translation['alternateName'] as $alternateName): ?>
-                          /
-                          <span property="alternateName">
-                            <?= htmlSpecialChars($alternateName) ?>
-                          </span>
-                        <?php endforeach; ?>
-                      <?php else: ?>
-                        /
-                        <span property="alternateName">
-                          <?= htmlSpecialChars($translation['alternateName']) ?>
-                        </span>
+                    <span property="name"
+                      <?php if (is_array($translation['name'])): ?>
+                        lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
                       <?php endif; ?>
-                    <?php else: ?>
-                      <span property="name"
-                        <?php if (is_array($translation['name'])): ?>
-                          lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
-                        <?php endif; ?>
-                      >
-                        <?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
-                      </span>
-                    <?php endif; ?>
+                    >
+                      <?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
+                    </span>
                   </td>
                 <?php else: ?>
                   <td></td>
