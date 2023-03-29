@@ -343,6 +343,31 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_2)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_2)"
+				}
+			],
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.1",
+					"datePublished": "2023-06-15",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"@type": "Person",
+						"name": "Chris Fisher"
+					}
+				}
+			]
 		}
 	]
 }
