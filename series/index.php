@@ -129,7 +129,11 @@ EOT;
                         id="<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
                       >
                         <?php if ($translation['alternateName']): ?>
-                          <s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
+                          <?php if ($data['identifier'] == 'TOS'): ?>
+                            <s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
+                          <?php else: ?>
+                            <span property="name"><?= htmlSpecialChars($translation['name']) ?></span>
+                          <?php endif; ?>
                           <?php if (is_array($translation['alternateName'])): ?>
                             <?php foreach ($translation['alternateName'] as $alternateName): ?>
                               /
