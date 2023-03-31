@@ -837,6 +837,16 @@
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
 						"@type": "Person",
 						"name": "Deborah Kampmeier"
+					},
+					"description": {
+						"en": "The Titan hides amid shipwrecks in the Chin’toka battlespace. Geordi works against Lore’s persona to restore Data’s dominance of the android’s mind. Worf and Raffi take La Sirena out on another intelligence mission. Seven tries to contact her former crewmate Tuvok. The respondent passes Seven’s first trust test, but fails her second, revealing himself to be a Changeling and leaving the real Tuvok’s fate ambiguous. Picard, surmising that the Changelings are using his corpse to target Starfleet’s anniversary festivities, devises and enacts a plan to trap Vadic and her crew on the Titan with force fields, using Jack, who is developing telepathy, and Sidney as bait. Picard and Beverly interrogate Vadic in the trap. Vadic reveals she was one of ten Changelings whom Starfleet doctors torturously experimented on to develop a breed of super-spies; upon their escape, she swore revenge and formed the rogue Changeling faction, taking her torturer’s form. Beverly confirms the experiments’ existence; Picard realizes he has to kill Vadic, but Geordi fails to revive Data in time to stop Lore from taking over the Titan’s computers and disabling the force fields, allowing Vadic to escape, storm Titan’s bridge, and announce she knows Jack’s true nature."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/EQ2E_1NncPg"
+						}
 					}
 				},
 				{
