@@ -833,6 +833,12 @@
 					"episodeNumber": "3.7",
 					"name": "Dominion",
 					"datePublished": "2023-03-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Dominion",
+						"datePublished": "2023-03-31"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
 						"@type": "Person",
