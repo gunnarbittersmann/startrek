@@ -861,10 +861,26 @@
 					"episodeNumber": "3.8",
 					"name": "Surrender",
 					"datePublished": "2023-04-06",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unterwerfung",
+						"datePublished": "2023-04-07"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
 						"@type": "Person",
 						"name": "Deborah Kampmeier"
+					},
+					"description": {
+						"en": "Vadic locks all the systems aboard the Titan from the crew. She threatens to execute the crew if Jack does not surrender, which he does after she kills a lieutenant. Data’s persona breaks the partition from Lore’s persona, and, realizing he cannot overpower Lore, surrenders his memories, which consume Lore and allow Data full control of the android. The rest of the crew rush to the computer core to plug Data into Titan’s systems, which he manipulates to protect Jack and vent the bridge, killing Vadic. Worf and Raffi rescue Riker and Troi, who had spent much of their detainment discussing their marital issues and desire for adventure, bringing them aboard the Titan, and reuniting the crew of the Enterprise-D. Worf finds Picard’s original corpse (with his parietal lobe removed for research) on the Shrike, then returns to the Titan. Shaw orders Seven to blow up the Shrike. Troi encourages Jack to confront his fear and step through the red door he sees in his visions."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/52lIa7iuMow"
+						}
 					}
 				},
 				{
