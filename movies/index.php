@@ -137,7 +137,7 @@
                   ?>
                   <td>
                     <details lang="<?= htmlSpecialChars($plotLang) ?>">
-                      <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>">
+                      <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>">
                         <?php if ($plotLang == 'de'): ?>
                           Handlung
                         <?php else: ?>
