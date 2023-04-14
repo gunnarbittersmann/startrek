@@ -889,6 +889,12 @@
 					"episodeNumber": "3.9",
 					"name": "Võx",
 					"datePublished": "2023-04-13",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Võx",
+						"datePublished": "2023-04-14"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
 						"@type": "Person",
