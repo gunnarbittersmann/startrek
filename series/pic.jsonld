@@ -887,12 +887,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.9",
-					"name": "Võx",
+					"name": {
+						"@value": "Võx",
+						"@language": "la"
+					},
 					"datePublished": "2023-04-13",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Võx",
+						"name": {
+							"@value": "Võx",
+							"@language": "la"
+						},
 						"datePublished": "2023-04-14"
 					},
 					"director": {
