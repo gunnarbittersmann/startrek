@@ -235,7 +235,7 @@ details p {
 }
 
 @media (width > 40em) {
-	tr:not(:last-of-type) details p:last-child {
+	tr:not(:last-of-type) details > :last-child {
 		padding-bottom: 0.5em;
 		border-bottom: thin solid var(--rule-color);
 	}
