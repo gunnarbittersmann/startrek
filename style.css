@@ -241,7 +241,7 @@ details p {
 	}
 }
 
-@media (max-width: 40em) {
+@media (width <= 40em) {
 	thead {
 		display: none;
 	}
@@ -255,7 +255,7 @@ details p {
 		padding: 0.5em 0;
 	}
 	
-	:is(th, td) {
+	th, td {
 		padding-left: 0;
 		padding-right: 0;
 	}
