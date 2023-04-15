@@ -234,6 +234,13 @@ details p {
 	hyphens: auto;
 }
 
+@media (width > 40em) {
+	tr:not(:last-of-type) details p {
+		padding-bottom: 0.5em;
+		border-bottom: thin solid var(--rule-color);
+	}
+}
+
 @media (max-width: 40em) {
 	thead {
 		display: none;
