@@ -226,7 +226,7 @@ td[property="review"] {
 	width: 18em;
 }
 
-table p {
+details p {
 	max-width: 32em;
 	margin-left: -26em;
 	line-height: 1.4;
@@ -234,7 +234,14 @@ table p {
 	hyphens: auto;
 }
 
-@media (max-width: 40em) {
+@media (width > 40em) {
+	tr:not(:last-of-type) details > :last-child {
+		padding-bottom: 0.5em;
+		border-bottom: thin solid var(--rule-color);
+	}
+}
+
+@media (width <= 40em) {
 	thead {
 		display: none;
 	}
@@ -248,7 +255,7 @@ table p {
 		padding: 0.5em 0;
 	}
 	
-	:is(th, td) {
+	th, td {
 		padding-left: 0;
 		padding-right: 0;
 	}
@@ -261,7 +268,7 @@ table p {
 		content: '–';
 	}
 
-	table p {
+	details p {
 		max-width: initial;
 		margin-left: 0;
 	}
