@@ -241,7 +241,7 @@ details p {
 	}
 }
 
-@media (width <= 40em) {
+@media (max-width: 40em) {
 	thead {
 		display: none;
 	}
