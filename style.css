@@ -119,6 +119,7 @@ footer {
 	border-top: thin solid var(--rule-color);
 	width: 100%;
 	width: calc(100% - 2 * clamp(1em, 2vw, 2em));
+	line-height: 1.4;
 }
 
 .scrolled footer {
