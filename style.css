@@ -235,13 +235,14 @@ details p {
 }
 
 @media (width > 40em) {
-	tr:not(:last-of-type) details > :last-child {
+	tr:not(:last-of-type) :is([property="abstract"], [property="description"]):last-child,
+	tr:not(:last-of-type) :is([property="abstract"], [property="description"]) ~ :last-child {
 		padding-bottom: 0.5em;
 		border-bottom: thin solid var(--rule-color);
 	}
 }
 
-@media (width <= 40em) {
+@media (max-width: 40em) {
 	thead {
 		display: none;
 	}
