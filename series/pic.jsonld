@@ -921,6 +921,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "3.10",
+					"name": "The Last Generation",
 					"datePublished": "2023-04-20",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
