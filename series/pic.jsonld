@@ -923,6 +923,12 @@
 					"episodeNumber": "3.10",
 					"name": "The Last Generation",
 					"datePublished": "2023-04-20",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die letzte Generation",
+						"datePublished": "2023-04-21"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
 						"@type": "Person",
