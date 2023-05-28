@@ -360,12 +360,100 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "2.1",
+					"name": "The Broken Circle",
 					"datePublished": "2023-06-15",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"@type": "Person",
 						"name": "Chris Fisher"
 					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.2",
+					"name": {
+						"@value": "Ad Astra Per Aspera",
+						"@language": "la"
+					},
+					"datePublished": "2023-06-22",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
+						"@type": "Person",
+						"name": "Valerie Weiss"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.3",
+					"name": "Tomorrow and Tomorrow and Tomorrow",
+					"datePublished": "2023-06-29",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
+						"@type": "Person",
+						"name": "Amanda Row"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.4",
+					"name": "Among The Lotus Eaters",
+					"datePublished": "2023-07-06",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
+						"@type": "Person",
+						"name": "Eduardo Sánchez"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.5",
+					"name": "Charades",
+					"datePublished": "2023-07-13",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"@type": "Person",
+						"name": "Jordan Canning"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.6",
+					"name": "Lost In Translation",
+					"datePublished": "2023-07-20",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"@type": "Person",
+						"name": "Dan Liu"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.7",
+					"name": "Those Old Scientists",
+					"datePublished": "2023-07-27",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.8",
+					"name": "Under the Cloak of War",
+					"datePublished": "2023-08-03"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.9",
+					"name": "Subspace Rhapsody",
+					"datePublished": "2023-08-10"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2.10",
+					"name": "Hegemony",
+					"datePublished": "2023-08-17"
 				}
 			]
 		}
