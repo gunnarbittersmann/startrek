@@ -396,7 +396,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "2.4",
-					"name": "Among The Lotus Eaters",
+					"name": "Among the Lotus Eaters",
 					"datePublished": "2023-07-06",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
@@ -418,7 +418,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "2.6",
-					"name": "Lost In Translation",
+					"name": "Lost in Translation",
 					"datePublished": "2023-07-20",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
