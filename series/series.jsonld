@@ -26,16 +26,16 @@
 			"@type": "TVSeries",
 			"name": "Star Trek: The Next Generation",
 			"identifier": "TNG",
-			"startDate": "1987-09-26",
-			"endDate": "1994-05-26",
+			"startDate": "1987-09-28",
+			"endDate": "1994-05-23",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Star_Trek_The_Next_Generation_Logo.svg"
 		},
 		{
 			"@type": "TVSeries",
 			"name": "Star Trek: Deep Space Nine",
 			"identifier": "DS9",
-			"startDate": "1992-12-30",
-			"endDate": "1999-05-22",
+			"startDate": "1993-01-03",
+			"endDate": "1999-06-02",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Star_Trek_DS9_logo.svg"
 		},
 		{
