@@ -366,6 +366,12 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"@type": "Person",
 						"name": "Chris Fisher"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der durchbrochene Kreis",
+						"datePublished": "2023-06-15"
 					}
 				},
 				{
