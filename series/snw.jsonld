@@ -375,6 +375,13 @@
 					},
 					"abstract": {
 						"en": "While docked at Starbase One for maintenance inspections, the Enterprise receives a distress call from the ship’s former Security Chief La’an Noonien-Singh who is currently on leave of absence). With Number One under arrest and Captain Pike on personal leave, the Enterprise under temporary command of Spock is stolen for a mission to aid their former shipmate. This is in violation of orders from Admiral April to stay put, as any mission would put the Enterprise in territory under dispute between the Federation and the Klingon Empire."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/NVrkBEWoun4"
+						}
 					}
 				},
 				{
