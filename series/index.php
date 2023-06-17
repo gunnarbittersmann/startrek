@@ -23,7 +23,7 @@
     $lastEpisode = @end($lastSeason['episode']);
     $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
     $hasRecentSeason = (
-      !$lastEpisode['datePublished'] OR $lastEpisode['datePublished'] > $recentAfterDateString
+      !$lastEpisode['datePublished'] || $lastEpisode['datePublished'] > $recentAfterDateString
     );
   }
 
@@ -207,7 +207,7 @@ EOT;
                         <?php endif; ?>
                       <?php endif; ?>
                     <?php endif; ?>
-                    <?php if ($episode['description'] OR $episode['abstract']): ?>
+                    <?php if ($episode['description'] || $episode['abstract']): ?>
                       <?php
                         $plotType = ($episode['description']) ? 'description' : 'abstract';
                         $plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
@@ -259,7 +259,7 @@ EOT;
                             >
                             </iframe>
                           </details>
-                          <?php if ($season['review'] AND $season['review']['video'] AND $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
+                          <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
 	                              Ups &amp; Downs from season <?= htmlSpecialChars($season['seasonNumber']) ?>
@@ -341,7 +341,7 @@ EOT;
         <?php else: ?>
           <cite>Wikipedia</cite>
         <?php endif; ?>
-        <?php if ($hasRecentSeason AND $lastSeason['subjectOf']): ?>
+        <?php if ($hasRecentSeason && $lastSeason['subjectOf']): ?>
           – season <?= htmlSpecialChars($lastSeason['seasonNumber']) ?>:
           <?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>

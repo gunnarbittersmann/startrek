@@ -130,7 +130,7 @@
                     <?php endif; ?>
                   <?php endif; ?>
                 <?php endif; ?>
-                <?php if ($movie['description'] OR $movie['abstract']): ?>
+                <?php if ($movie['description'] || $movie['abstract']): ?>
                   <?php
                     $plotType = ($movie['description']) ? 'description' : 'abstract';
                     $plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
