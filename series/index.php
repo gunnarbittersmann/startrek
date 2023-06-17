@@ -255,7 +255,8 @@ EOT;
                             <iframe
                               allowfullscreen=""
                               aria-label="Ups &amp; Downs"
-                              aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
+                              aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+                            >
                             </iframe>
                           </details>
                         </td>
@@ -275,7 +276,8 @@ EOT;
                                   <iframe
                                     allowfullscreen=""
                                     aria-label="Ups &amp; Downs"
-                                    aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
+                                    aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+                                  >
                                   </iframe>
                                 </details>
                               </li>
