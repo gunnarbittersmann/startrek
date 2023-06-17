@@ -259,6 +259,23 @@ EOT;
                             >
                             </iframe>
                           </details>
+                          <?php if ($season['review'] AND $season['review']['video'] AND $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
+	                          <details lang="en" property="video" typeof="VideoObject">
+	                            <summary aria-description="Season">
+	                              Ups &amp; Downs
+	                            </summary>
+	                            <meta
+	                              property="embedUrl"
+	                              content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
+	                            />
+	                            <iframe
+	                              allowfullscreen=""
+	                              aria-label="Ups &amp; Downs"
+	                              aria-description="Season"
+	                            >
+	                            </iframe>
+	                          </details>
+                          <?php endif; ?>
                         </td>
                       <?php else: ?>
                         <td>
