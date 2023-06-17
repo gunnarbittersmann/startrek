@@ -227,6 +227,10 @@ td[property="review"] {
 	width: 18em;
 }
 
+details:not(:first-child) {
+	margin-top: 0.5em;
+}
+
 details p {
 	max-width: 32em;
 	margin-left: -26em;
