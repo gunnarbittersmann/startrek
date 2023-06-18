@@ -479,7 +479,10 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Flieg mich zum Mond",
+						"name": {
+							"@value": "Fly Me to the Moon",
+							"@language": "en"
+						},
 						"datePublished": "2022-04-01"
 					},
 					"director": {
@@ -507,8 +510,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Zwei von Eins",
-						"alternateName": "Die Gala",
+						"name": "Die Gala",
 						"datePublished": "2022-04-08"
 					},
 					"director": {
