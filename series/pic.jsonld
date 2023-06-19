@@ -45,6 +45,13 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube.com/embed/-CQk9xWNtbM"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -332,14 +339,7 @@
 						}
 					}
 				}
-			],
-			"review": {
-				"@type": "Review",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube.com/embed/-CQk9xWNtbM"
-				}
-			}
+			]
 		},
 		{
 			"@type": "TVSeason",
