@@ -394,6 +394,15 @@
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
 						"@type": "Person",
 						"name": "Valerie Weiss"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Ad Astra Per Aspera",
+							"@language": "la"
+						},
+						"datePublished": "2023-06-22"
 					}
 				},
 				{
