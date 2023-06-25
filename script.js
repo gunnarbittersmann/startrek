@@ -13,11 +13,14 @@ const resizeObserver = new ResizeObserver(storeHeaderHeight);
 resizeObserver.observe(headerElement);
 
 
-const intersectionObserver = new IntersectionObserver(entries => {
-	document.body.classList.toggle(
-		'scrolled', entries[0].intersectionRatio == 0
-	);
-}, { rootMargin: '36px' });
+const intersectionObserver = new IntersectionObserver(
+	entries => {
+		document.body.classList.toggle(
+			'scrolled', entries[0].intersectionRatio == 0
+		);
+	},
+	{ rootMargin: '36px' },
+);
 
 intersectionObserver.observe(document.head);
 
