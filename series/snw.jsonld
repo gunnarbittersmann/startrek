@@ -386,7 +386,7 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "2.2",
 					"name": {
-						"@value": "Ad Astra Per Aspera",
+						"@value": "Ad Astra per Aspera",
 						"@language": "la"
 					},
 					"datePublished": "2023-06-22",
@@ -399,7 +399,7 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": {
-							"@value": "Ad Astra Per Aspera",
+							"@value": "Ad astra per aspera",
 							"@language": "la"
 						},
 						"datePublished": "2023-06-22"
