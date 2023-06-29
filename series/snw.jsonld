@@ -425,6 +425,12 @@
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
 						"@type": "Person",
 						"name": "Amanda Row"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Morgen und morgen und morgen",
+						"datePublished": "2023-06-29"
 					}
 				},
 				{
