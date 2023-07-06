@@ -453,6 +453,12 @@
 						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
 						"@type": "Person",
 						"name": "Eduardo Sánchez"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unter den Lotosessern",
+						"datePublished": "2023-07-06"
 					}
 				},
 				{
