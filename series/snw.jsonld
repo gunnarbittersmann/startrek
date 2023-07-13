@@ -480,6 +480,12 @@
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
 						"@type": "Person",
 						"name": "Jordan Canning"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Scharaden",
+						"datePublished": "2023-07-13"
 					}
 				},
 				{
