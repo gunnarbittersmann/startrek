@@ -486,6 +486,13 @@
 						"inLanguage": "de",
 						"name": "Scharaden",
 						"datePublished": "2023-07-13"
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/RJhkYy52ls8"
+						}
 					}
 				},
 				{
