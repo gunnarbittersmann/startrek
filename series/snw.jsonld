@@ -507,6 +507,12 @@
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"@type": "Person",
 						"name": "Dan Liu"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wo Worte fehlen",
+						"datePublished": "2023-07-20"
 					}
 				},
 				{
