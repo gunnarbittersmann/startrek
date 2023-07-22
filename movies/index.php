@@ -215,6 +215,11 @@
         <?php endforeach; ?>
       </table>
     </main>
+    <footer>
+      <a href="../privacy">
+        <span lang="en">Privacy</span>/<span lang="de">Datenschutz</span>
+      </a>
+    </footer>
     <script>
       <?php readfile(SCRIPT); ?>
     </script>
