@@ -933,6 +933,26 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 4,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_4)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_(season_4)"
+				}
+			],
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.1",
+					"datePublished": "2023-09-07"
+				}
+			]
 		}
 	]
 }
