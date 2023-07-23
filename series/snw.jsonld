@@ -534,6 +534,15 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
 						"name": "Jonathan Frakes"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Tierisch olle Sternenreisende",
+						"datePublished": "2023-07-22"
+					},
+					"description": {
+						"en": "In the 24th century, ensign Brad Boimler of the USS Cerritos is assigned to investigate an ancient portal, which sends him back in time 120 years where he is taken aboard the Enterprise. Boimler struggles to contain his excitement at meeting his heroes, and also to prevent polluting the timeline with his knowledge of the future. The portal is taken by an Orion science ship, and Pike trades grain supplies to retrieve it, however when they attempt to return Boimler with the last remaining horonium needed to activate it, Beckett Mariner appears through the portal attempting a rescue. Spock and Boimler unsuccessfully try to synthesize horonium to make another attempt, while Mariner and Uhura work to translate the portal’s engravings. Boimler realizes horonium from the hull of the NX-01 Enterprise was incorporated into the new ship, allowing him and Mariner to return to their own time."
 					}
 				},
 				{
