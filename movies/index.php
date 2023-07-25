@@ -219,6 +219,32 @@
       <a href="../privacy">
         <span lang="en">Privacy</span>/<span lang="de">Datenschutz</span>
       </a>
+      – Data source:
+        <?php if ($data['subjectOf']): ?>
+          <?php foreach ($data['subjectOf'] as $index => $source): ?>
+            <?php if ($index): ?>
+              &amp;
+            <? endif; ?>
+            <cite property="subjectOf" typeof="Webpage">
+              <a
+                property="url"
+                href="<?= htmlSpecialChars($source['url']) ?>"
+              >
+                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+            </cite>
+          <?php endforeach; ?>
+        <?php elseif ($data['sameAs']): ?>
+          <cite property="subjectOf" typeof="Webpage">
+            <a
+              property="url"
+              href="<?= htmlSpecialChars($data['sameAs']) ?>"
+            >
+              Wikipedia
+            </a>
+          </cite>
+        <?php else: ?>
+          <cite>Wikipedia</cite>
+        <?php endif; ?>
     </footer>
     <script>
       <?php readfile(SCRIPT); ?>
