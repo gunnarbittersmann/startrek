@@ -556,7 +556,18 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "2.8",
 					"name": "Under the Cloak of War",
-					"datePublished": "2023-07-27"
+					"datePublished": "2023-07-27",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JeffByrd",
+						"@type": "Person",
+						"name": "Jeff W. Byrd"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Schlächter von J’Gal",
+						"datePublished": "2023-07-23"
+					}
 				},
 				{
 					"@type": "TVEpisode",
