@@ -583,7 +583,21 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "2.9",
 					"name": "Subspace Rhapsody",
-					"datePublished": "2023-08-03"
+					"datePublished": "2023-08-03",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#DermottDowns",
+						"@type": "Person",
+						"name": "Dermott Downs"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Subraum-Rhapsodie",
+						"datePublished": "2023-08-03"
+					},
+					"description": {
+						"en": "James Kirk visits the Enterprise while experiments are being conducted on a mysterious “subspace fold”. After Uhura broadcasts a recording of “Anything Goes” into the fold, it produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. La’an considers the songs a security risk; Pike agrees after, in song, he has an argument with Batel in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes the fellowship over her relationship with Spock. La’an voluntarily confesses her feelings for Kirk before the musical can force her to, but he tells her he is already in a releationship with Carol Marcus. Experiments reveal that attempting to destroy the subspace fold will cause a reaction that will destroy all starships in the vicinity, but a Klingon ship approaches, intent on blowing it up. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates."
+					}
 				},
 				{
 					"@type": "TVEpisode",
