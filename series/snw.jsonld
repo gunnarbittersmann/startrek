@@ -597,6 +597,13 @@
 					},
 					"description": {
 						"en": "James Kirk visits the Enterprise to shadow Number One. While conducting communications experiments, Uhura broadcasts a recording of “Anything Goes” into a mysterious “subspace fold”. It produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. Pike has an argument, in song, with Batel in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes it over her relationship with Spock. La’an voluntarily confesses her feelings for Kirk before the musical can force her to, but he tells her he is already in a relationship with Carol Marcus. An affected Klingon ship intends to blow up the fold, but experiments reveal that this will actually destroy all starships in the vicinity. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field before the Klingons arrive; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/DFsNu8ZWYlE"
+						}
 					}
 				},
 				{
