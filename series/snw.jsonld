@@ -610,7 +610,12 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "2.10",
 					"name": "Hegemony",
-					"datePublished": "2023-08-10"
+					"datePublished": "2023-08-10",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"@type": "Person",
+						"name": "Maja Vrvilo"
+					}
 				}
 			]
 		}
