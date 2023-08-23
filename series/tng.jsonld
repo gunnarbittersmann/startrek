@@ -3714,7 +3714,19 @@
 					"abstract": {
 						"de": "Picard bewegt sich vor- und rückwärts durch drei verschiedene Zeitperioden und erkennt bald in einer in allen Zeitperioden auftretenden Raumanomalie eine Erklärung dafür, weshalb er die Anomalie zu bekämpfen versucht. Währenddessen kommt er abermals in Kontakt mit Q, der ihn mit der Bewältigung dieser Aufgabe einer Prüfung zur Daseinsberechtigung der Menschheit unterzieht. Nachdem Picard erkannt hat, dass sein Verhalten in der Zukunft ursächlich für die sich rückwärts durch die Zeit bewegende und sich dabei vergrößernde Anomalie ist, erklärt Q den Test für bestanden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
+					"sameAs": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen",
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"url": "https://en.wikipedia.org/wiki/All_Good_Things..._(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"url": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
+						}
+					]
 				}
 			]
 		}
