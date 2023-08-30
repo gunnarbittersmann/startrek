@@ -17,8 +17,8 @@
   </head>
   <body>
 		<h1>Subspace Rhapsody</h1>
-		<iframe src="https://www.youtube.com/embed/NFM5Gb1b0_Y" allowfullscreen="" name="youtubePlayer"></iframe>
-		<ol>
+		<iframe src="https://www.youtube.com/embed/NFM5Gb1b0_Y?enablejsapi=1" allowfullscreen="" id="youtubePlayer" name="youtubePlayer" width="800" height="450"></iframe>
+		<ol class="tracklist">
 			<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=0">Star Trek Strange New Worlds Main Title (Subspace Rhapsody Version)</a> – Jeff Russo 0:00</li>
 			<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=111">Status Report</a> – Anson Mount, Jess Bush, Christina Chong, Rebecca Romijn, Ethan Peck, Melissa Navia, Celia Rose Gooding, Babs Olusanmokun, Paul Wesley, Carol Kane, Tom Polce, Kay Hanley 1:51</li>
 			<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=287">Connect To Your Truth</a> – Rebecca Romijn, Paul Wesley, Tom Polce, Kay Hanley 4:47</li>
@@ -31,5 +31,25 @@
 			<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=1576">We Are One</a> – Anson Mount, Jess Bush, Christina Chong, Rebecca Romijn, Ethan Peck, Melissa Navia, Celia Rose Gooding, Babs Olusanmokun, Dan Jeannotte, Paul Wesley, Carol Kane, Tom Polce, Kay Hanley 26:16</li>
 			<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=1833">Subspace Rhapsody End Credit Medley</a> – Tom Polce, Kay Hanley 30:33</li>
 		</ol>
+		<script src="https://www.youtube.com/iframe_api" async=""></script>
+		<script>
+let player;
+function onYouTubeIframeAPIReady() {
+	player = new YT.Player('youtubePlayer');
+
+	document.documentElement.addEventListener('click', event => {
+		const link = event.target.closest('.tracklist a');
+		if (link) {
+			event.preventDefault();
+			const regexp = /\?.*start=(\d+)/;
+			const result = regexp.exec(link.href);
+			if (result) {
+				const seconds = parseInt(result[1]);
+				player.seekTo(seconds);
+			}
+		}
+	});
+}
+		</script>
 	</body>
 </html>
