@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Lower Decks posters</title>
+    <title>Lower Decks and film posters</title>
     <link rel="icon" href="../starfleet.svg"/>
     <link rel="mask-icon" href="../starfleet.svg"/>
     <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
@@ -13,25 +13,50 @@
 				width: 12em;
 				height: auto;
 			}
+      
+      ol {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        gap: 1em;
+      }
+      
+      li {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+      }
+      
+      @media (orientation: portrait) {
+        ol {
+          flex-direction: column;
+        }
+        
+        li {
+          flex-direction: row;
+        }
+      }
 		</style>
 	</head>
 	<body>
-		<h1>Lower Decks posters</h1>
-		<table>
-			<tbody>
-				<tr>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Star_Trek_Lower_Decks_season_1_poster.jpeg"></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Star_Trek_Lower_Decks_season_2_poster.jpeg"></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_Trek_Lower_Decks_season_3_poster.jpeg"/></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Trek_Lower_Decks_season_4_poster.jpeg"/></td>
-				</tr>
-				<tr>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png"></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Star_Trek_II_The_Wrath_of_Khan.png"></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Star_Trek_III_The_Search_for_Spock.png"></td>
-					<td><img src="https://upload.wikimedia.org/wikipedia/en/6/68/Star_Trek_IV_The_Voyage_Home.png"></td>
-				</tr>
-			</tbody>
-		</table>
+		<h1>Lower Decks and film posters</h1>
+    <ol>
+      <li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Star_Trek_Lower_Decks_season_1_poster.jpeg" alt=""/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png" alt=""/>
+      </li>
+      <li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Star_Trek_Lower_Decks_season_2_poster.jpeg" alt=""/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Star_Trek_II_The_Wrath_of_Khan.png" alt=""/>
+      </li>
+      <li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_Trek_Lower_Decks_season_3_poster.jpeg" alt=""/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Star_Trek_III_The_Search_for_Spock.png" alt=""/>
+      </li>
+      <li>
+        <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Trek_Lower_Decks_season_4_poster.jpeg" alt=""/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Star_Trek_IV_The_Voyage_Home.png" alt=""/>
+      </li>
+    </ol>
 	</body>
 </html>
