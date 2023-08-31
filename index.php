@@ -91,6 +91,14 @@
         <li><a href="movies">Movies</a></li>
         <li><a href="timelines">Timelines</a></li>
         <li>
+          <a>Artwork</a>
+          <ol>
+            <li>
+              <a href="artwork/ld">Lower Decks and film posters</a>
+            </li>
+          </ol>
+        </li>
+        <li>
           <a>Presentations</a>
           <ol id="presentation-list">
             <?php foreach ($presentations as $presentation): ?>
