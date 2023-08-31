@@ -64,10 +64,10 @@ function onYouTubeIframeAPIReady() {
 		const link = event.target.closest('.tracklist a');
 		if (link) {
 			event.preventDefault();
-			const regexp = /\?.*start=(\d+)/;
+			const regexp = /\?.*start=([\d.]+)/;
 			const result = regexp.exec(link.href);
 			if (result) {
-				const seconds = parseInt(result[1]);
+				const seconds = parseFloat(result[1]);
 				player.seekTo(seconds);
 			}
 		}
