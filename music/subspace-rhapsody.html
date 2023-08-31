@@ -59,13 +59,11 @@
 let player;
 function onYouTubeIframeAPIReady() {
 	player = new YT.Player('youtubePlayer');
-
 	document.documentElement.addEventListener('click', event => {
 		const link = event.target.closest('.tracklist a');
 		if (link) {
 			event.preventDefault();
-			const regexp = /\?.*start=([\d.]+)/;
-			const result = regexp.exec(link.href);
+			const result = /\?.*start=([\d.]+)/.exec(link.href);
 			if (result) {
 				const seconds = parseFloat(result[1]);
 				player.seekTo(seconds);
