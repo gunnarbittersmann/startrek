@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="../style.css"/>
 		<style>
 			img {
-				width: 12em;
+				width: 100%;
 				height: auto;
 			}
       
@@ -18,10 +18,12 @@
         list-style: none;
         padding: 0;
         display: flex;
+        align-items: end;
         gap: 1em;
       }
       
       li {
+        flex: 0 1 12em;
         display: flex;
         flex-direction: column;
         gap: 1em;
@@ -34,6 +36,11 @@
         
         li {
           flex-direction: row;
+        }
+        
+        img {
+          width: auto;
+          height: 100%;
         }
       }
 		</style>
