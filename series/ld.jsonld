@@ -949,7 +949,14 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "4.1, 4.2",
+					"episodeNumber": "4.1",
+					"name": "Twovix",
+					"datePublished": "2023-09-07"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.2",
+					"name": "I Have No Bones, Yet I Must Flee",
 					"datePublished": "2023-09-07"
 				}
 			]
