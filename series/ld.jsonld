@@ -958,6 +958,36 @@
 					"episodeNumber": "4.2",
 					"name": "I Have No Bones, Yet I Must Flee",
 					"datePublished": "2023-09-07"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.3",
+					"name": "In the Cradle of Vexilon"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.4",
+					"name": "Something Borrowed, Something Green"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.5",
+					"name": "Empathalogical Fallacies"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.6",
+					"name": "Parth Ferengi’s Heart Place"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.7",
+					"name": "A Few Badgeys More"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.8",
+					"name": "Caves"
 				}
 			]
 		}
