@@ -951,13 +951,30 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "4.1",
 					"name": "Twovix",
-					"datePublished": "2023-09-07"
+					"datePublished": "2023-09-07",
+					"director": [
+						{
+							"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
+							"@type": "Person",
+							"name": "Barry J. Kelly"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#JasonZurek",
+							"@type": "Person",
+							"name": "Jason Zurek"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.2",
 					"name": "I Have No Bones, Yet I Must Flee",
-					"datePublished": "2023-09-07"
+					"datePublished": "2023-09-07",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"@type": "Person",
+						"name": "Megan Lloyd"
+					}
 				},
 				{
 					"@type": "TVEpisode",
