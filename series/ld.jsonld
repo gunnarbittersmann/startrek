@@ -963,7 +963,12 @@
 							"@type": "Person",
 							"name": "Jason Zurek"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-09-07"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -974,37 +979,98 @@
 						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"@type": "Person",
 						"name": "Megan Lloyd"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-09-07"
 					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.3",
-					"name": "In the Cradle of Vexilon"
+					"name": "In the Cradle of Vexilon",
+					"datePublished": "2023-09-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-09-14"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.4",
-					"name": "Something Borrowed, Something Green"
+					"name": "Something Borrowed, Something Green",
+					"datePublished": "2023-09-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-09-21"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.5",
-					"name": "Empathalogical Fallacies"
+					"name": "Empathalogical Fallacies",
+					"datePublished": "2023-09-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-09-28"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.6",
-					"name": "Parth Ferengi’s Heart Place"
+					"name": "Parth Ferengi’s Heart Place",
+					"datePublished": "2023-10-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-10-05"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.7",
-					"name": "A Few Badgeys More"
+					"name": "A Few Badgeys More",
+					"datePublished": "2023-10-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-10-12"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.8",
-					"name": "Caves"
+					"name": "Caves",
+					"datePublished": "2023-10-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-10-19"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.9",
+					"datePublished": "2023-10-26",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-10-26"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4.10",
+					"datePublished": "2023-11-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2023-11-02"
+					}
 				}
 			]
 		}
