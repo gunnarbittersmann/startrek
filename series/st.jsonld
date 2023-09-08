@@ -142,6 +142,12 @@
 					"name": "Q&A",
 					"inLanguage": "en",
 					"datePublished": "2019-10-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Fragenrunde",
+						"datePublished": "2023-09-06"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#MarkPellington",
 						"@type": "Person",
@@ -160,6 +166,12 @@
 					"name": "The Trouble with Edward",
 					"inLanguage": "en",
 					"datePublished": "2019-10-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Problem mit Edward",
+						"datePublished": "2023-09-06"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanielGrayLongino",
 						"@type": "Person",
@@ -178,6 +190,12 @@
 					"name": "Ask Not",
 					"inLanguage": "en",
 					"datePublished": "2019-11-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Keine Fragen",
+						"datePublished": "2023-09-06"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#SanjiSenaka",
 						"@type": "Person",
@@ -234,6 +252,7 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Kinder des Mars",
+						"alternateName": "Die Kinder des Mars",
 						"datePublished": "2021-01-14"
 					},
 					"director": {
