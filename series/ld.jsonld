@@ -952,6 +952,12 @@
 					"episodeNumber": "4.1",
 					"name": "Twovix",
 					"datePublished": "2023-09-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Twovix",
+						"datePublished": "2023-09-07"
+					},
 					"director": [
 						{
 							"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
@@ -964,12 +970,6 @@
 							"name": "Jason Zurek"
 						}
 					],
-					"workTranslation": {
-						"@type": "TVEpisode",
-						"inLanguage": "de",
-						"name": "Twovix",
-						"datePublished": "2023-09-07"
-					},
 					"description": {
 						"en": "Ensign Boimler learns that he is due to be promoted, while the Cerritos is escorting the decommissioned starship Voyager to Earth to become a museum displaying exhibits about its chaotic adventures in the Delta Quadrant. When a dormant Delta Quadrant “macrovirus” is awakened, Boimler’s distraction allows it to combine with Borg technology, contaminate the other exhibits, and take control of the ship. After encouraging words from Ensign Mariner, Boimler enlists Ensign Rutherford’s aid to disable the ship’s systems with a sample of homemade cheese that once infected Voyager. Meanwhile, back on the Cerritos, a stray Delta Quadrant flower petal causes a transporter accident that merges Dr. T’Ana and chief engineer Billups into a single person, “T’illups”. Captain Freeman learns that when this happened on Voyager, Captain Janeway killed the merged person, Tuvix, to bring back the original two individuals. Not wanting to suffer the same fate, T’illups begins “Tuvixing” other members of the Cerritos crew. Ensigns Tendi and T’Lyn end up merging all the Tuvixed individuals into a huge ball of flesh before separating them all out again. Once the chaos is over, Boimler, Tendi, T’Lyn, and Mariner all receive promotions to lieutenant (junior grade)."
 					}
@@ -979,16 +979,16 @@
 					"episodeNumber": "4.2",
 					"name": "I Have No Bones, Yet I Must Flee",
 					"datePublished": "2023-09-07",
-					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
-						"@type": "Person",
-						"name": "Megan Lloyd"
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Keine Knochen, aber man muss trotzdem fliehen",
 						"datePublished": "2023-09-07"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"@type": "Person",
+						"name": "Megan Lloyd"
 					},
 					"description": {
 						"en": "Mariner thinks she overhears Ransom saying that she will inevitably be demoted to ensign again, and resolves to act insubordinate to speed up the process. On a routine mission to rescue humans from an alien menagerie, Mariner’s behavior is irreverent and undisciplined. When a dangerous creature, Moopsie, escapes from its cage, Ransom accuses Mariner of releasing it in order to get demoted. He tells her he has faith she will succeed as a lieutenant, and will not let her sabotage her own career. The two collaborate to return Moopsie to its cage, and discover that the humans in the menagerie freed Moopsie in order to kill the curator and take over the menagerie themselves. Meanwhile, Rutherford is anxious that Tendi’s promotion will ruin their friendship. He spends the day trying to impress Billups with his engineering skill in order to earn his own promotion, only to be outdone at every turn by the new Ensign Livek. Tendi eventually assures him that they will remain friends no matter what. Learning that Rutherford has turned down promotions for heroic achievements in the past, Tendi simply asks Billups to give him the promotion he is due, which Billups immediately grants."
