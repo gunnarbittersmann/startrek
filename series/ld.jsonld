@@ -1017,6 +1017,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2023-09-14"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
+						"@type": "Person",
+						"name": "Brandon Williams"
 					}
 				},
 				{
