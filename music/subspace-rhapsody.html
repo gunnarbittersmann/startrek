@@ -9,19 +9,28 @@
     <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
     <link rel="stylesheet" href="../style.css"/>
 		<style>
+			.tracklist {
+				padding-inline-start: 3ch;
+			}
+			
 			.tracklist li {
 				display: revert;
 				margin-block: 1em;
 			}
 			
+			.tracklist a {
+				text-underline-position: revert;
+			}
+			
 			iframe {
 				height: auto;
 			}
-
-			@media (width > 30em) {
+			
+			@media (width > 32em) {
 				main {
 					display: grid;
 					grid-template-columns: min(38%, 20em) 1fr;
+					gap: 2em;
 				}
 				
 				h1 {
