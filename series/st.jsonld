@@ -41,9 +41,9 @@
 					"datePublished": "2018-10-04",
 					"workTranslation": {
 						"@type": "TVEpisode",
+						"inLanguage": "de",
 						"name": "Entlaufen",
 						"alternateName": "Ausreißer",
-						"inLanguage": "de",
 						"datePublished": "2019-01-17"
 					},
 					"director": {
@@ -88,8 +88,8 @@
 					"datePublished": "2018-12-06",
 					"workTranslation": {
 						"@type": "TVEpisode",
-						"name": "Der hellste Stern",
 						"inLanguage": "de",
+						"name": "Der hellste Stern",
 						"datePublished": "2019-01-17"
 					},
 					"director": {
@@ -142,6 +142,12 @@
 					"name": "Q&A",
 					"inLanguage": "en",
 					"datePublished": "2019-10-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Fragenrunde",
+						"datePublished": "2023-09-05"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#MarkPellington",
 						"@type": "Person",
@@ -160,6 +166,12 @@
 					"name": "The Trouble with Edward",
 					"inLanguage": "en",
 					"datePublished": "2019-10-10",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Problem mit Edward",
+						"datePublished": "2023-09-05"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#DanielGrayLongino",
 						"@type": "Person",
@@ -178,6 +190,12 @@
 					"name": "Ask Not",
 					"inLanguage": "en",
 					"datePublished": "2019-11-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Keine Fragen",
+						"datePublished": "2023-09-05"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#SanjiSenaka",
 						"@type": "Person",
@@ -234,6 +252,7 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Kinder des Mars",
+						"alternateName": "Die Kinder des Mars",
 						"datePublished": "2021-01-14"
 					},
 					"director": {

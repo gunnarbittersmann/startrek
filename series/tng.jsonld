@@ -2130,7 +2130,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.1",
-					"name": "Redemption II",
+					"name": "Redemption, Part II",
 					"datePublished": "1991-09-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2251,7 +2251,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.7",
-					"name": "Unification I",
+					"name": "Unification, Part I",
 					"datePublished": "1991-11-04",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2271,7 +2271,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.8",
-					"name": "Unification II",
+					"name": "Unification, Part II",
 					"datePublished": "1991-11-11",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3697,35 +3697,14 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "7.25",
-					"name": "All Good Things… (1)",
+					"episodeNumber": "7.25, 7.26",
+					"name": "All Good Things…",
 					"datePublished": "1994-05-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Gestern, heute, morgen – Teil 1",
-						"datePublished": "1994-07-26"
-					},
-					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
-						"@type": "Person",
-						"name": "Winrich Kolbe"
-					},
-					"abstract": {
-						"de": "Picard bewegt sich vor- und rückwärts durch drei verschiedene Zeitperioden und erkennt bald in einer in allen Zeitperioden auftretenden Raumanomalie eine Erklärung dafür, weshalb er die Anomalie zu bekämpfen versucht. Währenddessen kommt er abermals in Kontakt mit Q, der ihn mit der Bewältigung dieser Aufgabe einer Prüfung zur Daseinsberechtigung der Menschheit unterzieht. Nachdem Picard erkannt hat, dass sein Verhalten in der Zukunft ursächlich für die sich rückwärts durch die Zeit bewegende und sich dabei vergrößernde Anomalie ist, erklärt Q den Test für bestanden."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
-				},
-				{
-					"@type": "TVEpisode",
-					"episodeNumber": "7.26",
-					"name": "All Good Things… (2)",
-					"datePublished": "1994-05-23",
-					"workTranslation": {
-						"@type": "TVEpisode",
-						"inLanguage": "de",
-						"name": "Gestern, heute, morgen – Teil 2",
-						"datePublished": "1994-07-27"
+						"name": "Gestern, heute, morgen",
+						"datePublished": "1994-07-26/1994-07-26"
 					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
