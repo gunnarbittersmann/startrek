@@ -1023,6 +1023,16 @@
 						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"@type": "Person",
 						"name": "Brandon Williams"
+					},
+					"description": {
+						"en": "The Cerritos visits Coruzon, an idyllic space habitat controlled by Vexilon, an ancient computer system whose performance is deteriorating. Freeman’s attempts to repair Vexilon cause it to shut down, creating chaos in Coruzon’s ecosystem. Meanwhile, Boimler is leading his first away mission to upgrade a power plant; he struggles to trust his subordinates and insists on doing all the work himself. When Freeman needs the plant reactivated, T’Lyn persuades Boimler to trust his ensigns; they work together and restart the machinery, allowing Freeman to reset Vexilon. The plant overheats, and Boimler orders his team to leave; he is nearly killed deactivating it. Meanwhile, on the Cerritos, Mariner, Tendi, and Rutherford are tasked by Lt. Dirk to scan thousands of computer chips to find one broken one. Suspecting he is hazing them, they retaliate by planting in his quarters a game of Chula, which traps players in a simulated world. Dirk impresses on them the importance of their task, and tells them he was traumatized by Chula as a child. Convinced Dirk is not hazing them, Mariner distracts him while Rutherford removes the game from his quarters and Tendi finds the broken chip. Later, Dirks and Ransom celebrate their successful hazing."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/lPyR9Zc_rmc"
+						}
 					}
 				},
 				{
