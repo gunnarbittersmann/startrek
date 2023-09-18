@@ -102,7 +102,7 @@
           <a>Artwork</a>
           <ol>
             <li>
-              <a href="artwork/ld">Lower Decks and film posters</a>
+              <a href="artwork/ld-films">Lower Decks and film posters</a>
             </li>
           </ol>
         </li>
