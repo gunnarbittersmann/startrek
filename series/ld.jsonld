@@ -1071,6 +1071,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2023-09-28"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"@type": "Person",
+						"name": "Megan Lloyd"
 					}
 				},
 				{
