@@ -99,6 +99,14 @@
           </ol>
         </li>
         <li>
+          <a>Artwork</a>
+          <ol>
+            <li>
+              <a href="artwork/ld-films">Lower Decks and film posters</a>
+            </li>
+          </ol>
+        </li>
+        <li>
           <a>Presentations</a>
           <ol id="presentation-list">
             <?php foreach ($presentations as $presentation): ?>
