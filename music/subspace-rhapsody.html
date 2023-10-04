@@ -33,7 +33,11 @@
 			@media (width > 32em) {
 				main {
 					display: grid;
-					grid-template-columns: min(38%, 20em) 1fr;
+					grid-template:
+						"heading heading"   auto
+						"songs   tracklist" auto
+						"writers tracklist" 1fr
+					/ min(38%, 20em) 1fr;
 					column-gap: 2em;
 				}
 				
@@ -46,8 +50,13 @@
 				}
 			}
 			
-			p {
-				grid-column: 2;
+			div {
+				grid-area: tracklist;
+			}
+			
+			figure {
+				margin: 0;
+				grid-area: writers;
 			}
 		</style>
 	</head>
@@ -75,7 +84,8 @@
 		<main id="main">
 			<h1>Subspace Rhapsody</h1>
 			<iframe src="https://www.youtube.com/embed/NFM5Gb1b0_Y?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer" name="youtubePlayer" width="800" height="450"></iframe>
-			<ol class="tracklist">
+			<div>
+				<ol class="tracklist">
 				<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=0">Star Trek Strange New Worlds Main Title (Subspace Rhapsody Version)</a></li>
 				<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=111">Status Report</a> (featuring Anson Mount, Jess Bush, Christina Chong, Rebecca Romijn, Ethan Peck, Melissa Navia, Celia Rose Gooding, Babs Olusanmokun, Paul Wesley, and Carol Kane)</li>
 				<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=287">Connect To Your Truth</a> (featuring Rebecca Romijn and Paul Wesley)</li>
@@ -88,7 +98,12 @@
 				<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=1576">We Are One</a> (featuring Anson Mount, Jess Bush, Christina Chong, Rebecca Romijn, Ethan Peck, Melissa Navia, Celia Rose Gooding, Babs Olusanmokun, Dan Jeannotte, Paul Wesley, and Carol Kane)</li>
 				<li><a target="youtubePlayer" href="https://www.youtube.com/embed/NFM5Gb1b0_Y?start=1833">Subspace Rhapsody End Credit Medley</a></li>
 			</ol>
-			<p>Songs written by Tom Polce and Kay Hanley</p>
+				<p>Songs written by Tom Polce and Kay Hanley</p>
+			</div>
+			<figure>
+				<iframe src="https://www.youtube.com/embed/Jlo9gLyujwI" allowfullscreen="" width="800" height="450"></iframe>
+				<figcaption>Meet the Songwriters!</figcaption>
+			<figure>
 		</main>
 		<script src="../script.js"></script>
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
