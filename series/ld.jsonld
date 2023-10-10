@@ -1125,6 +1125,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2023-10-12"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
 					}
 				},
 				{
