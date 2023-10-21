@@ -38,6 +38,10 @@
 						"@type": "Person",
 						"name": "Aaron Hawkins"
 					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube.com/embed/2xD7QCSjkBc"
+					},
 					"abstract": {
 						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
 					}
@@ -51,6 +55,10 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
 						"name": "Aaron Hawkins"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube.com/embed/txQqpGr1qQw"
 					},
 					"abstract": {
 						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
@@ -66,6 +74,10 @@
 						"@type": "Person",
 						"name": "Aaron Hawkins"
 					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube.com/embed/Bij0nWXBKHI"
+					},
 					"abstract": {
 						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
 					}
@@ -79,6 +91,10 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
 						"name": "Aaron Hawkins"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube.com/embed/LPCGkHjsK9M"
 					},
 					"abstract": {
 						"en": "Various interconnected holodecks simulations."
@@ -96,6 +112,10 @@
 					},
 					"abstract": {
 						"en": "D’vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube.com/embed/3sHSDkxivvo"
 					},
 					"review": {
 						"@type": "Review",
