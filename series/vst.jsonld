@@ -1,0 +1,111 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: very Short Treks",
+	"identifier": "VST",
+	"inLanguage": "en",
+	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks"
+		}
+	],
+	"numberOfSeasons": 1,
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"numberOfEpisodes": 5,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "1",
+					"name": "Skin a Cat",
+					"datePublished": "2023-09-08",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
+						"@type": "Person",
+						"name": "Aaron Hawkins"
+					},
+					"abstract": {
+						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "2",
+					"name": "Holiday Party",
+					"datePublished": "2023-09-13",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
+						"@type": "Person",
+						"name": "Aaron Hawkins"
+					},
+					"abstract": {
+						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "3",
+					"name": "Worst Contact",
+					"datePublished": "2023-09-20",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
+						"@type": "Person",
+						"name": "Aaron Hawkins"
+					},
+					"abstract": {
+						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "4",
+					"name": "Holograms, All the Way Down",
+					"datePublished": "2023-09-27",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
+						"@type": "Person",
+						"name": "Aaron Hawkins"
+					},
+					"abstract": {
+						"en": "Various interconnected holodecks simulations."
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5",
+					"name": "Walk, Don’t Run",
+					"datePublished": "2023-10-04",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
+						"@type": "Person",
+						"name": "Aaron Hawkins"
+					},
+					"abstract": {
+						"en": "D’vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/HkfCEVnyRJc"
+						}
+					}
+				}
+			]
+		}
+	]
+}
