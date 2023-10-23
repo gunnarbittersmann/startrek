@@ -98,6 +98,14 @@
 			"identifier": "SNW",
 			"startDate": "2022-05-05",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Star_Trek_SNW_logo.svg"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: very Short Treks",
+			"identifier": "VST",
+			"startDate": "2023-09-08",
+			"endDate": "2023-10-04",
+			"image": "https://upload.wikimedia.org/wikipedia/en/0/05/Star_Trek_-_Very_Short_Treks_logo.png"
 		}
 	]
 }
