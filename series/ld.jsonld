@@ -1173,11 +1173,28 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.9",
+					"name": "The Inner Fight",
 					"datePublished": "2023-10-26",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Der innere Kampf",
 						"datePublished": "2023-10-26"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
+						"@type": "Person",
+						"name": "Brandon Williams"
+					},
+					"description": {
+						"en": "Learning that the mysterious vessel is now attacking former Starfleet officers, the Cerritos is assigned to locate former cadet Nick Locarno, who now works as a pilot for hire. Captain Freeman, Shaxs, and Rutherford head to New Axton to locate Locarno, and, noticing that Mariner has been recklessly endangering herself lately, Freeman assigns her, Tendi, T’lyn, and Boimler to a safe buoy repair job near Sherbal V. When they finish, the Che’Ta, now working with the mysterious vessel, appears and destroys their ship, forcing them to beam onto the planet. They encounter the captains of the other missing ships, including Ma’ah, all stranded as victims of mutiny. While the others convert the buoy’s monitoring station into a distress beacon, Mariner gets into a fight with Ma’ah. She admits that she was acting out over disillusionment that her new responsibilities may mean complicity with Starfleet’s military aspects. Ma’ah helps bolster Mariner’s belief in herself and Starfleet. She convinces the other captains to work together, but is suddenly beamed away. Ma’ah and the others use the distress beacon to lure the Che’Ta down to the surface, overtaking it. Meanwhile, Freeman locates Locarno’s residence, but discovers the mysterious vessel’s schematics therein. Mariner awakens aboard the vessel, greeted by Locarno."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/qwN8sbzqOP4"
+						}
 					}
 				},
 				{
