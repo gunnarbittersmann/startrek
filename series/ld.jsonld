@@ -1200,11 +1200,18 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "4.10",
+					"name": "Old Friends, New Planets",
 					"datePublished": "2023-11-02",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Alte Freunde, neue Planeten",
 						"datePublished": "2023-11-02"
+					},
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"@type": "Person",
+						"name": "Bob Suarez"
 					}
 				}
 			]
