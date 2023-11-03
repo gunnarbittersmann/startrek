@@ -1212,6 +1212,13 @@
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
 						"name": "Bob Suarez"
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube.com/embed/Z2Y69_VPxZY"
+						}
 					}
 				}
 			]
