@@ -26,6 +26,13 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"review": {
+				"@type": "Review",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube.com/embed/HkfCEVnyRJc"
+				}
+			},
 			"numberOfEpisodes": 5,
 			"episode": [
 				{
@@ -116,13 +123,6 @@
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube.com/embed/3sHSDkxivvo"
-					},
-					"review": {
-						"@type": "Review",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/HkfCEVnyRJc"
-						}
 					}
 				}
 			]
