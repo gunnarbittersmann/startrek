@@ -212,6 +212,12 @@
 					"name": "Ephraim and Dot",
 					"inLanguage": "en",
 					"datePublished": "2019-12-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ephraim und Dot",
+						"datePublished": "2023-10-31"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#MichaelGiacchino",
 						"@type": "Person",
@@ -230,6 +236,12 @@
 					"name": "The Girl Who Made the Stars",
 					"inLanguage": "en",
 					"datePublished": "2019-12-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Mädchen, das die Sterne machte",
+						"datePublished": "2023-10-31"
+					},
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"@type": "Person",
