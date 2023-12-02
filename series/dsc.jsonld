@@ -1497,7 +1497,12 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.4",
-					"name": "Face the Strange"
+					"name": "Face the Strange",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#LeeRose",
+						"@type": "Person",
+						"name": "Lee Rose"
+					}
 				},
 				{
 					"@type": "TVEpisode",
