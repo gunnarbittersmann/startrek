@@ -1465,6 +1465,78 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 5,
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_(season_5)",
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_(season_5)"
+				}
+			],
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.1",
+					"name": "Red Directive"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.2",
+					"name": "Under the Twin Moons"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.3",
+					"name": "Jinaal"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.4",
+					"name": "Face the Strange"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.5",
+					"name": "Mirrors"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.6",
+					"name": "Whistlespeak"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.7",
+					"name": "Erigah"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.8"
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.9",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"@type": "Person",
+						"name": "Jonathan Frakes"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"episodeNumber": "5.10",
+					"director": {
+						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
+						"@type": "Person",
+						"name": "Olatunde Osunsanmi"
+					}
+				}
+			]
 		}
 	]
 }
