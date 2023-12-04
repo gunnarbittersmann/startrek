@@ -320,7 +320,7 @@ EOT;
           <?php foreach ($data['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>
               &amp;
-            <? endif; ?>
+            <?php endif; ?>
             <cite property="subjectOf" typeof="Webpage">
               <a
                 property="url"
@@ -355,7 +355,7 @@ EOT;
 	          <?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
 	            <?php if ($index): ?>
 	              &amp;
-	            <? endif; ?>
+	            <?php endif; ?>
 	            <cite property="subjectOf" typeof="Webpage">
 	              <a
 	                property="url"
