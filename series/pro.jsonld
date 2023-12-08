@@ -624,6 +624,16 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"numberOfEpisodes": 20,
+			"subjectOf": {
+				"@type": "Webpage",
+				"inLanguage": "en",
+				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_(season_2)"
+			}
 		}
 	]
 }
