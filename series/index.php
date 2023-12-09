@@ -20,11 +20,16 @@
 
   if ($data) {
     $lastSeason = end($data['containsSeason']);
-    $lastEpisode = @end($lastSeason['episode']);
-    $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
-    $hasRecentSeason = (
-      !$lastEpisode['datePublished'] || $lastEpisode['datePublished'] > $recentAfterDateString
-    );
+    if ($lastSeason['episode']) {
+      $lastEpisode = end($lastSeason['episode']);
+      $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
+      $hasRecentSeason = (
+        !$lastEpisode['datePublished'] || $lastEpisode['datePublished'] > $recentAfterDateString
+      );
+    }
+    else {
+      $hasRecentSeason = TRUE;
+    }
   }
 
   function head($title) {
