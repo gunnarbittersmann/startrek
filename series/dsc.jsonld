@@ -1520,11 +1520,13 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"episodeNumber": "5.8"
+					"episodeNumber": "5.8",
+					"name": "Labyrinths"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.9",
+					"name": "Lagrange Point",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
@@ -1534,6 +1536,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.10",
+					"name": "Life, Itself",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"@type": "Person",
