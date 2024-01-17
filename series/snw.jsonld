@@ -639,6 +639,16 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 3,
+			"numberOfEpisodes": 10,
+			"subjectOf": {
+				"@type": "Webpage",
+				"inLanguage": "en",
+				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_3)"
+			}
 		}
 	]
 }
