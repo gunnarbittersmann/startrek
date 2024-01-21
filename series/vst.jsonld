@@ -117,12 +117,12 @@
 						"@type": "Person",
 						"name": "Aaron Hawkins"
 					},
-					"abstract": {
-						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
-					},
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3sHSDkxivvo"
+					},
+					"abstract": {
+						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
 					}
 				}
 			]
