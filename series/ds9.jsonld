@@ -3156,6 +3156,13 @@
 					},
 					"abstract": {
 						"de": "Der vulkanische Sternenflottencaptain Solok fordert Sisko und seine Crew zu einem Baseball-Wettkampf in der Holosuite heraus."
+					},
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YaPx92XpMaM"
+						}
 					}
 				},
 				{

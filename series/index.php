@@ -20,11 +20,16 @@
 
   if ($data) {
     $lastSeason = end($data['containsSeason']);
-    $lastEpisode = @end($lastSeason['episode']);
-    $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
-    $hasRecentSeason = (
-      !$lastEpisode['datePublished'] || $lastEpisode['datePublished'] > $recentAfterDateString
-    );
+    if ($lastSeason['episode']) {
+      $lastEpisode = end($lastSeason['episode']);
+      $recentAfterDateString = date_format(date_create('- 1 month'), 'c');
+      $hasRecentSeason = (
+        !$lastEpisode['datePublished'] || $lastEpisode['datePublished'] > $recentAfterDateString
+      );
+    }
+    else {
+      $hasRecentSeason = TRUE;
+    }
   }
 
   function head($title) {
@@ -320,7 +325,7 @@ EOT;
           <?php foreach ($data['subjectOf'] as $index => $source): ?>
             <?php if ($index): ?>
               &amp;
-            <? endif; ?>
+            <?php endif; ?>
             <cite property="subjectOf" typeof="Webpage">
               <a
                 property="url"
@@ -343,18 +348,28 @@ EOT;
         <?php endif; ?>
         <?php if ($hasRecentSeason && $lastSeason['subjectOf']): ?>
           – season <?= htmlSpecialChars($lastSeason['seasonNumber']) ?>:
-          <?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
-            <?php if ($index): ?>
-              &amp;
-            <? endif; ?>
+          <?php if ($lastSeason['subjectOf']['url']): ?>
             <cite property="subjectOf" typeof="Webpage">
               <a
                 property="url"
-                href="<?= htmlSpecialChars($source['url']) ?>"
+                href="<?= htmlSpecialChars($lastSeason['subjectOf']['url']) ?>"
               >
-                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+                Wikipedia (<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)</a>
             </cite>
-          <?php endforeach; ?>
+          <?php else: ?>
+	          <?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
+	            <?php if ($index): ?>
+	              &amp;
+	            <?php endif; ?>
+	            <cite property="subjectOf" typeof="Webpage">
+	              <a
+	                property="url"
+	                href="<?= htmlSpecialChars($source['url']) ?>"
+	              >
+	                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+	            </cite>
+	          <?php endforeach; ?>
+          <?php endif; ?>
         <?php endif; ?>
       </footer>
       <script>

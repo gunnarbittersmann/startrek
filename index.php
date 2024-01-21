@@ -91,6 +91,22 @@
         <li><a href="movies">Movies</a></li>
         <li><a href="timelines">Timelines</a></li>
         <li>
+          <a>Music</a>
+          <ol>
+            <li>
+              <a href="music/subspace-rhapsody">Subspace Rhapsody</a>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <a>Artwork</a>
+          <ol>
+            <li>
+              <a href="artwork/ld-films">Lower Decks and film posters</a>
+            </li>
+          </ol>
+        </li>
+        <li>
           <a>Presentations</a>
           <ol id="presentation-list">
             <?php foreach ($presentations as $presentation): ?>

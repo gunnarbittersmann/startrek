@@ -35,6 +35,11 @@
 			"subjectOf": [
 				{
 					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_(season_1)"
+				},
+				{
+					"@type": "Webpage",
 					"inLanguage": "de",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1"
 				}
@@ -63,7 +68,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/hboS_FHcfaU"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/hboS_FHcfaU"
 						}
 					}
 				},
@@ -90,7 +95,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/_2F9odd64BU"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_2F9odd64BU"
 						}
 					}
 				},
@@ -127,7 +132,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/mUSmPjnrdyk"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/mUSmPjnrdyk"
 						}
 					}
 				},
@@ -164,7 +169,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/zcXrKRAjxEo"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/zcXrKRAjxEo"
 						}
 					}
 				},
@@ -254,7 +259,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "1.9",
-					"name": "A Moral Star, Part 1",
+					"name": "A Moral Star, Part 1",
 					"datePublished": "2022-01-27",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
@@ -277,7 +282,7 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "1.10",
-					"name": "A Moral Star, Part 2",
+					"name": "A Moral Star, Part 2",
 					"datePublished": "2022-02-03",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
@@ -300,7 +305,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/7sDQVbfdC1E"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/7sDQVbfdC1E"
 						}
 					}
 				},
@@ -337,7 +342,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/38820B3gyOI"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/38820B3gyOI"
 						}
 					}
 				},
@@ -374,7 +379,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/ofZbuiMWcVw"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ofZbuiMWcVw"
 						}
 					}
 				},
@@ -404,7 +409,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/f4JNWmT5cW4"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/f4JNWmT5cW4"
 						}
 					}
 				},
@@ -439,7 +444,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/eBJ_2AFvaPk"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/eBJ_2AFvaPk"
 						}
 					}
 				},
@@ -467,7 +472,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/Ce_bTng4nLA"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Ce_bTng4nLA"
 						}
 					}
 				},
@@ -502,7 +507,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/woTxI8XYTJ0"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/woTxI8XYTJ0"
 						}
 					}
 				},
@@ -530,7 +535,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/34YE9aa4upc"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/34YE9aa4upc"
 						}
 					}
 				},
@@ -558,7 +563,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/LL0ar8Lev2E"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/LL0ar8Lev2E"
 						}
 					}
 				},
@@ -586,7 +591,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/8oNTPgVeG3E"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/8oNTPgVeG3E"
 						}
 					}
 				},
@@ -614,11 +619,21 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/Bv_aoeJ6OFs"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Bv_aoeJ6OFs"
 						}
 					}
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 2,
+			"numberOfEpisodes": 20,
+			"subjectOf": {
+				"@type": "Webpage",
+				"inLanguage": "en",
+				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_(season_2)"
+			}
 		}
 	]
 }

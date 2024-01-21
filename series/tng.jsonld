@@ -1606,7 +1606,14 @@
 					"abstract": {
 						"de": "Auf ihrem Flug zur Erde schlagen die Borg eine Flotte aus Sternenflottenraumschiffen vernichtend. Der Enterprise-Crew gelingt es aber in letzter Sekunde, die Borg von der Assimilation der Erde abzuhalten. Dabei kann sie auch Picard zurückholen."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg"
+					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg",
+					"review": {
+						"@type": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -3501,7 +3508,7 @@
 						"@type": "Review",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube.com/embed/vBLGX9q8VvU"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
 						}
 					}
 				},
