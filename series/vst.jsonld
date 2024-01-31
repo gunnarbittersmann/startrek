@@ -119,6 +119,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"name": "Ups & Downs",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"

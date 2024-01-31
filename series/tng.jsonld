@@ -1609,6 +1609,7 @@
 					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg",
 					"review": {
 						"@type": "Review",
+						"name": "Ups & Downs",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
@@ -3506,6 +3507,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"name": "Ups & Downs",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
