@@ -251,7 +251,7 @@ EOT;
                         <td property="review" typeof="Review">
                           <details lang="en" property="video" typeof="VideoObject">
                             <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-                              Ups &amp; Downs
+                              <?= htmlSpecialChars($episode['review']['name']) ?>
                             </summary>
                             <meta
                               property="embedUrl"
@@ -259,7 +259,7 @@ EOT;
                             />
                             <iframe
                               allowfullscreen=""
-                              aria-label="Ups &amp; Downs"
+                              aria-label="<?= htmlSpecialChars($episode['review']['name']) ?>"
                               aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
                             >
                             </iframe>
@@ -267,7 +267,7 @@ EOT;
                           <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
-	                              Ups &amp; Downs from season <?= htmlSpecialChars($season['seasonNumber']) ?>
+	                              <?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
 	                            <meta
 	                              property="embedUrl"
@@ -275,7 +275,7 @@ EOT;
 	                            />
 	                            <iframe
 	                              allowfullscreen=""
-	                              aria-label="Ups &amp; Downs from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+	                              aria-label="<?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 	                            >
 	                            </iframe>
 	                          </details>
