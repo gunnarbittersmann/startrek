@@ -562,14 +562,24 @@
 						"en": "In the 24th century, ensign Brad Boimler of the USS Cerritos is assigned to investigate an ancient portal. The portal, which is powered by the rare substance horonium, sends him back in time 120 years where he is taken aboard the Enterprise. Boimler struggles to contain his excitement at meeting his heroes and also to prevent polluting the timeline with his knowledge of the future. The portal is stolen by an Orion ship and Pike trades grain supplies to retrieve it. They attempt to return Boimler to the future with the last remaining horonium, but ensign Beckett Mariner comes through the portal instead in a rescue attempt. Spock and Boimler unsuccessfully try to synthesize horonium so they can use the portal again while Mariner and Uhura work to translate engravings on the portal. Boimler realizes that horonium from the hull of the previous starship Enterprise was incorporated into Pike’s Enterprise. They use this to send Boimler and Mariner back to their own time, while the Orions agree to accept credit for discovering the portal in exchange for allowing the Enterprise to continue peacefully.",
 						"de": "Im 24. Jahrhundert nimmt Ensign Brad Boimler von der USS Cerritos an einem Außeneinsatz teil, der ein uraltes Portal untersucht. Das Portal, das mit der seltenen Substanz Horonium betrieben wird, aktiviert sich plötzlich und schickt ihn 120 Jahre in die Vergangenheit, wo er an Bord der Enterprise gebracht wird. Boimler fällt es schwer, angesichts seiner Helden, die er vorher nur aus Geschichtsbüchern kannte, seine Aufregung im Zaum zu halten und die Zeitlinie nicht durch Informationen aus der Zukunft zu verändern. Das Portal wird von einem orionischen Schiff gestohlen, und Pike kann es im Austausch mit Getreidevorräten zurückbekommen. Mit der letzten verbliebenen Portion Horonium versuchen sie, Boimler in seine Zeit zurückzuschicken, aber stattdessen kommt nun auch Ensign Beckett Mariner durch das Portal, in dem Versuch, Boimler zu retten. Spock und Boimler versuchen, Horonium synthetisch herzustellen, aber ohne Erfolg. Boimler fällt ein, dass Horonium von der vorhergehenden Enterprise in Pikes Enterprise eingebaut worden war. Damit können Boimler und Mariner schließlich in ihre Zeit zurückgeschickt werden, nachdem den Orionern zugestanden wurde, dass sie die Entdeckung des Portals für sich beanspruchen dürfen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/i21ST5f-hY4"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/i21ST5f-hY4"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3uthmGDi4V0"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
