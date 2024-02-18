@@ -630,14 +630,24 @@
 						"en": "James Kirk, recently promoted to executive officer of the Farragut, visits the Enterprise to shadow Number One. While conducting communications experiments, Uhura broadcasts a recording of “Anything Goes” into a mysterious “subspace fold”. It produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. Pike has an argument with Batel, in song, in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes it over her relationship with Spock. La’an confesses her feelings for Kirk before the musical can force her to, but he is already in a relationship with Carol Marcus. An affected Klingon ship intends to blow up the fold, but experiments reveal that this will destroy all starships in the vicinity. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field before the Klingons arrive; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates.",
 						"de": "James Kirk, der auf der Farragut kürzlich befördert wurde, besucht die Enterprise zum Erfahrungsaustausch. Während Kommunikationsexperimenten sendet Uhura den Song Anything Goes aus dem gleichnamigen Musical in eine mysteriöse Subraum-Falte. Dadurch entsteht ein „Unwahrscheinlichkeitsfeld“, das die Besatzungsmitglieder der Enterprise dazu bringt, über ihre Gefühle zu singen wie Figuren in einem Musical. Pike hat vor der Brückencrew einen privaten Streit in Gesangsform mit Batel. Chapel gelingt es, ein prestigeträchtiges Forschungsstipendium zu erhalten, und enthüllt gesanglich, dass ihr dies wichtiger ist als ihre Beziehung mit Spock, was wiederum Spock dazu bringt, ein schmerzvolles Solo zum Besten zu geben. La’an gesteht Kirk freiwillig ihre Gefühle für ihn, bevor das Musical sie dazu zwingen würde, aber er erklärt ihr, dass er bereits in einer Beziehung mit Carol Marcus ist. Ein ebenfalls betroffenes Klingonenschiff macht sich auf, um die Subraum-Falte in die Luft zu jagen, aber Simulationen zeigen, dass dadurch sämtliche Raumschiffe in der Umgebung zerstört würden. Uhura findet heraus, dass jeder Song ein bestimmtes Energieniveau trägt, und dass ein großes Finale soviel Energie aufbauen würde, dass sich das Unwahrscheinlichkeitsfeld auflöst, bevor die Klingonen eintreffen. Sie ermutigt daher die ganze Besatzung der Enterprise, in ein großes Finale einzustimmen, indem sie daran erinnert, wie großartig es ist, gemeinsam zu arbeiten und mit der Enterprise den Weltraum zu erforschen. Das Vorhaben gelingt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/DFsNu8ZWYlE"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/DFsNu8ZWYlE"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SJ7ggOuVD94"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
