@@ -1009,14 +1009,24 @@
 						"en": "Ensign Boimler learns that he is due to be promoted, while the Cerritos escorts the decommissioned starship Voyager to Earth to become a museum displaying exhibits about its adventures in the Delta Quadrant. When a dormant Delta Quadrant “macrovirus” is awakened, Boimler’s distraction allows it to combine with Borg technology, contaminate the other exhibits, and take control of the ship. After encouraging words from Ensign Mariner, Boimler enlists Ensign Rutherford’s aid to disable the ship’s systems with a sample of homemade cheese that once infected Voyager. Meanwhile, on the Cerritos, a stray Delta Quadrant flower petal causes a transporter accident that merges Dr. T’Ana and chief engineer Billups into one person, “T’illups”. Captain Freeman learns that when this happened on Voyager, Captain Janeway killed the merged person, Tuvix, to restore the original two individuals. Not wanting to suffer the same fate, T’illups begins “Tuvixing” other members of the Cerritos crew. Ensigns Tendi and T’Lyn end up merging all the Tuvixed individuals into a huge ball of flesh before separating them out again. Once the chaos is over, Boimler, Tendi, T’Lyn, and Mariner all receive promotions to lieutenant (junior grade). Meanwhile, the Klingon ship Che’Ta is attacked by an unknown vessel.",
 						"de": "Die USS Cerritos begleitet die ausgemusterte USS Voyager zur Erde, wo sie in ein Museum umgewandelt wird. Ein ruhender „Makrovirus“ im Delta-Quadranten erwacht und übernimmt die Kontrolle über das Schiff. Fähnrich Brad Boimler ist besorgt, einen Fehler zu machen und seine bevorstehende Beförderung nicht zu erhalten, doch nach ermutigenden Worten von Fähnrich Beckett Mariner bittet er Fähnrich Sam Rutherford um Hilfe, um den Makrovirus zu stoppen. Auf den Cerritos verursacht ein verirrtes Blütenblatt aus dem Delta-Quadranten einen Transporterunfall, bei dem Dr. T’Ana und Chefingenieur Andy Billups zu einer Person namens „T’illups“ verschmelzen. Kapitän Carol Freeman erfährt, dass Kapitän Kathryn Janeway, als dies auf der Voyager geschah, die fusionierte Person Tuvix tötete, um die ursprünglichen Individuen wiederherzustellen. Um nicht das gleiche Schicksal zu erleiden, beginnt T’illups, andere Besatzungsmitglieder zu „tuvixieren“. Die Fähnriche D’Vana Tendi und T’Lyn verschmelzen alle Tuvixed-Individuen zu einem riesigen Fleischball, bevor sie sie trennen. Nach dem Chaos werden Boimler, Tendi, T’Lyn und Mariner alle zum Lieutnant (Unterstufe) befördert. Unterdessen wird das klingonische Schiff Che’Ta von einem unbekannten Schiff angegriffen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/FAjTmCeFziU"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/FAjTmCeFziU"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/CjJ3nMRZ8Kc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1096,14 +1106,24 @@
 						"en": "After an Orion supply ship is assaulted by the same unknown vessel from previous episodes, Starfleet pressures the reluctant Lt. Tendi into attending her sister D’Erika’s wedding to demonstrate interstellar goodwill. Mariner and T’Lyn accompany her to Orion, where the Tendi family is one of the most rich, powerful, and feared on the planet. The bride has been kidnapped, and it is Tendi’s customary responsibility to rescue her. They track D’Erika to an abandoned spaceship yard, where Tendi confesses that she was trained to be an elite assassin before running away to join Starfleet. D’Erika, who staged her own kidnapping, ambushes Tendi in revenge for abandoning her. The sisters reconcile and the wedding occurs as planned. On the Cerritos, Boimler and Rutherford have become annoyingly close as roommates, but argue over watering their bonsai tree. Their conflict continues on the holodeck when they both appear as Mark Twain, but they resolve their disagreement by acting in character. They recommend the same holodeck activity when Capt. Freeman and an aggressive Chalnoth captain fail to negotiate, but it devolves into a brawl. The Chalnoth expresses curiosity about the bonsai; when he is brought to see it, he immediately eats the tree. Suddenly content, he is now willing to reach an agreement with Freeman.",
 						"de": "Nachdem ein Orion-Versorgungsschiff von demselben unbekannten Schiff aus früheren Episoden angegriffen wird, drängt die Sternenflotte den widerstrebenden Lt. Tendi dazu, an der Hochzeit ihrer Schwester D’Erika teilzunehmen, um interstellaren guten Willen zu demonstrieren. Mariner und T’Lyn begleiten sie zum Orion, wo die Tendi-Familie zu den reichsten, mächtigsten und gefürchtetsten der Welt zählt. Die Braut wurde entführt und es liegt in der üblichen Verantwortung von Tendi, sie zu retten. Sie verfolgen D’Erika zu einer verlassenen Raumschiffwerft, wo Tendi gesteht, dass sie zur Elite-Attentäterin ausgebildet wurde, bevor sie weglief, um sich der Sternenflotte anzuschließen. D’Erika, die ihre eigene Entführung inszeniert hat, überfällt Tendi aus Rache dafür, dass sie sie im Stich gelassen hat. Die Schwestern versöhnen sich und die Hochzeit findet wie geplant statt. Auf den Cerritos sind sich Boimler und Rutherford als Zimmergenossen ärgerlich nahe gekommen, streiten sich aber über die Bewässerung ihres Bonsai-Baums. Ihr Konflikt setzt sich auf dem Holodeck fort, als beide als Mark Twain auftreten, aber sie lösen ihre Meinungsverschiedenheit, indem sie in ihrer Rolle handeln. Sie empfehlen die gleiche Holodeck-Aktivität, als Captain Freeman und ein aggressiver Chalnoth-Kapitän nicht verhandeln können, es jedoch zu einer Schlägerei kommt. Der Chalnoth drückt die Neugier auf die Bonsai aus; Als man ihn dorthin bringt, frisst er den Baum sofort. Plötzlich zufrieden, ist er nun bereit, eine Einigung mit Freeman zu erzielen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/-IKjCiZB50k"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-IKjCiZB50k"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/u-EXUuwVcbg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1125,14 +1145,24 @@
 						"en": "The Cerritos escorts three boisterous Betazoid diplomats. T’Lyn finds their behavior, and her time on the ship, distasteful, and drafts a message requesting to be allowed to return to her former ship. The Cerritos crew begin behaving in an unhinged manner, and Freeman suspects the Betazoids have Zanthi fever, a telepathic disease that affects others’ emotions. The Betazoids, objecting to Freeman’s treatment of them, reveal themselves as undercover intelligence officers and seize control of the ship. T’Lyn realizes that her conflicting emotions over her transfer are being telepathically projected to the ship, which further convinces her that she is a failure as a Vulcan. Mariner helps restore her self-confidence, which helps T’Lyn quell her emotions and return the crew to normal; she does not send her message. Meanwhile, an overtaxed Boimler goes to train with the Security team, but finds their activities to be silly recreational games. He later witnesses the Security crew easily handle the Betazoid threat; Shaxs tells Boimler they were trying to help him relax, since being a protector also means protecting the crew’s mental state. Before leaving, the Betazoid agents share an image of the mysterious vessel that has been attacking other ships.",
 						"de": "Der Cerritos begleitet drei ausgelassene Betazoid-Diplomaten. T’Lyn findet ihr Verhalten und ihre Zeit auf dem Schiff geschmacklos und verfasst eine Nachricht, in der sie darum bittet, zu ihrem früheren Schiff zurückkehren zu dürfen. Die Cerritos-Crew beginnt, sich unbeholfen zu benehmen, und Freeman vermutet, dass die Betazoiden an Zanthi-Fieber leiden, einer telepathischen Krankheit, die die Gefühle anderer beeinflusst. Die Betazoiden protestieren gegen Freemans Behandlung, enthüllen sich als verdeckte Geheimdienstoffiziere und übernehmen die Kontrolle über das Schiff. T’Lyn erkennt, dass ihre widersprüchlichen Gefühle über ihren Transfer telepathisch auf das Schiff projiziert werden, was sie noch mehr davon überzeugt, dass sie als Vulkanierin eine Versagerin ist. Mariner hilft dabei, ihr Selbstvertrauen wiederherzustellen, was T’Lyn hilft, ihre Gefühle zu unterdrücken und die Crew wieder in den Normalzustand zu versetzen. Sie sendet ihre Nachricht nicht. Unterdessen geht ein überforderter Boimler mit dem Sicherheitsteam trainieren, findet aber, dass es sich bei deren Aktivitäten um alberne Freizeitspiele handelt. Später wird er Zeuge, wie die Sicherheitsmannschaft mit der Betazoid-Bedrohung problemlos umgeht; Shaxs erzählt Boimler, dass sie ihm helfen wollten, sich zu entspannen, da ein Beschützer auch bedeutet, den Geisteszustand der Crew zu schützen. Vor ihrer Abreise teilen die Betazoid-Agenten ein Bild des mysteriösen Schiffes, das andere Schiffe angegriffen hat."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/NtG4UF6Dbys"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NtG4UF6Dbys"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GH37KXD2kVE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1241,14 +1271,24 @@
 						"en": "The mysterious vessel is now attacking former Starfleet officers, and the Cerritos is assigned to locate and protect former cadet Nick Locarno, who now works as a pilot-for-hire. Captain Freeman, Shaxs, and Rutherford head to New Axton to locate Locarno. On observing Mariner’s recent self-endangerment, Freeman assigns Mariner, Tendi, T’Lyn, and Boimler to a safe buoy repair job near Sherbal V. After they finish, the Che’Ta, now working with the mysterious vessel, appears and destroys their shuttle, requiring them to beam onto the planet. They encounter senior officers of various missing ships, including Ma’ah, all stranded as victims of mutiny. While the others convert the buoy’s monitoring station into a distress beacon, Mariner gets into a fight with Ma’ah, but glass rain forces the two to shelter in a cave. She reveals that she went through the Dominion War just three years after losing a friend, Sito, to a Starfleet spy mission, and was acting out over disillusionment that her new responsibilities may mean complicity with Starfleet’s military aspects. Ma’ah helps bolster Mariner’s belief in herself and Starfleet. She convinces the stranded captains to work together, but is suddenly beamed away. Ma’ah and the others manage to lure the Che’Ta down to the surface, overtaking it. Meanwhile, Freeman locates Locarno’s residence, but discovers the mysterious vessel’s schematics therein. Mariner finds herself aboard the vessel, greeted by Locarno.",
 						"de": "Das mysteriöse Schiff greift nun ehemalige Offiziere der Sternenflotte an und die Cerritos wird beauftragt, den ehemaligen Kadetten Nick Locarno zu lokalisieren und zu beschützen, der jetzt als Pilot arbeitet. Captain Freeman, Shaxs und Rutherford machen sich auf den Weg nach New Axton, um Locarno ausfindig zu machen. Als Freeman Mariners jüngste Selbstgefährdung beobachtet, beauftragt er Mariner, Tendi, T’Lyn und Boimler mit einer sicheren Bojenreparaturarbeit in der Nähe von Sherbal V. Nachdem sie fertig sind, erscheint die Che’Ta, die jetzt mit dem mysteriösen Schiff zusammenarbeitet, und zerstört sie Shuttle und erfordert, dass sie auf den Planeten beamen. Sie treffen auf hochrangige Offiziere verschiedener vermisster Schiffe, darunter Ma’ah, die alle als Opfer einer Meuterei gestrandet sind. Während die anderen die Überwachungsstation der Boje in ein Notsignal umwandeln, gerät Mariner in einen Streit mit Ma’ah, doch gläserner Regen zwingt die beiden, in einer Höhle Schutz zu suchen. Sie verrät, dass sie den Dominion-Krieg nur drei Jahre, nachdem sie einen Freund, Sito, durch eine Spionagemission der Sternenflotte verloren hatte, durchgemacht hatte und aus Desillusionierung darüber handelte, dass ihre neuen Verantwortlichkeiten eine Komplizenschaft mit den militärischen Aspekten der Sternenflotte bedeuten könnten. Ma’ah trägt dazu bei, Mariners Glauben an sich selbst und die Sternenflotte zu stärken. Sie überredet die gestrandeten Kapitäne zur Zusammenarbeit, wird aber plötzlich weggebeamt. Ma’ah und die anderen schaffen es, den Che’Ta an die Oberfläche zu locken und ihn zu überholen. Unterdessen macht Freeman Locarnos Wohnsitz ausfindig, entdeckt darin jedoch die Baupläne des mysteriösen Schiffs. Mariner findet sich an Bord des Schiffes wieder und wird von Locarno begrüßt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/qwN8sbzqOP4"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qwN8sbzqOP4"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VueQK2NQQAM"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
