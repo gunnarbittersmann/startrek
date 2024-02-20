@@ -66,14 +66,24 @@
 						"en": "In the 23rd century, Starfleet Admiral Robert April recalls Captain Christopher Pike of the starship USS Enterprise from shore leave after Pike’s first officer, Una Chin-Riley (referred to as “Number One”), goes missing during a first contact mission. Pike is reluctant to return to space and confides in Vulcan science officer Spock—who has just become engaged to T’Pring—that he saw a vision of his own paralysis during their mission with the USS Discovery. They travel to the planet Kiley 279, which is in a similar state to 21st century Earth and on the brink of civil war. They have reverse-engineered a weapon from starship warp drives after witnessing the Discovery mission in nearby space. Pike and his crew rescue Number One from captivity and break Starfleet’s General Order 1 by interfering in the society to convince them not to use the weapon. They avoid repercussions because of the top secret nature of the Discovery mission but Starfleet doubles-down on the rule by renaming it the Prime Directive. Pike recommits to his role and captains the Enterprise on a new five-year mission of exploration.",
 						"de": "Im 23. Jahrhundert holt Sternenflottenadmiral Robert April Captain Christopher Pike vom Raumschiff USS Enterprise vom Landgang zurück, nachdem Pikes erster Offizier, Una Chin-Riley (genannt „Nummer Eins“), während einer Erstkontaktmission verschwunden ist. Pike zögert, in den Weltraum zurückzukehren, und vertraut dem vulkanischen Wissenschaftsoffizier Spock – der sich gerade mit T’Pring verlobt hat – an, dass er während seiner Mission mit der USS Discovery eine Vision gesehen hat, in der er sich selbst als gelähmten Menschenen gesehen hat. Die Crew reist zum Planeten Kiley 279, der sich in einem ähnlichen Zustand wie die Erde des 21. Jahrhunderts befindet und am Rande eines Bürgerkriegs steht. Die Kriegsparteien haben außerdem eine Waffe auf Basis eines Warp-Antriebs gebaut, nachdem sie die Mission der USS Discovery im nahen Weltraum beobachtet hatten. Pike und seine Crew befreien Nummer Eins aus der Gefangenschaft und verstoßen kurz danach gegen den Allgemeinen Befehl 1 der Sternenflotte, indem sie sich in die Gesellschaft einmischen, um sie davon zu überzeugen, die Waffe nicht einzusetzen. Aufgrund der streng geheimen Natur der Discovery-Mission entgehen sie den Konsequenzen, aber die Sternenflotte verschärft die Regel, indem sie sie in die Oberste Direktive umbenennt. Pike bekennt sich daraufhin zu seiner Rolle als Captain und führt die Enterprise auf eine neue fünfjährige Erkundungsmission."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/oE-SfVJAzQQ"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oE-SfVJAzQQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/CEJUS21Fses"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -95,14 +105,24 @@
 						"en": "Cadet Nyota Uhura is invited to a meal with other crewmembers in Pike’s quarters, where she reveals that she is unsure about her future in Starfleet because she only joined as a way to escape from the pain of her parents’ deaths. The Enterprise crew attempt to alter the course of a comet that is set to kill all of the inhabitants of a desolate planet but it has a force field that prevents this. Uhura joins a team that transports to the comet’s surface and discovers that it responds to music. A starship of “shepherds” who are escorting the comet position themselves between it and the Enterprise; they believe it is a being called M’hanit who is an ancient arbiter of life. Enterprise distracts them to allow Spock to alter the comet’s course and, as it passes by the planet, it releases water vapor into the atmosphere that will improve the conditions for life. Uhura decodes music from the comet which indicates that it had expected this interference and Pike ponders the origins of the comet and whether this was more than coincidence. He also considers the lives of the cadets that he is destined to save by sacrificing himself.",
 						"de": "Die Kadettin Nyota Uhura wird zu einem Essen mit anderen Besatzungsmitgliedern in Pikes Quartier eingeladen, wo sie offenbart, dass sie sich über ihre Zukunft in der Sternenflotte unsicher ist, in welche sie nur deshalb eingetreten ist, um dem Schmerz über den Tod ihrer Eltern zu entkommen. Die Besatzung der Enterprise versucht bald darauf, den Kurs eines Kometen zu ändern, der alle Bewohner eines wüstenähnlichen Planeten in einer Simulation seiner Flugbahn töten werden wird. Als die Enterprise auf den Kometen feuert, entdecken sie, dass er ein Kraftfeld besitzt, das jegliche Versuche verhindert, auf ihn einzuwirken. Uhura schließt sich einem Team an, das sich auf die Oberfläche des Kometen begibt und entdeckt, dass dieser auf Musik reagiert. Ein Raumschiff mit den sogenannten „Hirten“, die den Kometen eskortieren, positioniert sich zwischen ihm und der Enterprise und offenbaren, dass sie glauben, dass es sich um ein Wesen namens M’hanit handelt, ein uralter Wegbereiter für das Leben. Die Enterprise lenkt sie ab, damit Spock in einem Shuttle den Kurs des Kometen ändern kann, und als der Komet an dem Planeten vorbeifliegt, gibt er Wasserdampf in die Atmosphäre des Planeten ab, der die dortigen Lebensbedingungen radikal verbessert. Uhura entschlüsselt derweil die Musik des Kometen, die darauf hindeutet, dass der Komet diese Einmischung vorhergesehen hat, und Pike fragt sich, woher der Komet kommt und ob dies mehr als nur ein Zufall war. Er denkt auch über das Leben der Kadetten nach, das er durch seine eigene Aufopferung zu retten bestimmt ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/oIp6abeHk-U"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oIp6abeHk-U"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/mCc64tMe6h8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -124,14 +144,24 @@
 						"en": "The Enterprise investigates the disappearance of a colony of Illyrians, who are banned by the Federation due to their genetic engineering. As an ion storm approaches, members of the away team beam back to the ship after unknowingly contracting a virus that causes them to be addicted to light. Number One reveals that she is an Illyrian to explain why she is immune and a cure is synthesized from her blood. Trapped in the storm, Pike and Spock determine that the colonists were attempting to reverse their genetic modifications so they could join the Federation when they may have created the virus and transformed into plasma-like beings. The pair are protected from the storm by those beings and return to the Enterprise once everyone is cured. Number One attempts to resign but Pike refuses. She wonders whether he would have shown more prejudice if she had not helped save the crew. Number One learns that the virus got through the ship’s automatic filter because chief medical officer Dr. Joseph M’Benga is using an outdated transporter to hold his daughter, Rukiya, in stasis until he can cure her rare disease.",
 						"de": "Die Enterprise untersucht das Verschwinden einer Kolonie von Illyrern, die aufgrund ihrer Gentechnik von der Föderation geächtet sind. Als sich ein Ionensturm nähert, beamen sich die Mitglieder des Außenteams zum Schiff zurück, nachdem sie sich unwissentlich mit einem Virus infiziert haben, der sie süchtig nach Licht macht. Im Sturm gefangen, stellen Pike und Spock fest, dass die Kolonisten versuchten, ihre genetischen Veränderungen rückgängig zu machen, um der Föderation beitreten zu können, als sie möglicherweise das Virus erzeugten und sich in plasmaähnliche Wesen verwandelten. Die beiden werden von diesen Wesen vor dem Sturm geschützt und kehren auf die Enterprise zurück, während alle Besatzungsmitglieder geheilt sind. Nummer Eins hatte verraten, dass sie Illyrianerin ist, um zu erklären, warum sie als Einzige gesund wurde. Zufällig wird durch einen Körperkontakt auch La’an Noonien-Singh geheilt, aus deren Blut dann ein Heilmittel synthetisiert wird. Nummer Eins versucht ihren Dienst zu quittieren, aber Pike weigert sich. Sie fragt sich, ob er mehr Vorurteile gezeigt hätte, wenn sie nicht geholfen hätte, die Besatzung zu retten. Nummer Eins erfährt, dass das Virus durch den automatischen Filter des Schiffes gelangt ist, weil der leitende medizinische Offizier Dr. Joseph M’Benga einen veralteten Transporter benutzt, um seine Tochter Rukiya in Stase zu halten, bis er ihre seltene und tödliche Krankheit heilen kann."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/o7OsfYRMxaU"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/o7OsfYRMxaU"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1mePG9elHO4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -159,14 +189,24 @@
 						"en": "The Enterprise attempts to deliver a nuclear-powered air filter to a Federation colony but finds many of the colonists dead. Security chief La’an Noonien-Singh helps evacuate the survivors and recognizes the situation as a Gorn trap; she was the only survivor of a Gorn attack in her childhood. A Gorn ship attacks and does significant damage to Enterprise. M’Benga and nurse Christine Chapel resort to 21st-century medicine to treat the wounded when their equipment goes offline. The crew lure the Gorn ship into the atmosphere of a brown dwarf near a black hole, where both ships’ sensors and shields are useless. Spock figures out a way to track the Gorn ship and they destroy it but three more Gorn ships arrive. One is crushed by the pressure of the brown dwarf’s atmosphere. Spock mind melds with Noonien-Singh to learn about the Gorn’s communication system and they use this to trick one ship to fire on the other. Enterprise then warps around the black hole, temporarily disappearing and ejects the destabilizing air filter which explodes and convinces the remaining Gorn ship that Enterprise is destroyed.",
 						"de": "Die Enterprise versucht, einen nuklearbetriebenen Luftfilter zu einer Föderationskolonie zu bringen, findet dort aber viele der Kolonisten tot oder im Sterben vor. Die Sicherheitschefin La’an Noonien-Singh hilft bei der Evakuierung der Überlebenden und erkennt, dass es sich um eine Falle der Gorn handelt. Sie war die einzige Überlebende eines Gorn-Angriffs in ihrer Kindheit. Ein Gorn-Schiff greift an und fügt der Enterprise erheblichen Schaden zu. M’Benga und Krankenschwester Christine Chapel greifen auf die Medizin des 21. Jahrhunderts zurück, um die Verwundeten zu behandeln, als ihre Ausrüstung ausfällt. Die Besatzung lockt das Gorn-Schiff in die Atmosphäre eines braunen Zwergs in der Nähe eines schwarzen Lochs, wo die Sensoren und Schilde beider Schiffe nutzlos sind. Spock findet einen Weg, das Gorn-Schiff zu verfolgen, und sie zerstören es, aber drei weitere Gorn-Schiffe treffen ein. Eines wird durch den Druck der Atmosphäre des Braunen Zwergs zerquetscht. Spock führt eine Gedankenverschmelzung mit Noonien-Singh durch, um etwas über das Kommunikationssystem der Gorn zu erfahren, und sie nutzen dies, um ein Schiff dazu zu bringen, auf das andere zu feuern. Die Enterprise umkreist das Schwarze Loch, verschwindet vorübergehend und stößt den destabilisierenden Luftfilter aus, der explodiert und das verbleibende Gorn-Schiff davon überzeugt, dass die Enterprise zerstört ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/44rA4rISm3g"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/44rA4rISm3g"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RYtTfr6wYyM"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -353,14 +393,24 @@
 						"en": "While the Enterprise and the USS Cayuga provide supplies to an outpost on the Romulan Neutral Zone, Pike meets one of the future cadets for whom he will sacrifice himself, and decides to send warnings to them to prevent the accident from happening. He is visited by an older version of himself from a future where the accident does not happen, who shows Pike the consequences of this decision: seven years in the future, the Enterprise sees a Romulan Bird of Prey starship destroy the outpost. They track it with support from the USS Farragut commanded by Captain James T. Kirk, who suggests an aggressive approach but Pike insists on negotiating. The Romulan commander agrees to a ceasefire but his sub-commander summons an armada of Romulan warships that damage the Enterprise, severely injuring Spock and declare war on the Federation. In his own time, Pike accepts that his fate is necessary to save Spock and prevent war. His peace is interrupted by Captain Batel of the Cayuga, who boards the Enterprise and arrests Number One for being a genetically altered Illyrian.",
 						"de": "Während die Enterprise und die USS Cayuga einen Außenposten in der romulanischen Neutralen Zone mit Nachschub versorgen, trifft Pike einen der zukünftigen Kadetten, für den er sich opfern wird, und beschließt, ihnen Warnungen zu schicken, um den Unfall zu verhindern. Er wird von einer älteren Version seiner selbst aus einer Zukunft besucht, in der sich der Unfall nicht ereignet hat, die Pike die Folgen dieser Entscheidung vor Augen führt: Sieben Jahre in der Zukunft sieht die Enterprise, wie ein romulanischer Warbird den Außenposten zerstört. Sie verfolgen es mit Unterstützung der USS Farragut und Captain James T. Kirk, der ein aggressives Vorgehen vorschlägt, doch Pike besteht auf Verhandlungen. Der romulanische Kommandant stimmt einem Waffenstillstand zu, aber sein Unterkommandant ruft eine Armada romulanischer Kriegsschiffe herbei, die die Enterprise beschädigen, Spock schwer verletzen und der Föderation den Krieg erklären. Im Gespräch mit seinem zukünftigen Ich akzeptiert Pike, dass sein Schicksal notwendig ist, um Spock zu retten und den Krieg zu verhindern. Sein Frieden wird von Captain Batel von der Cayuga gestört, welche an Bord der Enterprise kommt und Nummer Eins verhaftet, weil sie eine genetisch veränderte Illyrianerin ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/FfuEhQpRtos"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/FfuEhQpRtos"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sbJOBjFBKNc"
+							}
 						}
-					}
+					]
 				}
 			]
 		},

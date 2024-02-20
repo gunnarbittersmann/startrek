@@ -354,6 +354,14 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"name": "Review",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/WZR6Ia3Azh4"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -1310,14 +1318,24 @@
 						"en": "Locarno broadcasts from the Detrion system that he has gathered the mutinous crews of the stolen ships to form a new “Nova Fleet”, with plans to use a Genesis Device to threaten Starfleet and others into recognizing their legitimacy. He kidnapped Mariner, believing she would join them given her own issues with Starfleet. She instead warns viewers that Locarno is untrustworthy, steals the device, and hijacks a ship, but is trapped within the impenetrable trynar shields Locarno has set surrounding the system. Captain Freeman defies Starfleet orders to wait to rescue Mariner. With Tendi’s help, she acquires a battleship capable of punching through the shields from D’Erika, who agrees on condition that Tendi return to her family afterward. The battleship is inoperable, but Boimler, serving as acting captain, uses the Cerritos’s tractor beams to crash the battleship into the shields, blowing them apart long enough for Freeman, in the captain’s yacht, to enter. Cornered by Locarno, Mariner sets the Genesis Device to activate and pleads with him not to let his anger over his expulsion dictate his life. Before he can shoot her, Freeman beams her away. Locarno attempts to deactivate the device, but fails when he encounters a Ferengi paywall. The device activates and creates a new M-class planet from Locarno and the surrounding matter. Starfleet dubs it “Locarno”. Freeman avoids a court martial because her actions have opened historic Orion diplomatic negotiations. Reunited with her friends, Mariner admits to them that she has been dealing with difficult issues, causing her to act out. T’Lyn is invited to return to the Sh’vhal, but declines, while Tendi is forced to return to her family, saddening her friends, particularly Rutherford. However, they are sure they will see her again. As Tendi returns home, she confidently prepares for what lies ahead.",
 						"de": "Locarno sendet aus dem Detrion-System, dass er die meuternden Besatzungen der gestohlenen Schiffe versammelt hat, um eine neue „Nova-Flotte“ zu bilden, mit Plänen, mit einem Genesis-Gerät die Sternenflotte und andere zu bedrohen, damit sie ihre Legitimität anerkennen. Er entführte Mariner, weil er glaubte, sie würde sich ihnen anschließen, da sie selbst Probleme mit der Sternenflotte hatte. Stattdessen warnt sie die Zuschauer, dass Locarno nicht vertrauenswürdig ist, stiehlt das Gerät und kapert ein Schiff, ist aber in den undurchdringlichen Trynar-Schilden gefangen, die Locarno das System umgeben hat. Captain Freeman widersetzt sich dem Befehl der Sternenflotte, auf die Rettung von Mariner zu warten. Mit Tendis Hilfe erwirbt sie von D’Erika ein Schlachtschiff, das in der Lage ist, die Schilde zu durchbrechen. Diese stimmt unter der Bedingung zu, dass Tendi danach zu ihrer Familie zurückkehrt. Das Schlachtschiff ist funktionsunfähig, aber Boimler, der als amtierender Kapitän fungiert, nutzt die Traktorstrahlen der Cerritos, um das Schlachtschiff gegen die Schilde zu stoßen und sie so lange auseinanderzublasen, dass Freeman in der Yacht des Kapitäns eintreten kann. Von Locarno in die Enge getrieben, aktiviert Mariner das Genesis-Gerät und fleht ihn an, nicht zuzulassen, dass seine Wut über seinen Rauswurf sein Leben bestimmt. Bevor er sie erschießen kann, beamt Freeman sie weg. Locarno versucht, das Gerät zu deaktivieren, scheitert jedoch, als er auf eine Ferengi-Paywall stößt. Das Gerät aktiviert und erschafft aus Locarno und der umgebenden Materie einen neuen Planeten der M-Klasse. Die Sternenflotte nennt es „Locarno“. Freeman entgeht einem Kriegsgerichtsverfahren, weil ihre Taten historische diplomatische Verhandlungen der Orion eröffnet haben. Als Mariner wieder mit ihren Freunden zusammen ist, gesteht sie ihnen, dass sie mit schwierigen Problemen zu kämpfen hat, die sie zum Handeln veranlasst haben. T’Lyn wird eingeladen, zum Sh’vhal zurückzukehren, lehnt jedoch ab, während Tendi gezwungen ist, zu ihrer Familie zurückzukehren, was ihre Freunde, insbesondere Rutherford, traurig macht. Sie sind jedoch sicher, dass sie sie wiedersehen werden. Als Tendi nach Hause zurückkehrt, bereitet sie sich zuversichtlich auf das vor, was vor ihr liegt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Z2Y69_VPxZY"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Z2Y69_VPxZY"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/v6jlSVrPv2Q"
+							}
 						}
-					}
+					]
 				}
 			]
 		}
