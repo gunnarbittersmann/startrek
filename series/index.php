@@ -267,7 +267,7 @@ EOT;
                           <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
-	                              <?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>
+	                              <?= htmlSpecialChars($season['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
 	                            <meta
 	                              property="embedUrl"
@@ -275,7 +275,7 @@ EOT;
 	                            />
 	                            <iframe
 	                              allowfullscreen=""
-	                              aria-label="<?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+	                              aria-label="<?= htmlSpecialChars($season['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 	                            >
 	                            </iframe>
 	                          </details>
