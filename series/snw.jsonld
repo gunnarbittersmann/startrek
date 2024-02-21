@@ -228,14 +228,24 @@
 						"en": "The crew go on shore leave while the Enterprise undergoes repairs at Starbase 1. Number One and Noonien-Singh apprehend two ensigns conducting an unauthorized spacewalk as part of a game played by lower-ranked crew members called “Enterprise Bingo”. Learning they have reputations as “fun-killers”, the pair try the game. The half-human Spock has grown concerned that T’Pring thinks he is becoming too human. He plans to spend his shore leave with her but April interrupts to ask Pike and Spock for help negotiating with the R’ongovians who are considering allying with the Federation, Klingons or Romulans. After discussing his relationship with Chapel, Spock undertakes a special mind meld ceremony with T’Pring so they can understand each other better. This accidentally causes them to switch katras, effectively swapping bodies. Spock attempts to carry out T’Pring’s work convincing lapsed Vulcans to return to logic while T’Pring helps Pike succeed with the negotiations. M’Benga and Chapel later switch Spock and T’Pring’s katras back to their proper bodies.",
 						"de": "Die Besatzung geht auf Landurlaub, während die Enterprise auf Sternenbasis 1 instand gesetzt wird. Nummer Eins und Noonien-Singh nehmen zwei Fähnriche fest, die einen nicht genehmigten Weltraumspaziergang im Rahmen eines Spiels der rangniedrigeren Besatzungsmitglieder namens „Enterprise-Bingo“ durchführen. Die beiden erfahren, dass sie als „Spaßbremsen“ verschrien sind, und probieren das Spiel aus. Der Halbmensch Spock ist besorgt darüber, dass T’Pring meint, er werde zu menschlich. Er will seinen Landurlaub mit ihr verbringen, aber April unterbricht ihn, um Pike und Spock um Hilfe bei den Verhandlungen mit den R’ongovianern zu bitten, die sich mit der Föderation, den Klingonen oder den Romulanern verbünden wollen. Nachdem er seine Beziehung mit Chapel besprochen hat, führt Spock eine spezielle Gedankenverschmelzungszeremonie mit T’Pring durch, damit sie sich besser verstehen können. Dabei tauschen sie versehentlich die Katras und damit die Körper. Spock versucht, T’Prings Arbeit fortzusetzen, indem er abgefallene Vulkanier davon überzeugt, zur Logik zurückzukehren, während T’Pring Pike hilft, die Verhandlungen erfolgreich zu führen. M’Benga und Chapel tauschen später die Katras von Spock und T’Pring in ihre richtigen Körper zurück."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ty-axOUdgaA"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ty-axOUdgaA"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/jN3noIj6Et8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -257,14 +267,24 @@
 						"en": "While en route to the planet Majalis, the Enterprise receives a distress call from a shuttlecraft under attack from a warship. Enterprise destroys the warship and the shuttlecraft personnel are beamed aboard: a boy called the “First Servant”; his father and physician Gamal and Alora, a leader on Majalis who is an old flame of Pike’s. Pike agrees to return them to Majalis. Gamal attempts to fake his son’s death to keep him from returning to the planet but is thwarted and the boy goes to Majalis with Pike and Alora for his “ascension ceremony”. Pike is allowed to witness the ceremony, where the corpse of the previous First Servant is removed from a machine and the new First Servant is connected in his place. Pike is horrified by this but unable to stop it and Alora explains that Majalis can only remain a paradise-like society if a child is sacrificed to the machine. Majalis’s rebellious colony objects to this practice and Gamal had joined them to save his son. Gamal helps M’Benga work on a treatment for Rukiya’s condition and then leaves Enterprise to join the colony, hoping to save future First Servants.",
 						"de": "Auf dem Weg zum Planeten Majalis empfängt die Enterprise einen Notruf von einem Shuttle, das von einem Kriegsschiff angegriffen wird. Die Enterprise zerstört das Kriegsschiff und das Shuttle-Personal wird an Bord gebeamt: ein Junge, der „Erster Diener“ genannt wird, sein Vater und Arzt Gamal und Alora, eine Anführerin auf Majalis, die eine alte Flamme von Pike ist. Pike willigt ein, sie nach Majalis zurückzubringen. Gamal versucht, den Tod seines Sohnes vorzutäuschen, um ihn daran zu hindern, auf den Planeten zurückzukehren. Dieser wird aber vereitelt, und der Junge begibt sich mit Pike und Alora zu seiner „Aufstiegszeremonie“ nach Majalis. Pike darf der Zeremonie beiwohnen, bei der der Leichnam des früheren „Ersten Dieners“ aus einer Maschine entfernt und der neue „Erste Diener“ an seiner Stelle angeschlossen wird. Pike ist darüber entsetzt, kann es aber nicht verhindern, und Alora erklärt, dass Majalis nur dann eine paradiesische Gesellschaft bleiben kann, wenn ein Kind der Maschine geopfert wird. Die rebellische Kolonie von Majalis ist gegen diese Praxis, und Gamal hatte sich ihnen angeschlossen, um seinen Sohn zu retten. Gamal hilft M’Benga bei der Arbeit an einer Behandlung für Rukiyas Zustand und verlässt dann die Enterprise, um sich der Kolonie anzuschließen, in der Hoffnung, zukünftige „Erste Diener“ zu retten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/50x6Uiakkfw"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/50x6Uiakkfw"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/2BQhtUBv3f0"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -364,14 +384,24 @@
 						"en": "The Enterprise is en route to Deep Space K-7 when it receives another priority assignment to investigate the missing USS Peregrine. While Enterprise continues to K-7, Pike leads an away team to an ice planet where they find the grounded Peregrine. Hemmer and Uhura restore the ship’s systems while Pike learns that it was carrying three refugees. One was infected with Gorn eggs which hatched and the hatchlings burst from his body and attacked the crew. Pike’s team finds the other two refugees to be the only survivors. One of them, Buckley, is also infected with Gorn eggs and the hatchlings burst out. They attack the team but they also fight each other until only the strongest hatchling is left. The team form a plan to kill the hatchling using cold temperatures from the ship’s environment controls but not before Hemmer is infected. He encourages Uhura to remain in Starfleet before throwing himself from the ship so he will die in the cold along with the Gorn inside him. After the crew mourn Hemmer, Noonien-Singh takes a leave of absence to help the last refugee find her family.",
 						"de": "Die Enterprise ist auf dem Weg nach Deep Space K-7, als sie einen weiteren vorrangigen Auftrag erhält: die Suche nach der vermissten USS Peregrine. Während die Enterprise nach K-7 weiterfliegt, führt Pike ein Außenteam zu einem Eisplaneten, wo sie die auf Grund gelaufene Peregrine finden. Hemmer und Uhura stellen die Systeme des Schiffes wieder her, während Pike erfährt, dass es drei Flüchtlinge an Bord hatte. Einer von ihnen war mit Gorn-Eiern infiziert, die aus seinem Körper schlüpften und die Besatzung angriffen. Pikes Team findet die beiden anderen Flüchtlinge als die einzigen Überlebenden. Einer von ihnen, Buckley, ist ebenfalls mit Gorn-Eiern infiziert, aus denen die Gorn schlüpften. Sie greifen das Team an, aber sie bekämpfen sich auch gegenseitig, bis nur noch der stärkste Schlüpfling übrig ist. Das Team schmiedet einen Plan, um den Schlüpfling mit den kalten Temperaturen der Umweltkontrollen des Schiffes zu töten, aber vorher wird auch Hemmer von einem Gorn angegriffen und infiziert. Er ermutigt Uhura, in der Sternenflotte zu bleiben, bevor er sich vom Schiff stürzt, damit er zusammen mit dem Gorn in ihm in der Kälte stirbt. Nachdem die Besatzung um Hemmer trauert, nimmt Noonien-Singh Urlaub, um dem letzten Flüchtling zu helfen, seine Familie zu finden."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Dv3Lp_4Y3hs"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Dv3Lp_4Y3hs"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/S4GwarPEH1M"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

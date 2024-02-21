@@ -1085,14 +1085,24 @@
 						"en": "The Cerritos visits Corazonia, an idyllic space habitat controlled by Vexilon, an ancient computer system whose performance is deteriorating. Freeman’s attempts to repair Vexilon cause it to shut down, creating chaos in Corazonia’s ecosystem. Meanwhile, Boimler is leading his first away mission to upgrade a power plant; he struggles to trust his subordinates and insists on doing all the work himself. When Freeman needs the plant reactivated, T’Lyn persuades Boimler to trust his ensigns; they work together and restart the machinery, allowing Freeman to reset Vexilon. The plant overheats, and Boimler orders his team to leave; he is killed deactivating it, but later revived by Dr.T’Ana. Meanwhile, on the Cerritos, Mariner, Tendi, and Rutherford are tasked by Lt. Dirk to scan thousands of computer chips to find one broken one. Suspecting he is hazing them, they retaliate by planting in his quarters a game of Chula, which traps players in a simulated world. Dirk impresses on them the importance of their task, and tells them he was traumatized by Chula as a child. Convinced Dirk is not hazing them, Mariner distracts him while Rutherford removes the game from his quarters (after being forced to play through it) and Tendi finds the broken chip. Later, Dirk and Ransom celebrate their successful hazing.",
 						"de": "Die Cerritos besuchen Corazonia, einen idyllischen Weltraumhabitat, der von Vexilon kontrolliert wird, einem alten Computersystem, dessen Leistung nachlässt. Freemans Versuche, Vexilon zu reparieren, führen dazu, dass es abgeschaltet wird, was zu Chaos im Ökosystem von Corazonia führt. Unterdessen leitet Boimler seine erste Außenmission zur Modernisierung eines Kraftwerks; Es fällt ihm schwer, seinen Untergebenen zu vertrauen, und er besteht darauf, die ganze Arbeit selbst zu erledigen. Als Freeman die Anlage reaktivieren muss, überredet T’Lyn Boimler, seinen Fähnrichen zu vertrauen; Sie arbeiten zusammen und starten die Maschinerie neu, sodass Freeman Vexilon zurücksetzen kann. Das Werk überhitzt und Boimler befiehlt seinem Team, das Werk zu verlassen. Er wird getötet, indem er es deaktiviert, aber später von Dr. T’Ana wiederbelebt. Währenddessen werden Mariner, Tendi und Rutherford auf der Cerritos von Lt. Dirk beauftragt, Tausende von Computerchips zu scannen, um einen kaputten zu finden. Da sie vermuten, dass er sie schikaniert, rächen sie sich, indem sie in seinem Quartier eine Partie Chula platzieren, die die Spieler in einer simulierten Welt gefangen hält. Dirk macht ihnen klar, wie wichtig ihre Aufgabe ist und erzählt ihnen, dass er als Kind von Chula traumatisiert wurde. Überzeugt davon, dass Dirk sie nicht schikaniert, lenkt Mariner ihn ab, während Rutherford das Spiel aus seinem Quartier entfernt (nachdem er gezwungen wurde, es durchzuspielen) und Tendi den kaputten Chip findet. Später feiern Dirk und Ransom ihre erfolgreiche Schikanierung."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/lPyR9Zc_rmc"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/lPyR9Zc_rmc"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kIiiGMzCqkc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1192,14 +1202,24 @@
 						"en": "A Ferengi ship is attacked by the mysterious vessel, as planned by one of its unfortunate crew, who is also caught in the blast. Meanwhile, Captain Freeman is tasked with aiding a Starfleet admiral with formalizing the agreement to approve the Ferengi joining the Federation, but is ignored when she senses that Grand Nagus Rom and First Clerk Leeta are conning them. As the admiral falls deeper into the altered terms of their agreement, Freeman cons them back with an impossible deal, which garners their respect. Rom and Leeta agree to the original terms of the Federation, earning the admiral’s thanks. Meanwhile, Ransom assigns the group travel guide duty, allowing them to enjoy the pleasures of Ferenginar, but Mariner is irritated by his unflagging support. Meeting up with her friend Quimp, she gets drunk and causes senseless fights until Quimp calls her out on her tantrum, telling her that she should accept being in a good place for once in her career. Boimler plans an ambitious sightseeing agenda, but becomes entranced by Ferengi television. Tendi and Rutherford are asked to pose as a married couple as part of their assignment, but find the romantic experience awkwardly too close to home.",
 						"de": "Ein Ferengi-Schiff wird von dem mysteriösen Schiff angegriffen, wie von einem seiner unglücklichen Besatzungsmitglieder geplant, das ebenfalls von der Explosion erfasst wird. In der Zwischenzeit wird Captain Freeman damit beauftragt, einem Admiral der Sternenflotte dabei zu helfen, die Vereinbarung zur Genehmigung des Beitritts der Ferengi zur Föderation zu formalisieren. Sie wird jedoch ignoriert, als sie spürt, dass Grand Nagus Rom und der Erste Angestellte Leeta sie betrügen. Während sich der Admiral immer mehr mit den geänderten Bedingungen ihrer Vereinbarung auseinandersetzt, lockt Freeman sie mit einem unmöglichen Deal zurück, der ihnen Respekt einbringt. Rom und Leeta stimmen den ursprünglichen Bedingungen der Föderation zu und ernten dafür den Dank des Admirals. Unterdessen beauftragt Ransom die Reiseleitung für die Gruppe, damit sie die Freuden von Ferenginar genießen können, doch Mariner ist über seine unermüdliche Unterstützung verärgert. Als sie sich mit ihrem Freund Quimp trifft, betrinkt sie sich und streitet sich sinnlos, bis Quimp sie wegen ihres Wutanfalls anprangert und ihr sagt, dass sie es einmal in ihrer Karriere akzeptieren soll, an einem guten Ort zu sein. Boimler plant ein ehrgeiziges Besichtigungsprogramm, lässt sich jedoch vom Ferengi-Fernsehen verzaubern. Tendi und Rutherford werden im Rahmen ihres Auftrags gebeten, sich als verheiratetes Paar auszugeben, doch die romantische Erfahrung kommt ihnen zu nahe."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/5hyzf49laBw"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/5hyzf49laBw"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/I8AKHgJCtBE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
