@@ -62,6 +62,14 @@
 					},
 					"abstract": {
 						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/f385MNWYCOE"
+						}
 					}
 				},
 				{
@@ -80,6 +88,14 @@
 					},
 					"abstract": {
 						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Review",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6I5I1WAvmuw"
+						}
 					}
 				},
 				{
@@ -117,14 +133,24 @@
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3sHSDkxivvo"
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Review",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/S7_6gonqiIA"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
+							}
 						}
-					}
+					]
 				}
 			]
 		}
