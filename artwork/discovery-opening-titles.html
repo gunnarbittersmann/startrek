@@ -43,7 +43,29 @@
       <iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
       <iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer3" name="youtubePlayer" width="800" height="450"></iframe>
       <iframe src="https://www.youtube-nocookie.com/embed/SDyM2eCt1y4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer4" name="youtubePlayer" width="800" height="450"></iframe>
+      <button>start all</button>
     </main>
     <script src="../script.js"></script>
+		<script src="https://www.youtube.com/iframe_api" async=""></script>
+		<script>
+function onYouTubeIframeAPIReady() {
+	const player1 = new YT.Player('youtubePlayer1');
+	const player2 = new YT.Player('youtubePlayer2');
+	const player3 = new YT.Player('youtubePlayer3');
+	const player4 = new YT.Player('youtubePlayer4');
+	
+	document.querySelector('button').addEventListener('click', event => {
+		player2.mute();
+		player2.seekTo(0.75);
+		player3.mute();
+		player4.mute();
+		
+		player1.playVideo();
+		player2.playVideo();
+		player3.playVideo();
+		player4.playVideo();
+	});
+}
+		</script>
 	</body>
 </html>
