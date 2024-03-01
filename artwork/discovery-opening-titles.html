@@ -56,9 +56,13 @@ function onYouTubeIframeAPIReady() {
 	
 	document.querySelector('button').addEventListener('click', event => {
 		player2.mute();
-		player2.seekTo(0.75);
 		player3.mute();
 		player4.mute();
+
+		player1.seekTo(0);
+		player2.seekTo(0.75);
+		player3.seekTo(0);
+		player4.seekTo(0);
 		
 		player1.playVideo();
 		player2.playVideo();
