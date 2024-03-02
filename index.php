@@ -40,8 +40,7 @@
         min-width: 6em;
       }
  
-      #series-list,
-      #presentation-list {
+      main > ul > li > :is(ul, ol) {
         display: flex;
         flex-wrap: wrap;
         gap: 1em 2em;
@@ -92,19 +91,22 @@
         <li><a href="timelines">Timelines</a></li>
         <li>
           <a>Music</a>
-          <ol>
+          <ul>
             <li>
               <a href="music/subspace-rhapsody">Subspace Rhapsody</a>
             </li>
-          </ol>
+          </ul>
         </li>
         <li>
           <a>Artwork</a>
-          <ol>
+          <ul>
+            <li>
+              <a href="artwork/discovery-opening-titles">Discovery opening titles</a>
+            </li>
             <li>
               <a href="artwork/ld-films">Lower Decks and film posters</a>
             </li>
-          </ol>
+          </ul>
         </li>
         <li>
           <a>Presentations</a>
