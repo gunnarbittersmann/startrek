@@ -764,6 +764,14 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"name": "Steve Shives",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+				}
+			},
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
