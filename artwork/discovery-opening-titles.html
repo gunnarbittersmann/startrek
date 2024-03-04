@@ -13,7 +13,9 @@
         display: inline-block;
       }
       figure {
-        max-width: 150vh;
+        aspect-ratio: 16/9;
+        max-width: 100%;
+        height: calc(100vh - var(--header-height));
         margin: 1em 0;
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -71,6 +73,7 @@ function onYouTubeIframeAPIReady() {
 	const player4 = new YT.Player('youtubePlayer4');
 	
 	document.querySelector('button').addEventListener('click', event => {
+		document.querySelector('figure').scrollIntoView();
 		player2.mute();
 		player3.mute();
 		player4.mute();
