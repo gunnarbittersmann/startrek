@@ -9,9 +9,21 @@
     <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
     <link rel="stylesheet" href="../style.css"/>
 		<style>
+      h1 {
+        display: inline-block;
+      }
+      figure {
+        max-width: 150vh;
+        margin: 1em 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 0.5em;
+      }
       iframe {
+        margin: 0;
         aspect-ratio: 16/9;
-        width: 40vw;
+        width: 100%;
         height: auto;
       }
 		</style>
@@ -38,12 +50,16 @@
       </nav>
     </header>
     <main id="main">
-      <h1><i>Discovery</i> opening titles</h1>
-      <iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
-      <iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
-      <iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer3" name="youtubePlayer" width="800" height="450"></iframe>
-      <iframe src="https://www.youtube-nocookie.com/embed/SDyM2eCt1y4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer4" name="youtubePlayer" width="800" height="450"></iframe>
-      <button>start all</button>
+      <div>
+        <h1><i>Discovery</i> opening titles</h1>
+        <button>start all</button>
+      </div>
+      <figure>
+        <iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
+        <iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
+        <iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer3" name="youtubePlayer" width="800" height="450"></iframe>
+        <iframe src="https://www.youtube-nocookie.com/embed/SDyM2eCt1y4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer4" name="youtubePlayer" width="800" height="450"></iframe>
+      </figure>
     </main>
     <script src="../script.js"></script>
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
