@@ -111,17 +111,19 @@ function onYouTubeIframeAPIReady() {
 	});
 
 	document.querySelector('#rewind').addEventListener('click', event => {
-		player1.seekTo(player1.getCurrentTime() - 5);
-		player2.seekTo(player2.getCurrentTime() - 5);
-		player3.seekTo(player3.getCurrentTime() - 5);
-		player4.seekTo(player4.getCurrentTime() - 5);
+		const destinationTime = player1.getCurrentTime() - 5;
+		player1.seekTo(destinationTime);
+		player2.seekTo(destinationTime + 0.75);
+		player3.seekTo(destinationTime);
+		player4.seekTo(destinationTime);
 	});
 
 	document.querySelector('#forward').addEventListener('click', event => {
-		player1.seekTo(player1.getCurrentTime() + 5);
-		player2.seekTo(player2.getCurrentTime() + 5);
-		player3.seekTo(player3.getCurrentTime() + 5);
-		player4.seekTo(player4.getCurrentTime() + 5);
+		const destinationTime = player1.getCurrentTime() + 5;
+		player1.seekTo(destinationTime);
+		player2.seekTo(destinationTime + 0.75);
+		player3.seekTo(destinationTime);
+		player4.seekTo(destinationTime);
 	});
 }
 		</script>
