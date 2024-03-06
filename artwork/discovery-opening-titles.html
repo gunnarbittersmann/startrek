@@ -62,7 +62,9 @@
     <main id="main">
       <div>
         <h1><i>Discovery</i> opening titles</h1>
-        <button>start/pause</button>
+        <button id="rewind">rewind</button>
+        <button id="start-pause">start/pause</button>
+        <button id="forward">forward</button>
       </div>
       <figure>
         <iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
@@ -80,7 +82,7 @@ function onYouTubeIframeAPIReady() {
 	const player3 = new YT.Player('youtubePlayer3');
 	const player4 = new YT.Player('youtubePlayer4');
 	
-	document.querySelector('button').addEventListener('click', event => {
+	document.querySelector('#start-pause').addEventListener('click', event => {
 		switch (player1.getPlayerState()) {
 			default:
 				document.querySelector('figure').scrollIntoView();
@@ -106,6 +108,20 @@ function onYouTubeIframeAPIReady() {
 				player3.pauseVideo();
 				player4.pauseVideo();
 		}
+	});
+
+	document.querySelector('#rewind').addEventListener('click', event => {
+		player1.seekTo(player1.getCurrentTime() - 5);
+		player2.seekTo(player2.getCurrentTime() - 5);
+		player3.seekTo(player3.getCurrentTime() - 5);
+		player4.seekTo(player4.getCurrentTime() - 5);
+	});
+
+	document.querySelector('#forward').addEventListener('click', event => {
+		player1.seekTo(player1.getCurrentTime() + 5);
+		player2.seekTo(player2.getCurrentTime() + 5);
+		player3.seekTo(player3.getCurrentTime() + 5);
+		player4.seekTo(player4.getCurrentTime() + 5);
 	});
 }
 		</script>
