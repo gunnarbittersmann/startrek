@@ -62,7 +62,7 @@
     <main id="main">
       <div>
         <h1><i>Discovery</i> opening titles</h1>
-        <button>start all</button>
+        <button>start/pause</button>
       </div>
       <figure>
         <iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
@@ -81,20 +81,31 @@ function onYouTubeIframeAPIReady() {
 	const player4 = new YT.Player('youtubePlayer4');
 	
 	document.querySelector('button').addEventListener('click', event => {
-		document.querySelector('figure').scrollIntoView();
-		player2.mute();
-		player3.mute();
-		player4.mute();
+		switch (player1.getPlayerState()) {
+			default:
+				document.querySelector('figure').scrollIntoView();
+				player2.mute();
+				player3.mute();
+				player4.mute();
 
-		player1.seekTo(0);
-		player2.seekTo(0.75);
-		player3.seekTo(0);
-		player4.seekTo(0);
-		
-		player1.playVideo();
-		player2.playVideo();
-		player3.playVideo();
-		player4.playVideo();
+				player1.seekTo(0);
+				player2.seekTo(0.75);
+				player3.seekTo(0);
+				player4.seekTo(0);
+				// fall thru
+			case 2: // paused
+				player1.playVideo();
+				player2.playVideo();
+				player3.playVideo();
+				player4.playVideo();
+				break;
+
+			case 1: // playing
+				player1.pauseVideo();
+				player2.pauseVideo();
+				player3.pauseVideo();
+				player4.pauseVideo();
+		}
 	});
 }
 		</script>
