@@ -77,53 +77,55 @@
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
 		<script>
 function onYouTubeIframeAPIReady() {
-	const player1 = new YT.Player('youtubePlayer1');
-	const player2 = new YT.Player('youtubePlayer2');
-	const player3 = new YT.Player('youtubePlayer3');
-	const player4 = new YT.Player('youtubePlayer4');
+  const videos = [
+    { player: new YT.Player('youtubePlayer1') },
+    { player: new YT.Player('youtubePlayer2') },
+    { player: new YT.Player('youtubePlayer3') },
+    { player: new YT.Player('youtubePlayer4') },
+  ];
 	
 	document.querySelector('#start-pause').addEventListener('click', event => {
-		switch (player1.getPlayerState()) {
+		switch (videos[0].player.getPlayerState()) {
 			default:
 				document.querySelector('figure').scrollIntoView();
-				player2.mute();
-				player3.mute();
-				player4.mute();
+				videos[1].player.mute();
+				videos[2].player.mute();
+				videos[3].player.mute();
 
-				player1.seekTo(0);
-				player2.seekTo(0.75);
-				player3.seekTo(0);
-				player4.seekTo(0);
+				videos[0].player.seekTo(0);
+				videos[1].player.seekTo(0.75);
+				videos[2].player.seekTo(0);
+				videos[3].player.seekTo(0);
 				// fall thru
 			case 2: // paused
-				player1.playVideo();
-				player2.playVideo();
-				player3.playVideo();
-				player4.playVideo();
+				videos[0].player.playVideo();
+				videos[1].player.playVideo();
+				videos[2].player.playVideo();
+				videos[3].player.playVideo();
 				break;
 
 			case 1: // playing
-				player1.pauseVideo();
-				player2.pauseVideo();
-				player3.pauseVideo();
-				player4.pauseVideo();
+				videos[0].player.pauseVideo();
+				videos[1].player.pauseVideo();
+				videos[2].player.pauseVideo();
+				videos[3].player.pauseVideo();
 		}
 	});
 
 	document.querySelector('#rewind').addEventListener('click', event => {
-		const destinationTime = player1.getCurrentTime() - 5;
-		player1.seekTo(destinationTime);
-		player2.seekTo(destinationTime + 0.75);
-		player3.seekTo(destinationTime);
-		player4.seekTo(destinationTime);
+		const destinationTime = videos[0].player.getCurrentTime() - 5;
+		videos[0].player.seekTo(destinationTime);
+		videos[1].player.seekTo(destinationTime + 0.75);
+		videos[2].player.seekTo(destinationTime);
+		videos[3].player.seekTo(destinationTime);
 	});
 
 	document.querySelector('#forward').addEventListener('click', event => {
-		const destinationTime = player1.getCurrentTime() + 5;
-		player1.seekTo(destinationTime);
-		player2.seekTo(destinationTime + 0.75);
-		player3.seekTo(destinationTime);
-		player4.seekTo(destinationTime);
+		const destinationTime = videos[0].player.getCurrentTime() + 5;
+		videos[0].player.seekTo(destinationTime);
+		videos[1].player.seekTo(destinationTime + 0.75);
+		videos[2].player.seekTo(destinationTime);
+		videos[3].player.seekTo(destinationTime);
 	});
 }
 		</script>
