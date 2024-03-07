@@ -84,27 +84,45 @@ function onYouTubeIframeAPIReady() {
 		{ player: new YT.Player('youtubePlayer4'), isMuted: true },
 	];
 	
+	videos.mute = function () {
+		for (let video of videos) {
+			if (video.isMuted) {
+				video.player.mute();
+			}
+		}
+	};
+	
+	videos.seekTo = function (position) {
+		for (let video of videos) {
+			video.player.seekTo(position + (video.offset || 0));
+		}
+	}
+	
+	videos.play = function () {
+		for (let video of videos) {
+			video.player.playVideo();
+		}
+	}
+	
+	videos.pause = function () {
+		for (let video of videos) {
+			video.player.pauseVideo();
+		}
+	}
+
 	document.querySelector('#start-pause').addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
 			default:
 				document.querySelector('figure').scrollIntoView();
-				for (let video of videos) {
-					if (video.isMuted) {
-						video.player.mute();
-					}
-					video.player.seekTo(video.offset || 0);
-				}
+				videos.mute();
+				videos.seekTo(0);
 				// fall thru
 			case 2: // paused
-				for (let video of videos) {
-					video.player.playVideo();
-				}
+				videos.play();
 				break;
 
 			case 1: // playing
-				for (let video of videos) {
-					video.player.pauseVideo();
-				}
+				videos.pause();
 		}
 	});
 
