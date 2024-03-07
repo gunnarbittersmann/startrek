@@ -96,17 +96,15 @@ function onYouTubeIframeAPIReady() {
         }
 				// fall thru
 			case 2: // paused
-				videos[0].player.playVideo();
-				videos[1].player.playVideo();
-				videos[2].player.playVideo();
-				videos[3].player.playVideo();
+				for (let video of videos) {
+				  video.player.playVideo();
+				}
 				break;
 
 			case 1: // playing
-				videos[0].player.pauseVideo();
-				videos[1].player.pauseVideo();
-				videos[2].player.pauseVideo();
-				videos[3].player.pauseVideo();
+				for (let video of videos) {
+				  video.player.pauseVideo();
+				}
 		}
 	});
 
