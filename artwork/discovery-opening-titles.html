@@ -84,6 +84,8 @@ function onYouTubeIframeAPIReady() {
 		{ player: new YT.Player('youtubePlayer4'), isMuted: true },
 	];
 	
+	videos.SKIPTIME = 5;
+	
 	videos.mute = function () {
 		for (let video of videos) {
 			if (video.isMuted) {
@@ -109,6 +111,15 @@ function onYouTubeIframeAPIReady() {
 			video.player.pauseVideo();
 		}
 	}
+	
+	videos.getCurrentTime = function () {
+		return videos[0].player.getCurrentTime();
+	}
+	
+	videos.skip = function (offset) {
+		const destinationTime = videos.getCurrentTime() + offset;
+		videos.seekTo(destinationTime);
+	}
 
 	document.querySelector('#start-pause').addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
@@ -127,19 +138,11 @@ function onYouTubeIframeAPIReady() {
 	});
 
 	document.querySelector('#rewind').addEventListener('click', event => {
-		const destinationTime = videos[0].player.getCurrentTime() - 5;
-		videos[0].player.seekTo(destinationTime);
-		videos[1].player.seekTo(destinationTime + 0.75);
-		videos[2].player.seekTo(destinationTime);
-		videos[3].player.seekTo(destinationTime);
+		videos.skip(-videos.SKIPTIME);
 	});
 
 	document.querySelector('#forward').addEventListener('click', event => {
-		const destinationTime = videos[0].player.getCurrentTime() + 5;
-		videos[0].player.seekTo(destinationTime);
-		videos[1].player.seekTo(destinationTime + 0.75);
-		videos[2].player.seekTo(destinationTime);
-		videos[3].player.seekTo(destinationTime);
+		videos.skip(videos.SKIPTIME);
 	});
 }
 		</script>
