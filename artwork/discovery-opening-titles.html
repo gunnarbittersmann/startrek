@@ -78,19 +78,21 @@
 		<script>
 function onYouTubeIframeAPIReady() {
   const videos = [
-    { player: new YT.Player('youtubePlayer1') },
-    { player: new YT.Player('youtubePlayer2') },
-    { player: new YT.Player('youtubePlayer3') },
-    { player: new YT.Player('youtubePlayer4') },
+    { player: new YT.Player('youtubePlayer1'), isMuted: false },
+    { player: new YT.Player('youtubePlayer2'), isMuted: true },
+    { player: new YT.Player('youtubePlayer3'), isMuted: true },
+    { player: new YT.Player('youtubePlayer4'), isMuted: true },
   ];
 	
 	document.querySelector('#start-pause').addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
 			default:
 				document.querySelector('figure').scrollIntoView();
-				videos[1].player.mute();
-				videos[2].player.mute();
-				videos[3].player.mute();
+        for (let video of videos) {
+          if (video.isMuted) {
+            video.player.mute();
+          }
+        }
 
 				videos[0].player.seekTo(0);
 				videos[1].player.seekTo(0.75);
