@@ -3745,7 +3745,15 @@
 							"inLanguage": "de",
 							"url": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Xb3UzKu7kks"
+						}
+					}
 				}
 			]
 		}
