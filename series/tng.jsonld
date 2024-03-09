@@ -1610,6 +1610,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
@@ -3508,6 +3512,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
@@ -3749,6 +3757,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Xb3UzKu7kks"
