@@ -28,9 +28,13 @@
 			"@type": "TVSeason",
 			"review": {
 				"@type": "Review",
+				"name": "Ups & Downs",
+				"creator": {
+					"@type": "Organization",
+					"name": "TrekCulture"
+				},
 				"video": {
 					"@type": "VideoObject",
-					"name": "Ups & Downs",
 					"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
 				}
 			},

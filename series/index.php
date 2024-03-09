@@ -251,7 +251,12 @@ EOT;
                         <td property="review" typeof="Review">
                           <details lang="en" property="video" typeof="VideoObject">
                             <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-                              <?= htmlSpecialChars($episode['review']['name']) ?>
+                              <?php if ($episode['review']['name']): ?>
+                                <?= htmlSpecialChars($episode['review']['name']) ?>
+                              <?php endif; ?>
+                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
+                              <?php endif; ?>
                             </summary>
                             <meta
                               property="embedUrl"
@@ -267,7 +272,13 @@ EOT;
                           <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
-	                              <?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>
+	                              <?php if ($episode['review']['name']): ?>
+	                                <?= htmlSpecialChars($episode['review']['name']) ?>
+	                              <?php endif; ?>
+	                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+	                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
+	                              <?php endif; ?>
+	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
 	                            <meta
 	                              property="embedUrl"
@@ -288,7 +299,7 @@ EOT;
                               <li property="review" typeof="Review">
                                 <details lang="en" property="video" typeof="VideoObject">
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-                                    Ups &amp; Downs
+                                    <?= htmlSpecialChars($review['name']) ?>
                                   </summary>
                                   <meta
                                     property="embedUrl"
@@ -296,7 +307,7 @@ EOT;
                                   />
                                   <iframe
                                     allowfullscreen=""
-                                    aria-label="Ups &amp; Downs"
+                                    aria-label="<?= htmlSpecialChars($review['name']) ?>"
                                     aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
                                   >
                                   </iframe>

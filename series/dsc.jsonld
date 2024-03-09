@@ -91,6 +91,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/E07tr3fFRgg"
@@ -120,6 +124,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/xSHR4yxqkHQ"
@@ -149,6 +157,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/tWoU4Djd4fw"
@@ -178,6 +190,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
@@ -203,6 +219,18 @@
 					"description": {
 						"en": "On his way to broker a peace deal with renegade Klingon houses, Sarek is injured when a “logic extremist” attempts to assassinate him. Burnham senses this through her telepathic link with Sarek and Lorca agrees to rescue him. Admiral Katrina Cornwell questions this decision and others that Lorca has been making. Burnham searches for Sarek in a shuttle with Tyler and her roommate, Cadet Sylvia Tilly. Burnham attempts to connect with Sarek’s mind, and finds him remembering the time that her application for the Vulcan Expeditionary Group was rejected. She learns that the VEG would only admit one of Sarek’s children, and he chose Spock, his half-human son. Spock ultimately chose to join Starfleet, rendering Sarek’s decision futile. Burnham helps him regain consciousness and activates a locator beacon. Lorca and Cornwell have sex, but she is concerned by his paranoid behavior and plans to remove him from command of Discovery. With Sarek unable to meet with the Klingons, Cornwell takes his place; however, the peace talks are actually a trap and she is taken captive.",
 						"de": "Als Botschafter Sarek in einem vulkanischen Kleinraumschiff unterwegs zu einem geheimen Treffen mit zwei klingonischen Häusern ist, die zwecks Gewinn des Krieges eine Allianz schmieden wollen, wird es von einem Logik-Extremisten, der sich selbst in die Luft sprengt, schwer beschädigt. Sarek wird schwer verletzt und liegt bewusstlos an Bord des Kleinraumschiffs innerhalb des Iridia-Nebels. Burnham, die von Sarek einst ausgebildet wurde, spürt Sareks Schmerz, da sie imstande ist, sich mit Sareks Seele zu verbinden. Im Gegensatz zur Entscheidung seiner Vorgesetzten lässt Lorca die Suche nach Sarek starten und dazu Burnham mit Tilly und Tyler zu dem Nebel fliegen. Bei ihren Versuchen, ihre Gedanken mit denen Sareks zu verschmelzen, erfährt Burnham, dass Sareks einstige Entscheidung, nicht sie, sondern Spock zur Teilnahme an einer vulkanischen Expeditionsgruppe anzumelden, durch Spocks Entscheidung nachträglich hinfällig wurde, sich stattdessen der Sternenflotte anzuschließen. Burnham hilft Sarek, sein Bewusstsein zurückzuerlangen und sich durch ein Transpondersignal lokalisieren zu lassen, sodass er gerettet werden kann. Da Sarek nun außerstande ist, die Klingonen zu treffen, reist stattdessen Lorcas Geliebte, Admiral Cornwall, zu dem Treffen. Dieses stellt sich jedoch als Falle heraus, Cornwall wird gefangen genommen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/OT10-MX28Z8"
+						}
 					}
 				},
 				{
@@ -224,6 +252,18 @@
 					"description": {
 						"en": "While attending a crew party, Burnham and Tyler are called to the bridge to deal with an endangered space creature, a gormagander, that the Discovery has come across. When the creature is brought onboard, it is revealed to be carrying a person: Harry Mudd. He plans to kill Lorca and sell the ship to the Klingons, but when he is caught by the officers he decides to blow up the ship instead. Time returns to the party earlier, with Burnham and Tyler called to the bridge again. They are intercepted by Stamets, who is aware that they are in a time loop due to his interactions with Ripper’s DNA. Over numerous time loops, Stamets works with Burnham and Tyler to find a solution to the problem while Mudd gets further in his plan each time. They eventually convince Mudd that he has won, and he ends the time loop. Preparing to receive a boarding party of Klingons, Mudd is instead confronted by his “beloved” Stella and her father, from whom he had stolen her dowry. They take Mudd away. Stamets reveals to Burnham and Tyler that in one of the time loops they had danced together and kissed.",
 						"de": "Der Kriminelle Harry Mudd hält die Discovery-Crew in einer Zeitschleife gefangen, von der jeder Durchlauf 30 Minuten dauert. Es ist sein Ziel, den Sporenantrieb zu kontrollieren und die Discovery aus Profit an die Klingonen zu verkaufen. Als Mudd am Ende jedes Schleifendurchlaufs von der Crew in die Enge getrieben wird, bringt er die Discovery zur Explosion. Der Sporenantrieb funktioniert nicht ohne Stamets; wegen dieses Zusammenhangs ist Stamets der Einzige in der Crew, der die Zeitschleife bemerkt. Mit diesem Wissen und mit seiner Hilfe arbeiten Burnham und Tyler daran, Mudds Treiben ein Ende zu setzen. Dazu stiehlt sie Mudd den Zeitkristall, den er zur Aufrechterhaltung der Zeitschleife benötigt. Mit diesem Druckmittel und dem Argument, dass sie selbst als Mörderin T’Kuvmas eine wertvollere Beute für die Klingonen sei, überredet sie ihn, die Zeitschleife abzubrechen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/1M2kuy75PPs"
+						}
 					}
 				},
 				{
@@ -251,6 +291,18 @@
 					"description": {
 						"en": "Coming to the aid of another Federation ship, the Discovery is unable to prevent the ship’s destruction by a Klingon ship that is using cloaking technology. Desperate for a way to detect these ships even when they are cloaked, Burnham, Tyler, and Saru are sent to Pahvo, a seemingly uninhabited planet with a naturally occurring crystalline transmitter that broadcasts the planet’s vibrational frequency into space. They hope to use the transmitter to create a sonar for the hidden Klingon ships. Meanwhile, L’Rell tries to help Cornwell escape in exchange for protection from Kol, but they are caught and L’Rell apparently kills Cornwell to try to save face with Kol. He sentences L’Rell to death for her actions. The Discovery officers learn that Pahvo is inhabited with indigenous life that introduce Saru to their higher understanding of peace, and he attempts to force Burnham and Tyler to remain with him on the planet forever. Burnham is able to fight off Saru and broadcast the new signal. However, the Pahvo lifeforms adjust the signal to contact the Klingons as well, hoping to end the war, and Kol receives the signal.",
 						"de": "Die Klingonen rüsten ihre Schiffe verstärkt mit Tarnvorrichtungen aus und fügen der Sternenflotte mit Überraschungsangriffen schwere Verluste zu. Daher möchte die Sternenflottenführung den Klingonen den taktischen Vorteil nehmen, den sie deshalb haben. Zur Erreichung dieses Ziels sind Burnham, Saru und Tyler auf dem Planeten Pahvo, wo sich ein turmhoher Kristall befindet, der den ganzen Planeten mit einer spezifischen Frequenz schwingen lässt und wie ein natürlicher Transmitter fungiert, auch in den Weltraum hinaus. Aufgabe des Teams ist es, die Frequenz des Transmitters so zu modifizieren, dass sie der Sternenflotte als Sonar dienen kann, mit dem sie getarnte klingonische Schiffe aufspüren kann. Auf dem Planeten einheimische Wesen namens Pahvaner, die in Konfliktfreiheit leben möchten, ergreifen von Saru Besitz, lassen ihn in ihrem Interesse handeln und wollen das Team am Verlassen des Planeten hindern. Burnham gelingt es mit Tylers Hilfe und gegen Sarus Widerstand, die Frequenz des Turms zu modifizieren und die Discovery zu verständigen, die die drei zurück an Bord beamt. Rasch stellt sich heraus, dass die Pahvaner wegen ihres Ziels, Zwietracht in Harmonie zu verwandeln, dafür sorgen, dass der Turm durch seine Signale nunmehr auch die Klingonen auf Pahvo aufmerksam macht. Das klingonische Schiff mit Kol an Bord nähert sich dadurch der Discovery. Zuvor hatte Kol den Versuch der Klingonin L’Rell als Täuschung verstanden, durch Erlangung von taktisch relevanten Informationen von der Gefangenen Cornwall seine Gunst zu ergattern."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/JX_x71LszDo"
+						}
 					}
 				},
 				{
@@ -272,6 +324,18 @@
 					"description": {
 						"en": "Lorca is ordered to flee before the Klingons arrive, but disobeys in order to protect the lifeforms on Pahvo and improve the Federation’s chances of detecting the cloaked ships. When the Klingons arrive, Tyler and Burnham transport to the Klingon ship and plant sensors that will help create an algorithm for detecting cloaked ships. They find an alive Cornwell hidden with L’Rell, but encountering the latter sends Tyler into shock due to memories he has of her torturing and raping him. Lorca has Stamets make 133 micro-jumps with the spore drive in order to provide a three-dimensional reading of the sensors, while Burnham distracts Kol by challenging him to a fight. The jumps are completed, though not without trauma to Stamets. When the algorithm is calculated, Burnham, Tyler, Cornwell, and L’Rell—who wishes to defect—are transported back to the Discovery and the Klingon ship is destroyed. Stamets volunteers to make one more jump to safety, but tells Lorca it will be his last. However, Lorca secretly changes the coordinates and they jump to an unknown destination surrounded by starship debris.",
 						"de": "Angesichts der Gefahr durch das nahende klingonische Flaggschiff erhält Lorca von der Sternenflotte den Befehl, mit der Discovery in sicheres Gebiet zurückzukehren. Lorca jedoch missachtet den Befehl und lässt seine Crew eine Mission beginnen, durch die sich die Discovery der klingonischen Tarntechnologie bemächtigen kann: Nachdem Burnham und Tyler von den Klingonen unbemerkt auf das klingonische Schiff gebeamt sind und dort mit der Installation von Sensoren begonnen haben, lässt Lorca die Discovery über 100 Mikrosprünge rund um das klingonische Schiff durchführen und es so in Schach halten. Der mit dem Sporenantrieb verbundene Stamets verkraftet die Sprünge nur unter großen körperlichen Entbehrungen. Auf dem klingonischen Schiff ist Burnham ungeplant auf sich gestellt, da Tyler wegen Symptomen der posttraumatischen Belastungsstörung ausfällt, die er durch Folter in klingonischer Gefangenschaft erlitten hat. Burnham gelangt auf die klingonische Schiffsbrücke, duelliert sich mit Kol und verschafft der Discovery damit Zeitgewinn. Dieser ist hilfreich beim Kopieren von Daten über die Tarntechnologie. Burnham und Tyler beamen mit der verletzten Cornwall und einer klingonischen Geisel auf die Discovery zurück. Beim Versuch, mit dem Sporenantrieb den Schauplatz zu verlassen, gibt es einen technischen Fehler, durch den die Discovery in unbekanntem Gebiet im All strandet."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/EMyEmCIhSzM"
+						}
 					}
 				},
 				{
@@ -293,6 +357,18 @@
 					"description": {
 						"en": "Discovery’s crew determines that they have arrived in a parallel Mirror Universe, with Stamets now unconscious and unable to power the spore drive. Tyler confronts L’Rell, and she attempts to use a verbal cue to trigger something within him, though he fights this off. They find a data core in the wreckage of a Klingon ship and learn that this universe is ruled by the human Terran Empire, who are fighting a resistance that includes species such as Klingons and Vulcans. Here, Burnham is the former captain of the ISS Shenzhou, presumed dead after an attack by the fugitive Lorca. The ISS Discovery is captained by Sylvia Tilly’s counterpart, so Tilly and the crew pretend to be their Mirror selves. They deliver Burnham and Lorca to the Shenzhou, under the ruse that Burnham had been hunting Lorca since her presumed death and has now captured him. Culber informs Tyler that he appears to have undergone major surgical modifications, which triggers something in Tyler and he kills Culber. Tyler joins the others on the Shenzhou, where Lorca is tortured while Burnham assumes command.",
 						"de": "Die Discovery findet sich in einem Paralleluniversum wieder, in dem die Menschen, hier Terraner genannt, eine faschistoide Macht sind, und von nichtmenschlichen Rebellen bekämpft werden. Auf der Brücke erkennt man, dass die Discovery des Spiegeluniversums wahrscheinlich in das Ausgangsuniversum versetzt wurde. Während Lorca seine Crew nach einer Möglichkeit suchen lässt, diesem Universum wieder zu entfliehen, nähert sich der Discovery ein terranisches Raumschiff. Um nicht als Fremde aufzufallen bzw. die Leben auf der Discovery nicht zu riskieren, passt sich die Crew auf dem ganzen Schiff den Rollen an, die ihre Alter Egos des Spiegeluniversums bislang innehatten. Das beinhaltet, dass Fähnrich Tilly die Rolle der Schiffskommandantin einnimmt. Indes erkennt Dr. Culber in der Krankenstation, dass der posttraumatisch gestörte Tyler nicht er selbst ist und wohl durch die Klingonen verändert wurde. Daraufhin bricht Tyler dem Doktor das Genick. Anschließend beamt er mit Burnham und Lorca an Bord des näher gekommenen Schiffs. Burnham ist in der Rolle der Kommandantin jenes Schiffs und bringt Lorca als Gefangenen mit, der daraufhin gefoltert wird. Der erste Offizier des Schiffes versucht Burnham zu ermorden, aber sie tötet ihn und übernimmt das Kommando über das Schiff."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_lnVTXwMWqI"
+						}
 					}
 				},
 				{
@@ -757,6 +833,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
@@ -786,6 +866,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
@@ -815,6 +899,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
@@ -844,6 +932,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
@@ -873,6 +965,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
@@ -902,6 +998,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
@@ -931,6 +1031,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
@@ -960,6 +1064,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
@@ -989,6 +1097,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
@@ -1018,6 +1130,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
@@ -1047,6 +1163,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
@@ -1076,6 +1196,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
@@ -1105,6 +1229,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
@@ -1154,6 +1282,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/H12V1TN801o"
@@ -1183,6 +1315,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/RmlhMmNam1c"
@@ -1212,6 +1348,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/GG8-i9lc56Y"
@@ -1241,6 +1381,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/CB9We1QIuJU"
@@ -1270,6 +1414,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/hiA2wmjhbuA"
@@ -1299,6 +1447,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/s7Hgth8LITM"
@@ -1328,6 +1480,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Xd5aERa-_AY"
@@ -1364,6 +1520,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/drfNGQGT2zo"
@@ -1393,6 +1553,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
@@ -1422,6 +1586,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ttifG-bdHWQ"
@@ -1458,6 +1626,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/UOsKmyIu7dY"
@@ -1487,6 +1659,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/_9n_JU5jRn0"
@@ -1516,6 +1692,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/RoptUBfAchE"
@@ -1539,22 +1719,25 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "5.1",
 					"name": "Red Directive",
-					"datePublished": "2024-04"
+					"datePublished": "2024-04-04"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.2",
-					"name": "Under the Twin Moons"
+					"name": "Under the Twin Moons",
+					"datePublished": "2024-04-04"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.3",
-					"name": "Jinaal"
+					"name": "Jinaal",
+					"datePublished": "2024-04-11"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.4",
 					"name": "Face the Strange",
+					"datePublished": "2024-04-18",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
 						"@type": "Person",
@@ -1564,27 +1747,32 @@
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.5",
-					"name": "Mirrors"
+					"name": "Mirrors",
+					"datePublished": "2024-04-25"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.6",
-					"name": "Whistlespeak"
+					"name": "Whistlespeak",
+					"datePublished": "2024-05-02"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.7",
-					"name": "Erigah"
+					"name": "Erigah",
+					"datePublished": "2024-05-09"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.8",
-					"name": "Labyrinths"
+					"name": "Labyrinths",
+					"datePublished": "2024-05-16"
 				},
 				{
 					"@type": "TVEpisode",
 					"episodeNumber": "5.9",
 					"name": "Lagrange Point",
+					"datePublished": "2024-05-23",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
@@ -1595,6 +1783,7 @@
 					"@type": "TVEpisode",
 					"episodeNumber": "5.10",
 					"name": "Life, Itself",
+					"datePublished": "2024-05-30",
 					"director": {
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"@type": "Person",

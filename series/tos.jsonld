@@ -48,6 +48,18 @@
 					},
 					"description": {
 						"de": "Nach einer verlustreichen Mission auf dem Planeten Rigel VII folgt die Enterprise unter dem Kommando von Captain Christopher Pike einem Notruf auf den Planeten Talos IV. Das von Pike geführte Landeteam findet dort eine Gruppe Überlebender des seit 18 Jahren verschollenen Forschungsschiffes Columbia. Unter den Überlebenden ist die attraktive Vina. Von Vina abgelenkt, wird Pike von den Talosianern gefangen genommen, einer hochentwickelten, Telepathie beherrschende Spezies. Es stellt sich heraus, dass der Notruf von den Talosianern fingiert wurde und auch die Überlebenden, mit Ausnahme von Vina, nur eine Illusion waren, mit der die Enterprise zu dem Planeten gelockt werden sollte. Pike wird in einen Käfig interniert und die Talosianer versuchen, seinen Geist zu manipulieren, ihm Vina nahe zu bringen, aber Pike widersteht. Er erkennt, dass die Talosianer ihn nach Talos IV gelockt haben, um mit ihm und Vina eine neue Menschenrasse zu züchten, um sie zu versklaven. Als ein weiteres Landeteam zur Bergung des Captains auf den Planeten gebeamt wird, geraten auch Nummer Eins und Fähnrich Colt in die Gewalt der Talosianer. Sie werden zu Pike in den Käfig gesperrt, in der Hoffnung, dass Pike sich zu ihnen hingezogen fühlt. Schließlich kann Pike einen Wärter überwältigen und die Gefangenen können auf die vor Jahrhunderten atomar zerstörte Planetenoberfläche entkommen. Als die Landegruppe dort von den Talosianern gestellt wird, droht Nummer Eins, alle durch eine Explosion ihres Phasers zu töten, da sie lieber sterben wolle als in Gefangenschaft zu leben. Daraufhin lassen die Talosianer Nummer Eins und Fähnrich Colt gehen. Pike offenbaren sie, dass Vina die einzige Überlebende des Absturzes der Columbia war. Sie hatte das Unglück schwer entstellt überlebt und um ihr zu helfen, schufen sie ihr die Illusion eines unversehrten Äußeren. Pike bittet die Talosianer, ihr diese Illusion nicht zu nehmen, woraufhin sie ihr die Illusion eines Pike an die Seite stellen, während Captain Pike auf sein Schiff zurückkehrt."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
+						}
 					}
 				}
 			]
@@ -1077,6 +1089,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Or6MDkKByFs"
