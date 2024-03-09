@@ -66,6 +66,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/f385MNWYCOE"
@@ -92,6 +96,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/6I5I1WAvmuw"
