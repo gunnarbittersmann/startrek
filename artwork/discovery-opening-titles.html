@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Discovery opening titles</title>
+		<link rel="icon" href="../starfleet.svg"/>
+		<link rel="mask-icon" href="../starfleet.svg"/>
+		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
+		<link rel="stylesheet" href="../style.css"/>
+		<style>
+			h1 {
+				display: inline-block;
+			}
+			figure {
+				aspect-ratio: 16/9;
+				max-width: 100%;
+				height: calc(100vh - var(--header-height));
+				margin: 1em 0;
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				grid-template-rows: auto 1fr;
+				gap: 0.5em;
+			}
+			iframe {
+				margin: 0;
+				aspect-ratio: 16/9;
+				width: 100%;
+				height: auto;
+			}
+			button {
+				font: inherit;
+				border-color: transparent;
+				background: black;
+				color: white;
+				padding: 0.5em;
+				border-radius: 0.5em;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ol>
+					<li>
+						<a
+							title="Star Trek"
+							aria-label="Star Trek"
+							href="/startrek"
+						>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="378 148 70 120" width="14" height="24">
+								<path fill="currentColor" d="M424.03 231.79c4.01,4.36 11.34,15.79 21.99,34.29 -1.14,-45.83 -11.56,-84.64 -31.28,-116.43 -20.64,29.62 -33.03,68.12 -37.16,115.5 20.86,-20.05 34.48,-31.27 40.87,-33.67 2.69,-1.13 4.54,-1.03 5.58,0.31z"/>
+							</svg>
+						</a>
+					</li>
+					<li>
+						<a>Artwork</a>
+					</li>
+				</ol>
+			</nav>
+		</header>
+		<main id="main">
+			<div>
+				<h1><i>Discovery</i> opening titles</h1>
+				<button id="rewind">rewind</button>
+				<button id="start-pause">start/pause</button>
+				<button id="forward">forward</button>
+			</div>
+			<figure>
+				<iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
+				<iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
+				<iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer3" name="youtubePlayer" width="800" height="450"></iframe>
+				<iframe src="https://www.youtube-nocookie.com/embed/SDyM2eCt1y4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer4" name="youtubePlayer" width="800" height="450"></iframe>
+			</figure>
+		</main>
+		<script src="../script.js"></script>
+		<script src="https://www.youtube.com/iframe_api" async=""></script>
+		<script>
+function onYouTubeIframeAPIReady() {
+	const videos = [
+		{ player: new YT.Player('youtubePlayer1'), isMuted: false },
+		{ player: new YT.Player('youtubePlayer2'), isMuted: true, offset: 0.75 },
+		{ player: new YT.Player('youtubePlayer3'), isMuted: true },
+		{ player: new YT.Player('youtubePlayer4'), isMuted: true },
+	];
+	
+	videos.SKIPTIME = 5;
+	
+	videos.mute = function () {
+		for (let video of videos) {
+			if (video.isMuted) {
+				video.player.mute();
+			}
+		}
+	};
+	
+	videos.seekTo = function (position) {
+		for (let video of videos) {
+			video.player.seekTo(position + (video.offset || 0));
+		}
+	}
+	
+	videos.play = function () {
+		for (let video of videos) {
+			video.player.playVideo();
+		}
+	}
+	
+	videos.pause = function () {
+		for (let video of videos) {
+			video.player.pauseVideo();
+		}
+	}
+	
+	videos.getCurrentTime = function () {
+		return videos[0].player.getCurrentTime();
+	}
+	
+	videos.skip = function (offset) {
+		const destinationTime = videos.getCurrentTime() + offset;
+		videos.seekTo(destinationTime);
+	}
+
+	document.querySelector('#start-pause').addEventListener('click', event => {
+		switch (videos[0].player.getPlayerState()) {
+			default:
+				document.querySelector('figure').scrollIntoView();
+				videos.mute();
+				videos.seekTo(0);
+				// fall thru
+			case 2: // paused
+				videos.play();
+				break;
+
+			case 1: // playing
+				videos.pause();
+		}
+	});
+
+	document.querySelector('#rewind').addEventListener('click', event => {
+		videos.skip(-videos.SKIPTIME);
+	});
+
+	document.querySelector('#forward').addEventListener('click', event => {
+		videos.skip(videos.SKIPTIME);
+	});
+}
+		</script>
+	</body>
+</html>
