@@ -169,7 +169,12 @@
                     <td property="review" typeof="Review">
                       <details lang="en" property="video" typeof="VideoObject">
                         <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-                          <?= htmlSpecialChars($movie['review']['name']) ?>
+                          <?php if ($movie['review']['name']): ?>
+                            <?= htmlSpecialChars($movie['review']['name']) ?>
+                          <?php endif; ?>
+                          <?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
+                            (<?= htmlSpecialChars($movie['review']['creator']['name']) ?>)
+                          <?php endif; ?>
                         </summary>
                         <meta
                           property="embedUrl"
