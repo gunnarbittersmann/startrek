@@ -299,7 +299,12 @@ EOT;
                               <li property="review" typeof="Review">
                                 <details lang="en" property="video" typeof="VideoObject">
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-                                    <?= htmlSpecialChars($review['name']) ?>
+                                    <?php if ($review['name']): ?>
+    	                                <?= htmlSpecialChars($review['name']) ?>
+                                    <?php endif; ?>
+                                    <?php if ($review['creator'] && $review['creator']['name']): ?>
+    	                                (<?= htmlSpecialChars($review['creator']['name']) ?>)
+                                    <?php endif; ?>
                                   </summary>
                                   <meta
                                     property="embedUrl"
