@@ -205,7 +205,7 @@
                               />
                               <iframe
                                 allowfullscreen=""
-                                aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
+                                aria-label="<?= htmlSpecialChars($review['name']) ?>"
                                 aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
                               </iframe>
                             </details>
