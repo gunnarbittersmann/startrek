@@ -33,7 +33,7 @@
 			"seasonNumber": 1,
 			"review": {
 				"@type": "Review",
-								"creator": {
+				"creator": {
 					"@type": "Person",
 					"name": "Jessie Gender"
 				},
