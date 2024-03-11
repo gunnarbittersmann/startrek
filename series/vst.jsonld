@@ -44,6 +44,17 @@
 					},
 					"abstract": {
 						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xDo26BbKtrE"
+						}
 					}
 				},
 				{
@@ -120,6 +131,17 @@
 					},
 					"abstract": {
 						"en": "Various interconnected holodecks simulations."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3qvhb4Ceew0"
+						}
 					}
 				},
 				{
