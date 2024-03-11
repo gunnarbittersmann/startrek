@@ -65,7 +65,6 @@
 					},
 					"review": {
 						"@type": "Review",
-						"name": "Review",
 						"creator": {
 							"@type": "Person",
 							"name": "Jessie Gender"
@@ -95,7 +94,6 @@
 					},
 					"review": {
 						"@type": "Review",
-						"name": "Review",
 						"creator": {
 							"@type": "Person",
 							"name": "Jessie Gender"
@@ -144,7 +142,6 @@
 					"review": [
 						{
 							"@type": "Review",
-							"name": "Review",
 							"creator": {
   							"@type": "Person",
   							"name": "Jessie Gender"

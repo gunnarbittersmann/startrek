@@ -171,9 +171,8 @@
                         <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
                           <?php if ($movie['review']['name']): ?>
                             <?= htmlSpecialChars($movie['review']['name']) ?>
-                          <?php endif; ?>
-                          <?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
-                            (<?= htmlSpecialChars($movie['review']['creator']['name']) ?>)
+                          <?php elseif ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
+                            <?= htmlSpecialChars($movie['review']['creator']['name']) ?>
                           <?php endif; ?>
                         </summary>
                         <meta

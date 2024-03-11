@@ -253,9 +253,8 @@ EOT;
                             <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                               <?php if ($episode['review']['name']): ?>
                                 <?= htmlSpecialChars($episode['review']['name']) ?>
-                              <?php endif; ?>
-                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
+                              <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+                                <?= htmlSpecialChars($episode['review']['creator']['name']) ?>
                               <?php endif; ?>
                             </summary>
                             <meta
@@ -274,9 +273,8 @@ EOT;
 	                            <summary>
 	                              <?php if ($episode['review']['name']): ?>
 	                                <?= htmlSpecialChars($episode['review']['name']) ?>
-	                              <?php endif; ?>
-	                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-	                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
+                                <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+	                                <?= htmlSpecialChars($episode['review']['creator']['name']) ?>
 	                              <?php endif; ?>
 	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
@@ -301,9 +299,8 @@ EOT;
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                                     <?php if ($review['name']): ?>
     	                                <?= htmlSpecialChars($review['name']) ?>
-                                    <?php endif; ?>
-                                    <?php if ($review['creator'] && $review['creator']['name']): ?>
-    	                                (<?= htmlSpecialChars($review['creator']['name']) ?>)
+                                    <?php elseif ($review['creator'] && $review['creator']['name']): ?>
+    	                                <?= htmlSpecialChars($review['creator']['name']) ?>
                                     <?php endif; ?>
                                   </summary>
                                   <meta
