@@ -193,7 +193,11 @@
                           <li property="review" typeof="Review">
                             <details lang="en" property="video" typeof="VideoObject">
                               <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-                                <?= htmlSpecialChars($movie['review']['name']) ?>
+                                <?php if ($review['name']): ?>
+                                  <?= htmlSpecialChars($review['name']) ?>
+                                <?php elseif ($review['creator'] && $review['creator']['name']): ?>
+                                  <?= htmlSpecialChars($review['name']) ?>
+                                <?php endif; ?>
                               </summary>
                               <meta
                                 property="embedUrl"
