@@ -252,9 +252,11 @@ EOT;
                           <details lang="en" property="video" typeof="VideoObject">
                             <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                               <?php if ($episode['review']['name']): ?>
-                                <?= htmlSpecialChars($episode['review']['name']) ?>
+                                <span property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
                               <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-                                <?= htmlSpecialChars($episode['review']['creator']['name']) ?>
+                                <span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
+                                  <span property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
+                                </span>
                               <?php endif; ?>
                             </summary>
                             <meta
@@ -272,9 +274,11 @@ EOT;
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
 	                              <?php if ($episode['review']['name']): ?>
-	                                <?= htmlSpecialChars($episode['review']['name']) ?>
+	                                <span property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
                                 <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-	                                <?= htmlSpecialChars($episode['review']['creator']['name']) ?>
+	                                <span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
+  	                                <span property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
+	                                </span>
 	                              <?php endif; ?>
 	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
@@ -298,9 +302,11 @@ EOT;
                                 <details lang="en" property="video" typeof="VideoObject">
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                                     <?php if ($review['name']): ?>
-    	                                <?= htmlSpecialChars($review['name']) ?>
+                                      <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
                                     <?php elseif ($review['creator'] && $review['creator']['name']): ?>
-    	                                <?= htmlSpecialChars($review['creator']['name']) ?>
+                                      <span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+                                        <span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+                                      </span>
                                     <?php endif; ?>
                                   </summary>
                                   <meta

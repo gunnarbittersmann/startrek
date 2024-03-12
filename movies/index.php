@@ -170,9 +170,11 @@
                       <details lang="en" property="video" typeof="VideoObject">
                         <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
                           <?php if ($movie['review']['name']): ?>
-                            <?= htmlSpecialChars($movie['review']['name']) ?>
+                            <span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
                           <?php elseif ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
-                            <?= htmlSpecialChars($movie['review']['creator']['name']) ?>
+                            <span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
+                              <span property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
+                            </span>
                           <?php endif; ?>
                         </summary>
                         <meta
@@ -194,9 +196,11 @@
                             <details lang="en" property="video" typeof="VideoObject">
                               <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
                                 <?php if ($review['name']): ?>
-                                  <?= htmlSpecialChars($review['name']) ?>
+                                  <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
                                 <?php elseif ($review['creator'] && $review['creator']['name']): ?>
-                                  <?= htmlSpecialChars($review['creator']['name']) ?>
+                                  <span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+                                    <span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+                                  </span>
                                 <?php endif; ?>
                               </summary>
                               <meta
