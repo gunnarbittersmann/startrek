@@ -196,7 +196,7 @@
                                 <?php if ($review['name']): ?>
                                   <?= htmlSpecialChars($review['name']) ?>
                                 <?php elseif ($review['creator'] && $review['creator']['name']): ?>
-                                  <?= htmlSpecialChars($review['name']) ?>
+                                  <?= htmlSpecialChars($review['creator']['name']) ?>
                                 <?php endif; ?>
                               </summary>
                               <meta
