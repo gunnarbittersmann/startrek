@@ -275,12 +275,14 @@ EOT;
 	                            <summary>
 	                              <?php if ($season['review']['name']): ?>
 	                                <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
+	                                from
 	                              <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
 	                                <span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
   	                                <span property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
 	                                </span>
+	                                on
 	                              <?php endif; ?>
-	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
+	                              season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
 	                            <meta
 	                              property="embedUrl"
