@@ -273,11 +273,11 @@ EOT;
                           <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
-	                              <?php if ($episode['review']['name']): ?>
-	                                <span property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
-                                <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-	                                <span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
-  	                                <span property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
+	                              <?php if ($season['review']['name']): ?>
+	                                <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
+	                              <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
+	                                <span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
+  	                                <span property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
 	                                </span>
 	                              <?php endif; ?>
 	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
