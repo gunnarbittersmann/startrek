@@ -107,7 +107,7 @@
               <a href="artwork/dsc-universes-opening-titles">Discovery universes opening titles</a>
             </li>
             <li>
-              <a href="artwork/snw-opening-titles">Strange New Worlds opening titles</a>
+              <a href="artwork/snw-real-flat-opening-titles">Strange New Worlds real/flat opening titles</a>
             </li>
             <li>
               <a href="artwork/ld-films">Lower Decks and film posters</a>
