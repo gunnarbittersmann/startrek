@@ -104,6 +104,9 @@
               <a href="artwork/discovery-opening-titles">Discovery opening titles</a>
             </li>
             <li>
+              <a href="artwork/snw-opening-titles">Strange New Worlds opening titles</a>
+            </li>
+            <li>
               <a href="artwork/ld-films">Lower Decks and film posters</a>
             </li>
           </ul>
