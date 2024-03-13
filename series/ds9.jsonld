@@ -2130,6 +2130,17 @@
 					},
 					"abstract": {
 						"de": "Durch einen Drehkörper wird die Defiant in die Zeit Captain Kirks zurückversetzt. Sie trifft auf die USS Enterprise NCC-1701, die die Raumstation K7 umkreist. Sisko und seine Mannschaft finden heraus, dass der Mensch, den sie auf Cardassia an Bord genommen haben, in Wirklichkeit ein klingonischer Spion ist, der sich an Captain Kirk rächen will und dadurch die Zeitlinie gefährdet. Es gelingt der Crew der Defiant den Mord zu verhindern und in ihre eigene Zeit zurückzukehren."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/DF5xunu0R4s"
+						}
 					}
 				},
 				{
