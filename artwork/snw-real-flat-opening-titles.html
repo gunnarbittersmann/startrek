@@ -9,20 +9,20 @@
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
 		<link rel="stylesheet" href="../style.css"/>
 		<style>
-			h1 {
-				display: inline-block;
+			body {
+				padding-bottom: 0 !important;
 			}
-			figure {
+			main {
 				aspect-ratio: 16/9;
 				max-width: 100%;
-				height: calc(100vh - var(--header-height));
-				margin: 1em 0;
+				max-height: calc(100vh - var(--header-height) - 1em);
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				grid-template-rows: auto 1fr;
+				grid-template-rows: 1fr 1fr;
 				gap: 0.5em;
 			}
 			iframe {
+				grid-column: 2;
 				margin: 0;
 				aspect-ratio: 16/9;
 				width: 100%;
@@ -66,10 +66,8 @@
 				<button id="start-pause">start/pause</button>
 				<button id="forward">forward</button>
 			</div>
-			<figure>
-				<iframe src="https://www.youtube-nocookie.com/embed/zM8yOPYY6s8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
-				<iframe src="https://www.youtube-nocookie.com/embed/DRcJA0ExiyU?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
-			</figure>
+			<iframe src="https://www.youtube-nocookie.com/embed/zM8yOPYY6s8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/DRcJA0ExiyU?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
 		</main>
 		<script src="../script.js"></script>
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
