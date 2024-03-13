@@ -101,7 +101,10 @@
           <a>Artwork</a>
           <ul>
             <li>
-              <a href="artwork/discovery-opening-titles">Discovery opening titles</a>
+              <a href="artwork/discovery-opening-titles">Discovery seasons opening titles</a>
+            </li>
+            <li>
+              <a href="artwork/dsc-universes-opening-titles">Discovery universes opening titles</a>
             </li>
             <li>
               <a href="artwork/snw-opening-titles">Strange New Worlds opening titles</a>
