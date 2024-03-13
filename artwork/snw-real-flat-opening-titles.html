@@ -21,8 +21,10 @@
 				grid-template-rows: 1fr 1fr;
 				gap: 0.5em;
 			}
+			div:has(h1) {
+				grid-row: 1 / -1;
+			}
 			iframe {
-				grid-column: 2;
 				margin: 0;
 				aspect-ratio: 16/9;
 				width: 100%;
