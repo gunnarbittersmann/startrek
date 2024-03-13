@@ -67,9 +67,8 @@
 				<button id="forward">forward</button>
 			</div>
 			<figure>
-				<iframe src="https://www.youtube-nocookie.com/embed/aMMMBvkAUSM?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
-				<iframe src="https://www.youtube-nocookie.com/embed/zM8yOPYY6s8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
-				<iframe src="https://www.youtube-nocookie.com/embed/DRcJA0ExiyU?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer3" name="youtubePlayer" width="800" height="450"></iframe>
+				<iframe src="https://www.youtube-nocookie.com/embed/zM8yOPYY6s8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
+				<iframe src="https://www.youtube-nocookie.com/embed/DRcJA0ExiyU?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
 			</figure>
 		</main>
 		<script src="../script.js"></script>
@@ -79,7 +78,6 @@ function onYouTubeIframeAPIReady() {
 	const videos = [
 		{ player: new YT.Player('youtubePlayer1'), isMuted: false },
 		{ player: new YT.Player('youtubePlayer2'), isMuted: true },
-		{ player: new YT.Player('youtubePlayer3'), isMuted: true },
 	];
 	
 	videos.SKIPTIME = 5;
