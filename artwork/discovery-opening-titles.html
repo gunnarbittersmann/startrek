@@ -8,37 +8,6 @@
 		<link rel="mask-icon" href="../starfleet.svg"/>
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
 		<link rel="stylesheet" href="../style.css"/>
-		<style>
-			body {
-				padding-bottom: 0 !important;
-			}
-			main {
-				aspect-ratio: 24/9;
-				max-width: 100%;
-				max-height: calc(100vh - var(--header-height) - 1em);
-				display: grid;
-				grid-template-columns: 0.5fr 1fr 1fr;
-				grid-template-rows: 1fr 1fr;
-				gap: 0.5em;
-			}
-			div:has(h1) {
-				grid-row: 1 / -1;
-			}
-			iframe {
-				margin: 0;
-				aspect-ratio: 16/9;
-				width: 100%;
-				height: auto;
-			}
-			button {
-				font: inherit;
-				border-color: transparent;
-				background: black;
-				color: white;
-				padding: 0.5em;
-				border-radius: 0.5em;
-			}
-		</style>
 	</head>
 	<body>
 		<header>
@@ -61,7 +30,7 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main">
+		<main id="main" class="players">
 			<div>
 				<h1><i>Discovery</i> opening titles</h1>
 				<button id="rewind">rewind</button>
