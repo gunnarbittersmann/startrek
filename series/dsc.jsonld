@@ -91,6 +91,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/E07tr3fFRgg"
@@ -120,6 +124,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/xSHR4yxqkHQ"
@@ -149,6 +157,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/tWoU4Djd4fw"
@@ -178,6 +190,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
@@ -207,6 +223,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/OT10-MX28Z8"
@@ -236,6 +256,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/1M2kuy75PPs"
@@ -271,6 +295,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/JX_x71LszDo"
@@ -300,6 +328,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/EMyEmCIhSzM"
@@ -325,6 +357,18 @@
 					"description": {
 						"en": "Discovery’s crew determines that they have arrived in a parallel Mirror Universe, with Stamets now unconscious and unable to power the spore drive. Tyler confronts L’Rell, and she attempts to use a verbal cue to trigger something within him, though he fights this off. They find a data core in the wreckage of a Klingon ship and learn that this universe is ruled by the human Terran Empire, who are fighting a resistance that includes species such as Klingons and Vulcans. Here, Burnham is the former captain of the ISS Shenzhou, presumed dead after an attack by the fugitive Lorca. The ISS Discovery is captained by Sylvia Tilly’s counterpart, so Tilly and the crew pretend to be their Mirror selves. They deliver Burnham and Lorca to the Shenzhou, under the ruse that Burnham had been hunting Lorca since her presumed death and has now captured him. Culber informs Tyler that he appears to have undergone major surgical modifications, which triggers something in Tyler and he kills Culber. Tyler joins the others on the Shenzhou, where Lorca is tortured while Burnham assumes command.",
 						"de": "Die Discovery findet sich in einem Paralleluniversum wieder, in dem die Menschen, hier Terraner genannt, eine faschistoide Macht sind, und von nichtmenschlichen Rebellen bekämpft werden. Auf der Brücke erkennt man, dass die Discovery des Spiegeluniversums wahrscheinlich in das Ausgangsuniversum versetzt wurde. Während Lorca seine Crew nach einer Möglichkeit suchen lässt, diesem Universum wieder zu entfliehen, nähert sich der Discovery ein terranisches Raumschiff. Um nicht als Fremde aufzufallen bzw. die Leben auf der Discovery nicht zu riskieren, passt sich die Crew auf dem ganzen Schiff den Rollen an, die ihre Alter Egos des Spiegeluniversums bislang innehatten. Das beinhaltet, dass Fähnrich Tilly die Rolle der Schiffskommandantin einnimmt. Indes erkennt Dr. Culber in der Krankenstation, dass der posttraumatisch gestörte Tyler nicht er selbst ist und wohl durch die Klingonen verändert wurde. Daraufhin bricht Tyler dem Doktor das Genick. Anschließend beamt er mit Burnham und Lorca an Bord des näher gekommenen Schiffs. Burnham ist in der Rolle der Kommandantin jenes Schiffs und bringt Lorca als Gefangenen mit, der daraufhin gefoltert wird. Der erste Offizier des Schiffes versucht Burnham zu ermorden, aber sie tötet ihn und übernimmt das Kommando über das Schiff."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_lnVTXwMWqI"
+						}
 					}
 				},
 				{
@@ -800,6 +844,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
@@ -829,6 +877,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
@@ -858,6 +910,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
@@ -887,6 +943,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
@@ -916,6 +976,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
@@ -945,6 +1009,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
@@ -974,6 +1042,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
@@ -1003,6 +1075,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
@@ -1032,6 +1108,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
@@ -1061,6 +1141,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
@@ -1090,6 +1174,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
@@ -1119,6 +1207,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
@@ -1148,6 +1240,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
@@ -1197,6 +1293,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/H12V1TN801o"
@@ -1226,6 +1326,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/RmlhMmNam1c"
@@ -1255,6 +1359,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/GG8-i9lc56Y"
@@ -1284,6 +1392,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/CB9We1QIuJU"
@@ -1313,6 +1425,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/hiA2wmjhbuA"
@@ -1342,6 +1458,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/s7Hgth8LITM"
@@ -1371,6 +1491,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Xd5aERa-_AY"
@@ -1407,6 +1531,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/drfNGQGT2zo"
@@ -1436,6 +1564,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
@@ -1465,6 +1597,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ttifG-bdHWQ"
@@ -1501,6 +1637,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/UOsKmyIu7dY"
@@ -1530,6 +1670,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/_9n_JU5jRn0"
@@ -1559,6 +1703,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/RoptUBfAchE"

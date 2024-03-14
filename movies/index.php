@@ -22,7 +22,7 @@
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title><?= htmlSpecialChars($data['name']) ?></title>
+    <title><?= htmlSpecialChars($data['name']) ?> movies</title>
     <link rel="icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
     <link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
@@ -169,7 +169,13 @@
                     <td property="review" typeof="Review">
                       <details lang="en" property="video" typeof="VideoObject">
                         <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-                          <?= htmlSpecialChars($movie['review']['name']) ?>
+                          <?php if ($movie['review']['name']): ?>
+                            <span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
+                          <?php elseif ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
+                            <span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
+                              <span property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
+                            </span>
+                          <?php endif; ?>
                         </summary>
                         <meta
                           property="embedUrl"
@@ -189,7 +195,13 @@
                           <li property="review" typeof="Review">
                             <details lang="en" property="video" typeof="VideoObject">
                               <summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-                                <?= htmlSpecialChars($movie['review']['name']) ?>
+                                <?php if ($review['name']): ?>
+                                  <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+                                <?php elseif ($review['creator'] && $review['creator']['name']): ?>
+                                  <span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+                                    <span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+                                  </span>
+                                <?php endif; ?>
                               </summary>
                               <meta
                                 property="embedUrl"
@@ -197,7 +209,7 @@
                               />
                               <iframe
                                 allowfullscreen=""
-                                aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
+                                aria-label="<?= htmlSpecialChars($review['name']) ?>"
                                 aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
                               </iframe>
                             </details>

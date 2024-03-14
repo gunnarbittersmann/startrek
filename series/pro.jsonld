@@ -31,6 +31,17 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
+				}
+			},
 			"numberOfEpisodes": 20,
 			"subjectOf": [
 				{
@@ -67,6 +78,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/hboS_FHcfaU"
@@ -95,6 +110,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/_2F9odd64BU"
@@ -133,6 +152,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/mUSmPjnrdyk"
@@ -171,6 +194,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/zcXrKRAjxEo"
@@ -308,6 +335,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/7sDQVbfdC1E"
@@ -346,6 +377,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/38820B3gyOI"
@@ -384,6 +419,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ofZbuiMWcVw"
@@ -415,6 +454,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/f4JNWmT5cW4"
@@ -451,6 +494,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/eBJ_2AFvaPk"
@@ -480,6 +527,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Ce_bTng4nLA"
@@ -516,6 +567,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/woTxI8XYTJ0"
@@ -545,6 +600,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/34YE9aa4upc"
@@ -574,6 +633,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/LL0ar8Lev2E"
@@ -603,6 +666,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/8oNTPgVeG3E"
@@ -632,6 +699,10 @@
 					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"name": "TrekCulture"
+						},
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Bv_aoeJ6OFs"
