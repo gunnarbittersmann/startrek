@@ -37,16 +37,16 @@
 				<button id="start-pause">start/pause</button>
 				<button id="forward">forward</button>
 			</div>
-			<iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer1" name="youtubePlayer" width="800" height="450"></iframe>
-			<iframe src="https://www.youtube-nocookie.com/embed/CiO--y129n4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer2" name="youtubePlayer" width="800" height="450"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season3Player" name="season 3 opening titles" width="800" height="450"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/CiO--y129n4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="parallelUniversePlayer" name="parallel universe opening titles" width="800" height="450"></iframe>
 		</main>
 		<script src="../script.js"></script>
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
 		<script>
 function onYouTubeIframeAPIReady() {
 	const videos = [
-		{ player: new YT.Player('youtubePlayer1'), isMuted: false },
-		{ player: new YT.Player('youtubePlayer2'), isMuted: true },
+		{ player: new YT.Player('season3Player'), isMuted: false },
+		{ player: new YT.Player('parallelUniversePlayer'), isMuted: true },
 	];
 	
 	videos.SKIPTIME = 5;
