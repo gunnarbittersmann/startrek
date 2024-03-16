@@ -45,18 +45,21 @@
 		<script>
 function onYouTubeIframeAPIReady() {
 	const videos = [
-		{ player: new YT.Player('season3Player'), isMuted: false },
-		{ player: new YT.Player('parallelUniversePlayer'), isMuted: true },
+		{ player: new YT.Player('season3Player') },
+		{ player: new YT.Player('parallelUniversePlayer') },
 	];
 	
 	videos.SKIPTIME = 5;
 	
 	videos.mute = function () {
-		for (let video of videos) {
-			if (video.isMuted) {
+		videos.forEach((video, index) => {
+			if (index == 0) {
+				video.player.unMute();
+			}
+			else {
 				video.player.mute();
 			}
-		}
+		});
 	};
 	
 	videos.seekTo = function (position) {
