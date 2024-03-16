@@ -250,7 +250,7 @@ EOT;
                       <?php if ($episode['video']): ?>
                         <td>
                           <details lang="en" property="video" typeof="VideoObject">
-                            <summary>video</summary>
+                            <summary>Video</summary>
                             <meta
                               property="embedUrl"
                               content="<?= htmlSpecialChars($episode['video']['embedUrl']) ?>"
