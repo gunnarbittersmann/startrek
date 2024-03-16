@@ -38,7 +38,7 @@
 				<button id="forward">forward</button>
 			</div>
 			<iframe src="https://www.youtube-nocookie.com/embed/gdLfWOEbNmo?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season1Player" name="season 1 opening titles" width="800" height="450"></iframe>
-			<iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season2Player" name="season 2 opening titles" width="800" height="450"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/7zZ3OWU7cm8?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season2Player" name="season 2 opening titles" width="800" height="450" data-offset="0.75"></iframe>
 			<iframe src="https://www.youtube-nocookie.com/embed/edHfsHcSLMc?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season3Player" name="season 3 opening titles" width="800" height="450"></iframe>
 			<iframe src="https://www.youtube-nocookie.com/embed/SDyM2eCt1y4?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="season4Player" name="season 4 opening titles" width="800" height="450"></iframe>
 		</main>
@@ -46,12 +46,12 @@
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
 		<script>
 function onYouTubeIframeAPIReady() {
-	const videos = [
-		{ player: new YT.Player('season1Player') },
-		{ player: new YT.Player('season2Player'), offset: 0.75 },
-		{ player: new YT.Player('season3Player') },
-		{ player: new YT.Player('season4Player') },
-	];
+	const videos = [];
+	const iframes = document.querySelectorAll('iframe');
+	
+	for (let iframe of iframes) {
+		videos.push({ player: new YT.Player(iframe.id), offset: parseFloat(iframe.dataset.offset || 0) });
+	}
 	
 	videos.SKIPTIME = 5;
 	
