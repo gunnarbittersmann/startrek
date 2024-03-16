@@ -26,6 +26,18 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"review": {
+				"@type": "Review",
+				"name": "Ups & Downs",
+				"creator": {
+					"@type": "Organization",
+					"name": "TrekCulture"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
+				}
+			},
 			"numberOfEpisodes": 5,
 			"episode": [
 				{
@@ -44,6 +56,17 @@
 					},
 					"abstract": {
 						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xDo26BbKtrE"
+						}
 					}
 				},
 				{
@@ -62,6 +85,17 @@
 					},
 					"abstract": {
 						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/f385MNWYCOE"
+						}
 					}
 				},
 				{
@@ -80,6 +114,17 @@
 					},
 					"abstract": {
 						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6I5I1WAvmuw"
+						}
 					}
 				},
 				{
@@ -98,6 +143,17 @@
 					},
 					"abstract": {
 						"en": "Various interconnected holodecks simulations."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3qvhb4Ceew0"
+						}
 					}
 				},
 				{
@@ -110,25 +166,38 @@
 						"@type": "Person",
 						"name": "Aaron Hawkins"
 					},
-					"abstract": {
-						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
-					},
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3sHSDkxivvo"
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"abstract": {
+						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+  							"@type": "Person",
+  							"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/S7_6gonqiIA"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+  							"@type": "Organization",
+  							"name": "TrekCulture"
+  						},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
+							}
 						}
-					}
+					]
 				}
 			]
 		}

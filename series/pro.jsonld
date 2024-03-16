@@ -31,6 +31,17 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
+				}
+			},
 			"numberOfEpisodes": 20,
 			"subjectOf": [
 				{

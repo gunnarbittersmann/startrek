@@ -246,16 +246,33 @@ EOT;
                     <?php else: ?>
                       <td></td>
                     <?php endif; ?>
+                    <?php if ($data['identifier'] == 'VST'): ?>
+                      <?php if ($episode['video']): ?>
+                        <td>
+                          <details lang="en" property="video" typeof="VideoObject">
+                            <summary>Video</summary>
+                            <meta
+                              property="embedUrl"
+                              content="<?= htmlSpecialChars($episode['video']['embedUrl']) ?>"
+                            />
+                            <iframe allowfullscreen="" aria-label="video"></iframe>
+                          </details>
+                        </td>
+                      <?php else: ?>
+                        <td></td>
+                      <?php endif; ?>
+                    <?php endif; ?>
                     <?php if ($episode['review']): ?>
                       <?php if ($episode['review']['video']): ?>
                         <td property="review" typeof="Review">
                           <details lang="en" property="video" typeof="VideoObject">
                             <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                               <?php if ($episode['review']['name']): ?>
-                                <?= htmlSpecialChars($episode['review']['name']) ?>
-                              <?php endif; ?>
-                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
+                                <span property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
+                              <?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+                                <span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
+                                  <span property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
+                                </span>
                               <?php endif; ?>
                             </summary>
                             <meta
@@ -272,13 +289,16 @@ EOT;
                           <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
 	                          <details lang="en" property="video" typeof="VideoObject">
 	                            <summary>
-	                              <?php if ($episode['review']['name']): ?>
-	                                <?= htmlSpecialChars($episode['review']['name']) ?>
+	                              <?php if ($season['review']['name']): ?>
+	                                <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
+	                                from
+	                              <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
+	                                <span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
+  	                                <span property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
+	                                </span>
+	                                on
 	                              <?php endif; ?>
-	                              <?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
-	                                (<?= htmlSpecialChars($episode['review']['creator']['name']) ?>)
-	                              <?php endif; ?>
-	                              from season <?= htmlSpecialChars($season['seasonNumber']) ?>
+	                              season <?= htmlSpecialChars($season['seasonNumber']) ?>
 	                            </summary>
 	                            <meta
 	                              property="embedUrl"
@@ -286,7 +306,7 @@ EOT;
 	                            />
 	                            <iframe
 	                              allowfullscreen=""
-	                              aria-label="<?= htmlSpecialChars($episode['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+	                              aria-label="<?= htmlSpecialChars($season['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 	                            >
 	                            </iframe>
 	                          </details>
@@ -299,7 +319,13 @@ EOT;
                               <li property="review" typeof="Review">
                                 <details lang="en" property="video" typeof="VideoObject">
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-                                    <?= htmlSpecialChars($review['name']) ?>
+                                    <?php if ($review['name']): ?>
+                                      <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+                                    <?php elseif ($review['creator'] && $review['creator']['name']): ?>
+                                      <span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+                                        <span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+                                      </span>
+                                    <?php endif; ?>
                                   </summary>
                                   <meta
                                     property="embedUrl"
