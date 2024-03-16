@@ -65,7 +65,19 @@
 					"abstract": {
 						"de": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte"
+					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
+					"review":	{
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Tyl8L9JGhhc"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",

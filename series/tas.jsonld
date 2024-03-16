@@ -74,6 +74,18 @@
 					],
 					"abstract": {
 						"en": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/swwLuj5vLbI"
+						}
 					}
 				},
 				{

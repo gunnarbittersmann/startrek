@@ -61,6 +61,18 @@
 					},
 					"description": {
 						"de": "Das Föderationsraumschiff USS Voyager ist in den Badlands, im Grenzbereich zwischen der Föderation und der Cardassianischen Union, auf der Suche nach einem Raumschiff der Widerstandsgruppe Maquis. Hier werden beide Raumschiffe von einem Wesen, welches sich selbst als der Fürsorger bezeichnet, in nur wenigen Sekunden in den 70.000 Lichtjahre entfernten Delta-Quadranten entführt. Beide Crews werden dort auf dessen Phalanx teleportiert und nach medizinischen Untersuchungen wieder auf ihre Raumschiffe gebracht. Der Fürsorger hat allerdings keine Zeit, sie auch wieder in den Alpha-Quadranten zu bringen, denn er liegt im Sterben und versucht mit letzter Kraft das Volk der Ocampa mit der für deren Überleben unter der Planetenoberfläche notwendigen Energie zu versorgen. Das Wesen will verhindern, dass nach seinem Tod die Phalanx in die Hände der Völker im Delta-Quadranten fällt, und versucht deren Selbstzerstörung. Als diese aufgrund von technischen Problemen nicht gelingt, beschließen Janeway und Chakotay, der Kommandeur des Maquis-Schiffs, die Phalanx zu zerstören, um so den Ocampa weiter den Schutz vor ihren Feinden zu garantieren. Weil es nötig war, das Raumschiff der Maquis zu opfern, beschließen Janeway und Chakotay an Bord der Voyager eine gemeinsame Crew zu führen und machen sich nun gemeinsam auf den Rückweg in den Alpha-Quadranten. Janeway bleibt Captain und Chakotay wird ihr erster Offizier. Der Talaxianer Neelix und seine Ocampa-Freundin Kes, die der Besatzung im fremden Gebiet hilfreich zu Seite standen, bitten die Voyager auf ihrer Reise begleiten zu dürfen; Neelix bietet seine Dienste als Schiffskoch an. Tom Paris, der eigentlich kein Sternenflottenmitglied ist, wird Pilot der Voyager."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cncBOdUDGeg"
+						}
 					}
 				},
 				{
