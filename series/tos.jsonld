@@ -810,6 +810,17 @@
 					"description": {
 						"en": "When Mr. Spock begins behaving aggressively, Kirk discovers his first officer must return home to Vulcan to be married or die. Kirk disobeys his orders from Starfleet Command to visit Altair 6 and decides to save Spock. Spock, Kirk, and McCoy land on Vulcan where Spock takes them to his family land to begin pon farr. They meet T’Pau and T’Pring only to find that T’Pring wants a duel and chooses Kirk as a challenger. Kirk accepts the challenge thinking to let Spock win but is later told by T’Pau that it is a challenge to the death. During the fight, McCoy gives Kirk a neuro-tranquilizer to fake his death. Upon victory, Spock asks T’Pring to explain her decision and decides not to marry her. After beaming back to the Enterprise, Spock is overjoyed to see Kirk alive.",
 						"de": "Spock verhält sich merkwürdig und emotional, ohne den ihm bekannten Grund dafür preiszugeben, und ersucht deshalb bei Kirk um Urlaub auf seinem Heimatplaneten Vulkan. Kirk kann ihm den Urlaub zunächst nicht gewähren, da die Enterprise einen wichtigen diplomatischen Termin auf Altea VI wahrnehmen muss. Erst als McCoy erkennt, dass Spocks Verhalten tödlich enden könne, genehmigt Kirk den Flug nach Vulkan. Spock vertraut Kirk nun an, dass er sich im Pon Farr befindet, der vulkanischen Brunft. Obwohl das Sternenflottenkommando darauf besteht, dass die Enterprise zunächst nach Altea VI fliegt, lässt Kirk nach Vulkan Kurs setzen. Dort in Begleitung von Kirk und McCoy angekommen, wird Spock von seiner ihm schon vor Jahren versprochenen Frau T’Pring erwartet. Um T’Pring endgültig für sich zu gewinnen, muss Spock sich im Rahmen vulkanischer Tradition noch duellieren. T’Pring erwählt Kirk als seinen Gegner. Das auf Leben und Tod geführte Duell in einer Arena gewinnt Spock. Danach gibt T’Pring zu, dass sie nur deshalb Kirk als Spocks Gegner gewählt hat, um damit den ursprünglich dafür vorgesehenen Vulkanier Spong zu verschonen, in den sie in Wirklichkeit verliebt ist. Kirk indes ist nicht wirklich gestorben, sondern hat mit Hilfe einer Injektion McCoys überlebt. Nach dem Kampf ist Spocks Pon Farr beendet."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/I93Xzg8JpRA"
+						}
 					}
 				},
 				{

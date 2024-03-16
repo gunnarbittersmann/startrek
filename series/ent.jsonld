@@ -196,6 +196,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise untersucht einen über 80 km durchmessenden Kometen, um dort ein seltenes Mineral zu gewinnen. Alsbald nähert sich ein vulkanisches Raumschiff, dessen Captain, der die Menschen unter anderem als arrogant einschätzt, die Bemühungen der Enterprise überwacht. Reed und Mayweather untersuchen die vereiste Kometenoberfläche. Zugleich erlangt Tucker Kenntnis von T’Pols Problemen, ihre geplante arrangierte Ehe betreffend. Er versteht, dass sie lieber nicht heiraten würde, und berät sie entsprechend, aber sie fühlt sich verpflichtet, den vulkanischen Traditionen zu folgen. Nach der Sprengung eines Lochs in die Kometenoberfläche verletzt sich Mayweather am Bein. Dadurch schaffen es die beiden erst spät, auf dem unter der aufgehenden Sonne bröckelnden Eis ihre Fähre zu erreichen. Mit dieser stürzen sie beim Abheben in ein tiefes Loch. Da es Archer mit der Enterprise nicht schafft, die beiden zu retten, nimmt er die Hilfe der Vulkanier an, die Fähre mit dem Traktorstrahl von deren Schiff zu retten. Dies widerstrebte ihm zunächst wegen seines Misstrauens gegenüber den Vulkaniern. T’Pol nimmt Tuckers Ratschlag an und weigert sich zu heiraten."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/rohEUL2qWtE"
+						}
 					}
 				},
 				{

@@ -2942,6 +2942,17 @@
 						"@type": "Webpage",
 						"inLanguage": "en",
 						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xWCmjGZbFmE"
+						}
 					}
 				},
 				{

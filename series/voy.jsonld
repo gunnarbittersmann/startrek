@@ -933,6 +933,17 @@
 					},
 					"abstract": {
 						"en": "The crew finds aliens mentally connected to a computer that has created a being that feeds on their fear."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Zv8dFRdZQPU"
+						}
 					}
 				},
 				{
