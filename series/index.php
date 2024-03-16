@@ -246,6 +246,22 @@ EOT;
                     <?php else: ?>
                       <td></td>
                     <?php endif; ?>
+                    <?php if ($data['identifier'] == 'VST'): ?>
+                      <?php if ($episode['video']): ?>
+                        <td>
+                          <details lang="en" property="video" typeof="VideoObject">
+                            <summary>video</summary>
+                            <meta
+                              property="embedUrl"
+                              content="<?= htmlSpecialChars($episode['video']['embedUrl']) ?>"
+                            />
+                            <iframe allowfullscreen="" aria-label="video"></iframe>
+                          </details>
+                        </td>
+                      <?php else: ?>
+                        <td></td>
+                      <?php endif; ?>
+                    <?php endif; ?>
                     <?php if ($episode['review']): ?>
                       <?php if ($episode['review']['video']): ?>
                         <td property="review" typeof="Review">
