@@ -93,7 +93,6 @@ function onYouTubeIframeAPIReady() {
 	document.querySelector('#start-pause').addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
 			default:
-				document.querySelector('figure').scrollIntoView();
 				videos.mute();
 				videos.seekTo(0);
 				// fall thru
