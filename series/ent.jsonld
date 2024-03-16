@@ -367,6 +367,17 @@
 					},
 					"description": {
 						"de": "Beim Andocken eines tessianischen Raumschiffes an die Enterprise kommt es zu einem Unfall, bei dem beide Schiffe miteinander kollidieren. Die zuvor zwecks Vermessungsarbeiten mit einer Raumfähre aufgebrochenen Reed und Tucker wollen wegen defekter Sensoren vorzeitig zum Treffpunkt mit der Enterprise zurückkehren und entdecken dabei Raumschifftrümmer, die sie glauben lassen, die Enterprise sei zerstört und ihre Besatzung tot. Sie schlagen deshalb mit der Fähre, die über keinen funktionierenden Warp-Antrieb verfügt, einen Kurs ein, auf dem sie sich Rettung erhoffen. Dabei bereitet sich Reed, sehr zu Tuckers Unmut, mit Abschiedsbriefen auf seinen baldigen Tod vor. Trotzdem werden die beiden Freunde. Als sie zu erfrieren und zu ersticken drohen, sprengen sie den Antrieb von der Fähre ab, um mit der Explosion auf sich aufmerksam zu machen. Dadurch werden sie schließlich von der Enterprise gerettet."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/AKbt6ZiB6QQ"
+						}
 					}
 				},
 				{

@@ -1126,6 +1126,17 @@
 					},
 					"abstract": {
 						"de": "Auf der Station wird versehentlich ein altes cardassianisches Computerprogramm aktiviert, das noch davon ausgeht, die Station stünde unter cardassianischer Herrschaft und es müsse – etwa durch den Einsatz von Nervengas – ein gerade stattfindender Aufstand bajoranischer Zwangsarbeiter beendet werden. Unterstützt von Garak und Dukat gelingt es der Mannschaft aber letztlich, die Selbstzerstörung der Station zu verhindern und die Ausführung des Programms zu beenden."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/GnlBktSG9Fs"
+						}
 					}
 				},
 				{
@@ -2587,6 +2598,17 @@
 					},
 					"abstract": {
 						"de": "Um seinem Vater eine alte Baseballkarte zu beschaffen, erledigt Jake zusammen mit Nog einige Anschaffungen für den Karteneigentümer und wird dabei auch mit dem Dominion konfrontiert."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-lTIuO8zdVU"
+						}
 					}
 				},
 				{

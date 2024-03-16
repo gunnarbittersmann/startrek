@@ -656,6 +656,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise wird im All von einer inhalts- und dimensionslosen Lebensform gefangen genommen. Diese gibt ihren Namen als Nagilum zu erkennen und möchte die Reaktionen der Menschen auf den Tod studieren. Als Nagilum ankündigt, über ein Drittel der Enterprise-Crew zu Studienzwecken zu töten, lassen Picard und Riker die Selbstzerstörungssequenz des Schiffes beginnen. Diese brechen sie jedoch wieder ab, als Nagilum übermittelt, genügend gelernt zu haben."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VZYCnS_tGQ0"
+						}
 					}
 				},
 				{
@@ -1766,6 +1777,17 @@
 					},
 					"description": {
 						"de": "Nachdem Dr. Crusher einen alten Freund, ihren Mentor Dr. Quaice, an Bord begrüßt hat, unterläuft Wesley in ihrem Beisein bei einem Experiment mit dem Warp-Antrieb ein Malheur. In der Folge dieses Vorfalls bemerkt Dr. Crusher nacheinander das unerklärliche Verschwinden von Quaice und Besatzungsmitgliedern. Als Ursache dafür stellt sich heraus, dass Dr. Crusher bei dem Unfall in ein Paralleluniversum versetzt wurde. Data, La Forge und der Reisende, der Wesley zu Hilfe gekommen ist, versuchen daraufhin fieberhaft, Dr. Crusher zurückzuholen, die die Versuche aber als Bedrohung wahrnimmt. Als das Paralleluniversum zu kollabieren beginnt und sie zu töten droht, bemerkt Dr. Crusher, dass ihr Gedanke zum Zeitpunkt ihres Verschwindens aus dem realen Universum verantwortlich für ihre Lage ist. Kurz vor dem Zusammenbruch der fremden Welt gelingt Dr. Crusher aber die Rückkehr."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/JvAruLYJmVU"
+						}
 					}
 				},
 				{

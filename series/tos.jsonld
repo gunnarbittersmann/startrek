@@ -194,6 +194,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise trifft bei einem Planeten ein, der bald auseinanderbrechen wird, und will dort sechs Wissenschaftler abholen. Das Außenteam findet die Wissenschaftler alle erfroren vor. Joe, ein Mitglied des Außenteams, schleppt von dem Planeten unbewusst eine durch Körperkontakt übertragene Seuche mit auf die Enterprise ein. An der Seuche leiden bald auch andere Crew-Mitglieder. Daran erkrankt, bringen sie auch lange unterdrückte Sehnsüchte zum Ausdruck. Zu den Symptomen gehört auch unvorhersehbares, vergnügungssüchtiges Verhalten, ähnlich wie beim Betrunkensein. Auch das Crewmitglied Riley erkrankt daran. Er verschanzt sich allein im Maschinenraum und blockiert die Kontrolle über den Antrieb. Indes ändert sich die Gravitation des Planeten, sodass die Enterprise in einen spiralförmigen Sturzflug gerissen wird und wegen der fehlenden Steuerkontrolle in 20 Minuten abzustürzen droht. Als Scotty den Maschinenraum wieder unter seiner Kontrolle hat, kann er den Antrieb nicht schnell genug neu starten. Deshalb lassen Kirk und Spock eine hochgefährliche, unerprobte Implosion im Antrieb einleiten, bei der Zeit und Antimaterie reagieren. Diese ist erfolgreich, sodass der Sturzflug abgebrochen werden kann, und bewirkt, dass sich die Enterprise 70 Stunden rückwärts durch Zeit und Raum bewegt. McCoy konnte ein Antiserum entwickeln und die infizierten Crewmitglieder heilen."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/GxBei1YazEs"
+						}
 					}
 				},
 				{
