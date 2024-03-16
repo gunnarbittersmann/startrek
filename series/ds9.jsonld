@@ -1841,6 +1841,17 @@
 					},
 					"abstract": {
 						"de": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3WmgCm82xP4"
+						}
 					}
 				},
 				{

@@ -495,6 +495,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise nimmt zwei Ornaraner und zwei Brekkarianer mitsamt einer Fracht an Bord, bei der es sich um eine von den Ornaranern als lebenswichtig empfundene Droge handelt. Die Brekkarianer fordern die Herausgabe der Fracht, weil sie nicht bezahlt wurde. Es stellt sich heraus, dass die Droge nur auf dem Planeten der Brekkarianer gedeiht, welche sie zur Aufrechterhaltung der Abhängigkeit der Ornaraner zum Verkauf anbietet."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/yWeIp5KqzrM"
+						}
 					}
 				},
 				{
@@ -2938,6 +2949,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise trifft bei einer Raumstation ein, um die neuartige Bergbautechnologie namens Partikelquelle für den Einsatz in der Föderation zu begutachten. Zur Behebung einer Fehlfunktion an der Partikelquelle setzt die Stationsingenieurin Dr. Farallon einen der von ihr erfundenen und neu entwickelten Exocomps ein, bei denen es sich um kleine, als Werkzeuge nutzbare und zum Lernen fähige Roboter handelt. Data schlussfolgert aus dem Verhalten des Exocomps bei dem Einsatz, dass die Exocomps einen Selbsterhaltungstrieb besitzen, und entwickelt die Hypothese, dass es sich bei ihnen um Lebewesen handelt. Weil sie deshalb schützenswert sind, verbietet er Dr. Farallon, sie zum Arbeiten einzusetzen. Dr. Farallon ist aber dagegen und betrachtet die Exocomps nur als Werkzeuge. Um Datas Hypothese zu prüfen, lässt ihn Picard weitere, ähnliche Experimente durchführen, die zunächst scheitern. Nach über 30 erfolglosen Versuchen auf der Enterprise sieht Data seine Hypothese bestätigt. Picard und La Forge werden bei einem weiteren Unfall auf der Station, der sie zu verstrahlen droht, zusammen mit einem Techniker auf der Station eingeschlossen. Indem er die Enterprise-Transporter sperrt, widersetzt sich Data Rikers Befehl, die Exocomps zur Beseitigung des Strahlungslecks in den Stationskern beamen und dort explodieren zu lassen. Nach einem Streitgespräch mit Data einigt man sich auf Rikers Vorschlag, die Exocomps selbst entscheiden zu lassen, ob sie sich in diese Situation begeben wollen. Die drei Roboter machen dabei allerdings einen eigenen Vorschlag, durch den die Eingeschlossenen gerettet werden, ohne dass dabei alle Exocomps vernichtet werden."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/evPcOci7TqM"
+						}
 					}
 				},
 				{

@@ -1901,6 +1901,17 @@
 					},
 					"description": {
 						"de": "Eine Pflanzenseuche bedroht den Planeten Merak II. Die Enterprise wird zum Planeten Ardana geschickt, um von dort Zenit zu beschaffen, das das Pflanzensterben aufhalten kann. Captain Kirk und Mr. Spock wollen die Lieferung auf der Planetenoberfläche übernehmen. Stattdessen werden sie von rebellischen Minenarbeiter, den Troglyten, angegriffen. Ein Eingreifen des Hohen Rats des Planeten Plasus mit seinen Sicherheitskräften beendet die Attacke. Kirk und Spock werden in die fliegende Wolkenstadt Stratos gebracht, um dort die Angelegenheit mit der herrschenden Klasse zu besprechen. Spock unterhält sich mit Droxine, der Tochter von Plasus. Kirk wird in seinem Zimmer von einer Dienerin angegriffen. Es handelt sich um Vanna, die Anführerin der Troglyten. Plasus behauptet, dass die Troglyten weniger intelligent sind als die Bewohner der Wolkenstadt. Dr. McCoy findet heraus, dass Rohzenit beim Abbau ein schädliches Gas freisetzt, das die Troglyten dadurch geschädigt werden. Atemfilter könnten diesen Effekt verhindern. Kirk sucht die gefangene Vanna auf und bietet ihr diese Filter an. Sie geht zum Schein darauf ein und entführt Kirk in die Zenit-Stollen. Plasus wird auf Befehl von Kirk von der Enterprise in den zuvor von Kirk blockierten Stollen gebeamt. Die beiden Männer werden durch das Zenitgas aggressiv und kämpfen miteinander. Als Vanna die Wirkung des Gases erkennt, kontaktiert sie die Enterprise. Alle werden dorthin gebeamt. Dort wird eine Übereinkunft erzielt, mit Hilfe der Filter die Aufteilung in zwei Kasten von Planeten- und Bewohnern der Himmelsstadt aufzuheben. Die Enterprise erhält das Zenit und kann es nach Merak II bringen."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/rEy8hYgMeT4"
+						}
 					}
 				},
 				{

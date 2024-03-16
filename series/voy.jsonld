@@ -3833,6 +3833,17 @@
 					},
 					"description": {
 						"de": "Chakotay versucht das Vertrauen von Janeway zu gewinnen, die jedoch am Ende skeptisch bleibt, als er seine Geschichte erzählt, und ihn schließlich doch den Behörden ausliefert, die nach ihm suchen. In der Zwischenzeit schöpft ein junger Arzt Verdacht, warum so viele Arbeiter, die alle zum gleichen Zeitpunkt auf dem Planeten eingetroffen sind, unter der seltenen neurologischen Erkrankung namens Dysphoria-Syndrom leiden. Gemeinsam mit einem Mitarbeiter der Strafverfolgung und Annika Hansen (eigentlich Seven of Nine) untersuchen sie den Fall heimlich genauer und decken eine Verschwörung auf, an deren Spitze der leitende Arzt steht, der entführte Mitglieder von Schiffscrews mit Drogen behandelt und damit ihr Erinnerungsvermögen manipuliert, damit sie als Arbeiter auf dem Planeten eingesetzt werden können, der unter Arbeitskräftemangel leidet. Es gelingt, den gefangen gehaltenen Chakotay vor einer massiven neurologischen Behandlung zu retten und die Behörden des Planeten zu informieren. Die Crew kann auf die Voyager zurückkehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/u7EZgxDEFSY"
+						}
 					}
 				},
 				{
@@ -3902,6 +3913,17 @@
 					},
 					"description": {
 						"de": "Der Doktor hat einen Roman geschrieben, den „Leser“ aus der Perspektive der Hauptperson im Holodeck erleben können. Wie sich herausstellt, ist der Roman eine nur schwach abgeänderte Erzählung der Erlebnisse des Doktors auf der Voyager, wobei die Mitglieder der Crew recht negativ dargestellt werden. Als der Doktor überzeugt wird, seinen Roman wieder zurückzuziehen, weigert sich der Literaturagent, der den Roman dem Doktor abgenommen hat, dies zu tun. Er argumentiert, dass der Doktor keine Person sei und damit auch keine Rechte als Autor hätte. In einer Live-Konferenz zwischen der Voyager und dem Sternenflottenkommando wird der Fall des Doktors ausgehandelt: Der Richter befindet, dass er noch nicht ein Grundsatzurteil über die Rechte von Hologrammen fällen könne, und er stuft den Doktor zwar nicht als Person ein, aber als Autor, womit der Doktor den Roman zurückziehen könne."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-uP0xB9PnXA"
+						}
 					}
 				},
 				{
