@@ -1226,6 +1226,17 @@
 					},
 					"abstract": {
 						"de": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+						}
 					}
 				},
 				{

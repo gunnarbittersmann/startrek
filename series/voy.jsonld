@@ -1241,6 +1241,17 @@
 					},
 					"description": {
 						"de": "Auf Bitten von Tuvok und Paris lotst Robinson Starling zu ihr. Es ist geplant, ihn in ein Shuttle zu beamen, das von Chakotay und Torres geflogen wird. Starling gibt dem Doktor einen mobilen Emitter und nimmt ihn mit. Nach einem kurzen Kampf gelingt es, Starling ins Shuttle und weiter auf die Voyager zu beamen, aber das Shuttle wird beschädigt und stürzt in Arizona ab, wo Chakotay und Torres von Miliz-Angehörigen gefangen genommen werden. Der Doktor und Tuvok befreien sie. Starling flieht mit Dunbars Hilfe von der Voyager. Dunbar verlässt die Firma mit einem Lastwagen, verfolgt von Robinson und Paris, die annehmen, dass er Braxtons Schiff wegbringt. Als Chakotay und die anderen Dunbar stoppen, stellt sich heraus, dass das Zeitschiff nicht im Lastwagen war. Starling will damit ins 29. Jahrhundert reisen. Nach einem vergeblichen Versuch, ihn umzustimmen, zerstört Janeway das Schiff mit einem Torpedo. Braxton kommt aus einer Raumspalte und schickt die Voyager zurück ins 24. Jahrhundert ‒ und in den Delta-Quadranten."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bLDscT-MM0k"
+						}
 					}
 				},
 				{
