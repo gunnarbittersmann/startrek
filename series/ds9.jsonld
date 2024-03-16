@@ -1155,6 +1155,17 @@
 					},
 					"abstract": {
 						"de": "Thomas Riker, ein Mitglied des Maquis, entführt die Defiant, um damit eine geheime Schiffswerft des cardassianischen Geheimdienstes aufzuspüren. Kira und Sisko schaffen es aber, Rikers Plan zu durchkreuzen und ihn zu verhaften."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/fsPF605ftlA"
+						}
 					}
 				},
 				{

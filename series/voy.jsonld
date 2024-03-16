@@ -1072,6 +1072,17 @@
 					},
 					"description": {
 						"de": "Tuvok hat traumatische Flashbacks von einem kleinen Mädchen, das er scheinbar in seiner Kindheit nicht vor dem Sturz in einen Abgrund retten konnte. Er kennt das Mädchen aber nicht. Der Doktor schließt auf eine unterdrückte Erinnerung. Diese nicht zu integrieren, kann für Vulkanier lebensgefährlich sein. Als Therapie geht Captain Janeway unter ärztlicher Aufsicht eine Geistesverschmelzung mit Tuvok ein und begleitet ihn mental in seine Vergangenheit. Sie sehen aber nicht seine Kindheit, sondern seine Zeit auf der USS Excelsior unter Captain Sulu, als die Verhandlungen zum ersten Friedensvertrag zwischen der Föderation und dem Klingonischen Reich bevorstanden. Sulu versuchte damals, Captain Kirk und Dr. McCoy zu befreien, die auf der klingonischen Heimatwelt Qo’noS vor Gericht standen. Bei einer Schlacht mit klingonischen Schiffen wurde ein Fähnrich tödlich verletzt. Als Tuvok versuchte, ihm zu helfen, sprang ein Virus auf ihn über, das sich als traumatische Erinnerung tarnte, die sofort unterdrückt wurde. Der Doktor erkennt dies und heilt Tuvok."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/q2PWMyrC-EE"
+						}
 					}
 				},
 				{
