@@ -348,6 +348,17 @@
 					],
 					"abstract": {
 						"en": "While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu’s life, but kidnap Mr. Spock."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/HeNjCstn89Q"
+						}
 					}
 				},
 				{
