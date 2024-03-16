@@ -916,7 +916,18 @@
 					"abstract": {
 						"de": "Damit sich die Enterprise-Crew auf kommende Gefahren vorbereitet, versetzt Q das Schiff gegen Picards Willen an einen weit entfernten Teil des Alls, wo es mit den feindlichen Borg konfrontiert wird."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q"
+					"sameAs": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q",
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YMxHIDpzZGI"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -1618,18 +1629,31 @@
 						"de": "Auf ihrem Flug zur Erde schlagen die Borg eine Flotte aus Sternenflottenraumschiffen vernichtend. Der Enterprise-Crew gelingt es aber in letzter Sekunde, die Borg von der Assimilation der Erde abzuhalten. Dabei kann sie auch Picard zurückholen."
 					},
 					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg",
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1WBbAfLLM7E"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2621,6 +2645,17 @@
 					},
 					"description": {
 						"de": "Auf einem Mond findet die Enterprise-Crew einen verletzten, bewusstlosen Borg neben seinem abgestürzten Raumschiff. Als Dr. Crusher darauf besteht, seine Verletzungen zu behandeln, lässt Picard es trotz erheblicher Sicherheitsbedenken zu, ihn auf die Enterprise in eine Arrestzelle zu beamen, aus der heraus er nicht mit seinem Kollektiv kommunizieren kann. Um das Überleben der Föderation zu sichern, beauftragt Picard daraufhin Data und La Forge, dem Borg ein Schadprogramm einzusetzen, mit dem nach dessen Rückkehr das gesamte Borg-Kollektiv zerstört würde; damit trifft Picard bei Dr. Crusher aber auf starke Ablehnung. Während Crusher und La Forge einige Tests an dem mittlerweile wieder zu Bewusstsein gekommenen und von La Forge mit Energie versorgten Borg vornehmen, vergeben sie ihm den Namen Hugh. Dabei freundet sich La Forge mit Hugh an. Weil Guinans Volk einst durch die Borg stark dezimiert wurde, hat Guinan zunächst kein Verständnis für La Forges Zweifel an Picards Befehl, Hugh als Instrument für die Vernichtung von dessen Rasse zu verwenden. Dennoch überzeugt Guinan Picard davon, vor der Durchführung des Befehls mit Hugh zu sprechen, weil sie sich unsicher ist, ob Hugh noch ein Borg ist. Daraufhin gibt sich Picard in einem persönlichen Gespräch mit Hugh als Locutus aus, um zu überprüfen, ob Hugh sich noch als Teil des Kollektivs oder als Individuum wahrnimmt. Tatsächlich zeigt sich, dass Hugh in sich ein Individuum sieht, weil er es ablehnt, die Enterprise zu assimilieren und dabei seinen Freund La Forge zu töten. Picard gelangt so zu der Überzeugung, das Schadprogramm nicht gegen die Borg einzusetzen, und äußert den offen bleibenden Vorschlag, Hughs Individualitätsbewusstsein an dessen Kollektiv zu übertragen. Daraufhin setzt die Crew Hugh an der Absturzstelle aus, wo er alsbald wieder von seinen Artgenossen aufgegriffen wird, ohne dass diese eine Bedrohung für die Enterprise darstellen."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/c75cdwG9Nyk"
+						}
 					}
 				},
 				{

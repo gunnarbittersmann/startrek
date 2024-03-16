@@ -1662,6 +1662,17 @@
 					},
 					"description": {
 						"de": "Der Doktor heilt Kim mit den modifizierten Borg-Nanosonden. Janeway und Tuvok arbeiten auf dem Borg-Würfel gemeinsam mit den Borg an der Waffe gegen Spezies 8472. Die Borg bestimmen eine Repräsentantin namens Seven of Nine, einen ehemaligen Menschen. Als Spezies 8472 wieder angreift, opfert sich der Borg-Würfel, um die Voyager mit den modifizierten Nanosonden an Bord zu retten. Janeway, Tuvok und einige Borg, darunter Seven of Nine, werden vorher auf die Voyager gebeamt, nach Frachtraum 2, den die Borg assimilieren. Janeway ist verletzt und dienstuntauglich; sie befiehlt Chakotay, die Allianz fortzusetzen. Seven fordert, dass die Voyager zum nächsten Borg-Schiff fliegt, um die Waffe dort weiterzuentwickeln, aber Chakotay will keinen Umweg machen und beendet die Allianz. Nach einem erneuten Angriff durch Spezies 8472 erzeugen die Borg eine Quantensingularität in einen fluiden Raum, wo Spezies 8472 lebt. Chakotay setzt Frachtraum 2 einem Unterdruck aus, der die Borg bis auf Seven of Nine ins All saugt, aber die Voyager wird in den fluiden Raum gezogen. Janeway übernimmt wieder das Kommando und setzt die Allianz mit den Borg fort. Spezies 8472 wird mit der entwickelten Waffe besiegt; die Voyager kehrt in den normalen Raum zurück. Laut Seven of Nine fliegen alle verbliebenen Bio-Schiffe zurück in den fluiden Raum. Sie versucht die Voyager zu assimilieren. Chakotay setzt sie mit Hilfe von Torres und dem Doktor mit einem Neuro-Transmitter außer Gefecht und trennt ihre Verbindung mit dem Kollektiv. Janeway entscheidet, Seven of Nine nach der Durchquerung des Borg-Raums an Bord zu behalten und, falls möglich, in die Besatzung zu integrieren."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/soVHpjNZG9c"
+						}
 					}
 				},
 				{
@@ -3432,6 +3443,17 @@
 					},
 					"description": {
 						"de": "Janeway, Tuvok und Torres versuchen, als Borg-Drohnen dem Widerstand in Unimatrix Zero zu helfen. Sie können zunächst unabhängig vom Borg-Kollektiv handeln, weil der Doktor sie mit einem neuralen Inhibitor geimpft hat, um die Assimilation ins Kollektiv zu blockieren. Bei Tuvok lässt jedoch der Schutz nach, und die drei werden gefangen genommen. Die Borg-Königin verlangt von Janeway, dass sie die Rebellen unter den Borg auffordert, sich wieder in das Kollektiv assimilieren zu lassen, ansonsten würde sie ein von den Borg modifiziertes Nanovirus in Unimatrix Zero aussetzen, was jede Drohne in Unimatrix Zero töten würde. Janeway informiert die Voyager, dass Unimatrix Zero nicht weiter existieren kann. Chakotay zerstört Unimatrix Zero, was für Seven bedeutet, dass sie sich von ihrem Liebhaber verabschieden muss, denn seine Drohne ist auf einem Schiff im Beta-Quadranten. Der Voyager gelingt es, Janeway, Tuvok und Torres vom Borg-Schiff zu retten. Unerwartete Hilfe erhält die Voyager von einer Borg-Sphäre, auf der Borg-Drohnen, die sich vom Kollektiv gelöst haben, das Kommando übernommen haben."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/NvUrEe74SIo"
+						}
 					}
 				},
 				{
