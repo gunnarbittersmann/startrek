@@ -63,7 +63,7 @@ body:not(.scrolled) {
 }
 
 :focus-visible {
-	outline: thin solid;
+	outline: thin solid var(--text-color);
 	outline-offset: 0.25em;
 }
 
