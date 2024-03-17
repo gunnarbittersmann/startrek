@@ -52,11 +52,11 @@ function onYouTubeIframeAPIReady() {
 				videos.mute();
 				videos.seekTo(0);
 				// fall thru
-			case 2: // paused
+			case YT.PlayerState.PAUSED:
 				videos.play();
 				break;
 
-			case 1: // playing
+			case YT.PlayerState.PLAYING:
 				videos.pause();
 		}
 	});
