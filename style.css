@@ -341,7 +341,6 @@ body:has(> .players) {
 	max-width: 100%;
 	max-height: calc(100vh - var(--header-height, 0) - 1em);
   display: grid;
-  grid-template-columns: repeat(var(--columns), 1fr);
 	gap: 0.5em;
   
   &:has(iframe:nth-of-type(2)) {
@@ -356,10 +355,14 @@ body:has(> .players) {
     --rows: 3;
   }
 
-	&:has(iframe:last-of-type:nth-of-type(even)) {
+  @media (width >= 36em) {
+    grid-template-columns: repeat(var(--columns), 1fr);
+    
+  	&:has(iframe:last-of-type:nth-of-type(even)) {
 		
-    > :first-child {
-    	grid-row: 1 / span var(--rows);
+      > :first-child {
+      	grid-row: 1 / span var(--rows);
+      }
     }
   }
   
