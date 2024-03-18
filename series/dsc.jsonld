@@ -202,7 +202,6 @@
   					},
 						{
   						"@type": "Review",
-  						"name": "Retro Review",
   						"creator": {
   							"@type": "Person",
   							"name": "Steve Shives"
@@ -504,7 +503,6 @@
 					"review": [
 						{
   						"@type": "Review",
-  						"name": "Retro Review",
   						"creator": {
   							"@type": "Person",
   							"name": "Steve Shives"
