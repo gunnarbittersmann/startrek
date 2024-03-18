@@ -46,8 +46,12 @@
 			],
 			"review": {
 				"@type": "Review",
-								"video": {
+				"video": {
 					"@type": "VideoObject",
+					"creator": {
+						"@type": "Person",
+						"name": "Jessie Gender"
+					},
 					"embedUrl": "https://www.youtube-nocookie.com/embed/wy3pLwAsGw4"
 				}
 			},
