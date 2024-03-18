@@ -438,7 +438,7 @@
 			],
 			"review": {
 				"@type": "Review",
-								"video": {
+					"video": {
 					"@type": "VideoObject",
 					"embedUrl": "https://www.youtube-nocookie.com/embed/WZR6Ia3Azh4"
 				}
