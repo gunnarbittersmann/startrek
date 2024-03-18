@@ -211,6 +211,13 @@
 								"@type": "Person",
 								"name": "Steve Shives"
 							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.5" }
+							],
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/alu4TwUKhdQ"
@@ -522,6 +529,18 @@
 								"@type": "Person",
 								"name": "Steve Shives"
 							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.8" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.10" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.12" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.13" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.14" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.15" }
+							],
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
@@ -708,6 +727,15 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.2" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.3" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.4" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.5" }
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.6" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.7" },
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/GfYp06R1-5E"
@@ -873,6 +901,14 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.8" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.9" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.10" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.12" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.13" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/LAR9Z1WX7ms"
