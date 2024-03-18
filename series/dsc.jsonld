@@ -189,28 +189,28 @@
 					},
 					"review": [
 						{
-  						"@type": "Review",
-  						"name": "Retro Review",
-  						"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-  						},
-  						"video": {
-  							"@type": "VideoObject",
-  							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
-  						}
-  					},
+							"@type": "Review",
+							"name": "Retro Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
+							}
+						},
 						{
-  						"@type": "Review",
-  						"creator": {
-  							"@type": "Person",
-  							"name": "Steve Shives"
-  						},
-  						"video": {
-  							"@type": "VideoObject",
-  							"embedUrl": "https://www.youtube-nocookie.com/embed/alu4TwUKhdQ"
-  						}
-  					}
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/alu4TwUKhdQ"
+							}
+						}
 					]
 				},
 				{
@@ -502,16 +502,16 @@
 					},
 					"review": [
 						{
-  						"@type": "Review",
-  						"creator": {
-  							"@type": "Person",
-  							"name": "Steve Shives"
-  						},
-  						"video": {
-  							"@type": "VideoObject",
-  							"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
-  						}
-  					}
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
+							}
+						}
 					]
 				}
 			]
