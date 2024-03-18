@@ -436,17 +436,30 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"name": "Jessie Gender"
+			"review": [
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/WZR6Ia3Azh4"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/WZR6Ia3Azh4"
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"name": "Steve Shives"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/9ISyCsIv9-o"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
