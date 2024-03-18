@@ -58,6 +58,17 @@
 					},
 					"description": {
 						"de": "Im Jahr 2369 endet die Okkupation der Cardassianer über die Bajoraner, auch als Folge andauernden bajoranischen Widerstands. Dabei ziehen sich die bisherigen Besatzer von der im Orbit von Bajor gelegenen Raumstation Deep Space Nine zurück, auf der sie zuvor unter Einsatz bajoranischer Zwangsarbeiter Erzaufbereitung betrieben. Um politische Stabilität in dieser Gegend des Universums zu sichern und den Bajoranern bei der Schaffung der Voraussetzungen für den Beitritt zur Föderation zu helfen, übernimmt die Vereinte Föderation der Planeten, unterstützt von Bajoranern, den Betrieb der Station. Das Kommando erhält der Sternenflottenoffizier Benjamin Sisko. Weil sich das untereinander zerstrittene bajoranische Volk von Sisko erhofft, die Bajoraner miteinander zu vereinigen, wird er von den „Propheten“, den Göttern der Bajoraner, dazu auserkoren, entsprechend einer lange währenden bajoranischen Prophezeiung als „Abgesandter“ den „Himmelstempel“ zu entdecken. Wenig später entdeckt Sisko mit Hilfe seiner Crew in der Nähe von Bajor ein künstliches, stabiles Wurmloch, das zeitsparendes Reisen in eine 70.000 Lichtjahre entfernte Gegend des bislang kaum erforschten Gamma-Quadranten ermöglicht. Um die eigenen Ansprüche an der Nutzung des Wurmlochs zu sichern und denen der Cardassianer zuvorzukommen, verlegen Föderation und Bajoraner die Station direkt vor den Eingang des Wurmlochs. Das Wurmloch beziehungsweise der Himmelstempel wird von Wesen bewohnt, die abseits räumlicher und zeitlicher Existenz leben und die die Bajoraner als die Propheten verehren. Gemäß dem bajoranischen Glauben bestimmen diese die Geschicke Bajors. Nachdem Sisko die Wesen im Wurmloch davon überzeugt hat, dass die Föderation keine bösen Absichten hat, gewähren sie allen Raumschiffen freies Geleit durch das Wurmloch."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/hbGdW1z-S3o"
+						}
 					}
 				},
 				{
@@ -158,6 +169,17 @@
 					},
 					"abstract": {
 						"de": "Bei einer Expedition in den Gamma-Quadranten stößt Dax auf Picards Freundin Vash. Nach der Rückkehr zur Station verliert DS9 zunehmend Energie, fliegt auf das Wurmloch zu und droht dabei zerstört zu werden. O’Brien entdeckt den allmächtigen Q auf der Station, der versucht Vash davon zu überzeugen wieder mit ihm durch den Weltraum zu reisen. O’Brien vermutet, dass er hinter den Problemen steckt."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/gEf6_tE3ZYk"
+						}
 					}
 				},
 				{
@@ -1104,6 +1126,17 @@
 					},
 					"abstract": {
 						"de": "Auf der Station wird versehentlich ein altes cardassianisches Computerprogramm aktiviert, das noch davon ausgeht, die Station stünde unter cardassianischer Herrschaft und es müsse – etwa durch den Einsatz von Nervengas – ein gerade stattfindender Aufstand bajoranischer Zwangsarbeiter beendet werden. Unterstützt von Garak und Dukat gelingt es der Mannschaft aber letztlich, die Selbstzerstörung der Station zu verhindern und die Ausführung des Programms zu beenden."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/GnlBktSG9Fs"
+						}
 					}
 				},
 				{
@@ -1144,6 +1177,17 @@
 					},
 					"abstract": {
 						"de": "Thomas Riker, ein Mitglied des Maquis, entführt die Defiant, um damit eine geheime Schiffswerft des cardassianischen Geheimdienstes aufzuspüren. Kira und Sisko schaffen es aber, Rikers Plan zu durchkreuzen und ihn zu verhaften."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/fsPF605ftlA"
+						}
 					}
 				},
 				{
@@ -1204,6 +1248,17 @@
 					},
 					"abstract": {
 						"de": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+						}
 					}
 				},
 				{
@@ -1537,6 +1592,17 @@
 					},
 					"abstract": {
 						"de": "Als sich auf der Defiant ein Unfall ereignet, gerät Captain Sisko in den Subraum, wo er durch die Zeit reist und auch seinem stark gealterten Sohn begegnet; dieser hilft ihm schließlich dabei, in seine Zeit zurückzukehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xWCmjGZbFmE"
+						}
 					}
 				},
 				{
@@ -1797,6 +1863,17 @@
 					},
 					"abstract": {
 						"de": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3WmgCm82xP4"
+						}
 					}
 				},
 				{
@@ -2130,6 +2207,17 @@
 					},
 					"abstract": {
 						"de": "Durch einen Drehkörper wird die Defiant in die Zeit Captain Kirks zurückversetzt. Sie trifft auf die USS Enterprise NCC-1701, die die Raumstation K7 umkreist. Sisko und seine Mannschaft finden heraus, dass der Mensch, den sie auf Cardassia an Bord genommen haben, in Wirklichkeit ein klingonischer Spion ist, der sich an Captain Kirk rächen will und dadurch die Zeitlinie gefährdet. Es gelingt der Crew der Defiant den Mord zu verhindern und in ihre eigene Zeit zurückzukehren."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/DF5xunu0R4s"
+						}
 					}
 				},
 				{
@@ -2510,6 +2598,17 @@
 					},
 					"abstract": {
 						"de": "Um seinem Vater eine alte Baseballkarte zu beschaffen, erledigt Jake zusammen mit Nog einige Anschaffungen für den Karteneigentümer und wird dabei auch mit dem Dominion konfrontiert."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-lTIuO8zdVU"
+						}
 					}
 				},
 				{

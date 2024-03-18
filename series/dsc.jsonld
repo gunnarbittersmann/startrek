@@ -187,18 +187,31 @@
 						"en": "After a month of successful operations, Lorca is ordered to protect the spore drive until it can be replicated for other Starfleet ships. As he returns to the Discovery, Lorca is taken captive by a group of Klingons led by L’Rell. Burnham has grown concerned by the toll that the drive has taken on Ripper. Along with Stamets’ partner, medical officer Hugh Culber, Burnham convinces Stamets to find an alternative to run the drive. Lorca is imprisoned with captured Starfleet officer Ash Tyler and human criminal Harry Mudd, and in discussions Lorca reveals that he killed his entire crew during an earlier battle to spare them from the Klingons’ torture, but escaped himself. Lorca is tortured by L’Rell, who wants to learn the secret behind Discovery’s new form of travel, but Lorca and Tyler escape before the Klingons can learn anything about it. For the final jump needed to escape the Klingons, with Lorca and Tyler onboard, Stamets connects to the spore drive himself using Ripper’s DNA. Later, Burnham frees Ripper while Stamets’ reflection in a mirror does not walk away when he does.",
 						"de": "Lorcas Vorgesetzte in der Sternenflotte möchten zum einen, dass auch andere Sternenflottenschiffe mit dem Sporenantrieb ausgerüstet werden, und zum anderen, dass die Discovery den Sporenantrieb bis auf weiteres nicht mehr einsetzt, damit die Klingonen nicht auf ihn aufmerksam werden. Während des Fluges mit einem Shuttle wird Lorca von Klingonen entführt. Auf einem klingonischen Raumschiff ist er zusammen mit dem Sternenflottenmann Ash Tyler und dem Glücksritter Harry Mudd gefangen. Lorca und Tyler werden von den Klingonen gefoltert und lassen Mudd bei ihrer gewaltsamen Flucht aus dem Gefängnis zurück, weil er sie durch geheime Informationsweitergabe an die Klingonen hintergangen hat. Indes entdeckt Burnham auf der Discovery, dass der Sporenantrieb, wenn er unter Zuhilfenahme des Tardigrade eingesetzt wird, zu einer deutlichen Verschlechterung der physischen Kondition des Tardigrade führt. Indem sich die Discovery mit Hilfe des Sporenantriebs in die Nähe von Lorcas Gefangenschaftsort transloziert, schrumpft bzw. dehydriert der Tardigrade erheblich. Die Discovery rettet die beiden Geflüchteten. Um den Tardigrade zu schonen, injiziert sich Stamets etwas von seiner DNS, wodurch er seinen eigenen Körper für den Betrieb des Sporenantriebs nutzen kann und damit die Flucht der Discovery vor den Klingonen ermöglicht. Um den Tardigrade zu retten, entlassen Burnham und Stamets ihn ins All und damit ins Myzeliennetzwerk."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Retro Review",
-						"creator": {
-							"@type": "Person",
-							"name": "Jessie Gender"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Retro Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/alu4TwUKhdQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -486,7 +499,20 @@
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
 						"de": "Tyler teilt mit, dass zum Kartografieren und zum Ermitteln von Angriffszielen eine Drohne in das ruhende Vulkansystem unter der Planetenoberfläche von Qo’noS eindringen sollte. Die Discovery springt mit dem Sporenantrieb zu einer nahen Höhle, und ein Außenteam, bestehend aus Georgiou, Burnham, Tilly und Tyler, gibt sich als Händler aus. Tilly entdeckt, dass das vulkanische System aktiv ist und dass die Drohne, die Georgiou dabei hat, in Wirklichkeit eine Wasserstoffbombe ist. Mit dieser Erkenntnis konfrontiert Burnham Admiral Cornwell, welche zugibt, dass die Detonation der Bombe in dem aktiven Vulkan sämtliches Leben auf Qo’noS auslöschen soll, damit die Föderation so den Krieg gewinnt. Burnham insistiert darauf, dass die Sternenflotte keinen Genozid anrichten sollte und zwingt Georgiou dazu, die Bombe im Tausch für ihre Freiheit zurückzugeben. Jedoch überreichen sie die Bombe an die Klingonin L’Rell, die die Bedrohung mit der Massenvernichtungswaffe dazu nutzt, unter ihrer Führerschaft die klingonischen Häuser zu vereinen und den Krieg zu beenden. Die Mitglieder der Discovery-Besatzung werden als Helden gefeiert. Burnham erhält offiziell eine Rehabilitation und ihren früheren Rang eines Commanders zurück. Tyler beschließt, bei L’Rell zu bleiben. Als die Discovery mit Warpgeschwindigkeit zum Planeten Vulkan fliegt, empfängt sie einen Notruf von der U.S.S. Enterprise."
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
+							}
+						}
+					]
 				}
 			]
 		},
@@ -653,6 +679,17 @@
 					"description": {
 						"en": "Discovery is confronted by a time anomaly while researching the Red Angel’s signal over Kaminar. Pike and Tyler investigate the anomaly in a shuttlecraft, sending a probe into it. That same probe soon returns through the anomaly having been upgraded with future technology. It attacks the shuttle, and secretly infects Airiam’s augmentations using the shuttle’s computer system. Pike and Tyler destroy the probe with Stamets’ help, as his exposure to the mycelial network allows him to ignore the time discrepancies in the anomaly. Meanwhile, Burnham visits Vulcan as she continues to search for Spock. Confronting Grayson, Burnham learns that their mother has been hiding Spock, who is in psychological distress and is repeating phrases and a series of numbers. Their father Sarek instructs Burnham to trust Starfleet and take Spock to Section 31 to fix his mind. Section 31’s doctors claim that they can help him, but Georgiou warns her that Spock will not survive the memory extractor that Section 31 plans to use on him. Georgiou helps Burnham stage an attack that allows Burnham and Spock to escape the ship.",
 						"de": "Die Discovery trifft auf eine Zeitanomalie, während sie ein Signal des Roten Engels beim Planeten Kaminar untersucht. Pike und Tyler untersuchen die Anomalie in einem Shuttle und schießen eine Sonde hinein. Bald darauf werden sie von derselben Sonde angegriffen, die nunmehr mit einer Technologie aus der Zukunft aufgerüstet ist, die das Computersystem des Shuttles nutzt, um insgeheim Airiam zu infizieren. Sie können das Shuttle und die Sonde mit der Hilfe von Stamets zerstören, dessen Verbindung zum Myzeliennetzwerk es ihm erlaubt, die zeitlichen Diskrepanzen in der Anomalie zu ignorieren. Währenddessen besucht Burnham auf der Suche nach Spock den Planeten Vulkan. Indem sie Amanda Grayson zur Rede stellt, erfährt sie, dass diese Spock versteckt hält, welcher sich in psychologischer Not befindet und verschiedene Sätze und eine Reihe von Zahlen wiederholt. Spocks Vater Sarek weist Burnham an, der Sternenflotte zu glauben und Spock zur Sektion 31 zu bringen, um Hilfe bei der Heilung seines Gehirns zu erhalten. Die Ärzte der Sektion behaupten, dass sie ihm helfen können, aber Georgiou warnt sie, dass Spock den von der Sektion geplanten Einsatz des Erinnerungsextraktors nicht überleben wird. Georgiou erlaubt Burnham, sie anzugreifen und so eine Flucht zu inszenieren, bei der Burnham und Spock von dem Schiff entkommen."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/GfYp06R1-5E"
+						}
 					}
 				},
 				{
@@ -800,6 +837,17 @@
 					"description": {
 						"en": "Tyler retrieves the Klingon fleet to assist in the battle, while Saru’s sister Siranna arrives with Ba’ul fighters after receiving a farewell message from Saru. Stamets is seriously injured and is cared for by Culber. A Section 31 torpedo penetrates the Enterprise without detonating, and Cornwell seals off the surrounding area which prevents further damage when a secondary detonation kills her. Control-Leland boards Discovery and is defeated when Georgiou magnetizes the nanites in his body, allowing Section 31’s fleet to be destroyed. In the suit, Burnham travels to the past and sets the five signals that led them to this point. She then sets a sixth for Discovery to follow as she travels forward over 900 years, and promises to set a seventh when they arrive. The Enterprise crew tell Starfleet that Discovery was destroyed in the battle and are ordered to never speak of it or the crew again (on Spock’s recommendation, to prevent another incident like Control). Tyler is placed in command of Section 31. Months later, the Enterprise detects the seventh signal as it begins a new adventure.",
 						"de": "Tyler erreicht, dass die klingonische Flotte der Discovery und der Enterprise in der Raumschlacht hilft, während Siranna mit Ba’ul-Kämpfern ankommt, nachdem sie von Saru eine Abschiedsnachricht erhalten hat. Stamets wird ernsthaft verletzt und von Culber behandelt. Ein Photonentorpedo der Sektion 31 schlägt in der Untertassensektion der Enterprise ein, zunächst aber, ohne zu detonieren. Nachdem Admiral Cornwell zum Schutze des Schiffes die Umgebung des Einschlagsortes hermetisch verschlossen hat, explodiert der Torpedo aber und tötet sie. Im Zeitreiseanzug reist Burnham in die Vergangenheit und setzt die fünf Signale ab, die sie bis zu diesem Punkt geführt hatten. Danach setzt sie ein sechstes Signal fest, damit die Discovery ihr bei ihrer Reise in das Terralysium der Zukunft folgen kann, und verspricht, ein siebentes bei ihrer Ankunft abzusetzen. Der von „Control“ besessene Leland kommt an Bord der Discovery und wird besiegt, als Georgiou die Naniten in seinem Körper magnetisiert, wodurch die Flotte der Sektion 31 zerstört wird. Die Crew der Enterprise übermittelt an die Sternenflotte, dass die Discovery in der Schlacht zerstört worden sei, und erhält den Befehl, nie wieder über die Discovery oder ihre Crew zu sprechen – auf Spocks Empfehlung hin aus dem Grund, um einen weiteren Zwischenfall wie den mit „Control“ zu vermeiden. Tyler erhält das Kommando über die Sektion 31. Monate später spürt die Enterprise das siebente Signal auf."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/LAR9Z1WX7ms"
+						}
 					}
 				}
 			]
@@ -820,6 +868,17 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Steve Shives"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+				}
+			},
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
@@ -1291,18 +1350,31 @@
 						"en": "Captain Michael Burnham of the USS Discovery and her partner, Cleveland “Book” Booker, invite the people of Alshain IV to rejoin the United Federation of Planets. They prove the Federation’s intentions by helping to fix long-broken Alshain technology. Book then departs to his home planet, Kwejian, to participate in his nephew Leto’s coming-of-age ceremony. Burnham and the crew of Discovery attend the official reopening of Starfleet Academy, where they meet new Federation president Laira Rillak. Starfleet receives a distress call from a space station near Kwejian, and Rillak accompanies Discovery to investigate. The space station has been sent spinning uncontrollably by an unknown gravitational distortion, and Burnham decides to help evacuate its personnel herself; Rillak questions Burnham’s decisions, and later reveals that she was observing Burnham as a potential candidate for a new assignment but has concerns about her approach. On Kwejian, Book witnesses strange bird activity and flies off-world to investigate it, just as the gravitational distortion destroys the entire planet.",
 						"de": "Captain Michael Burnham von der USS Discovery und ihr Partner Cleveland „Book“ Booker laden das Volk von Alshain IV ein, der Vereinigten Föderation der Planeten wieder beizutreten. Sie stellen die Absichten der Föderation unter Beweis, indem sie helfen, die seit langem kaputte Technologie von Alshain zu reparieren. Book reist dann zu seinem Heimatplaneten Kwejian, um an der Volljährigkeitsfeier seines Neffen Leto teilzunehmen. Burnham und die Crew der Discovery nehmen an der offiziellen Wiedereröffnung der Sternenflottenakademie teil, wo sie die neue Föderationspräsidentin Laira Rillak treffen. Die Sternenflotte empfängt einen Notruf von einer Raumstation in der Nähe von Kwejian, und Rillak begleitet die Discovery, um der Sache nachzugehen. Die Raumstation wurde durch eine unbekannte Gravitationsverzerrung unkontrolliert ins Trudeln gebracht und Burnham beschließt, selbst bei der Evakuierung des Personals zu helfen. Rillak stellt Burnhams Entscheidungen in Frage und enthüllt später, dass sie Burnham als potenzielle Kandidatin für einen neuen Auftrag beobachtet hat, aber Bedenken bezüglich ihrer Vorgehensweise hat. Sie thematisieren in ihrem Gespräch den Kobayashi-Maru-Test. Auf Kwejian wird Book Zeuge seltsamer Vogelaktivitäten und fliegt weg, um sie zu untersuchen, gerade als die Gravitationsverzerrung den gesamten Planeten zerstört."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/H12V1TN801o"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/H12V1TN801o"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1s-JCPoHXuw"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1324,18 +1396,31 @@
 						"en": "Book becomes numb from grief following the loss of his planet and family, and is haunted by hallucinations of Leto. Science officer Paul Stamets explains to Rillak and Starfleet Command that the destruction of Kwejian was caused by an unprecedented gravitational anomaly that requires further investigation. Former Discovery captain Saru returns to serve as Burnham’s first officer, and they jump to a safe distance outside of the anomaly. Initial data disproves some of their theories, and Book volunteers to fly his ship into the anomaly to learn more. Burnham is convinced to let Book carry out the mission, and he is ultimately successful. During this time, the anomaly inexplicably changes direction and causes damage to the Discovery, leaving them unsure where it will go next and what impact this will have on other planets. Book later begins to open up to Burnham about his grief. Meanwhile, Dr. Hugh Culber and ensign Adira Tal help transfer the consciousness of Adira’s deceased boyfriend Gray into a synthetic body, using an uncommon technology that was previously successful for Jean-Luc Picard.",
 						"de": "Book ist nach dem Verlust seines Planeten und seiner Familie vor Trauer wie betäubt und wird von Halluzinationen über Leto heimgesucht. Wissenschaftsoffizier Paul Stamets erklärt Rillak und dem Sternenflottenkommando, dass die Zerstörung von Kwejian durch eine noch nie dagewesene Gravitationsanomalie verursacht wurde, die weitere Untersuchungen erfordert. Der ehemalige Discovery-Captain Saru kehrt zurück, um als Burnhams Erster Offizier zu dienen. Die Discovery springt in sichere Entfernung außerhalb der Anomalie, um sie genauer zu untersuchen und um den Kurs der Anomalie berechnen zu können. Die ersten Daten widerlegen bisherige Theorien und Book meldet sich freiwillig, um mit seinem Schiff und mit Unterstützung durch Paul Stamets’ Hologramm in die Anomalie zu fliegen für weitere Aufzeichnungen. Burnham wird überzeugt, Book die Mission durchführen zu lassen. Dort treten Schwierigkeiten auf, aber schließlich kann Book durch ein geschicktes Manöver aus der Anomalie entkommen. Während dieser Zeit ändert die Anomalie auf unerklärliche Weise ihre Richtung und beschädigt die Discovery. Es stellt sich heraus, dass ihre Bewegung und ihre weitere Wirkung auf andere Planeten nicht berechnet werden können. Book beginnt danach, Burnham seinen Kummer mitzuteilen. In der Zwischenzeit planen Dr. Hugh Culber und Fähnrich Adira Tal, das Bewusstsein von Adiras verstorbenem Freund Gray in einen synthetischen Körper zu übertragen, wobei eine ungewöhnliche Technologie zum Einsatz kommen soll, die bereits bei Admiral Jean-Luc Picard erprobt wurde. Die Methode wurde aber damals aufgrund einer geringen Erfolgsrate eingestellt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RmlhMmNam1c"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/RmlhMmNam1c"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/C_l3gtPqNYI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1357,18 +1442,31 @@
 						"en": "J’Vini, a Romulan citizen of Ni’Var and nun of the Qowat Milat order, attacks several Starfleet ships to steal rare dilithium crystals. In one robbery, she kills an officer. Starfleet Admiral Charles Vance reveals this to Burnham, Ni’Var President T’Rina, and Burnham’s mother, Gabrielle, who is a member of the Qowat Milat. Rillak does not want to pursue J’Vini without T’Rina’s guidance since Ni’Var is on the verge of negotiating its re-entry to the Federation. Gabrielle believes J’Vini has found a lost cause to fight for, and joins Burnham on a mission to arrest her. They find J’Vini on what appears to be a barren moon but is actually a massive starship holding refugees in suspended animation. Unable to wake them, J’Vini stole the dilithium so she can move the ship out of the path of the anomaly. Burnham arrests J’Vini, but helps wake the refugees and move their ship. Meanwhile, Stamets and Book travel to Ni’Var to parse the data on the anomaly, which Stamets has nicknamed the DMA (Dark Matter Anomaly). They do not learn what it is, but T’Rina helps Book relive memories of Leto which brings him some comfort.",
 						"de": "J’Vini, eine romulanische Bürgerin von Ni’Var und Nonne des Ordens der Qowat Milat, überfällt mehrere Schiffe der Sternenflotte, um seltene Dilithiumkristalle zu stehlen. Bei einem Überfall tötet sie einen Offizier. Sternenflottenadmiral Charles Vance enthüllt dies Burnham, Ni’Var-Präsidentin T’Rina und Burnhams Mutter Gabrielle, die Mitglied der Qowat Milat ist. Rillak will J’Vini nicht ohne T’Rinas Hilfe verfolgen, da Ni’Var kurz davor steht, über seinen Wiedereintritt in die Föderation zu verhandeln. Gabrielle glaubt, dass J’Vini eine aussichtslose Sache gefunden hat, für die sie kämpfen kann, und schließt sich Burnham, begleitet von Lieutenant Tilly, an, um J’Vini zu verhaften. Sie finden J’Vini auf einem scheinbar kargen Mond, der in Wirklichkeit ein riesiges Raumschiff ist, in dem fremde Wesen (Abronianer genannt) in Kryostase gehalten werden. J’Vini hatte vergeblich versucht, sie zu wecken, und schließlich das Dilithium gestohlen, um damit das Schiff aus dem Pfad der Anomalie zu bewegen und die Wesen vor Grabräubern zu schützen. Ihre Biomasse enthält Latinum (eine wertvolle Substanz). Burnham verhaftet J’Vini, hilft aber zuvor dabei, die Flüchtlinge zu wecken. In der Zwischenzeit reisen Stamets und Book nach Ni’Var, um die Daten über die Anomalie zu analysieren, die Stamets als DMA (Dunkle Materie Anomalie) bezeichnet. Sie finden zwar nicht heraus, worum es sich handelt, aber T’Rina hilft Book, Erinnerungen an Leto wachzurufen, was ihm etwas Trost spendet. Zudem wird das Bewusstsein von Adiras verstorbenem Freund Gray in einen synthetischen Körper übertragen. Nach einer länger andauernden kritischen Phase erwacht er und hat auch sein Bewusstsein behalten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GG8-i9lc56Y"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/GG8-i9lc56Y"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vnwCXoZOBcg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1390,18 +1488,31 @@
 						"en": "Ni’Var fast-tracks its negotiations with the Federation, and Rillak asks Burnham and Saru to participate. Culber suggests that Silvia Tilly, who has been feeling unsure about her place on the ship, accompany a group of new Starfleet Academy cadets on a team-building exercise. Adira also joins them for the mission, in which the cadets need to work together to survey a planet. They initially do not get along but are forced to bond after they are thrown off course and crash land on a dangerous moon. Together they are able to signal a Starfleet ship that saves them and returns them to Federation Headquarters, where the mysterious Dr. Kovich offers Tilly a teaching position at the Academy. Talks between Ni’Var and the Federation appear to break down, but Burnham and Saru talk to both sides and offer a compromise that they all agree to: a committee independent of Federation leadership will regularly review the union and provide independent oversight, and Burnham offers to serve on the committee as a citizen of both the Federation and Ni’Var. Tilly later accepts the teaching position and leaves the ship.",
 						"de": "Ni’Var beschleunigt seine Verhandlungen mit der Föderation und Rillak bittet Burnham und Saru, vertretungsweise teilzunehmen, da Sternenflottenadmiral Charles Vance angeblich erkrankt ist. Culber schlägt vor, dass Silvia Tilly, die sich unsicher über ihren Platz auf dem Schiff fühlt, eine Gruppe neuer Kadetten der Sternenflottenakademie bei einer Teambildungsübung begleitet. Auch Adira nimmt an der Mission teil, bei der die Kadetten zusammenarbeiten müssen, um einen Planeten zu untersuchen. Sie kommen zunächst nicht miteinander aus, müssen sich aber zusammenraufen, nachdem sie auf einem gefährlichen Mond notgelandet sind. Gemeinsam gelingt es ihnen, ein Sternenflottenschiff zu kontaktieren, das sie rettet und zum Hauptquartier der Föderation zurückbringt. Dort bietet der geheimnisvolle Dr. Kovich Tilly einen Lehrauftrag an der Akademie an. Die Gespräche zwischen Ni’Var und der Föderation scheinen zu scheitern, aber Burnham und Saru sprechen mit beiden Seiten und schlagen einen Kompromiss vor, dem alle zustimmen: Ein von der Föderationsführung unabhängiges Komitee wird die Vereinigung regelmäßig überprüfen. Burnham bietet an, als Bürgerin sowohl der Föderation als auch von Ni’Var in dieses Komitee einzutreten. Tilly nimmt den Lehrauftrag an und verlässt das Schiff."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/CB9We1QIuJU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/CB9We1QIuJU"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uZImAwwbciY"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1423,18 +1534,31 @@
 						"en": "The DMA disappears and reappears 1000 lightyears away seconds later, proving that it is not a naturally-occurring anomaly. Scientist Ruon Tarka joins the ship to help determine who created the DMA, and is able to make a model of it which requires more power than Discovery can give. Learning that the Radvek asteroid belt is in the DMA’s new path, Discovery is sent to evacuate its inhabitants. The magistrate of the belt is grateful for their help and begins organizing for his people to beam aboard, but he refuses to release their prisoners, who he refers to as “The Examples”. Burnham and Book go to release the prisoners themselves, who claim to have been imprisoned unjustly. Burnham convinces them to escape by offering them asylum on Discovery, but one, Felix, chooses to stay behind. He reveals that he accidentally stole an orb recording a family’s heritage and then murdered the owner in the ensuing fight. Book still wants to save him, but Burnham honors Felix’s wishes and he dies when the asteroid belt is destroyed by the DMA. Burnham later gives the orb to the daughter of the man Felix killed.",
 						"de": "Die DMA verschwindet und taucht Sekunden später 1000 Lichtjahre entfernt wieder auf, was beweist, dass es sich nicht um eine natürlich vorkommende Anomalie handelt. Der Wissenschaftler Ruon Tarka schließt sich der Discovery an, um herauszufinden, wer die DMA geschaffen hat. Er ist in der Lage, ein Modell der DMA zu erstellen, das mehr Energie benötigt, als die Discovery zur Verfügung stellen kann. Als die Discovery erfährt, dass der Asteroidengürtel Radvek in der neuen Bahn der DMA liegt, wird sie beauftragt, seine Bewohner zu evakuieren. Der Magistrat des Gürtels ist dankbar für ihre Hilfe und beginnt damit, seine Leute an Bord zu beamen, aber er weigert sich, seine Gefangenen freizulassen, die er als „Exempel“ bezeichnet. Burnham und Book machen sich auf den Weg, um die Gefangenen selbst zu retten. Diese behaupten, zu Unrecht inhaftiert worden zu sein. Burnham überzeugt sie davon, sie zu begleiten, indem sie ihnen Asyl auf der Discovery anbietet. Ein Gefangener namens Felix beschließt zurückzubleiben. Er berichtet, dass er unter anderem eine Kugel gestohlen hat, auf der das Erbe einer Familie aufgezeichnet ist, und den Besitzer im darauf folgenden Kampf ermordet hat. Book will ihn dennoch retten, aber Burnham respektiert Felix’ Wunsch und lässt ihn sterben, als der Asteroidengürtel von der DMA zerstört wird. Burnham gibt die Kugel später der Tochter des Mannes, den Felix getötet hat."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hiA2wmjhbuA"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/hiA2wmjhbuA"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-TMv-nO-KuI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1456,18 +1580,31 @@
 						"en": "Discovery enters a subspace rift created by the DMA to investigate it, finding a void that they are unable to navigate out of. A DOT robot leaves the ship to investigate and disintegrates. Book and Stamets attempt to jump the ship out of the rift, but Book begins having hallucinations of his deceased father whose birthday it is. Stamets realizes that the hallucinations have been caused by interaction with particles from the barrier at the edge of the galaxy. The ship’s advanced computer, Zora, attempts to carry out her usual duties while helping to find a way out of the rift and unusually finds herself becoming overwhelmed with data. Gray offers to help Zora clear her processes by playing a game together. After doing this, Zora is able to detect micro-variances on the external sensors which can be used to lead them out of the void. To protect the crew from the effect that moving through the void will have, Burnham transports them all into the “pattern buffer” (where matter is converted into energy for transportation) and flies the ship with Zora. Burnham wakes up in sickbay to learn that they successfully exited the rift.",
 						"de": "Die Discovery dringt in einen von der DMA geschaffenen Subraumspalt ein, um ihn zu untersuchen, und stößt auf eine Leere, aus der sie nicht herausnavigieren kann. Ein DOT-Roboter verlässt das Schiff und löst sich auf. Book und Stamets versuchen, mit dem Sporenantrieb aus der gefährlichen Leere zu springen, was misslingt. Book bekommt Halluzinationen von seinem verstorbenen Vater, der an diesem Tag Geburtstag hat. Stamets erkennt, dass die Halluzinationen durch die Interaktion mit Partikeln aus der Barriere am Rande der Galaxie verursacht wurden. Zora, der fortschrittliche Computer des Schiffes, versucht ihre üblichen Aufgaben zu erfüllen, während sie dabei hilft, einen Weg aus dem Spalt zu finden. Dabei fühlt sie sich von den Daten aus dem Schiff überflutet. Gray bietet Zora an, ihr bei der Bewältigung ihrer Aufgaben zu helfen, indem er mit ihr ein Spiel spielt. Daraufhin erkennt Zora Mikroabweichungen auf den externen Sensoren, mittels derer sie aus dem Spalt entkommen könnten. Um die Besatzung vor der Auflösung durch die Leere zu schützen, veranlasst Burnham, dass alle in den „Musterpuffer“ geladen werden (wo Materie für den Transport in Energie umgewandelt wird). Nur sie bleibt auf der Brücke und fliegt das Schiff allein mit Zora, bis sie wegen der zunehmenden Hitze das Bewusstsein verliert. Burnham erwacht auf der Krankenstation und erfährt, dass das Schiff den Spalt erfolgreich verlassen hat und alle Besatzungsmitglieder zurückkehren konnten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/s7Hgth8LITM"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/s7Hgth8LITM"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WZhdaOPfH1U"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1489,18 +1626,31 @@
 						"en": "Zora determines the location of the DMA’s creator, referred to as “Unknown Species 10-C”, but refuses to share this with the crew out of concern for their safety. Dr. Kovich consults on Zora’s behavior and notes that Starfleet has regulations against sentient systems being integrated with starships. Members of the crew advocate for Zora and her intentions, but others are concerned with her not following orders due to her control of all the ship’s systems. Investigating her evolved programming, Kovich determines that Zora is a new lifeform and can remain on the ship, but to do so she is required to enlist in Starfleet and follow all orders from her superiors. She agrees and reveals the coordinates. Meanwhile, Burnham and Book attend an assembly of Federation and non-Federation representatives to discuss the DMA. Rillak and Burnham want to contact 10-C and try to avoid escalating the conflict, but Book supports Tarka who has designed a weapon to destroy the DMA before it harms anyone else; the assembly votes in favor of first contact. Tarka and Book escape, planning to use the weapon themselves.",
 						"de": "Der Schiffscomputer Zora bestimmt den Standort des Schöpfers der DMA, der als „Unbekannte Spezies 10-C“ bezeichnet wird, weigert sich aber, ihn der Besatzung mitzuteilen, da sie sich um deren Sicherheit sorgt. Dr. Kovich merkt an, dass die Vorschriften der Sternenflotte die Integration von empfindungsfähigen Systemen in Raumschiffe verbieten. Einige Besatzungsmitglieder setzen sich für Zora ein, aber andere, insbesondere Stamets, befürchten aufgrund ihrer Befehlsverweigerung negative Auswirkungen auf die Kontrolle über die Schiffssysteme. Nach der Untersuchung ihrer weiterentwickelten Programmierung kommt Kovich zu dem Schluss, dass Zora eine neue Lebensform ist und auf dem Schiff bleiben kann. Es stehe ihr frei, sich der Sternenflotte als Spezialistin anzuschließen. Dann müsse sie aber auch die Befehle ihrer Vorgesetzten befolgen. Zora willigt ein und gibt die Koordinaten preis. In der Zwischenzeit nehmen Burnham und Book an einer Versammlung von Vertretern der Föderation und ihrer Partner teil, um die DMA-Strategie zu besprechen. Rillak und Burnham wollen mit 10-C Kontakt aufnehmen und eine Eskalation des Konflikts vermeiden. Book hingegen unterstützt Tarka, der eine Waffe entwickelt hat, um die DMA zu zerstören, bevor sie anderen Welten Schaden zufügt. Die Versammlung stimmt für den friedlichen Erstkontakt. Tarka und Book fliehen mit dem Prototyp der neuen Sporenantriebstechnologie."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Xd5aERa-_AY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Xd5aERa-_AY"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zrzt-NKhGjw"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1529,18 +1679,31 @@
 						"en": "Tarka needs isolynium to complete his weapon, and Burnham knows which black market dealer Book will try to get it from. Rillak refuses to let her go after him, and Vance publicly agrees but secretly gives Burnham different orders: gather data on 10-C’s coordinates but at the same time try to get the isolynium before Book and Tarka do. The latter pair arrive at a casino on Porathia and meet with Haz Mazaro, who agrees to sell them the isolynium if Book helps find a cheater in the casino. Burnham and operations officer Joann Owosekun arrive soon after and buy charts from Mazaro that map 10-C’s coordinates. They are unable to outbid Book and Tarka for the isolynium, so Owosekun fights in a ring to earn them more money. They approach Mazaro with the money just as Book captures a cheater, and the dealer decides to settle this draw with a card game. Book wins the game and claims the isolynium, but not before Burnham plants a tracker on it. The charts reveal a large, artificial “hyperfield” beyond the galactic barrier, and data suggests that it is powered by rare boronite that the DMA mines from planets.",
 						"de": "Tarka braucht Isolynium, um seine Waffe zu vervollständigen, und Burnham weiß, von welchem Schwarzmarkthändler Book versuchen wird, es zu bekommen. Rillak verweigert Burnham, Book zu verfolgen, und Vance stimmt öffentlich zu, aber er gibt Burnham insgeheim andere Befehle: Daten über die Spezies 10-C zu sammeln, aber gleichzeitig zu versuchen, das Isolynium vor Book und Tarka zu bekommen. Diese beiden kommen in einem Casino auf Porathia an und treffen sich mit Haz Mazaro, der sich bereiterklärt, ihnen das Isolynium zu verkaufen, wenn Book hilft, einen Betrüger im Casino zu finden. Burnham und die Einsatzoffizierin Joann Owosekun treffen kurz darauf ein und wollen von Mazaro außergalaktische Sternaufnahmen von den zuvor ermittelten Koordinaten der Spezies 10-C kaufen. Sie sind nicht in der Lage, Book und Tarka für das Isolynium zu überbieten. Owosekun nimmt an einem Ringkampf teil, um ihnen mehr Geld zu verschaffen. Sie nähern sich Mazaro mit dem Geld, gerade als Tarka einen Betrüger (Gestaltwandler) gefangen nimmt. Der Händler beschließt, das Unentschieden der Bieterparteien durch ein leonisches Pokerspiel entscheiden zu lassen. Book gewinnt das Spiel und holt sich das Isolynium, aber Burnham gelingt es zuvor, einen Peilsender anzubringen. Die Sternaufnahmen zeigen ein großes, künstliches „Hyperfeld“ (mit möglicherweise einem eingeschlossenen Wirtsstern und 2 oder 3 umkreisenden Planeten) jenseits der galaktischen Barriere. Die Daten deuten darauf hin, dass es mit seltenem Boronit betrieben wird, das die DMA von den zerstörten Planeten abgebaut hat."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/drfNGQGT2zo"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/drfNGQGT2zo"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Kf5Tszz_-2c"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1562,18 +1725,31 @@
 						"en": "Former Discovery security officer Nhan is assigned to supervise the ship as it follows Burnham’s tracking device, to ensure that Burnham does not allow her personal feelings to get in the way of stopping Book and Tarka. They jump to a position near Book’s ship, where Book and Tarka complete the weapon. Saru leads a cloaked shuttle to sneak aboard Book’s ship and disable the weapon, but it is attacked by a new automated security system that Tarka installed on Book’s ship. Book helps Saru and the shuttle’s crew escape back to Discovery, and then finds the tracker and disables it. He jumps into the DMA, and Discovery follows. Nhan prepares to order that Book’s ship be destroyed before it can attack the controller at the center of the DMA. Both ships find the controller, and there is a stand-off in which Burnham is able to convince both Nhan and Book to stand down. Tarka goes behind Book’s back and fires the weapon at the controller, destroying it and the DMA, but he does not find the power source that he expected to be there. Book and Tarka escape, and a new DMA appears in the same location soon after.",
 						"de": "Die ehemalige Discovery-Sicherheitsoffizierin Nhan kommt auf die Discovery, während diese Burnhams Peilsender folgt. Nhan soll sicherstellen, dass Burnhams persönliche Gefühle zu Book nicht die Mission gefährden. Sie springen zu einer Position in der Nähe von Books Schiff, während Book und Tarka die Waffe fertigstellen. Saru führt ein getarntes Shuttle an, um sich auf Books Schiff zu schleichen und die Waffe zu deaktivieren. Das Shuttle wird jedoch von einem neuen automatischen Sicherheitssystem angegriffen, das Tarka auf Books Schiff installiert hat. Book ermöglicht der Shuttle-Besatzung die Flucht zurück zur Discovery. Er findet den Peilsender und deaktiviert ihn, so dass sein Schiff nach dem Sprung in die DMA von der Discovery nicht mehr lokalisiert werden kann. Nhan hat einen Weg gefunden, wie Books Schiff zerstört werden kann und ist bereit, dies anzuordnen, bevor es den Controller im Zentrum der DMA zerstören kann. Beide Schiffe finden den Controller, und es kommt zu einem Patt, bei dem Burnham sowohl Nhan als auch Book davon überzeugen kann, sich zurückzuhalten. Hinter dem Rücken von Book beamt Tarka jedoch die Waffe in den Controller und zerstört damit die DMA. Die Discovery sowie Book und Tarka fliehen vor der Explosion. Tarka kann jedoch keine Energiequelle der DMA entdecken, wie er sich erhofft hatte. Kurz darauf erscheint eine neue DMA am gleichen Ort."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Y6Jm1jtYoQo"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1595,18 +1771,31 @@
 						"en": "Fearing retaliation from Species 10-C, Rillak moves up the timeline for first contact. She, T’Rina, and several diplomats board Discovery, which jumps to the galactic barrier and begins the dangerous flight through it. Before they lose contact with the Federation, they are contacted by Vance, who tells them that the DMA is now close to destroying Earth and Ni’Var. Meanwhile, Book and Tarka need programmable anti-matter to make it through the barrier themselves and travel to a stash of it that Tarka has in an abandoned prison where he was once held. Tarka explains that he had befriended a fellow prisoner, Oros, who built a machine to transport them to a peaceful parallel universe. They were separated and Tarka does not know if Oros was successful, but he hopes so and has built his own machine so that he can also travel there. It requires a large amount of power, and Tarka had planned to use the DMA’s power source before realizing that it is at 10-C’s location rather than in the DMA itself. After a difficult flight, Discovery emerges from the galactic barrier and begins traveling towards 10-C’s coordinates.",
 						"de": "Aus Angst vor Vergeltungsmaßnahmen von Spezies 10-C verlegt Rillak den Zeitpunkt des Erstkontakts vor. Sie, T’Rina und mehrere Diplomaten gehen an Bord der Discovery, die zur galaktischen Barriere springt und den gefährlichen Flug durch sie beginnt. Bevor sie den Kontakt mit der Föderation verlieren, werden sie von Vance kontaktiert, der ihnen mitteilt, dass die DMA kurz davor steht, die Erde und Ni’Var zu zerstören. Burnham überzeugt Rillak davon, diese Information auch an die Crew weiterzugeben. In der Zwischenzeit benötigen Book und Tarka programmierbare Antimaterie, um selbst durch die Barriere zu gelangen und reisen zu einem Vorrat davon, den Tarka in einem verlassenen Arbeitslager der Smaragdkette weiß, in dem er einst gefangen gehalten wurde. Tarka erklärt, dass er sich mit dem Mitgefangenen Oros angefreundet hat, den er erst ausspionieren sollte. Dieser hat heimlich eine Maschine gebaut, um sie in ein friedliches Paralleluniversum zu bringen. Sie wurden getrennt und Tarka weiß nicht, ob Oros erfolgreich war, aber er hofft es und hat seine eigene Maschine gebaut, damit er auch dorthin reisen kann. Sie benötigt eine große Menge an Energie und Tarka hatte geplant die Energiequelle der DMA zu nutzen, bevor er feststellte, dass sie sich nicht in der DMA selbst, sondern auf der anderen Seite des Wurmloches bei 10-C befindet. Nach einem schwierigen Flug mit Hilfe sogenannter Raumzellen taucht die Discovery aus der galaktischen Barriere auf und beginnt ihre Reise in Richtung der Koordinaten von 10-C."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ttifG-bdHWQ"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ttifG-bdHWQ"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/I_X03SE1kyc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1635,18 +1824,31 @@
 						"en": "Burnham decides to visit a dead planet near the hyperfield which may be the homeworld of Species 10-C. Earth General Diatta Ndoye believes this is a waste of time, but other diplomats support the decision if it provides useful information. Burnham travels to the planet with Saru, Culber, and pilot Keyla Detmer, where they find the large skeletons of a species that once lived in the planet’s former gas layers. They also begin to experience hallucinations that create strong feelings such as fear. The team deduce that 10-C fled the planet during meteor strikes that burned away the gas and killed some members of the species, and that the species use complex hydrocarbon compounds to communicate their emotions which are now affecting them on the planet. They believe they can use these hydrocarbons to help communicate with 10-C. Meanwhile, Book and Tarka follow Discovery to the planet and sneak onboard. Tarka bypasses Zora’s sensors to allow their ship to be attached to Discovery undetected, taking engineer Jett Reno hostage in the process. Book convinces Ndoye to help them destroy the DMA.",
 						"de": "Die Discovery fliegt zu einem toten Planeten in der Nähe des Hyperfelds, der möglicherweise die Heimatwelt von Spezies 10-C ist. Erdgeneral Diatta Ndoye hält dies für Zeitverschwendung, aber andere Diplomaten unterstützen die Entscheidung, wenn sie zu nützlichen Informationen führt. Burnham reist mit Saru, Culber und der Pilotin Keyla Detmer zu dem Planeten, wo sie ein großes Skelett der Spezies finden, die einst in den ehemaligen Gasschichten des Planeten lebte. Unter dem Einfluss von Kohlenwasserstoffverbindungen halluzinieren mehrere Mitglieder des Landungsteams, was starke Gefühle auslöst, wie Angst und Zuneigung. Das Team schlussfolgert, dass 10-C aufgrund eines Meteoriteneinschlags, der das Gas verbrannte und einige Mitglieder der Spezies tötete, vom Planeten floh. Die komplexen Kohlenwasserstoffverbindungen, die das Landungsteam auf dem Planeten beeinflussten, verwendet 10-C offenbar, um Emotionen zu kommunizieren. Die Besatzung will diese Kohlenwasserstoffe benutzen, um mit 10-C zu kommunizieren, so wie einstmals der „Rosettastein“ bei der Entschlüsselung der ägyptischen Schriften half. In der Zwischenzeit folgen Book und Tarka der Discovery zu dem Planeten und schleichen sich an Bord. Tarka umgeht die Sensoren von Zora, damit ihr Schiff unbemerkt an die Discovery angekoppelt werden kann, und nimmt dabei die Ingenieurin Jett Reno als Geisel. Book überredet Ndoye, ihnen bei der Zerstörung der DMA zu helfen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/UOsKmyIu7dY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/UOsKmyIu7dY"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/wLvnbJ_V69U"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1668,18 +1870,31 @@
 						"en": "Discovery releases the hydrocarbon representing peace onto the hyperfield. It is soon pulled into the structure and surrounded by an orb made of an unknown substance. Members of Species 10-C respond with more hydrocarbons and a light pattern which the crew deciphers as a “bridge language” similar to Lincos that uses mathematical equations. 10-C uses the language to question why the DMA was destroyed by Tarka’s weapon, and the crew are able to communicate their fear of the DMA. On Book’s ship, Tarka plans to use Ndoye to ignite a plasma stream from Discovery that will allow them to escape the orb and fly directly to the DMA’s power source. Reno realizes that if Tarka takes the power source now, it will destroy the hyperfield and all inside it and likely still destroy Earth and Ni’Var. Book confronts Tarka about this, but Tarka uses his upgrades to the ship to restrain Book. As the crew of Discovery attempt to ask 10-C to withdraw the DMA, Ndoye enacts Tarka’s plan and Book’s ship escapes. The 10-C members stop communicating. Reno is able to get a message to Burnham explaining Tarka’s plan.",
 						"de": "Die Discovery setzt den Kohlenwasserstoff, der den Frieden repräsentiert, mittels DOT-Roboter auf der Oberfläche des Hyperfeldes frei, da sie denken das die Spezies 10-C das als Kommunikation auffasst. Bald wird die Discovery und Books Schiff in die Struktur gezogen und von einem Orb (einer Art Sphäre) aus einer unbekannten Substanz umgeben. Mitglieder der Spezies 10-C antworten mit weiteren Kohlenwasserstoffen und einem Lichtmuster, das die Besatzung als eine „Brückensprache“ entschlüsselt, die Lincos ähnelt und mathematische Gleichungen verwendet. 10-C nutzt die Sprache, um zu fragen warum die DMA durch Tarkas Waffe zerstört wurde und die Besatzung kann ihre Angst vor der DMA mitteilen. Auf Books Schiff plant Tarka mit Ndoye einen Plasmastrom von der Discovery aus zu zünden, der es ihnen ermöglicht dem Orb zu entkommen und direkt zur Energiequelle der DMA zu fliegen. Reno erkennt, wenn Tarka die Energiequelle jetzt an sich nimmt, dass er das Hyperfeld und alles was sich darin befindet zerstören und wahrscheinlich auch die Erde und Ni’Var vernichten wird. Book stellt Tarka deswegen zur Rede, aber Tarka nutzt seine Upgrades für das Schiff, um Book zurückzuhalten. Als die Besatzung der Discovery versucht, 10-C zu bitten, die DMA zurückzuziehen, setzt Ndoye Tarkas Plan in die Tat um und Books Schiff entkommt. Die Mitglieder von 10-C hören auf zu kommunizieren. Reno gelingt es Burnham eine Nachricht zukommen zu lassen, in der sie Tarkas Plan erklärt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_9n_JU5jRn0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/_9n_JU5jRn0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E5LHXVAcXJk"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1701,18 +1916,31 @@
 						"en": "Tarka begins dismantling the power source’s container, causing dangerous plasma bursts. T’Rina learns that the minds of the 10-C are connected and they do not understand that Tarka is acting independently of Discovery. The crew sacrifices Discovery’s spore drive to escape the orb, but are unable to approach Book’s ship due to the plasma. Ndoye offers to make amends by ramming Book’s ship with a shuttlecraft, killing Tarka. Ndoye and Reno are beamed to safety, but Book seemingly dies. The crew of Discovery meet members of 10-C on a planet inside the hyperfield and explain that Tarka was working alone, and why. The 10-C turn off the DMA, sparing Earth and Ni’Var, and reveal that they saved Book. Discussing his grief and using his empathic abilities, Book convinces 10-C to stop using the DMA altogether, take down the hyperfield, and start working with others to make amends for the harm caused by the DMA. 10-C uses a wormhole to send Discovery to Earth, which decides to rejoin the Federation. Book is punished for his actions by being sent to help others who have been harmed by the DMA.",
 						"de": "Die Föderation versucht viele Bewohner von der Erde und Ni’Var zu evakuieren, bevor die DMA diese zerstören wird. Tarka steuert Books Schiff zur DMA-Energiequelle, um das Gerät mit einem gravimetrischen Strahl zu treffen. T’Rina erfährt, dass die Gehirne der 10-C miteinander verbunden sind und sie nicht verstehen, dass Tarka unabhängig von der Discovery handelt. Die Besatzung opfert den Sporenantrieb der Discovery, um dem Orb zu entkommen, kann sich aber Books Schiff wegen des Plasmas nicht nähern. Ndoye bietet eine Wiedergutmachung an, indem sie Books Schiff mit einem Shuttle rammt. Ndoye und Reno werden in Sicherheit gebeamt, aber Book stirbt beim Beamen scheinbar. Die Besatzung der Discovery trifft Mitglieder der 10-C auf einem Planeten innerhalb des Hyperfelds und erklärt, dass Tarka allein gearbeitet hat und warum. Die 10-C schalten die DMA aus, verschonen die Erde und Ni’Var und enthüllen, dass sie Book gerettet haben. Book spricht über seinen Kummer und nutzt seine empathischen Fähigkeiten, um 10-C davon zu überzeugen, die DMA nicht mehr zu benutzen, das Hyperfeld abzuschalten und mit anderen zusammenzuarbeiten, um den durch die DMA verursachten Schaden wiedergutzumachen. 10-C nutzt ein Wurmloch, um die Discovery zur Erde zu schicken, die sich entschließt, der Föderation wieder beizutreten. Book wird für seine Taten bestraft, indem er denen helfen muss, die durch die DMA geschädigt wurden."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RoptUBfAchE"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/RoptUBfAchE"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MUNt5DyJ3Qs"
+							}
 						}
-					}
+					]
 				}
 			]
 		},

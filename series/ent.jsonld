@@ -65,7 +65,18 @@
 					"abstract": {
 						"de": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte"
+					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Tyl8L9JGhhc"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -185,6 +196,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise untersucht einen über 80 km durchmessenden Kometen, um dort ein seltenes Mineral zu gewinnen. Alsbald nähert sich ein vulkanisches Raumschiff, dessen Captain, der die Menschen unter anderem als arrogant einschätzt, die Bemühungen der Enterprise überwacht. Reed und Mayweather untersuchen die vereiste Kometenoberfläche. Zugleich erlangt Tucker Kenntnis von T’Pols Problemen, ihre geplante arrangierte Ehe betreffend. Er versteht, dass sie lieber nicht heiraten würde, und berät sie entsprechend, aber sie fühlt sich verpflichtet, den vulkanischen Traditionen zu folgen. Nach der Sprengung eines Lochs in die Kometenoberfläche verletzt sich Mayweather am Bein. Dadurch schaffen es die beiden erst spät, auf dem unter der aufgehenden Sonne bröckelnden Eis ihre Fähre zu erreichen. Mit dieser stürzen sie beim Abheben in ein tiefes Loch. Da es Archer mit der Enterprise nicht schafft, die beiden zu retten, nimmt er die Hilfe der Vulkanier an, die Fähre mit dem Traktorstrahl von deren Schiff zu retten. Dies widerstrebte ihm zunächst wegen seines Misstrauens gegenüber den Vulkaniern. T’Pol nimmt Tuckers Ratschlag an und weigert sich zu heiraten."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/rohEUL2qWtE"
+						}
 					}
 				},
 				{
@@ -345,6 +367,17 @@
 					},
 					"description": {
 						"de": "Beim Andocken eines tessianischen Raumschiffes an die Enterprise kommt es zu einem Unfall, bei dem beide Schiffe miteinander kollidieren. Die zuvor zwecks Vermessungsarbeiten mit einer Raumfähre aufgebrochenen Reed und Tucker wollen wegen defekter Sensoren vorzeitig zum Treffpunkt mit der Enterprise zurückkehren und entdecken dabei Raumschifftrümmer, die sie glauben lassen, die Enterprise sei zerstört und ihre Besatzung tot. Sie schlagen deshalb mit der Fähre, die über keinen funktionierenden Warp-Antrieb verfügt, einen Kurs ein, auf dem sie sich Rettung erhoffen. Dabei bereitet sich Reed, sehr zu Tuckers Unmut, mit Abschiedsbriefen auf seinen baldigen Tod vor. Trotzdem werden die beiden Freunde. Als sie zu erfrieren und zu ersticken drohen, sprengen sie den Antrieb von der Fähre ab, um mit der Explosion auf sich aufmerksam zu machen. Dadurch werden sie schließlich von der Enterprise gerettet."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/AKbt6ZiB6QQ"
+						}
 					}
 				},
 				{
@@ -1024,6 +1057,17 @@
 					},
 					"description": {
 						"de": "Am nördlichen Polarkreis auf der Erde entdeckt ein menschliches Wissenschaftlerteam die Absturzstelle eines fremden Raumschiffes und untersucht die zunächst eingefrorenen Verletzten, bei denen es sich um kybernetische Organismen handelt. Nachdem diese sich mittels Nanotechnologie regeneriert haben, überwältigen und entführen sie die Wissenschaftler und entwenden deren Frachtraumschiff. Mit dem Zurückholen des Teams beauftragt, verfolgt die Enterprise das Schiff und rettet unterwegs zwei verletzte Takalianer von deren Raumschiff, das von dem Frachter angegriffen wurde. Diese wurden von den kybernetischen Wesen infiziert und werden nun – ebenfalls mit Nanotechnologie – in kybernetische Organismen transformiert. Nachdem die beiden ausgebrochen sind und dabei auch Phlox infiziert haben, beginnen sie, die Enterprise zu modifizieren, sodass Archer keine andere Wahl bleibt, als sie zu ihrer Unschädlichmachung in den Weltraum zu befördern. Während die Enterprise den Frachter weiter verfolgt, kann Phlox letztlich erfolgreich seine Infektion heilen. Bei dem Schiff eingetroffen, beginnen die kybernetischen Wesen, die Enterprise zu assimilieren. Die Crew hat keine Hoffnung mehr, die Wissenschaftler unbeschadet zurückzuholen, da diese höchstwahrscheinlich auch assimiliert wurden. Nachdem Archer und Reed in dem Frachter eine Bombe zur Explosion gebracht haben, ziehen sich die Wesen von der Enterprise zurück. Als sich der Frachter zu regenerieren beginnt, lässt ihn Archer durch Beschuss zerstören. Messungen des Kommunikationsverkehrs ergeben, dass die kybernetischen Wesen in den Delta-Quadranten kommunizierten und dorthin zurückkehren wollten."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3S2sZDKmOeY"
+						}
 					}
 				},
 				{
@@ -1324,6 +1368,17 @@
 					},
 					"description": {
 						"de": "Vom Zeitreisenden Daniels erfährt Archer, dass drei reptilianische Xindi in das Jahr 2004 und nach Detroit gereist sind. Archer und T’Pol folgen ihnen dorthin, um hinter ihre Pläne zu kommen. Sie verfolgen einen Mann namens Loomis von einem Fabrikgebäude, in dem die Xindi sich aufhalten, zu seiner Wohnung. Er hält sie für Kriminalpolizisten und gibt zu, dass er einem ihm Unbekannten, bei dem es sich um einen der Xindi handelt, gegen Geld sechs menschliche Probanden gebracht hat, die verschiedene Blutgruppen besitzen. Von Loomis lässt sich Archer als vermeintlicher weiterer Proband in das Fabrikgebäude in der Carpenter Street einschleusen, in dem die Xindi auch die anderen festhalten, um ihnen Blut abzunehmen. Dort entdeckt er die Xindi, als diese gerade mit einem Bioreaktor und dem gewonnenen Blut Viren synthetisieren, um sie gegen die Menschheit einzusetzen. Archer überwältigt mit T’Pols Hilfe die Xindi und kann auch die Freisetzung der Viren in einem öffentlichen Gebäude in letzter Sekunde verhindern. Nachdem Archer und T’Pol mit den toten Xindi, dem Virenbehälter und dem Bioreaktor in das Jahr 2153 und auf die Enterprise zurückgekehrt sind, wird Loomis in Detroit von der Polizei festgenommen."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/1jlh71dI4cw"
+						}
 					}
 				},
 				{
