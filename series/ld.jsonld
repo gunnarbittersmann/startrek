@@ -46,8 +46,12 @@
 			],
 			"review": {
 				"@type": "Review",
-								"video": {
+				"video": {
 					"@type": "VideoObject",
+					"creator": {
+						"@type": "Person",
+						"name": "Jessie Gender"
+					},
 					"embedUrl": "https://www.youtube-nocookie.com/embed/wy3pLwAsGw4"
 				}
 			},
@@ -94,7 +98,7 @@
 							},
 							"video": {
 								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
+								"embedUrl": "https://www.youtube-nocookie.com/embed/4QW5EuULIi8"
 							}
 						}
 					]
@@ -131,17 +135,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/9_6iwVBe5Pw"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -176,17 +169,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/M6NutwSxWJI"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -223,17 +205,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nLF4HMsV1nk"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -268,17 +239,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/i6P_AogWvqE"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -315,17 +275,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/2qhzXma13GI"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -360,17 +309,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/SqpRGpLO8Nc"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -407,17 +345,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/xl0V2bOEEus"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -453,17 +380,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/2VsKm_Bt_KM"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -498,17 +414,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/bhpdhAAxUaU"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -572,17 +477,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/-KnIthczcpE"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -617,17 +511,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/mfHkukZSbmE"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -664,17 +547,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/hR6TnmZjuu0"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -709,17 +581,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/0ouuV7haWa8"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -756,17 +617,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/EythsJoTLIc"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -801,17 +651,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/807utCuq0IY"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -848,17 +687,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/tr5n3qOA62w"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -893,17 +721,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/dlEdS0tWlM8"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -946,17 +763,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/xkWQszjdWrc"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -991,17 +797,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/aPtfg-XDyrY"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -1104,17 +899,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/mTqsN22E_uY"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -1149,17 +933,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/OEeBmdLDV-4"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -1196,17 +969,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ikBx8h4x52M"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -1241,17 +1003,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/stpETxzY8d0"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -1288,17 +1039,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fAcx_rnT4As"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -1333,17 +1073,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fCLXh27agGs"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
@@ -1380,17 +1109,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/GONtKFXwiZc"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
-							}
 						}
 					]
 				},
@@ -1425,17 +1143,6 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/K5y4aDhxqv8"
-							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/"
 							}
 						}
 					]
