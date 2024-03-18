@@ -187,18 +187,32 @@
 						"en": "After a month of successful operations, Lorca is ordered to protect the spore drive until it can be replicated for other Starfleet ships. As he returns to the Discovery, Lorca is taken captive by a group of Klingons led by L’Rell. Burnham has grown concerned by the toll that the drive has taken on Ripper. Along with Stamets’ partner, medical officer Hugh Culber, Burnham convinces Stamets to find an alternative to run the drive. Lorca is imprisoned with captured Starfleet officer Ash Tyler and human criminal Harry Mudd, and in discussions Lorca reveals that he killed his entire crew during an earlier battle to spare them from the Klingons’ torture, but escaped himself. Lorca is tortured by L’Rell, who wants to learn the secret behind Discovery’s new form of travel, but Lorca and Tyler escape before the Klingons can learn anything about it. For the final jump needed to escape the Klingons, with Lorca and Tyler onboard, Stamets connects to the spore drive himself using Ripper’s DNA. Later, Burnham frees Ripper while Stamets’ reflection in a mirror does not walk away when he does.",
 						"de": "Lorcas Vorgesetzte in der Sternenflotte möchten zum einen, dass auch andere Sternenflottenschiffe mit dem Sporenantrieb ausgerüstet werden, und zum anderen, dass die Discovery den Sporenantrieb bis auf weiteres nicht mehr einsetzt, damit die Klingonen nicht auf ihn aufmerksam werden. Während des Fluges mit einem Shuttle wird Lorca von Klingonen entführt. Auf einem klingonischen Raumschiff ist er zusammen mit dem Sternenflottenmann Ash Tyler und dem Glücksritter Harry Mudd gefangen. Lorca und Tyler werden von den Klingonen gefoltert und lassen Mudd bei ihrer gewaltsamen Flucht aus dem Gefängnis zurück, weil er sie durch geheime Informationsweitergabe an die Klingonen hintergangen hat. Indes entdeckt Burnham auf der Discovery, dass der Sporenantrieb, wenn er unter Zuhilfenahme des Tardigrade eingesetzt wird, zu einer deutlichen Verschlechterung der physischen Kondition des Tardigrade führt. Indem sich die Discovery mit Hilfe des Sporenantriebs in die Nähe von Lorcas Gefangenschaftsort transloziert, schrumpft bzw. dehydriert der Tardigrade erheblich. Die Discovery rettet die beiden Geflüchteten. Um den Tardigrade zu schonen, injiziert sich Stamets etwas von seiner DNS, wodurch er seinen eigenen Körper für den Betrieb des Sporenantriebs nutzen kann und damit die Flucht der Discovery vor den Klingonen ermöglicht. Um den Tardigrade zu retten, entlassen Burnham und Stamets ihn ins All und damit ins Myzeliennetzwerk."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Retro Review",
-						"creator": {
-							"@type": "Person",
-							"name": "Jessie Gender"
-						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
-						}
-					}
+					"review": [
+						{
+  						"@type": "Review",
+  						"name": "Retro Review",
+  						"creator": {
+  							"@type": "Person",
+  							"name": "Jessie Gender"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/Zk1tzvcRF8Q"
+  						}
+  					},
+						{
+  						"@type": "Review",
+  						"name": "Retro Review",
+  						"creator": {
+  							"@type": "Person",
+  							"name": "Steve Shives"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/alu4TwUKhdQ"
+  						}
+  					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -486,7 +500,21 @@
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
 						"de": "Tyler teilt mit, dass zum Kartografieren und zum Ermitteln von Angriffszielen eine Drohne in das ruhende Vulkansystem unter der Planetenoberfläche von Qo’noS eindringen sollte. Die Discovery springt mit dem Sporenantrieb zu einer nahen Höhle, und ein Außenteam, bestehend aus Georgiou, Burnham, Tilly und Tyler, gibt sich als Händler aus. Tilly entdeckt, dass das vulkanische System aktiv ist und dass die Drohne, die Georgiou dabei hat, in Wirklichkeit eine Wasserstoffbombe ist. Mit dieser Erkenntnis konfrontiert Burnham Admiral Cornwell, welche zugibt, dass die Detonation der Bombe in dem aktiven Vulkan sämtliches Leben auf Qo’noS auslöschen soll, damit die Föderation so den Krieg gewinnt. Burnham insistiert darauf, dass die Sternenflotte keinen Genozid anrichten sollte und zwingt Georgiou dazu, die Bombe im Tausch für ihre Freiheit zurückzugeben. Jedoch überreichen sie die Bombe an die Klingonin L’Rell, die die Bedrohung mit der Massenvernichtungswaffe dazu nutzt, unter ihrer Führerschaft die klingonischen Häuser zu vereinen und den Krieg zu beenden. Die Mitglieder der Discovery-Besatzung werden als Helden gefeiert. Burnham erhält offiziell eine Rehabilitation und ihren früheren Rang eines Commanders zurück. Tyler beschließt, bei L’Rell zu bleiben. Als die Discovery mit Warpgeschwindigkeit zum Planeten Vulkan fliegt, empfängt sie einen Notruf von der U.S.S. Enterprise."
-					}
+					},
+					"review": [
+						{
+  						"@type": "Review",
+  						"name": "Retro Review",
+  						"creator": {
+  							"@type": "Person",
+  							"name": "Steve Shives"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
+  						}
+  					}
+					]
 				}
 			]
 		},
