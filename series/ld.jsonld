@@ -438,7 +438,11 @@
 			],
 			"review": {
 				"@type": "Review",
-								"video": {
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
 					"@type": "VideoObject",
 					"embedUrl": "https://www.youtube-nocookie.com/embed/WZR6Ia3Azh4"
 				}
@@ -1038,6 +1042,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fAcx_rnT4As"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+  							"@type": "Person",
+  							"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/if4osHJvVDo"
 							}
 						}
 					]
