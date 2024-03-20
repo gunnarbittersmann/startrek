@@ -883,17 +883,6 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5S1s8J62brs"
 							}
-						},
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/eUKbf1krhDw"
-							}
 						}
 					]
 				},
