@@ -1320,6 +1320,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.8" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.9" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/bLDscT-MM0k"
@@ -1781,6 +1785,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.1" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/soVHpjNZG9c"
@@ -3640,6 +3648,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#6.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.1" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/NvUrEe74SIo"
@@ -4035,6 +4047,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.16" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.17" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/u7EZgxDEFSY"
