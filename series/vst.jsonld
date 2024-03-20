@@ -173,31 +173,17 @@
 					"abstract": {
 						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
 					},
-					"review": [
-						{
-							"@type": "Review",
-							"creator": {
-  							"@type": "Person",
-  							"name": "Jessie Gender"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/S7_6gonqiIA"
-							}
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Jessie Gender"
 						},
-						{
-							"@type": "Review",
-							"name": "Ups & Downs",
-							"creator": {
-  							"@type": "Organization",
-  							"name": "TrekCulture"
-  						},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
-							}
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/S7_6gonqiIA"
 						}
-					]
+					}
 				}
 			]
 		}
