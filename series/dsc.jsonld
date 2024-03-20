@@ -45,6 +45,17 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Steve Shives"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
+				}
+			},
 			"numberOfEpisodes": 15,
 			"episode": [
 				{
@@ -499,20 +510,7 @@
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
 						"de": "Tyler teilt mit, dass zum Kartografieren und zum Ermitteln von Angriffszielen eine Drohne in das ruhende Vulkansystem unter der Planetenoberfläche von Qo’noS eindringen sollte. Die Discovery springt mit dem Sporenantrieb zu einer nahen Höhle, und ein Außenteam, bestehend aus Georgiou, Burnham, Tilly und Tyler, gibt sich als Händler aus. Tilly entdeckt, dass das vulkanische System aktiv ist und dass die Drohne, die Georgiou dabei hat, in Wirklichkeit eine Wasserstoffbombe ist. Mit dieser Erkenntnis konfrontiert Burnham Admiral Cornwell, welche zugibt, dass die Detonation der Bombe in dem aktiven Vulkan sämtliches Leben auf Qo’noS auslöschen soll, damit die Föderation so den Krieg gewinnt. Burnham insistiert darauf, dass die Sternenflotte keinen Genozid anrichten sollte und zwingt Georgiou dazu, die Bombe im Tausch für ihre Freiheit zurückzugeben. Jedoch überreichen sie die Bombe an die Klingonin L’Rell, die die Bedrohung mit der Massenvernichtungswaffe dazu nutzt, unter ihrer Führerschaft die klingonischen Häuser zu vereinen und den Krieg zu beenden. Die Mitglieder der Discovery-Besatzung werden als Helden gefeiert. Burnham erhält offiziell eine Rehabilitation und ihren früheren Rang eines Commanders zurück. Tyler beschließt, bei L’Rell zu bleiben. Als die Discovery mit Warpgeschwindigkeit zum Planeten Vulkan fliegt, empfängt sie einen Notruf von der U.S.S. Enterprise."
-					},
-					"review": [
-						{
-							"@type": "Review",
-							"creator": {
-								"@type": "Person",
-								"name": "Steve Shives"
-							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/0yRsFtyKELc"
-							}
-						}
-					]
+					}
 				}
 			]
 		},
