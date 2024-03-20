@@ -93,6 +93,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/LidTdqs2UFY"
@@ -1756,6 +1760,10 @@
 								"@type": "Organization",
 								"name": "TrekCulture"
 							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#3.26" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#4.1" }
+							],
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/K4Z1K8LYnGw"
@@ -1767,6 +1775,10 @@
 								"@type": "Person",
 								"name": "Steve Shives"
 							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#3.26" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#4.1" }
+							],
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/1WBbAfLLM7E"
@@ -2514,6 +2526,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#5.7" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#5.8" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/iFKKpsEnqQc"
@@ -2956,6 +2972,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#5.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#6.1" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/ahjQhtTdcYc"
@@ -3220,6 +3240,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#6.10" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#6.11" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/xWCmjGZbFmE"
