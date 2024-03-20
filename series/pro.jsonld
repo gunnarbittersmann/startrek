@@ -348,6 +348,13 @@
 							"@type": "Organization",
 							"name": "TrekCulture"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#1.6" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#1.7" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#1.8" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#1.9" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#1.10" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/7sDQVbfdC1E"
