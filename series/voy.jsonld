@@ -42,6 +42,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.1-1.2",
 					"episodeNumber": "1.1, 1.2",
 					"name": "Caretaker",
 					"datePublished": "1995-01-16",
@@ -76,6 +77,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.3",
 					"episodeNumber": "1.3",
 					"name": "Parallax",
 					"datePublished": "1995-01-23",
@@ -110,6 +112,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.4",
 					"episodeNumber": "1.4",
 					"name": "Time and Again",
 					"datePublished": "1995-01-30",
@@ -133,6 +136,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.5",
 					"episodeNumber": "1.5",
 					"name": "Phage",
 					"datePublished": "1995-02-06",
@@ -156,6 +160,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.6",
 					"episodeNumber": "1.6",
 					"name": "The Cloud",
 					"datePublished": "1995-02-13",
@@ -179,6 +184,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.7",
 					"episodeNumber": "1.7",
 					"name": "Eye of the Needle",
 					"datePublished": "1995-02-20",
@@ -202,6 +208,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.8",
 					"episodeNumber": "1.8",
 					"name": "Ex Post Facto",
 					"datePublished": "1995-02-27",
@@ -225,6 +232,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.9",
 					"episodeNumber": "1.9",
 					"name": "Emanations",
 					"datePublished": "1995-03-13",
@@ -248,6 +256,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.10",
 					"episodeNumber": "1.10",
 					"name": "Prime Factors",
 					"datePublished": "1995-03-20",
@@ -271,6 +280,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.11",
 					"episodeNumber": "1.11",
 					"name": "State of Flux",
 					"datePublished": "1995-04-10",
@@ -294,6 +304,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.12",
 					"episodeNumber": "1.12",
 					"name": "Heroes and Demons",
 					"datePublished": "1995-04-24",
@@ -317,6 +328,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.13",
 					"episodeNumber": "1.13",
 					"name": "Cathexis",
 					"datePublished": "1995-05-01",
@@ -340,6 +352,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.14",
 					"episodeNumber": "1.14",
 					"name": "Faces",
 					"datePublished": "1995-05-08",
@@ -363,6 +376,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.15",
 					"episodeNumber": "1.15",
 					"name": "Jetrel",
 					"datePublished": "1995-05-15",
@@ -386,6 +400,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#1.16",
 					"episodeNumber": "1.16",
 					"name": "Learning Curve",
 					"datePublished": "1995-05-22",
@@ -422,6 +437,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.1",
 					"episodeNumber": "2.1",
 					"name": "The 37’s",
 					"datePublished": "1995-08-28",
@@ -445,6 +461,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.2",
 					"episodeNumber": "2.2",
 					"name": "Initiations",
 					"datePublished": "1995-09-04",
@@ -468,6 +485,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.3",
 					"episodeNumber": "2.3",
 					"name": "Projections",
 					"datePublished": "1995-09-11",
@@ -491,6 +509,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.4",
 					"episodeNumber": "2.4",
 					"name": "Elogium",
 					"datePublished": "1995-09-18",
@@ -511,6 +530,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.5",
 					"episodeNumber": "2.5",
 					"name": "Non Sequitur",
 					"datePublished": "1995-09-25",
@@ -534,6 +554,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.6",
 					"episodeNumber": "2.6",
 					"name": "Twisted",
 					"datePublished": "1995-10-02",
@@ -557,6 +578,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.7",
 					"episodeNumber": "2.7",
 					"name": "Parturition",
 					"datePublished": "1995-10-09",
@@ -580,6 +602,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.8",
 					"episodeNumber": "2.8",
 					"name": "Persistence of Vision",
 					"datePublished": "1995-10-30",
@@ -603,6 +626,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.9",
 					"episodeNumber": "2.9",
 					"name": "Tattoo",
 					"datePublished": "1995-11-06",
@@ -626,6 +650,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.10",
 					"episodeNumber": "2.10",
 					"name": "Cold Fire",
 					"datePublished": "1995-11-13",
@@ -649,6 +674,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.11",
 					"episodeNumber": "2.11",
 					"name": "Maneuvers",
 					"datePublished": "1995-11-20",
@@ -669,6 +695,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.12",
 					"episodeNumber": "2.12",
 					"name": "Resistance",
 					"datePublished": "1995-11-27",
@@ -689,6 +716,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.13",
 					"episodeNumber": "2.13",
 					"name": "Prototype",
 					"datePublished": "1996-01-15",
@@ -712,6 +740,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.14",
 					"episodeNumber": "2.14",
 					"name": "Alliances",
 					"datePublished": "1996-01-22",
@@ -735,6 +764,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.15",
 					"episodeNumber": "2.15",
 					"name": "Threshold",
 					"datePublished": "1996-01-29",
@@ -767,6 +797,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.16",
 					"episodeNumber": "2.16",
 					"name": "Meld",
 					"datePublished": "1996-02-05",
@@ -790,6 +821,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.17",
 					"episodeNumber": "2.17",
 					"name": "Dreadnought",
 					"datePublished": "1996-02-12",
@@ -813,6 +845,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.18",
 					"episodeNumber": "2.18",
 					"name": "Death Wish",
 					"datePublished": "1996-02-19",
@@ -847,6 +880,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.19",
 					"episodeNumber": "2.19",
 					"name": "Lifesigns",
 					"datePublished": "1996-02-26",
@@ -870,6 +904,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.20",
 					"episodeNumber": "2.20",
 					"name": "Investigations",
 					"datePublished": "1996-03-13",
@@ -893,6 +928,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.21",
 					"episodeNumber": "2.21",
 					"name": "Deadlock",
 					"datePublished": "1996-03-18",
@@ -916,6 +952,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.22",
 					"episodeNumber": "2.22",
 					"name": "Innocence",
 					"datePublished": "1996-04-08",
@@ -939,6 +976,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.23",
 					"episodeNumber": "2.23",
 					"name": "The Thaw",
 					"datePublished": "1996-04-29",
@@ -970,6 +1008,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.24",
 					"episodeNumber": "2.24",
 					"name": "Tuvix",
 					"datePublished": "1996-05-06",
@@ -993,6 +1032,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.25",
 					"episodeNumber": "2.25",
 					"name": "Resolutions",
 					"datePublished": "1996-05-13",
@@ -1016,6 +1056,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#2.26",
 					"episodeNumber": "2.26",
 					"name": "Basics, Part I",
 					"datePublished": "1996-05-20",
@@ -1052,6 +1093,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.1",
 					"episodeNumber": "3.1",
 					"name": "Basics, Part II",
 					"datePublished": "1996-09-04",
@@ -1075,6 +1117,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.2",
 					"episodeNumber": "3.2",
 					"name": "Flashback",
 					"datePublished": "1996-09-11",
@@ -1109,6 +1152,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.3",
 					"episodeNumber": "3.3",
 					"name": "The Chute",
 					"datePublished": "1996-09-18",
@@ -1132,6 +1176,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.4",
 					"episodeNumber": "3.4",
 					"name": "The Swarm",
 					"datePublished": "1996-09-25",
@@ -1155,6 +1200,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.5",
 					"episodeNumber": "3.5",
 					"name": "False Profits",
 					"datePublished": "1996-10-02",
@@ -1178,6 +1224,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.6",
 					"episodeNumber": "3.6",
 					"name": "Remember",
 					"datePublished": "1996-10-09",
@@ -1201,6 +1248,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.7",
 					"episodeNumber": "3.7",
 					"name": "Sacred Ground",
 					"datePublished": "1996-10-30",
@@ -1221,6 +1269,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.8",
 					"episodeNumber": "3.8",
 					"name": "Future’s End",
 					"datePublished": "1996-11-06",
@@ -1244,6 +1293,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.9",
 					"episodeNumber": "3.9",
 					"name": "Future’s End, Part II",
 					"datePublished": "1996-11-13",
@@ -1270,6 +1320,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.8" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.9" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/bLDscT-MM0k"
@@ -1278,6 +1332,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.10",
 					"episodeNumber": "3.10",
 					"name": "Warlord",
 					"datePublished": "1996-11-20",
@@ -1301,6 +1356,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.11",
 					"episodeNumber": "3.11",
 					"name": "The Q and the Grey",
 					"datePublished": "1996-11-27",
@@ -1335,6 +1391,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.12",
 					"episodeNumber": "3.12",
 					"name": "Macrocosm",
 					"datePublished": "1996-12-11",
@@ -1358,6 +1415,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.13",
 					"episodeNumber": "3.13",
 					"name": "Fair Trade",
 					"datePublished": "1997-01-08",
@@ -1381,6 +1439,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.14",
 					"episodeNumber": "3.14",
 					"name": "Alter Ego",
 					"datePublished": "1997-01-15",
@@ -1404,6 +1463,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.15",
 					"episodeNumber": "3.15",
 					"name": "Coda",
 					"datePublished": "1997-01-29",
@@ -1427,6 +1487,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.16",
 					"episodeNumber": "3.16",
 					"name": "Blood Fever",
 					"datePublished": "1997-02-05",
@@ -1447,6 +1508,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.17",
 					"episodeNumber": "3.17",
 					"name": "Unity",
 					"datePublished": "1997-02-12",
@@ -1470,6 +1532,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.18",
 					"episodeNumber": "3.18",
 					"name": "Darkling",
 					"datePublished": "1997-02-19",
@@ -1493,6 +1556,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.19",
 					"episodeNumber": "3.19",
 					"name": "Rise",
 					"datePublished": "1997-02-26",
@@ -1516,6 +1580,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.20",
 					"episodeNumber": "3.20",
 					"name": "Favorite Son",
 					"datePublished": "1997-03-19",
@@ -1536,6 +1601,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.21",
 					"episodeNumber": "3.21",
 					"name": "Before and After",
 					"datePublished": "1997-04-09",
@@ -1559,6 +1625,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.22",
 					"episodeNumber": "3.22",
 					"name": "Real Life",
 					"datePublished": "1997-04-23",
@@ -1582,6 +1649,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.23",
 					"episodeNumber": "3.23",
 					"name": "Distant Origin",
 					"datePublished": "1997-04-30",
@@ -1605,6 +1673,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.24",
 					"episodeNumber": "3.24",
 					"name": "Displaced",
 					"datePublished": "1997-05-07",
@@ -1628,6 +1697,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.25",
 					"episodeNumber": "3.25",
 					"name": "Worst Case Scenario",
 					"datePublished": "1997-05-14",
@@ -1651,6 +1721,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#3.26",
 					"episodeNumber": "3.26",
 					"name": "Scorpion",
 					"datePublished": "1997-05-21",
@@ -1687,6 +1758,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.1",
 					"episodeNumber": "4.1",
 					"name": "Scorpion, Part II",
 					"datePublished": "1997-09-03",
@@ -1713,6 +1785,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.1" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/soVHpjNZG9c"
@@ -1721,6 +1797,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.2",
 					"episodeNumber": "4.2",
 					"name": "The Gift",
 					"datePublished": "1997-09-10",
@@ -1744,6 +1821,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.3",
 					"episodeNumber": "4.3",
 					"name": "Day of Honor",
 					"datePublished": "1997-09-17",
@@ -1767,6 +1845,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.4",
 					"episodeNumber": "4.4",
 					"name": "Nemesis",
 					"datePublished": "1997-09-24",
@@ -1790,6 +1869,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.5",
 					"episodeNumber": "4.5",
 					"name": "Revulsion",
 					"datePublished": "1997-10-01",
@@ -1813,6 +1893,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.6",
 					"episodeNumber": "4.6",
 					"name": "The Raven",
 					"datePublished": "1997-10-08",
@@ -1836,6 +1917,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.7",
 					"episodeNumber": "4.7",
 					"name": "Scientific Method",
 					"datePublished": "1997-10-29",
@@ -1859,6 +1941,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.8",
 					"episodeNumber": "4.8",
 					"name": "Year of Hell",
 					"datePublished": "1997-11-05",
@@ -1882,6 +1965,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.9",
 					"episodeNumber": "4.9",
 					"name": "Year of Hell, Part II",
 					"datePublished": "1997-11-12",
@@ -1905,6 +1989,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.10",
 					"episodeNumber": "4.10",
 					"name": "Random Thoughts",
 					"datePublished": "1997-11-19",
@@ -1928,6 +2013,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.11",
 					"episodeNumber": "4.11",
 					"name": "Concerning Flight",
 					"datePublished": "1997-11-26",
@@ -1951,6 +2037,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.12",
 					"episodeNumber": "4.12",
 					"name": "Mortal Coil",
 					"datePublished": "1997-12-17",
@@ -1974,6 +2061,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.13",
 					"episodeNumber": "4.13",
 					"name": "Waking Moments",
 					"datePublished": "1998-01-14",
@@ -1997,6 +2085,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.14",
 					"episodeNumber": "4.14",
 					"name": "Message in a Bottle",
 					"datePublished": "1998-01-21",
@@ -2020,6 +2109,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.15",
 					"episodeNumber": "4.15",
 					"name": "Hunters",
 					"datePublished": "1998-02-11",
@@ -2043,6 +2133,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.16",
 					"episodeNumber": "4.16",
 					"name": "Prey",
 					"datePublished": "1998-02-18",
@@ -2066,6 +2157,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.17",
 					"episodeNumber": "4.17",
 					"name": "Retrospect",
 					"datePublished": "1998-02-25",
@@ -2089,6 +2181,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.18",
 					"episodeNumber": "4.18",
 					"name": "The Killing Game (1)",
 					"datePublished": "1998-03-04",
@@ -2112,6 +2205,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.19",
 					"episodeNumber": "4.19",
 					"name": "The Killing Game (2)",
 					"datePublished": "1998-03-04",
@@ -2135,6 +2229,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.20",
 					"episodeNumber": "4.20",
 					"name": "Vis à Vis",
 					"datePublished": "1998-04-08",
@@ -2158,6 +2253,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.21",
 					"episodeNumber": "4.21",
 					"name": "The Omega Directive",
 					"datePublished": "1998-04-15",
@@ -2181,6 +2277,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.22",
 					"episodeNumber": "4.22",
 					"name": "Unforgettable",
 					"datePublished": "1998-04-22",
@@ -2204,6 +2301,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.23",
 					"episodeNumber": "4.23",
 					"name": "Living Witness",
 					"datePublished": "1998-04-29",
@@ -2227,6 +2325,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.24",
 					"episodeNumber": "4.24",
 					"name": "Demon",
 					"datePublished": "1998-05-06",
@@ -2250,6 +2349,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.25",
 					"episodeNumber": "4.25",
 					"name": "One",
 					"datePublished": "1998-05-13",
@@ -2273,6 +2373,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#4.26",
 					"episodeNumber": "4.26",
 					"name": "Hope and Fear",
 					"datePublished": "1998-05-20",
@@ -2309,6 +2410,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.1",
 					"episodeNumber": "5.1",
 					"name": "Night",
 					"datePublished": "1998-10-14",
@@ -2332,6 +2434,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.2",
 					"episodeNumber": "5.2",
 					"name": "Drone",
 					"datePublished": "1998-10-21",
@@ -2355,6 +2458,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.3",
 					"episodeNumber": "5.3",
 					"name": "Extreme Risk",
 					"datePublished": "1998-10-28",
@@ -2378,6 +2482,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.4",
 					"episodeNumber": "5.4",
 					"name": "In the Flesh",
 					"datePublished": "1998-11-04",
@@ -2398,6 +2503,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.5",
 					"episodeNumber": "5.5",
 					"name": "Once Upon a Time",
 					"datePublished": "1998-11-11",
@@ -2418,6 +2524,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.6",
 					"episodeNumber": "5.6",
 					"name": "Timeless",
 					"datePublished": "1998-11-18",
@@ -2441,6 +2548,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.7",
 					"episodeNumber": "5.7",
 					"name": "Infinite Regress",
 					"datePublished": "1998-11-25",
@@ -2461,6 +2569,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.8",
 					"episodeNumber": "5.8",
 					"name": "Nothing Human",
 					"datePublished": "1998-12-02",
@@ -2481,6 +2590,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.9",
 					"episodeNumber": "5.9",
 					"name": "Thirty Days",
 					"datePublished": "1998-12-09",
@@ -2501,6 +2611,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.10",
 					"episodeNumber": "5.10",
 					"name": "Counterpoint",
 					"datePublished": "1998-12-16",
@@ -2521,6 +2632,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.11",
 					"episodeNumber": "5.11",
 					"name": "Latent Image",
 					"datePublished": "1999-01-20",
@@ -2544,6 +2656,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.12",
 					"episodeNumber": "5.12",
 					"name": "Bride of Chaotica!",
 					"datePublished": "1999-01-27",
@@ -2564,6 +2677,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.13",
 					"episodeNumber": "5.13",
 					"name": "Gravity",
 					"datePublished": "1999-02-03",
@@ -2584,6 +2698,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.14",
 					"episodeNumber": "5.14",
 					"name": "Bliss",
 					"datePublished": "1999-02-10",
@@ -2604,6 +2719,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.15",
 					"episodeNumber": "5.15",
 					"name": "Dark Frontier (1)",
 					"datePublished": "1999-02-17",
@@ -2624,6 +2740,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.16",
 					"episodeNumber": "5.16",
 					"name": "Dark Frontier (2)",
 					"datePublished": "1999-02-17",
@@ -2644,6 +2761,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.17",
 					"episodeNumber": "5.17",
 					"name": "The Disease",
 					"datePublished": "1999-02-24",
@@ -2664,6 +2782,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.18",
 					"episodeNumber": "5.18",
 					"name": "Course: Oblivion",
 					"datePublished": "1999-03-03",
@@ -2684,6 +2803,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.19",
 					"episodeNumber": "5.19",
 					"name": "The Fight",
 					"datePublished": "1999-03-24",
@@ -2704,6 +2824,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.20",
 					"episodeNumber": "5.20",
 					"name": "Think Tank",
 					"datePublished": "1999-03-31",
@@ -2724,6 +2845,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.21",
 					"episodeNumber": "5.21",
 					"name": "Juggernaut",
 					"datePublished": "1999-04-26",
@@ -2744,6 +2866,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.22",
 					"episodeNumber": "5.22",
 					"name": "Someone to Watch Over Me",
 					"datePublished": "1999-04-28",
@@ -2764,6 +2887,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.23",
 					"episodeNumber": "5.23",
 					"name": "11:59",
 					"datePublished": "1999-05-05",
@@ -2784,6 +2908,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.24",
 					"episodeNumber": "5.24",
 					"name": "Relativity",
 					"datePublished": "1999-05-12",
@@ -2804,6 +2929,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.25",
 					"episodeNumber": "5.25",
 					"name": "Warhead",
 					"datePublished": "1999-05-19",
@@ -2824,6 +2950,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#5.26",
 					"episodeNumber": "5.26",
 					"name": "Equinox",
 					"datePublished": "1999-05-26",
@@ -2857,6 +2984,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.1",
 					"episodeNumber": "6.1",
 					"name": "Equinox, Part II",
 					"datePublished": "1999-09-22",
@@ -2880,6 +3008,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.2",
 					"episodeNumber": "6.2",
 					"name": "Survival Instinct",
 					"datePublished": "1999-09-29",
@@ -2903,6 +3032,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.3",
 					"episodeNumber": "6.3",
 					"name": "Barge of the Dead",
 					"datePublished": "1999-10-06",
@@ -2926,6 +3056,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.4",
 					"episodeNumber": "6.4",
 					"name": "Tinker, Tenor, Doctor, Spy",
 					"datePublished": "1999-10-13",
@@ -2949,6 +3080,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.5",
 					"episodeNumber": "6.5",
 					"name": "Alice",
 					"datePublished": "1999-10-20",
@@ -2972,6 +3104,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.6",
 					"episodeNumber": "6.6",
 					"name": "Riddles",
 					"datePublished": "1999-11-03",
@@ -2995,6 +3128,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.7",
 					"episodeNumber": "6.7",
 					"name": "Dragon’s Teeth",
 					"datePublished": "1999-11-10",
@@ -3018,6 +3152,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.8",
 					"episodeNumber": "6.8",
 					"name": "One Small Step",
 					"datePublished": "1999-11-17",
@@ -3041,6 +3176,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.9",
 					"episodeNumber": "6.9",
 					"name": "The Voyager Conspiracy",
 					"datePublished": "1999-11-24",
@@ -3064,6 +3200,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.10",
 					"episodeNumber": "6.10",
 					"name": "Pathfinder",
 					"datePublished": "1999-12-01",
@@ -3087,6 +3224,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.11",
 					"episodeNumber": "6.11",
 					"name": "Fair Haven",
 					"datePublished": "2000-01-12",
@@ -3110,6 +3248,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.12",
 					"episodeNumber": "6.12",
 					"name": "Blink of an Eye",
 					"datePublished": "2000-01-19",
@@ -3133,6 +3272,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.13",
 					"episodeNumber": "6.13",
 					"name": "Virtuoso",
 					"datePublished": "2000-01-26",
@@ -3156,6 +3296,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.14",
 					"episodeNumber": "6.14",
 					"name": "Memorial",
 					"datePublished": "2000-02-02",
@@ -3179,6 +3320,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.15",
 					"episodeNumber": "6.15",
 					"name": "Tsunkatse",
 					"datePublished": "2000-02-09",
@@ -3202,6 +3344,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.16",
 					"episodeNumber": "6.16",
 					"name": "Collective",
 					"datePublished": "2000-02-16",
@@ -3225,6 +3368,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.17",
 					"episodeNumber": "6.17",
 					"name": "Spirit Folk",
 					"datePublished": "2000-02-23",
@@ -3248,6 +3392,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.18",
 					"episodeNumber": "6.18",
 					"name": "Ashes to Ashes",
 					"datePublished": "2000-03-01",
@@ -3271,6 +3416,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.19",
 					"episodeNumber": "6.19",
 					"name": "Child’s Play",
 					"datePublished": "2000-03-08",
@@ -3294,6 +3440,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.20",
 					"episodeNumber": "6.20",
 					"name": "Good Shepherd",
 					"datePublished": "2000-03-15",
@@ -3317,6 +3464,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.21",
 					"episodeNumber": "6.21",
 					"name": "Live Fast and Prosper",
 					"datePublished": "2000-04-19",
@@ -3340,6 +3488,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.22",
 					"episodeNumber": "6.22",
 					"name": "Muse",
 					"datePublished": "2000-04-26",
@@ -3363,6 +3512,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.23",
 					"episodeNumber": "6.23",
 					"name": "Fury",
 					"datePublished": "2000-05-03",
@@ -3386,6 +3536,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.24",
 					"episodeNumber": "6.24",
 					"name": "Life Line",
 					"datePublished": "2000-05-10",
@@ -3409,6 +3560,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.25",
 					"episodeNumber": "6.25",
 					"name": "The Haunting of Deck Twelve",
 					"datePublished": "2000-05-17",
@@ -3432,6 +3584,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#6.26",
 					"episodeNumber": "6.26",
 					"name": "Unimatrix Zero",
 					"datePublished": "2000-05-24",
@@ -3468,6 +3621,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.1",
 					"episodeNumber": "7.1",
 					"name": "Unimatrix Zero, Part II",
 					"datePublished": "2000-10-04",
@@ -3494,6 +3648,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#6.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.1" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/NvUrEe74SIo"
@@ -3502,6 +3660,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.2",
 					"episodeNumber": "7.2",
 					"name": "Imperfection",
 					"datePublished": "2000-10-11",
@@ -3525,6 +3684,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.3",
 					"episodeNumber": "7.3",
 					"name": "Drive",
 					"datePublished": "2000-10-18",
@@ -3548,6 +3708,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.4",
 					"episodeNumber": "7.4",
 					"name": "Repression",
 					"datePublished": "2000-10-25",
@@ -3571,6 +3732,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.5",
 					"episodeNumber": "7.5",
 					"name": "Critical Care",
 					"datePublished": "2000-11-01",
@@ -3594,6 +3756,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.6",
 					"episodeNumber": "7.6",
 					"name": "Inside Man",
 					"datePublished": "2000-11-08",
@@ -3617,6 +3780,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.7",
 					"episodeNumber": "7.7",
 					"name": "Body and Soul",
 					"datePublished": "2000-11-15",
@@ -3640,6 +3804,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.8",
 					"episodeNumber": "7.8",
 					"name": "Nightingale",
 					"datePublished": "2000-11-22",
@@ -3663,6 +3828,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.9",
 					"episodeNumber": "7.9",
 					"name": "Flesh and Blood (1)",
 					"datePublished": "2000-11-29",
@@ -3686,6 +3852,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.10",
 					"episodeNumber": "7.10",
 					"name": "Flesh and Blood (2)",
 					"datePublished": "2000-11-29",
@@ -3709,6 +3876,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.11",
 					"episodeNumber": "7.11",
 					"name": "Shattered",
 					"datePublished": "2001-01-17",
@@ -3732,6 +3900,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.12",
 					"episodeNumber": "7.12",
 					"name": "Lineage",
 					"datePublished": "2001-01-24",
@@ -3755,6 +3924,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.13",
 					"episodeNumber": "7.13",
 					"name": "Repentance",
 					"datePublished": "2001-01-31",
@@ -3778,6 +3948,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.14",
 					"episodeNumber": "7.14",
 					"name": "Prophecy",
 					"datePublished": "2001-02-07",
@@ -3801,6 +3972,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.15",
 					"episodeNumber": "7.15",
 					"name": "The Void",
 					"datePublished": "2001-02-14",
@@ -3824,6 +3996,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.16",
 					"episodeNumber": "7.16",
 					"name": "Workforce",
 					"datePublished": "2001-02-21",
@@ -3847,6 +4020,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.17",
 					"episodeNumber": "7.17",
 					"name": "Workforce, Part II",
 					"datePublished": "2001-02-28",
@@ -3873,6 +4047,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.16" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#7.17" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/u7EZgxDEFSY"
@@ -3881,6 +4059,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.18",
 					"episodeNumber": "7.18",
 					"name": "Human Error",
 					"datePublished": "2001-03-07",
@@ -3904,6 +4083,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.19",
 					"episodeNumber": "7.19",
 					"name": "Q2",
 					"datePublished": "2001-04-11",
@@ -3938,6 +4118,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.20",
 					"episodeNumber": "7.20",
 					"name": "Author, Author",
 					"datePublished": "2001-04-18",
@@ -3972,6 +4153,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.21",
 					"episodeNumber": "7.21",
 					"name": "Friendship One",
 					"datePublished": "2001-04-25",
@@ -3995,6 +4177,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.22",
 					"episodeNumber": "7.22",
 					"name": "Natural Law",
 					"datePublished": "2001-05-02",
@@ -4018,6 +4201,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.23",
 					"episodeNumber": "7.23",
 					"name": "Homestead",
 					"datePublished": "2001-05-09",
@@ -4041,6 +4225,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.24",
 					"episodeNumber": "7.24",
 					"name": "Renaissance Man",
 					"datePublished": "2001-05-16",
@@ -4064,6 +4249,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.25",
 					"episodeNumber": "7.25",
 					"name": "Endgame (1)",
 					"datePublished": "2001-05-23",
@@ -4087,6 +4273,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/voy#7.26",
 					"episodeNumber": "7.26",
 					"name": "Endgame (2)",
 					"datePublished": "2001-05-23",
