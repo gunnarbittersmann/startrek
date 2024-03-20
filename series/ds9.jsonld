@@ -1312,6 +1312,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
