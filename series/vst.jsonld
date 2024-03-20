@@ -42,6 +42,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/vst#1",
 					"episodeNumber": "1",
 					"name": "Skin a Cat",
 					"datePublished": "2023-09-08",
@@ -71,6 +72,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/vst#2",
 					"episodeNumber": "2",
 					"name": "Holiday Party",
 					"datePublished": "2023-09-13",
@@ -100,6 +102,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/vst#3",
 					"episodeNumber": "3",
 					"name": "Worst Contact",
 					"datePublished": "2023-09-20",
@@ -129,6 +132,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/vst#4",
 					"episodeNumber": "4",
 					"name": "Holograms, All the Way Down",
 					"datePublished": "2023-09-27",
@@ -158,6 +162,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/vst#5",
 					"episodeNumber": "5",
 					"name": "Walk, Don’t Run",
 					"datePublished": "2023-10-04",

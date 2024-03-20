@@ -56,6 +56,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.1",
 					"episodeNumber": "1.1",
 					"name": "Remembrance",
 					"datePublished": "2020-01-23",
@@ -89,6 +90,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.2",
 					"episodeNumber": "1.2",
 					"name": "Maps and Legends",
 					"datePublished": "2020-01-30",
@@ -122,6 +124,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.3",
 					"episodeNumber": "1.3",
 					"name": "The End is the Beginning",
 					"datePublished": "2020-02-06",
@@ -143,6 +146,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.4",
 					"episodeNumber": "1.4",
 					"name": "Absolute Candor",
 					"datePublished": "2020-02-13",
@@ -176,6 +180,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.5",
 					"episodeNumber": "1.5",
 					"name": "Stardust City Rag",
 					"datePublished": "2020-02-20",
@@ -209,6 +214,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.6",
 					"episodeNumber": "1.6",
 					"name": "The Impossible Box",
 					"datePublished": "2020-02-27",
@@ -242,6 +248,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.7",
 					"episodeNumber": "1.7",
 					"name": "Nepenthe",
 					"datePublished": "2020-03-05",
@@ -275,6 +282,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.8",
 					"episodeNumber": "1.8",
 					"name": "Broken Pieces",
 					"datePublished": "2020-03-12",
@@ -308,6 +316,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.9",
 					"episodeNumber": "1.9",
 					"name": {
 						"@value": "Et in Arcadia Ego, Part 1",
@@ -347,6 +356,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#1.10",
 					"episodeNumber": "1.10",
 					"name": {
 						"@value": "Et in Arcadia Ego, Part 2",
@@ -406,6 +416,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.1",
 					"episodeNumber": "2.1",
 					"name": "The Star Gazer",
 					"datePublished": "2022-03-03",
@@ -439,6 +450,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.2",
 					"episodeNumber": "2.2",
 					"name": "Penance",
 					"datePublished": "2022-03-10",
@@ -472,6 +484,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.3",
 					"episodeNumber": "2.3",
 					"name": "Assimilation",
 					"datePublished": "2022-03-17",
@@ -505,6 +518,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.4",
 					"episodeNumber": "2.4",
 					"name": "Watcher",
 					"datePublished": "2022-03-24",
@@ -538,6 +552,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.5",
 					"episodeNumber": "2.5",
 					"name": "Fly Me to the Moon",
 					"datePublished": "2022-03-31",
@@ -574,6 +589,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.6",
 					"episodeNumber": "2.6",
 					"name": "Two of One",
 					"datePublished": "2022-04-07",
@@ -607,6 +623,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.7",
 					"episodeNumber": "2.7",
 					"name": "Monsters",
 					"datePublished": "2022-04-14",
@@ -640,6 +657,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.8",
 					"episodeNumber": "2.8",
 					"name": "Mercy",
 					"datePublished": "2022-04-21",
@@ -673,6 +691,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.9",
 					"episodeNumber": "2.9",
 					"name": "Hide and Seek",
 					"datePublished": "2022-04-28",
@@ -706,6 +725,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#2.10",
 					"episodeNumber": "2.10",
 					"name": "Farewell",
 					"datePublished": "2022-05-05",
@@ -759,6 +779,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.1",
 					"episodeNumber": "3.1",
 					"name": "The Next Generation",
 					"datePublished": "2023-02-16",
@@ -792,6 +813,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.2",
 					"episodeNumber": "3.2",
 					"name": "Disengage",
 					"datePublished": "2023-02-23",
@@ -825,6 +847,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.3",
 					"episodeNumber": "3.3",
 					"name": "Seventeen Seconds",
 					"datePublished": "2023-03-02",
@@ -858,6 +881,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.4",
 					"episodeNumber": "3.4",
 					"name": "No Win Scenario",
 					"datePublished": "2023-03-09",
@@ -891,6 +915,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.5",
 					"episodeNumber": "3.5",
 					"name": "Imposter",
 					"datePublished": "2023-03-16",
@@ -924,6 +949,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.6",
 					"episodeNumber": "3.6",
 					"name": "The Bounty",
 					"datePublished": "2023-03-23",
@@ -957,6 +983,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.7",
 					"episodeNumber": "3.7",
 					"name": "Dominion",
 					"datePublished": "2023-03-30",
@@ -990,6 +1017,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.8",
 					"episodeNumber": "3.8",
 					"name": "Surrender",
 					"datePublished": "2023-04-06",
@@ -1023,6 +1051,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.9",
 					"episodeNumber": "3.9",
 					"name": {
 						"@value": "Võx",
@@ -1062,6 +1091,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pic#3.10",
 					"episodeNumber": "3.10",
 					"name": "The Last Generation",
 					"datePublished": "2023-04-20",

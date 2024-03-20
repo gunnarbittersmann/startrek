@@ -42,6 +42,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.1-1.2",
 					"episodeNumber": "1.1, 1.2",
 					"name": "Emissary",
 					"datePublished": "1993-01-03",
@@ -73,6 +74,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.3",
 					"episodeNumber": "1.3",
 					"name": "Past Prologue",
 					"datePublished": "1993-01-10",
@@ -93,6 +95,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.4",
 					"episodeNumber": "1.4",
 					"name": "A Man Alone",
 					"datePublished": "1993-01-17",
@@ -113,6 +116,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.5",
 					"episodeNumber": "1.5",
 					"name": "Babel",
 					"datePublished": "1993-01-24",
@@ -133,6 +137,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.6",
 					"episodeNumber": "1.6",
 					"name": "Captive Pursuit",
 					"datePublished": "1993-01-31",
@@ -153,6 +158,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.7",
 					"episodeNumber": "1.7",
 					"name": "Q-Less",
 					"datePublished": "1993-02-07",
@@ -184,6 +190,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.8",
 					"episodeNumber": "1.8",
 					"name": "Dax",
 					"datePublished": "1993-02-14",
@@ -204,6 +211,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.9",
 					"episodeNumber": "1.9",
 					"name": "The Passenger",
 					"datePublished": "1993-02-21",
@@ -224,6 +232,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.10",
 					"episodeNumber": "1.10",
 					"name": "Move Along Home",
 					"datePublished": "1993-03-14",
@@ -244,6 +253,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.11",
 					"episodeNumber": "1.11",
 					"name": "The Nagus",
 					"datePublished": "1993-03-21",
@@ -264,6 +274,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.12",
 					"episodeNumber": "1.12",
 					"name": "Vortex",
 					"datePublished": "1993-04-18",
@@ -284,6 +295,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.13",
 					"episodeNumber": "1.13",
 					"name": "Battle Lines",
 					"datePublished": "1993-04-25",
@@ -304,6 +316,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.14",
 					"episodeNumber": "1.14",
 					"name": "The Storyteller",
 					"datePublished": "1993-05-02",
@@ -324,6 +337,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.15",
 					"episodeNumber": "1.15",
 					"name": "Progress",
 					"datePublished": "1993-05-09",
@@ -344,6 +358,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.16",
 					"episodeNumber": "1.16",
 					"name": "If Wishes Were Horses",
 					"datePublished": "1993-05-16",
@@ -364,6 +379,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.17",
 					"episodeNumber": "1.17",
 					"name": "The Forsaken",
 					"datePublished": "1993-05-23",
@@ -384,6 +400,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.18",
 					"episodeNumber": "1.18",
 					"name": "Dramatis Personae",
 					"datePublished": "1993-05-30",
@@ -404,6 +421,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.19",
 					"episodeNumber": "1.19",
 					"name": "Duet",
 					"datePublished": "1993-06-13",
@@ -424,6 +442,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#1.20",
 					"episodeNumber": "1.20",
 					"name": "In The Hands Of The Prophets",
 					"datePublished": "1993-06-20",
@@ -457,6 +476,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.1",
 					"episodeNumber": "2.1",
 					"name": "The Homecoming (1)",
 					"datePublished": "1993-09-26",
@@ -477,6 +497,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.2",
 					"episodeNumber": "2.2",
 					"name": "The Circle (2)",
 					"datePublished": "1993-10-03",
@@ -497,6 +518,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.3",
 					"episodeNumber": "2.3",
 					"name": "The Siege (3)",
 					"datePublished": "1993-10-10",
@@ -517,6 +539,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.4",
 					"episodeNumber": "2.4",
 					"name": "Invasive Procedures",
 					"datePublished": "1993-10-17",
@@ -537,6 +560,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.5",
 					"episodeNumber": "2.5",
 					"name": "Cardassians",
 					"datePublished": "1993-10-24",
@@ -557,6 +581,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.6",
 					"episodeNumber": "2.6",
 					"name": "Melora",
 					"datePublished": "1993-10-31",
@@ -577,6 +602,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.7",
 					"episodeNumber": "2.7",
 					"name": "Rules Of Acquisition",
 					"datePublished": "1993-11-07",
@@ -597,6 +623,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.8",
 					"episodeNumber": "2.8",
 					"name": "Necessary Evil",
 					"datePublished": "1993-11-14",
@@ -617,6 +644,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.9",
 					"episodeNumber": "2.9",
 					"name": "Second Sight",
 					"datePublished": "1993-11-21",
@@ -637,6 +665,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.10",
 					"episodeNumber": "2.10",
 					"name": "Sanctuary",
 					"datePublished": "1993-11-28",
@@ -657,6 +686,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.11",
 					"episodeNumber": "2.11",
 					"name": "Rivals",
 					"datePublished": "1994-01-02",
@@ -677,6 +707,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.12",
 					"episodeNumber": "2.12",
 					"name": "The Alternate",
 					"datePublished": "1994-01-09",
@@ -697,6 +728,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.13",
 					"episodeNumber": "2.13",
 					"name": "Armageddon Game",
 					"datePublished": "1994-01-30",
@@ -717,6 +749,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.14",
 					"episodeNumber": "2.14",
 					"name": "Whispers",
 					"datePublished": "1994-02-06",
@@ -737,6 +770,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.15",
 					"episodeNumber": "2.15",
 					"name": "Paradise",
 					"datePublished": "1994-02-13",
@@ -757,6 +791,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.16",
 					"episodeNumber": "2.16",
 					"name": "Shadowplay",
 					"datePublished": "1994-02-20",
@@ -777,6 +812,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.17",
 					"episodeNumber": "2.17",
 					"name": "Playing God",
 					"datePublished": "1994-02-27",
@@ -797,6 +833,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.18",
 					"episodeNumber": "2.18",
 					"name": "Profit And Loss",
 					"datePublished": "1994-03-20",
@@ -817,6 +854,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.19",
 					"episodeNumber": "2.19",
 					"name": "Blood Oath",
 					"datePublished": "1994-03-27",
@@ -837,6 +875,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.20",
 					"episodeNumber": "2.20",
 					"name": "The Maquis, Part I",
 					"datePublished": "1994-04-24",
@@ -857,6 +896,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.21",
 					"episodeNumber": "2.21",
 					"name": "The Maquis, Part II",
 					"datePublished": "1994-05-01",
@@ -877,6 +917,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.22",
 					"episodeNumber": "2.22",
 					"name": "The Wire",
 					"datePublished": "1994-05-08",
@@ -897,6 +938,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.23",
 					"episodeNumber": "2.23",
 					"name": "Crossover",
 					"datePublished": "1994-05-15",
@@ -917,6 +959,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.24",
 					"episodeNumber": "2.24",
 					"name": "The Collaborator",
 					"datePublished": "1994-05-22",
@@ -937,6 +980,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.25",
 					"episodeNumber": "2.25",
 					"name": "Tribunal",
 					"datePublished": "1994-06-05",
@@ -957,6 +1001,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#2.26",
 					"episodeNumber": "2.26",
 					"name": "The Jem’Hadar",
 					"datePublished": "1994-06-12",
@@ -990,6 +1035,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.1",
 					"episodeNumber": "3.1",
 					"name": "The Search, Part I",
 					"datePublished": "1994-09-24",
@@ -1010,6 +1056,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.2",
 					"episodeNumber": "3.2",
 					"name": "The Search, Part II",
 					"datePublished": "1994-10-01",
@@ -1030,6 +1077,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.3",
 					"episodeNumber": "3.3",
 					"name": "The House Of Quark",
 					"datePublished": "1994-10-08",
@@ -1050,6 +1098,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.4",
 					"episodeNumber": "3.4",
 					"name": "Equilibrium",
 					"datePublished": "1994-10-15",
@@ -1070,6 +1119,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.5",
 					"episodeNumber": "3.5",
 					"name": "Second Skin",
 					"datePublished": "1994-10-22",
@@ -1090,6 +1140,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.6",
 					"episodeNumber": "3.6",
 					"name": "The Abandoned",
 					"datePublished": "1994-10-29",
@@ -1110,6 +1161,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.7",
 					"episodeNumber": "3.7",
 					"name": "Civil Defense",
 					"datePublished": "1994-11-05",
@@ -1141,6 +1193,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.8",
 					"episodeNumber": "3.8",
 					"name": "Meridian",
 					"datePublished": "1994-11-12",
@@ -1161,6 +1214,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.9",
 					"episodeNumber": "3.9",
 					"name": "Defiant",
 					"datePublished": "1994-11-19",
@@ -1192,6 +1246,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.10",
 					"episodeNumber": "3.10",
 					"name": "Fascination",
 					"datePublished": "1994-11-26",
@@ -1212,6 +1267,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.11",
 					"episodeNumber": "3.11",
 					"name": "Past Tense, Part I",
 					"datePublished": "1994-12-31",
@@ -1232,6 +1288,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.12",
 					"episodeNumber": "3.12",
 					"name": "Past Tense, Part II",
 					"datePublished": "1995-01-07",
@@ -1255,6 +1312,10 @@
 							"@type": "Person",
 							"name": "Steve Shives"
 						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+						],
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
@@ -1263,6 +1324,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.13",
 					"episodeNumber": "3.13",
 					"name": "Life Support",
 					"datePublished": "1995-01-28",
@@ -1283,6 +1345,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.14",
 					"episodeNumber": "3.14",
 					"name": "Heart Of Stone",
 					"datePublished": "1995-02-04",
@@ -1303,6 +1366,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.15",
 					"episodeNumber": "3.15",
 					"name": "Destiny",
 					"datePublished": "1995-02-11",
@@ -1323,6 +1387,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.16",
 					"episodeNumber": "3.16",
 					"name": "Prophet Motive",
 					"datePublished": "1995-02-18",
@@ -1343,6 +1408,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.17",
 					"episodeNumber": "3.17",
 					"name": "Visionary",
 					"datePublished": "1995-02-25",
@@ -1363,6 +1429,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.18",
 					"episodeNumber": "3.18",
 					"name": "Distant Voices",
 					"datePublished": "1995-04-08",
@@ -1383,6 +1450,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.19",
 					"episodeNumber": "3.19",
 					"name": "Through The Looking Glass",
 					"datePublished": "1995-04-15",
@@ -1403,6 +1471,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.20",
 					"episodeNumber": "3.20",
 					"name": "Improbable Cause (1)",
 					"datePublished": "1995-04-22",
@@ -1423,6 +1492,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.21",
 					"episodeNumber": "3.21",
 					"name": "The Die Is Cast (2)",
 					"datePublished": "1995-04-29",
@@ -1443,6 +1513,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.22",
 					"episodeNumber": "3.22",
 					"name": "Explorers",
 					"datePublished": "1995-05-06",
@@ -1463,6 +1534,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.23",
 					"episodeNumber": "3.23",
 					"name": "Family Business",
 					"datePublished": "1995-05-13",
@@ -1483,6 +1555,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.24",
 					"episodeNumber": "3.24",
 					"name": "Shakaar",
 					"datePublished": "1995-05-20",
@@ -1503,6 +1576,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.25",
 					"episodeNumber": "3.25",
 					"name": "Facets",
 					"datePublished": "1995-06-10",
@@ -1523,6 +1597,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#3.26",
 					"episodeNumber": "3.26",
 					"name": "The Adversary",
 					"datePublished": "1995-06-17",
@@ -1556,6 +1631,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.1-4.2",
 					"episodeNumber": "4.1, 4.2",
 					"name": "The Way Of The Warrior",
 					"datePublished": "1995-09-30",
@@ -1576,6 +1652,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.3",
 					"episodeNumber": "4.3",
 					"name": "The Visitor",
 					"datePublished": "1995-10-07",
@@ -1607,6 +1684,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.4",
 					"episodeNumber": "4.4",
 					"name": "Hippocratic Oath",
 					"datePublished": "1995-10-14",
@@ -1627,6 +1705,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.5",
 					"episodeNumber": "4.5",
 					"name": "Indiscretion",
 					"datePublished": "1995-10-21",
@@ -1647,6 +1726,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.6",
 					"episodeNumber": "4.6",
 					"name": "Rejoined",
 					"datePublished": "1995-10-28",
@@ -1667,6 +1747,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.7",
 					"episodeNumber": "4.7",
 					"name": "Starship Down",
 					"datePublished": "1995-11-04",
@@ -1687,6 +1768,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.8",
 					"episodeNumber": "4.8",
 					"name": "Little Green Men",
 					"datePublished": "1995-11-11",
@@ -1707,6 +1789,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.9",
 					"episodeNumber": "4.9",
 					"name": "The Sword Of Kahless",
 					"datePublished": "1995-11-18",
@@ -1727,6 +1810,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.10",
 					"episodeNumber": "4.10",
 					"name": "Our Man Bashir",
 					"datePublished": "1995-11-25",
@@ -1747,6 +1831,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.11",
 					"episodeNumber": "4.11",
 					"name": "Homefront (1)",
 					"datePublished": "1995-12-30",
@@ -1767,6 +1852,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.12",
 					"episodeNumber": "4.12",
 					"name": "Paradise Lost (2)",
 					"datePublished": "1996-01-06",
@@ -1787,6 +1873,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.13",
 					"episodeNumber": "4.13",
 					"name": "Crossfire",
 					"datePublished": "1996-01-27",
@@ -1807,6 +1894,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.14",
 					"episodeNumber": "4.14",
 					"name": "Return To Grace",
 					"datePublished": "1996-02-03",
@@ -1827,6 +1915,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.15",
 					"episodeNumber": "4.15",
 					"name": "Sons Of Mogh",
 					"datePublished": "1996-02-10",
@@ -1847,6 +1936,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.16",
 					"episodeNumber": "4.16",
 					"name": "Bar Association",
 					"datePublished": "1996-02-17",
@@ -1878,6 +1968,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.17",
 					"episodeNumber": "4.17",
 					"name": "Accession",
 					"datePublished": "1996-02-24",
@@ -1898,6 +1989,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.18",
 					"episodeNumber": "4.18",
 					"name": "Rules Of Engagement",
 					"datePublished": "1996-04-06",
@@ -1918,6 +2010,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.19",
 					"episodeNumber": "4.19",
 					"name": "Hard Time",
 					"datePublished": "1996-04-13",
@@ -1938,6 +2031,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.20",
 					"episodeNumber": "4.20",
 					"name": "Shattered Mirror",
 					"datePublished": "1996-04-20",
@@ -1958,6 +2052,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.21",
 					"episodeNumber": "4.21",
 					"name": "The Muse",
 					"datePublished": "1996-04-27",
@@ -1978,6 +2073,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.22",
 					"episodeNumber": "4.22",
 					"name": "For The Cause",
 					"datePublished": "1996-05-04",
@@ -1998,6 +2094,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.23",
 					"episodeNumber": "4.23",
 					"name": "To The Death",
 					"datePublished": "1996-05-11",
@@ -2018,6 +2115,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.24",
 					"episodeNumber": "4.24",
 					"name": "The Quickening",
 					"datePublished": "1996-05-18",
@@ -2038,6 +2136,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.25",
 					"episodeNumber": "4.25",
 					"name": "Body Parts",
 					"datePublished": "1996-06-08",
@@ -2058,6 +2157,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#4.26",
 					"episodeNumber": "4.26",
 					"name": "Broken Link",
 					"datePublished": "1996-06-15",
@@ -2091,6 +2191,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.1",
 					"episodeNumber": "5.1",
 					"name": "Apocalypse Rising",
 					"datePublished": "1996-09-30",
@@ -2111,6 +2212,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.2",
 					"episodeNumber": "5.2",
 					"name": "The Ship",
 					"datePublished": "1996-10-07",
@@ -2131,6 +2233,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.3",
 					"episodeNumber": "5.3",
 					"name": "Looking For Par’mach In All The Wrong Places",
 					"datePublished": "1996-10-14",
@@ -2151,6 +2254,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.4",
 					"episodeNumber": "5.4",
 					"name": "Nor The Battle To The Strong",
 					"datePublished": "1996-10-21",
@@ -2171,6 +2275,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.5",
 					"episodeNumber": "5.5",
 					"name": "The Assignment",
 					"datePublished": "1996-10-28",
@@ -2191,6 +2296,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.6",
 					"episodeNumber": "5.6",
 					"name": "Trials And Tribble-ations",
 					"datePublished": "1996-11-04",
@@ -2222,6 +2328,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.7",
 					"episodeNumber": "5.7",
 					"name": "Let He Who Is Without Sin…",
 					"datePublished": "1996-11-11",
@@ -2242,6 +2349,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.8",
 					"episodeNumber": "5.8",
 					"name": "Things Past",
 					"datePublished": "1996-11-18",
@@ -2262,6 +2370,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.9",
 					"episodeNumber": "5.9",
 					"name": "The Ascent",
 					"datePublished": "1996-11-25",
@@ -2282,6 +2391,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.10",
 					"episodeNumber": "5.10",
 					"name": "Rapture",
 					"datePublished": "1996-12-30",
@@ -2302,6 +2412,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.11",
 					"episodeNumber": "5.11",
 					"name": "The Darkness And The Light",
 					"datePublished": "1997-01-06",
@@ -2322,6 +2433,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.12",
 					"episodeNumber": "5.12",
 					"name": "The Begotten",
 					"datePublished": "1997-01-27",
@@ -2342,6 +2454,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.13",
 					"episodeNumber": "5.13",
 					"name": "For The Uniform",
 					"datePublished": "1997-02-03",
@@ -2362,6 +2475,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.14",
 					"episodeNumber": "5.14",
 					"name": "In Purgatory’s Shadow (1)",
 					"datePublished": "1997-02-10",
@@ -2382,6 +2496,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.15",
 					"episodeNumber": "5.15",
 					"name": "By Inferno’s Light (2)",
 					"datePublished": "1997-02-17",
@@ -2402,6 +2517,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.16",
 					"episodeNumber": "5.16",
 					"name": "Doctor Bashir, I Presume?",
 					"datePublished": "1997-02-24",
@@ -2422,6 +2538,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.17",
 					"episodeNumber": "5.17",
 					"name": "A Simple Investigation",
 					"datePublished": "1997-03-31",
@@ -2442,6 +2559,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.18",
 					"episodeNumber": "5.18",
 					"name": "Business As Usual",
 					"datePublished": "1997-04-07",
@@ -2462,6 +2580,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.19",
 					"episodeNumber": "5.19",
 					"name": "Ties Of Blood And Water",
 					"datePublished": "1997-04-14",
@@ -2482,6 +2601,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.20",
 					"episodeNumber": "5.20",
 					"name": "Ferengi Love Songs",
 					"datePublished": "1997-04-21",
@@ -2502,6 +2622,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.21",
 					"episodeNumber": "5.21",
 					"name": "Soldiers Of The Empire",
 					"datePublished": "1997-04-28",
@@ -2522,6 +2643,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.22",
 					"episodeNumber": "5.22",
 					"name": "Children Of Time",
 					"datePublished": "1997-05-05",
@@ -2542,6 +2664,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.23",
 					"episodeNumber": "5.23",
 					"name": "Blaze Of Glory",
 					"datePublished": "1997-05-12",
@@ -2562,6 +2685,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.24",
 					"episodeNumber": "5.24",
 					"name": "Empok Nor",
 					"datePublished": "1997-05-19",
@@ -2582,6 +2706,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.25",
 					"episodeNumber": "5.25",
 					"name": "In The Cards",
 					"datePublished": "1997-06-09",
@@ -2613,6 +2738,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#5.26",
 					"episodeNumber": "5.26",
 					"name": "Call To Arms",
 					"datePublished": "1997-06-16",
@@ -2646,6 +2772,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.1",
 					"episodeNumber": "6.1",
 					"name": "A Time To Stand",
 					"datePublished": "1997-09-29",
@@ -2666,6 +2793,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.2",
 					"episodeNumber": "6.2",
 					"name": "Rocks And Shoals",
 					"datePublished": "1997-10-06",
@@ -2686,6 +2814,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.3",
 					"episodeNumber": "6.3",
 					"name": "Sons And Daughters",
 					"datePublished": "1997-10-13",
@@ -2706,6 +2835,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.4",
 					"episodeNumber": "6.4",
 					"name": "Behind The Lines",
 					"datePublished": "1997-10-20",
@@ -2726,6 +2856,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.5",
 					"episodeNumber": "6.5",
 					"name": "Favor The Bold (1)",
 					"datePublished": "1997-10-27",
@@ -2746,6 +2877,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.6",
 					"episodeNumber": "6.6",
 					"name": "Sacrifice Of Angels (2)",
 					"datePublished": "1997-11-03",
@@ -2766,6 +2898,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.7",
 					"episodeNumber": "6.7",
 					"name": "You Are Cordially Invited",
 					"datePublished": "1997-11-10",
@@ -2786,6 +2919,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.8",
 					"episodeNumber": "6.8",
 					"name": "Resurrection",
 					"datePublished": "1997-11-17",
@@ -2806,6 +2940,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.9",
 					"episodeNumber": "6.9",
 					"name": "Statistical Probabilities",
 					"datePublished": "1997-11-24",
@@ -2826,6 +2961,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.10",
 					"episodeNumber": "6.10",
 					"name": "The Magnificent Ferengi",
 					"datePublished": "1997-12-29",
@@ -2846,6 +2982,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.11",
 					"episodeNumber": "6.11",
 					"name": "Waltz",
 					"datePublished": "1998-01-05",
@@ -2866,6 +3003,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.12",
 					"episodeNumber": "6.12",
 					"name": "Who Mourns For Morn?",
 					"datePublished": "1998-02-02",
@@ -2886,6 +3024,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.13",
 					"episodeNumber": "6.13",
 					"name": "Far Beyond The Stars",
 					"datePublished": "1998-02-09",
@@ -2906,6 +3045,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.14",
 					"episodeNumber": "6.14",
 					"name": "One Little Ship",
 					"datePublished": "1998-02-16",
@@ -2926,6 +3066,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.15",
 					"episodeNumber": "6.15",
 					"name": "Honor Among Thieves",
 					"datePublished": "1998-02-23",
@@ -2946,6 +3087,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.16",
 					"episodeNumber": "6.16",
 					"name": "Change Of Heart",
 					"datePublished": "1998-03-02",
@@ -2966,6 +3108,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.17",
 					"episodeNumber": "6.17",
 					"name": "Wrongs Darker Than Death Or Night",
 					"datePublished": "1998-03-30",
@@ -2986,6 +3129,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.18",
 					"episodeNumber": "6.18",
 					"name": "Inquisition",
 					"datePublished": "1998-04-06",
@@ -3006,6 +3150,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.19",
 					"episodeNumber": "6.19",
 					"name": "In The Pale Moonlight",
 					"datePublished": "1998-04-13",
@@ -3026,6 +3171,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.20",
 					"episodeNumber": "6.20",
 					"name": "His Way",
 					"datePublished": "1998-04-20",
@@ -3046,6 +3192,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.21",
 					"episodeNumber": "6.21",
 					"name": "The Reckoning",
 					"datePublished": "1998-04-27",
@@ -3066,6 +3213,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.22",
 					"episodeNumber": "6.22",
 					"name": "Valiant",
 					"datePublished": "1998-05-04",
@@ -3086,6 +3234,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.23",
 					"episodeNumber": "6.23",
 					"name": "Profit And Lace",
 					"datePublished": "1998-05-11",
@@ -3106,6 +3255,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.24",
 					"episodeNumber": "6.24",
 					"name": "Time’s Orphan",
 					"datePublished": "1998-05-18",
@@ -3126,6 +3276,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.25",
 					"episodeNumber": "6.25",
 					"name": "The Sound Of Her Voice",
 					"datePublished": "1998-06-08",
@@ -3146,6 +3297,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#6.26",
 					"episodeNumber": "6.26",
 					"name": "Tears Of The Prophets",
 					"datePublished": "1998-06-15",
@@ -3179,6 +3331,7 @@
 			"episode": [
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.1",
 					"episodeNumber": "7.1",
 					"name": "Image In The Sand (1)",
 					"datePublished": "1998-09-30",
@@ -3199,6 +3352,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.2",
 					"episodeNumber": "7.2",
 					"name": "Shadows And Symbols (2)",
 					"datePublished": "1998-10-07",
@@ -3219,6 +3373,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.3",
 					"episodeNumber": "7.3",
 					"name": "Afterimage",
 					"datePublished": "1998-10-14",
@@ -3239,6 +3394,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.4",
 					"episodeNumber": "7.4",
 					"name": "Take Me Out To The Holosuite",
 					"datePublished": "1998-10-21",
@@ -3271,6 +3427,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.5",
 					"episodeNumber": "7.5",
 					"name": "Chrysalis",
 					"datePublished": "1998-10-28",
@@ -3291,6 +3448,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.6",
 					"episodeNumber": "7.6",
 					"name": "Treachery, Faith And The Great River",
 					"datePublished": "1998-11-04",
@@ -3311,6 +3469,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.7",
 					"episodeNumber": "7.7",
 					"name": "Once More Unto The Breach",
 					"datePublished": "1998-11-11",
@@ -3331,6 +3490,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.8",
 					"episodeNumber": "7.8",
 					"name": "The Siege Of AR-558",
 					"datePublished": "1998-11-18",
@@ -3351,6 +3511,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.9",
 					"episodeNumber": "7.9",
 					"name": "Covenant",
 					"datePublished": "1998-11-25",
@@ -3371,6 +3532,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.10",
 					"episodeNumber": "7.10",
 					"name": "It’s Only a Paper Moon",
 					"datePublished": "1998-12-30",
@@ -3391,6 +3553,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.11",
 					"episodeNumber": "7.11",
 					"name": "Prodigal Daughter",
 					"datePublished": "1999-01-06",
@@ -3411,6 +3574,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.12",
 					"episodeNumber": "7.12",
 					"name": "The Emperor’s New Cloak",
 					"datePublished": "1999-02-03",
@@ -3431,6 +3595,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.13",
 					"episodeNumber": "7.13",
 					"name": "Field Of Fire",
 					"datePublished": "1999-02-10",
@@ -3451,6 +3616,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.14",
 					"episodeNumber": "7.14",
 					"name": "Chimera",
 					"datePublished": "1999-02-17",
@@ -3471,6 +3637,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.15",
 					"episodeNumber": "7.15",
 					"name": "Badda-Bing, Badda-Bang",
 					"datePublished": "1999-02-24",
@@ -3491,6 +3658,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.16",
 					"episodeNumber": "7.16",
 					"name": {
 						"@value": "Inter Arma Enim Silent Leges",
@@ -3514,6 +3682,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.17",
 					"episodeNumber": "7.17",
 					"name": "Penumbra",
 					"datePublished": "1999-04-07",
@@ -3534,6 +3703,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.18",
 					"episodeNumber": "7.18",
 					"name": "’Til Death Do Us Part",
 					"datePublished": "1999-04-14",
@@ -3554,6 +3724,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.19",
 					"episodeNumber": "7.19",
 					"name": "Strange Bedfellows",
 					"datePublished": "1999-04-21",
@@ -3574,6 +3745,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.20",
 					"episodeNumber": "7.20",
 					"name": "The Changing Face Of Evil",
 					"datePublished": "1999-04-28",
@@ -3594,6 +3766,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.21",
 					"episodeNumber": "7.21",
 					"name": "When It Rains…",
 					"datePublished": "1999-05-05",
@@ -3614,6 +3787,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.22",
 					"episodeNumber": "7.22",
 					"name": "Tacking Into The Wind",
 					"datePublished": "1999-05-12",
@@ -3634,6 +3808,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.23",
 					"episodeNumber": "7.23",
 					"name": "Extreme Measures",
 					"datePublished": "1999-05-19",
@@ -3654,6 +3829,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.24",
 					"episodeNumber": "7.24",
 					"name": "The Dogs Of War",
 					"datePublished": "1999-05-26",
@@ -3674,6 +3850,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.25",
 					"episodeNumber": "7.25",
 					"name": "What You Leave Behind (1)",
 					"datePublished": "1999-06-02",
@@ -3694,6 +3871,7 @@
 				},
 				{
 					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.26",
 					"episodeNumber": "7.26",
 					"name": "What You Leave Behind (2)",
 					"datePublished": "1999-06-02",
