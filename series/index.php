@@ -106,7 +106,6 @@ EOT;
                 <?php endif; ?>
               >
                 <?php foreach ($season['episode'] as $episode): ?>
-                  <?php // $translationCount = ($episode['workTranslation'] && $episode['workTranslation']['name']) ? NULL : sizeof($episode['workTranslation']); ?>
                   <?php $translation = $episode['workTranslation'][1] ?? $episode['workTranslation'][0] ?? $episode['workTranslation']; ?>
                   <tr property="episode" typeof="<?= htmlSpecialChars($episode['@type']) ?>">
                     <?php if ($episode['episodeNumber']): ?>
