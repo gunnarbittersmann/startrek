@@ -866,7 +866,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"numberOfEpisodes": 10,
 			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)",
 			"subjectOf": [
 				{
@@ -880,6 +879,7 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
 				}
 			],
+			"numberOfEpisodes": 10,
 			"episode": [
 				{
 					"@type": "TVEpisode",
