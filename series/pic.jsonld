@@ -537,18 +537,31 @@
 						"en": "Picard and Agnes learn from Agnes’s connection to the Queen that the change to the timeline they must prevent, to avoid the dark future of the Confederation, will happen in three days time on April 15, 2024. Picard transports to the location Agnes learned from the Queen, and finds a younger version of Guinan who does not know him and is planning to leave Earth after growing disillusioned with humanity. Seven and Raffi search for Rios, who is processed by ICE and sent to a sanctuary district on the U.S. border. They are able to track the bus that Rios is on with the help of Agnes, who tricks the Queen into improving La Sirena’s transporter systems. After Picard reveals his name and explains that he is looking for a watcher, Guinan leads him to someone who is also known as a “Supervisor” that is acting as a “guardian angel” for someone on Earth. The Supervisor, who resembles Laris but appears human, teleports away with Picard. Meanwhile, Q approaches a woman who is working on the planned Europa spaceflight mission. He is surprised to discover that he is unable to change her destiny.",
 						"de": "Picard und Agnes erfahren durch Agnes’ Verbindung zur Borg-Königin, dass die Änderung der Zeitlinie, die sie verhindern müssen, um die dunkle Zukunft der Konföderation zu vermeiden, in drei Tagen am 15. April 2024 stattfinden wird. Picard beamt zu dem Ort, den Agnes von der Königin erfahren hat, und findet eine jüngere Version von Guinan, die ihn nicht kennt und plant, die Erde aufgrund der dunklen Wege der Menschheit zu verlassen. Seven und Raffi suchen nach Rios, der von der Einwanderungsbehörde misshandelt und in einen Schutzbezirk an der US-Grenze gebracht wird. Sie können den Bus, in dem Rios sitzt, mit Hilfe von Agnes verfolgen, die die Königin dazu bringt, bestimmte Teile der La Sirena zu reparieren, um das Beamen zu erleichtern. Nachdem Picard seinen Namen preisgegeben und erklärt hat, dass er nach einem Wächter sucht, führt ihn Guinan zu jemandem, der auch als Aufseher bekannt ist und als Schutzengel für jemanden auf der Erde fungiert. Diese Person sieht aus wie eine menschliche Version von Laris, die sich mit Picard wegteleportiert. Währenddessen nähert sich Q einer Frau, die an der geplanten Europa-Raumflugmission arbeitet. Q versucht, ihr Schicksal zu ändern und ist überrascht, dass ihm das nicht gelingt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
-						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/74p0A7sN-_I"
-						}
-					}
+					"review": [
+						{
+  						"@type": "Review",
+  						"name": "Ups & Downs",
+  						"creator": {
+  							"@type": "Organization",
+  							"name": "TrekCulture"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/74p0A7sN-_I"
+  						}
+  					},
+  					{
+  						"@type": "Review",
+  						"creator": {
+  							"@type": "Person",
+  							"name": "Jessie Gender"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/Cim1lh_QO0Q"
+  						}
+  					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -574,18 +587,31 @@
 						"en": "The Supervisor introduces herself as Tallinn and explains to Picard that she is tasked with protecting his ancestor Renée Picard, the woman whom Q had targeted earlier, because Renée plays an important role in the future. Q approaches Dr. Adam Soong, a disgraced geneticist who is desperate to find a cure for his daughter Kore’s terminal genetic illness. In exchange for a vial of medicine that can save Kore’s life, Q requests Soong’s help dealing with Renée. Seven and Raffi break Rios out of ICE custody. Back on La Sirena, the Queen taps into the ship’s communications to broadcast an emergency call and lure a policeman onto the ship. Agnes shoots the Queen to prevent her from assimilating the policeman, but the dying Queen injects Agnes with Borg nanoprobes. Picard knows that Renée is destined to find a sentient organism on Jupiter’s moon Io and it is essential that she does not back out of the Europa mission. To monitor her at a pre-flight gala, Agnes infiltrates the event to hack the system so they can all attend, but the Borg Queen’s consciousness is lurking within her mind.",
 						"de": "Die Wächterin Tallinn enthüllt Picard, dass sie damit beauftragt wurde, seine Vorfahrin Renée Picard zu beschützen, dieselbe Frau, die Q zuvor ins Visier genommen hatte. Q wendet sich an Dr. Adam Soong, einen in Ungnade gefallenen Genetiker, der verzweifelt nach einem Heilmittel für die tödliche genetische Krankheit seiner Tochter Kore sucht. Als Gegenleistung für eine Phiole mit Medizin, die Kores Leben retten kann, bittet er Soong, ihm bei der Behandlung von Renée zu helfen. Seven und Raffi holen Rios’ Bus ein und helfen ihm, der ICE-Haft zu entkommen. Zurück auf der La Sirena zapft die Königin die Schiffskommunikation an, um einen Notruf auszusenden und einen Polizisten auf das Schiff zu locken. Agnes erschießt die Königin, um sie daran zu hindern, den Polizisten zu assimilieren, aber die sterbende Königin injiziert Agnes Borg-Nanosonden. Picard ist sich nicht sicher, welche Rolle Renée bei zukünftigen Ereignissen spielen wird, und schickt Agnes los, um eine Gala zu infiltrieren, um sie auszuspionieren. Agnes, die das Bewusstsein der Borg-Königin in sich trägt, lässt sich von den Wachleuten der Gala festnehmen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
-						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/baV5wQOsqp8"
-						}
-					}
+					"review": [
+						{
+  						"@type": "Review",
+  						"name": "Ups & Downs",
+  						"creator": {
+  							"@type": "Organization",
+  							"name": "TrekCulture"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/baV5wQOsqp8"
+  						}
+  					},
+  					{
+  						"@type": "Review",
+  						"creator": {
+  							"@type": "Person",
+  							"name": "Jessie Gender"
+  						},
+  						"video": {
+  							"@type": "VideoObject",
+  							"embedUrl": "https://www.youtube-nocookie.com/embed/H5R2J2ozwKs"
+  						}
+  					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
