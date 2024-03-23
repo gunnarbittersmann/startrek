@@ -879,6 +879,17 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/qlEP58MvTZE"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
