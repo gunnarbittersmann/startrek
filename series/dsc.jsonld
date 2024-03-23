@@ -1396,6 +1396,18 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_4"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"name": "Retro Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/GBarLLBorzI"
+				}
+			},
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
