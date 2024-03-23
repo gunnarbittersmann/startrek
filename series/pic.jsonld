@@ -516,18 +516,31 @@
 						"en": "Seven distracts the Magistrate long enough for the group to overpower and kill him and his officers. The ship comes under attack, and the Queen takes advantage of the situation to directly connect herself to the ship’s computers. She destroys their pursuers and slingshots the ship around the sun, creating a wormhole to 2024. She tells Picard that they must find “The Watcher” in Los Angeles who knows what Q changed to cause the new timeline. The ship crashes near Chateau Picard in France, and the Queen diverts all power to sustain herself. Elnor dies of his wounds, and Raffi angrily blames Picard before departing with Seven and Rios to start searching for the Watcher. Rios’s transporter malfunctions and he is knocked out, waking up in a clinic that secretly treats undocumented immigrants. Before he can leave, immigration officers raid the clinic and arrest both Rios and his physician, Teresa. Rios’s communicator is left behind. Despite Picard’s warnings, Agnes connects her mind to the Queen and learns the exact location of the Watcher before she can be assimilated, impressing the Queen.",
 						"de": "Die kleine Gruppe schafft es, den Magistraten und die anderen Offiziere zu töten. Durch Eingreifen der Borg-Königin gelingt es ihnen auch, Verfolgerschiffe zu zerstören. Ebenfalls mit der Hilfe der Borg-Königin und unter Anwendung eines Parabelfluges um die Sonne, den in früheren Zeiten schon Captain James T. Kirk mit seiner Crew für einen Zeitsprung nutzte, gelangen sie ins Jahr 2024, wo der Ursprung der veränderten Zeitlinie liegen soll. Im Los Angeles dieses Jahres soll es laut der Borg-Königin auch einen sogenannten Wächter geben, der ihnen helfen kann. Elnor stirbt jedoch an den Schussverletzungen. Rios, Seven und Raffi beamen sich nach Los Angeles, und Picard und Agnes Jurati versuchen, zur Borg-Königin durchzudringen, die offline ist, um ihr weitere Informationen zu entlocken. Während sich Seven und Raffi zu einem Hochhaus begeben, um von dort die Gegend besser nach dem Wächter scannen zu können, wacht Rios nach dem Transport in einer Sozialklinik auf, die auch illegale Einwanderer behandelt, und verliert dort seinen Kommunikator. Er freundet sich mit einer Ärztin und ihrem Sohn an, bevor die Klinik von Polizeibeamten gestürmt wird. Agnes gelingt es derweil, sich mit der Borg-Königin zu verbinden und findet, ohne assimiliert zu werden, den Standort des Wächters heraus."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/B9kX_RDijqY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/B9kX_RDijqY"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KeGcAg8ZJ_U"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
