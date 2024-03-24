@@ -540,6 +540,17 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Steve Shives"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/6fq4AAaYVfk"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
