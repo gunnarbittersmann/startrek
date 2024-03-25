@@ -370,3 +370,7 @@ body:has(> .players) {
     margin: 0;
   }
 }
+
+#player-controls button {
+  margin-right: 0.5em;
+}

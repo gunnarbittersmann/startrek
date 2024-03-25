@@ -46,7 +46,9 @@ function onYouTubeIframeAPIReady() {
 		videos.seekTo(destinationTime);
 	}
 
-	document.querySelector('#start-pause').addEventListener('click', event => {
+	const playPauseButton = document.createElement('button');
+	playPauseButton.textContent = 'play/pause';
+	playPauseButton.addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
 			default:
 				videos.mute();
@@ -61,15 +63,27 @@ function onYouTubeIframeAPIReady() {
 		}
 	});
 
-	document.querySelector('#back').addEventListener('click', event => {
+	const backButton = document.createElement('button');
+	backButton.textContent = 'back';
+	backButton.addEventListener('click', event => {
 		videos.seekTo(0);
 	});
 
-	document.querySelector('#rewind').addEventListener('click', event => {
+	const rewindButton = document.createElement('button');
+	rewindButton.textContent = 'rewind';
+	rewindButton.addEventListener('click', event => {
 		videos.skip(-videos.SKIPTIME);
 	});
 
-	document.querySelector('#forward').addEventListener('click', event => {
+	const forwardButton = document.createElement('button');
+	forwardButton.textContent = 'forward';
+	forwardButton.addEventListener('click', event => {
 		videos.skip(videos.SKIPTIME);
 	});
+	
+	const playerControlsElement = document.querySelector('#player-controls');
+	playerControlsElement.appendChild(backButton);
+	playerControlsElement.appendChild(rewindButton);
+	playerControlsElement.appendChild(playPauseButton);
+	playerControlsElement.appendChild(forwardButton);
 }
