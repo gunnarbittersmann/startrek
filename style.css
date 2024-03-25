@@ -107,6 +107,7 @@ body > header {
 	position: sticky;
 	top: 0;
 	border-bottom: thin solid transparent;
+	z-index: 1;
 }
 
 body.scrolled > header {
@@ -238,6 +239,27 @@ details p {
 	line-height: 1.4;
 	-webkit-hyphens: auto;
 	hyphens: auto;
+}
+
+ul:has(details) {
+	position: relative;
+	display: flex;
+	gap: 0 2em;
+	flex-wrap: wrap;
+}
+
+ul:has(details[open])::after {
+	content: '';
+	display: block;
+	margin: 1em 0;
+	width: 100%;
+	height: auto;
+	aspect-ratio: 16/9;
+}
+
+ul:has(details) iframe {
+	position: absolute;
+	inset: auto 0 0;
 }
 
 @media (width > 40em) {
