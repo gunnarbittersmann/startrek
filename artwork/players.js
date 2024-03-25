@@ -47,7 +47,7 @@ function onYouTubeIframeAPIReady() {
 	}
 
 	const playPauseButton = document.createElement('button');
-	playPauseButton.textContent = 'play/pause';
+	playPauseButton.innerHTML = '<span aria-hidden="true">⏵⏸</span><span class="visually-hidden">play/pause</span>';
 	playPauseButton.addEventListener('click', event => {
 		switch (videos[0].player.getPlayerState()) {
 			default:
@@ -64,19 +64,19 @@ function onYouTubeIframeAPIReady() {
 	});
 
 	const backButton = document.createElement('button');
-	backButton.textContent = 'back';
+	backButton.innerHTML = '<span aria-hidden="true">⏮</span><span class="visually-hidden">back</span>';
 	backButton.addEventListener('click', event => {
 		videos.seekTo(0);
 	});
 
 	const rewindButton = document.createElement('button');
-	rewindButton.textContent = 'rewind';
+	rewindButton.innerHTML = '<span aria-hidden="true">⏴⏴</span><span class="visually-hidden">rewind</span>';
 	rewindButton.addEventListener('click', event => {
 		videos.skip(-videos.SKIPTIME);
 	});
 
 	const forwardButton = document.createElement('button');
-	forwardButton.textContent = 'forward';
+	forwardButton.innerHTML = '<span aria-hidden="true">⏵⏵</span><span class="visually-hidden">forward</span>';
 	forwardButton.addEventListener('click', event => {
 		videos.skip(videos.SKIPTIME);
 	});
