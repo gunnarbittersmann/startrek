@@ -13,11 +13,14 @@ const resizeObserver = new ResizeObserver(storeHeaderHeight);
 resizeObserver.observe(headerElement);
 
 
-const intersectionObserver = new IntersectionObserver(entries => {
-	document.body.classList.toggle(
-		'scrolled', entries[0].intersectionRatio == 0
-	);
-}, { rootMargin: '36px' });
+const intersectionObserver = new IntersectionObserver(
+	entries => {
+		document.body.classList.toggle(
+			'scrolled', entries[0].intersectionRatio == 0
+		);
+	},
+	{ rootMargin: '36px' },
+);
 
 intersectionObserver.observe(document.head);
 
@@ -29,4 +32,20 @@ for (let videoDetailsElement of document.querySelectorAll('details[property="vid
 			iframeElement.src = event.target.querySelector('meta').getAttribute('content');
 		}
 	});
+	
+	// details-name polyfill
+	if (!videoDetailsElement.name) {
+		const name = videoDetailsElement.getAttribute('name');
+		if (name) {
+			videoDetailsElement.addEventListener('toggle', event => {
+				if (event.newState == "open") {
+					for (let sibling of document.querySelectorAll(`details[name="${name}"]`)) {
+						if (sibling != event.target) {
+							sibling.open = false;
+						}
+					}
+				}
+			});
+		}
+	}
 }
