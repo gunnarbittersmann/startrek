@@ -63,7 +63,7 @@ body:not(.scrolled) {
 }
 
 :focus-visible {
-	outline: thin solid;
+	outline: thin solid var(--text-color);
 	outline-offset: 0.25em;
 }
 
@@ -97,23 +97,23 @@ a {
 	width: 1px;
 }
 
-header, footer {
+body > header, body > footer {
 	padding: 1em 0;
 	font-size: 0.9em;
 	background: var(--background-color);
 }
 
-header {
+body > header {
 	position: sticky;
 	top: 0;
 	border-bottom: thin solid transparent;
 }
 
-.scrolled header {
+body.scrolled > header {
 	border-color: var(--rule-color);
 }
 
-footer {
+body > footer {
 	position: fixed;
 	bottom: 0;
 	border-top: thin solid var(--rule-color);
@@ -122,12 +122,12 @@ footer {
 	line-height: 1.4;
 }
 
-.scrolled footer {
+body.scrolled > footer {
 	position: static;
 	border-color: transparent;
 }
 
-footer cite {
+body > footer cite {
 	font-style: normal;
 }
 
@@ -316,6 +316,61 @@ summary {
 iframe {
 	margin: 1em 0;
 	width: 100%;
+	height: auto;
 	border: none;
 	aspect-ratio: 16/9;
+}
+
+button {
+	font: inherit;
+	border-color: transparent;
+	background: black;
+	color: white;
+	padding: 0.5em;
+	border-radius: 0.5em;
+}
+
+body:has(> .players) {
+	padding-bottom: 0 !important;
+}
+
+.players {
+  --columns: 2;
+  --rows: 1;
+  aspect-ratio: calc(16 * var(--columns) / (9 * var(--rows)));
+	max-width: 100%;
+	max-height: calc(100vh - var(--header-height, 0) - 1em);
+  display: grid;
+	gap: 0.5em;
+  
+  &:has(iframe:nth-of-type(2)) {
+    --rows: 2;
+  }
+  
+  &:has(iframe:nth-of-type(4)) {
+    --columns: 3;
+  }
+  
+  &:has(iframe:nth-of-type(6)) {
+    --rows: 3;
+  }
+
+  @media (width >= 36em) {
+    grid-template-columns: repeat(var(--columns), 1fr);
+    
+  	&:has(iframe:last-of-type:nth-of-type(even)) {
+		
+      > :first-child {
+      	grid-row: 1 / span var(--rows);
+      }
+    }
+  }
+  
+  & iframe {
+    margin: 0;
+  }
+}
+
+#player-controls button {
+  margin-right: 0.5em;
 }
