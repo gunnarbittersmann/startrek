@@ -61,6 +61,10 @@ function onYouTubeIframeAPIReady() {
 		}
 	});
 
+	document.querySelector('#back').addEventListener('click', event => {
+		videos.seekTo(0);
+	});
+
 	document.querySelector('#rewind').addEventListener('click', event => {
 		videos.skip(-videos.SKIPTIME);
 	});
