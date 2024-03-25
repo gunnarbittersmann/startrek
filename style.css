@@ -97,23 +97,23 @@ a {
 	width: 1px;
 }
 
-header, footer {
+body > header, body > footer {
 	padding: 1em 0;
 	font-size: 0.9em;
 	background: var(--background-color);
 }
 
-header {
+body > header {
 	position: sticky;
 	top: 0;
 	border-bottom: thin solid transparent;
 }
 
-.scrolled header {
+body.scrolled > header {
 	border-color: var(--rule-color);
 }
 
-footer {
+body > footer {
 	position: fixed;
 	bottom: 0;
 	border-top: thin solid var(--rule-color);
@@ -122,12 +122,12 @@ footer {
 	line-height: 1.4;
 }
 
-.scrolled footer {
+body.scrolled > footer {
 	position: static;
 	border-color: transparent;
 }
 
-footer cite {
+body > footer cite {
 	font-style: normal;
 }
 
