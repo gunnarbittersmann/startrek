@@ -143,6 +143,17 @@
 					},
 					"description": {
 						"de": "Die Enterprise besucht den Planeten Ligon II, um von dessen Bewohnern einen Impfstoff zu erhalten, den die Föderation nicht selbst herstellen kann. Dabei wird Tasha Yar durch Lutan, den Anführer der Ligonianer, entführt und als dessen neue Ehefrau auserwählt. Da Lutans bisherige Frau damit nicht einverstanden ist, kommt es zu einem Duell zwischen ihr und Yar, das Yar gewinnt. In der Folge stellen die Ligonianer das Serum zur Verfügung."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/M_vWpAtpwvo"
+						}
 					}
 				},
 				{

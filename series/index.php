@@ -316,7 +316,7 @@ EOT;
                           <ul>
                             <?php foreach ($episode['review'] as $review): ?>
                               <li property="review" typeof="Review">
-                                <details lang="en" property="video" typeof="VideoObject">
+                                <details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($episode['@identifier']) ?>">
                                   <summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
                                     <?php if ($review['name']): ?>
                                       <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
