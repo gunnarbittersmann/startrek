@@ -446,18 +446,31 @@
 						"en": "Retired admiral Jean-Luc Picard rejects the romantic advances of his housekeeper Laris, a year-and-a-half after the death of her partner Zhaban. After giving a speech to a new class of cadets—including his former ward Elnor—in his role as chancellor of Starfleet Academy, Picard visits his old friend and bartender Guinan to talk about his life-long avoidance of romantic relationships. In deep space, Captain Chris Rios and Dr. Agnes Jurati of the USS Stargazer investigate an anomaly that broadcasts a request to negotiate entry into the Federation with Picard. They are joined by Seven of Nine, a vigilante flying Rios’s old ship La Sirena, and a fleet of starships including the USS Excelsior which has Elnor and Picard’s old first officer Raffi Musiker on board. When Picard arrives, a Borg ship emerges from the anomaly and transports their Queen onto the Stargazer. The Queen begins assimilating the entire fleet, prompting Picard to initiate the Stargazer’s self-destruct. After the explosion, Picard wakes up in a version of his home and is greeted by the extra-dimensional being Q, who has returned to test Picard again.",
 						"de": "Der pensionierte Admiral Jean-Luc Picard weist die romantischen Avancen seiner Hausdame und Personenschützerin Laris eineinhalb Jahre nach dem Tod ihres Partners Zhaban zurück. Nachdem Picard in seiner Rolle als Kanzler der Sternenflottenakademie eine Rede vor einer neuen Klasse von Kadetten – einschließlich seines ehemaligen Mündels Elnor – gehalten hat, besucht er seine alte Freundin und Barkeeperin Guinan, um über seine lebenslange Vermeidung romantischer Beziehungen zu sprechen. Im Weltraum untersuchen Captain Chris Rios und Dr. Agnes Jurati von der USS Stargazer eine Raum-Anomalie, die ein Hilfsgesuch gesendet hat, und mit Picard über den Beitritt zur Föderation verhandeln will. Zu ihnen gesellt sich Seven of Nine, die Rios’ altes Schiff La Sirena fliegt, und eine Flotte von Raumschiffen, darunter auch die USS Excelsior, die Elnor und Picards alten Ersten Offizier Raffi Musiker an Bord hat. Als Picard ankommt, taucht ein Borg-Schiff aus der Anomalie auf und transportiert deren Königin auf die Stargazer. Die Königin beginnt, die gesamte Flotte zu assimilieren, was Picard dazu veranlasst, die Selbstzerstörung der Stargazer einzuleiten. Nach der Explosion wacht Picard in einer anderen Version seines Zuhauses auf und wird dort von dem extradimensionalen Wesen Q begrüßt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/9BNLj1NdpB8"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/9BNLj1NdpB8"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/lm8V_pTgElo"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1048,6 +1061,17 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Q--E4pEj22Y"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1089,6 +1113,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/sNn9pgXlNRE"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zLzEGRm5ttk"
 							}
 						},
 						{
@@ -1189,6 +1224,17 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ElM530yeO8o"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1283,6 +1329,17 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/4GDGf5d_UVI"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1330,6 +1387,17 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hiCAN9gN1II"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1371,6 +1439,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/52lIa7iuMow"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HrH9DS43L0c"
 							}
 						},
 						{
@@ -1430,6 +1509,17 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/U1TcPfMp6NM"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1471,6 +1561,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/QssUwBvNYK4"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6CL3g5ZwcOI"
 							}
 						},
 						{
