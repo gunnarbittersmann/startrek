@@ -330,7 +330,9 @@ EOT;
                 <?php endforeach; ?>
                 <?php if ($season['review']): ?>
                   <tr>
-                    <th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">season <?= htmlSpecialChars($season['seasonNumber']) ?></th>
+                    <th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
+                      <span class="visually-hidden">season <?= htmlSpecialChars($season['seasonNumber']) ?></span>
+                    </th>
                     <?php if ($season['review']['video']): ?>
                       <td property="review" typeof="Review">
                         <details lang="en" property="video" typeof="VideoObject">
