@@ -412,6 +412,17 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/bFNeczZng8Y"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -469,18 +480,31 @@
 						"en": "Picard learns from Q that he and his companions are in an alternate timeline where humanity has formed the xenophobic “Confederation of Earth”, systematically eradicating or enslaving alien races. Picard, the Confederation’s greatest military commander, has been granted the honor of executing the last Borg Queen by Seven of Nine, who is the President of the Confederation and married to the Magistrate. The group reunite and learn from the Borg Queen that they can prevent the Confederation’s formation by travelling to Los Angeles in 2024, which they can only do with the Queen’s help. Agnes, Raffi, and Elnor take control of communication and transporter systems in Confederation headquarters while Seven and Picard buy time at the public execution. As the crowd and the Magistrate grow concerned with their stalling, the others complete their objectives and Picard, Seven, Agnes, Raffi, Elnor, and the Queen are beamed to Rios’s ship. They are preparing to initiate time travel when the Magistrate and security officers beam aboard, shoot and wound Elnor, and prepare to execute them all for treason.",
 						"de": "Picard erfährt, dass er und seine Gefährten sich in einer alternativen Zeitlinie befinden, in der die Menschheit die fremdenfeindliche „Konföderation der Erde“ gebildet hat, die systematisch außerirdische Rassen auslöscht oder versklavt. Picard ist in ihr der höchste Militärbefehlshaber der Konföderation. Ihm wird von Seven of Nine, die in dieser Zeitlinie nicht assimiliert wurde und daher noch Annika heißt, aber doch Präsidentin der Konföderation und mit deren Magistraten verheiratet ist, die Ehre zugeteilt, die letzte Borg-Königin hinzurichten. Die Gruppe kommt wieder zusammen und erfährt von der Borg-Königin, dass die Gruppe die Gründung der Konföderation verhindern kann, wenn sie ins Jahr 2024 nach Los Angeles zurückreist, was aber nur mit Hilfe der Borg-Königin möglich ist. Agnes, Raffi und Elnor übernehmen die Kontrolle über die Kommunikations- und Transportsysteme im Hauptquartier der Konföderation, während Seven und Picard versuchen, die öffentliche Hinrichtung zu verzögern. Als die Menge und der Magistrat nicht länger hinzuhalten sind, schreiten die anderen zur Tat und beamen Picard, Seven, Agnes, Raffi, Elnor und die Königin auf Rios’ Schiff. Sie beginnen bereits die Zeitreise einzuleiten, als sich der Magistrat und die Sicherheitsbeamten ebenfalls an Bord beamen, auf Elnor schießen, ihn verwunden und sich darauf vorzubereiten beginnen, alle wegen Hochverrats hinzurichten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RHDbmTugriw"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/RHDbmTugriw"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/b3iUNbB8PXE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -503,18 +527,31 @@
 						"en": "Seven distracts the Magistrate long enough for the group to overpower and kill him and his officers. The ship comes under attack, and the Queen takes advantage of the situation to directly connect herself to the ship’s computers. She destroys their pursuers and slingshots the ship around the sun, creating a wormhole to 2024. She tells Picard that they must find “The Watcher” in Los Angeles who knows what Q changed to cause the new timeline. The ship crashes near Chateau Picard in France, and the Queen diverts all power to sustain herself. Elnor dies of his wounds, and Raffi angrily blames Picard before departing with Seven and Rios to start searching for the Watcher. Rios’s transporter malfunctions and he is knocked out, waking up in a clinic that secretly treats undocumented immigrants. Before he can leave, immigration officers raid the clinic and arrest both Rios and his physician, Teresa. Rios’s communicator is left behind. Despite Picard’s warnings, Agnes connects her mind to the Queen and learns the exact location of the Watcher before she can be assimilated, impressing the Queen.",
 						"de": "Die kleine Gruppe schafft es, den Magistraten und die anderen Offiziere zu töten. Durch Eingreifen der Borg-Königin gelingt es ihnen auch, Verfolgerschiffe zu zerstören. Ebenfalls mit der Hilfe der Borg-Königin und unter Anwendung eines Parabelfluges um die Sonne, den in früheren Zeiten schon Captain James T. Kirk mit seiner Crew für einen Zeitsprung nutzte, gelangen sie ins Jahr 2024, wo der Ursprung der veränderten Zeitlinie liegen soll. Im Los Angeles dieses Jahres soll es laut der Borg-Königin auch einen sogenannten Wächter geben, der ihnen helfen kann. Elnor stirbt jedoch an den Schussverletzungen. Rios, Seven und Raffi beamen sich nach Los Angeles, und Picard und Agnes Jurati versuchen, zur Borg-Königin durchzudringen, die offline ist, um ihr weitere Informationen zu entlocken. Während sich Seven und Raffi zu einem Hochhaus begeben, um von dort die Gegend besser nach dem Wächter scannen zu können, wacht Rios nach dem Transport in einer Sozialklinik auf, die auch illegale Einwanderer behandelt, und verliert dort seinen Kommunikator. Er freundet sich mit einer Ärztin und ihrem Sohn an, bevor die Klinik von Polizeibeamten gestürmt wird. Agnes gelingt es derweil, sich mit der Borg-Königin zu verbinden und findet, ohne assimiliert zu werden, den Standort des Wächters heraus."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/B9kX_RDijqY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/B9kX_RDijqY"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KeGcAg8ZJ_U"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -537,18 +574,31 @@
 						"en": "Picard and Agnes learn from Agnes’s connection to the Queen that the change to the timeline they must prevent, to avoid the dark future of the Confederation, will happen in three days time on April 15, 2024. Picard transports to the location Agnes learned from the Queen, and finds a younger version of Guinan who does not know him and is planning to leave Earth after growing disillusioned with humanity. Seven and Raffi search for Rios, who is processed by ICE and sent to a sanctuary district on the U.S. border. They are able to track the bus that Rios is on with the help of Agnes, who tricks the Queen into improving La Sirena’s transporter systems. After Picard reveals his name and explains that he is looking for a watcher, Guinan leads him to someone who is also known as a “Supervisor” that is acting as a “guardian angel” for someone on Earth. The Supervisor, who resembles Laris but appears human, teleports away with Picard. Meanwhile, Q approaches a woman who is working on the planned Europa spaceflight mission. He is surprised to discover that he is unable to change her destiny.",
 						"de": "Picard und Agnes erfahren durch Agnes’ Verbindung zur Borg-Königin, dass die Änderung der Zeitlinie, die sie verhindern müssen, um die dunkle Zukunft der Konföderation zu vermeiden, in drei Tagen am 15. April 2024 stattfinden wird. Picard beamt zu dem Ort, den Agnes von der Königin erfahren hat, und findet eine jüngere Version von Guinan, die ihn nicht kennt und plant, die Erde aufgrund der dunklen Wege der Menschheit zu verlassen. Seven und Raffi suchen nach Rios, der von der Einwanderungsbehörde misshandelt und in einen Schutzbezirk an der US-Grenze gebracht wird. Sie können den Bus, in dem Rios sitzt, mit Hilfe von Agnes verfolgen, die die Königin dazu bringt, bestimmte Teile der La Sirena zu reparieren, um das Beamen zu erleichtern. Nachdem Picard seinen Namen preisgegeben und erklärt hat, dass er nach einem Wächter sucht, führt ihn Guinan zu jemandem, der auch als Aufseher bekannt ist und als Schutzengel für jemanden auf der Erde fungiert. Diese Person sieht aus wie eine menschliche Version von Laris, die sich mit Picard wegteleportiert. Währenddessen nähert sich Q einer Frau, die an der geplanten Europa-Raumflugmission arbeitet. Q versucht, ihr Schicksal zu ändern und ist überrascht, dass ihm das nicht gelingt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/74p0A7sN-_I"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/74p0A7sN-_I"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Cim1lh_QO0Q"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -574,18 +624,31 @@
 						"en": "The Supervisor introduces herself as Tallinn and explains to Picard that she is tasked with protecting his ancestor Renée Picard, the woman whom Q had targeted earlier, because Renée plays an important role in the future. Q approaches Dr. Adam Soong, a disgraced geneticist who is desperate to find a cure for his daughter Kore’s terminal genetic illness. In exchange for a vial of medicine that can save Kore’s life, Q requests Soong’s help dealing with Renée. Seven and Raffi break Rios out of ICE custody. Back on La Sirena, the Queen taps into the ship’s communications to broadcast an emergency call and lure a policeman onto the ship. Agnes shoots the Queen to prevent her from assimilating the policeman, but the dying Queen injects Agnes with Borg nanoprobes. Picard knows that Renée is destined to find a sentient organism on Jupiter’s moon Io and it is essential that she does not back out of the Europa mission. To monitor her at a pre-flight gala, Agnes infiltrates the event to hack the system so they can all attend, but the Borg Queen’s consciousness is lurking within her mind.",
 						"de": "Die Wächterin Tallinn enthüllt Picard, dass sie damit beauftragt wurde, seine Vorfahrin Renée Picard zu beschützen, dieselbe Frau, die Q zuvor ins Visier genommen hatte. Q wendet sich an Dr. Adam Soong, einen in Ungnade gefallenen Genetiker, der verzweifelt nach einem Heilmittel für die tödliche genetische Krankheit seiner Tochter Kore sucht. Als Gegenleistung für eine Phiole mit Medizin, die Kores Leben retten kann, bittet er Soong, ihm bei der Behandlung von Renée zu helfen. Seven und Raffi holen Rios’ Bus ein und helfen ihm, der ICE-Haft zu entkommen. Zurück auf der La Sirena zapft die Königin die Schiffskommunikation an, um einen Notruf auszusenden und einen Polizisten auf das Schiff zu locken. Agnes erschießt die Königin, um sie daran zu hindern, den Polizisten zu assimilieren, aber die sterbende Königin injiziert Agnes Borg-Nanosonden. Picard ist sich nicht sicher, welche Rolle Renée bei zukünftigen Ereignissen spielen wird, und schickt Agnes los, um eine Gala zu infiltrieren, um sie auszuspionieren. Agnes, die das Bewusstsein der Borg-Königin in sich trägt, lässt sich von den Wachleuten der Gala festnehmen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/baV5wQOsqp8"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/baV5wQOsqp8"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/H5R2J2ozwKs"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -608,18 +671,31 @@
 						"en": "With the Queen’s help, Agnes gives Picard, Tallinn, and Rios access to the gala. There Picard is confronted by Soong, who alerts security that Picard is dangerous. Agnes and the Queen cut the lights and create a distraction by singing a jazz cover of “Shadows of the Night”. The resulting rush of endorphins allows the Queen to take full control of Agnes’s body. Q, having taken the role of Renée’s therapist, stokes her insecurity with text messages, and she begins to flee the party. Picard finds her and persuades her to go through with the mission by talking about his mother, who also loved the stars and also had mental health struggles. Soong sees Renée and Picard walking together outside and attempts to run over Renée with his car. Picard pushes her out of the way but is hit by the car and knocked unconscious. After returning home, Soong deliriously rants at Kore; she investigates his research and learns that she is the only one to have survived of many apparent clones he created. At Teresa’s clinic, Tallinn decides to enter Picard’s mind to help him wake up from a memory that his mind is fixated on.",
 						"de": "Picard, Tallinn und Rios verwenden falsche Identitäten, die Agnes erstellt hat, um an der Gala teilzunehmen. Agnes schleust diese mit Hilfe der Königin ins System. Bevor Picard sich Renée nähern kann, stellt sich ihm Soong in den Weg und alarmiert das Sicherheitspersonal. Agnes und die Königin sorgen für eine Ablenkung, indem sie durch einen EMP das Licht ausschalten und dann ein Jazz-Cover von „Shadows of the Night“ singen. Der daraus resultierende Endorphinschub in Agnes’ Gehirn beseitigt die letzte Barriere für die Königin und ermöglicht ihr, Agnes vollständig zu übernehmen. Picard findet Renée alleine in einer Raumfahrtausstellung und überzeugt sie, die Mission anzutreten, indem er eine Erinnerung an seine Mutter Yvette mit ihr teilt, die ihn drängt, die Galaxie zu erkunden. Soong sieht Renée und Picard nach draußen gehen und versucht, Renée mit seinem Auto zu überfahren. Picard rettet sie, indem er sie aus dem Weg stößt, und wird dabei selbst angefahren. Tallinn, Seven, Raffi und Rios bringen Picard zu Teresas Klinik. Soong eilt nach Hause und schimpft wie wahnsinnig, bevor er ins Bett geht. Kore untersucht seine Forschungsnotizen und erfährt, dass sie der letzte von Dutzenden von Klonen ist, die von Soong erstellt wurden, und dass alle anderen starben. In Teresas Klinik beschließt Tallinn, in den Verstand des komatösen Picard einzudringen, um ihn wieder zu Bewusstsein zu bringen. Die Königin, im Körper von Agnes, geht alleine in die Nacht."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hdwxPcHSgIs"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/hdwxPcHSgIs"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LOvqTMQcgtQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -642,18 +718,31 @@
 						"en": "Inside his mind, Picard relives part of a memory from his childhood where his apparently abusive father Maurice chased Picard’s younger self and his mother Yvette through the house. Tallinn helps Picard realize that his mother was actually struggling with mental illness and Maurice was just trying to protect her and Picard. Picard wakes up from his coma and Tallinn reveals that she is actually Romulan and possibly Laris’s ancestor. Picard theorizes that Q may have a personal stake in his “trial” and asks Guinan to summon Q using an El-Aurian ritual; the ritual fails just as FBI agent Martin Wells enters the bar and arrests them based on surveillance footage of Picard using his transporter. Rios secretly brings Teresa and her son onto La Sirena, confessing that he is a time-traveler. Raffi and Seven discover that the ship’s computers have been sabotaged with Borg encryption codes and begin tracking Agnes. They find a bar where she smashed a window and realize that the Queen is trying to create more endorphins in Agnes until she has enough power to assimilate more people and become a new Borg Queen.",
 						"de": "In seinem Kopf durchlebt Picard einen Teil einer Erinnerung aus seiner Kindheit, als sein anscheinend missbräuchlicher Vater Maurice Picards jüngeres Ich und seine Mutter Yvette durch das Haus jagte. Tallinn hilft Picard zu erkennen, dass seine Mutter tatsächlich mit einer Geisteskrankheit zu kämpfen hatte und Maurice nur versuchte, sie und Picard zu beschützen. Picard erwacht aus seinem Koma und Tallinn enthüllt, dass sie tatsächlich Romulanerin und möglicherweise Laris’ Vorfahrin ist. Picard vermutet, dass Q einen persönlichen Anteil an seinem „Prozess“ haben könnte und bittet Guinan, Q mit einem El-Aurian-Ritual zu beschwören. Das Ritual schlägt fehl, als ein FBI-Agent die Bar betritt und sie festnimmt, basierend auf Überwachungsaufnahmen, die zeigen, wie Picard seinen Transporter benutzt. Rios bringt Teresa und ihren Sohn heimlich auf die La Sirena und gesteht, dass er Raumfahrer ist. Raffi und Seven entdecken, dass die Schiffscomputer mit Borg-Verschlüsselungscodes sabotiert wurden und beginnen, Agnes zu verfolgen. Sie finden eine Bar, in der sie ein Fenster eingeschlagen hat, und stellen fest, dass die Königin versucht, mehr Endorphine in Agnes zu erzeugen, bis sie genug Kraft hat, um Menschen zu assimilieren und zu einer neuen Borg-Königin zu werden."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hklE5e71_k8"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/hklE5e71_k8"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vu5j7huumk4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -676,18 +765,31 @@
 						"en": "Wells tries to make Picard and Guinan confess to being aliens. He separates them, and Guinan is visited by Q who explains that he is dying and that the “trial” is a final attempt to give his own life meaning. He notes that all humans are stuck in the past, and Guinan uses astral projection to share this message with Picard. Wells reveals that he encountered aliens when he was a child and thought they wanted to kill him, but Picard explains that these were Vulcans who only tried to erase his memories. Wells is forced to release Picard and Guinan after the FBI dismisses him for conducting an illegal investigation. Meanwhile, Raffi and Seven find the Queen collecting car and phone batteries to modify Jurati’s body and make it capable of assimilation. She attacks them, but Agnes is able to force her to stop and leave. After learning about her true nature, Kore leaves her father with help from Q. The Queen persuades Soong that he can save his legacy by helping her steal La Sirena, thereby enabling her to conquer the galaxy. Soong provides her with a squad of mercenaries to convert into Borg drones.",
 						"de": "Welles versucht, Picard und Guinan dazu zu bringen, zu gestehen, Außerirdische zu sein. Er trennt sie voneinander, und Guinan wird von Q besucht, der erklärt, dass er im Sterben liegt und dass der „Prozess“ ein letzter Versuch ist, seinem eigenen Leben einen Sinn zu geben. Er stellt fest, dass alle Menschen in der Vergangenheit stecken und Guinan benutzt eine Astralprojektion, um diese Botschaft mit Picard zu teilen. Welles enthüllt, dass er als Kind auf Aliens gestoßen ist und dachte, sie wollten ihn töten, aber Picard erklärt, dass dies Vulkanier waren, die nur versucht haben, seine Erinnerungen zu löschen. Welles ist gezwungen, Picard und Guinan freizulassen, nachdem ihn das FBI wegen illegaler Ermittlungen entlassen hat. Währenddessen finden Raffi und Seven die Borg-Königin, die Auto- und Handybatterien sammelt, um Juratis Körper zu modifizieren und die Fähigkeit zum Assimilieren zu erlangen. Sie greift die beiden an, aber ein Rest von Agnes’ Bewusstsein bringt die Borg-Königin dazu, sie zu verschonen. Nachdem Kore von ihrer wahren Natur erfahren hat, verlässt sie ihren Vater mit Hilfe von Q. Die Borg-Königin überzeugt Soong, dass er sein Vermächtnis retten kann, indem er ihr hilft, die La Sirena zu stehlen und ihr so ermöglicht, die Galaxie zu erobern. Soong stellt ihr eine Gruppe Söldner zur Verfügung, die sie in Borg-Drohnen umwandelt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NN4Wj2eNmQ0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/NN4Wj2eNmQ0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/w_su6QjqLAI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -710,18 +812,31 @@
 						"en": "The Queen, Soong, and the drones beam to La Sirena while Picard, Tallinn, Raffi, and Seven beam to Chateau Picard. Agnes’s consciousness blocks the Queen from the ship’s systems until Seven and Raffi arrive. They try to use the ship against the Queen, but she mortally wounds Seven. After they send Rios, Teresa, and her son to safety, Picard and Tallinn escape from Soong and the drones in the tunnels beneath the chateau. Picard recalls his mother having a mental break while they were playing hide-and-seek in the tunnels when he was a boy, after which she ended her own life. Discussing this with Tallinn helps Picard come to terms with it. Soong corners them, but Rios beams back and forces him to flee. Agnes persuades the Queen to change her ways and build a new Borg collective through cooperation rather than assimilation, truly becoming a new Borg Queen. The new Queen heals Seven by adding her to the collective, and then departs in La Sirena for the Delta Quadrant, leaving a message for Picard: there must be two versions of Renée, one who will fly the Europa mission and one who will die.",
 						"de": "Picard schickt Raffi und Seven, um La Sirena zu beschützen, während er und Tallinn Soong und die Drohnen ablenken. Mit Hilfe eines Hologramms von Elnor, das Agnes programmiert hatte, eliminieren Raffi und Seven die Borg, die geschickt wurden, um sie zu töten, aber die Königin überträgt ihre Fähigkeiten von ihrem ursprünglichen Körper in ihren neuen, löscht Elnors Hologramm und verwundet Seven lebensgefährlich. Picard befiehlt Rios, Teresa und ihren Sohn in Sicherheit zu bringen, und unterbricht dann das Signal des Transporters, um ihn zu schützen. Er und Tallinn gehen in die Tunnel unter dem Schloss, wo Picard sich daran erinnert, wie er nach einem Versteckspiel den Selbstmord seiner Mutter nicht verhindern konnte, und Tallinn ihm hilft, dieses Trauma zu verarbeiten. Soong treibt sie in die Enge, aber Rios erscheint, der das Signal reparieren konnte, und zwingt ihn zur Flucht. Agnes gelingt es, die Königin davon zu überzeugen, dass das Streben nach Perfektion durch Eroberung zur erneuten Zerstörung der Borg führen würde. Die Königin heilt Seven und bietet einen Deal an: Sie und Agnes werden La Sirena übernehmen und ein Borg-Kollektiv aufbauen, diesmal aber durch Zusammenarbeit anstatt Eroberung. Die Königin warnt Picard auch, dass es „zwei“ Versionen von Renée geben muss: eine, die die Europa-Mission fliegen wird, und eine, die sterben wird."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WDfmP4mRVVk"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/WDfmP4mRVVk"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BOG5EuH4wEI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -762,7 +877,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"numberOfEpisodes": 10,
 			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_(season_3)",
 			"subjectOf": [
 				{
@@ -776,6 +890,18 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/qlEP58MvTZE"
+				}
+			},
+			"numberOfEpisodes": 10,
 			"episode": [
 				{
 					"@type": "TVEpisode",
