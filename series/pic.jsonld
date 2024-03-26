@@ -417,17 +417,30 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_2"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"name": "Jessie Gender"
+			"review": [
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/bFNeczZng8Y"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/bFNeczZng8Y"
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"name": "Steve Shives"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/NhQk26uQq9E"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
