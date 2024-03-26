@@ -597,6 +597,23 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Cim1lh_QO0Q"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.4" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MqSzltfKnWw"
+							}
 						}
 					]
 				},
@@ -647,6 +664,17 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/H5R2J2ozwKs"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MReYeJGfHBY"
+							}
 						}
 					]
 				},
@@ -693,6 +721,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/LOvqTMQcgtQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fdsBvqkA4f4"
 							}
 						}
 					]
@@ -741,6 +780,17 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/vu5j7huumk4"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GdpcVQ5IVak"
+							}
 						}
 					]
 				},
@@ -787,6 +837,17 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/w_su6QjqLAI"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/g8COIMd4kqM"
 							}
 						}
 					]
@@ -835,6 +896,17 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BOG5EuH4wEI"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/XEIk5ZOd0WI"
+							}
 						}
 					]
 				},
@@ -859,18 +931,31 @@
 						"en": "Despite Picard’s protests, Tallinn interprets the Queen’s message as her needing to sacrifice herself to save Renée. She uses a holographic disguise to thwart Soong’s attempted murder of Renée, and dies in Picard’s arms while Renée departs on the Europa mission. After his failure, Soong returns home to find that Kore has deleted his digital files, though he still has a physical file labeled “Project Khan”. Kore is recruited to join the Travelers by Wesley Crusher, and Rios decides to stay in the past with Teresa. Q and Picard discuss the purpose of the trial: Q hopes that Picard has learned to let go of the past and accept love. Q then uses the last of his power to send Picard, Seven, and Raffi back to the Stargazer in their own timeline, where Elnor is alive. Picard recognizes that this Borg Queen is Agnes, whose collective has detected a new trans-warp conduit that they offer to monitor as provisional members of the Federation. After reuniting with the older Guinan and learning about Rios’s life in the 21st century, Picard returns to his chateau and asks Laris for a second chance at being together.",
 						"de": "Picard erkennt, was die Botschaft der Königin bedeutet: Tallinn muss sich opfern, um Renées Überleben zu sichern. Er versucht sie aufzuhalten, aber Tallinn spricht ihm das Recht ab, über ihr Leben zu entscheiden. Sie verwendet eine holografische Verkleidung, um mit Renée die Plätze zu tauschen, und kann damit Soongs Versuch vereiteln, Renée mit einem Neurotoxin zu ermorden. Picard findet die sterbende Tallinn und tröstet sie, während Renée erfolgreich zur Europa-Mission aufbricht. Kore hat sich von ihrem „Vater“ Dr. Soong abgewandt und löscht dessen Forschungsergebnisse in seinen Computern. Danach wird ihr von einem Reisenden, der sich als Wesley Crusher vorstellt, angeboten sich den Reisenden anzuschließen. Obwohl dies nicht ungefährlich sei, stimmt sie zu. Q erklärt Picard die Motive seiner Zeitmanipulation: Angesichts seines eigenen bevorstehenden einsamen Todes wollte er verhindern, dass es Picard ebenso ergeht. Obwohl Q es bestreitet, vermutet Picard, dass Q ihn auf eine unbekannte Katastrophe in der Zukunft vorbereitet, indem er ihm half, die Dämonen seiner Vergangenheit zu überwinden. Rios beschließt, bei Teresa in der Vergangenheit zu bleiben. Q nutzt dann seine verbleibende Kraft, um Picard, Seven und Raffi in ihre eigene Zeit auf die Stargazer zurückzuschicken und Elnor wiederzubeleben. Picard stoppt die Selbstzerstörung des Raumschiffes und die Borgkönigin gibt sich daraufhin als Agnes zu erkennen. Sie erklärt, dass die Borg das Auftauchen eines Trans-Warp-Kanals im Weltraum vorausgesehen haben, dessen Explosionsenergie nur mittels der vereinten Schilde der Föderationsschiffe abgefangen werden kann. Agnes beantragt für die Borg die vorläufige Aufnahme in die Föderation, um den Trans-Warp-Kanal zu überwachen und zu untersuchen. Picard geht zurück zu seinem Schloss, findet Laris und gesteht ihr seine Gefühle."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TjewWT-W93w"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/TjewWT-W93w"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OjblwGhZBV4"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
