@@ -947,6 +947,17 @@
 						{
 							"@type": "Review",
 							"creator": {
+								"@type": "Organization",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_AF5BIaYgcs"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
 								"@type": "Person",
 								"name": "Steve Shives"
 							},
