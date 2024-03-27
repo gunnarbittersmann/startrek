@@ -30,8 +30,8 @@
 					"name": "Star Trek: The Motion Picture",
 					"datePublished": "1979-12-07",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertWise",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertWise",
 						"name": "Robert Wise"
 					},
 					"workTranslation": {
@@ -73,8 +73,8 @@
 					"name": "Star Trek II: The Wrath of Khan",
 					"datePublished": "1982-06-04",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"name": "Nicholas Meyer"
 					},
 					"workTranslation": {
@@ -104,8 +104,8 @@
 					"name": "Star Trek III: The Search for Spock",
 					"datePublished": "1984-06-01",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"name": "Leonard Nimoy"
 					},
 					"workTranslation": {
@@ -135,8 +135,8 @@
 					"name": "Star Trek IV: The Voyage Home",
 					"datePublished": "1986-11-26",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"name": "Leonard Nimoy"
 					},
 					"workTranslation": {
@@ -166,8 +166,8 @@
 					"name": "Star Trek V: The Final Frontier",
 					"datePublished": "1989-06-09",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
 						"name": "William Shatner"
 					},
 					"workTranslation": {
@@ -197,8 +197,8 @@
 					"name": "Star Trek VI: The Undiscovered Country",
 					"datePublished": "1991-12-06",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"name": "Nicholas Meyer"
 					},
 					"workTranslation": {
@@ -234,8 +234,8 @@
 					"name": "Star Trek Generations",
 					"datePublished": "1994-11-18",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
 					"workTranslation": {
@@ -265,8 +265,8 @@
 					"name": "Star Trek: First Contact",
 					"datePublished": "1996-11-22",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"workTranslation": {
@@ -296,8 +296,8 @@
 					"name": "Star Trek: Insurrection",
 					"datePublished": "1998-12-11",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"workTranslation": {
@@ -327,8 +327,8 @@
 					"name": "Star Trek: Nemesis",
 					"datePublished": "2002-12-13",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#StuartBaird",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StuartBaird",
 						"name": "Stuart Baird"
 					},
 					"workTranslation": {
@@ -364,8 +364,8 @@
 					"name": "Star Trek",
 					"datePublished": "2009-04-07",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"name": "J. J. Abrams"
 					},
 					"workTranslation": {
@@ -395,8 +395,8 @@
 					"name": "Star Trek Into Darkness",
 					"datePublished": "2013-05-16",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"name": "J. J. Abrams"
 					},
 					"workTranslation": {
@@ -426,8 +426,8 @@
 					"name": "Star Trek Beyond",
 					"datePublished": "2016-07-07",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JustinLin",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JustinLin",
 						"name": "Justin Lin"
 					},
 					"workTranslation": {

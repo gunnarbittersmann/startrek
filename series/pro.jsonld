@@ -63,8 +63,8 @@
 					"name": "Lost & Found",
 					"datePublished": "2021-10-28",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
 					"workTranslation": {
@@ -96,8 +96,8 @@
 					"name": "Starstruck",
 					"datePublished": "2021-11-04",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
 					},
 					"workTranslation": {
@@ -130,13 +130,13 @@
 					"datePublished": "2021-11-11",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"name": "Steve Ahn"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -173,13 +173,13 @@
 					"datePublished": "2021-11-18",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#AlanWan",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanWan",
 							"name": "Alan Wan"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"name": "Olga Ulanova"
 						}
 					],
@@ -215,8 +215,8 @@
 					"name": "Kobayashi",
 					"datePublished": "2022-01-06",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
 					},
 					"workTranslation": {
@@ -240,13 +240,13 @@
 					"datePublished": "2022-01-13",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"name": "Steve Ahn"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -271,13 +271,13 @@
 					"datePublished": "2022-01-20",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"name": "Olga Ulanova"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -301,8 +301,8 @@
 					"name": "A Moral Star, Part 1",
 					"datePublished": "2022-01-27",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
 					"workTranslation": {
@@ -325,8 +325,8 @@
 					"name": "A Moral Star, Part 2",
 					"datePublished": "2022-02-03",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
 					"workTranslation": {
@@ -369,13 +369,13 @@
 					"datePublished": "2022-10-27",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"name": "Steve Ahn"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -412,13 +412,13 @@
 					"datePublished": "2022-11-03",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OlgaUlanova",
 							"name": "Olga Ulanova"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -454,8 +454,8 @@
 					"name": "All the World’s a Stage",
 					"datePublished": "2022-11-10",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew L. Schmidt"
 					},
 					"workTranslation": {
@@ -491,13 +491,13 @@
 					"datePublished": "2022-11-17",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"name": "Steve Ahn"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -531,8 +531,8 @@
 					"name": "Masquerade",
 					"datePublished": "2022-11-24",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
 					"workTranslation": {
@@ -566,13 +566,13 @@
 					"datePublished": "2022-12-01",
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveAhn",
 							"name": "Steve Ahn"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SungShin",
 							"name": "Sung Shin"
 						}
 					],
@@ -606,8 +606,8 @@
 					"name": "Ghost in the Machine",
 					"datePublished": "2022-12-08",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
 					},
 					"workTranslation": {
@@ -640,8 +640,8 @@
 					"name": "Mindwalk",
 					"datePublished": "2022-12-15",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
 					"workTranslation": {
@@ -674,8 +674,8 @@
 					"name": "Supernova, Part 1",
 					"datePublished": "2022-12-22",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
 					},
 					"workTranslation": {
@@ -708,8 +708,8 @@
 					"name": "Supernova, Part 2",
 					"datePublished": "2022-12-29",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
 					"workTranslation": {
