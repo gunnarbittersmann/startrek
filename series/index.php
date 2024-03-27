@@ -98,6 +98,12 @@ EOT;
       <main id="main">
         <h1 property="name"><?= htmlSpecialChars($data['name']) ?></h1>
         <table>
+          <?php
+            $columnsBeforeReview = 5;
+            if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) { $columnsBeforeReview++; }
+            if (IS_DIRECTOR_VISIBLE) { $columnsBeforeReview++; }
+            if ($data['identifier'] == 'VST') { $columnsBeforeReview++; }
+          ?>
           <?php foreach ($data['containsSeason'] as $season): ?>
             <?php if ($season['episode']): ?>
               <tbody
@@ -285,31 +291,6 @@ EOT;
                             >
                             </iframe>
                           </details>
-                          <?php if ($season['review'] && $season['review']['video'] && $episode['episodeNumber'] === end($season['episode'])['episodeNumber']): ?>
-	                          <details lang="en" property="video" typeof="VideoObject">
-	                            <summary>
-	                              <?php if ($season['review']['name']): ?>
-	                                <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
-	                                from
-	                              <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
-	                                <span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
-  	                                <span property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
-	                                </span>
-	                                on
-	                              <?php endif; ?>
-	                              season <?= htmlSpecialChars($season['seasonNumber']) ?>
-	                            </summary>
-	                            <meta
-	                              property="embedUrl"
-	                              content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
-	                            />
-	                            <iframe
-	                              allowfullscreen=""
-	                              aria-label="<?= htmlSpecialChars($season['review']['name']) ?> from season <?= htmlSpecialChars($season['seasonNumber']) ?>"
-	                            >
-	                            </iframe>
-	                          </details>
-                          <?php endif; ?>
                         </td>
                       <?php else: ?>
                         <td>
@@ -347,6 +328,68 @@ EOT;
                     <?php endif; ?>
                   </tr>
                 <?php endforeach; ?>
+                <?php if ($season['review']): ?>
+                  <tr lang="en">
+                    <th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
+                      <span class="visually-hidden">season <?= htmlSpecialChars($season['seasonNumber']) ?></span>
+                    </th>
+                    <?php if ($season['review']['video']): ?>
+                      <td property="review" typeof="Review">
+                        <details lang="en" property="video" typeof="VideoObject">
+                          <summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
+                            <?php if ($season['review']['name']): ?>
+                              <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
+                            <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
+                              <span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
+                                <span property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
+                              </span>
+                            <?php endif; ?>
+                          </summary>
+                          <meta
+                            property="embedUrl"
+                            content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
+                          />
+                          <iframe
+                            allowfullscreen=""
+                            aria-label="<?= htmlSpecialChars($season['review']['name']) ?>"
+                            aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+                          >
+                          </iframe>
+                        </details>
+                      </td>
+                    <?php else: ?>
+                      <td>
+                        <ul>
+                          <?php foreach ($season['review'] as $review): ?>
+                            <li property="review" typeof="Review">
+                              <details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>">
+                                <summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
+                                  <?php if ($review['name']): ?>
+                                    <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+                                  <?php elseif ($review['creator'] && $review['creator']['name']): ?>
+                                    <span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+                                      <span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+                                    </span>
+                                  <?php endif; ?>
+                                </summary>
+                                <meta
+                                  property="embedUrl"
+                                  content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+                                />
+                                <iframe
+                                  allowfullscreen=""
+                                  aria-label="<?= htmlSpecialChars($review['name']) ?>"
+                                  aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+                                >
+                                </iframe>
+                              </details>
+                            </li>
+                          <?php endforeach; ?>
+                        </ul>
+                      </td>
+                    <?php endif; ?>
+                  </tr>
+                <?php endif; ?>
               </tbody>
             <?php endif; ?>
           <?php endforeach; ?>
