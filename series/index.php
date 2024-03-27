@@ -329,14 +329,14 @@ EOT;
                   </tr>
                 <?php endforeach; ?>
                 <?php if ($season['review']): ?>
-                  <tr>
+                  <tr lang="en">
                     <th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
                       <span class="visually-hidden">season <?= htmlSpecialChars($season['seasonNumber']) ?></span>
                     </th>
                     <?php if ($season['review']['video']): ?>
                       <td property="review" typeof="Review">
                         <details lang="en" property="video" typeof="VideoObject">
-                          <summary>
+                          <summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
                             <?php if ($season['review']['name']): ?>
                               <span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
                             <?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
@@ -352,7 +352,7 @@ EOT;
                           <iframe
                             allowfullscreen=""
                             aria-label="<?= htmlSpecialChars($season['review']['name']) ?>"
-                            aria-describedby="<?= htmlSpecialChars($season['@identifier']) ?>"
+                            aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
                           >
                           </iframe>
                         </details>
@@ -363,7 +363,7 @@ EOT;
                           <?php foreach ($season['review'] as $review): ?>
                             <li property="review" typeof="Review">
                               <details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>">
-                                <summary>
+                                <summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
                                   <?php if ($review['name']): ?>
                                     <span property="name"><?= htmlSpecialChars($review['name']) ?></span>
                                   <?php elseif ($review['creator'] && $review['creator']['name']): ?>
@@ -379,6 +379,7 @@ EOT;
                                 <iframe
                                   allowfullscreen=""
                                   aria-label="<?= htmlSpecialChars($review['name']) ?>"
+                                  aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
                                 >
                                 </iframe>
                               </details>
