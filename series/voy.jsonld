@@ -53,8 +53,8 @@
 						"datePublished": "1996-06-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -67,6 +67,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -88,8 +89,8 @@
 						"datePublished": "1996-06-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
 					"abstract": {
@@ -102,6 +103,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -123,8 +125,8 @@
 						"datePublished": "1996-07-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -147,8 +149,8 @@
 						"datePublished": "1996-07-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -171,8 +173,8 @@
 						"datePublished": "1996-07-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -195,8 +197,8 @@
 						"datePublished": "1996-07-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -219,8 +221,8 @@
 						"datePublished": "1996-08-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -243,8 +245,8 @@
 						"datePublished": "1996-08-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -267,8 +269,8 @@
 						"datePublished": "1996-08-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -291,8 +293,8 @@
 						"datePublished": "1996-08-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
 					"abstract": {
@@ -315,8 +317,8 @@
 						"datePublished": "1996-08-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -339,8 +341,8 @@
 						"datePublished": "1996-09-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
 					"abstract": {
@@ -363,8 +365,8 @@
 						"datePublished": "1996-09-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -387,8 +389,8 @@
 						"datePublished": "1996-09-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
 					"abstract": {
@@ -411,8 +413,8 @@
 						"datePublished": "1996-09-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -448,8 +450,8 @@
 						"datePublished": "1996-10-25"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"abstract": {
@@ -472,8 +474,8 @@
 						"datePublished": "1996-11-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -496,8 +498,8 @@
 						"datePublished": "1996-10-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"abstract": {
@@ -520,8 +522,8 @@
 						"datePublished": "1996-10-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -541,8 +543,8 @@
 						"datePublished": "1996-11-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -565,8 +567,8 @@
 						"datePublished": "1996-10-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
 					"abstract": {
@@ -589,8 +591,8 @@
 						"datePublished": "1996-11-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"abstract": {
@@ -613,8 +615,8 @@
 						"datePublished": "1996-11-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"abstract": {
@@ -637,8 +639,8 @@
 						"datePublished": "1997-01-10"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -661,8 +663,8 @@
 						"datePublished": "1997-01-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -685,8 +687,8 @@
 						"datePublished": "1997-01-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -706,8 +708,8 @@
 						"datePublished": "1997-01-31"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -727,8 +729,8 @@
 						"datePublished": "1997-02-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"abstract": {
@@ -751,8 +753,8 @@
 						"datePublished": "1997-06-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -775,8 +777,8 @@
 						"datePublished": "1997-07-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -786,7 +788,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -808,8 +811,8 @@
 						"datePublished": "1997-07-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -832,8 +835,8 @@
 						"datePublished": "1997-07-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -856,8 +859,8 @@
 						"datePublished": "1997-07-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"abstract": {
@@ -870,6 +873,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -891,8 +895,8 @@
 						"datePublished": "1997-08-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -915,8 +919,8 @@
 						"datePublished": "1998-02-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -939,8 +943,8 @@
 						"datePublished": "1998-03-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -963,8 +967,8 @@
 						"datePublished": "1998-03-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"abstract": {
@@ -987,8 +991,8 @@
 						"datePublished": "1998-03-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
 					"abstract": {
@@ -998,6 +1002,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1019,8 +1024,8 @@
 						"datePublished": "1998-03-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -1043,8 +1048,8 @@
 						"datePublished": "1998-04-03"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1067,8 +1072,8 @@
 						"datePublished": "1998-04-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -1104,8 +1109,8 @@
 						"datePublished": "1998-04-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -1128,8 +1133,8 @@
 						"datePublished": "1998-05-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1142,6 +1147,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1163,8 +1169,8 @@
 						"datePublished": "1998-05-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -1187,8 +1193,8 @@
 						"datePublished": "1998-05-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1211,8 +1217,8 @@
 						"datePublished": "1998-05-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -1235,8 +1241,8 @@
 						"datePublished": "1998-06-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -1259,8 +1265,8 @@
 						"datePublished": "1998-06-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"abstract": {
@@ -1280,8 +1286,8 @@
 						"datePublished": "1998-06-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1304,8 +1310,8 @@
 						"datePublished": "1998-06-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -1318,6 +1324,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -1343,8 +1350,8 @@
 						"datePublished": "1998-06-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1367,8 +1374,8 @@
 						"datePublished": "1998-07-03"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -1381,6 +1388,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1402,8 +1410,8 @@
 						"datePublished": "1998-07-10"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1426,8 +1434,8 @@
 						"datePublished": "1998-07-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
 					"abstract": {
@@ -1450,8 +1458,8 @@
 						"datePublished": "1998-07-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
 						"name": "Robert Picardo"
 					},
 					"abstract": {
@@ -1474,8 +1482,8 @@
 						"datePublished": "1998-08-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"name": "Nancy Malone"
 					},
 					"abstract": {
@@ -1498,8 +1506,8 @@
 						"datePublished": "1998-08-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
 						"name": "Andrew Robinson"
 					},
 					"abstract": {
@@ -1519,8 +1527,8 @@
 						"datePublished": "1998-08-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"abstract": {
@@ -1543,8 +1551,8 @@
 						"datePublished": "1998-08-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1567,8 +1575,8 @@
 						"datePublished": "1998-08-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
 					"abstract": {
@@ -1591,8 +1599,8 @@
 						"datePublished": "1998-08-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
 					"abstract": {
@@ -1612,8 +1620,8 @@
 						"datePublished": "1998-09-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -1636,8 +1644,8 @@
 						"datePublished": "1998-09-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
 					"abstract": {
@@ -1660,8 +1668,8 @@
 						"datePublished": "1998-09-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1684,8 +1692,8 @@
 						"datePublished": "1998-09-25"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -1708,8 +1716,8 @@
 						"datePublished": "1998-10-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1732,8 +1740,8 @@
 						"datePublished": "1998-10-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1769,8 +1777,8 @@
 						"datePublished": "1998-10-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -1783,6 +1791,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -1808,8 +1817,8 @@
 						"datePublished": "1998-10-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
 					"abstract": {
@@ -1832,8 +1841,8 @@
 						"datePublished": "1998-11-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
 					"abstract": {
@@ -1856,8 +1865,8 @@
 						"datePublished": "1998-11-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -1880,8 +1889,8 @@
 						"datePublished": "1998-11-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
 					"abstract": {
@@ -1904,8 +1913,8 @@
 						"datePublished": "1998-12-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -1928,8 +1937,8 @@
 						"datePublished": "1998-12-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -1952,8 +1961,8 @@
 						"datePublished": "1999-01-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -1976,8 +1985,8 @@
 						"datePublished": "1999-01-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -2000,8 +2009,8 @@
 						"datePublished": "1999-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -2024,8 +2033,8 @@
 						"datePublished": "1999-01-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
 					"abstract": {
@@ -2048,8 +2057,8 @@
 						"datePublished": "1999-02-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -2072,8 +2081,8 @@
 						"datePublished": "1999-02-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
 					"abstract": {
@@ -2096,8 +2105,8 @@
 						"datePublished": "1999-02-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"name": "Nancy Malone"
 					},
 					"abstract": {
@@ -2120,8 +2129,8 @@
 						"datePublished": "1999-02-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2144,8 +2153,8 @@
 						"datePublished": "1999-03-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"name": "Allan Eastman"
 					},
 					"abstract": {
@@ -2168,8 +2177,8 @@
 						"datePublished": "1999-03-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
 					"abstract": {
@@ -2192,8 +2201,8 @@
 						"datePublished": "1998-12-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2216,8 +2225,8 @@
 						"datePublished": "1998-12-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
 					"abstract": {
@@ -2240,8 +2249,8 @@
 						"datePublished": "1999-03-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
 					"abstract": {
@@ -2264,8 +2273,8 @@
 						"datePublished": "1999-03-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
 					"abstract": {
@@ -2288,8 +2297,8 @@
 						"datePublished": "1999-04-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
 						"name": "Andrew Robinson"
 					},
 					"abstract": {
@@ -2312,8 +2321,8 @@
 						"datePublished": "1999-04-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TimRuss",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TimRuss",
 						"name": "Tim Russ"
 					},
 					"abstract": {
@@ -2336,8 +2345,8 @@
 						"datePublished": "1999-04-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
 					"abstract": {
@@ -2360,8 +2369,8 @@
 						"datePublished": "1999-04-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
 					"abstract": {
@@ -2384,8 +2393,8 @@
 						"datePublished": "1999-05-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -2421,8 +2430,8 @@
 						"datePublished": "2000-04-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2445,8 +2454,8 @@
 						"datePublished": "2000-04-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -2469,8 +2478,8 @@
 						"datePublished": "2000-04-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -2493,8 +2502,8 @@
 						"datePublished": "2000-04-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2514,8 +2523,8 @@
 						"datePublished": "2000-04-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"name": "John Kretchmer"
 					},
 					"abstract": {
@@ -2535,8 +2544,8 @@
 						"datePublished": "2000-04-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -2559,8 +2568,8 @@
 						"datePublished": "2000-05-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2580,8 +2589,8 @@
 						"datePublished": "2000-05-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2601,8 +2610,8 @@
 						"datePublished": "2000-05-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -2622,8 +2631,8 @@
 						"datePublished": "2000-05-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -2643,8 +2652,8 @@
 						"datePublished": "2000-06-03"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -2667,8 +2676,8 @@
 						"datePublished": "2000-06-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -2688,8 +2697,8 @@
 						"datePublished": "2000-08-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -2709,8 +2718,8 @@
 						"datePublished": "2000-07-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -2730,8 +2739,8 @@
 						"datePublished": "1999-12-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
 					"abstract": {
@@ -2751,8 +2760,8 @@
 						"datePublished": "1999-12-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -2772,8 +2781,8 @@
 						"datePublished": "2000-07-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2793,8 +2802,8 @@
 						"datePublished": "2000-07-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
 					"abstract": {
@@ -2814,8 +2823,8 @@
 						"datePublished": "2000-06-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -2835,8 +2844,8 @@
 						"datePublished": "2000-08-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerrenceOHara",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerrenceOHara",
 						"name": "Terrence O’Hara"
 					},
 					"abstract": {
@@ -2856,8 +2865,8 @@
 						"datePublished": "2000-08-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -2877,8 +2886,8 @@
 						"datePublished": "2000-08-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"abstract": {
@@ -2898,8 +2907,8 @@
 						"datePublished": "2000-09-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2919,8 +2928,8 @@
 						"datePublished": "2000-09-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"name": "Allan Eastman"
 					},
 					"abstract": {
@@ -2940,8 +2949,8 @@
 						"datePublished": "2000-09-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"name": "John Kretchmer"
 					},
 					"abstract": {
@@ -2961,8 +2970,8 @@
 						"datePublished": "2000-10-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -2995,8 +3004,8 @@
 						"datePublished": "2000-10-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3019,8 +3028,8 @@
 						"datePublished": "2000-10-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3043,8 +3052,8 @@
 						"datePublished": "2000-10-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3067,8 +3076,8 @@
 						"datePublished": "2000-11-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JohnBruno",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnBruno",
 						"name": "John Bruno"
 					},
 					"abstract": {
@@ -3091,8 +3100,8 @@
 						"datePublished": "2000-11-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3115,8 +3124,8 @@
 						"datePublished": "2000-11-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"abstract": {
@@ -3139,8 +3148,8 @@
 						"datePublished": "2000-11-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -3163,8 +3172,8 @@
 						"datePublished": "2000-12-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
 						"name": "Robert Picardo"
 					},
 					"abstract": {
@@ -3187,8 +3196,8 @@
 						"datePublished": "2000-12-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3211,8 +3220,8 @@
 						"datePublished": "2000-12-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3235,8 +3244,8 @@
 						"datePublished": "2000-12-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -3259,8 +3268,8 @@
 						"datePublished": "2000-12-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
 						"name": "Gabrielle Beaumont"
 					},
 					"abstract": {
@@ -3283,8 +3292,8 @@
 						"datePublished": "2001-02-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"abstract": {
@@ -3307,8 +3316,8 @@
 						"datePublished": "2001-03-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -3331,8 +3340,8 @@
 						"datePublished": "2001-03-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3355,8 +3364,8 @@
 						"datePublished": "2001-03-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllisonLiddi",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllisonLiddi",
 						"name": "Allison Liddi"
 					},
 					"abstract": {
@@ -3379,8 +3388,8 @@
 						"datePublished": "2001-03-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3403,8 +3412,8 @@
 						"datePublished": "2001-03-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3427,8 +3436,8 @@
 						"datePublished": "2001-04-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3451,8 +3460,8 @@
 						"datePublished": "2001-04-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -3475,8 +3484,8 @@
 						"datePublished": "2001-04-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -3499,8 +3508,8 @@
 						"datePublished": "2001-05-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3523,8 +3532,8 @@
 						"datePublished": "2001-05-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JohnBruno",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnBruno",
 						"name": "John Bruno"
 					},
 					"abstract": {
@@ -3547,8 +3556,8 @@
 						"datePublished": "2001-05-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3571,8 +3580,8 @@
 						"datePublished": "2001-06-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3595,8 +3604,8 @@
 						"datePublished": "2001-06-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -3632,8 +3641,8 @@
 						"datePublished": "2001-06-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3646,6 +3655,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -3671,8 +3681,8 @@
 						"datePublished": "2001-06-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3695,8 +3705,8 @@
 						"datePublished": "2001-06-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -3719,8 +3729,8 @@
 						"datePublished": "2001-07-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
@@ -3743,8 +3753,8 @@
 						"datePublished": "2001-07-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3767,8 +3777,8 @@
 						"datePublished": "2001-07-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -3791,8 +3801,8 @@
 						"datePublished": "2001-07-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"abstract": {
@@ -3815,8 +3825,8 @@
 						"datePublished": "2001-08-03"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -3839,8 +3849,8 @@
 						"datePublished": "2001-08-10"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3863,8 +3873,8 @@
 						"datePublished": "2001-08-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -3887,8 +3897,8 @@
 						"datePublished": "2001-08-31"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3911,8 +3921,8 @@
 						"datePublished": "2001-09-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#PeterLauritson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterLauritson",
 						"name": "Peter Lauritson"
 					},
 					"abstract": {
@@ -3935,8 +3945,8 @@
 						"datePublished": "2001-09-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -3959,8 +3969,8 @@
 						"datePublished": "2001-09-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -3983,8 +3993,8 @@
 						"datePublished": "2001-09-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -4007,8 +4017,8 @@
 						"datePublished": "2001-10-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -4031,8 +4041,8 @@
 						"datePublished": "2001-10-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"abstract": {
@@ -4045,6 +4055,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -4070,8 +4081,8 @@
 						"datePublished": "2001-10-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -4094,8 +4105,8 @@
 						"datePublished": "2001-10-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -4108,6 +4119,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -4129,8 +4141,8 @@
 						"datePublished": "2002-01-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"abstract": {
@@ -4143,6 +4155,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -4164,8 +4177,8 @@
 						"datePublished": "2002-01-25"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -4188,8 +4201,8 @@
 						"datePublished": "2002-02-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"abstract": {
@@ -4212,8 +4225,8 @@
 						"datePublished": "2002-02-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"abstract": {
@@ -4236,8 +4249,8 @@
 						"datePublished": "2002-06-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"abstract": {
@@ -4260,8 +4273,8 @@
 						"datePublished": "2002-02-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -4284,8 +4297,8 @@
 						"datePublished": "2002-02-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {

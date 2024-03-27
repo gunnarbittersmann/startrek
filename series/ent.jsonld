@@ -59,8 +59,8 @@
 						"datePublished": "2003-03-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"abstract": {
@@ -71,6 +71,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -92,8 +93,8 @@
 						"datePublished": "2003-03-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -113,8 +114,8 @@
 						"datePublished": "2003-03-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -134,8 +135,8 @@
 						"datePublished": "2003-04-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
 					"description": {
@@ -155,8 +156,8 @@
 						"datePublished": "2003-04-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -176,8 +177,8 @@
 						"datePublished": "2003-05-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -197,8 +198,8 @@
 						"datePublished": "2003-05-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
 					"description": {
@@ -208,6 +209,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -229,8 +231,8 @@
 						"datePublished": "2003-05-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
 					"description": {
@@ -250,8 +252,8 @@
 						"datePublished": "2003-05-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -271,8 +273,8 @@
 						"datePublished": "2003-05-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"description": {
@@ -292,8 +294,8 @@
 						"datePublished": "2003-06-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
 					"description": {
@@ -313,8 +315,8 @@
 						"datePublished": "2003-06-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
 					"description": {
@@ -334,8 +336,8 @@
 						"datePublished": "2003-06-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
 					"description": {
@@ -355,8 +357,8 @@
 						"datePublished": "2003-06-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
 					"description": {
@@ -376,8 +378,8 @@
 						"datePublished": "2003-07-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -387,6 +389,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -408,8 +411,8 @@
 						"datePublished": "2003-08-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobHedden",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobHedden",
 						"name": "Rob Hedden"
 					},
 					"description": {
@@ -429,8 +432,8 @@
 						"datePublished": "2003-08-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -450,8 +453,8 @@
 						"datePublished": "2003-08-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"name": "James Whitmore Jr."
 					},
 					"description": {
@@ -471,8 +474,8 @@
 						"datePublished": "2003-08-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JimCharleston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimCharleston",
 						"name": "Jim Charleston"
 					},
 					"description": {
@@ -492,8 +495,8 @@
 						"datePublished": "2003-08-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -513,8 +516,8 @@
 						"datePublished": "2003-08-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -534,8 +537,8 @@
 						"datePublished": "2003-08-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"name": "Patrick R. Norris"
 					},
 					"description": {
@@ -555,8 +558,8 @@
 						"datePublished": "2003-08-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -576,8 +579,8 @@
 						"datePublished": "2003-08-31"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"name": "Michael Dorn"
 					},
 					"description": {
@@ -597,8 +600,8 @@
 						"datePublished": "2003-09-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -637,8 +640,8 @@
 						"datePublished": "2003-09-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -658,8 +661,8 @@
 						"datePublished": "2003-09-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
 					"description": {
@@ -679,8 +682,8 @@
 						"datePublished": "2003-10-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
 					"description": {
@@ -700,8 +703,8 @@
 						"datePublished": "2003-09-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -721,8 +724,8 @@
 						"datePublished": "2003-09-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -742,8 +745,8 @@
 						"datePublished": "2003-09-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
 					"description": {
@@ -763,8 +766,8 @@
 						"datePublished": "2003-09-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -784,8 +787,8 @@
 						"datePublished": "2003-10-10"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
 					"description": {
@@ -805,8 +808,8 @@
 						"datePublished": "2003-10-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"name": "Patrick R. Norris"
 					},
 					"description": {
@@ -826,8 +829,8 @@
 						"datePublished": "2003-10-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -847,8 +850,8 @@
 						"datePublished": "2003-10-31"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -868,8 +871,8 @@
 						"datePublished": "2003-11-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
 					"description": {
@@ -889,8 +892,8 @@
 						"datePublished": "2003-11-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -910,8 +913,8 @@
 						"datePublished": "2003-11-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -931,8 +934,8 @@
 						"datePublished": "2003-11-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -952,8 +955,8 @@
 						"datePublished": "2003-12-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"name": "James Whitmore Jr."
 					},
 					"description": {
@@ -973,8 +976,8 @@
 						"datePublished": "2003-12-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -994,8 +997,8 @@
 						"datePublished": "2003-12-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1015,8 +1018,8 @@
 						"datePublished": "2004-10-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"description": {
@@ -1036,8 +1039,8 @@
 						"datePublished": "2004-10-31"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
 					"description": {
@@ -1057,8 +1060,8 @@
 						"datePublished": "2004-11-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"description": {
@@ -1078,8 +1081,8 @@
 						"datePublished": "2004-11-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1099,8 +1102,8 @@
 						"datePublished": "2004-11-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1110,6 +1113,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1131,8 +1135,8 @@
 						"datePublished": "2004-11-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1152,8 +1156,8 @@
 						"datePublished": "2004-11-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1173,8 +1177,8 @@
 						"datePublished": "2004-11-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"abstract": {
@@ -1214,8 +1218,8 @@
 						"datePublished": "2004-11-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1235,8 +1239,8 @@
 						"datePublished": "2004-12-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -1256,8 +1260,8 @@
 						"datePublished": "2004-12-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1277,8 +1281,8 @@
 						"datePublished": "2004-12-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -1298,8 +1302,8 @@
 						"datePublished": "2004-12-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1319,8 +1323,8 @@
 						"datePublished": "2004-12-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1340,8 +1344,8 @@
 						"datePublished": "2004-12-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -1361,8 +1365,8 @@
 						"datePublished": "2005-01-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"description": {
@@ -1382,8 +1386,8 @@
 						"datePublished": "2005-01-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -1403,8 +1407,8 @@
 						"datePublished": "2005-01-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1424,8 +1428,8 @@
 						"datePublished": "2005-01-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -1435,6 +1439,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1456,8 +1461,8 @@
 						"datePublished": "2005-01-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1477,8 +1482,8 @@
 						"datePublished": "2005-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1498,8 +1503,8 @@
 						"datePublished": "2005-01-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -1519,8 +1524,8 @@
 						"datePublished": "2005-01-29"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1540,8 +1545,8 @@
 						"datePublished": "2005-01-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1561,8 +1566,8 @@
 						"datePublished": "2005-02-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
 					"description": {
@@ -1582,8 +1587,8 @@
 						"datePublished": "2005-02-06"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1603,8 +1608,8 @@
 						"datePublished": "2005-02-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"description": {
@@ -1624,8 +1629,8 @@
 						"datePublished": "2005-02-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1645,8 +1650,8 @@
 						"datePublished": "2005-02-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1666,8 +1671,8 @@
 						"datePublished": "2005-02-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1687,8 +1692,8 @@
 						"datePublished": "2005-02-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
 					"description": {
@@ -1708,8 +1713,8 @@
 						"datePublished": "2005-02-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1748,8 +1753,8 @@
 						"datePublished": "2006-02-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1769,8 +1774,8 @@
 						"datePublished": "2006-02-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1790,8 +1795,8 @@
 						"datePublished": "2006-02-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -1811,8 +1816,8 @@
 						"datePublished": "2006-03-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1832,8 +1837,8 @@
 						"datePublished": "2006-03-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -1853,8 +1858,8 @@
 						"datePublished": "2006-03-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -1874,8 +1879,8 @@
 						"datePublished": "2006-03-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
 					"description": {
@@ -1895,8 +1900,8 @@
 						"datePublished": "2006-04-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
 					"description": {
@@ -1916,8 +1921,8 @@
 						"datePublished": "2006-04-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -1937,8 +1942,8 @@
 						"datePublished": "2006-04-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -1958,8 +1963,8 @@
 						"datePublished": "2006-04-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -1979,8 +1984,8 @@
 						"datePublished": "2006-04-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
 					"description": {
@@ -2000,8 +2005,8 @@
 						"datePublished": "2006-05-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
 					"description": {
@@ -2021,8 +2026,8 @@
 						"datePublished": "2006-05-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
 					"description": {
@@ -2042,8 +2047,8 @@
 						"datePublished": "2006-05-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
 					"description": {
@@ -2063,8 +2068,8 @@
 						"datePublished": "2006-05-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#DavidBarrett",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidBarrett",
 						"name": "David Barrett"
 					},
 					"description": {
@@ -2084,8 +2089,8 @@
 						"datePublished": "2006-06-04"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {
@@ -2105,8 +2110,8 @@
 						"datePublished": "2006-06-11"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
 					"description": {
@@ -2126,8 +2131,8 @@
 						"datePublished": "2006-06-18"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
 					"description": {
@@ -2147,8 +2152,8 @@
 						"datePublished": "2006-06-25"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
 					"description": {
@@ -2168,8 +2173,8 @@
 						"datePublished": "2006-07-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
 					"description": {
@@ -2189,8 +2194,8 @@
 						"datePublished": "2006-07-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
 					"description": {

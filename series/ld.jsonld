@@ -49,6 +49,7 @@
 					"@type": "Review",
 					"creator": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
 						"name": "Jessie Gender"
 					},
 					"video": {
@@ -60,6 +61,7 @@
 					"@type": "Review",
 					"creator": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
 					"video": {
@@ -83,8 +85,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
 					"description": {
@@ -96,7 +98,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -108,6 +111,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -130,8 +134,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -143,7 +147,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -166,8 +171,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -179,7 +184,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -202,8 +208,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
 					"description": {
@@ -215,7 +221,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -238,8 +245,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -251,7 +258,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -274,8 +282,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -287,7 +295,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -310,8 +319,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
 					"description": {
@@ -323,7 +332,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -346,8 +356,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -359,7 +369,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -382,8 +393,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -395,7 +406,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -418,8 +430,8 @@
 						"datePublished": "2021-01-22"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
 					"description": {
@@ -431,7 +443,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -464,6 +477,7 @@
 					"@type": "Review",
 					"creator": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
 						"name": "Jessie Gender"
 					},
 					"video": {
@@ -475,6 +489,7 @@
 					"@type": "Review",
 					"creator": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
 					"video": {
@@ -498,8 +513,8 @@
 						"datePublished": "2021-08-13"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -511,7 +526,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -534,8 +550,8 @@
 						"datePublished": "2021-08-20"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -547,7 +563,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -570,8 +587,8 @@
 						"datePublished": "2021-08-27"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -583,7 +600,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -606,8 +624,8 @@
 						"datePublished": "2021-09-03"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -619,7 +637,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -642,8 +661,8 @@
 						"datePublished": "2021-09-10"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -655,7 +674,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -678,8 +698,8 @@
 						"datePublished": "2021-09-17"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -691,7 +711,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -714,8 +735,8 @@
 						"datePublished": "2021-09-24"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -727,7 +748,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -750,8 +772,8 @@
 						"datePublished": "2021-10-01"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
 					"description": {
@@ -763,7 +785,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -792,8 +815,8 @@
 						"datePublished": "2021-10-08"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -805,7 +828,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -828,8 +852,8 @@
 						"datePublished": "2021-10-15"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -841,7 +865,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -874,6 +899,7 @@
 				"name": "Ups & Downs",
 				"creator": {
 					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#JessieGender",
 					"name": "Jessie Gender"
 				},
 				"video": {
@@ -896,8 +922,8 @@
 						"datePublished": "2022-08-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -909,7 +935,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -932,8 +959,8 @@
 						"datePublished": "2022-09-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
 					},
 					"description": {
@@ -945,7 +972,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -968,8 +996,8 @@
 						"datePublished": "2022-09-09"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
 					},
 					"description": {
@@ -981,7 +1009,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1004,8 +1033,8 @@
 						"datePublished": "2022-09-16"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -1017,7 +1046,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1040,8 +1070,8 @@
 						"datePublished": "2022-09-23"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
 					},
 					"description": {
@@ -1053,7 +1083,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1076,8 +1107,8 @@
 						"datePublished": "2022-09-30"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
 					},
 					"description": {
@@ -1089,7 +1120,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1101,6 +1133,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1123,8 +1156,8 @@
 						"datePublished": "2022-10-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -1136,7 +1169,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1159,8 +1193,8 @@
 						"datePublished": "2022-10-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
 					},
 					"description": {
@@ -1172,7 +1206,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1195,8 +1230,8 @@
 						"datePublished": "2022-10-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
 					},
 					"description": {
@@ -1208,7 +1243,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1231,8 +1267,8 @@
 						"datePublished": "2022-10-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
 					"description": {
@@ -1244,7 +1280,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1256,6 +1293,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1299,13 +1337,13 @@
 					},
 					"director": [
 						{
-							"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 							"name": "Barry J. Kelly"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 							"name": "Jason Zurek"
 						}
 					],
@@ -1318,7 +1356,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1330,6 +1369,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1352,8 +1392,8 @@
 						"datePublished": "2023-09-07"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"name": "Megan Lloyd"
 					},
 					"description": {
@@ -1365,7 +1405,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1377,6 +1418,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1399,8 +1441,8 @@
 						"datePublished": "2023-09-14"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"name": "Brandon Williams"
 					},
 					"description": {
@@ -1412,7 +1454,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1424,6 +1467,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1446,8 +1490,8 @@
 						"datePublished": "2023-09-21"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -1459,7 +1503,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1471,6 +1516,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1493,8 +1539,8 @@
 						"datePublished": "2023-09-28"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"name": "Megan Lloyd"
 					},
 					"description": {
@@ -1506,7 +1552,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1518,6 +1565,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1540,8 +1588,8 @@
 						"datePublished": "2023-10-05"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"name": "Brandon Williams"
 					},
 					"description": {
@@ -1553,7 +1601,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1565,6 +1614,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1587,8 +1637,8 @@
 						"datePublished": "2023-10-12"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -1600,7 +1650,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1612,6 +1663,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1634,8 +1686,8 @@
 						"datePublished": "2023-10-19"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"name": "Megan Lloyd"
 					},
 					"description": {
@@ -1647,7 +1699,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1659,6 +1712,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1681,8 +1735,8 @@
 						"datePublished": "2023-10-26"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
 						"name": "Brandon Williams"
 					},
 					"description": {
@@ -1694,7 +1748,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1706,6 +1761,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {
@@ -1728,8 +1784,8 @@
 						"datePublished": "2023-11-02"
 					},
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
 					"description": {
@@ -1741,7 +1797,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-  							"@type": "Organization",
+  							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
   							"name": "TrekCulture"
 							},
 							"video": {
@@ -1753,6 +1810,7 @@
 							"@type": "Review",
 							"creator": {
   							"@type": "Person",
+  							"@id": "https://bittersmann.de/startrek/people#JessieGender",
   							"name": "Jessie Gender"
 							},
 							"video": {

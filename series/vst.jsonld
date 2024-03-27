@@ -30,7 +30,8 @@
 				"@type": "Review",
 				"name": "Ups & Downs",
 				"creator": {
-					"@type": "Organization",
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 					"name": "TrekCulture"
 				},
 				"video": {
@@ -47,8 +48,8 @@
 					"name": "Skin a Cat",
 					"datePublished": "2023-09-08",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
 					"video": {
@@ -62,6 +63,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -77,8 +79,8 @@
 					"name": "Holiday Party",
 					"datePublished": "2023-09-13",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
 					"video": {
@@ -92,6 +94,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -107,8 +110,8 @@
 					"name": "Worst Contact",
 					"datePublished": "2023-09-20",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
 					"video": {
@@ -122,6 +125,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -137,8 +141,8 @@
 					"name": "Holograms, All the Way Down",
 					"datePublished": "2023-09-27",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
 					"video": {
@@ -152,6 +156,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -167,8 +172,8 @@
 					"name": "Walk, Don’t Run",
 					"datePublished": "2023-10-04",
 					"director": {
-						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
 					"video": {
@@ -182,6 +187,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
