@@ -67,6 +67,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -102,6 +103,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -786,7 +788,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -870,6 +873,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -998,6 +1002,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1142,6 +1147,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1318,6 +1324,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -1381,6 +1388,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1783,6 +1791,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -3646,6 +3655,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -4045,6 +4055,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -4108,6 +4119,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -4143,6 +4155,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {

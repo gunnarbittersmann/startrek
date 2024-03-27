@@ -71,6 +71,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -208,6 +209,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -387,6 +389,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1110,6 +1113,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {
@@ -1435,6 +1439,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"video": {

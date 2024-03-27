@@ -30,7 +30,8 @@
 				"@type": "Review",
 				"name": "Ups & Downs",
 				"creator": {
-					"@type": "Organization",
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 					"name": "TrekCulture"
 				},
 				"video": {
@@ -62,6 +63,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -92,6 +94,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -122,6 +125,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -152,6 +156,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -182,6 +187,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {

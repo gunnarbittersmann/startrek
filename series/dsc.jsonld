@@ -49,6 +49,7 @@
 				"@type": "Review",
 				"creator": {
 					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#SteveShives",
 					"name": "Steve Shives"
 				},
 				"video": {
@@ -106,6 +107,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"itemReviewed": [
@@ -144,6 +146,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -178,6 +181,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -213,6 +217,7 @@
 							"name": "Retro Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
 							"video": {
@@ -224,6 +229,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"itemReviewed": [
@@ -266,6 +272,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -300,6 +307,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -340,6 +348,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -374,6 +383,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -408,6 +418,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -442,6 +453,7 @@
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
 						"video": {
@@ -715,6 +727,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -889,6 +902,7 @@
 						"@type": "Review",
 						"creator": {
 							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
 						"itemReviewed": [
@@ -927,6 +941,7 @@
 				"@type": "Review",
 				"creator": {
 					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#SteveShives",
 					"name": "Steve Shives"
 				},
 				"video": {
@@ -961,7 +976,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -995,7 +1011,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1029,7 +1046,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1063,7 +1081,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1097,7 +1116,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1131,7 +1151,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1165,7 +1186,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1199,7 +1221,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1233,7 +1256,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1267,7 +1291,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1301,7 +1326,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1335,7 +1361,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1369,7 +1396,8 @@
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
-							"@type": "Organization",
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 							"name": "TrekCulture"
 						},
 						"video": {
@@ -1401,6 +1429,7 @@
 				"name": "Retro Review",
 				"creator": {
 					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#JessieGender",
 					"name": "Jessie Gender"
 				},
 				"video": {
@@ -1436,7 +1465,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1448,6 +1478,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1483,7 +1514,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1495,6 +1527,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1530,7 +1563,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1542,6 +1576,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1577,7 +1612,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1589,6 +1625,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1624,7 +1661,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1636,6 +1674,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1671,7 +1710,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1683,6 +1723,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1718,7 +1759,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1730,6 +1772,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1772,7 +1815,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1784,6 +1828,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1819,7 +1864,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1831,6 +1877,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1866,7 +1913,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1878,6 +1926,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1920,7 +1969,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1932,6 +1982,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -1967,7 +2018,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -1979,6 +2031,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
@@ -2014,7 +2067,8 @@
 							"@type": "Review",
 							"name": "Ups & Downs",
 							"creator": {
-								"@type": "Organization",
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
 							"video": {
@@ -2026,6 +2080,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
 							"video": {
@@ -2037,6 +2092,7 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
 							"video": {
