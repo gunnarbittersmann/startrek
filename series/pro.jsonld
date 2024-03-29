@@ -991,7 +991,99 @@
 				"@type": "Webpage",
 				"inLanguage": "en",
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_(season_2)"
-			}
+			},
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.1-2.2",
+					"episodeNumber": "2.1, 2.2",
+					"name": "Into the Breach"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.3",
+					"episodeNumber": "2.3",
+					"name": "Who Saves the Saviors?"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.4",
+					"episodeNumber": "2.4",
+					"name": "Temporal Mechanics 101"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.5",
+					"episodeNumber": "2.5",
+					"name": "The Mystery Spiral"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.6",
+					"episodeNumber": "2.6",
+					"name": "Imposter Syndrome"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.7",
+					"episodeNumber": "2.7",
+					"name": "The Race"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.8",
+					"episodeNumber": "2.8",
+					"name": "Veritas?"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.9-2.10",
+					"episodeNumber": "2.9, 2.10",
+					"name": "The Time Devouring Scavengers"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.11-2.12",
+					"episodeNumber": "2.11, 2.12",
+					"name": "The Last Flight of the Protostar"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.13",
+					"episodeNumber": "2.13",
+					"name": "A Tribble Called Bridule"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.14",
+					"episodeNumber": "2.14",
+					"name": "The Mirror Universe"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.15-2.16",
+					"episodeNumber": "2.15, 2.16",
+					"name": "The Ascent"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.17",
+					"episodeNumber": "2.17",
+					"name": "On the Brink"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.18",
+					"episodeNumber": "2.18",
+					"name": "Behind Enemy Lines"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/pro#2.19-2.20",
+					"episodeNumber": "2.19, 2.20",
+					"name": "Ouroboros"
+				}
+			]
 		}
 	]
 }
