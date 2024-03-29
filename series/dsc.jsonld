@@ -482,6 +482,19 @@
 					"description": {
 						"en": "Burnham and Lorca are summoned to the ISS Charon, the imperial flagship. Georgiou sends Lorca to a torturous agony booth, and has dinner with Burnham. Stamets finds himself within the mycelial network with the consciousness of his Mirror counterpart, learning that the network has been corrupted by the Mirror Stamets’ experiments. Stamets encounters a representation of Culber and accepts his loss, before waking up from his trance. He discovers that his spore collection has been infected. Georgiou laments allowing Lorca to become a father figure to Burnham, only for the pair to fall in love and plot to overthrow her. She plans to execute Burnham, who reveals the truth about being from another universe. Explaining how they had crossed over, Georgiou trades the spore drive’s schematics for information on alternative ways to cross between universes, which leads Burnham to realize that the Lorca she knows is actually originally from the Mirror Universe and has been manipulating events to get back to the Mirror Universe while also getting close to her. Lorca escapes from the agony booth.",
 						"de": "Burnham und Lorca werden zu Georgious Raumschiff Charon gebracht. Während Georgiou ihren als Putschist gefangen genommenen Feind Lorca foltern lässt, nimmt sie ihr Abendessen zusammen mit Burnham ein. Stamets findet sich im Myzeliennetzwerk wieder und trifft dort auf das Bewusstsein seines Gegenübers aus dem Spiegeluniversum. Er erfährt dort, dass das Netzwerk durch die Experimente jenes Alter Egos unbrauchbar geworden ist. Er begegnet zudem einer Version von Dr. Culber, dessen Verlust er akzeptiert, ehe er aufwacht und seine Sporensammlung infiziert vorfindet. Georgiou bejammert, dass sie es zuließ, Lorca zu einer Vaterfigur für Burnham werden zu lassen, so dass diese Georgiou als Machthaberin stürzen wollten. Zur Strafe dafür plant sie, Burnham zu exekutieren. Diese jedoch enthüllt die Wahrheit über sich selbst, der zufolge sie aus dem anderen Universum stammt. Burnham erklärt, wie es dazu kam, dass sie in das Spiegeluniversum gelangten. Georgiou geht einen Deal ein und gibt Informationen über den Aufbau des Sporenantriebs als Gegenleistung für Informationen über alternative Wege für das Wechseln zwischen den Universen. In der Folge realisiert Burnham, dass der Lorca, den sie kennt, in Wirklichkeit aus dem Spiegeluniversum stammt und die Ereignisse mit dem Ziel manipuliert hat, sich ihr anzunähern und zurück ins Spiegeluniversum zu gelangen. Schließlich flieht Lorca aus der Agonie-Kammer, in der er gefoltert wurde."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nnNZ4cD_es4"
+						}
 					}
 				},
 				{
