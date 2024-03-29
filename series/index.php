@@ -281,6 +281,9 @@ EOT;
                                   <abbr aria-hidden="true"><?= htmlSpecialChars($episode['review']['creator']['name'][0]) ?></abbr>
                                 </span>
                               <?php endif; ?>
+                              <?php if ($episode['review']['itemReviewed']): ?>
+                                <span class="review-range">(<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
+                              <?php endif; ?>
                             </summary>
                             <meta
                               property="embedUrl"
@@ -309,6 +312,9 @@ EOT;
                                         <span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
                                         <abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
                                       </span>
+                                    <?php endif; ?>
+                                    <?php if ($review['itemReviewed']): ?>
+                                      <span class="review-range">(<?= htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
                                     <?php endif; ?>
                                   </summary>
                                   <meta
