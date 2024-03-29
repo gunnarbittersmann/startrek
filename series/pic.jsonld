@@ -45,19 +45,33 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"name": "Ups & Downs",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-					"name": "TrekCulture"
+			"review": [
+				{
+					"@type": "Review",
+					"name": "Ups & Downs",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/-CQk9xWNtbM"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/-CQk9xWNtbM"
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0u1D6gtalYY"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -81,19 +95,33 @@
 						"en": "In an interview, retired Starfleet Admiral Jean-Luc Picard reveals that he resigned in protest after Starfleet abandoned plans to rescue Romulan citizens from a supernova when rogue synthetics attacked the rescue fleet. Starfleet banned the creation of synthetics after the attack. Romulan assassins attack a young woman named Dahj and kill her partner. This triggers something in Dahj, and she is able to kill the assassins. Experiencing visions of Picard and seeing his interview, Dahj seeks him out. After meeting her, Picard visits Starfleet Archives and finds a painting that features a figure who resembles Dahj. Entitled “Daughter”, the painting was given to Picard by his android former lieutenant commander Data. More assassins attack Picard and Dahj, and Dahj is killed. Picard meets with Dr. Agnes Jurati at the Daystrom Institute, who explains that Dahj could be Data’s daughter due to an experimental procedure known as fractal neuronic cloning, which results in twin androids with organic bodies. Meanwhile, Dahj’s twin, Soji Asha, is working in a Borg Cube that has been reclaimed by Romulan refugees.",
 						"de": "Im Jahr 2399, 14 Jahre nach dem Verlassen der Sternenflotte, gibt Jean-Luc Picard ein erstes Interview zur damaligen romulanischen Supernova. Dahj, die von romulanischen Agenten in ihrer Wohnung angegriffen wurde, diese aber – zu ihrer eigenen Überraschung – töten konnte, sieht Picard im Fernsehen und erkennt ihn als den Mann aus ihrer Erinnerung. Sie sucht Picard auf, um ihn um Hilfe zu bitten. Nachdem zuvor bereits Dahjs Freund beim Angriff gestorben ist und sie deshalb Picard nicht auch noch in Gefahr bringen möchte, verlässt sie sein Anwesen wieder. Am nächsten Tag besucht Picard das Archiv der Sternenflotte und stellt fest, dass die Frau auf einem Gemälde, das Data vor etwa 30 Jahren gemalt und Tochter genannt hat, aussieht wie Dahj. In der Zwischenzeit kontaktiert Dahj, die weiterhin von Romulanern verfolgt wird, ihre Mutter, die ihr rät, zu Picard zurückzukehren, weil nur er ihr helfen könne. Sie findet Picard erneut. Dieser versucht ihr zu erklären, dass sie etwas Besonderes, womöglich eine menschlich wirkende Androidin ist, was Dahj erst nicht wahrhaben will. Picard schlägt ihr hierauf vor, gemeinsam zum Daystrom-Institut zu gehen, als Dahj bemerkt, dass ihre Verfolger wieder ihre Spur aufgenommen haben. Es gelingt ihr, etliche Romulaner zu töten, wird dann aber von einem am Boden liegenden Angreifer überrascht und stirbt. Picard sucht darauf Dr. Agnes Jurati im Daystrom-Institut auf und erfährt, dass Dahj einen Zwilling haben muss."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/F_On0JvDCVI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/F_On0JvDCVI"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/glYGTcbNiEg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
