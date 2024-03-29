@@ -1213,6 +1213,18 @@
 					},
 					"abstract": {
 						"de": "Die Defiant entdeckt einen Planeten, der nur alle 60 Jahre für kurze Zeit in festem Zustand existiert. Die Bewohner können sich daher nicht mehr fortpflanzen und versuchen diese Dimensionswechsel in Zukunft zu verhindern. Dax verliebt sich bei der Suche nach einer Lösung in den Anführer Deral und möchte deshalb auf Meridian bleiben."
+					},
+					"review":	{
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/e7txr_5CRzw"
+						}
 					}
 				},
 				{
