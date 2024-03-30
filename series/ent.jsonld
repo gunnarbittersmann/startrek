@@ -389,6 +389,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
