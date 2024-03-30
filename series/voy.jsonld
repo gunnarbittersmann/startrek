@@ -65,6 +65,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
