@@ -3265,6 +3265,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
