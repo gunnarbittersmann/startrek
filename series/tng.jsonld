@@ -2545,6 +2545,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3072,6 +3073,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
