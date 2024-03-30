@@ -1113,6 +1113,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
