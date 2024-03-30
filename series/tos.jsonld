@@ -603,6 +603,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -842,6 +843,7 @@
 					"sameAs": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte",
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
