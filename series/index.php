@@ -282,16 +282,21 @@ EOT;
 																<span class="review-range">(<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
 															<?php endif; ?>
 														</summary>
-														<meta
-															property="embedUrl"
-															content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
-														/>
-														<iframe
-															allowfullscreen=""
-															aria-label="<?= htmlSpecialChars($episode['review']['name']) ?>"
-															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-														>
-														</iframe>
+														<figure>
+															<?php if ($episode['review']['name'] && $episode['review']['creator'] && $episode['review']['creator']['name'] == 'Steve Shives'): ?>
+																<figcaption><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
+															<?php endif; ?>
+															<meta
+																property="embedUrl"
+																content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
+															/>
+															<iframe
+																allowfullscreen=""
+																aria-label="<?= htmlSpecialChars($episode['review']['name']) ?>"
+																aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+															>
+															</iframe>
+														</figure>
 													</details>
 												</td>
 											<?php else: ?>
@@ -311,16 +316,21 @@ EOT;
 																			<span class="review-range">(<?= htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
 																		<?php endif; ?>
 																	</summary>
-																	<meta
-																		property="embedUrl"
-																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-																	/>
-																	<iframe
-																		allowfullscreen=""
-																		aria-label="<?= htmlSpecialChars($review['name']) ?>"
-																		aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-																	>
-																	</iframe>
+																	<figure>
+																		<?php if ($review['name'] && $review['creator'] && $review['creator']['name'] == 'Steve Shives'): ?>
+																			<figcaption><?= htmlSpecialChars($review['name']) ?></figcaption>
+																		<?php endif; ?>
+																		<meta
+																			property="embedUrl"
+																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																		/>
+																		<iframe
+																			allowfullscreen=""
+																			aria-label="<?= htmlSpecialChars($review['name']) ?>"
+																			aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+																		>
+																		</iframe>
+																	</figure>
 																</details>
 															</li>
 														<?php endforeach; ?>
