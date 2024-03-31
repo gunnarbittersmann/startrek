@@ -2776,6 +2776,19 @@
 					},
 					"abstract": {
 						"de": "Nachdem die Romulaner und andere Völker des Alpha-Quadranten Nichtangriffspakte mit dem Dominion abschließen, lässt die Sternenflotte das Wurmloch verminen, um ein weiteres Aufrüsten des Dominion und ein Anwachsen der von ihm ausgehenden Bedrohung zu verhindern. Wohlwissend, dass die Blockade des Wurmlochs einen Krieg provoziert, veranlasst Sisko die bajoranische Regierung zum Abschluss eines Nichtangriffspaktes mit dem Dominion. Wenig später greift eine Flotte von Cardassianern und Jem’Hadar die mittlerweile fast vollständig evakuierte und von der Sternenflotte verlassene Station an und nimmt sie trotz hoher eigener Verluste ein."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/dGTHIjCeroc"
+						}
 					}
 				}
 			]
