@@ -96,7 +96,7 @@
 					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/NFM5Gb1b0_Y?start=1161">I’m The X</a> (featuring Ethan Peck)</li>
 					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/NFM5Gb1b0_Y?start=1306">Keep Us Connected</a> (featuring Celia Rose Gooding)</li>
 					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/NFM5Gb1b0_Y?start=1576">We Are One</a> (featuring Anson Mount, Jess Bush, Christina Chong, Rebecca Romijn, Ethan Peck, Melissa Navia, Celia Rose Gooding, Babs Olusanmokun, Dan Jeannotte, Paul Wesley, and Carol Kane)</li>
-					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/NFM5Gb1b0_Y?start=1833">Subspace Rhapsody End Credit Medley</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/NFM5Gb1b0_Y?start=1834">Subspace Rhapsody End Credit Medley</a></li>
 				</ol>
 				<p>Songs written by Tom Polce and Kay Hanley</p>
 			</div>
@@ -108,9 +108,8 @@
 		<script src="../script.js"></script>
 		<script src="https://www.youtube.com/iframe_api" async=""></script>
 		<script>
-let player;
 function onYouTubeIframeAPIReady() {
-	player = new YT.Player('youtubePlayer');
+	const player = new YT.Player('youtubePlayer');
 	document.documentElement.addEventListener('click', event => {
 		const link = event.target.closest('.tracklist a');
 		if (link) {
