@@ -14,7 +14,6 @@
 	"name": "Star Trek: Lower Decks",
 	"identifier": "LD",
 	"inLanguage": "en",
-	"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks",
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -31,7 +30,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_1",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -459,7 +457,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_2",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -881,7 +878,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_3",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1404,7 +1400,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 4,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_4",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1921,7 +1916,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 5,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_5",
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
