@@ -31,12 +31,12 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_1)",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_1)"
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1"
 				},
 				{
 					"@type": "Webpage",
@@ -679,12 +679,12 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_2)",
+			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_2",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_2)"
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_2"
 				},
 				{
 					"@type": "Webpage",
@@ -1331,7 +1331,7 @@
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
-				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_(season_3)"
+				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3"
 			}
 		}
 	]
