@@ -30,7 +30,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -678,7 +677,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"sameAs": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_2",
 			"subjectOf": [
 				{
 					"@type": "Webpage",
