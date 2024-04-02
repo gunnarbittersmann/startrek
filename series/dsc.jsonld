@@ -2139,21 +2139,36 @@
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.1",
 					"episodeNumber": "5.1",
 					"name": "Red Directive",
-					"datePublished": "2024-04-04"
+					"datePublished": "2024-04-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-04"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.2",
 					"episodeNumber": "5.2",
 					"name": "Under the Twin Moons",
-					"datePublished": "2024-04-04"
+					"datePublished": "2024-04-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-04"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.3",
 					"episodeNumber": "5.3",
 					"name": "Jinaal",
-					"datePublished": "2024-04-11"
+					"datePublished": "2024-04-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-11"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2161,6 +2176,11 @@
 					"episodeNumber": "5.4",
 					"name": "Face the Strange",
 					"datePublished": "2024-04-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-18"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
@@ -2172,28 +2192,48 @@
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.5",
 					"episodeNumber": "5.5",
 					"name": "Mirrors",
-					"datePublished": "2024-04-25"
+					"datePublished": "2024-04-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-25"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.6",
 					"episodeNumber": "5.6",
 					"name": "Whistlespeak",
-					"datePublished": "2024-05-02"
+					"datePublished": "2024-05-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-02"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.7",
 					"episodeNumber": "5.7",
 					"name": "Erigah",
-					"datePublished": "2024-05-09"
+					"datePublished": "2024-05-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-09"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.8",
 					"episodeNumber": "5.8",
 					"name": "Labyrinths",
-					"datePublished": "2024-05-16"
+					"datePublished": "2024-05-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-16"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2201,6 +2241,11 @@
 					"episodeNumber": "5.9",
 					"name": "Lagrange Point",
 					"datePublished": "2024-05-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-23"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2213,6 +2258,11 @@
 					"episodeNumber": "5.10",
 					"name": "Life, Itself",
 					"datePublished": "2024-05-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-30"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
