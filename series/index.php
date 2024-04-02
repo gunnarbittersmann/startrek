@@ -1,7 +1,7 @@
 <?php
 	const PREFERRED_LANG = 'de';
 	const IS_LOGO_VISIBLE = FALSE;
-	const IS_DIRECTOR_VISIBLE = FALSE;
+	const IS_DIRECTOR_VISIBLE = TRUE;
 	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
@@ -425,15 +425,6 @@ EOT;
 								Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
 						</cite>
 					<?php endforeach; ?>
-				<?php elseif ($data['sameAs']): ?>
-					<cite property="subjectOf" typeof="Webpage">
-						<a
-							property="url"
-							href="<?= htmlSpecialChars($data['sameAs']) ?>"
-						>
-							Wikipedia
-						</a>
-					</cite>
 				<?php else: ?>
 					<cite>Wikipedia</cite>
 				<?php endif; ?>
