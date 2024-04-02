@@ -427,15 +427,6 @@ EOT;
 								Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
 						</cite>
 					<?php endforeach; ?>
-				<?php elseif ($data['sameAs']): ?>
-					<cite property="subjectOf" typeof="Webpage">
-						<a
-							property="url"
-							href="<?= htmlSpecialChars($data['sameAs']) ?>"
-						>
-							Wikipedia
-						</a>
-					</cite>
 				<?php else: ?>
 					<cite>Wikipedia</cite>
 				<?php endif; ?>
