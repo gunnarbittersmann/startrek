@@ -1313,19 +1313,33 @@
 						"en": "After studying several black boxes, Burnham believes she can find the source of the Burn with data from Project SB-19, a possible space travel alternative to dilithium developed by the unified Vulcan and Romulan people on Ni’Var (formerly the planet Vulcan). The Ni’Varians believe SB-19 caused the Burn and do not want to give the data to the Federation, whom they have left. Vance believes Burnham can convince the Ni’Varians otherwise since her brother, Spock, had begun the process of unifying the Vulcans and Romulans hundreds of years earlier. At Ni’Var, Burnham invokes T’Kal-in-ket, a Vulcan trial intended to verify her scientific claim to the SB-19 data. She is represented by her mother Gabrielle, who was previously trapped in the future and has since joined the Qowat Milat, a sect of Romulan warrior nuns. Gabrielle makes Burnham confront her own intentions and sense of confusion about her destiny, leading to Burnham withdrawing from the trial. Impressed by this, Ni’Var President T’Rina gives Burnham the SB-19 data. Meanwhile, Saru names Tilly as his acting first officer.",
 						"de": "Nach der Untersuchung mehrerer Blackboxen glaubt Burnham, die Ursache des Brandes mit Hilfe von Daten aus dem Projekt SB-19 finden zu können. Dieses Projekt hatte zum Ziel, eine mögliche Alternative zum stets knappen Dilithium für die Raumfahrt zu entwickeln. Die Forschungseinrichtung, die von den vereinigten Vulkaniern und Romulanern betrieben wird, befindet sich auf Ni’Var (dem früheren Planeten Vulkan). Sie glauben, dass SB-19 den Brand verursacht hat und wollen die Daten nicht an die Föderation weitergeben, die sie nach der Katastrophe verlassen haben. Vance glaubt, dass Burnham sie vom Gegenteil überzeugen kann, da ihr Bruder Spock den Prozess der Vereinigung der Vulkanier und Romulaner eingeleitet hat. Auf Ni’Var beruft sich Burnham auf das T’Kal-in-ket, ein vulkanisches Verfahren, das ihren wissenschaftlichen Anspruch auf die SB-19-Daten bestätigen soll. Sie wird von ihrer Mutter Gabrielle vertreten, die früher in der Zukunft gefangen war und sich inzwischen den Qowat Milat, einer Sekte romulanischer Kriegsnonnen, angeschlossen hat. Gabrielle bringt Burnham dazu, sich mit ihren eigenen Absichten und ihrer Verwirrung über ihr Schicksal auseinanderzusetzen, was dazu führt, dass Burnham sich von der Verhandlung zurückzieht. Beeindruckt davon übergibt die Ni’Var-Präsidentin T’Rina Burnham die SB-19-Daten. Währenddessen ernennt Saru Tilly zu seinem Ersten Offizier."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6fv_0rlcmO4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
