@@ -698,6 +698,18 @@
 					"description": {
 						"en": "Amanda Grayson, Spock’s mother and Burnham’s adoptive mother, learns that Spock has escaped the psychiatric unit and is wanted for murdering three doctors. She steals his medical records and takes them to Discovery for decryption. Grayson recognizes a drawing in the records from Spock’s childhood art: the Red Angel. Burnham admits to emotionally hurting Spock when they were young to protect him from Vulcan’s logic extremists. On Qo’noS, Klingon house leader Kol-Sha threatens to kill Starfleet Officer Ash Tyler—formerly the Klingon Voq—and the Klingon Empire’s leader L’Rell for having a secret child together. The pair kill Kol-Sha with the help of Philippa Georgiou, the Empress of the Mirror Universe’s Terran Empire, who is now an agent of Starfleet’s secretive Section 31. In a ruse to consolidate power, L’Rell convinces the Klingon High Council that Tyler and the baby are dead. Georgiou delivers the baby to a monastery and recruits Tyler to Section 31. Burnham and Engineer Paul Stamets use dark matter to remove a parasite from Tilly that caused her hallucination of May.",
 						"de": "Spocks Mutter Amanda, zugleich Burnhams Adoptivmutter, erfährt, dass Spock aus der psychiatrischen Anstalt entflohen ist und wegen des Mordes an drei Ärzten gesucht wird. Sie stiehlt seine Krankenakte und bringt sie zwecks Entschlüsselung mit an Bord der Discovery, wobei ihr eine Zeichnung aus Spocks Kindheit auffällt, die er „Roter Engel“ nannte – die gleiche Figur, die Burnham schon bei der Untersuchung des ersten Signals erschienen ist. Burnham gibt daraufhin zu, dass sie Spock, als sie noch Kinder waren, emotional verletzt hat, um ihn vor den vulkanischen Logik-Extremisten zu schützen. Auf Qo’noS bedroht Kol-Sha, Führer eines der klingonischen Häuser, den Sternenflottenoffizier Ash Tyler – der früher der Klingone Voq war – und die klingonische Kanzlerin L’Rell, weil sie insgeheim Eltern eines Kindes sind. Kol-Sha fordert von L’Rell, ihm ihr Amt zu übergeben. Stattdessen töten Tyler und L’Rell ihn mit der Hilfe von Philippa Georgiou, ehemalige Herrscherin des Terranischen Imperiums im Spiegeluniversum und nun Agentin der Sternenflottensektion 31. Gemeinsam überlisten sie Kol-Sha und sichern L’Rells Macht, indem sie den Hohen Rat Glauben machen, dass Tyler und das Kind tot sind. Georgiou bringt das Kind in ein Kloster und rekrutiert Tyler als Mitglied der Sektion 31. Burnham und Stamets benutzen Dunkle Materie, um einen Parasiten aus Fähnrich Tilly zu entfernen, der ihre Halluzinationen von einer alten Schulfreundin erzeugt hat."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4AVsW-_pRh0"
+						}
 					}
 				},
 				{
@@ -1154,19 +1166,33 @@
 						"en": "As a human host to a Trill symbiont, Adira cannot remember becoming the host of the Tal symbiont, and cannot access the memories of previous hosts such as Senna. Burnham takes them to the Trill homeworld in hopes that the Trill can help unlock their memories. The Trill are also no longer part of the Federation, but welcome Discovery due to their need for new symbiont hosts. However, many Trill refuse to believe that a non-Trill could host a symbiont, and Adira is turned away. A group of Trill attempt to kill Adira and take the symbiont, but Burnham stops them and a friendly Trill, Guardian Xi, offers to help. At the sacred Caves of Mak’ala, Xi and Burnham help Adira connect to Tal’s memories: when Senna died, Tal was transferred to Gray, Adira’s Trill boyfriend. However, Gray was killed shortly thereafter and Adira offered to become the new host to save Tal and the memories of all previous hosts. After gaining access to Tal’s memories, Adira is able to communicate with Gray’s consciousness. Meanwhile, Saru attempts to improve crew morale with the help of Dr. Hugh Culber.",
 						"de": "Adira kann sich nicht daran erinnern, wie sie zum Wirt des Tal-Symbionten wurde und hat keinen Zugriff auf die Erinnerungen früherer Wirte wie Senna. Burnham bringt sie zur Heimatwelt der Trill, in der Hoffnung, dass die Trill ihnen bei der Entschlüsselung der Erinnerungen helfen können. Die Trill sind ebenfalls nicht mehr Teil der Föderation, begrüßen aber die Discovery, da sie neue Symbiontenwirte brauchen. Viele Trill weigern sich jedoch zu glauben, dass ein Nicht-Trill einen Symbionten aufnehmen könnte und Adira wird abgewiesen. Eine Gruppe von Trill versucht sie zu töten und den Symbionten an sich zu nehmen, aber Burnham hält sie auf und ein befreundeter Trill, Guardian Xi, bietet seine Hilfe an. In den heiligen Höhlen von Mak’ala helfen Xi und Burnham Adira, sich mit Tal zu verbinden und ihre Erinnerungen freizusetzen. Der Grund für die Erinnerungsblockade ist folgender: Als Senna starb, wurde Tal auf Gray, Adiras Trill-Freund, übertragen. Gray wurde jedoch kurz darauf getötet und Adira bot sich an, der neue Wirt zu werden, um Tal und die Erinnerungen aller früheren Wirte zu retten. Nachdem sie nun ihre Erinnerungen freigelegt hat, kann Adira mit Gray kommunizieren. In der Zwischenzeit versucht Saru, mit Hilfe von Dr. Hugh Culber die Moral der Besatzung zu verbessern."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sAIt4GGxwA4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2010,6 +2036,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KDcyiFLCtho"
 							}
 						},
 						{
