@@ -174,6 +174,18 @@
 					},
 					"description": {
 						"en": "On his first day aboard the USS Enterprise, Ensign Spock and his new superior officer Number One are trapped in a turbolift. While waiting for it to be repaired, Spock asks Number One numerous questions, and they bond over their similarities."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/QbmLGIX5XaY"
+						}
 					}
 				},
 				{
@@ -222,6 +234,18 @@
 					"description": {
 						"en": "When Starbase 28 is attacked, Cadet Thira Sidhu is given care of a mutinous prisoner: Captain Christopher Pike of the Enterprise. Pike tries to pressure Sidhu into releasing him, but she refuses. He then reveals it is a simulated test, and that by passing it, Sidhu is accepted as a part of the Enterprise crew.",
 						"de": "Als Sternenbasis 28 angegriffen wird, kümmert sich Kadett Thira Sidhu um einen meuternden Gefangenen: Kapitän Christopher Pike von der Enterprise. Pike versucht Sidhu unter Druck zu setzen, ihn freizulassen, aber sie lehnt ab. Pike enthüllt, dass dies ein simulierter Test ist, und bei Bestehen wird Sidhu als Teil der Enterprise-Crew akzeptiert."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/5BEl1QvBOXI"
+						}
 					}
 				},
 				{
@@ -247,6 +271,18 @@
 					},
 					"description": {
 						"en": "A tardigrade looking for a place to lay her eggs crosses paths with the USS Enterprise and is attacked by a repair drone named Dot. When the Enterprise self-destructs, Dot helps save Ephraim’s eggs. When the eggs hatch, the pair travel with the baby tardigrades together."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VmiIo-GErxI"
+						}
 					}
 				},
 				{
