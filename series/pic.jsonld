@@ -199,19 +199,33 @@
 						"en": "Picard asks Rios to make a detour to the planet Vashti, where he helped relocate Romulan refugees before the attack on Mars. Picard had befriended a young boy named Elnor and promised to return for him, but abandoned the boy after he resigned from Starfleet. Elnor was then raised by the Qowat Milat, warrior nuns who have sworn an oath of absolute candor. Picard asks Elnor to join his quest; Elnor initially refuses, but changes his mind when Picard is attacked by Romulans who resent Starfleet for abandoning the evacuation effort. Picard and Elnor beam up to La Sirena, where Rios and Raffi are fighting with a local warlord. A mystery ship helps La Sirena win the battle but is damaged in the process. They beam the pilot, former Borg drone Seven of Nine, to La Sirena. On the Artifact, Soji tries to learn more about the Romulans that were assimilated by the Artifact and their prophesied “destroyer”. Narek offers to get her information on the Romulans, but the pair have a falling out when he expresses doubt about Soji’s past. Narissa gives Narek one week to get information on other synths from Soji.",
 						"de": "Picard befindet sich kurz vor dem Amoklauf der Androiden vor 14 Jahren in einer neuen romulanischen Kolonie auf Vashti, wo er bei den Qowat Milat, romulanischen Kriegernonnen, auf die Ankunft neuer Umsiedlungstransporter wartet. Dabei baut er eine Freundschaft zu dem Waisenjungen Elnor auf, der ebenfalls bei den Qowat Milat lebt, erzählt ihm Geschichten und bringt ihm Fechten bei. Kurz darauf erfährt er vom Amoklauf der Androiden und muss überstürzt aufbrechen. In der Gegenwart setzt sich Picard gegenüber Raffi durch, einen Abstecher zu dem Planeten zu unternehmen, der sich jetzt in einem gefährlichen Sektor befindet. Dort möchte er eine Qowat Milat engagieren und nach Elnor schauen. Auf dem Planeten ist man auf die Föderation nicht mehr gut zu sprechen, da diese die Romulaner nach dem Amoklauf im Stich gelassen hat. Die Qowat Milat empfangen Picard jedoch mit offenen Armen. Er trifft auf Elnor, der seine Krieger-Ausbildung abgeschlossen hat, jedoch aufgrund seines Geschlechts nie zu den Kriegernonnen gehören kann, und möchte ihn mitnehmen, was dieser jedoch zunächst ablehnt. Picard geht danach zurück in die romulanische Siedlung, gerät dort in einen Streit mit Romulanern, kann jedoch mit Hilfe Elnors entkommen, der Picards Angebot nun doch annimmt. Währenddessen versucht Soji, auf dem Borg-Kubus weiteres über die Zerstörerin herauszufinden. Ihre Liebesbeziehung zu Narek vertieft sich, dieser wird jedoch von seiner Schwester Narissa dazu angehalten, mehr über Soji herauszufinden, sonst würde sie, wie schon bei Dahj auf der Erde, mit Gewalt vorgehen. Im Orbit von Vashti greift derweil ein alter romulanischer Bird of Prey an, dessen Angriff durch die Hilfe eines zweiten Raumschiffs abgewehrt werden kann. Von diesem explodierenden Schiff wird die verletzte Pilotin, Seven of Nine, an Bord gebeamt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/874YxTynp7k"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/874YxTynp7k"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VsxlZgyJjek"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -234,19 +248,33 @@
 						"en": "Years ago, Seven of Nine was forced to euthanize her close friend Icheb after his Borg implants were ripped out by black market dealer Bjayzl. Now, Seven travels with La Sirena to Freecloud, where Raffi learns that Bjayzl has Maddox captive and intends to sell him to the Romulans. To free Maddox, Picard’s crew stage a prisoner exchange with Seven as the bait. Meanwhile, Raffi unsuccessfully tries to reconnect with her estranged son Gabriel before returning to La Sirena. When Bjayzl recognizes Seven, the latter drops the charade and reveals her true intention: to kill Bjayzl and avenge Icheb. Picard convinces Seven not to seek revenge, and Maddox is safely beamed to La Sirena. Later, Seven returns to Freecloud and kills Bjayzl without Picard’s knowledge. In the La Sirena sickbay, Maddox tells Picard that he sent Soji and Dahj to the Artifact and Earth, respectively, in order to discover the true motivation behind the Starfleet synth ban. Once left alone by Picard, Jurati confronts Maddox and discusses the fact that they used to secretly be in a relationship together. Jurati then murders Maddox.",
 						"de": "13 Jahre vor den aktuellen Ereignissen werden Icheb, einem engen Freund von Seven of Nine von der Voyager, bei vollem Bewusstsein die Borg-Implantate entfernt. Seven kommt zu seiner Rettung, es ist jedoch zu spät für ihn und sie bringt ihn aus Gnade um. Zwei Wochen, bevor Picards Crew auf Freecloud, einem Casino-Planeten, eintrifft, sucht Maddox dort bei seiner Auftraggeberin Bjayzl Unterschlupf vor dem Tal Shiar, der sein Labor zerstört hat. Jedoch stellt diese ihn ruhig und nimmt ihn gefangen. Nach dem Eintreffen der La Sirena mit Picard und seinen Begleitern arbeiten diese einen Plan zur Rettung von Maddox aus. Dieser sieht vor, dass alle bis auf Dr. Jurati undercover auf den Planeten beamen und Seven of Nine dort als Köder für Bjayzl agiert, die Borg zum Ausschlachten sucht. Unwissend, dass Seven und Bjayzl eine gemeinsame Vergangenheit haben, funktioniert der Plan zunächst: Der lebende Maddox wird als Austausch für Seven zum Treffpunkt gebracht. Als Seven jedoch auch am Treffpunkt ankommt und klar wird, dass sie nur geholfen hat, um an Bjayzl heranzukommen, die für das Leid von Icheb verantwortlich war, gerät die Situation außer Kontrolle. Währenddessen trifft Raffi ihren Sohn, der ihr vorwirft, ihn und seinen Vater wegen einer mutmaßlichen Verschwörung im Stich gelassen zu haben. Er möchte nichts mehr mit ihr zu tun haben, woraufhin Raffi ihn und seine schwangere romulanische Freundin verlässt und heimlich auf die La Sirena zurückkehrt. Gleichzeitig möchte Seven Bjayzl umbringen, welche jedoch vorschlägt, Maddox für ihr Leben einzutauschen und kein Kopfgeld auf die La-Sirena-Besatzung anzusetzen. Durch das Drängen von Picard willigt Seven ein und alle beamen an Bord. Dort verrät der verletzte Maddox Picard, dass sich Soji auf dem Artefakt, dem Borg-Kubus, aufhält und er die beiden Androiden auf die Erde und den Kubus geschickt hat, um eine Verschwörung aufzudecken. Seven gibt Picard einen Chip, mit dem er Hilfe von Sevens Fenris Rangern (eine Art selbsternannte Bürgerwehr, welche „auf eigene Faust“ für Ordnung und Gerechtigkeit sorgt) rufen kann, beamt sich dann mit zwei Waffen wieder auf den Planeten, bringt Bjayzl um und schießt sich ihren Weg in die Freiheit. Zeitgleich ändert Dr. Jurati auf der La Sirena die medizinische Versorgung von Maddox so, dass dieser stirbt, während sie ihm erklärt: „Es tut mir leid, würdest Du nur wissen, was ich schon weiß, und würde ich es doch nicht wissen. Ich wünschte, sie hätten es mir nicht gesagt.“"
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/F5ha7K2rnPQ"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/F5ha7K2rnPQ"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qodJuNueARs"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -380,19 +408,33 @@
 						"en": "Using a Borg transwarp conduit, La Sirena arrives at Soji’s homeworld, Coppelius, several days before the Romulan fleet. Narek arrives and attacks, but is interrupted when the Artifact follows them through the transwarp conduit as well. A planetary defense system in the form of giant orchids drags the three ships to the planet’s surface, and Picard requires medical attention following the crash. Jurati discovers his terminal illness, and Picard reveals it to the rest of the crew. After finding Elnor and Seven alive in the wreckage of the Artifact, the crew travels to the settlement where Dahj and Soji were created. They find Maddox’s partner (and the son of Data’s creator) Altan Inigo Soong with a colony of synths, including Janna’s twin Sutra. Sutra uses a mind meld to see the vision Oh showed Jurati, and believes that it is a message to synthetic life from higher beings willing to destroy organic life. Soong, Soji, and the other synths support Sutra’s plan to call these beings before the Romulans arrive. Picard disagrees, and is taken prisoner.",
 						"de": "Kurz nacheinander treffen die La Sirena, Narek sowie der Borgkubus bei Coppelius, dem vierten Planeten des Ghulion-Systems, ein und werden von orchideenartigen Objekten gewaltsam auf die Oberfläche gebracht. Die Crew der La Sirena bricht zunächst zur Absturzstelle des Borgkubus auf und trifft dort auf Elnor und Seven of Nine. Mithilfe der Langstreckensensoren des Kubus ermitteln sie 218 romulanische Warbirds, die noch etwa zwei Tage entfernt sind. Elnor und Seven bleiben zurück, um die Verteidigungssysteme des Borgkubus wieder in Gang zu bringen, während sich die restliche Crew auf den Weg zur Coppelius-Station macht, die von Androiden bewohnt und von Dr. Altan Inigo Soong geleitet wird. Dieser behauptet, der leibliche Sohn von Dr. Noonien Soong, dem Erschaffer Datas, zu sein. Sutra, die Schwester von Jana, führt eine Gedankenverschmelzung mit Agnes Jurati durch und stellt fest, dass die „Mahnung“ in Wirklichkeit nicht an die Romulaner, sondern an die Androiden gerichtet ist und von einer Allianz künstlicher Lebensformen stammt, die Schutz gegen die Zerstörung durch organisches Leben anbieten. Narek wird gefangen genommen, aber Sutra lässt ihn für ihre eigenen Zwecke heimlich entkommen. Daraufhin flüchtet er in Richtung des Borgkubus. Währenddessen wird Saga, eine Androidin, welche Narek zuvor bewacht hatte, tot aufgefunden. Sutra nimmt den Tod der Androidin zum Anlass, unter den anderen Angst vor allen organischen Lebensformen zu verbreiten. Sie und Dr. Soong haben den Plan, die Allianz der künstlichen Lebensformen mittels einer Bake herbeizurufen, um die romulanische Flotte (und alles organische Leben) zu vernichten. Picard wird unter Arrest gestellt, nachdem er eine Rettungsmission mit der La Sirena vorschlägt, an deren Reparatur Rios und Raffi arbeiten. Dr. Jurati hingegen bleibt frei, um mit Dr. Soong zusammen an einem Projekt der Mentalübertragung zu arbeiten, für das zuvor Bruce Maddox zuständig war. Dr. Soong hatte hierfür zuvor schon einen Golem gefertigt, so wie er zuvor auch die Körper der restlichen Androiden-Geschwister gebaut hatte, bei denen Bruce Maddox die mentalen Fähigkeiten programmiert hatte. Inzwischen ist die romulanische Flotte unter dem Kommando von Commodore Oh noch 24 Stunden entfernt."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-3SbVOiozzg"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/-3SbVOiozzg"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7TAPmGiUIyQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -421,19 +463,33 @@
 						"en": "Narek convinces Raffi, Rios, and Elnor to help him destroy the synths’ beacon. Jurati frees Picard and the pair escape to La Sirena, which Picard flies to confront and stall the Romulans. Narissa targets La Sirena with the Artifacts’ defenses, but is stopped and killed by Seven of Nine. Soong discovers that Sutra worked with Narek to convince the other synths to agree with her plan, and he incapacitates her. Soji foils the attempt to destroy the beacon, and activates it. Picard begins to succumb to his illness, but Jurati prolongs his life long enough for him to distract the Romulans until a Starfleet armada arrives in support, led by Riker. This gives Soji the choice to turn the beacon off herself, which she does, and the Romulans retreat. Picard dies after Jurati and Soong transfer his consciousness into a device holding Maddox’s copy of Data’s consciousness. Picard says goodbye to Data before awaking in a synthetic “golem” body. After the Federation lifts the ban on synths, Picard and Soji set off in La Sirena with Rios, Raffi, Jurati, Elnor, and Seven of Nine.",
 						"de": "Nachdem Raffi und Rios die La Sirena repariert haben, verbündet sich Narek mit ihnen, um gemeinsam mit ihnen die Bake der Androiden zu zerstören. Picard wird derweil von Agnes aus Maddox’ Labor befreit, während Sutra und Soji dabei sind, die Bake zu aktivieren. Es gelingt Raffi, Rios und Narek einige Granaten in das Androiden-Dorf zu schmuggeln. Als sie jedoch eine Granate auf die Bake werfen wollen, fängt Soji diese ab und wirft sie in die Luft, wo diese detoniert. Dr. Soong findet heraus, dass Sutra für den Tod der Androidin Saga verantwortlich ist, und deaktiviert sie daraufhin, Soji allerdings hält weiterhin am Plan, die Bake zu aktivieren, fest. Picard und Agnes kehren währenddessen zur La Sirena zurück und steuern diese ins All, um die romulanische Flotte aufzuhalten. Diese wurde zuvor vom Orchideen-Abwehrsystem von Coppelius nur kurz aufgehalten. Mithilfe eines „Reparaturgeräts“, welches Saga zuvor Rios gegeben hatte, gelingt es Picard und Agnes, den Romulanern vorzutäuschen, dass es eine ganze Flotte von La Sirenas gibt. Als die Romulaner jedoch im Gefecht die echte La Sirena treffen, verschwinden die anderen Hologramme. Seven kann zeitgleich auf dem Borgkubus das Eingreifen von Narissa in das Geschehen im letzten Moment verhindern und tötet sie. Gerade rechtzeitig taucht ein Geschwader der Sternenflotte unter dem Kommando des kurzfristig reaktivierten Captain Riker auf. Um einen drohenden Konflikt zu verhindern, redet Picard via Subraumübertragung auf Soji ein und kann sie schlussendlich dadurch, dass er sein Leben für die Androiden gibt, davon überzeugen, die Bake zu deaktivieren, sodass die herbeigerufenen, unbekannten synthetischen Lebensformen nicht durch das sich gerade öffnende Portal gelangen. Picard stirbt an den Folgen des irumodischen Syndroms, sein Bewusstsein kann aber in den ursprünglich für Dr. Soong bestimmten Golem transferiert werden. In den Schaltkreisen der Übertragungsvorrichtung trifft er auf das Bewusstsein von Data, welches zuvor von Maddox aus B4 gerettet worden war. In einem Gespräch sagt Data zu Picard, dass er gerne sterben möchte, weil nur die Endlichkeit des Lebens all die Dinge, die man erfährt, zu etwas Einzigartigem machen. Nachdem Picard als Golem wiederbelebt wurde, erfüllt er Data diesen Wunsch und deaktiviert sein Bewusstsein. Anschließend startet die La Sirena mit der nun vergrößerten Crew, zu der Seven und Soji, welche sich selbst als Abenteurerin sieht, neu hinzugestoßen sind."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/k_cCdKF113k"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/k_cCdKF113k"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/G-i_L2UshVg"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
