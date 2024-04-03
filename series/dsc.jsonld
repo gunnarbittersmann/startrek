@@ -630,6 +630,18 @@
 					"description": {
 						"en": "En route to Vulcan to pick up its new captain after Gabriel Lorca betrayed the crew during the Federation–Klingon War, the USS Discovery receives a distress call from the USS Enterprise. Captain Christopher Pike takes emergency command, explaining that the Enterprise suffered catastrophic damage while investigating seven mysterious signals scattered across the galaxy. Six signals have since disappeared, and when Discovery arrives at the seventh location, it also disappears. There, the crew discovers the wreckage of the USS Hiawatha, which had been believed lost during the war, on an asteroid composed of non-baryonic matter. Inside they find chief engineer Jett Reno nursing the last survivors. While helping them off the asteroid, commander Michael Burnham sees what she describes as a “red angel.” Burnham visits the Enterprise to search the quarters of her foster brother Spock, who Pike reveals is on a leave of absence from Starfleet. She discovers a file from Spock’s log that describes nightmares of the seven signals he has had since childhood.",
 						"de": "Eine Rückblende auf Burnhams Kindheit zeigt, wie Sarek sie mit dem jungen Spock bekannt macht, der ihr dabei aber wortlos die Tür vor dem Kopf zuschlägt. In der Gegenwart übernimmt der von der Enterprise kommende Captain Pike das Kommando über die Discovery, um ein Signal ähnlich einer Energieverzerrung zu untersuchen, das kürzlich zeitgleich mit sechs anderen, zehntausende Lichtjahre voneinander entfernt, in der Milchstraße erschienen ist. Stamets plant, die Discovery dauerhaft zu verlassen, da er Culber vermisst. In der Nähe des Ausgangsorts des Signals angelangt, entdeckt die Discovery-Crew ein beschädigtes medizinisches Sternenflottenraumschiff auf einem Asteroiden, der in wenigen Stunden mit einem Pulsar kollidieren wird. Nachdem ein Außenteam um Pike und Burnham in Pods genannten Einzelraumschiffen durch ein Asteroidenfeld bis zu dem betreffenden Asteroiden geflogen ist, entdeckt es die Ingenieurin Reno, die seit einem Unfall ihres Schiffes vor über zehn Monaten mehrere Schwerverletzte künstlich am Leben erhält. Ehe der Asteroid vaporisiert wird, kann das Außenteam die Verletzten auf die Discovery bringen und kann die Discovery-Crew eine Gesteinsprobe des Asteroiden nehmen, den Tilly verdächtigt, aus dunkler Materie zu bestehen. Obwohl die Mission nun für Pike abgeschlossen ist, verbleibt er auf seinem Posten, auch weil die Enterprise zu schwer beschädigt ist. Burnham rätselt, warum ihr Adoptivbruder Spock, der schon seit einiger Zeit eine unbegrenzte Auszeit von seinem Dienst genommen hat, den Kontakt mit ihr meidet, und untersucht zu dem Zweck Spocks Quartier auf der Enterprise, wo sie rätselhafte Energiesignale entdeckt."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/X-3Wrp97_pE"
+						}
 					}
 				},
 				{
@@ -652,6 +664,18 @@
 					"description": {
 						"en": "Confronted with the log entry, Pike reveals Spock committed himself to a psychiatric unit one week after taking leave and requested Starfleet inform neither Burnham nor their parents. Discovery detects another signal and uses its experimental spore drive to travel to it, finding a planet with a previously unknown human population. A looped transmission suggests the population departed Earth during World War III. Pike and Burnham lead an away team to the surface, finding a primitive society with a religion combining multiple faiths. As the investigation continues, an anomaly produces an extinction-level radiation shower. Ensign Sylvia Tilly, acting on a fellow ensign’s advice, uses a sample from the asteroid’s non-baryonic matter to avert the catastrophe. Tilly later recognizes the ensign as May Ahearn, a high school classmate who died five years earlier. Pike reviews footage from a helmet camera belonging to a founding member of the society, which shows the Red Angel bringing the population to Terralysium from Earth.",
 						"de": "Burnham entdeckt in Spocks Habseligkeiten bestimmte Computerdaten, die darauf hindeuten, dass er schon seit längerem etwas über die sieben Signale weiß. Daraufhin enthüllt ihr Pike, dass Spock seit einiger Zeit und auf eigenen Wunsch hin in psychiatrischer Therapie ist. Stamets glaubt, Culber kürzlich im Myzeliennetzwerk gesehen zu haben. Zur Erforschung des zweiten Signals springt die Discovery mit dem Sporenantrieb bis in die Nähe eines Planeten im Beta-Quadranten, von dem ein menschlicher Notruf ausgeht, der seit ca. 200 Jahren gesendet wird und damit aus einer Prä-Warp-Zeit stammt. Das Außenteam um Burnham und Pike erfährt, dass die Personen auf dem Planeten die Nachfahren von Menschen sind, die 2053 vor dem Dritten Weltkrieg hierher flohen und die Kolonie „New Eden“ nannten. Die Menschen glauben an eine Vermischung aller großen Weltreligionen und dass die Erde nicht mehr existiert. Die Discovery-Brückencrew entdeckt indes die von den radioaktiven Planetenringen ausgehende Gefahr, dass die Planetenoberfläche in Kürze in einen nuklearen Winter verfällt, und beseitigt die Gefahr in letzter Minute durch das Aussetzen des beim ersten Signal sichergestellten Asteroidenteils und dessen Gravitationskraft. Nach der Rückkehr des Außenteams auf die Discovery enthüllt Burnham gegenüber Pike, dass ihr auf dem Planeten die gleiche Engel-ähnliche Gestalt erschienen ist wie zuvor auf dem Asteroiden. Die gleiche Gestalt sieht Pike auf einem Video, das er von dem Planeten geholt hat, und das zum Grund für den Glauben der dortigen Bewohner wurde."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/a6uRDdvg0gs"
+						}
 					}
 				},
 				{
@@ -976,18 +1000,32 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#SteveShives",
-					"name": "Steve Shives"
+			"review": [
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dbJamOW2zw8"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
@@ -1151,19 +1189,33 @@
 						"en": "Using Senna’s memories, Adira guides Discovery to Starfleet headquarters. Starfleet Commander-in-Chief Charles Vance asks for Burnham, Saru, and Adira to beam over to the base, where Adira is taken away for medical testing. Vance informs Saru and Burnham that the crew will be interrogated and reassigned while their ship is studied, which Saru agrees to in hopes of earning the trust of Starfleet. Realizing that Starfleet is dealing with a health crisis that could be solved through the seed archives aboard the USS Tikhov, Burnham receives approval from Vance to take the Discovery crew there with the spore drive and retrieve the seeds. They find the occupants of the Tikhov dead except for a man who is fatally injured. He is the same species as security officer Nhan, who decides to remain with the Tikhov to ensure he and his family receive a proper burial. Discovery returns to Starfleet with the seeds, and an antidote for the health crisis is synthesized. Due to this success, Vance agrees that the Discovery crew may remain together but insists that they answer to him.",
 						"de": "Mithilfe von Sennas Erinnerungen führt Adira die Discovery zum Hauptquartier der Sternenflotte. Der aktuelle Oberbefehlshaber der Sternenflotte, Charles Vance, lässt Burnham, Saru und Adira zur Zentrale beamen, wo Adira für medizinische Tests abgeholt wird. Vance teilt Saru und Burnham mit, dass die Besatzung verhört und neu eingeteilt, sowie ihr Schiff untersucht wird. Saru gibt hierzu sein Einverständnis, um das Vertrauen der Sternenflotte zu gewinnen. Burnham erkennt, dass die Sternenflotte mit einer Gesundheitskrise zu kämpfen hat, die durch die Samenarchive an Bord der USS Tikhov gelöst werden könnte. Sie erwirkt von Vance die Erlaubnis, die Crew der Discovery mit dem Sporenantrieb dorthin zu bringen und die Samen zu bergen. Sie finden die Insassen der Tikhov tot vor bis auf einen Mann, der nur noch kurze Zeit leben kann. Er gehört der gleichen Spezies an wie die Sicherheitsoffizierin Nhan, die beschließt, bei der Tikhov zu bleiben, um sicherzustellen, dass die Samenarchive erhalten bleiben, und um ihren Heimatplaneten wiederzusehen. Die Discovery kehrt mit den Samen zur Sternenflotte zurück, und es wird ein Gegenmittel für die Gesundheitskrise synthetisiert. Vance stimmt zu, dass die Besatzung der Discovery zusammenbleiben darf, aber sie habe sich streng an seine Anweisungen zu halten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0QjnJ_SiOyI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1186,19 +1238,33 @@
 						"en": "The Discovery is upgraded to utilize 32nd century technology, including programmable matter. Vance sends other Starfleet ships on various missions across the remaining Federation space, but orders Discovery to remain at the ready for any rapid-response missions. Book’s ship arrives carrying a three-week-old message from him about a new discovery he has made: the black box for a Starfleet ship that was destroyed in the Burn. Burnham believes that she can use this black box to trace the origin of the Burn, but Saru orders her to remain on the Discovery in case Vance needs them. Burnham agrees, but then disobeys Saru’s order by taking Georgiou in Book’s ship to go find him. On the salvage planet Hunhau, Georgiou poses as a buyer looking for rare ship pieces while Burnham looks for Book. They stage a prison break for the servants working at the salvage yards, allowing their escape with Book and the black box. When they return, Burnham is reprimanded by Vance for disobeying orders and Saru demotes Burnham from her position as his first officer.",
 						"de": "Die Discovery wird aufgerüstet, um auch die Technologien der Zukunft, einschließlich programmierbarer Materie, nutzen zu können. Vance schickt andere Schiffe der Sternenflotte auf verschiedene Missionen in den verbleibenden Raum der Föderation, befiehlt aber der Discovery, für schnelle Einsätze in Bereitschaft zu bleiben. Das Schiff von Book trifft mit einer drei Wochen alten Nachricht ein, in der es um eine neue Entdeckung geht, die er gemacht hat: der Blackbox eines Sternenflottenschiffs, das bei dem Brand zerstört wurde. Burnham glaubt, dass sie mit dieser Blackbox den Ursprung des Brandes zurückverfolgen kann, aber Saru befiehlt ihr auf der Discovery zu bleiben, falls sie von Vance gebraucht werden. Burnham stimmt zu, missachtet dann aber diesen Befehl, indem sie Georgiou und Books Schiff nimmt, um ihn zu suchen. Auf dem Bergungsplaneten Hunhau gibt sich Georgiou als Käufer aus, der nach seltenen Schiffsteilen sucht, während Burnham Book findet. Sie inszenieren einen Gefängnisausbruch für die Bediensteten der Bergungswerften und können so mit Book und der Blackbox entkommen. Als sie zurückkehren, wird Burnham von Vance wegen Befehlsverweigerung getadelt. Saru degradiert Burnham von ihrem Posten als Erster Offizier."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6jFQs9nVS1A"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1711,6 +1777,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oEp9BaXG7kw"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1809,6 +1887,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/K2z-euBxxR4"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1859,6 +1949,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/drfNGQGT2zo"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MoFJ17Xx0dM"
 							}
 						},
 						{
@@ -2062,6 +2164,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/_9n_JU5jRn0"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Xl7-uuoLyoA"
 							}
 						},
 						{
