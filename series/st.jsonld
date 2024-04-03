@@ -298,6 +298,18 @@
 					},
 					"description": {
 						"en": "Two schoolgirls on Earth develop a fierce rivalry, but are drawn together by a tragedy when they see news of Mars and its orbital facilities (where both girls have family working) attacked by rogue synthetics. During the news footage an image of Admiral Jean-Luc Picard appears, with the network reporting that Picard called the attack “devastating.”"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/0z4zOwMH1F8"
+						}
 					}
 				}
 			]
