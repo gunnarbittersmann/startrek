@@ -785,19 +785,33 @@
 					"abstract": {
 						"en": "Tom Paris breaks the transwarp barrier in the Shuttlecraft Cochrane, designed to reach warp 10, but he begins to evolve."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sJNrCm1056g"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/sJNrCm1056g"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cjfjJ69h_Ns"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

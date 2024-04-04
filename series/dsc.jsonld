@@ -572,6 +572,23 @@
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
 						"de": "Tyler teilt mit, dass zum Kartografieren und zum Ermitteln von Angriffszielen eine Drohne in das ruhende Vulkansystem unter der Planetenoberfläche von Qo’noS eindringen sollte. Die Discovery springt mit dem Sporenantrieb zu einer nahen Höhle, und ein Außenteam, bestehend aus Georgiou, Burnham, Tilly und Tyler, gibt sich als Händler aus. Tilly entdeckt, dass das vulkanische System aktiv ist und dass die Drohne, die Georgiou dabei hat, in Wirklichkeit eine Wasserstoffbombe ist. Mit dieser Erkenntnis konfrontiert Burnham Admiral Cornwell, welche zugibt, dass die Detonation der Bombe in dem aktiven Vulkan sämtliches Leben auf Qo’noS auslöschen soll, damit die Föderation so den Krieg gewinnt. Burnham insistiert darauf, dass die Sternenflotte keinen Genozid anrichten sollte und zwingt Georgiou dazu, die Bombe im Tausch für ihre Freiheit zurückzugeben. Jedoch überreichen sie die Bombe an die Klingonin L’Rell, die die Bedrohung mit der Massenvernichtungswaffe dazu nutzt, unter ihrer Führerschaft die klingonischen Häuser zu vereinen und den Krieg zu beenden. Die Mitglieder der Discovery-Besatzung werden als Helden gefeiert. Burnham erhält offiziell eine Rehabilitation und ihren früheren Rang eines Commanders zurück. Tyler beschließt, bei L’Rell zu bleiben. Als die Discovery mit Warpgeschwindigkeit zum Planeten Vulkan fliegt, empfängt sie einen Notruf von der U.S.S. Enterprise."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#1.14" },
+							{ "@id": "https://bittersmann.de/startrek/series/dsc#1.15" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/PEtSQ8O94EA"
+						}
 					}
 				}
 			]
@@ -613,6 +630,18 @@
 					"description": {
 						"en": "En route to Vulcan to pick up its new captain after Gabriel Lorca betrayed the crew during the Federation–Klingon War, the USS Discovery receives a distress call from the USS Enterprise. Captain Christopher Pike takes emergency command, explaining that the Enterprise suffered catastrophic damage while investigating seven mysterious signals scattered across the galaxy. Six signals have since disappeared, and when Discovery arrives at the seventh location, it also disappears. There, the crew discovers the wreckage of the USS Hiawatha, which had been believed lost during the war, on an asteroid composed of non-baryonic matter. Inside they find chief engineer Jett Reno nursing the last survivors. While helping them off the asteroid, commander Michael Burnham sees what she describes as a “red angel.” Burnham visits the Enterprise to search the quarters of her foster brother Spock, who Pike reveals is on a leave of absence from Starfleet. She discovers a file from Spock’s log that describes nightmares of the seven signals he has had since childhood.",
 						"de": "Eine Rückblende auf Burnhams Kindheit zeigt, wie Sarek sie mit dem jungen Spock bekannt macht, der ihr dabei aber wortlos die Tür vor dem Kopf zuschlägt. In der Gegenwart übernimmt der von der Enterprise kommende Captain Pike das Kommando über die Discovery, um ein Signal ähnlich einer Energieverzerrung zu untersuchen, das kürzlich zeitgleich mit sechs anderen, zehntausende Lichtjahre voneinander entfernt, in der Milchstraße erschienen ist. Stamets plant, die Discovery dauerhaft zu verlassen, da er Culber vermisst. In der Nähe des Ausgangsorts des Signals angelangt, entdeckt die Discovery-Crew ein beschädigtes medizinisches Sternenflottenraumschiff auf einem Asteroiden, der in wenigen Stunden mit einem Pulsar kollidieren wird. Nachdem ein Außenteam um Pike und Burnham in Pods genannten Einzelraumschiffen durch ein Asteroidenfeld bis zu dem betreffenden Asteroiden geflogen ist, entdeckt es die Ingenieurin Reno, die seit einem Unfall ihres Schiffes vor über zehn Monaten mehrere Schwerverletzte künstlich am Leben erhält. Ehe der Asteroid vaporisiert wird, kann das Außenteam die Verletzten auf die Discovery bringen und kann die Discovery-Crew eine Gesteinsprobe des Asteroiden nehmen, den Tilly verdächtigt, aus dunkler Materie zu bestehen. Obwohl die Mission nun für Pike abgeschlossen ist, verbleibt er auf seinem Posten, auch weil die Enterprise zu schwer beschädigt ist. Burnham rätselt, warum ihr Adoptivbruder Spock, der schon seit einiger Zeit eine unbegrenzte Auszeit von seinem Dienst genommen hat, den Kontakt mit ihr meidet, und untersucht zu dem Zweck Spocks Quartier auf der Enterprise, wo sie rätselhafte Energiesignale entdeckt."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/X-3Wrp97_pE"
+						}
 					}
 				},
 				{
@@ -635,6 +664,18 @@
 					"description": {
 						"en": "Confronted with the log entry, Pike reveals Spock committed himself to a psychiatric unit one week after taking leave and requested Starfleet inform neither Burnham nor their parents. Discovery detects another signal and uses its experimental spore drive to travel to it, finding a planet with a previously unknown human population. A looped transmission suggests the population departed Earth during World War III. Pike and Burnham lead an away team to the surface, finding a primitive society with a religion combining multiple faiths. As the investigation continues, an anomaly produces an extinction-level radiation shower. Ensign Sylvia Tilly, acting on a fellow ensign’s advice, uses a sample from the asteroid’s non-baryonic matter to avert the catastrophe. Tilly later recognizes the ensign as May Ahearn, a high school classmate who died five years earlier. Pike reviews footage from a helmet camera belonging to a founding member of the society, which shows the Red Angel bringing the population to Terralysium from Earth.",
 						"de": "Burnham entdeckt in Spocks Habseligkeiten bestimmte Computerdaten, die darauf hindeuten, dass er schon seit längerem etwas über die sieben Signale weiß. Daraufhin enthüllt ihr Pike, dass Spock seit einiger Zeit und auf eigenen Wunsch hin in psychiatrischer Therapie ist. Stamets glaubt, Culber kürzlich im Myzeliennetzwerk gesehen zu haben. Zur Erforschung des zweiten Signals springt die Discovery mit dem Sporenantrieb bis in die Nähe eines Planeten im Beta-Quadranten, von dem ein menschlicher Notruf ausgeht, der seit ca. 200 Jahren gesendet wird und damit aus einer Prä-Warp-Zeit stammt. Das Außenteam um Burnham und Pike erfährt, dass die Personen auf dem Planeten die Nachfahren von Menschen sind, die 2053 vor dem Dritten Weltkrieg hierher flohen und die Kolonie „New Eden“ nannten. Die Menschen glauben an eine Vermischung aller großen Weltreligionen und dass die Erde nicht mehr existiert. Die Discovery-Brückencrew entdeckt indes die von den radioaktiven Planetenringen ausgehende Gefahr, dass die Planetenoberfläche in Kürze in einen nuklearen Winter verfällt, und beseitigt die Gefahr in letzter Minute durch das Aussetzen des beim ersten Signal sichergestellten Asteroidenteils und dessen Gravitationskraft. Nach der Rückkehr des Außenteams auf die Discovery enthüllt Burnham gegenüber Pike, dass ihr auf dem Planeten die gleiche Engel-ähnliche Gestalt erschienen ist wie zuvor auf dem Asteroiden. Die gleiche Gestalt sieht Pike auf einem Video, das er von dem Planeten geholt hat, und das zum Grund für den Glauben der dortigen Bewohner wurde."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/a6uRDdvg0gs"
+						}
 					}
 				},
 				{
@@ -657,6 +698,18 @@
 					"description": {
 						"en": "Amanda Grayson, Spock’s mother and Burnham’s adoptive mother, learns that Spock has escaped the psychiatric unit and is wanted for murdering three doctors. She steals his medical records and takes them to Discovery for decryption. Grayson recognizes a drawing in the records from Spock’s childhood art: the Red Angel. Burnham admits to emotionally hurting Spock when they were young to protect him from Vulcan’s logic extremists. On Qo’noS, Klingon house leader Kol-Sha threatens to kill Starfleet Officer Ash Tyler—formerly the Klingon Voq—and the Klingon Empire’s leader L’Rell for having a secret child together. The pair kill Kol-Sha with the help of Philippa Georgiou, the Empress of the Mirror Universe’s Terran Empire, who is now an agent of Starfleet’s secretive Section 31. In a ruse to consolidate power, L’Rell convinces the Klingon High Council that Tyler and the baby are dead. Georgiou delivers the baby to a monastery and recruits Tyler to Section 31. Burnham and Engineer Paul Stamets use dark matter to remove a parasite from Tilly that caused her hallucination of May.",
 						"de": "Spocks Mutter Amanda, zugleich Burnhams Adoptivmutter, erfährt, dass Spock aus der psychiatrischen Anstalt entflohen ist und wegen des Mordes an drei Ärzten gesucht wird. Sie stiehlt seine Krankenakte und bringt sie zwecks Entschlüsselung mit an Bord der Discovery, wobei ihr eine Zeichnung aus Spocks Kindheit auffällt, die er „Roter Engel“ nannte – die gleiche Figur, die Burnham schon bei der Untersuchung des ersten Signals erschienen ist. Burnham gibt daraufhin zu, dass sie Spock, als sie noch Kinder waren, emotional verletzt hat, um ihn vor den vulkanischen Logik-Extremisten zu schützen. Auf Qo’noS bedroht Kol-Sha, Führer eines der klingonischen Häuser, den Sternenflottenoffizier Ash Tyler – der früher der Klingone Voq war – und die klingonische Kanzlerin L’Rell, weil sie insgeheim Eltern eines Kindes sind. Kol-Sha fordert von L’Rell, ihm ihr Amt zu übergeben. Stattdessen töten Tyler und L’Rell ihn mit der Hilfe von Philippa Georgiou, ehemalige Herrscherin des Terranischen Imperiums im Spiegeluniversum und nun Agentin der Sternenflottensektion 31. Gemeinsam überlisten sie Kol-Sha und sichern L’Rells Macht, indem sie den Hohen Rat Glauben machen, dass Tyler und das Kind tot sind. Georgiou bringt das Kind in ein Kloster und rekrutiert Tyler als Mitglied der Sektion 31. Burnham und Stamets benutzen Dunkle Materie, um einen Parasiten aus Fähnrich Tilly zu entfernen, der ihre Halluzinationen von einer alten Schulfreundin erzeugt hat."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4AVsW-_pRh0"
+						}
 					}
 				},
 				{
@@ -959,18 +1012,32 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#SteveShives",
-					"name": "Steve Shives"
+			"review": [
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dbJamOW2zw8"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+				{
+					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 13,
 			"episode": [
 				{
@@ -1099,19 +1166,33 @@
 						"en": "As a human host to a Trill symbiont, Adira cannot remember becoming the host of the Tal symbiont, and cannot access the memories of previous hosts such as Senna. Burnham takes them to the Trill homeworld in hopes that the Trill can help unlock their memories. The Trill are also no longer part of the Federation, but welcome Discovery due to their need for new symbiont hosts. However, many Trill refuse to believe that a non-Trill could host a symbiont, and Adira is turned away. A group of Trill attempt to kill Adira and take the symbiont, but Burnham stops them and a friendly Trill, Guardian Xi, offers to help. At the sacred Caves of Mak’ala, Xi and Burnham help Adira connect to Tal’s memories: when Senna died, Tal was transferred to Gray, Adira’s Trill boyfriend. However, Gray was killed shortly thereafter and Adira offered to become the new host to save Tal and the memories of all previous hosts. After gaining access to Tal’s memories, Adira is able to communicate with Gray’s consciousness. Meanwhile, Saru attempts to improve crew morale with the help of Dr. Hugh Culber.",
 						"de": "Adira kann sich nicht daran erinnern, wie sie zum Wirt des Tal-Symbionten wurde und hat keinen Zugriff auf die Erinnerungen früherer Wirte wie Senna. Burnham bringt sie zur Heimatwelt der Trill, in der Hoffnung, dass die Trill ihnen bei der Entschlüsselung der Erinnerungen helfen können. Die Trill sind ebenfalls nicht mehr Teil der Föderation, begrüßen aber die Discovery, da sie neue Symbiontenwirte brauchen. Viele Trill weigern sich jedoch zu glauben, dass ein Nicht-Trill einen Symbionten aufnehmen könnte und Adira wird abgewiesen. Eine Gruppe von Trill versucht sie zu töten und den Symbionten an sich zu nehmen, aber Burnham hält sie auf und ein befreundeter Trill, Guardian Xi, bietet seine Hilfe an. In den heiligen Höhlen von Mak’ala helfen Xi und Burnham Adira, sich mit Tal zu verbinden und ihre Erinnerungen freizusetzen. Der Grund für die Erinnerungsblockade ist folgender: Als Senna starb, wurde Tal auf Gray, Adiras Trill-Freund, übertragen. Gray wurde jedoch kurz darauf getötet und Adira bot sich an, der neue Wirt zu werden, um Tal und die Erinnerungen aller früheren Wirte zu retten. Nachdem sie nun ihre Erinnerungen freigelegt hat, kann Adira mit Gray kommunizieren. In der Zwischenzeit versucht Saru, mit Hilfe von Dr. Hugh Culber die Moral der Besatzung zu verbessern."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ZPcJyMhQpp0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sAIt4GGxwA4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1134,19 +1215,33 @@
 						"en": "Using Senna’s memories, Adira guides Discovery to Starfleet headquarters. Starfleet Commander-in-Chief Charles Vance asks for Burnham, Saru, and Adira to beam over to the base, where Adira is taken away for medical testing. Vance informs Saru and Burnham that the crew will be interrogated and reassigned while their ship is studied, which Saru agrees to in hopes of earning the trust of Starfleet. Realizing that Starfleet is dealing with a health crisis that could be solved through the seed archives aboard the USS Tikhov, Burnham receives approval from Vance to take the Discovery crew there with the spore drive and retrieve the seeds. They find the occupants of the Tikhov dead except for a man who is fatally injured. He is the same species as security officer Nhan, who decides to remain with the Tikhov to ensure he and his family receive a proper burial. Discovery returns to Starfleet with the seeds, and an antidote for the health crisis is synthesized. Due to this success, Vance agrees that the Discovery crew may remain together but insists that they answer to him.",
 						"de": "Mithilfe von Sennas Erinnerungen führt Adira die Discovery zum Hauptquartier der Sternenflotte. Der aktuelle Oberbefehlshaber der Sternenflotte, Charles Vance, lässt Burnham, Saru und Adira zur Zentrale beamen, wo Adira für medizinische Tests abgeholt wird. Vance teilt Saru und Burnham mit, dass die Besatzung verhört und neu eingeteilt, sowie ihr Schiff untersucht wird. Saru gibt hierzu sein Einverständnis, um das Vertrauen der Sternenflotte zu gewinnen. Burnham erkennt, dass die Sternenflotte mit einer Gesundheitskrise zu kämpfen hat, die durch die Samenarchive an Bord der USS Tikhov gelöst werden könnte. Sie erwirkt von Vance die Erlaubnis, die Crew der Discovery mit dem Sporenantrieb dorthin zu bringen und die Samen zu bergen. Sie finden die Insassen der Tikhov tot vor bis auf einen Mann, der nur noch kurze Zeit leben kann. Er gehört der gleichen Spezies an wie die Sicherheitsoffizierin Nhan, die beschließt, bei der Tikhov zu bleiben, um sicherzustellen, dass die Samenarchive erhalten bleiben, und um ihren Heimatplaneten wiederzusehen. Die Discovery kehrt mit den Samen zur Sternenflotte zurück, und es wird ein Gegenmittel für die Gesundheitskrise synthetisiert. Vance stimmt zu, dass die Besatzung der Discovery zusammenbleiben darf, aber sie habe sich streng an seine Anweisungen zu halten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/qtELS_2fLEs"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0QjnJ_SiOyI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1169,19 +1264,33 @@
 						"en": "The Discovery is upgraded to utilize 32nd century technology, including programmable matter. Vance sends other Starfleet ships on various missions across the remaining Federation space, but orders Discovery to remain at the ready for any rapid-response missions. Book’s ship arrives carrying a three-week-old message from him about a new discovery he has made: the black box for a Starfleet ship that was destroyed in the Burn. Burnham believes that she can use this black box to trace the origin of the Burn, but Saru orders her to remain on the Discovery in case Vance needs them. Burnham agrees, but then disobeys Saru’s order by taking Georgiou in Book’s ship to go find him. On the salvage planet Hunhau, Georgiou poses as a buyer looking for rare ship pieces while Burnham looks for Book. They stage a prison break for the servants working at the salvage yards, allowing their escape with Book and the black box. When they return, Burnham is reprimanded by Vance for disobeying orders and Saru demotes Burnham from her position as his first officer.",
 						"de": "Die Discovery wird aufgerüstet, um auch die Technologien der Zukunft, einschließlich programmierbarer Materie, nutzen zu können. Vance schickt andere Schiffe der Sternenflotte auf verschiedene Missionen in den verbleibenden Raum der Föderation, befiehlt aber der Discovery, für schnelle Einsätze in Bereitschaft zu bleiben. Das Schiff von Book trifft mit einer drei Wochen alten Nachricht ein, in der es um eine neue Entdeckung geht, die er gemacht hat: der Blackbox eines Sternenflottenschiffs, das bei dem Brand zerstört wurde. Burnham glaubt, dass sie mit dieser Blackbox den Ursprung des Brandes zurückverfolgen kann, aber Saru befiehlt ihr auf der Discovery zu bleiben, falls sie von Vance gebraucht werden. Burnham stimmt zu, missachtet dann aber diesen Befehl, indem sie Georgiou und Books Schiff nimmt, um ihn zu suchen. Auf dem Bergungsplaneten Hunhau gibt sich Georgiou als Käufer aus, der nach seltenen Schiffsteilen sucht, während Burnham Book findet. Sie inszenieren einen Gefängnisausbruch für die Bediensteten der Bergungswerften und können so mit Book und der Blackbox entkommen. Als sie zurückkehren, wird Burnham von Vance wegen Befehlsverweigerung getadelt. Saru degradiert Burnham von ihrem Posten als Erster Offizier."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/SBqhQVCQUN0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6jFQs9nVS1A"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1204,19 +1313,33 @@
 						"en": "After studying several black boxes, Burnham believes she can find the source of the Burn with data from Project SB-19, a possible space travel alternative to dilithium developed by the unified Vulcan and Romulan people on Ni’Var (formerly the planet Vulcan). The Ni’Varians believe SB-19 caused the Burn and do not want to give the data to the Federation, whom they have left. Vance believes Burnham can convince the Ni’Varians otherwise since her brother, Spock, had begun the process of unifying the Vulcans and Romulans hundreds of years earlier. At Ni’Var, Burnham invokes T’Kal-in-ket, a Vulcan trial intended to verify her scientific claim to the SB-19 data. She is represented by her mother Gabrielle, who was previously trapped in the future and has since joined the Qowat Milat, a sect of Romulan warrior nuns. Gabrielle makes Burnham confront her own intentions and sense of confusion about her destiny, leading to Burnham withdrawing from the trial. Impressed by this, Ni’Var President T’Rina gives Burnham the SB-19 data. Meanwhile, Saru names Tilly as his acting first officer.",
 						"de": "Nach der Untersuchung mehrerer Blackboxen glaubt Burnham, die Ursache des Brandes mit Hilfe von Daten aus dem Projekt SB-19 finden zu können. Dieses Projekt hatte zum Ziel, eine mögliche Alternative zum stets knappen Dilithium für die Raumfahrt zu entwickeln. Die Forschungseinrichtung, die von den vereinigten Vulkaniern und Romulanern betrieben wird, befindet sich auf Ni’Var (dem früheren Planeten Vulkan). Sie glauben, dass SB-19 den Brand verursacht hat und wollen die Daten nicht an die Föderation weitergeben, die sie nach der Katastrophe verlassen haben. Vance glaubt, dass Burnham sie vom Gegenteil überzeugen kann, da ihr Bruder Spock den Prozess der Vereinigung der Vulkanier und Romulaner eingeleitet hat. Auf Ni’Var beruft sich Burnham auf das T’Kal-in-ket, ein vulkanisches Verfahren, das ihren wissenschaftlichen Anspruch auf die SB-19-Daten bestätigen soll. Sie wird von ihrer Mutter Gabrielle vertreten, die früher in der Zukunft gefangen war und sich inzwischen den Qowat Milat, einer Sekte romulanischer Kriegsnonnen, angeschlossen hat. Gabrielle bringt Burnham dazu, sich mit ihren eigenen Absichten und ihrer Verwirrung über ihr Schicksal auseinanderzusetzen, was dazu führt, dass Burnham sich von der Verhandlung zurückzieht. Beeindruckt davon übergibt die Ni’Var-Präsidentin T’Rina Burnham die SB-19-Daten. Währenddessen ernennt Saru Tilly zu seinem Ersten Offizier."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Hcd5BN6W8X0"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6fv_0rlcmO4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1694,6 +1817,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oEp9BaXG7kw"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1792,6 +1927,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/K2z-euBxxR4"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1848,6 +1995,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MoFJ17Xx0dM"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1891,6 +2050,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ItEjhwa2a4g"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KDcyiFLCtho"
 							}
 						},
 						{
@@ -2051,6 +2222,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Xl7-uuoLyoA"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -2139,21 +2322,76 @@
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.1",
 					"episodeNumber": "5.1",
 					"name": "Red Directive",
-					"datePublished": "2024-04-04"
+					"datePublished": "2024-04-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Rote Direktive",
+						"datePublished": "2024-04-04"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
+						"name": "Olatunde Osunsanmi"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-J6VUytm4-c"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.2",
 					"episodeNumber": "5.2",
 					"name": "Under the Twin Moons",
-					"datePublished": "2024-04-04"
+					"datePublished": "2024-04-04",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Unter den Zwillingsmonden",
+						"datePublished": "2024-04-04"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"name": "Douglas Aarniokoski"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/d5_AH_vFBqI"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.3",
 					"episodeNumber": "5.3",
 					"name": "Jinaal",
-					"datePublished": "2024-04-11"
+					"datePublished": "2024-04-11",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-11"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2161,6 +2399,11 @@
 					"episodeNumber": "5.4",
 					"name": "Face the Strange",
 					"datePublished": "2024-04-18",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-18"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
@@ -2172,28 +2415,48 @@
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.5",
 					"episodeNumber": "5.5",
 					"name": "Mirrors",
-					"datePublished": "2024-04-25"
+					"datePublished": "2024-04-25",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-04-25"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.6",
 					"episodeNumber": "5.6",
 					"name": "Whistlespeak",
-					"datePublished": "2024-05-02"
+					"datePublished": "2024-05-02",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-02"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.7",
 					"episodeNumber": "5.7",
 					"name": "Erigah",
-					"datePublished": "2024-05-09"
+					"datePublished": "2024-05-09",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-09"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/dsc#5.8",
 					"episodeNumber": "5.8",
 					"name": "Labyrinths",
-					"datePublished": "2024-05-16"
+					"datePublished": "2024-05-16",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-16"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2201,6 +2464,11 @@
 					"episodeNumber": "5.9",
 					"name": "Lagrange Point",
 					"datePublished": "2024-05-23",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-23"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2213,6 +2481,11 @@
 					"episodeNumber": "5.10",
 					"name": "Life, Itself",
 					"datePublished": "2024-05-30",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"datePublished": "2024-05-30"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
