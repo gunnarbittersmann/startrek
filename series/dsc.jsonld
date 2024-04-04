@@ -2328,6 +2328,11 @@
 						"inLanguage": "de",
 						"name": "Die Rote Direktive",
 						"datePublished": "2024-04-04"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
+						"name": "Olatunde Osunsanmi"
 					}
 				},
 				{
@@ -2341,6 +2346,11 @@
 						"inLanguage": "de",
 						"name": "Unter den Zwillingsmonden",
 						"datePublished": "2024-04-04"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"name": "Douglas Aarniokoski"
 					}
 				},
 				{
