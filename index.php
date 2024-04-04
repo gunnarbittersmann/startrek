@@ -49,8 +49,8 @@
       }
       
       #presentation-list img {
-        width: auto;
-        height: 8em;
+        width: 12em;
+        height: auto;
       }
     </style>
   </head>
