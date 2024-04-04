@@ -119,7 +119,7 @@
           <ol id="presentation-list">
             <?php foreach ($presentations as $presentation): ?>
               <li>
-                <a href="<?= htmlSpecialChars($presentation['sameAs']) ?>">
+                <a href="<?= htmlSpecialChars($presentation['url']) ?>">
                   <img
                     src="<?= htmlSpecialChars($presentation['image']) ?>"
                     alt="<?= htmlSpecialChars($presentation['name']) ?>"
