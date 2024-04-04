@@ -2365,7 +2365,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Douglas Aarniokoski"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/d5_AH_vFBqI"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
