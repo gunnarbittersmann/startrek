@@ -211,6 +211,18 @@
 					},
 					"description": {
 						"en": "On the USS Cabot, science officer Edward Larkin tries to solve a planet’s food shortage by adding human DNA to tribbles, against his captain’s orders, creating a species that is born pregnant and reproduces at an exponential rate. The Cabot is overrun, and Larkin dies when he chooses to remain behind while the rest of the crew escapes."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/uioqcZJzz0Y"
+						}
 					}
 				},
 				{
@@ -271,18 +283,6 @@
 					},
 					"description": {
 						"en": "A tardigrade looking for a place to lay her eggs crosses paths with the USS Enterprise and is attacked by a repair drone named Dot. When the Enterprise self-destructs, Dot helps save Ephraim’s eggs. When the eggs hatch, the pair travel with the baby tardigrades together."
-					},
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JessieGender",
-							"name": "Jessie Gender"
-						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/VmiIo-GErxI"
-						}
 					}
 				},
 				{
@@ -308,6 +308,22 @@
 					},
 					"description": {
 						"en": "Young Michael Burnham’s father eases her fear of the dark by telling her a story about a young African girl. In the story, the girl’s people fear the dark because of a predatory Night Beast, but she braves the night and discovers an alien that gifts her new light. The girl uses this to create the stars, and grows up to be a warrior queen."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/st#2.4" },
+							{ "@id": "https://bittersmann.de/startrek/series/st#2.5" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VmiIo-GErxI"
+						}
 					}
 				},
 				{
