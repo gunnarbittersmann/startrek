@@ -1061,19 +1061,33 @@
 						"en": "After traveling to the future to protect the intelligent Sphere data from Control, a rogue artificial intelligence destined to destroy all sentient life, Michael Burnham arrives in the year 3188 and learns that she was successful—life exists in this future. Burnham crashes into the ship of Cleveland “Book” Booker, a courier transporting stolen cargo. He explains that in an event called “The Burn”, most of the galaxy’s dilithium (the element used by starships to travel at warp speeds) exploded, destroying many starships including most of Starfleet. Now the galaxy is disconnected and is no longer governed by the United Federation of Planets. Burnham helps Book protect his cargo, an endangered trance worm that he is taking to a sanctuary, from other couriers. In exchange, Book takes her to a seemingly abandoned Federation space station where they find Aditya Sahil, a “Federation liaison” waiting in the hope that a Starfleet officer would come to the station one day. Burnham gives him an acting Starfleet commission. Sahil is unable to locate the USS Discovery, which was traveling to the future with Burnham.",
 						"de": "Nachdem Michael Burnham in die Zukunft gereist ist, um sensible Informationen vor Control zu schützen, einer künstlichen Intelligenz, die dazu bestimmt ist, alles Leben zu vernichten, kommt sie im Jahr 3188 an und erfährt, dass sie erfolgreich war – das Leben existiert in dieser Zukunft. Burnham stößt auf das Schiff von Cleveland „Book“ Booker, einem Kurier, der gestohlene Fracht transportiert. Er erklärt, dass bei einem Ereignis namens „Der Brand“ das meiste Dilithium der Galaxie explodiert ist und viele Raumschiffe, darunter auch der Großteil der Sternenflotte, zerstört wurden. Nun ist die Galaxie von der Vereinigten Föderation der Planeten getrennt und wird nicht mehr von ihr regiert. Burnham hilft Book, seine Fracht, einen gefährdeten Trance-Wurm, den er in ein Heiligtum bringen will, vor anderen Kurieren zu schützen. Im Gegenzug bringt Book sie zu einer scheinbar verlassenen Raumstation der Föderation, wo sie Aditya Sahil finden, einen „Verbindungsmann der Föderation“, der darauf wartet, dass eines Tages ein Sternenflottenoffizier auf die Station kommt. Burnham gibt ihm den Auftrag, als stellvertretender Kommunikationschef zu fungieren. Er ist jedoch nicht in der Lage, die USS Discovery zu lokalisieren, die mit Burnham in die Zukunft gereist ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ny-e3QWcwDQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1096,19 +1110,33 @@
 						"en": "The USS Discovery crash-lands on a glacier. The ship is damaged and crewmembers are wounded, including helm officer Keyla Detmer. Acting captain Saru decides to repair the ship before exploring the outside world, but they learn that they are missing resources that they require to complete the repairs. Saru and ensign Silvia Tilly go to a nearby settlement to get the resources they need and find a group of poor miners being oppressed by a courier named Zareh. The miners use programmable matter to help Discovery in exchange for some of the ship’s dilithium, which would allow them to leave the planet and escape Zareh. However, Zareh arrives and attacks the group, killing one of the miners and planning to take all of Discovery’s dilithium. He is stopped when Phillipa Georgiou—the former Emperor of the Mirror Universe’s Terran Empire and now Starfleet agent—overpowers Zareh and his men. The crew return to Discovery with the resources they need, but the glacier’s parasitic ice has encased the ship and it is unable to take off until Burnham arrives and frees them with Book’s ship.",
 						"de": "Die USS Discovery macht eine Bruchlandung auf einem Gletscher. Das Schiff ist beschädigt und viele Besatzungsmitglieder sind verwundet, darunter die Steueroffizierin Keyla Detmer. Der amtierende Kapitän Saru beschließt das Schiff zu reparieren, bevor er die Außenwelt erkundet, aber er erfährt, dass ihm die Ressourcen fehlen, die er für die Reparaturen benötigt. Saru und Fähnrich Silvia Tilly begeben sich zu einer nahe gelegenen Siedlung, um die notwendigen Ressourcen zu beschaffen, und treffen dort auf eine Gruppe armer Bergleute, die von einem Kurier namens Zareh unterdrückt werden. Die Bergleute helfen der Discovery mit programmierbarer Materie und sollen im Tausch dafür einen Teil des Dilithiums des Schiffes erhalten, um den Planeten verlassen und Zareh entkommen zu können. Zuvor trifft jedoch Zareh ein, tötet einen der Bergleute und plant das gesamte Dilithium der Discovery an sich zu nehmen. Als Phillipa Georgiou entgegen Sarus Anweisung eintrifft, können mit ihrer Hilfe Zareh und seine Männer überwältigt werden. Die Besatzung kehrt mit den benötigten Ressourcen zur Discovery zurück, aber das parasitäre Eis des Gletschers hat das Schiff eingeschlossen. Es ist nicht in der Lage abzuheben, bis Burnham eintrifft und sie mit Books Schiff befreit."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xU4Ktdd3VHk"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1131,19 +1159,33 @@
 						"en": "With Sahil not able to locate the Discovery in 3188, Burnham becomes a courier and works with Book, searching for clues about the fate of the Federation. She finds a transmission from Admiral Senna Tal from Earth, but they are unable to travel there with their limited dilithium. After a year, Discovery arrives in the future and Burnham finds them in the glacier. Saru becomes the new captain, and Discovery’s dilithium is stored on Book’s cloaked ship, which he parks in their docking bay, for safety. Using Discovery’s advanced spore drive, they travel to Earth and find it no longer part of the Federation. Investigators from the United Earth Defense Force board Discovery and explain that Tal is dead. They are all attacked by dilithium bandits who the EDF attempt to destroy until Burnham and Book trick the bandits, capturing their leader Wen. In negotiations between Wen and EDF Captain Ndoye, the two sides realize that they can help each other and prevent further fighting. A young human investigator named Adira is identified as the host of Tal’s Trill symbiont and is connected to his memories.",
 						"de": "Da Sahil nicht in der Lage ist, die Discovery im Jahr 3188 zu lokalisieren, wird Burnham Kurier und arbeitet mit Book zusammen, um nach Hinweisen auf das Schicksal der Föderation zu suchen. Sie findet einen Funkspruch von Admiral Senna Tal auf der Erde, kann aber mit ihrem begrenzten Dilithiumvorrat nicht dorthin gelangen. Nach einem Jahr trifft die Discovery endlich ebenfalls in der Zukunft ein und Burnham spürt sie auf. Saru wird neuer Captain, und das Dilithium der Discovery wird zur Sicherheit auf Books getarntem Schiff gelagert, das er in ihrer Andockbucht parkt. Dank des fortschrittlichen Sporenantriebs der Discovery reisen sie zur Erde und stellen fest, dass diese nicht mehr zur Föderation gehört. Ermittler der United Earth Defense Force gehen an Bord der Discovery und erklären, dass Tal tot ist. Sie werden alle von Dilithium-Banditen angegriffen, die die EDF zu vernichten versuchen, bis Burnham und Book die Banditen austricksen und ihren Anführer Wen gefangen nehmen. In Verhandlungen zwischen Wen und EDF-Captain Ndoye erkennen beide Seiten, dass sie sich gegenseitig helfen und weitere Kämpfe verhindern können. Eine junge Ermittlerin namens Adira enthüllt, dass sie der Wirt von Tals Trill-Symbiont ist, aber nicht auf alle seiner Erinnerungen zugreifen kann, da sie ein Mensch und kein Trill ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GtvdlSWxX4Q"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1397,19 +1439,33 @@
 						"en": "After studying Georgiou’s condition, Culber is visited by Dr. Kovich, a mysterious Starfleet operative, who explains that since Georgiou has both traveled through time and from a different universe, her molecules have moved too far from their origin and she is now likely to die. Consulting with Discovery’s computer, which has been augmented with the intelligent Sphere data, Culber believes that Georgiou could be saved by traveling to an uninhabited planet, Dannus V. Stamets and Adira use the SB-19 data to trace the source of the Burn to the Verubin Nebula, and discover a distress signal from a Kelpien starship. On Dannus V, Georgiou and Burnham encounter a strange being named Carl who directs Georgiou to a door. On the other side, she finds herself back in the Mirror Universe during the time she was Emperor. Georgiou finds that her time with Discovery has made her a better person than she was then, and she decides to use her knowledge of the past to alter certain events, including rescuing the slave Saru and sparing the life of the treacherous Michael Burnham.",
 						"de": "Culber wird von Kovich, einem mysteriösen Sternenflottenmitarbeiter, aufgesucht. Dieser erklärt, dass Georgiou sowohl durch die Zeit gereist ist als auch aus einem anderen Universum, dem Spiegeluniversum, stammt und sich ihre Moleküle zu weit von ihrem Ursprung entfernt haben, so dass sie nun wahrscheinlich sterben wird. Nach Rücksprache mit dem Computer der Discovery, der mit den Daten der intelligenten Sphäre erweitert wurde, glaubt Culber, dass Georgiou gerettet werden könnte, indem sie zu einem unbewohnten Planeten, Dannus V, reist. Stamets und Adira verwenden die SB-19-Daten, um die Quelle des Brandes zum Verubin-Nebel zurückzuverfolgen und entdecken ein Notsignal von einem Kelpianer-Raumschiff. Auf Dannus V treffen Georgiou und Burnham auf ein seltsames Wesen namens Carl, das Georgiou zu einer Tür führt. Auf der anderen Seite findet sie sich im Spiegeluniversum wieder, in der Zeit als sie Imperatorin des Terranischen Reiches war. Georgiou stellt fest, dass ihre Zeit bei der Discovery sie verändert hat und sie nutzt ihr Wissen über die Vergangenheit, um bestimmte Ereignisse zu verändern, darunter die Rettung des Sklaven Saru und die Verschonung des Lebens der verräterischen Michael Burnham."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OkZ2KHMOtv8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1432,19 +1488,33 @@
 						"en": "Georgiou hopes to lead an improved Terran Empire with Burnham by her side, and has the latter tortured until she pledges her allegiance. Georgiou reveals to Saru that the Kelpien biological change known as Vahar’ai does not mean it is time for him to be culled; rather, it is a natural process that will make him stronger if he allows it to happen. Burnham and Georgiou work together to hunt Burnham’s former lover Gabriel Lorca, but this is a ruse and Burnham soon turns on Georgiou. After a fight, Georgiou kills Burnham before dying herself in Saru’s arms. She then returns to Dannus V, where Carl reveals himself to be the Guardian of Forever. He explains that he can send Georgiou to another time and place where she will survive, but he had to test her first and was happy to see her attempt to change the fate of the Terran Empire. Georgiou says goodbye to Burnham before traveling through the Guardian’s portal. On Discovery, Book wishes to prove his worth to the crew and uses Emerald Chain technology to help them connect to the computer systems of the Kelpien starship in the Verubin Nebula.",
 						"de": "Georgiou hofft, mit Burnham an ihrer Seite ein verbessertes terranisches Imperium anführen zu können, und lässt sie foltern, bis sie ihr die Treue schwört. Georgiou offenbart Saru, dass die biologische Veränderung der Kelpianer, die als Vahar’ai bekannt ist, nicht bedeutet, dass es für ihn an der Zeit ist, getötet zu werden, sondern dass es sich um einen natürlichen Prozess handelt, der ihn stärker macht, wenn er es zulässt. Burnham und Georgiou arbeiten zusammen, um Burnhams ehemaligen Liebhaber Gabriel Lorca zu jagen, aber das ist eine List Burnhams, die sich gegen Georgiou richtet. Nach einem Kampf tötet Georgiou Burnham, bevor sie selbst in den Armen von Saru stirbt. Sie kehrt nach Dannus V zurück, wo Carl sich als der Wächter der Ewigkeit zu erkennen gibt. Er erklärt, dass er Georgiou in eine andere Zeit und an einen anderen Ort schicken kann, wo sie überleben wird, aber er musste sie erst testen und war froh, als sie versuchte, das Schicksal des Terranischen Reiches zu ändern. Georgiou verabschiedet sich von Burnham, bevor sie durch das Portal des Wächters reist. Auf der Discovery will Book seinen Wert beweisen und nutzt Smaragdkettentechnologie, um der Besatzung zu helfen, sich mit den Systemen des Kelpianer-Raumschiffs zu verbinden."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YEMb9kKvPw8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1467,19 +1537,33 @@
 						"en": "Discovery detects a life sign on the starship in the radioactive Verubin Nebula, and Saru suggests this could be the child of one of the starship’s scientists. They jump there to investigate, and find a planet made primarily of dilithium inside the nebula. Saru, Burnham, and Culber transport to the planet, leaving Tilly in command of Discovery. On the planet, the away team find themselves inside a complex holographic simulation designed by the scientists to raise and protect the child. They find the child, Su’Kal, and discover that he was born with biology adapted to the planet and radioactive nebula, while the away team suffers from radiation poisoning. Su’Kal is not prepared to deal with reality outside the simulation, and when he becomes upset he creates an energy surge similar to the Burn. An Emerald Chain ship commanded by Osyraa arrives . Book flies into the nebula to retrieve the away team and is able to get Burnham, but the others, plus a stowaway Adira, stay with Su’Kal. Osyraa captures Discovery and forces it to jump to Federation headquarters.",
 						"de": "Die Discovery entdeckt ein Lebenszeichen auf dem Raumschiff im radioaktiven Verubin-Nebel und Saru vermutet, dass es sich um das Kind eines der Wissenschaftler des Raumschiffs handeln könnte. Sie springen hin, um das zu untersuchen und finden im Inneren des Nebels einen Planeten, der hauptsächlich aus Dilithium besteht. Saru, Burnham und Culber begeben sich zu dem Planeten und überlassen Tilly das Kommando über die Discovery. Auf dem Planeten findet sich das Außenteam in einer komplexen holografischen Simulation wieder, die von den Wissenschaftlern entwickelt wurde, um das Kind aufzuziehen und zu schützen. Sie finden das Kind, Su’Kal, und entdecken, dass es mit einer an den Planeten und den radioaktiven Nebel angepassten Biologie geboren wurde, während das Außenteam an einer Strahlenvergiftung leidet. Su’Kal ist nicht darauf vorbereitet, mit der Realität außerhalb der Simulation umzugehen, und wenn er sich aufregt, erzeugt er einen Energiestoß, der dem Brand ähnelt. Ein Schiff der Smaragdkette unter dem Kommando von Osyraa trifft ein. Book fliegt in den Nebel, um das Außenteam zu holen. Er holt Burnham, aber Adira bringt Medikamente zu Saru und Burnham und bleibt mit ihnen bei Su’Kal. Osyraa nimmt die Discovery gefangen und lässt sie zum Hauptquartier der Föderation springen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/a01nSU3MMcg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1537,19 +1621,33 @@
 						"en": "Unable to jump away without Stamets, Osyraa fights her way out of Federation headquarters and shuts off life support for the bridge crew. Despite this, Tilly and the bridge crew are able to plant a bomb in one of the ship’s nacelles with the help of the Sphere data, dropping Discovery from warp. Burnham makes her way to the ship’s data core, kills Osyraa in a fight, and resets the computer systems. She turns life support back on and beams all of the Emerald Chain fighters off the ship. Aurellio, after a change in heart, suggests that Book could use the spore drive with the empathic abilities his species has, and they jump to the nebula. Saru helps Su’Kal turn the simulation off and come to terms with the death of his mother, as his reaction to that is what caused the Burn, just as Discovery arrives. Saru decides to help Su’Kal start a new life on Kaminar, and Burnham is promoted to captain. The Emerald Chain collapses after Osyraa’s death, and planets begin to rejoin the Federation. Discovery sets out to bring dilithium from the nebula to planets that have been cut off by the Burn.",
 						"de": "Da sie nicht in der Lage ist, ohne Stamets zu springen, kämpft sich Osyraa aus dem Hauptquartier der Föderation heraus und schaltet die Lebenserhaltung der Brückencrew ab. Da die Sphärendaten sich in bewegliche Mini-Roboter heruntergeladen haben, gelingt es Tilly und der Brückencrew mit deren Unterstützung, eine Bombe in einer der Gondeln des Schiffes zu platzieren, nach deren Explosion die Discovery unter Warp geht. Burnham macht sich auf den Weg zum Datenkern des Schiffes, tötet Osyraa im Kampf und setzt die Computersysteme zurück. Sie schaltet die Lebenserhaltung wieder ein und beamt alle Smaragdketten-Jäger vom Schiff. Aurellio, der sich zuvor geweigert hatte, für Osyraa zu foltern, und auf der Discovery verblieben ist, schlägt vor, dass Book den Sporenantrieb mit seinen empathischen Fähigkeiten benutzen könnte. Dies gelingt, und sie springen zum Nebel. Saru überzeugt Su’Kal, die Simulation abzuschalten. Dessen wütende Reaktion auf den Tod seiner Mutter war die Ursache für den Brand. Als die Discovery den Dilithium-Planeten erreicht, können die dort verbliebenen Besatzungsmitglieder und Su’Kal im letzten Moment aus dem zerfallenden Habitat gerettet werden. Saru begleitet Su’Kal nach Kaminar, um ihn dort zu unterstützen. Burnham wird zum Captain befördert. Die Smaragdkette bricht nach Osyraas Tod zusammen. Die bisher vom Syndikat kontrollierten Planeten beginnen, sich wieder der Föderation anzuschließen. Die Discovery macht sich auf den Weg, um Dilithium aus dem Nebel zu Planeten zu bringen, die durch den Brand abgeschnitten sind."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/U4VcFzL9b1M"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
