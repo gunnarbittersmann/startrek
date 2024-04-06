@@ -26,6 +26,18 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#JessieGender",
+			"name": "Jessie Gender"
+		},
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/mQDLoq7QRt8"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
@@ -149,18 +161,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#JessieGender",
-					"name": "Jessie Gender"
-				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/mQDLoq7QRt8"
-				}
-			},
 			"numberOfEpisodes": 6,
 			"episode": [
 				{
