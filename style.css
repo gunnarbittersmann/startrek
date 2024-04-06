@@ -363,7 +363,7 @@ body:has(> .players) {
 .players {
 	--columns: 2;
 	--rows: 1;
-	aspect-ratio: calc(16 * var(--columns) / (9 * var(--rows)));
+	aspect-ratio: calc(16/9 * var(--columns) / var(--rows));
 	max-width: 100%;
 	max-height: calc(100vh - var(--header-height, 0) - 1em);
 	display: grid;
