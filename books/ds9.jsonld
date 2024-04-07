@@ -1,0 +1,35 @@
+[
+	{
+		"@context": "https://schema.org/",
+		"@type": "Book",
+		"name": "Enigma Tales",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
+			"name": "Una McCormack"
+		},
+		"isBasedOn": "https://bittersmann.de/startrek/series/ds9",
+		"datePublished": "2017-06-27",
+		"description": "Elim Garak has ascended to Castellan of the Cardassian Union...but despite his soaring popularity, the imminent publication of a report exposing his people's war crimes during the occupation on Bajor looks likely to set the military against him. Into this tense situation come Dr. Katherine Pulaski—visiting Cardassia Prime to accept an award on behalf of the team that solved the Andorian genetic crisis—and Dr. Peter Alden, formerly of Starfleet Intelligence. The two soon find themselves at odds with Garak and embroiled in the politics of the prestigious University of the Union, where a new head is about to be appointed. Among the front-runners is one of Cardassia’s most respected public figures: Professor Natima Lang. But the discovery of a hidden archive from the last years before the Dominion War could destroy Lang’s reputation. As Pulaski and Alden become drawn into a deadly game to exonerate Lang, their confrontation escalates with Castellan Garak—a conflicted leader treading a fine line between the bright hopes for Cardassia’s future and the dark secrets still buried in its past...",
+		"url": "https://www.simonandschuster.com/books/Enigma-Tales/Una-McCormack/Star-Trek-Deep-Space-Nine/9781501152580",
+		"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501152580/enigma-tales-9781501152580_lg.jpg",
+		"isbn": "9781501152580",
+		"numberOfPages": 368,
+		"publisher": {
+			"@type": "Organization",
+			"name": "Pocket Books"
+		},
+		"review": {
+			"@type": "Review",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#JessieGender",
+				"name": "Jessie Gender"
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/jyOkO7ZoHq0"
+			}
+		}
+	}
+]
