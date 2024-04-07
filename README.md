@@ -7,3 +7,4 @@
 Review playlists:
 
 - [Star Trek Reviews (Jessie Gender)](https://www.youtube.com/playlist?list=PLgH0AbtWXcMx391tnzANCYIyXWogEwcTL)
+- [Star Trek Retro Reviews (Steve Shives)](https://www.youtube.com/playlist?list=PL0-LSnSBNIncf0tkpjOHAorxjsAhLYSW3)
