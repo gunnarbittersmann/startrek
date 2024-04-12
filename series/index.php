@@ -439,6 +439,38 @@ EOT;
 											</iframe>
 										</details>
 									</td>
+								<?php else: ?>
+									<td>
+										<ul>
+											<?php foreach ($data['review'] as $review): ?>
+												<li property="review" typeof="Review">
+													<details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($data['name']) ?>">
+														<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
+															<?php if ($review['name']): ?>
+																<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
+															<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																</span>
+															<?php endif; ?>
+														</summary>
+														<meta
+															property="embedUrl"
+															content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+														/>
+														<iframe
+															allowfullscreen=""
+															aria-label="<?= htmlSpecialChars($review['name']) ?>"
+															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
+														>
+														</iframe>
+													</details>
+												</li>
+											<?php endforeach; ?>
+										</ul>
+									</td>
 								<?php endif; ?>
 							</tr>
 						</tfoot>
