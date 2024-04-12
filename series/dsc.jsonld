@@ -608,6 +608,18 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#JessieGender",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/1C_u3ajyxAM"
+				}
+			},
 			"numberOfEpisodes": 14,
 			"episode": [
 				{
@@ -732,6 +744,18 @@
 					"description": {
 						"en": "A living, intelligent, planetoid-sized Sphere pulls Discovery out of warp and immobilizes it. The crew surmises that the Sphere is well-intentioned and has gathered huge amounts of data from all over the galaxy that it does not want to be lost before it dies. However, the Sphere’s hold on Discovery triggers the Vahar’ai in Commander Saru, a fatal condition to his species, the Kelpiens. The Sphere transmits its information to the crew and dies, releasing Discovery so that it will not be caught in the ensuing explosion. Saru asks Burnham to help him prepare for his death by removing his threat ganglia, which sense danger. However, they fall out on their own and leave Saru healthy and living without the overwhelming fear his species is known for. Meanwhile, the parasite attaches itself to Tilly again, once again accessing her memories to communicate as a hallucination of May. The parasite claims Discovery has nearly destroyed its ecosystem by using its species’ mycelial network to jump through space with the spore drive. It then consumes Tilly, leaving no trace of her.",
 						"de": "Pike erhält von der ersten Offizierin der Enterprise Informationen über die Flugroute Spocks. Als die Discovery dieser Route folgt, reißt eine lebende, intelligente und planetoidengroße Sphäre das Schiff aus der Warpgeschwindigkeit und macht es bewegungsunfähig. Die Crew vermutet, dass die Sphäre gute Absichten hegt und riesige Mengen an Daten aus der ganzen Galaxis gesammelt hat, die sie nicht verlieren möchte, bevor sie stirbt. Die Gefangenschaft der Discovery bei der Sphäre löst in Saru das Vahar’ai aus, einen gewöhnlich tödlich endenden Lebensabschnitt in seiner Spezies, den Kelpianern. Die Sphäre übermittelt ihre Informationen an die Crew und stirbt, aber nicht ohne die Discovery freizugeben, damit sie nicht von der anschließenden Explosion betroffen ist. Saru bittet Burnham um Hilfe bei der Vorbereitung für seinen Tod, indem sie seine Nervenknoten entfernt, die bei ihm für das Gefühl von Gefahr sorgen. Allerdings fallen diese von selbst aus und lassen Saru gesund und ohne überwältigende Angst weiterleben. Währenddessen ergreift der Parasit von Tilly erneut Besitz, und zwar einmal mehr, indem er auf ihre Erinnerungen zugreift, um als eine Halluzination ihrer einstigen Schulfreundin May zu kommunizieren. Der Parasit behauptet, dass die Discovery beinahe sein Ökosystem zerstört hat, indem sie das Myzeliennetzwerk seiner Spezies für Raumsprünge mit dem Sporenantrieb benutzt hat. Anschließend zehrt er Tilly komplett auf, ohne eine Spur von ihr zu hinterlassen."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/FYJVUAWstfA"
+						}
 					}
 				},
 				{
@@ -754,6 +778,18 @@
 					"description": {
 						"en": "Stamets and Burnham conclude that Tilly has been taken into the mycelial network. She wakes up there with the May parasite, who wants her to help stop a “monster” ravaging their world. Discovery finds the shuttle Spock used to escape the psychiatric unit only to discover Georgiou onboard. Section 31 Captain Leland assigns Tyler to Discovery as a liaison to ensure that Discovery does not interfere with Section 31’s own investigation into Spock. Discovery conducts a half-jump into the mycelial network to give Stamets and Burnham limited time to find Tilly before the network consumes the ship. Burnham and Stamets discover the monster is Stamets’ husband, Hugh Culber, the former Discovery Medical Officer who Tyler murdered during the war. Stamets was connected to the network when Culber died, allowing Culber’s energy to be recreated by the spores. Burnham now convinces May to use the parasite cocoon on Discovery, through which Tilly was transported into the network, to rebuild Culber’s body in normal space. They leave the network with Culber and Tilly.",
 						"de": "Stamets und Burnham entdecken, dass Tilly in das Myzeliennetzwerk geholt wurde. Tilly erwacht dort in Gegenwart des von May verkörperten Parasiten, der ihre Hilfe beim Aufhalten eines Monsters will, welches ihre Welt verwüstet. Die Discovery entdeckt das Shuttle, das Spock für seine Flucht aus der Psychiatrie genutzt hat, jedoch ist nicht er an Bord, sondern Georgiou. Captain Leland von der Sektion 31 weist Ash Tyler der Discovery als Verbindungsoffizier zu, um sicherzustellen, dass die Discovery die eigenen Anstrengungen der Sektion 31 zum Auffinden von Spock nicht behindert. Die Discovery führt einen unvollständigen Sprung in das Myzeliennetzwerk durch, um Stamets und Burnham begrenzte Zeit zum Auffinden von Tilly zu geben, ehe das Netzwerk das Schiff aufgezehrt hat. Burnham und Stamets entdecken das Monster als Stamets’ Ehemann Hugh Culber, den früheren Arzt der Discovery, der während des Krieges durch Voq ermordet worden war. Stamets war zum Zeitpunkt von Culbers Tod mit dem Netzwerk verbunden, wodurch seine Energie durch die Sporen wieder erschaffen wurde. Burnham überzeugt May davon, den Parasiten-Kokon, mittels dem Tilly in das Netzwerk gebracht worden ist, auf der Discovery zu verwenden, um Culbers Körper im normalen Raum wiederzuerschaffen."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MOb2F81QMrw"
+						}
 					}
 				},
 				{
@@ -776,6 +812,18 @@
 					"description": {
 						"en": "Another of the mysterious signals leads Discovery to Saru’s homeworld of Kaminar, where the fearful Kelpiens are preyed upon by predators called the Ba’ul who demand that Pike surrender Saru to them since Starfleet has agreed to stay out of the conflict between the two species. Pike refuses, but Saru turns himself over to prevent a fight. Tilly works with technologically-augmented Lieutenant Commander Airiam to sift through the Sphere’s information on Kaminar: they learn that the fearless, post Vahar’ai Kelpiens were once Kaminar’s dominant species and nearly eradicated the Ba’ul. The latter were only able to survive by using their superior technology to cull Kelpiens before they lose their threat ganglia and become fearless. Pike uses the Ba’ul’s technology to trigger Vahar’ai in all Kelpiens, hoping the two species can instead work towards a peaceful solution once the Kelpiens are freed. The Ba’ul retaliate against Starfleet’s actions by attempting genocide on the Kelpiens, but are stopped by the Red Angel, whom Saru sees is a humanoid wearing a highly-advanced suit.",
 						"de": "Ein weiteres der mysteriösen Signale führt die Discovery zum Planeten Kaminar, der Heimatwelt von Saru. Dort fordern die mit den Kelpianern verfeindeten Ba’ul von Pike, auf Saru zu verzichten, weil die Sternenflotte eingewilligt hat, sich aus dem Konflikt zwischen Ba’ul und Kelpianern herauszuhalten. Pike lehnt das ab, aber Saru liefert sich aus, um einen Kampf zu verhindern und um seine Schwester Siranna zu retten. Indes arbeitet Tilly mit der technologisch verbesserten Sternenflottenoffizierin Airiam, um die Informationen der Sphäre über Kaminar zu durchsuchen. Dabei erfahren sie, dass die nach dem Vahar’ai geborenen Kelpianer einst Kaminars dominante Spezies waren und beinahe die Ba’ul auslöschten. Diese überlebten nur, indem sie ihre überlegene Technologie dazu benutzten, Kelpianer zu selektieren, ehe sie ihre angstsignalisierenden Nervenknoten verlieren. Saru benutzt die Technologie der Ba’ul, um das Vahar’ai in allen Kelpianern auszulösen und hofft darauf, dass die beiden Spezies stattdessen auf eine friedliche Lösung hinarbeiten, sobald die Kelpianer befreit sind und die Wahrheit über ihre Vergangenheit von Siranna lernen, einer Priesterin. Die Ba’ul rächen sich für die Handlungen der Sternenflotte, indem sie Genozid versuchen; sie werden aber durch den Roten Engel gestoppt, der entsprechend Sarus optischer Wahrnehmung humanoid ist und einen hochfortschrittlichen Anzug trägt."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/x4przpnmne8"
+						}
 					}
 				},
 				{
@@ -799,27 +847,41 @@
 						"en": "Discovery is confronted by a time anomaly while researching the Red Angel’s signal over Kaminar. Pike and Tyler investigate the anomaly in a shuttlecraft, sending a probe into it. That same probe soon returns through the anomaly having been upgraded with future technology. It attacks the shuttle, and secretly infects Airiam’s augmentations using the shuttle’s computer system. Pike and Tyler destroy the probe with Stamets’ help, as his exposure to the mycelial network allows him to ignore the time discrepancies in the anomaly. Meanwhile, Burnham visits Vulcan as she continues to search for Spock. Confronting Grayson, Burnham learns that their mother has been hiding Spock, who is in psychological distress and is repeating phrases and a series of numbers. Their father Sarek instructs Burnham to trust Starfleet and take Spock to Section 31 to fix his mind. Section 31’s doctors claim that they can help him, but Georgiou warns her that Spock will not survive the memory extractor that Section 31 plans to use on him. Georgiou helps Burnham stage an attack that allows Burnham and Spock to escape the ship.",
 						"de": "Die Discovery trifft auf eine Zeitanomalie, während sie ein Signal des Roten Engels beim Planeten Kaminar untersucht. Pike und Tyler untersuchen die Anomalie in einem Shuttle und schießen eine Sonde hinein. Bald darauf werden sie von derselben Sonde angegriffen, die nunmehr mit einer Technologie aus der Zukunft aufgerüstet ist, die das Computersystem des Shuttles nutzt, um insgeheim Airiam zu infizieren. Sie können das Shuttle und die Sonde mit der Hilfe von Stamets zerstören, dessen Verbindung zum Myzeliennetzwerk es ihm erlaubt, die zeitlichen Diskrepanzen in der Anomalie zu ignorieren. Währenddessen besucht Burnham auf der Suche nach Spock den Planeten Vulkan. Indem sie Amanda Grayson zur Rede stellt, erfährt sie, dass diese Spock versteckt hält, welcher sich in psychologischer Not befindet und verschiedene Sätze und eine Reihe von Zahlen wiederholt. Spocks Vater Sarek weist Burnham an, der Sternenflotte zu glauben und Spock zur Sektion 31 zu bringen, um Hilfe bei der Heilung seines Gehirns zu erhalten. Die Ärzte der Sektion behaupten, dass sie ihm helfen können, aber Georgiou warnt sie, dass Spock den von der Sektion geplanten Einsatz des Erinnerungsextraktors nicht überleben wird. Georgiou erlaubt Burnham, sie anzugreifen und so eine Flucht zu inszenieren, bei der Burnham und Spock von dem Schiff entkommen."
 					},
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oxSDEpHtFr8"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.1" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.2" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.3" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.4" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.5" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.6" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.7" }
-						],
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/GfYp06R1-5E"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.7" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GfYp06R1-5E"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -841,6 +903,18 @@
 					"description": {
 						"en": "Previously, the Enterprise visited the planet Talos IV where Pike and Spock met the Talosians, beings that can create incredible illusions. Pike fell in love with Vina, an injured Federation crewman in the Talosians’ care, but she was unable to leave the planet due to the Talosians’ abilities keeping her alive. Pike chose to return to the Enterprise, and Starfleet banned future visits to Talos IV. In the present, Burnham and Spock secretly travel to Talos IV, where the Talosians heal Spock’s mind in exchange for Burnham’s memories of emotionally scarring Spock which they are interested in observing. Spock reveals that he mind-melded with the Red Angel, a time traveller trying to avert a galactic catastrophe in the future. Stamets attempts to reconnect with Culber, who is going through an identity crisis since his resurrection. Culber confronts Tyler, but realizes that the latter is going through a similar crisis. Discovery collects Spock and Burnham, and they escape while Section 31 is distracted by illusions created by the Talosians.",
 						"de": "Das Raumschiff Enterprise hatte einst den Planeten Talos IV besucht, wo Pike und Spock den Talosianern begegneten – Wesen, die unvorstellbare Illusionen erzeugen können. Pike verliebte sich damals in Vina, eine von den Talosianern gepflegte, verletzte Föderationsangehörige, aber sie konnte den Planeten nicht verlassen und überleben, während Pike sich entschloss, zur Enterprise zurückzukehren. Die Sternenflotte hatte in der Folge den Zutritt zu Talos IV verboten. In der Gegenwart reisen Burnham und Spock insgeheim nach Talos IV, wo die Talosianer Spocks Gehirn heilen, als Gegenleistung für Burnhams Erinnerungen an ihre emotionalen Schädigungen von Spock. Dieser enthüllt, dass er eine Gedankenverschmelzung mit dem Roten Engel hatte, der ein Zeitreisender ist und eine galaktische Katastrophe in der Zukunft verhindern möchte. Stamets versucht, erneut eine Verbindung mit Culber aufzubauen, der eine Identitätskrise durchlebt. Culber schlägt sich mit Tyler, begreift jedoch, dass sie beide eine ähnliche Krise durchleben. Die Discovery nimmt Spock und Burnham wieder auf, nachdem die Talosianer Vina dabei geholfen haben, Pike telepathisch zu kontaktieren, und gegenüber der Sektion 31 Illusionen von Spock und Burnham erzeugt haben, die als Ablenkung dienen. Die Discovery flüchtet nun vor der Sternenflotte."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/0FLrDx0mV1U"
+						}
 					}
 				},
 				{
@@ -863,6 +937,18 @@
 					"description": {
 						"en": "Starfleet Admiral Katrina Cornwell secretly boards Discovery to interrogate Spock and brings video footage depicting Spock murdering the three doctors. Saru discovers that Section 31 faked the footage using holograms, and Cornwell directs Discovery to Section 31 headquarters where Starfleet’s Control artificial intelligence is kept. Control is behind the forgery and has been directing Section 31 to pursue Spock. Burnham, Security Officer Nhan, and Airiam beam into the headquarters to find the personnel, including Section 31’s leadership, dead after Control turned off life-support systems. Airiam is tasked with restoring Control to Starfleet’s intended purpose, but the virus from the future she carries is actually Control itself and instead attempts to upload the Sphere’s knowledge of all artificial intelligence into Control’s database. Airiam asks to be ejected into space before Control gains the knowledge it wishes; Burnham hesitates, but Commander Nhan jettisons Airiam before it is too late. Airiam dies reliving her favorite memory from before she was technologically-augmented.",
 						"de": "Admiral Cornwell kommt inoffiziell an Bord der Discovery, um Spock zu befragen, und bringt Videoaufnahmen mit, die Spock beim Töten der drei Ärzte zeigen sollen. Saru entdeckt, dass Sektion 31 die Aufnahmen unter Verwendung von Hologrammen gefälscht hat, und Cornwall schickt die Discovery zum Hauptquartier von Sektion 31, wo sich die „Control“ befindet, die Zentrale der künstlichen Intelligenz der Sternenflotte. Control steckt hinter der Fälschung und hat die Sektion 31 so gesteuert, dass sie Spock verfolgt. Burnham, Sicherheitsoffizierin Nhan und Airiam beamen in das Hauptquartier. Dort finden sie das Personal einschließlich der Führungspersonen der Sektion tot auf, nachdem Control die Lebenserhaltungssysteme abgeschaltet hat. Airiam hat die Aufgabe, Control zum geplanten Nutzen der Sternenflotte wiederherzustellen, aber der Virus aus der Zukunft, den Airiam bewahrt, ist Control selbst, und versucht stattdessen, das Wissen der Sphäre über die komplette künstliche Intelligenz in die Datenbank von Control zu laden. Airiam fordert von Burnham, sie ins Vakuum auszustoßen, ehe Control das erwünschte Wissen erlangt, da sie sich dessen Anweisungen nicht widersetzen kann. Burnham weigert sich, die Schleuse zu öffnen, aber das macht Nhan, ehe es zu spät ist. Airiam stirbt und durchlebt dabei ihre Lieblingserinnerungen aus der Zeit, bevor sie technologisch erweitert worden war."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/P-bzM8hfTho"
+						}
 					}
 				},
 				{
@@ -885,6 +971,18 @@
 					"description": {
 						"en": "While preparing for Airiam’s funeral, her system is purged of the Control virus along with all other Control systems around Starfleet. While doing this, Tilly discovers a bio-neural scan of the Red Angel in Airiam’s code that matches Burnham. Leland reveals that Section 31 built the Red Angel time travel suit twenty years ago in a temporal-arms race with the Klingons and that Burnham’s biological parents had been part of that program. Leland’s carelessness at the time led to their deaths. The crew now plan to use Burnham as bait for the Red Angel. Discovery travels to Essof IV, where there is enough energy to power their trap. Burnham is left out in the planet’s unbreathable atmosphere until the Red Angel appears. Leland’s Section 31 ship can close the wormhole behind the Red Angel to stop the future version of Control from following her through, though Leland is attacked by the present-day version of Control which is still active within his ship. The Red Angel is caught in the trap and revives the momentarily dead Burnham, who recognizes the figure as her mother.",
 						"de": "Bei der Vorbereitung auf Airiams Bestattung wird ihr Computersystem durch den Control-Virus gereinigt, zusammen mit allen anderen Control-Systemen in der Sternenflotte. Dabei bemerkt Tilly einen bioneuralen Scan des Roten Engels in Airiams Code, der zu Burnham passt. Captain Leland von der Sektion 31 enthüllt, dass die Sektion den Zeitreiseanzug des Roten Engels vor 20 Jahren gebaut hat, als es bzgl. temporaler Waffen einen Wettlauf mit den Klingonen gab, und, dass Burnhams Eltern Teil dieses Programms waren, wobei Lelands selbstbekundete, damalige Sorglosigkeit zum Tod der Eltern geführt habe. Nun plant man auf der Discovery, Burnham als Köder für den Roten Engel zu nutzen. Die Discovery reist dazu zum Planeten Essof IV, wo es genügend Energie gibt, um die Falle mit Strom zu versorgen. Burnham lässt sich in der Atmosphäre des Planeten, in der man nicht atmen kann, aussetzen, bis der Rote Engel erscheint. Lelands Raumschiff gelingt es, das Wurmloch hinter dem Roten Engel zu schließen und so künftige Control-KI davon abzuhalten, ihm hindurch zu folgen, auch wenn Leland von der im Schiff nach wie vor aktiven Control-KI der Gegenwart attackiert wird. Der Rote Engel wird in der Falle gefangen und belebt die inzwischen gestorbene Burnham neu, welche die Figur als ihre Mutter wiedererkennt."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/FoYt3EE1i8U"
+						}
 					}
 				},
 				{
@@ -907,6 +1005,18 @@
 					"description": {
 						"en": "When the Burnhams’ laboratory was attacked by Klingons years ago, Michael’s mother donned the experimental time travel suit to go back in time an hour and warn them of the coming attack. She instead arrived 950 years in the future to find all sentient life destroyed by Control. Tethering herself to a nearby planet, Dr. Burnham made over 840 attempts to change the future, including moving humans to her new planet, Terralysium, to test how she can change history. Trying to stop Control from gaining the Sphere’s data, Dr. Burnham was responsible for directing the Sphere to cross paths with the Discovery. Now, the Discovery crew plans to upload the Sphere data into the suit and send it to the future where Control cannot access it while keeping Dr. Burnham in the present, but a Control-possessed Leland intercepts their upload. Georgiou and Tyler confront Leland, with Tyler gravely injured but able to warn Discovery. The crew is forced to cut the transmission short and release Dr. Burnham back to the future, with the suit now damaged. Control-Leland escapes with half of the Sphere data.",
 						"de": "Als das Labor der Burnhams vor Jahren durch Klingonen angegriffen wurde, zog sich Michaels Mutter Dr. Burnham den Zeitreiseanzug an, um damit eine Stunde in der Zeit zurückzureisen und sie vor dem Angriff zu warnen. Stattdessen kam sie 950 Jahre in der Zukunft an, wo sie alle empfindungsfähigen Wesen durch „Control“ zerstört vorfand. Indem sie sich selbst an einen nahen Planeten band, versuchte Dr. Burnham über 840-mal, die Zukunft zu ändern, und schickte dazu auch Menschen auf ihren Planeten Terralysium, um zu testen, wie sie die Geschichte ändern kann. Indem sie versuchte, „Control“ davon abzuhalten, die Daten der Sphäre abzugreifen, kreuzten sich ihre Wege mit denen der Discovery. In der Gegenwart plant die Crew der Discovery, die Daten in den Zeitreiseanzug zu laden und ihn in die Zukunft zu schicken, damit „Control“ darauf nicht zugreifen kann, während Dr. Burnham in der Gegenwart bleibt. Allerdings veranlasst der von „Control“ übernommene Leland insgeheim den Download der Daten auf sein Schiff. Georgiou und Tyler versuchen Leland daran zu hindern, wobei Tyler schwer verletzt wird, aber mit letzter Kraft die Discovery warnen kann. Der Crew gelingt es, die Übertragung nach etwas mehr als der Hälfte der Daten abzubrechen und Dr. Burnham wieder in die Zukunft zu entlassen, während der Anzug nun beschädigt ist. Der von „Control“ besessene Leland flüchtet."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/2RPkNurCGoY"
+						}
 					}
 				},
 				{
@@ -929,6 +1039,18 @@
 					"description": {
 						"en": "A new signal appears over Boreth, a planet which is sacred to Klingons and has a monastery where Klingon monks guard time crystals. These are the same monks that Tyler and L’Rell left their son to be raised by. Pike visits the monastery to retrieve a time crystal and finds that their son is now a fully grown adult named Tenavik. Tenavik explains that life on Boreth is affected by the crystals and that if Pike takes one, he will not be able to change the future that it shows him. Pike sees a future where he is severely disabled in an accident but chooses to take the crystal anyway to serve the greater good. Meanwhile, Burnham and Spock investigate a Section 31 ship that had checked in ten minutes later than usual and find all of the crew dead except for one, Kamran Gant, an old colleague of Burnham’s who has been possessed by Control and attempts to transfer Control into Burnham’s body. Spock is able to stop Control with magnetism, and they escape back to Discovery. The Section 31 fleet soon arrives, forcing Pike to order Discovery be destroyed to keep the Sphere data away from Control.",
 						"de": "Ein neues Signal, nunmehr das vierte von sieben, erscheint über dem Planeten Boreth, einem für Klingonen heiligen Ort, wo sich ein klingonisches Kloster befindet und Mönche die Zeitkristalle bewachen. Tyler und L’Rell hatten einst ihren Sohn bei den Mönchen gelassen, damit er dort erzogen wird. Pike besucht das Kloster, um einen Zeitkristall zu bekommen, und entdeckt, dass der Sohn nun ein Erwachsener namens Tenavik ist. Dieser erklärt, dass das Leben auf Boreth durch die Kristalle bestimmt wird und dass Pike – sofern er einen Kristall haben möchte – nicht im Stande sein wird, die Zukunft zu ändern, die der Kristall ihm zeigt. Pike sieht eine Zukunft, in der er bei einem Unfall schwer verletzt wird, entscheidet sich aber dazu, den Kristall zu nehmen, um dem größeren Ganzen zu dienen. Währenddessen untersuchen Burnham und Spock ein Schiff der Sektion 31, das zehn Minuten später als gewöhnlich eingecheckt hat, und finden alle Crewmitglieder tot vor – mit einer Ausnahme, nämlich Kamran Gant. Dieser ist ein ehemaliger Kollege Burnhams, der von „Control“ besessen ist und versucht, auch Burnham zu übernehmen. Spock kann „Control“ mit Magnetismus aufhalten, danach fliehen er und Burnham zurück auf die Discovery. Die Flotte der Sektion 31 erscheint rasch, wodurch sich Pike dazu gezwungen sieht, die Selbstzerstörung der Discovery anzuordnen, um die Daten der Sphäre von „Control“ fernzuhalten."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/myyg7b0txSA"
+						}
 					}
 				},
 				{
@@ -951,6 +1073,18 @@
 					"description": {
 						"en": "Discovery escapes to rendezvous with the Enterprise. The Discovery crew is evacuated onto the other starship, and they initiate the Discovery’s self-destruct sequence, but the Sphere data takes control of Discovery’s systems and prevents this from happening. It also defends itself from torpedoes. Burnham proposes that the time crystal be used to take Discovery itself to the future where Control cannot get to it, and plans to wear a copy of her mother’s suit to lead the ship there. Pike agrees and resumes command of the Enterprise to keep Control distracted. A new signal appears, leading Discovery and Enterprise to the planet Xahea which is ruled by Tilly’s friend Queen Me Hani Ika Hali Ka Po. A brilliant engineer, Po helps Stamets, Tilly, and Reno prepare the suit and time crystal for the journey. Some of the Discovery’s crew choose to stay with Burnham, as does Georgiou, while Pike makes Saru acting captain. As the Section 31 fleet arrives, Discovery and Enterprise prepare for battle while the suit and time crystal are finalized.",
 						"de": "Die Discovery flieht vor der sich nähernden Flotte der Sektion 31, trifft sich mit der Enterprise und evakuiert alle Personen dorthin. Von der Enterprise aus initiieren Pike und Saru die Selbstzerstörungssequenz der Discovery, aber die Sphärendaten übernehmen die Kontrolle der Discovery-Computersysteme, wodurch die Zerstörung verhindert wird. Zudem verteidigt sich die Discovery nun selbst gegen Torpedo-Beschuss von der Enterprise. Burnham schlägt vor, den Zeitkristall zu benutzen, um die Discovery in die Zukunft zu schicken, wo „Control“ nicht auf sie zugreifen könnte. Dazu plant Burnham, eine Kopie des Zeitreiseanzugs ihrer Mutter zu tragen und so das Schiff durch die Zeit zu führen. Pike willigt ein und übernimmt wieder das Kommando über die Enterprise, um „Control“ abgelenkt zu lassen. Ein neues Signal erscheint und führt die Discovery und die Enterprise zum Planeten Xahea, der von der Königin Me Hani Ika Hali Ka Po beherrscht wird, einer Freundin von Tilly. Diese Freundschaft wurde in der ersten Episode von Short Treks vorgestellt und dadurch die beiden Serien verbunden. Als Ingenieurin hilft Po Stamets, Tilly und Reno dabei, den Anzug und den Zeitkristall für die Reise vorzubereiten. Einige der Discovery-Crewmitglieder entscheiden sich, bei Burnham zu bleiben, so auch Georgiou, während Saru durch Pike zum amtierenden Captain ernannt wird. Als die Flotte der Sektion 31 ankommt, bereiten sich die Discovery und die Enterprise auf eine Schlacht vor, während Zeitreiseanzug und Zeitkristall fertiggestellt werden."
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/S6v9w35Hj5E"
+						}
 					}
 				},
 				{
@@ -974,26 +1108,40 @@
 						"en": "Tyler retrieves the Klingon fleet to assist in the battle, while Saru’s sister Siranna arrives with Ba’ul fighters after receiving a farewell message from Saru. Stamets is seriously injured and is cared for by Culber. A Section 31 torpedo penetrates the Enterprise without detonating, and Cornwell seals off the surrounding area which prevents further damage when a secondary detonation kills her. Control-Leland boards Discovery and is defeated when Georgiou magnetizes the nanites in his body, allowing Section 31’s fleet to be destroyed. In the suit, Burnham travels to the past and sets the five signals that led them to this point. She then sets a sixth for Discovery to follow as she travels forward over 900 years, and promises to set a seventh when they arrive. The Enterprise crew tell Starfleet that Discovery was destroyed in the battle and are ordered to never speak of it or the crew again (on Spock’s recommendation, to prevent another incident like Control). Tyler is placed in command of Section 31. Months later, the Enterprise detects the seventh signal as it begins a new adventure.",
 						"de": "Tyler erreicht, dass die klingonische Flotte der Discovery und der Enterprise in der Raumschlacht hilft, während Siranna mit Ba’ul-Kämpfern ankommt, nachdem sie von Saru eine Abschiedsnachricht erhalten hat. Stamets wird ernsthaft verletzt und von Culber behandelt. Ein Photonentorpedo der Sektion 31 schlägt in der Untertassensektion der Enterprise ein, zunächst aber, ohne zu detonieren. Nachdem Admiral Cornwell zum Schutze des Schiffes die Umgebung des Einschlagsortes hermetisch verschlossen hat, explodiert der Torpedo aber und tötet sie. Im Zeitreiseanzug reist Burnham in die Vergangenheit und setzt die fünf Signale ab, die sie bis zu diesem Punkt geführt hatten. Danach setzt sie ein sechstes Signal fest, damit die Discovery ihr bei ihrer Reise in das Terralysium der Zukunft folgen kann, und verspricht, ein siebentes bei ihrer Ankunft abzusetzen. Der von „Control“ besessene Leland kommt an Bord der Discovery und wird besiegt, als Georgiou die Naniten in seinem Körper magnetisiert, wodurch die Flotte der Sektion 31 zerstört wird. Die Crew der Enterprise übermittelt an die Sternenflotte, dass die Discovery in der Schlacht zerstört worden sei, und erhält den Befehl, nie wieder über die Discovery oder ihre Crew zu sprechen – auf Spocks Empfehlung hin aus dem Grund, um einen weiteren Zwischenfall wie den mit „Control“ zu vermeiden. Tyler erhält das Kommando über die Sektion 31. Monate später spürt die Enterprise das siebente Signal auf."
 					},
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hdaa40p_iyk"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.8" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.9" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.10" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.11" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.12" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#2.13" }
-						],
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/LAR9Z1WX7ms"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.8" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.10" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.12" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#2.13" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LAR9Z1WX7ms"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -1061,19 +1209,33 @@
 						"en": "After traveling to the future to protect the intelligent Sphere data from Control, a rogue artificial intelligence destined to destroy all sentient life, Michael Burnham arrives in the year 3188 and learns that she was successful—life exists in this future. Burnham crashes into the ship of Cleveland “Book” Booker, a courier transporting stolen cargo. He explains that in an event called “The Burn”, most of the galaxy’s dilithium (the element used by starships to travel at warp speeds) exploded, destroying many starships including most of Starfleet. Now the galaxy is disconnected and is no longer governed by the United Federation of Planets. Burnham helps Book protect his cargo, an endangered trance worm that he is taking to a sanctuary, from other couriers. In exchange, Book takes her to a seemingly abandoned Federation space station where they find Aditya Sahil, a “Federation liaison” waiting in the hope that a Starfleet officer would come to the station one day. Burnham gives him an acting Starfleet commission. Sahil is unable to locate the USS Discovery, which was traveling to the future with Burnham.",
 						"de": "Nachdem Michael Burnham in die Zukunft gereist ist, um sensible Informationen vor Control zu schützen, einer künstlichen Intelligenz, die dazu bestimmt ist, alles Leben zu vernichten, kommt sie im Jahr 3188 an und erfährt, dass sie erfolgreich war – das Leben existiert in dieser Zukunft. Burnham stößt auf das Schiff von Cleveland „Book“ Booker, einem Kurier, der gestohlene Fracht transportiert. Er erklärt, dass bei einem Ereignis namens „Der Brand“ das meiste Dilithium der Galaxie explodiert ist und viele Raumschiffe, darunter auch der Großteil der Sternenflotte, zerstört wurden. Nun ist die Galaxie von der Vereinigten Föderation der Planeten getrennt und wird nicht mehr von ihr regiert. Burnham hilft Book, seine Fracht, einen gefährdeten Trance-Wurm, den er in ein Heiligtum bringen will, vor anderen Kurieren zu schützen. Im Gegenzug bringt Book sie zu einer scheinbar verlassenen Raumstation der Föderation, wo sie Aditya Sahil finden, einen „Verbindungsmann der Föderation“, der darauf wartet, dass eines Tages ein Sternenflottenoffizier auf die Station kommt. Burnham gibt ihm den Auftrag, als stellvertretender Kommunikationschef zu fungieren. Er ist jedoch nicht in der Lage, die USS Discovery zu lokalisieren, die mit Burnham in die Zukunft gereist ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/WYHZtwMhtk8"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ny-e3QWcwDQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1096,19 +1258,33 @@
 						"en": "The USS Discovery crash-lands on a glacier. The ship is damaged and crewmembers are wounded, including helm officer Keyla Detmer. Acting captain Saru decides to repair the ship before exploring the outside world, but they learn that they are missing resources that they require to complete the repairs. Saru and ensign Silvia Tilly go to a nearby settlement to get the resources they need and find a group of poor miners being oppressed by a courier named Zareh. The miners use programmable matter to help Discovery in exchange for some of the ship’s dilithium, which would allow them to leave the planet and escape Zareh. However, Zareh arrives and attacks the group, killing one of the miners and planning to take all of Discovery’s dilithium. He is stopped when Phillipa Georgiou—the former Emperor of the Mirror Universe’s Terran Empire and now Starfleet agent—overpowers Zareh and his men. The crew return to Discovery with the resources they need, but the glacier’s parasitic ice has encased the ship and it is unable to take off until Burnham arrives and frees them with Book’s ship.",
 						"de": "Die USS Discovery macht eine Bruchlandung auf einem Gletscher. Das Schiff ist beschädigt und viele Besatzungsmitglieder sind verwundet, darunter die Steueroffizierin Keyla Detmer. Der amtierende Kapitän Saru beschließt das Schiff zu reparieren, bevor er die Außenwelt erkundet, aber er erfährt, dass ihm die Ressourcen fehlen, die er für die Reparaturen benötigt. Saru und Fähnrich Silvia Tilly begeben sich zu einer nahe gelegenen Siedlung, um die notwendigen Ressourcen zu beschaffen, und treffen dort auf eine Gruppe armer Bergleute, die von einem Kurier namens Zareh unterdrückt werden. Die Bergleute helfen der Discovery mit programmierbarer Materie und sollen im Tausch dafür einen Teil des Dilithiums des Schiffes erhalten, um den Planeten verlassen und Zareh entkommen zu können. Zuvor trifft jedoch Zareh ein, tötet einen der Bergleute und plant das gesamte Dilithium der Discovery an sich zu nehmen. Als Phillipa Georgiou entgegen Sarus Anweisung eintrifft, können mit ihrer Hilfe Zareh und seine Männer überwältigt werden. Die Besatzung kehrt mit den benötigten Ressourcen zur Discovery zurück, aber das parasitäre Eis des Gletschers hat das Schiff eingeschlossen. Es ist nicht in der Lage abzuheben, bis Burnham eintrifft und sie mit Books Schiff befreit."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/PE-o1JPYaNU"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xU4Ktdd3VHk"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1131,19 +1307,33 @@
 						"en": "With Sahil not able to locate the Discovery in 3188, Burnham becomes a courier and works with Book, searching for clues about the fate of the Federation. She finds a transmission from Admiral Senna Tal from Earth, but they are unable to travel there with their limited dilithium. After a year, Discovery arrives in the future and Burnham finds them in the glacier. Saru becomes the new captain, and Discovery’s dilithium is stored on Book’s cloaked ship, which he parks in their docking bay, for safety. Using Discovery’s advanced spore drive, they travel to Earth and find it no longer part of the Federation. Investigators from the United Earth Defense Force board Discovery and explain that Tal is dead. They are all attacked by dilithium bandits who the EDF attempt to destroy until Burnham and Book trick the bandits, capturing their leader Wen. In negotiations between Wen and EDF Captain Ndoye, the two sides realize that they can help each other and prevent further fighting. A young human investigator named Adira is identified as the host of Tal’s Trill symbiont and is connected to his memories.",
 						"de": "Da Sahil nicht in der Lage ist, die Discovery im Jahr 3188 zu lokalisieren, wird Burnham Kurier und arbeitet mit Book zusammen, um nach Hinweisen auf das Schicksal der Föderation zu suchen. Sie findet einen Funkspruch von Admiral Senna Tal auf der Erde, kann aber mit ihrem begrenzten Dilithiumvorrat nicht dorthin gelangen. Nach einem Jahr trifft die Discovery endlich ebenfalls in der Zukunft ein und Burnham spürt sie auf. Saru wird neuer Captain, und das Dilithium der Discovery wird zur Sicherheit auf Books getarntem Schiff gelagert, das er in ihrer Andockbucht parkt. Dank des fortschrittlichen Sporenantriebs der Discovery reisen sie zur Erde und stellen fest, dass diese nicht mehr zur Föderation gehört. Ermittler der United Earth Defense Force gehen an Bord der Discovery und erklären, dass Tal tot ist. Sie werden alle von Dilithium-Banditen angegriffen, die die EDF zu vernichten versuchen, bis Burnham und Book die Banditen austricksen und ihren Anführer Wen gefangen nehmen. In Verhandlungen zwischen Wen und EDF-Captain Ndoye erkennen beide Seiten, dass sie sich gegenseitig helfen und weitere Kämpfe verhindern können. Eine junge Ermittlerin namens Adira enthüllt, dass sie der Wirt von Tals Trill-Symbiont ist, aber nicht auf alle seiner Erinnerungen zugreifen kann, da sie ein Mensch und kein Trill ist."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/_vsy8O6S9Vg"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GtvdlSWxX4Q"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1362,19 +1552,33 @@
 						"en": "Book receives a distress signal from his brother Kyheem, who says their home planet Kwejian is being threatened by the Emerald Chain, a syndicate of Andorians and Orions led by Osyraa. Kwejian’s harvests have been devastated by locusts following climate changes caused by the Burn, and Kyheem made a deal with Osyraa to repel the locusts in exchange for giving her access to Kwejian’s trance worms. This caused a rift between Book, who wanted to protect the worms, and his brother. Civilizations that receive help from the Emerald Chain often collapse, so Discovery is allowed to travel to Kwejian. Kyheem reveals to Book and Burnham that Osyraa wants Ryn, an Andorian servant that was freed in their prison break on Hunhau. Kyheem agrees to disobey Osyraa in exchange for Discovery and the Federation helping to repel the locusts. Discovery keeps Osyraa from taking Ryn by attacking her with Book’s ship, but she sees through the ruse and promises retaliation against the Federation before retreating. Meanwhile, Georgiou appears to be ill and is experiencing blackouts and flashbacks.",
 						"de": "Book empfängt ein Notsignal von seinem Bruder Kyheem, das besagt, dass ihr Heimatplanet Kwejian von der Smaragdkette bedroht wird, einem Syndikat aus Andorianern und Orionern unter der Führung von Osyraa. Die Ernten auf Kwejian wurden durch eine Seeschreckenplage vernichtet, die auf die durch den Brand verursachten Klimaveränderungen zurückzuführen ist. Kyheem schloss mit Osyraa einen Pakt, um die Seeschrecken im Austausch gegen die Trance-Würmer von Kwejian zu vertreiben. Dies führte zu einem Zerwürfnis zwischen Book und Kyheem. Zivilisationen, die Hilfe von der Smaragdkette erhalten, brechen oft zusammen, also reist die Discovery nach Kwejian. Kyheem offenbart Book und Burnham, dass Osyraa Ryn will, einen andorianischen Diener, der auf Hunhau befreit wurde. Nach einem Streit erklärt sich Kyheem bereit, Osyraa nicht zu gehorchen, wenn die Discovery ihm hilft, die Seeschrecken abzuwehren. Während dieser Zeit hält die Discovery Osyraa davon ab, Ryn zu entführen, indem sie sie mit Books Schiff angreift, aber die durchschaut die List und verspricht Vergeltung an der Föderation, bevor sie sich zurückzieht. In der Zwischenzeit untersucht Culber Georgiou, die krank zu sein scheint und unter Blackouts und Flashbacks leidet."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/aam5aXYtB2c"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1397,19 +1601,33 @@
 						"en": "After studying Georgiou’s condition, Culber is visited by Dr. Kovich, a mysterious Starfleet operative, who explains that since Georgiou has both traveled through time and from a different universe, her molecules have moved too far from their origin and she is now likely to die. Consulting with Discovery’s computer, which has been augmented with the intelligent Sphere data, Culber believes that Georgiou could be saved by traveling to an uninhabited planet, Dannus V. Stamets and Adira use the SB-19 data to trace the source of the Burn to the Verubin Nebula, and discover a distress signal from a Kelpien starship. On Dannus V, Georgiou and Burnham encounter a strange being named Carl who directs Georgiou to a door. On the other side, she finds herself back in the Mirror Universe during the time she was Emperor. Georgiou finds that her time with Discovery has made her a better person than she was then, and she decides to use her knowledge of the past to alter certain events, including rescuing the slave Saru and sparing the life of the treacherous Michael Burnham.",
 						"de": "Culber wird von Kovich, einem mysteriösen Sternenflottenmitarbeiter, aufgesucht. Dieser erklärt, dass Georgiou sowohl durch die Zeit gereist ist als auch aus einem anderen Universum, dem Spiegeluniversum, stammt und sich ihre Moleküle zu weit von ihrem Ursprung entfernt haben, so dass sie nun wahrscheinlich sterben wird. Nach Rücksprache mit dem Computer der Discovery, der mit den Daten der intelligenten Sphäre erweitert wurde, glaubt Culber, dass Georgiou gerettet werden könnte, indem sie zu einem unbewohnten Planeten, Dannus V, reist. Stamets und Adira verwenden die SB-19-Daten, um die Quelle des Brandes zum Verubin-Nebel zurückzuverfolgen und entdecken ein Notsignal von einem Kelpianer-Raumschiff. Auf Dannus V treffen Georgiou und Burnham auf ein seltsames Wesen namens Carl, das Georgiou zu einer Tür führt. Auf der anderen Seite findet sie sich im Spiegeluniversum wieder, in der Zeit als sie Imperatorin des Terranischen Reiches war. Georgiou stellt fest, dass ihre Zeit bei der Discovery sie verändert hat und sie nutzt ihr Wissen über die Vergangenheit, um bestimmte Ereignisse zu verändern, darunter die Rettung des Sklaven Saru und die Verschonung des Lebens der verräterischen Michael Burnham."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/bjxDpk5n3kI"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OkZ2KHMOtv8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1432,19 +1650,33 @@
 						"en": "Georgiou hopes to lead an improved Terran Empire with Burnham by her side, and has the latter tortured until she pledges her allegiance. Georgiou reveals to Saru that the Kelpien biological change known as Vahar’ai does not mean it is time for him to be culled; rather, it is a natural process that will make him stronger if he allows it to happen. Burnham and Georgiou work together to hunt Burnham’s former lover Gabriel Lorca, but this is a ruse and Burnham soon turns on Georgiou. After a fight, Georgiou kills Burnham before dying herself in Saru’s arms. She then returns to Dannus V, where Carl reveals himself to be the Guardian of Forever. He explains that he can send Georgiou to another time and place where she will survive, but he had to test her first and was happy to see her attempt to change the fate of the Terran Empire. Georgiou says goodbye to Burnham before traveling through the Guardian’s portal. On Discovery, Book wishes to prove his worth to the crew and uses Emerald Chain technology to help them connect to the computer systems of the Kelpien starship in the Verubin Nebula.",
 						"de": "Georgiou hofft, mit Burnham an ihrer Seite ein verbessertes terranisches Imperium anführen zu können, und lässt sie foltern, bis sie ihr die Treue schwört. Georgiou offenbart Saru, dass die biologische Veränderung der Kelpianer, die als Vahar’ai bekannt ist, nicht bedeutet, dass es für ihn an der Zeit ist, getötet zu werden, sondern dass es sich um einen natürlichen Prozess handelt, der ihn stärker macht, wenn er es zulässt. Burnham und Georgiou arbeiten zusammen, um Burnhams ehemaligen Liebhaber Gabriel Lorca zu jagen, aber das ist eine List Burnhams, die sich gegen Georgiou richtet. Nach einem Kampf tötet Georgiou Burnham, bevor sie selbst in den Armen von Saru stirbt. Sie kehrt nach Dannus V zurück, wo Carl sich als der Wächter der Ewigkeit zu erkennen gibt. Er erklärt, dass er Georgiou in eine andere Zeit und an einen anderen Ort schicken kann, wo sie überleben wird, aber er musste sie erst testen und war froh, als sie versuchte, das Schicksal des Terranischen Reiches zu ändern. Georgiou verabschiedet sich von Burnham, bevor sie durch das Portal des Wächters reist. Auf der Discovery will Book seinen Wert beweisen und nutzt Smaragdkettentechnologie, um der Besatzung zu helfen, sich mit den Systemen des Kelpianer-Raumschiffs zu verbinden."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/1UGt2iWJiqI"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YEMb9kKvPw8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1467,19 +1699,33 @@
 						"en": "Discovery detects a life sign on the starship in the radioactive Verubin Nebula, and Saru suggests this could be the child of one of the starship’s scientists. They jump there to investigate, and find a planet made primarily of dilithium inside the nebula. Saru, Burnham, and Culber transport to the planet, leaving Tilly in command of Discovery. On the planet, the away team find themselves inside a complex holographic simulation designed by the scientists to raise and protect the child. They find the child, Su’Kal, and discover that he was born with biology adapted to the planet and radioactive nebula, while the away team suffers from radiation poisoning. Su’Kal is not prepared to deal with reality outside the simulation, and when he becomes upset he creates an energy surge similar to the Burn. An Emerald Chain ship commanded by Osyraa arrives . Book flies into the nebula to retrieve the away team and is able to get Burnham, but the others, plus a stowaway Adira, stay with Su’Kal. Osyraa captures Discovery and forces it to jump to Federation headquarters.",
 						"de": "Die Discovery entdeckt ein Lebenszeichen auf dem Raumschiff im radioaktiven Verubin-Nebel und Saru vermutet, dass es sich um das Kind eines der Wissenschaftler des Raumschiffs handeln könnte. Sie springen hin, um das zu untersuchen und finden im Inneren des Nebels einen Planeten, der hauptsächlich aus Dilithium besteht. Saru, Burnham und Culber begeben sich zu dem Planeten und überlassen Tilly das Kommando über die Discovery. Auf dem Planeten findet sich das Außenteam in einer komplexen holografischen Simulation wieder, die von den Wissenschaftlern entwickelt wurde, um das Kind aufzuziehen und zu schützen. Sie finden das Kind, Su’Kal, und entdecken, dass es mit einer an den Planeten und den radioaktiven Nebel angepassten Biologie geboren wurde, während das Außenteam an einer Strahlenvergiftung leidet. Su’Kal ist nicht darauf vorbereitet, mit der Realität außerhalb der Simulation umzugehen, und wenn er sich aufregt, erzeugt er einen Energiestoß, der dem Brand ähnelt. Ein Schiff der Smaragdkette unter dem Kommando von Osyraa trifft ein. Book fliegt in den Nebel, um das Außenteam zu holen. Er holt Burnham, aber Adira bringt Medikamente zu Saru und Burnham und bleibt mit ihnen bei Su’Kal. Osyraa nimmt die Discovery gefangen und lässt sie zum Hauptquartier der Föderation springen."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/cajKTVn8A9g"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/a01nSU3MMcg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1502,19 +1748,33 @@
 						"en": "Osyraa poses as an under-attack Discovery with blocked communications, and Vance decides to let the ship through the Federation’s shields. Burnham and Book use the courier’s perilous transwarp network to reach Federation headquarters in time to crash land on Discovery before the shields close. Osyraa sends Zareh to investigate and he captures Book, while Burnham escapes unseen. Book is kept hostage with the bridge crew and Ryn, Stamets is interrogated by scientist Aurellio who plans to replicate Discovery’s spore drive, and the rest of Discovery’s crew is released from the ship in shuttles. Osyraa proposes a peace treaty between the Federation and the Emerald Chain to Vance. He considers the treaty but insists that Osyraa stand trial for her crimes against the Federation, which is unacceptable to her. The bridge crew escapes with the help of Book and Ryn, who are captured again. Burnham frees Stamets and safely jettisons him from the ship to prevent his capture, despite his wish to use the spore drive to immediately save Culber, Adira, and Saru. Aurellio is horrified when Osyraa kills Ryn.",
 						"de": "Osyraa gibt sich als angegriffene Discovery aus, deren Kommunikation blockiert ist, und Vance beschließt das Schiff durch die Schilde der Föderation zu lassen. Burnham und Book nutzen das gefährliche Transwarp-Netzwerk, um das Hauptquartier der Föderation rechtzeitig zu erreichen und auf der Discovery zu landen, bevor die Schilde geschlossen werden. Osyraa schickt Zareh los, um nachzuforschen, und er nimmt Book gefangen, während Burnham ungesehen entkommt. Book wird zusammen mit der Brückenbesatzung und Ryn als Geisel festgehalten. Stamets wird von dem Wissenschaftler Aurellio verhört, der plant den Sporenantrieb der Discovery zu replizieren, und der Rest der Besatzung der Discovery wird in Shuttles freigelassen. Osyraa schlägt Vance einen Friedensvertrag zwischen der Föderation und der Smaragdkette vor. Er erwägt den Vertrag, besteht aber darauf, dass Osyraa für ihre Verbrechen vor Gericht gestellt wird, was für sie inakzeptabel ist. Die Brückenbesatzung flieht mit Hilfe von Book und Ryn, die erneut gefangen genommen werden. Burnham befreit Stamets und wirft ihn sicher vom Schiff, um seine Gefangennahme zu verhindern, obwohl er Culber, Adira und Saru sofort retten will. Aurellio ist entsetzt, als Osyraa den Gefangenen Ryn tötet."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7n-Z-DxdIto"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1537,19 +1797,33 @@
 						"en": "Unable to jump away without Stamets, Osyraa fights her way out of Federation headquarters and shuts off life support for the bridge crew. Despite this, Tilly and the bridge crew are able to plant a bomb in one of the ship’s nacelles with the help of the Sphere data, dropping Discovery from warp. Burnham makes her way to the ship’s data core, kills Osyraa in a fight, and resets the computer systems. She turns life support back on and beams all of the Emerald Chain fighters off the ship. Aurellio, after a change in heart, suggests that Book could use the spore drive with the empathic abilities his species has, and they jump to the nebula. Saru helps Su’Kal turn the simulation off and come to terms with the death of his mother, as his reaction to that is what caused the Burn, just as Discovery arrives. Saru decides to help Su’Kal start a new life on Kaminar, and Burnham is promoted to captain. The Emerald Chain collapses after Osyraa’s death, and planets begin to rejoin the Federation. Discovery sets out to bring dilithium from the nebula to planets that have been cut off by the Burn.",
 						"de": "Da sie nicht in der Lage ist, ohne Stamets zu springen, kämpft sich Osyraa aus dem Hauptquartier der Föderation heraus und schaltet die Lebenserhaltung der Brückencrew ab. Da die Sphärendaten sich in bewegliche Mini-Roboter heruntergeladen haben, gelingt es Tilly und der Brückencrew mit deren Unterstützung, eine Bombe in einer der Gondeln des Schiffes zu platzieren, nach deren Explosion die Discovery unter Warp geht. Burnham macht sich auf den Weg zum Datenkern des Schiffes, tötet Osyraa im Kampf und setzt die Computersysteme zurück. Sie schaltet die Lebenserhaltung wieder ein und beamt alle Smaragdketten-Jäger vom Schiff. Aurellio, der sich zuvor geweigert hatte, für Osyraa zu foltern, und auf der Discovery verblieben ist, schlägt vor, dass Book den Sporenantrieb mit seinen empathischen Fähigkeiten benutzen könnte. Dies gelingt, und sie springen zum Nebel. Saru überzeugt Su’Kal, die Simulation abzuschalten. Dessen wütende Reaktion auf den Tod seiner Mutter war die Ursache für den Brand. Als die Discovery den Dilithium-Planeten erreicht, können die dort verbliebenen Besatzungsmitglieder und Su’Kal im letzten Moment aus dem zerfallenden Habitat gerettet werden. Saru begleitet Su’Kal nach Kaminar, um ihn dort zu unterstützen. Burnham wird zum Captain befördert. Die Smaragdkette bricht nach Osyraas Tod zusammen. Die bisher vom Syndikat kontrollierten Planeten beginnen, sich wieder der Föderation anzuschließen. Die Discovery macht sich auf den Weg, um Dilithium aus dem Nebel zu Planeten zu bringen, die durch den Brand abgeschnitten sind."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/yNPGM1F_Lbk"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/U4VcFzL9b1M"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -1621,6 +1895,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/442jXYvGDp0"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1664,6 +1950,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/RmlhMmNam1c"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fd6K-dPGPWc"
 							}
 						},
 						{
@@ -1719,6 +2017,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6rCcKPVups0"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -1762,6 +2072,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/CB9We1QIuJU"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bjkSrNR2Kfs"
 							}
 						},
 						{
@@ -1872,6 +2194,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/s7Hgth8LITM"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/QCqE9unbeAI"
 							}
 						},
 						{
@@ -2117,6 +2451,18 @@
 							"@type": "Review",
 							"creator": {
 								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/9yShO2iOgWw"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
@@ -2167,6 +2513,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/UOsKmyIu7dY"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GoCe1mEseOk"
 							}
 						},
 						{
@@ -2310,11 +2668,18 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 5,
-			"subjectOf": {
-				"@type": "Webpage",
-				"inLanguage": "en",
-				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
-			},
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_5"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -2416,8 +2781,41 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Jinaal",
 						"datePublished": "2024-04-11"
-					}
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/a8pkckfj9VQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/r3KHyhjRHwM"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2428,6 +2826,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Die Zeitspinne",
 						"datePublished": "2024-04-18"
 					},
 					"director": {
@@ -2445,6 +2844,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Spiegel",
 						"datePublished": "2024-04-25"
 					}
 				},
