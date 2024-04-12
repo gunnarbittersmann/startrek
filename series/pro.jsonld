@@ -76,19 +76,33 @@
 					"description": {
 						"en": "On the Tars Lamora prison colony in the Delta Quadrant, a young alien named Dal dreams of escaping. The colony’s leader, The Diviner, sends his robotic enforcer Drednok to capture a problematic prisoner, “Zero”, who causes an explosion that allows Dal to get away. Dal is captured before he can escape and is interrogated by the Diviner’s daughter Gwyn, who gives him one day to locate Zero. Descending to the deep core mining level, Dal is partnered with a Brikar who speaks another language and grows angry at Dal’s attempts to search for Zero, accidentally causing a rock collapse that reveals the abandoned Federation starship USS Protostar. The starship’s translator allows the Brikar to introduce herself as Rok-Tahk. Zero watches this happen and introduces themselves, while the group is expanded to include engineer Jankom Pog and indestructible blob Murf. When they are confronted by Drednok and Gwyn, they take Gwyn hostage and escape from Tars Lamora in the Protostar. They are greeted by a training hologram with the likeness of former USS Voyager Captain Kathryn Janeway."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hboS_FHcfaU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/hboS_FHcfaU"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Pae0K_wyOEc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -110,19 +124,33 @@
 					"description": {
 						"en": "Janeway, under the assumption that the colony escapists are Starfleet cadets, begins to train them on how to operate the Protostar and explains to them the purpose of the Federation and Starfleet. While Zero, Jankom, Rok-Tahk and Murf are eager to join the Federation, Dal—who has appointed himself Captain of the ship—dismisses Janeway. When he unknowingly directs Zero to fly the Protostar into a dying star, Dal is forced to ask for Janeway’s help to save themselves and the ship. Meanwhile, Gwyn is held prisoner but begins to plot an escape so she can gain control of the ship and return it to her father, who is already in pursuit with Drednok."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_2F9odd64BU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/_2F9odd64BU"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/r0oaxuydimE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

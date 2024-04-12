@@ -1552,19 +1552,33 @@
 						"en": "Book receives a distress signal from his brother Kyheem, who says their home planet Kwejian is being threatened by the Emerald Chain, a syndicate of Andorians and Orions led by Osyraa. Kwejian’s harvests have been devastated by locusts following climate changes caused by the Burn, and Kyheem made a deal with Osyraa to repel the locusts in exchange for giving her access to Kwejian’s trance worms. This caused a rift between Book, who wanted to protect the worms, and his brother. Civilizations that receive help from the Emerald Chain often collapse, so Discovery is allowed to travel to Kwejian. Kyheem reveals to Book and Burnham that Osyraa wants Ryn, an Andorian servant that was freed in their prison break on Hunhau. Kyheem agrees to disobey Osyraa in exchange for Discovery and the Federation helping to repel the locusts. Discovery keeps Osyraa from taking Ryn by attacking her with Book’s ship, but she sees through the ruse and promises retaliation against the Federation before retreating. Meanwhile, Georgiou appears to be ill and is experiencing blackouts and flashbacks.",
 						"de": "Book empfängt ein Notsignal von seinem Bruder Kyheem, das besagt, dass ihr Heimatplanet Kwejian von der Smaragdkette bedroht wird, einem Syndikat aus Andorianern und Orionern unter der Führung von Osyraa. Die Ernten auf Kwejian wurden durch eine Seeschreckenplage vernichtet, die auf die durch den Brand verursachten Klimaveränderungen zurückzuführen ist. Kyheem schloss mit Osyraa einen Pakt, um die Seeschrecken im Austausch gegen die Trance-Würmer von Kwejian zu vertreiben. Dies führte zu einem Zerwürfnis zwischen Book und Kyheem. Zivilisationen, die Hilfe von der Smaragdkette erhalten, brechen oft zusammen, also reist die Discovery nach Kwejian. Kyheem offenbart Book und Burnham, dass Osyraa Ryn will, einen andorianischen Diener, der auf Hunhau befreit wurde. Nach einem Streit erklärt sich Kyheem bereit, Osyraa nicht zu gehorchen, wenn die Discovery ihm hilft, die Seeschrecken abzuwehren. Während dieser Zeit hält die Discovery Osyraa davon ab, Ryn zu entführen, indem sie sie mit Books Schiff angreift, aber die durchschaut die List und verspricht Vergeltung an der Föderation, bevor sie sich zurückzieht. In der Zwischenzeit untersucht Culber Georgiou, die krank zu sein scheint und unter Blackouts und Flashbacks leidet."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/G4a_Kt-qg5Q"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/aam5aXYtB2c"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1734,19 +1748,33 @@
 						"en": "Osyraa poses as an under-attack Discovery with blocked communications, and Vance decides to let the ship through the Federation’s shields. Burnham and Book use the courier’s perilous transwarp network to reach Federation headquarters in time to crash land on Discovery before the shields close. Osyraa sends Zareh to investigate and he captures Book, while Burnham escapes unseen. Book is kept hostage with the bridge crew and Ryn, Stamets is interrogated by scientist Aurellio who plans to replicate Discovery’s spore drive, and the rest of Discovery’s crew is released from the ship in shuttles. Osyraa proposes a peace treaty between the Federation and the Emerald Chain to Vance. He considers the treaty but insists that Osyraa stand trial for her crimes against the Federation, which is unacceptable to her. The bridge crew escapes with the help of Book and Ryn, who are captured again. Burnham frees Stamets and safely jettisons him from the ship to prevent his capture, despite his wish to use the spore drive to immediately save Culber, Adira, and Saru. Aurellio is horrified when Osyraa kills Ryn.",
 						"de": "Osyraa gibt sich als angegriffene Discovery aus, deren Kommunikation blockiert ist, und Vance beschließt das Schiff durch die Schilde der Föderation zu lassen. Burnham und Book nutzen das gefährliche Transwarp-Netzwerk, um das Hauptquartier der Föderation rechtzeitig zu erreichen und auf der Discovery zu landen, bevor die Schilde geschlossen werden. Osyraa schickt Zareh los, um nachzuforschen, und er nimmt Book gefangen, während Burnham ungesehen entkommt. Book wird zusammen mit der Brückenbesatzung und Ryn als Geisel festgehalten. Stamets wird von dem Wissenschaftler Aurellio verhört, der plant den Sporenantrieb der Discovery zu replizieren, und der Rest der Besatzung der Discovery wird in Shuttles freigelassen. Osyraa schlägt Vance einen Friedensvertrag zwischen der Föderation und der Smaragdkette vor. Er erwägt den Vertrag, besteht aber darauf, dass Osyraa für ihre Verbrechen vor Gericht gestellt wird, was für sie inakzeptabel ist. Die Brückenbesatzung flieht mit Hilfe von Book und Ryn, die erneut gefangen genommen werden. Burnham befreit Stamets und wirft ihn sicher vom Schiff, um seine Gefangennahme zu verhindern, obwohl er Culber, Adira und Saru sofort retten will. Aurellio ist entsetzt, als Osyraa den Gefangenen Ryn tötet."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/w9uIdHzf4aE"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7n-Z-DxdIto"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2640,11 +2668,18 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 5,
-			"subjectOf": {
-				"@type": "Webpage",
-				"inLanguage": "en",
-				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
-			},
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_5"
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -2746,8 +2781,41 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Jinaal",
 						"datePublished": "2024-04-11"
-					}
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/a8pkckfj9VQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/r3KHyhjRHwM"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2758,6 +2826,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Die Zeitspinne",
 						"datePublished": "2024-04-18"
 					},
 					"director": {
@@ -2775,6 +2844,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Spiegel",
 						"datePublished": "2024-04-25"
 					}
 				},
