@@ -31,5 +31,38 @@
 				"embedUrl": "https://www.youtube-nocookie.com/embed/SRn8kO8196g"
 			}
 		}
+	},
+	{
+		"@context": "https://schema.org/",
+		"@type": "Book",
+		"name": "Somewhere To Belong",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+			"name": "Dayton Ward"
+		},
+		"isBasedOn": "https://bittersmann.de/startrek/series/dsc",
+		"datePublished": "2023-05-30",
+		"description": "Captain Michael Burnham and the crew of the USS Discovery are finding that each day is a critical adjustment to their new lives and new missions in an Alpha Quadrant more than nine hundred years in the future. It’s here that Discovery is reconnecting with various worlds where the cataclysmic event known as “the Burn” has decimated Starfleet and, with it, the United Federation of Planets. There’s been precious little time for the crew to truly come to terms with their present reality, as their devotion to duty hides the emotional stress that could impact their effectiveness, and even threaten themselves or others. After a successful journey to yet another planet cut off from the Federation, Discovery picks up a distress signal located in a nearby star system—a plea that harbors roots from their past lives in the 23rd century, and which may now lead to an entirely new crisis, plunging them all into mortal danger…",
+		"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Somewhere-to-Belong/Dayton-Ward/Star-Trek-Discovery/9781668002292",
+		"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668002292/star-trek-discovery-somewhere-to-belong-9781668002292_lg.jpg",
+		"isbn": "9781668002292",
+		"numberOfPages": 336,
+		"publisher": {
+			"@type": "Organization",
+			"name": "Pocket Books"
+		},
+		"review": {
+			"@type": "Review",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#JessieGender",
+				"name": "Jessie Gender"
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/NcAMGrhgvfA"
+			}
+		}
 	}
 ]
