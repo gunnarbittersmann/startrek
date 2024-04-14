@@ -97,6 +97,10 @@ a {
 	width: 1px;
 }
 
+figure {
+	margin: 0;
+}
+
 body > header, body > footer {
 	padding: 1em 0;
 	font-size: 0.9em;
