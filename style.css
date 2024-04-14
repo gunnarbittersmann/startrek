@@ -188,8 +188,9 @@ caption {
 	text-align: left;
 }
 
-tbody:not(:last-of-type) {
-	border-bottom: thin solid var(--rule-color);
+tbody:not(:first-of-type),
+tfoot {
+	border-top: thin solid var(--rule-color);
 }
 
 th, td {
