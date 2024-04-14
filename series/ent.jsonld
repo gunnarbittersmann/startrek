@@ -67,6 +67,7 @@
 					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -205,6 +206,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -385,6 +387,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -730,6 +733,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1120,6 +1124,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1445,6 +1450,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",

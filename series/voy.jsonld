@@ -64,6 +64,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -100,6 +101,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -799,6 +801,7 @@
 						},
 						{
 							"@type": "Review",
+							"name": "Retro Review | Worst Episodes Ever",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -884,6 +887,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1013,6 +1017,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1158,6 +1163,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1335,6 +1341,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1399,6 +1406,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1802,6 +1810,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3666,6 +3675,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -4066,6 +4076,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -4130,6 +4141,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -4166,6 +4178,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
