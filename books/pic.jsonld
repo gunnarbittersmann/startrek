@@ -8,7 +8,12 @@
 			"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
 			"name": "Una McCormack"
 		},
-		"isBasedOn": "https://bittersmann.de/startrek/series/pic",
+		"isBasedOn": {
+			"@type": "TVSeries",
+			"name": "Star Trek: Picard",
+			"identifier": "PIC",
+			"url": "https://bittersmann.de/startrek/series/pic"
+		},
 		"datePublished": "2023-09-19",
 		"description": "Following the explosive events seen in season one of Star Trek: Picard, Raffi Musiker finds herself torn between returning to her old life as a Starfleet Intelligence officer or something a little more tame—teaching at the Academy, perhaps. The decision is made for her though when a message from an old contact—a Romulan spy—is received, asking for immediate aid. With the help of Elnor and assistance from Jean-Luc Picard, Raffi decides to take on this critical mission—and quickly learns that past sins never stay buried. Finding the truth will be complicated, and deadly…",
 		"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Second-Self/Una-McCormack/Star-Trek-Picard/9781982194833",
@@ -29,7 +34,12 @@
 			"@id": "https://bittersmann.de/startrek/people#DavidMack",
 			"name": "David Mack"
 		},
-		"isBasedOn": "https://bittersmann.de/startrek/series/pic",
+		"isBasedOn": {
+			"@type": "TVSeries",
+			"name": "Star Trek: Picard",
+			"identifier": "PIC",
+			"url": "https://bittersmann.de/startrek/series/pic"
+		},
 		"datePublished": "2024-02-27",
 		"description": "Two years after the USS Voyager’s return from the Delta Quadrant, Seven of Nine finds herself rejected for a position in Starfleet…and instead finds a new home with the interstellar rogue law enforcement corps known as the Fenris Rangers. The Rangers seem like an ideal fit for Seven—but to embrace this new destiny, she must leave behind all she’s ever known, and risk losing the most important thing in her life: her friendship with Admiral Kathryn Janeway.",
 		"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Firewall/David-Mack/Star-Trek-Picard/9781668046357",

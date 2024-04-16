@@ -8,7 +8,12 @@
 			"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
 			"name": "Una McCormack"
 		},
-		"isBasedOn": "https://bittersmann.de/startrek/series/dsc",
+		"isBasedOn": {
+			"@type": "TVSeries",
+			"name": "Star Trek: Discovery",
+			"identifier": "DSC",
+			"url": "https://bittersmann.de/startrek/series/dsc"
+		},
 		"datePublished": "2021-05-18",
 		"description": "In a desperate attempt to prevent the artificial intelligence known as Control from seizing crucial information that could destroy all sentient life, Commander Michael Burnham donned the “Red Angel” time-travel suit and guided the USS Discovery into the future and out of harm’s way. But something has gone terribly wrong, and Burnham has somehow arrived in a place far different from anything she could have imagined—more than nine hundred years out of her time, with Discovery nowhere to be found, and where the mysterious and cataclysmic event known as “the Burn” has utterly decimated Starfleet and, with it, the United Federation of Planets. How then can she possibly exist day-to-day in this strange place? What worlds are out there waiting to be discovered? Do any remnants of Starfleet and the Federation possibly endure? With more questions than answers, Burnham must nevertheless forge new friendships and new alliances if she hopes to survive this future long enough for the Discovery crew to find her....",
 		"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Wonderlands/Una-McCormack/Star-Trek-Discovery/9781982157548",
@@ -41,7 +46,12 @@
 			"@id": "https://bittersmann.de/startrek/people#DaytonWard",
 			"name": "Dayton Ward"
 		},
-		"isBasedOn": "https://bittersmann.de/startrek/series/dsc",
+		"isBasedOn": {
+			"@type": "TVSeries",
+			"name": "Star Trek: Discovery",
+			"identifier": "DSC",
+			"url": "https://bittersmann.de/startrek/series/dsc"
+		},
 		"datePublished": "2023-05-30",
 		"description": "Captain Michael Burnham and the crew of the USS Discovery are finding that each day is a critical adjustment to their new lives and new missions in an Alpha Quadrant more than nine hundred years in the future. It’s here that Discovery is reconnecting with various worlds where the cataclysmic event known as “the Burn” has decimated Starfleet and, with it, the United Federation of Planets. There’s been precious little time for the crew to truly come to terms with their present reality, as their devotion to duty hides the emotional stress that could impact their effectiveness, and even threaten themselves or others. After a successful journey to yet another planet cut off from the Federation, Discovery picks up a distress signal located in a nearby star system—a plea that harbors roots from their past lives in the 23rd century, and which may now lead to an entirely new crisis, plunging them all into mortal danger…",
 		"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Somewhere-to-Belong/Dayton-Ward/Star-Trek-Discovery/9781668002292",
