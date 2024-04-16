@@ -18,13 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert"
 		}
 	],
@@ -37,13 +45,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_1"
 				}
 			],
@@ -659,13 +675,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_2"
 				}
 			],
@@ -1169,13 +1193,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_3"
 				}
 			],
@@ -1750,13 +1782,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_4"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_4"
 				}
 			],
@@ -2379,13 +2419,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_5"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_5"
 				}
 			],
@@ -2978,13 +3026,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_6"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_6"
 				}
 			],
@@ -3257,7 +3313,11 @@
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
-						"publisher": "Wikipedia",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
 						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 					}
 				},
@@ -3284,7 +3344,11 @@
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
-						"publisher": "Wikipedia",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
 						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 					},
 					"review":	{
@@ -3642,13 +3706,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_7"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_7"
 				}
 			],
@@ -4195,13 +4267,21 @@
 						{
 							"@type": "Webpage",
 							"inLanguage": "en",
-							"publisher": "Wikipedia",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
 							"url": "https://en.wikipedia.org/wiki/All_Good_Things..._(Star_Trek:_The_Next_Generation)"
 						},
 						{
 							"@type": "Webpage",
 							"inLanguage": "de",
-							"publisher": "Wikipedia",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
 							"url": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
 						}
 					],

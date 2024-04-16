@@ -18,13 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		}
 	],

@@ -480,7 +480,7 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($source['url']) ?>"
 							>
-								<?= htmlSpecialChars($source['publisher']) ?>
+								<?= htmlSpecialChars($source['publisher']['name']) ?>
 								(<?= htmlSpecialChars($source['inLanguage']) ?>)
 							</a>
 						</cite>
@@ -496,7 +496,7 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($lastSeason['subjectOf']['url']) ?>"
 							>
-								<?= htmlSpecialChars($lastSeason['subjectOf']['publisher']) ?>
+								<?= htmlSpecialChars($lastSeason['subjectOf']['publisher']['name']) ?>
 								(<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)
 							</a>
 						</cite>
@@ -510,7 +510,7 @@ EOT;
 									property="url"
 									href="<?= htmlSpecialChars($source['url']) ?>"
 								>
-									<?= htmlSpecialChars($source['publisher']) ?>
+									<?= htmlSpecialChars($source['publisher']['name']) ?>
 									(<?= htmlSpecialChars($source['inLanguage']) ?>)
 								</a>
 							</cite>
