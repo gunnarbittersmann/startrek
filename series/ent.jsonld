@@ -18,11 +18,13 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": "Wikipedia",
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": "Wikipedia",
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Enterprise"
 		}
 	],
@@ -35,11 +37,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_1"
 				}
 			],
@@ -618,11 +622,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_2"
 				}
 			],
@@ -1209,11 +1215,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_3"
 				}
 			],
@@ -1744,11 +1752,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_4"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_4"
 				}
 			],
