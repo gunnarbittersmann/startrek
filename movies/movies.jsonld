@@ -70,19 +70,33 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Der_Film"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"name": "Ups & Downs",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cvtpnm4113g"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/cvtpnm4113g"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pbR779ClQ3E"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -123,7 +137,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_II:_Der_Zorn_des_Khan"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -164,7 +190,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_III:_Auf_der_Suche_nach_Mr._Spock"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -205,7 +243,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_IV:_Zur%C3%BCck_in_die_Gegenwart"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -246,7 +296,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_V:_Am_Rande_des_Universums"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -288,18 +350,32 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_VI:_Das_unentdeckte_Land"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/q5q5uo_-fiI"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/PyM0gxCv2yc"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PyM0gxCv2yc"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -346,7 +422,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Treffen_der_Generationen"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/pvr6Y49PxOs"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -387,7 +475,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Der_erste_Kontakt"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/DhYtymDSuVU"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -427,6 +527,32 @@
 								"name": "Wikipedia"
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Der_Aufstand"
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/rnPP7xkiKoo"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Km6PD3ueZao"
+							}
 						}
 					]
 				},
@@ -469,7 +595,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Nemesis"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
+						}
+					}
 				}
 			]
 		},
@@ -541,6 +679,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BUOCYVcDsK4"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3TfdgBPkjjs"
+							}
 						}
 					]
 				},
@@ -583,7 +733,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_Into_Darkness"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
+						}
+					}
 				},
 				{
 					"@type": "Movie",
@@ -624,7 +786,19 @@
 							},
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_Beyond"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/v=UX3CmLy3nhs"
+						}
+					}
 				}
 			]
 		}

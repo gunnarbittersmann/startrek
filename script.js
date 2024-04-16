@@ -40,9 +40,7 @@ for (let videoDetailsElement of document.querySelectorAll('details[property="vid
 			videoDetailsElement.addEventListener('toggle', event => {
 				if (event.newState == "open") {
 					for (let sibling of document.querySelectorAll(`details[name="${name}"]`)) {
-						if (sibling != event.target) {
-							sibling.open = false;
-						}
+						sibling.open = (sibling == event.target);
 					}
 				}
 			});

@@ -169,11 +169,10 @@
 										<td property="review" typeof="Review">
 											<details lang="en" property="video" typeof="VideoObject">
 												<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-													<?php if ($movie['review']['name']): ?>
-														<span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
-													<?php elseif ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
+													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
 														<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
-															<span property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
+															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
+															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
 														</span>
 													<?php endif; ?>
 												</summary>
@@ -193,13 +192,12 @@
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
-														<details lang="en" property="video" typeof="VideoObject">
+														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
 															<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-																<?php if ($review['name']): ?>
-																	<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																<?php if ($review['creator'] && $review['creator']['name']): ?>
 																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
-																		<span property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																	</span>
 																<?php endif; ?>
 															</summary>
