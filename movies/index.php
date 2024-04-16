@@ -242,7 +242,9 @@
                 property="url"
                 href="<?= htmlSpecialChars($source['url']) ?>"
               >
-                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+								<?= htmlSpecialChars($source['publisher']) ?>
+                Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)
+							</a>
             </cite>
           <?php endforeach; ?>
         <?php elseif ($data['sameAs']): ?>
