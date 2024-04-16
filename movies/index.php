@@ -192,7 +192,7 @@
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
-														<details lang="en" property="video" typeof="VideoObject">
+														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
 															<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
 																<?php if ($review['creator'] && $review['creator']['name']): ?>
 																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
