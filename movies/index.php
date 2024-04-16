@@ -243,7 +243,7 @@
 								href="<?= htmlSpecialChars($source['url']) ?>"
 							>
 								<?= htmlSpecialChars($source['publisher']) ?>
-								Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)
+								(<?= htmlSpecialChars($source['inLanguage']) ?>)
 							</a>
 						</cite>
 					<?php endforeach; ?>
