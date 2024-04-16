@@ -18,11 +18,13 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": "Wikipedia",
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": "Wikipedia",
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
 		}
 	],
@@ -34,11 +36,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_1"
 				}
 			],
@@ -569,11 +573,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_2"
 				}
 			],
@@ -1110,11 +1116,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_3"
 				}
 			],
@@ -1632,11 +1640,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_4"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_4"
 				}
 			],
@@ -2147,6 +2157,7 @@
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
+				"publisher": "Wikipedia",
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_5"
 			},
 			"numberOfEpisodes": 10
