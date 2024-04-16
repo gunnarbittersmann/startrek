@@ -169,10 +169,7 @@
 										<td property="review" typeof="Review">
 											<details lang="en" property="video" typeof="VideoObject">
 												<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-													<?php if ($movie['review']['name']): ?>
-														<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
-														<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['name'][0]) ?></abbr>
-													<?php elseif ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
+													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
 														<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
 															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
 															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
@@ -197,10 +194,7 @@
 													<li property="review" typeof="Review">
 														<details lang="en" property="video" typeof="VideoObject">
 															<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-																<?php if ($review['name']): ?>
-																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																	<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
-																<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																<?php if ($review['creator'] && $review['creator']['name']): ?>
 																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
