@@ -18,11 +18,13 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": "Wikipedia",
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": "Wikipedia",
 			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise"
 		}
 	],
@@ -92,11 +94,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_1"
 				}
 			],
@@ -889,11 +893,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_2"
 				}
 			],
@@ -1565,11 +1571,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_3"
 				}
 			],

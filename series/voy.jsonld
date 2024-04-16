@@ -18,11 +18,13 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": "Wikipedia",
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Voyager"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": "Wikipedia",
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager"
 		}
 	],
@@ -35,6 +37,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1"
 				}
 			],
@@ -434,6 +437,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_2"
 				}
 			],
@@ -1110,6 +1114,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_3"
 				}
 			],
@@ -1781,6 +1786,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_4"
 				}
 			],
@@ -2435,6 +2441,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_5"
 				}
 			],
@@ -3009,6 +3016,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_6"
 				}
 			],
@@ -3646,6 +3654,7 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_7"
 				}
 			],

@@ -18,11 +18,13 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": "Wikipedia",
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": "Wikipedia",
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard"
 		}
 	],
@@ -35,11 +37,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_1"
 				}
 			],
@@ -568,11 +572,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_2"
 				}
 			],
@@ -1225,11 +1231,13 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": "Wikipedia",
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Picard/Staffel_3"
 				}
 			],
