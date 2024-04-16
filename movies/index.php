@@ -242,7 +242,7 @@
 								property="url"
 								href="<?= htmlSpecialChars($source['url']) ?>"
 							>
-								<?= htmlSpecialChars($source['publisher']) ?>
+								<?= htmlSpecialChars($source['publisher']['name']) ?>
 								(<?= htmlSpecialChars($source['inLanguage']) ?>)
 							</a>
 						</cite>
