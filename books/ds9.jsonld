@@ -22,6 +22,7 @@
 		"numberOfPages": 368,
 		"publisher": {
 			"@type": "Organization",
+			"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
 			"name": "Pocket Books"
 		},
 		"review": {
