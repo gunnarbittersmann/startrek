@@ -18,13 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
-			"publisher": "Wikipedia",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy"
 		}
 	],
@@ -49,13 +57,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
-					"publisher": "Wikipedia",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1"
 				}
 			],
@@ -1021,7 +1037,11 @@
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
-				"publisher": "Wikipedia",
+				"publisher": {
+					"@type": "Organization",
+					"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+					"name": "Wikipedia"
+				},
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_2"
 			},
 			"episode": [
