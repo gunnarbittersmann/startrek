@@ -2915,6 +2915,11 @@
 						"inLanguage": "de",
 						"name": "Spiegel",
 						"datePublished": "2024-04-25"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenMcGowan",
+						"name": "Jen McGowan"
 					}
 				},
 				{
@@ -2939,6 +2944,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-05-09"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonDudkowski",
+						"name": "Jon Dudkowski"
 					}
 				},
 				{
@@ -2951,6 +2961,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-05-16"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EmmanuelOseiKuffour",
+						"name": "Emmanuel Osei-Kuffour"
 					}
 				},
 				{
