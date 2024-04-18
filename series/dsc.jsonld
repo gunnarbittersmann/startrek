@@ -2902,7 +2902,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
 						"name": "Lee Rose"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/IiTRoIr67fI"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
