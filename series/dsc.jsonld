@@ -2907,6 +2907,24 @@
 						{
 							"@type": "Review",
 							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.4" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uTh_5PAdFss"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
