@@ -1067,6 +1067,19 @@
 					],
 					"abstract": {
 						"en": "A strange energy field causes the Enterprise computer to play practical jokes on the crew, but the humor soon turns to danger."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/EKo67_iLfic"
+						}
 					}
 				},
 				{
