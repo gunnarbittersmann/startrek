@@ -18,11 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
 		}
 	],
@@ -35,6 +45,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_1"
 				}
 			],
@@ -473,6 +488,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_2"
 				}
 			],
@@ -1032,6 +1052,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_3"
 				}
 			],
@@ -1647,6 +1672,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_4"
 				}
 			],
@@ -2211,6 +2241,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_5"
 				}
 			],
@@ -2809,6 +2844,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_6"
 				}
 			],
@@ -3368,6 +3408,11 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_7"
 				}
 			],

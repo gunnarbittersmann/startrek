@@ -490,7 +490,9 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($source['url']) ?>"
 							>
-								Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+								<?= htmlSpecialChars($source['publisher']['name']) ?>
+								(<?= htmlSpecialChars($source['inLanguage']) ?>)
+							</a>
 						</cite>
 					<?php endforeach; ?>
 				<?php else: ?>
@@ -504,7 +506,9 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($lastSeason['subjectOf']['url']) ?>"
 							>
-								Wikipedia (<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)</a>
+								<?= htmlSpecialChars($lastSeason['subjectOf']['publisher']['name']) ?>
+								(<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)
+							</a>
 						</cite>
 					<?php else: ?>
 						<?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
@@ -516,7 +520,9 @@ EOT;
 									property="url"
 									href="<?= htmlSpecialChars($source['url']) ?>"
 								>
-									Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+									<?= htmlSpecialChars($source['publisher']['name']) ?>
+									(<?= htmlSpecialChars($source['inLanguage']) ?>)
+								</a>
 							</cite>
 						<?php endforeach; ?>
 					<?php endif; ?>

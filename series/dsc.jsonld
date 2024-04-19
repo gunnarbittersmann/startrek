@@ -18,11 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery"
 		}
 	],
@@ -35,11 +45,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_1"
 				}
 			],
@@ -600,11 +620,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_2"
 				}
 			],
@@ -1152,11 +1182,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_3"
 				}
 			],
@@ -1834,11 +1874,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_4"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_4"
 				}
 			],
@@ -2672,11 +2722,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Discovery/Staffel_5"
 				}
 			],
@@ -2698,6 +2758,9 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
+					},
+					"description": {
+						"en": "Michael Burnham, Adira Tal, Paul Stamets, Hugh Culber and Sylvia Tilly gather to celebrate a millennium of the Federation. Stamets is upset that the Federation is shutting down the spore drive program while Burnham is still hurt by Cleveland Booker’s actions in the previous season. Saru also receives a job offer to serve as Federation ambassador but is torn by his loyalty to his fellow Discovery crew. Kovich assigns Burnham and her crew to investigate an 800-year old Romulan science vessel bordering the Beta Quadrant. Their salvage operation is complicated by the couriers L’ak and Moll, who escaped the Federation following a pursuit. With Booker’s help, Burnham is able to down the scavengers to the planet Q’mau. Meanwhile, L’ak and Moll unsuccesfully bargain for information with the android Fred, whom they destroy. Commander Rayner pursues the couriers with the USS Antares, causing an accident that triggers an avalanche. The Federation ships are able to use their shields to protect the nearby city from the avalanche but the couriers escape. Later, Kovich grants Burnham to classified information from a journal recovered from a team of scientists aboard the Romulan vessel who were researching the Progenitors. The Romulan scientist Vellek had discovered a message from the Progenitor aliens, who had seeded the galaxy with life."
 					},
 					"review": [
 						{
@@ -2744,6 +2807,9 @@
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Douglas Aarniokoski"
 					},
+					"description": {
+						"en": "Following the events on Q’mau, Commander Rayner defends his conduct during a hearing with President Laira Rillak. Fleet Admiral Vance assigns Booker to help Captain Burnham and the crew of the Discovery track down L’ak and Moll. Consulting Dr Vellek’s journal, they travel to the Promellian burial planet of Lyrek, where they believe the Progenitor technology or a clue to it is hidden. Burnham and Saru beam down to Lyrek but are attacked by drones. With the Discovery unable to beam the two back up, Saru uses an electromagnetic pulse to disable Lyrek’s automated defense system. Posing as a courier, Booker contacts L’ak and Moll in an attempt to track them down. Examining clues in the ruins of Lyrek, Burnham and Saru determine that the couriers have misinterpreted the clues and are incorrectly on their way to Betazed. After examining security footage, Booker learns that Moll is Malline, the daughter of his mentor Cleveland Booker IV. Returning to Federation headquarters, Burnham enlists Rayner in their search for the Progenitors’ technology."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -2789,6 +2855,9 @@
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
 						"name": "Andi Armaganian"
 					},
+					"description": {
+						"en": "Together with First Officer Rayner, the Discovery continues their search for clues to the Progenitors’ message. After learning that one of the scientists Jinaal Brix was a host for a Trill symbiont, Burnham and her team travel to the Trill homeworld. To assist with the search, the Trill allow Jinaal’s consciousness to transfer temporarily to Dr Culbert’s body. Burnham and Booker accompany Jinaal into the wilderness to search for the next clue. The group are attacked by several cloaked insect-like creatures. After discovering the creatures were defending their nest, Booker uses his telepathic powers to convince them they mean no harm. Jinaal is convinced the Federation can be trusted with the secrets of the Progenitors’ message and gives them the next clue. However, the group are tailed by Malline, who has infiltrated the Trill. Meanwhile, Rayner meets the crew of the Discovery including Stamets and Tilly. Saru also juggles his new diplomatic job and his engagement with the Ni’var President T’Rina."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -2833,7 +2902,42 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
 						"name": "Lee Rose"
-					}
+					},
+					"description": {
+						"en": "In order to stall Discovery, L’ak and Moll infect the ship with a time bug, a weapon left over from the Temporal Wars that paralyzes Discovery by trapping it in a time cycle. As they were in the middle of beaming to the bridge after an argument about Rayner’s approach to command, both Burnham and Rayner are unaffected, as is Stamets due to his tardigrade DNA. The three jump through various periods of the ship’s history, including when it was under construction, fighting Control, traveling through the wormhole to the future, and being hijacked by Osyraa. One jump takes Burnham and Rayner nearly 30 years into the future where they discover that the cost of failure is L’ak and Moll finding the technology and selling it to the Breen who use it to devastate the Federation. Using her personal knowledge of them, Burnham enlists the crew of a version of Discovery from a few weeks after she had first boarded the ship to help successfully break the cycle. Rayner gets a new perspective on things and adopts a less gruff demeanor. However, the delay has allowed L’ak and Moll to get ahead of them in the search for the next clue."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#5.4" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uTh_5PAdFss"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/IiTRoIr67fI"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2846,6 +2950,11 @@
 						"inLanguage": "de",
 						"name": "Spiegel",
 						"datePublished": "2024-04-25"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenMcGowan",
+						"name": "Jen McGowan"
 					}
 				},
 				{
@@ -2870,6 +2979,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-05-09"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonDudkowski",
+						"name": "Jon Dudkowski"
 					}
 				},
 				{
@@ -2882,6 +2996,11 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-05-16"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EmmanuelOseiKuffour",
+						"name": "Emmanuel Osei-Kuffour"
 					}
 				},
 				{
