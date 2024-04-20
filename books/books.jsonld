@@ -12,6 +12,7 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/tos",
 				"name": "Star Trek: The Original Series",
 				"identifier": "TOS",
 				"url": "https://bittersmann.de/startrek/series/tos"
@@ -28,6 +29,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos",
 						"name": "Star Trek: The Original Series",
 						"identifier": "TOS",
 						"url": "https://bittersmann.de/startrek/series/tos"
@@ -64,6 +66,7 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/ds9",
 				"name": "Star Trek: Deep Space Nine",
 				"identifier": "DS9",
 				"url": "https://bittersmann.de/startrek/series/ds9"
@@ -80,6 +83,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/ds9",
 						"name": "Star Trek: Deep Space Nine",
 						"identifier": "DS9",
 						"url": "https://bittersmann.de/startrek/series/ds9"
@@ -116,6 +120,7 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/dsc",
 				"name": "Star Trek: Discovery",
 				"identifier": "DSC",
 				"url": "https://bittersmann.de/startrek/series/dsc"
@@ -132,6 +137,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/dsc",
 						"name": "Star Trek: Discovery",
 						"identifier": "DSC",
 						"url": "https://bittersmann.de/startrek/series/dsc"
@@ -173,6 +179,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/dsc",
 						"name": "Star Trek: Discovery",
 						"identifier": "DSC",
 						"url": "https://bittersmann.de/startrek/series/dsc"
@@ -209,6 +216,7 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/pic",
 				"name": "Star Trek: Picard",
 				"identifier": "PIC",
 				"url": "https://bittersmann.de/startrek/series/pic"
@@ -225,6 +233,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic",
 						"name": "Star Trek: Picard",
 						"identifier": "PIC",
 						"url": "https://bittersmann.de/startrek/series/pic"
@@ -254,6 +263,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic",
 						"name": "Star Trek: Picard",
 						"identifier": "PIC",
 						"url": "https://bittersmann.de/startrek/series/pic"
