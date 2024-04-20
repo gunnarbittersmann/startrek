@@ -1,6 +1,10 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/"
+		"@vocab": "https://schema.org/",
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
 	},
 	"@type": "BookSeries",
 	"hasPart": [
@@ -29,7 +33,9 @@
 						"url": "https://bittersmann.de/startrek/series/tos"
 					},
 					"datePublished": "2020-06-09",
-					"description": "For years, Starfleet Intelligence agents have carried out undercover assignments deep within the Klingon Empire. Surgically altered and rigorously trained in Klingon culture, they operate in plain sight and without any direct support, while collecting information and infiltrating the highest levels of imperial power. Their actions have given Starfleet valuable insight into the inner workings of Klingon government and its relentless military apparatus. After three of Starfleet’s longest serving agents fear exposure, they initiate emergency extraction procedures. Their planned rendezvous with the USS Endeavour goes awry, threatening to reveal their activities and the damaging intelligence they’ve collected during their mission. Tasked by Starfleet to salvage the botched rescue attempt, Captain James T. Kirk and the crew of the USS Enterprise must discover the truth behind a secret weapons experiment while avoiding an interstellar incident with the potential to ignite a new war between the Federation and one of its oldest adversaries.",
+					"description": {
+						"en": "For years, Starfleet Intelligence agents have carried out undercover assignments deep within the Klingon Empire. Surgically altered and rigorously trained in Klingon culture, they operate in plain sight and without any direct support, while collecting information and infiltrating the highest levels of imperial power. Their actions have given Starfleet valuable insight into the inner workings of Klingon government and its relentless military apparatus. After three of Starfleet’s longest serving agents fear exposure, they initiate emergency extraction procedures. Their planned rendezvous with the USS Endeavour goes awry, threatening to reveal their activities and the damaging intelligence they’ve collected during their mission. Tasked by Starfleet to salvage the botched rescue attempt, Captain James T. Kirk and the crew of the USS Enterprise must discover the truth behind a secret weapons experiment while avoiding an interstellar incident with the potential to ignite a new war between the Federation and one of its oldest adversaries."
+					},
 					"url": "https://www.simonandschuster.com/books/Agents-of-Influence/Dayton-Ward/Star-Trek-The-Original-Series/9781982133689",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982133689/agents-of-influence-9781982133689_lg.jpg",
 					"isbn": "9781982133689",
@@ -79,7 +85,9 @@
 						"url": "https://bittersmann.de/startrek/series/ds9"
 					},
 					"datePublished": "2017-06-27",
-					"description": "Elim Garak has ascended to Castellan of the Cardassian Union...but despite his soaring popularity, the imminent publication of a report exposing his people's war crimes during the occupation on Bajor looks likely to set the military against him. Into this tense situation come Dr. Katherine Pulaski—visiting Cardassia Prime to accept an award on behalf of the team that solved the Andorian genetic crisis—and Dr. Peter Alden, formerly of Starfleet Intelligence. The two soon find themselves at odds with Garak and embroiled in the politics of the prestigious University of the Union, where a new head is about to be appointed. Among the front-runners is one of Cardassia’s most respected public figures: Professor Natima Lang. But the discovery of a hidden archive from the last years before the Dominion War could destroy Lang’s reputation. As Pulaski and Alden become drawn into a deadly game to exonerate Lang, their confrontation escalates with Castellan Garak—a conflicted leader treading a fine line between the bright hopes for Cardassia’s future and the dark secrets still buried in its past...",
+					"description": {
+						"en": "Elim Garak has ascended to Castellan of the Cardassian Union...but despite his soaring popularity, the imminent publication of a report exposing his people's war crimes during the occupation on Bajor looks likely to set the military against him. Into this tense situation come Dr. Katherine Pulaski—visiting Cardassia Prime to accept an award on behalf of the team that solved the Andorian genetic crisis—and Dr. Peter Alden, formerly of Starfleet Intelligence. The two soon find themselves at odds with Garak and embroiled in the politics of the prestigious University of the Union, where a new head is about to be appointed. Among the front-runners is one of Cardassia’s most respected public figures: Professor Natima Lang. But the discovery of a hidden archive from the last years before the Dominion War could destroy Lang’s reputation. As Pulaski and Alden become drawn into a deadly game to exonerate Lang, their confrontation escalates with Castellan Garak—a conflicted leader treading a fine line between the bright hopes for Cardassia’s future and the dark secrets still buried in its past..."
+					},
 					"url": "https://www.simonandschuster.com/books/Enigma-Tales/Una-McCormack/Star-Trek-Deep-Space-Nine/9781501152580",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501152580/enigma-tales-9781501152580_lg.jpg",
 					"isbn": "9781501152580",
@@ -129,7 +137,9 @@
 						"url": "https://bittersmann.de/startrek/series/dsc"
 					},
 					"datePublished": "2021-05-18",
-					"description": "In a desperate attempt to prevent the artificial intelligence known as Control from seizing crucial information that could destroy all sentient life, Commander Michael Burnham donned the “Red Angel” time-travel suit and guided the USS Discovery into the future and out of harm’s way. But something has gone terribly wrong, and Burnham has somehow arrived in a place far different from anything she could have imagined—more than nine hundred years out of her time, with Discovery nowhere to be found, and where the mysterious and cataclysmic event known as “the Burn” has utterly decimated Starfleet and, with it, the United Federation of Planets. How then can she possibly exist day-to-day in this strange place? What worlds are out there waiting to be discovered? Do any remnants of Starfleet and the Federation possibly endure? With more questions than answers, Burnham must nevertheless forge new friendships and new alliances if she hopes to survive this future long enough for the Discovery crew to find her....",
+					"description": {
+						"en": "In a desperate attempt to prevent the artificial intelligence known as Control from seizing crucial information that could destroy all sentient life, Commander Michael Burnham donned the “Red Angel” time-travel suit and guided the USS Discovery into the future and out of harm’s way. But something has gone terribly wrong, and Burnham has somehow arrived in a place far different from anything she could have imagined—more than nine hundred years out of her time, with Discovery nowhere to be found, and where the mysterious and cataclysmic event known as “the Burn” has utterly decimated Starfleet and, with it, the United Federation of Planets. How then can she possibly exist day-to-day in this strange place? What worlds are out there waiting to be discovered? Do any remnants of Starfleet and the Federation possibly endure? With more questions than answers, Burnham must nevertheless forge new friendships and new alliances if she hopes to survive this future long enough for the Discovery crew to find her...."
+					},
 					"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Wonderlands/Una-McCormack/Star-Trek-Discovery/9781982157548",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982157548/star-trek-discovery-wonderlands-9781982157548_lg.jpg",
 					"isbn": "9781982157548",
@@ -168,7 +178,9 @@
 						"url": "https://bittersmann.de/startrek/series/dsc"
 					},
 					"datePublished": "2023-05-30",
-					"description": "Captain Michael Burnham and the crew of the USS Discovery are finding that each day is a critical adjustment to their new lives and new missions in an Alpha Quadrant more than nine hundred years in the future. It’s here that Discovery is reconnecting with various worlds where the cataclysmic event known as “the Burn” has decimated Starfleet and, with it, the United Federation of Planets. There’s been precious little time for the crew to truly come to terms with their present reality, as their devotion to duty hides the emotional stress that could impact their effectiveness, and even threaten themselves or others. After a successful journey to yet another planet cut off from the Federation, Discovery picks up a distress signal located in a nearby star system—a plea that harbors roots from their past lives in the 23rd century, and which may now lead to an entirely new crisis, plunging them all into mortal danger…",
+					"description": {
+						"en": "Captain Michael Burnham and the crew of the USS Discovery are finding that each day is a critical adjustment to their new lives and new missions in an Alpha Quadrant more than nine hundred years in the future. It’s here that Discovery is reconnecting with various worlds where the cataclysmic event known as “the Burn” has decimated Starfleet and, with it, the United Federation of Planets. There’s been precious little time for the crew to truly come to terms with their present reality, as their devotion to duty hides the emotional stress that could impact their effectiveness, and even threaten themselves or others. After a successful journey to yet another planet cut off from the Federation, Discovery picks up a distress signal located in a nearby star system—a plea that harbors roots from their past lives in the 23rd century, and which may now lead to an entirely new crisis, plunging them all into mortal danger…"
+					},
 					"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Somewhere-to-Belong/Dayton-Ward/Star-Trek-Discovery/9781668002292",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668002292/star-trek-discovery-somewhere-to-belong-9781668002292_lg.jpg",
 					"isbn": "9781668002292",
@@ -218,7 +230,9 @@
 						"url": "https://bittersmann.de/startrek/series/pic"
 					},
 					"datePublished": "2023-09-19",
-					"description": "Following the explosive events seen in season one of Star Trek: Picard, Raffi Musiker finds herself torn between returning to her old life as a Starfleet Intelligence officer or something a little more tame—teaching at the Academy, perhaps. The decision is made for her though when a message from an old contact—a Romulan spy—is received, asking for immediate aid. With the help of Elnor and assistance from Jean-Luc Picard, Raffi decides to take on this critical mission—and quickly learns that past sins never stay buried. Finding the truth will be complicated, and deadly…",
+					"description": {
+						"en": "Following the explosive events seen in season one of Star Trek: Picard, Raffi Musiker finds herself torn between returning to her old life as a Starfleet Intelligence officer or something a little more tame—teaching at the Academy, perhaps. The decision is made for her though when a message from an old contact—a Romulan spy—is received, asking for immediate aid. With the help of Elnor and assistance from Jean-Luc Picard, Raffi decides to take on this critical mission—and quickly learns that past sins never stay buried. Finding the truth will be complicated, and deadly…"
+					},
 					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Second-Self/Una-McCormack/Star-Trek-Picard/9781982194833",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982194833/star-trek-picard-second-self-9781982194833_lg.jpg",
 					"isbn": "9781982194833",
@@ -245,7 +259,9 @@
 						"url": "https://bittersmann.de/startrek/series/pic"
 					},
 					"datePublished": "2024-02-27",
-					"description": "Two years after the USS Voyager’s return from the Delta Quadrant, Seven of Nine finds herself rejected for a position in Starfleet…and instead finds a new home with the interstellar rogue law enforcement corps known as the Fenris Rangers. The Rangers seem like an ideal fit for Seven—but to embrace this new destiny, she must leave behind all she’s ever known, and risk losing the most important thing in her life: her friendship with Admiral Kathryn Janeway.",
+					"description": {
+						"en": "Two years after the USS Voyager’s return from the Delta Quadrant, Seven of Nine finds herself rejected for a position in Starfleet…and instead finds a new home with the interstellar rogue law enforcement corps known as the Fenris Rangers. The Rangers seem like an ideal fit for Seven—but to embrace this new destiny, she must leave behind all she’s ever known, and risk losing the most important thing in her life: her friendship with Admiral Kathryn Janeway."
+					},
 					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Firewall/David-Mack/Star-Trek-Picard/9781668046357",
 					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668046357/star-trek-picard-firewall-9781668046357_lg.jpg",
 					"isbn": "9781668046357",
