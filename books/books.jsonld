@@ -31,10 +31,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/tos",
-						"name": "Star Trek: The Original Series",
-						"identifier": "TOS",
-						"url": "https://bittersmann.de/startrek/series/tos"
+						"@id": "https://bittersmann.de/startrek/series/tos"
 					},
 					"datePublished": "2020-06-09",
 					"description": {
@@ -87,10 +84,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/ds9",
-						"name": "Star Trek: Deep Space Nine",
-						"identifier": "DS9",
-						"url": "https://bittersmann.de/startrek/series/ds9"
+						"@id": "https://bittersmann.de/startrek/series/ds9"
 					},
 					"datePublished": "2017-06-27",
 					"description": {
@@ -143,10 +137,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/dsc",
-						"name": "Star Trek: Discovery",
-						"identifier": "DSC",
-						"url": "https://bittersmann.de/startrek/series/dsc"
+						"@id": "https://bittersmann.de/startrek/series/dsc"
 					},
 					"datePublished": "2021-05-18",
 					"description": {
@@ -187,10 +178,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/dsc",
-						"name": "Star Trek: Discovery",
-						"identifier": "DSC",
-						"url": "https://bittersmann.de/startrek/series/dsc"
+						"@id": "https://bittersmann.de/startrek/series/dsc"
 					},
 					"datePublished": "2023-05-30",
 					"description": {
@@ -243,10 +231,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/pic",
-						"name": "Star Trek: Picard",
-						"identifier": "PIC",
-						"url": "https://bittersmann.de/startrek/series/pic"
+						"@id": "https://bittersmann.de/startrek/series/pic"
 					},
 					"datePublished": "2023-09-19",
 					"description": {
@@ -275,10 +260,7 @@
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
-						"@id": "https://bittersmann.de/startrek/series/pic",
-						"name": "Star Trek: Picard",
-						"identifier": "PIC",
-						"url": "https://bittersmann.de/startrek/series/pic"
+						"@id": "https://bittersmann.de/startrek/series/pic"
 					},
 					"datePublished": "2024-02-27",
 					"description": {
