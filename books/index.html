@@ -36,9 +36,9 @@ fetch(`books.jsonld`)
 		bookSeries.hasPart.forEach((book) => {
 			tBodyElement.insertAdjacentHTML('beforeend', `
 				<tr property="hasPart" typeof="${book['@type']}">
-					<td property="isBasedOn" typeof="${book.isBasedOn?.['@type'] ?? ''}">
-						<abbr aria-hidden="true">${book.isBasedOn?.identifier ?? ''}</abbr>
-						<span property="name" class="visually-hidden">${book.isBasedOn?.name ?? ''}</span>
+					<td property="isBasedOn" typeof="${bookSeries.isBasedOn?.['@type'] ?? ''}">
+						<abbr aria-hidden="true">${bookSeries.isBasedOn?.identifier ?? ''}</abbr>
+						<span property="name" class="visually-hidden">${bookSeries.isBasedOn?.name ?? ''}</span>
 					</td>
 					<td property="name">${book.name ?? ''}</td>
 					<td property="creator" typeof="${book.creator?.['@type'] ?? ''}"><span property="name">${book.creator?.name ?? ''}</span></td>
