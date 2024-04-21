@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Books</title>
+		<link rel="icon" href="../starfleet.svg"/>
+		<link rel="mask-icon" href="../starfleet.svg"/>
+		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
+		<link rel="stylesheet" href="../style.css"/>
+	</head>
+	<body>
+		<main>
+			<h1>Books</h1>
+			<table>
+				<thead>
+					<tr>
+						<th>series</th>
+						<th>title</th>
+						<th>author</th>
+						<th>published</th>
+						<th>plot</th>
+						<th>reviews</th>
+					</tr>
+				</thead>
+				<tbody></tbody>
+			</main>
+			<script>
+const tableElement = document.querySelector('table');
+const tBodyElement = tableElement.tBodies[0];
+
+fetch(`books.jsonld`)
+.then(response => response.json())
+.then(data => {
+	data.hasPart.forEach((bookSeries) => {
+		bookSeries.hasPart.forEach((book) => {
+			tBodyElement.insertAdjacentHTML('beforeend', `
+				<tr>
+					<td>${book.isBasedOn?.identifier ?? ''}</td>
+					<td>${book.name ?? ''}</td>
+					<td>${book.creator?.name ?? ''}</td>
+					<td>${book.datePublished ?? ''}</td>
+					<td></td>
+					<td></td>
+				</tr>
+			`);
+		});
+	});
+});
+			</script>
+	</body>
+</html>
