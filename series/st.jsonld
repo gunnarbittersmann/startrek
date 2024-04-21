@@ -18,19 +18,40 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Short_Treks"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#JessieGender",
+			"name": "Jessie Gender"
+		},
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/mQDLoq7QRt8"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
-			"@id": "https://bittersmann.de/startrek/series/st#1",
 			"seasonNumber": 1,
 			"review": {
 				"@type": "Review",
@@ -149,24 +170,7 @@
 		},
 		{
 			"@type": "TVSeason",
-			"@id": "https://bittersmann.de/startrek/series/st#2",
 			"seasonNumber": 2,
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#JessieGender",
-					"name": "Jessie Gender"
-				},
-				"itemReviewed": [
-					{ "@id": "https://bittersmann.de/startrek/series/st#1" },
-					{ "@id": "https://bittersmann.de/startrek/series/st#2" }
-				],
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/mQDLoq7QRt8"
-				}
-			},
 			"numberOfEpisodes": 6,
 			"episode": [
 				{

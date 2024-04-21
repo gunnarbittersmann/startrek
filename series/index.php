@@ -272,10 +272,7 @@ EOT;
 												<td property="review" typeof="Review">
 													<details lang="en" property="video" typeof="VideoObject">
 														<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-															<?php if ($episode['review']['name']): ?>
-																<span class="visually-hidden" property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
-																<abbr aria-hidden="true"><?= htmlSpecialChars($episode['review']['name'][0]) ?></abbr>
-															<?php elseif ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
+															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
 																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
 																	<abbr aria-hidden="true"><?= htmlSpecialChars($episode['review']['creator']['name'][0]) ?></abbr>
@@ -304,10 +301,7 @@ EOT;
 															<li property="review" typeof="Review">
 																<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($episode['@identifier']) ?>">
 																	<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
-																		<?php if ($review['name']): ?>
-																			<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																			<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
-																		<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																		<?php if ($review['creator'] && $review['creator']['name']): ?>
 																			<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																				<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																				<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
@@ -347,10 +341,7 @@ EOT;
 											<td property="review" typeof="Review">
 												<details lang="en" property="video" typeof="VideoObject">
 													<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
-														<?php if ($season['review']['name']): ?>
-															<span class="visually-hidden" property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
-															<abbr aria-hidden="true"><?= htmlSpecialChars($season['review']['name'][0]) ?></abbr>
-														<?php elseif ($season['review']['creator'] && $season['review']['creator']['name']): ?>
+														<?php if ($season['review']['creator'] && $season['review']['creator']['name']): ?>
 															<span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
 																<span class="visually-hidden" property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
 																<abbr aria-hidden="true"><?= htmlSpecialChars($season['review']['creator']['name'][0]) ?></abbr>
@@ -376,10 +367,7 @@ EOT;
 														<li property="review" typeof="Review">
 															<details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>">
 																<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
-																	<?php if ($review['name']): ?>
-																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
-																	<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																	<?php if ($review['creator'] && $review['creator']['name']): ?>
 																		<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																			<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																			<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
@@ -407,6 +395,74 @@ EOT;
 							</tbody>
 						<?php endif; ?>
 					<?php endforeach; ?>
+					<?php if ($data['review']): ?>
+						<tfoot>
+							<tr>
+								<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
+									<span class="visually-hidden">series <?= htmlSpecialChars($data['name']) ?></span>
+								</th>
+								<?php if ($data['review']['video']): ?>
+									<td property="review" typeof="Review">
+										<details lang="en" property="video" typeof="VideoObject">
+											<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
+												<?php if ($data['review']['name']): ?>
+													<span class="visually-hidden" property="name"><?= htmlSpecialChars($data['review']['name']) ?></span>
+													<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['name'][0]) ?></abbr>
+												<?php elseif ($data['review']['creator'] && $data['review']['creator']['name']): ?>
+													<span property="creator" typeof="<?= htmlSpecialChars($data['review']['creator']['@type']) ?>">
+														<span class="visually-hidden" property="name"><?= htmlSpecialChars($data['review']['creator']['name']) ?></span>
+														<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['creator']['name'][0]) ?></abbr>
+													</span>
+												<?php endif; ?>
+											</summary>
+											<meta
+												property="embedUrl"
+												content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
+											/>
+											<iframe
+												allowfullscreen=""
+												aria-label="<?= htmlSpecialChars($data['review']['name']) ?>"
+												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
+											>
+											</iframe>
+										</details>
+									</td>
+								<?php else: ?>
+									<td>
+										<ul>
+											<?php foreach ($data['review'] as $review): ?>
+												<li property="review" typeof="Review">
+													<details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($data['name']) ?>">
+														<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
+															<?php if ($review['name']): ?>
+																<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
+															<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+																<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																</span>
+															<?php endif; ?>
+														</summary>
+														<meta
+															property="embedUrl"
+															content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+														/>
+														<iframe
+															allowfullscreen=""
+															aria-label="<?= htmlSpecialChars($review['name']) ?>"
+															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
+														>
+														</iframe>
+													</details>
+												</li>
+											<?php endforeach; ?>
+										</ul>
+									</td>
+								<?php endif; ?>
+							</tr>
+						</tfoot>
+					<?php endif; ?>
 				</table>
 			</main>
 			<footer>
@@ -424,7 +480,9 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($source['url']) ?>"
 							>
-								Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+								<?= htmlSpecialChars($source['publisher']['name']) ?>
+								(<?= htmlSpecialChars($source['inLanguage']) ?>)
+							</a>
 						</cite>
 					<?php endforeach; ?>
 				<?php else: ?>
@@ -438,7 +496,9 @@ EOT;
 								property="url"
 								href="<?= htmlSpecialChars($lastSeason['subjectOf']['url']) ?>"
 							>
-								Wikipedia (<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)</a>
+								<?= htmlSpecialChars($lastSeason['subjectOf']['publisher']['name']) ?>
+								(<?= htmlSpecialChars($lastSeason['subjectOf']['inLanguage']) ?>)
+							</a>
 						</cite>
 					<?php else: ?>
 						<?php foreach ($lastSeason['subjectOf'] as $index => $source): ?>
@@ -450,7 +510,9 @@ EOT;
 									property="url"
 									href="<?= htmlSpecialChars($source['url']) ?>"
 								>
-									Wikipedia (<?= htmlSpecialChars($source['inLanguage']) ?>)</a>
+									<?= htmlSpecialChars($source['publisher']['name']) ?>
+									(<?= htmlSpecialChars($source['inLanguage']) ?>)
+								</a>
 							</cite>
 						<?php endforeach; ?>
 					<?php endif; ?>

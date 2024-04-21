@@ -18,11 +18,21 @@
 		{
 			"@type": "Webpage",
 			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
 		},
 		{
 			"@type": "Webpage",
 			"inLanguage": "de",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Enterprise"
 		}
 	],
@@ -35,11 +45,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_1"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_1"
 				}
 			],
@@ -67,6 +87,7 @@
 					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -205,6 +226,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -385,6 +407,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -615,11 +638,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_2"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_2"
 				}
 			],
@@ -727,6 +760,19 @@
 					},
 					"description": {
 						"de": "Nach einem Aufenthalt Archers und seines Hundes Porthos auf dem Planeten der Kretasaner verlangen letztere eine Entschuldigung Archers für einen von Porthos begangenen Verstoß gegen kretasanische Sitten. Solange Archer sich nicht entschuldigt hat, verweigern sie der Enterprise die Herausgabe eines dringend benötigten Plasmainjektors. Da sich Porthos dabei außerdem mit einem fremden Erreger infiziert hat, befindet er sich in der Behandlung von Phlox. Seinem Hund treu, übernachtet Archer mit auf der Krankenstation, wird dabei aber durch Phlox beim Schlafen gestört. Während Phlox den Hund mit einer noch nicht erprobten Transplantation zu heilen versucht, spricht er mit Archer über seine Familie und über dessen persönliche Beziehung zu T’Pol. Schließlich gelingt es Archer, die Kretasaner mit der Durchführung eines ihrer traditionellen Riten zufriedenzustellen, sodass diese den Injektor herausgeben. Phlox’ Behandlung von Porthos stellt sich als erfolgreich heraus."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Worst Episodes Ever",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-kNjDYSZshs"
+						}
 					}
 				},
 				{
@@ -1108,6 +1154,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1192,11 +1239,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_3"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_3"
 				}
 			],
@@ -1433,6 +1490,7 @@
 					},
 					"review":	{
 						"@type": "Review",
+						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1726,11 +1784,21 @@
 				{
 					"@type": "Webpage",
 					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_4"
 				},
 				{
 					"@type": "Webpage",
 					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_4"
 				}
 			],

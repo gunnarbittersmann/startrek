@@ -49,8 +49,8 @@
       }
       
       #presentation-list img {
-        width: auto;
-        height: 8em;
+        width: 12em;
+        height: auto;
       }
     </style>
   </head>
@@ -120,7 +120,7 @@
           <ol id="presentation-list">
             <?php foreach ($presentations as $presentation): ?>
               <li>
-                <a href="<?= htmlSpecialChars($presentation['sameAs']) ?>">
+                <a href="<?= htmlSpecialChars($presentation['url']) ?>">
                   <img
                     src="<?= htmlSpecialChars($presentation['image']) ?>"
                     alt="<?= htmlSpecialChars($presentation['name']) ?>"
