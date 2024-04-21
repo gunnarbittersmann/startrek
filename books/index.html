@@ -40,7 +40,14 @@ fetch(`books.jsonld`)
 					<td>${book.name ?? ''}</td>
 					<td>${book.creator?.name ?? ''}</td>
 					<td>${book.datePublished ?? ''}</td>
-					<td></td>
+					<td>
+						${book.description.en ? `
+							<details>
+								<summary>plot</summary>
+								<p>${book.description.en}</p>
+							</details>
+						` : ''}
+					</td>
 					<td></td>
 				</tr>
 			`);
