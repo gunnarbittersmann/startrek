@@ -217,12 +217,14 @@ td:empty {
 	padding: 0 !important;
 }
 
-[property="episodeNumber"] {
+[property="episodeNumber"],
+[property="isBasedOn"] {
 	width: 2em;
 }
 
 td[property="name"],
 td[property="workTranslation"],
+td[property="creator"],
 td[property="director"],
 td[property="review"],
 td:has([property="video"]) {
