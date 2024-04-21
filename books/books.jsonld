@@ -25,7 +25,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
-						"name": "Dayton Ward"
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
@@ -79,7 +81,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
-						"name": "Una McCormack"
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
@@ -133,7 +137,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
-						"name": "Una McCormack"
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
@@ -175,7 +181,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
-						"name": "Dayton Ward"
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
@@ -229,7 +237,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
-						"name": "Una McCormack"
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
@@ -259,7 +269,9 @@
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidMack",
-						"name": "David Mack"
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
 					},
 					"isBasedOn": {
 						"@type": "TVSeries",
