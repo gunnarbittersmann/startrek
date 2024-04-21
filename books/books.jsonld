@@ -15,6 +15,7 @@
 				"@id": "https://bittersmann.de/startrek/series/tos",
 				"name": "Star Trek: The Original Series",
 				"identifier": "TOS",
+				"startDate": "1966-09-08",
 				"url": "https://bittersmann.de/startrek/series/tos"
 			},
 			"hasPart": [
@@ -68,6 +69,7 @@
 				"@id": "https://bittersmann.de/startrek/series/ds9",
 				"name": "Star Trek: Deep Space Nine",
 				"identifier": "DS9",
+				"startDate": "1993-01-03",
 				"url": "https://bittersmann.de/startrek/series/ds9"
 			},
 			"hasPart": [
@@ -121,6 +123,7 @@
 				"@id": "https://bittersmann.de/startrek/series/dsc",
 				"name": "Star Trek: Discovery",
 				"identifier": "DSC",
+				"startDate": "2017-09-24",
 				"url": "https://bittersmann.de/startrek/series/dsc"
 			},
 			"hasPart": [
@@ -215,6 +218,7 @@
 				"@id": "https://bittersmann.de/startrek/series/pic",
 				"name": "Star Trek: Picard",
 				"identifier": "PIC",
+				"startDate": "2020-01-23",
 				"url": "https://bittersmann.de/startrek/series/pic"
 			},
 			"hasPart": [
