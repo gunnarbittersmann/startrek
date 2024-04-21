@@ -88,6 +88,7 @@
           </ol>
         </li>
         <li><a href="movies">Movies</a></li>
+        <li><a href="books">Books</a></li>
         <li><a href="timelines">Timelines</a></li>
         <li>
           <a>Music</a>
