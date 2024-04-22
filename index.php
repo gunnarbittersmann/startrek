@@ -92,6 +92,9 @@
         <li>
           <a>Music</a>
           <ul>
+						<li>
+							<a href="music/dsc-ost">Discovery OST</a>
+						</li>
             <li>
               <a href="music/subspace-rhapsody">Subspace Rhapsody</a>
             </li>
