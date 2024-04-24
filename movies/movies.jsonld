@@ -801,6 +801,33 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "MovieSeries",
+			"name": "Television films",
+			"hasPart": [
+				{
+					"@type": "Movie",
+					"name": "Star Trek: Section 31",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
+						"name": "Olatunde Osunsanmi"
+					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Star_Trek:_Section_31"
+						}
+					]
+				}
+			]
 		}
 	]
 }
