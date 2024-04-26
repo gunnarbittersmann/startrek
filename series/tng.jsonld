@@ -357,6 +357,19 @@
 					},
 					"description": {
 						"de": "Um sich vom Stress der Kommunikationsversuche mit den insektoiden Jarada zu erholen, gönnt sich Picard, begleitet von Data, Dr. Crusher und einem Historiker eine Auszeit im Holodeck. Während sie sich dort im Amerika der 1940er Jahre an detektivischer Arbeit versuchen, wird die Enterprise durch die Jarada gescannt, wobei die Holodeck-Besucher auf selbigem eingeschlossen werden. Wesley Crusher und LaForge arbeiten fieberhaft an deren Befreiung."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/8xfF4ukmAM4"
+						}
 					}
 				},
 				{
