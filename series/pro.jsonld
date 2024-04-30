@@ -40,19 +40,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#JessieGender",
-					"name": "Jessie Gender"
-				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
-				}
-			},
-			"numberOfEpisodes": 20,
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -75,6 +62,19 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#JessieGender",
+					"name": "Jessie Gender"
+				},
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
+				}
+			},
+			"numberOfEpisodes": 20,
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1033,7 +1033,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 2,
-			"numberOfEpisodes": 20,
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
@@ -1044,6 +1043,7 @@
 				},
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_2"
 			},
+			"numberOfEpisodes": 20,
 			"episode": [
 				{
 					"@type": "TVEpisode",
