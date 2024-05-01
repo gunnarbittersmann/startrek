@@ -71,12 +71,27 @@ fetch(`books.jsonld`)
 							</details>
 						` : ''}
 					</td>
-					<td></td>
+					${book.review?.video ? `
+						<td property="review" typeof="Review">
+							<details lang="en" property="video" typeof="VideoObject">
+								<summary>J</summary>
+								<meta
+									property="embedUrl"
+									content="${book.review.video.embedUrl}"
+								/>
+								<iframe
+									allowfullscreen=""
+									aria-label="${book.review.name}"
+								></iframe>
+							</details>
+						</td>
+					` : '<td></td>'}
 				</tr>
 			`);
 		});
 	});
 });
 			</script>
+			<script src="../script.js"></script>
 	</body>
 </html>
