@@ -3009,7 +3009,13 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
+						"name": "Die Pfeifsprache",
 						"datePublished": "2024-05-02"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
+						"name": "Chris Byrne"
 					}
 				},
 				{
