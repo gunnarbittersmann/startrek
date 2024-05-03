@@ -781,6 +781,19 @@
 					},
 					"description": {
 						"de": "Data und LaForge versuchen sich im Rahmen eines Holodeck-Programms in den Rollen von Sherlock Holmes und Dr. Watson an Detektivarbeit. Als die holografische Figur Professor Moriarty aufgrund eines falschen Befehls von LaForge das Kommando über die Enterprise zu übernehmen beginnt, schafft es Picard schließlich, Moriarty davon zu überzeugen, seinen Plan abzubrechen und muss ihm dabei zusichern, dass er im Holodeck gespeichert wird."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/2KF-O9Ph8-c"
+						}
 					}
 				},
 				{
