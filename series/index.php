@@ -283,9 +283,6 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<figure>
-															<?php if ($episode['review']['name'] && $episode['review']['creator'] && $episode['review']['creator']['name'] == 'Steve Shives'): ?>
-																<figcaption><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
-															<?php endif; ?>
 															<meta
 																property="embedUrl"
 																content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
@@ -296,6 +293,9 @@ EOT;
 																aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 															>
 															</iframe>
+															<?php if ($episode['review']['name'] && $episode['review']['creator'] && $episode['review']['creator']['name'] == 'Steve Shives'): ?>
+																<figcaption><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
+															<?php endif; ?>
 														</figure>
 													</details>
 												</td>
@@ -317,9 +317,6 @@ EOT;
 																		<?php endif; ?>
 																	</summary>
 																	<figure>
-																		<?php if ($review['name'] && $review['creator'] && $review['creator']['name'] == 'Steve Shives'): ?>
-																			<figcaption><?= htmlSpecialChars($review['name']) ?></figcaption>
-																		<?php endif; ?>
 																		<meta
 																			property="embedUrl"
 																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -330,6 +327,9 @@ EOT;
 																			aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																		>
 																		</iframe>
+																		<?php if ($review['name'] && $review['creator'] && $review['creator']['name'] == 'Steve Shives'): ?>
+																			<figcaption><?= htmlSpecialChars($review['name']) ?></figcaption>
+																		<?php endif; ?>
 																	</figure>
 																</details>
 															</li>
