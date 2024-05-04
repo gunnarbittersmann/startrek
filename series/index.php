@@ -293,8 +293,12 @@ EOT;
 																aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 															>
 															</iframe>
-															<?php if ($episode['review']['name'] && $episode['review']['creator'] && $episode['review']['creator']['name'] == 'Steve Shives'): ?>
-																<figcaption property="name"><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
+															<?php if ($episode['review']['name'] && $episode['review']['creator']): ?>
+																<?php if ($episode['review']['creator']['name'] == 'Steve Shives'): ?>
+																	<figcaption property="name"><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
+																<?php else: ?>
+																	<meta  property="name" content="<?= htmlSpecialChars($episode['review']['name']) ?>"/>
+																<?php endif; ?>
 															<?php endif; ?>
 														</figure>
 													</details>
@@ -327,8 +331,12 @@ EOT;
 																			aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																		>
 																		</iframe>
-																		<?php if ($review['name'] && $review['creator'] && $review['creator']['name'] == 'Steve Shives'): ?>
-																			<figcaption property="name"><?= htmlSpecialChars($review['name']) ?></figcaption>
+																		<?php if ($review['name'] && $review['creator']: ?>
+																			<?php if ($review['creator']['name'] == 'Steve Shives'): ?>
+																				<figcaption property="name"><?= htmlSpecialChars($review['name']) ?></figcaption>
+																			<?php else: ?>
+																				<meta property="name" content="<?= htmlSpecialChars($review['name']) ?>"/>
+																			<?php endif; ?>
 																		<?php endif; ?>
 																	</figure>
 																</details>
