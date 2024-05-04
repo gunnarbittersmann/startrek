@@ -283,10 +283,7 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<figure>
-															<meta
-																property="embedUrl"
-																content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
-															/>
+															<meta property="embedUrl" content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"/>
 															<iframe
 																allowfullscreen=""
 																aria-label="<?= htmlSpecialChars($episode['review']['name']) ?>"
@@ -321,10 +318,7 @@ EOT;
 																		<?php endif; ?>
 																	</summary>
 																	<figure>
-																		<meta
-																			property="embedUrl"
-																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-																		/>
+																		<meta property="embedUrl" content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"/>
 																		<iframe
 																			allowfullscreen=""
 																			aria-label="<?= htmlSpecialChars($review['name']) ?>"
