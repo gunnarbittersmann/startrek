@@ -294,7 +294,7 @@ EOT;
 															>
 															</iframe>
 															<?php if ($episode['review']['name'] && $episode['review']['creator'] && $episode['review']['creator']['name'] == 'Steve Shives'): ?>
-																<figcaption><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
+																<figcaption property="name"><?= htmlSpecialChars($episode['review']['name']) ?></figcaption>
 															<?php endif; ?>
 														</figure>
 													</details>
@@ -328,7 +328,7 @@ EOT;
 																		>
 																		</iframe>
 																		<?php if ($review['name'] && $review['creator'] && $review['creator']['name'] == 'Steve Shives'): ?>
-																			<figcaption><?= htmlSpecialChars($review['name']) ?></figcaption>
+																			<figcaption property="name"><?= htmlSpecialChars($review['name']) ?></figcaption>
 																		<?php endif; ?>
 																	</figure>
 																</details>
