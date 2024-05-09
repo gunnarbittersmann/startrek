@@ -9,6 +9,23 @@
     <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
     <link rel="stylesheet" href="../style.css"/>
 		<style>
+			@media (width > 575px) {
+				main {
+					display: flex;
+					gap: 2em;
+				
+					> * {
+						margin: 0;
+					}
+					
+					h1 {
+						writing-mode: vertical-rl;
+						text-align: end;
+						scale: -1;
+					}
+				}
+			}
+			
 			main ol {
 				list-style: none;
 				padding: 0;
