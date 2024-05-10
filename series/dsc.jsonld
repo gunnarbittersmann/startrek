@@ -3064,7 +3064,37 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonDudkowski",
 						"name": "Jon Dudkowski"
-					}
+					},
+					"description": {
+						"en": "After sending a distress call, Moll and L‘ak are captured by the USS Locherer and Culber attempts to treat L‘ak‘s wound from his fight with Burnham while Commander Nhan runs security. Learning of L‘ak‘s capture, Primarch Ruhn visits Federation Headquarters to negotiate the transfer of the couple into his custody, arriving in the ship that had destroyed the Federation in the future witnessed by Burnham and Rayner. Rayner reveals his past as the survivor of a Breen occupation that had killed his entire family. L‘ak is revealed to be the last descendant of the Breen Emperor, meaning that whoever controls him has a legitimate claim to the throne. During a failed escape attempt, L‘ak accidentally administers a fatal overdose to himself, and Moll reveals the Progenitors‘ technology to Ruhn, hoping to use it to resurrect her husband. Stamets, Tilly, Adira, Reno and Book track the next clue to the Eternal Gallery and Archive in the Badlands."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SRYbPDE-4KY"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/majSvnVVDMo"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
