@@ -329,7 +329,7 @@ EOT;
 																			aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																		>
 																		</iframe>
-																		<?php if ($review['name'] && $review['creator']: ?>
+																		<?php if ($review['name'] && $review['creator']): ?>
 																			<?php if ($review['creator']['name'] == 'Steve Shives'): ?>
 																				<figcaption property="name"><?= htmlSpecialChars($review['name']) ?></figcaption>
 																			<?php else: ?>
