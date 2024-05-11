@@ -1691,6 +1691,19 @@
 					},
 					"description": {
 						"de": "Der zum Techniker-Team der Enterprise gehörige, ausgesprochen schüchterne Lieutenant Reginald Barclay zeigt wiederholt nachlässiges Verhalten bei der Arbeit. Darüber besorgt, versucht LaForge, nachdem er mit Picard Rücksprache gehalten hat, als Barclays Vorgesetzter diesen näher kennenzulernen und so besser in das Team zu integrieren. Dabei findet er unter anderem heraus, das sich Barclay in Holodeck-Programmen mit den Abbildern der Führungsoffiziere des Schiffes umgibt. Zum Beispiel lässt sich Barclay dort von Troi und Dr. Crusher liebkosen, die sich in der Rolle von Liebessklavinnen befinden. Als sich auf der Enterprise, die einige Behälter des Gases Invidium transportiert, merkwürdige Vorfälle häufen und das Schiff zerstört zu werden droht, entdeckt Barclay die Ursache für die Probleme. Mit seiner Hilfe kann die Gefahr für Schiff und Besatzung gebannt werden, dennoch kündigt er schließlich an, das Schiff zu verlassen."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/H7KK9cDQ_go"
+						}
 					}
 				},
 				{
