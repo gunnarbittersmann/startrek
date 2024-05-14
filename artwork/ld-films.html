@@ -9,13 +9,36 @@
     <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
     <link rel="stylesheet" href="../style.css"/>
 		<style>
+			@media (width > 575px) {
+				body {
+					padding-bottom: 0 !important;
+				}
+
+				main {
+					display: flex;
+					gap: 2em;
+				
+					> * {
+						margin: 0;
+					}
+					
+					h1 {
+						writing-mode: vertical-rl;
+						text-align: end;
+						scale: -1;
+						max-height: calc(100vh - var(--header-height, 0) - 1em);
+					}
+				}
+			}
+			
 			main ol {
 				list-style: none;
 				padding: 0;
 				display: grid;
 				grid-template-columns: auto auto;
-				gap: 1em;
-				width: fit-content;
+				max-width: 100%;
+				max-height: calc(100vh - var(--header-height, 0) - 1em);
+				gap: 0.5em;
 	
 				@media (width > 575px) {
 					max-width: 130vh;
