@@ -3112,7 +3112,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#EmmanuelOseiKuffour",
 						"name": "Emmanuel Osei-Kuffour"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RH7yFuiYsO8"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
