@@ -1881,6 +1881,19 @@
 					},
 					"abstract": {
 						"de": "Einige Besatzungsmitglieder werden durch einen Defekt beim Beamen in einer Holosuite gefangen, wo sie in Lebensgefahr geraten, als sie in ein Holoprogramm geraten, in dem Dr. Bashir als Geheimagent seine Freizeit verbringt."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/m-BN1wwtsLU"
+						}
 					}
 				},
 				{
