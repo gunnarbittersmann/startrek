@@ -74,19 +74,34 @@
 					"description": {
 						"de": "Im Jahr 2369 endet die Okkupation der Cardassianer über die Bajoraner, auch als Folge andauernden bajoranischen Widerstands. Dabei ziehen sich die bisherigen Besatzer von der im Orbit von Bajor gelegenen Raumstation Deep Space Nine zurück, auf der sie zuvor unter Einsatz bajoranischer Zwangsarbeiter Erzaufbereitung betrieben. Um politische Stabilität in dieser Gegend des Universums zu sichern und den Bajoranern bei der Schaffung der Voraussetzungen für den Beitritt zur Föderation zu helfen, übernimmt die Vereinte Föderation der Planeten, unterstützt von Bajoranern, den Betrieb der Station. Das Kommando erhält der Sternenflottenoffizier Benjamin Sisko. Weil sich das untereinander zerstrittene bajoranische Volk von Sisko erhofft, die Bajoraner miteinander zu vereinigen, wird er von den „Propheten“, den Göttern der Bajoraner, dazu auserkoren, entsprechend einer lange währenden bajoranischen Prophezeiung als „Abgesandter“ den „Himmelstempel“ zu entdecken. Wenig später entdeckt Sisko mit Hilfe seiner Crew in der Nähe von Bajor ein künstliches, stabiles Wurmloch, das zeitsparendes Reisen in eine 70.000 Lichtjahre entfernte Gegend des bislang kaum erforschten Gamma-Quadranten ermöglicht. Um die eigenen Ansprüche an der Nutzung des Wurmlochs zu sichern und denen der Cardassianer zuvorzukommen, verlegen Föderation und Bajoraner die Station direkt vor den Eingang des Wurmlochs. Das Wurmloch beziehungsweise der Himmelstempel wird von Wesen bewohnt, die abseits räumlicher und zeitlicher Existenz leben und die die Bajoraner als die Propheten verehren. Gemäß dem bajoranischen Glauben bestimmen diese die Geschicke Bajors. Nachdem Sisko die Wesen im Wurmloch davon überzeugt hat, dass die Föderation keine bösen Absichten hat, gewähren sie allen Raumschiffen freies Geleit durch das Wurmloch."
 					},
-					"review":	{
-						"@type": "Review",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review":	[
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/XbAr6wAXrDQ"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/hbGdW1z-S3o"
+						{
+							"@type": "Review",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hbGdW1z-S3o"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
