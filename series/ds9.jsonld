@@ -3666,6 +3666,19 @@
 					},
 					"abstract": {
 						"de": "Durch den Verlust seines Beines traumatisiert, zieht sich Nog in das Holosuite-Programm zurück, das den Sänger Vic Fontaine beinhaltet."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nvoGw6GBp-Q"
+						}
 					}
 				},
 				{
