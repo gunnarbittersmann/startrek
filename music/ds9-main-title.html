@@ -8,6 +8,17 @@
 		<link rel="mask-icon" href="../starfleet.svg"/>
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
 		<link rel="stylesheet" href="../style.css"/>
+		<style>
+			.players {
+				--rows: 2 !important;
+				--columns: 2 !important;
+			}
+			
+			#after3 {
+				grid-row: 2;
+				grid-column: 1;
+			}
+		</style>
 	</head>
 	<body>
 		<header>
@@ -39,9 +50,9 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main">
+		<main id="main" class="players">
 			<h1>Star Trek: Deep Space Nine Main Title</h1>
-			<figure typeof="MusicComposition">
+			<figure typeof="MusicComposition" id="after3">
 				<iframe src="https://www.youtube-nocookie.com/embed/jS2tM4NxK78" allowfullscreen="" width="530" height="540"></iframe>
 				<figcaption>
 					<span property="name">Star Trek: Deep Space Nine Main Title (After 3:00&nbsp;AM at Quarks)</span><br/>
