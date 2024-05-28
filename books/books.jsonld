@@ -300,6 +300,132 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "BookSeries",
+			"name": "Star Trek: Coda",
+			"hasPart": [
+				{
+					"@context": "https://schema.org/",
+					"@type": "Book",
+					"name": "Moments Asunder",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"datePublished": "2021-09-28",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "STARFLEET’S FINEST FACES A CHALLENGE UNLIKE ANY OTHER. TOMORROW IS DOOMED: Time is coming apart. Countless alternate and parallel realities are under attack, weakening and collapsing from relentless onslaught. If left unchecked, the universe faces an unstoppable descent toward entropy. WANDERER, ORACLE, ALLY: Scarred and broken after decades spent tracking this escalating temporal disaster, while battling the nameless enemy responsible for it, an old friend seeks assistance from Captain Jean-Luc Picard and the crew of the Starship Enterprise. The apocalypse may originate from their future, but might the cause lie in their past? EVERYTHING THAT WILL BE: Identifying their adversary is but the first step toward defeating them, but early triumphs come with dreadful costs. What will the price be to achieve final victory, and how will that success be measured in futures as yet undefined?"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-1-Moments-Asunder/Dayton-Ward/Star-Trek/9781982158521",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982158521/star-trek-coda-book-1-moments-asunder-9781982158521_lg.jpg",
+					"isbn": "9781982158521",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/hP7D8q19bc0ig"
+						}
+					}
+				},
+				{
+					"@context": "https://schema.org/",
+					"@type": "Book",
+					"name": "The Ashes of Tomorrow",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
+						"name": "James Swallow",
+						"givenName": "James",
+						"familyName": "Swallow"
+					},
+					"datePublished": "2021-10-26",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "THE FUTURE IS AT WAR WITH THE PAST. The epic Star Trek: Coda trilogy continues as friends become foes, the Temporal Apocalypse accelerates, and the catastrophe’s true cause is revealed."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-2-The-Ashes-of-Tomorrow/James-Swallow/Star-Trek/9781982158545",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982158545/star-trek-coda-book-2-the-ashes-of-tomorrow-9781982158545_lg.jpg",
+					"isbn": "9781982158545",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kC0TVceqMuc"
+						}
+					}
+				},
+				{
+					"@context": "https://schema.org/",
+					"@type": "Book",
+					"name": "Oblivion’s Gate",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"datePublished": "2021-11-30",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "THEIR MOST DAUNTING MISSION WILL BE THEIR FINEST HOUR. The epic Star Trek: Coda trilogy comes to a shattering conclusion as the Temporal Apocalypse forces Starfleet’s greatest heroes to make the greatest sacrifices of their lives."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-3-Oblivions-Gate/David-Mack/Star-Trek/9781982159672",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982159672/star-trek-coda-book-3-oblivions-gate-9781982159672_lg.jpg",
+					"isbn": "9781982159672",
+					"numberOfPages": 448,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/OcM7pBnkf14"
+						}
+					}
+				}
+			]
 		}
 	]
 }
