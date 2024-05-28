@@ -232,6 +232,48 @@
 				{
 					"@context": "https://schema.org/",
 					"@type": "Book",
+					"name": "Rogue Elements",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnJacksonMiller",
+						"name": "John Jackson Miller",
+						"givenName": "John",
+						"additionalName": "Jackson",
+						"familyName": "Miller"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2022-06-07",
+					"description": {
+						"en": "Starfleet was everything for Cristóbal Rios…until one horrible, inexplicable day when it all went wrong. Aimless and adrift, he grasps at a chance for a future as an independent freighter captain in an area betrayed by the Federation, the border region with the former Romulan Empire. His greatest desire: to be left alone. But solitude isn’t in the cards for the captain of La Sirena, who falls into debt to a roving gang of hoodlums from a planet whose society is based on Prohibition-era Earth. Teamed against his will with Ledger, his conniving overseer, Rios begins an odyssey that brings him into conflict with outlaws and fortune seekers, with power brokers and relic hunters across the stars. Exotic loves and locales await—as well as dangers galore—and Rios learns the hard way that good crewmembers are hard to find, even when you can create your own. And while his meeting with Jean-Luc Picard is years away, Rios finds himself drawing on the Starfleet legend’s experiences when he discovers a mystery that began on one of the galaxy’s most important days…."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Rogue-Elements/John-Jackson-Miller/9781982175207",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982175207/star-trek-picard-rogue-elements-9781982175207_lg.jpg",
+					"isbn": "9781982175207",
+					"numberOfPages": 416,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/lVqX-VVS8TE"
+						}
+					}
+				},
+				{
+					"@context": "https://schema.org/",
+					"@type": "Book",
 					"name": "Second Self",
 					"creator": {
 						"@type": "Person",
