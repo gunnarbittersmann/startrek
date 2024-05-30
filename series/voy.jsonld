@@ -1771,6 +1771,19 @@
 					},
 					"description": {
 						"de": "Beim Entfernen alter Dateien entdeckt B’Elanna Torres ein unvollendetes Holoprogramm namens Rebellion Alpha, dessen Autor anonym ist. Die Handlung: Chakotay nutzt eine kurze Abwesenheit Captain Janeways, um mit Unterstützung der Ex-Maquis-Angehörigen eine Meuterei auf der Voyager anzuzetteln. Auch Seska ist beteiligt. Nachdem mehrere Besatzungsmitglieder das Programm durchgespielt haben, gibt Tuvok sich als Autor zu erkennen und erklärt, dass Rebellion Alpha für die Ausbildung rangjüngerer Sicherheitsoffiziere gedacht war, er es aber unvollendet gelassen und schließlich gelöscht hat, als das Szenario des Programms immer unwahrscheinlicher wurde. Tom Paris will Rebellion Alpha zu Ende schreiben. Tuvok ist mit seinen Plänen für die Handlung nicht einverstanden. Sie entscheiden sich, gemeinsam auf dem Holodeck am Programm weiter zu arbeiten. Dabei reaktiviert es sich selbständig, und das Seska-Hologramm erklärt, dass die echte Seska das Programm fertig geschrieben hat. Das Holodeck ist versiegelt und die Sicherheitsprotokolle abgeschaltet. Außerdem lässt sich das Programm nicht beenden. Die Holo-Janeway unterstützt Tuvok und Paris, aber als sie auf Chakotay und Seska schießt, hat ihr Phaser-Gewehr eine Fehlfunktion, und sie wird getötet. Seska erklärt, dass es manipuliert wurde. Nachdem die echte Torres entdeckt hat, dass Rebellion Alpha verändert werden kann, fügt Janeway ein Raumschiff hinzu, das die Voyager beschießt. Im entstehenden Durcheinander ergreift Tuvok ein Phaser-Gewehr. Seska zwingt ihn, es ihr zu geben, indem sie in den Energie-Relais des Holodecks eine Überlastung initiiert. Tuvok stellt das Phaser-Gewehr auf Töten, wie er sagt, gibt es dann aber Seska, die die Überlastung beendet. Als sie das Gewehr abfeuert, hat es eine Fehlfunktion und tötet sie. Tuvok hat es manipuliert. Dadurch wird das Holoprogramm beendet."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/yh89RuV7c_8"
+						}
 					}
 				},
 				{
