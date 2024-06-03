@@ -805,6 +805,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/-m-dg9msu-U"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sV8bUotIToA"
+							}
 						}
 					]
 				},
@@ -872,6 +884,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/L_qkJXbK1LI"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/opNaVLESub0"
+							}
 						}
 					]
 				},
@@ -932,6 +956,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/4xAx0kz43dY"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/eZi9af8VgdI"
 							}
 						}
 					]
@@ -994,6 +1030,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/6_Aom0mOF9c"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VoOd2aI8330"
+							}
 						}
 					]
 				},
@@ -1054,6 +1102,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5N7OisA6sxE"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NEpix5SNFkY"
 							}
 						}
 					]
@@ -1116,6 +1176,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/NihlW65N62g"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/u6HSP0PP6FU"
+							}
 						}
 					]
 				},
@@ -1176,6 +1248,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/epPFBxFuLuw"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/mVNxwQUrBi8"
 							}
 						}
 					]
@@ -1238,6 +1322,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/8BCFmbEP818"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uTyaqGwUmaQ"
+							}
 						}
 					]
 				},
@@ -1299,6 +1395,18 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nzzopuCGqUM"
 							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_lNABexpcrw"
+							}
 						}
 					]
 				},
@@ -1359,6 +1467,18 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/v6MmVnYSoL4"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ENUeusibXec"
 							}
 						}
 					]
