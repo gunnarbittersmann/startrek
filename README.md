@@ -11,3 +11,4 @@ Review playlists:
 - [Star Trek Reviews (Jessie Gender)](https://www.youtube.com/playlist?list=PLgH0AbtWXcMx391tnzANCYIyXWogEwcTL)
 - [Star Trek Retro Reviews (Steve Shives)](https://www.youtube.com/playlist?list=PL0-LSnSBNIncf0tkpjOHAorxjsAhLYSW3)
 - [Star Trek Movie Reviews (Steve Shives)](https://www.youtube.com/playlist?list=PLB8P2CLMCbNH-EW7UPMFJN7rG5nQcEUIP)
+- [Second Opinion with Dr. Trek (Larry Nemecek)](https://www.youtube.com/playlist?list=PL3BUa5EzsGhZ-znmUEI4El7OB0heSy5oj)
