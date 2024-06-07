@@ -2752,6 +2752,19 @@
 					},
 					"abstract": {
 						"en": "Paris’ latest holodeck adventure The Adventures of Captain Proton takes an unexpected turn."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6SNNHjjrBq0"
+						}
 					}
 				},
 				{
