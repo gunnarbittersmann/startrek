@@ -3796,6 +3796,23 @@
 					},
 					"description": {
 						"de": "Der Borg Hugh hatte einst seine auf der Enterprise erweckte Individualität auf die Crewmitglieder seines Raumschiffs übertragen. Dieses wurde mitsamt der Crew später durch Lore entdeckt. Die Borg dieser Crew dienen Lore nun auf dem Planeten für Experimente zur Erschaffung einer perfekten, künstlichen Rasse. Dabei lässt sich Lore durch Data helfen, den er zu diesem Zweck so beeinflusst hat, dass Data nicht mehr ethisch handelt. Bei Lores Experimenten wurden einige Borg verstümmelt, die sich aus Angst vor weiteren Experimenten nun mit Hugh vor Lore verstecken. Auf der Suche nach den restlichen Enterprise-Crewmitgliedern stoßen Worf und Riker auf diese Borg. Unterdessen lässt Lore auch an La Forge experimentieren und versuchen Picard und Troi aus ihrer Gefangenschaft heraus, Datas ethisches Programm zu reaktivieren. Parallel dazu versucht Crusher mit einer Rumpf-Crew auf der Enterprise, die restlichen Crewmitglieder an Bord zu beamen. Dabei erwehren sie sich der Angriffe eines Borg-Schiffes, das sie schließlich durch künstliches Herbeiführen einer Eruption auf einem Stern zerstören können. Hugh, Riker und Worf können schließlich Lore und dessen Borg beschießen und besiegen und dabei Riker, Data und Troi befreien. Picard schafft es, Datas ethisches Programm zu reaktivieren. Data deaktiviert daraufhin Lore und bemächtigt sich dessen Emotionschips, den er sich aber wegen der Befürchtung, so zu werden wie Lore, nicht selbst einsetzt. La Forge verhindert, dass Data den Chip aus gleichem Grund zerstört. Hugh verbleibt auf dem Planeten, während die Enterprise-Crewmitglieder wieder an Bord zurückkehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#6.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#7.1" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/jBv_NVeC3Lc"
+						}
 					}
 				},
 				{
