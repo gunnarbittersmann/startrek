@@ -3608,6 +3608,19 @@
 					},
 					"description": {
 						"de": "Der Föderationsarchäologe und Mentor Picards, Professor Galen, möchte Picard wegen einer weitreichenden Entdeckung davon überzeugen, ihn bei einer mehrmonatigen Forschungsreise zu begleiten. Nachdem Picard berufsbedingt abgelehnt hat, verlässt Galen enttäuscht die Enterprise und wird nach seiner Abreise von feindlichen Iridianern tödlich verwundet. Picard setzt daraufhin mit der Enterprise Galens Forschung fort. Aus den Daten seines Shuttle gewinnt man eine Reihe zueinander kompatibler DNS-Fragmente, die von verschiedenen Spezies in der ganzen Galaxie stammen und wohl von einer Spezies hinterlassen wurde, die vor 4 Milliarden Jahren lebte. Um das zu prüfen, sucht man nach den noch fehlenden Fragmenten und begegnet dabei Cardassianern und Klingonen, die diese Spur ebenfalls verfolgen. Die drei Parteien setzen die von ihnen gesammelten Fragmente zusammen und ermitteln daraus einen Planeten, auf dem sie das letzte Fragment vermuten. Nachdem ein Enterprise-Außenteam mit dem klingonischen Vertreter sowie Cardassianer und Romulaner dort eingetroffen sind, finden Picard und Crusher in vegetativen Resten des sonst biologisch toten Planeten das fehlende Fragment. Eingesetzt in das System der bereits gesammelten Fragmente wird eine Projektion eines Vertreters der Ur-Spezies aktiviert. Seine Spezies hinterließ, nachdem sie bei der Erforschung der Galaxie kein humanoides Leben fand, einst ihre eigene DNS auf verschiedenen Planeten, um von sich nach ihrem Aussterben ein Vermächtnis zu hinterlassen. Zudem sei es seine Hoffnung, dass das Wissen über die gemeinsame Abstammung zum Frieden unter den Spezies der versammelten Parteien beträgt."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/tdSJwre1qdk"
+						}
 					}
 				},
 				{
