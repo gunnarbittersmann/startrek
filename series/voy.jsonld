@@ -1699,6 +1699,19 @@
 					},
 					"description": {
 						"de": "Der Doktor erschafft ein Holoprogramm mit einer perfekten Familie ‒ einer ihn umsorgenden Ehefrau, einem intelligenten, braven Sohn und einer intelligenten, sportlichen Tochter ‒, um das Familienleben praktisch kennen zu lernen. B’Elanna Torres findet sie nicht sehr realistisch und nimmt einige Anpassungen vor. So hört der Sohn laut Musik und hat klingonische Freunde, die ihm Werte eines kriegerischen Lebens vermitteln, so dass er ein gewalttätiges Ritual durchführen will, während die Tochter eine riskante Sportart betreibt und die Ehefrau ihren eigenen Interessen nachgeht und nicht jeden Tag kocht. Der Doktor versucht zunächst, seine Familie dazu zu bringen, sich seinen Wünschen zu fügen, muss aber feststellen, dass das nicht so einfach ist. Schließlich wird die Tochter bei einem Sportunfall so schwer verletzt, dass der Doktor sie nicht heilen kann. Er bricht zunächst das Holoprogramm ab, bevor sie stirbt, aber Tom Paris redet ihm zu, es fortzuführen und die Erfahrung zu machen, dass Familie auch geteilten Schmerz und gegenseitige Unterstützung bedeutet. So steht die Familie vereint am Sterbebett der Tochter und tröstet sich gegenseitig."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Not Actually Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kx7VT1FaEZM"
+						}
 					}
 				},
 				{
