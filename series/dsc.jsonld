@@ -2743,6 +2743,18 @@
 			"review": [
 				{
 					"@type": "Review",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/hexhOT3mIzI"
+					}
+				},
+				{
+					"@type": "Review",
 					"creator": [
 						{
 							"@type": "Person",
@@ -2758,18 +2770,6 @@
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/eew5FBWiDFg"
-					}
-				},
-				{
-					"@type": "Review",
-					"creator": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#SteveShives",
-						"name": "Steve Shives"
-					},
-					"video": {
-						"@type": "VideoObject",
-						"embedUrl": "https://www.youtube-nocookie.com/embed/hexhOT3mIzI"
 					}
 				}
 			],
