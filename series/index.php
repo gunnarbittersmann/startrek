@@ -66,11 +66,7 @@ EOT;
 				<nav>
 					<ol>
 						<li>
-							<a
-								title="Star Trek"
-								aria-label="Star Trek"
-								href="/startrek"
-							>
+							<a title="Star Trek" aria-label="Star Trek" href="/startrek">
 								<?php readfile(STARFLEET_LOGO); ?>
 							</a>
 						</li>
@@ -585,11 +581,7 @@ EOT;
 				<nav>
 					<ol>
 						<li>
-							<a
-								title="Star Trek"
-								aria-label="Star Trek"
-								href="/startrek"
-							>
+							<a title="Star Trek" aria-label="Star Trek" href="/startrek">
 								<?php readfile(STARFLEET_LOGO); ?>
 							</a>
 						</li>
