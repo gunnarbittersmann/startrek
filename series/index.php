@@ -175,9 +175,7 @@ EOT;
 										</td>
 										<?php if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE): ?>
 											<?php if ($translation): ?>
-												<td
-													resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-												>
+												<td resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>">
 													<time property="datePublished">
 														<?= htmlSpecialChars($translation['datePublished']) ?>
 													</time>
