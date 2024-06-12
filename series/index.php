@@ -66,11 +66,7 @@ EOT;
 				<nav>
 					<ol>
 						<li>
-							<a
-								title="Star Trek"
-								aria-label="Star Trek"
-								href="/startrek"
-							>
+							<a title="Star Trek" aria-label="Star Trek" href="/startrek">
 								<?php readfile(STARFLEET_LOGO); ?>
 							</a>
 						</li>
@@ -179,9 +175,7 @@ EOT;
 										</td>
 										<?php if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE): ?>
 											<?php if ($translation): ?>
-												<td
-													resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-												>
+												<td resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>">
 													<time property="datePublished">
 														<?= htmlSpecialChars($translation['datePublished']) ?>
 													</time>
@@ -224,7 +218,9 @@ EOT;
 											?>
 											<td>
 												<details lang="<?= htmlSpecialChars($plotLang) ?>">
-													<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>">
+													<summary
+														aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>"
+													>
 														<?php if ($plotLang == 'de'): ?>
 															Handlung
 														<?php else: ?>
@@ -274,12 +270,21 @@ EOT;
 														<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
 															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
-																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($episode['review']['creator']['name']) ?></span>
+																	<span class="visually-hidden" property="name">
+																		<?= htmlSpecialChars($episode['review']['creator']['name']) ?>
+																	</span>
 																	<abbr aria-hidden="true"><?= htmlSpecialChars($episode['review']['creator']['name'][0]) ?></abbr>
 																</span>
 															<?php endif; ?>
 															<?php if ($episode['review']['itemReviewed']): ?>
-																<span class="review-range">(<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
+																<span class="review-range">(<?=
+																	htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																?>–<?=
+																	htmlSpecialChars(parse_url(
+																		$episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'],
+																		PHP_URL_FRAGMENT,
+																	))
+																?>)</span>
 															<?php endif; ?>
 														</summary>
 														<meta
@@ -299,16 +304,28 @@ EOT;
 													<ul>
 														<?php foreach ($episode['review'] as $review): ?>
 															<li property="review" typeof="Review">
-																<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($episode['@identifier']) ?>">
+																<details
+																	lang="en"
+																	property="video"
+																	typeof="VideoObject"
+																	name="review-<?= htmlSpecialChars($episode['@identifier']) ?>"
+																>
 																	<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
 																		<?php if ($review['creator'] && $review['creator']['name']): ?>
 																			<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
-																				<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																				<span class="visually-hidden" property="name">
+																					<?= htmlSpecialChars($review['creator']['name']) ?>
+																				</span>
 																				<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																			</span>
 																		<?php endif; ?>
 																		<?php if ($review['itemReviewed']): ?>
-																			<span class="review-range">(<?= htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
+																			<span class="review-range">(<?=
+																				htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																			?>–<?=
+																				htmlSpecialChars(parse_url(
+																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																			?>)</span>
 																		<?php endif; ?>
 																	</summary>
 																	<meta
@@ -341,11 +358,24 @@ EOT;
 											<td property="review" typeof="Review">
 												<details lang="en" property="video" typeof="VideoObject">
 													<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
-														<?php if ($season['review']['creator'] && $season['review']['creator']['name']): ?>
-															<span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
-																<span class="visually-hidden" property="name"><?= htmlSpecialChars($season['review']['creator']['name']) ?></span>
-																<abbr aria-hidden="true"><?= htmlSpecialChars($season['review']['creator']['name'][0]) ?></abbr>
-															</span>
+														<?php if ($season['review']['creator']): ?>
+															<?php if ($season['review']['creator']['name']): ?>
+																<span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
+																	<span class="visually-hidden" property="name">
+																		<?= htmlSpecialChars($season['review']['creator']['name']) ?>
+																	</span>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars($season['review']['creator']['name'][0]) ?></abbr>
+																</span>
+															<?php elseif (is_array($season['review']['creator'])): ?>
+																<?php foreach ($season['review']['creator'] as $creator): ?>
+																	<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																		<span class="visually-hidden" property="name">
+																			<?= htmlSpecialChars($creator['name']) ?>
+																		</span>
+																		<abbr aria-hidden="true"><?= htmlSpecialChars($creator['name'][0]) ?></abbr>
+																	</span>
+																<?php endforeach; ?>
+															<?php endif; ?>
 														<?php endif; ?>
 													</summary>
 													<meta
@@ -365,13 +395,31 @@ EOT;
 												<ul>
 													<?php foreach ($season['review'] as $review): ?>
 														<li property="review" typeof="Review">
-															<details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>">
+															<details
+																lang="en"
+																property="video"
+																typeof="VideoObject"
+																name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>"
+															>
 																<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
-																	<?php if ($review['creator'] && $review['creator']['name']): ?>
-																		<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
-																			<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
-																			<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
-																		</span>
+																	<?php if ($review['creator']): ?>
+																		<?php if ($review['creator']['name']): ?>
+																			<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+																				<span class="visually-hidden" property="name">
+																					<?= htmlSpecialChars($review['creator']['name']) ?>
+																				</span>
+																				<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																			</span>
+																		<?php elseif (is_array($review['creator'])): ?>
+																			<?php foreach ($review['creator'] as $creator): ?>
+																				<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																					<span class="visually-hidden" property="name">
+																						<?= htmlSpecialChars($creator['name']) ?>
+																					</span>
+																					<abbr aria-hidden="true"><?= htmlSpecialChars($creator['name'][0]) ?></abbr>
+																				</span>
+																			<?php endforeach; ?>
+																		<?php endif; ?>
 																	<?php endif; ?>
 																</summary>
 																<meta
@@ -410,7 +458,9 @@ EOT;
 													<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['name'][0]) ?></abbr>
 												<?php elseif ($data['review']['creator'] && $data['review']['creator']['name']): ?>
 													<span property="creator" typeof="<?= htmlSpecialChars($data['review']['creator']['@type']) ?>">
-														<span class="visually-hidden" property="name"><?= htmlSpecialChars($data['review']['creator']['name']) ?></span>
+														<span class="visually-hidden" property="name">
+															<?= htmlSpecialChars($data['review']['creator']['name']) ?>
+														</span>
 														<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['creator']['name'][0]) ?></abbr>
 													</span>
 												<?php endif; ?>
@@ -432,14 +482,21 @@ EOT;
 										<ul>
 											<?php foreach ($data['review'] as $review): ?>
 												<li property="review" typeof="Review">
-													<details lang="en" property="video" typeof="VideoObject" name="review-season-<?= htmlSpecialChars($data['name']) ?>">
+													<details
+														lang="en"
+														property="video"
+														typeof="VideoObject"
+														name="review-season-<?= htmlSpecialChars($data['name']) ?>"
+													>
 														<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
 															<?php if ($review['name']): ?>
 																<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
 																<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
 															<?php elseif ($review['creator'] && $review['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
-																	<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
+																	<span class="visually-hidden" property="name">
+																		<?= htmlSpecialChars($review['creator']['name']) ?>
+																	</span>
 																	<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																</span>
 															<?php endif; ?>
@@ -536,11 +593,7 @@ EOT;
 				<nav>
 					<ol>
 						<li>
-							<a
-								title="Star Trek"
-								aria-label="Star Trek"
-								href="/startrek"
-							>
+							<a title="Star Trek" aria-label="Star Trek" href="/startrek">
 								<?php readfile(STARFLEET_LOGO); ?>
 							</a>
 						</li>
