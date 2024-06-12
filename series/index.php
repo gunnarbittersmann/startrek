@@ -218,7 +218,9 @@ EOT;
 											?>
 											<td>
 												<details lang="<?= htmlSpecialChars($plotLang) ?>">
-													<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>">
+													<summary
+														aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>"
+													>
 														<?php if ($plotLang == 'de'): ?>
 															Handlung
 														<?php else: ?>
@@ -275,7 +277,14 @@ EOT;
 																</span>
 															<?php endif; ?>
 															<?php if ($episode['review']['itemReviewed']): ?>
-																<span class="review-range">(<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
+																<span class="review-range">(<?=
+																	htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																?>–<?=
+																	htmlSpecialChars(parse_url(
+																		$episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'],
+																		PHP_URL_FRAGMENT,
+																	))
+																?>)</span>
 															<?php endif; ?>
 														</summary>
 														<meta
@@ -311,7 +320,12 @@ EOT;
 																			</span>
 																		<?php endif; ?>
 																		<?php if ($review['itemReviewed']): ?>
-																			<span class="review-range">(<?= htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT)) ?>–<?= htmlSpecialChars(parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT)) ?>)</span>
+																			<span class="review-range">(<?=
+																				htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																			?>–<?=
+																				htmlSpecialChars(parse_url(
+																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																			?>)</span>
 																		<?php endif; ?>
 																	</summary>
 																	<meta
