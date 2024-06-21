@@ -1582,6 +1582,19 @@
 					},
 					"description": {
 						"de": "Commander Chakotay und Fähnrich Kaplan empfangen auf dem Rückweg von einem Erkundungsflug einen Föderations-Notruf von einem Planeten. Nach der Landung werden sie beschossen. Kaplan wird getötet, und der verletzte Chakotay kommt in die Obhut einer Gruppe humanoider Wesen, darunter ehemalige Angehörige der Sternenflotte. Wie sich herausstellt, sind alle Bewohner des Planeten ehemalige Borg, die durch einen Hüllenbruch ihres Borg-Würfels, der die Verbindung mit dem Kollektiv unterbrach, freikamen. Mit der Zeit haben sie sich wegen kultureller Unterschiede und alter Feindschaften zwischen ihren Spezies in mehrere Gruppen aufgespalten, die um die knappen Ressourcen kämpfen. Die Kooperative, die Chakotay aufgenommen hat, kann ihr kollektives Bewusstsein für kurze Zeiträume wiederherstellen und bezieht Chakotay mittels eines Neurotransceivers ein, um seine lebensgefährliche Kopfverletzung zu heilen. Sie will alle Gruppen unter diesem kollektiven Bewusstsein vereinigen, um die Kämpfe zu beenden. Dafür bittet sie die Voyager-Crew um technische Hilfe bei der Reaktivierung des neuroelektrischen Generators des Borg-Würfels, der funktionsuntüchtig durchs All treibt. Captain Janeway lehnt wegen der möglicherweise weitreichenden Folgen ab. Als der Bunker der Kooperative angegriffen wird, bringt diese Chakotay unter ihre mentale Kontrolle. Er beamt zum Borg-Würfel und reaktiviert den Generator. Ein Außenteam der Voyager rettet ihn, aber der Würfel und die Borg an Bord sind wieder funktionstüchtig und bereiten sich darauf vor, die Voyager anzugreifen. Die Kooperative, die jetzt alle Bewohner des Planeten umfasst, löst den Selbstzerstörungsmechanismus des Würfels aus und trennt ihre Verbindung mit Chakotay."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/n0PVCCoDtKU"
+						}
 					}
 				},
 				{
