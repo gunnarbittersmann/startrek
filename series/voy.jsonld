@@ -2013,6 +2013,19 @@
 					},
 					"description": {
 						"de": "Die Voyager-Besatzung möchte den Raum der B’omar durchqueren. Diese stellen u. a. die Bedingung, dass die Voyager einen bestimmten Kurs einhält. Seven of Nine hat unerklärliche Flashbacks von einer Situation, in der ein schwarzer Vogel sie angreift, mehrere Borg sie assimilieren wollen und sie große Angst hat. Schließlich greift sie Neelix und weitere Crewmitglieder an, stiehlt ein Shuttle und fliegt in den B’omar-Raum. Die B’omar wollen sie aufspüren und töten und verbieten der Voyager den Flug in ihren Raum. Tuvok und Paris folgen Seven heimlich in einem zweiten Shuttle, und Tuvok beamt zu ihr. Seven überwältigt ihn und schießt Paris’ Shuttle manövrierunfähig. Sie folgt einem Borg-Zielflug-Signal zu einem beschädigten, verlassenen Raumschiff auf der Oberfläche eines Mondes. Es stellt sich heraus, dass es die Raven ist, das Schiff von Sevens Eltern. Hier wurde die Familie von den Borg assimiliert. Die B’omar beschießen die Raven. Da Captain Janeway aus Sevens Flashbacks die richtigen Schlüsse gezogen hat, fliegt die Voyager ebenfalls zum Mond und macht die Waffen der B’omar-Schiffe unschädlich. Paris beamt Seven und Tuvok an Bord und kehrt mit ihnen zur Voyager zurück, die den B’omar-Raum schnell verlässt."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-4SQkW_iCz0"
+						}
 					}
 				},
 				{
