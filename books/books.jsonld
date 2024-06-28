@@ -61,6 +61,47 @@
 							"embedUrl": "https://www.youtube-nocookie.com/embed/s9kHaGNDck0"
 						}
 					}
+				},
+				{
+					"@type": "Book",
+					"name": "Living Memory",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChristopherLBennett",
+						"name": "Christopher L. Bennett",
+						"givenName": "Christopher",
+						"additionalName": "L.",
+						"familyName": "Bennett"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2021-06-15",
+					"description": {
+						"en": "While attempting to settle in as commandant of Starfleet Academy, Admiral James T. Kirk must suddenly contend with the controversial, turbulent integration of an alien warrior caste into the student body—and quickly becomes embroiled in conflict when the Academy controversy escalates to murder. Meanwhile, Captain Spock of the USS Enterprise and Commander Pavel Chekov of the USS Reliant are investigating a series of powerful cosmic storms seemingly targeting Federation worlds—unstoppable outbursts emitting from the very fabric of space. Endeavoring to predict where the lethal storms will strike next, Spock and Chekov make the shocking discovery that the answer lies in Commander Nyota Uhura’s past—one that she no longer remembers…."
+					},
+					"url": "https://www.simonandschuster.com/books/Living-Memory/Christopher-L-Bennett/Star-Trek-The-Original-Series/9781982165895",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982165895/living-memory-9781982165895_lg.jpg",
+					"isbn": "9781982165895",
+					"numberOfPages": 320,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Ek8KT91Ev1g"
+						}
+					}
 				}
 			]
 		},
