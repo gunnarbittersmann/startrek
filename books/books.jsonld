@@ -24,7 +24,6 @@
 			},
 			"hasPart": [
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Agents of Influence",
 					"creator": {
@@ -78,7 +77,6 @@
 			},
 			"hasPart": [
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Enigma Tales",
 					"creator": {
@@ -135,7 +133,6 @@
 			},
 			"hasPart": [
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Wonderlands",
 					"creator": {
@@ -176,7 +173,6 @@
 					}
 				},
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Somewhere To Belong",
 					"creator": {
@@ -230,7 +226,6 @@
 			},
 			"hasPart": [
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Rogue Elements",
 					"creator": {
@@ -272,7 +267,6 @@
 					}
 				},
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Second Self",
 					"creator": {
@@ -301,7 +295,6 @@
 					}
 				},
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Firewall",
 					"creator": {
@@ -348,7 +341,6 @@
 			"name": "Star Trek: Coda",
 			"hasPart": [
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Moments Asunder",
 					"creator": {
@@ -388,7 +380,6 @@
 					}
 				},
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "The Ashes of Tomorrow",
 					"creator": {
@@ -428,7 +419,6 @@
 					}
 				},
 				{
-					"@context": "https://schema.org/",
 					"@type": "Book",
 					"name": "Oblivion’s Gate",
 					"creator": {
