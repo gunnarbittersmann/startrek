@@ -91,6 +91,7 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Gesucht und gefunden",
+						"alternateName": "Verloren & gefunden",
 						"datePublished": "2022-04-18/2022-04-19"
 					},
 					"description": {
@@ -692,7 +693,8 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Kreuzung",
+						"name": "Am Scheideweg",
+						"alternateName": "Kreuzung",
 						"datePublished": "2023-01-09"
 					},
 					"description": {
@@ -797,7 +799,8 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Auftakt",
+						"name": "Präludium",
+						"alternateName": "Auftakt",
 						"datePublished": "2023-01-09"
 					},
 					"description": {
@@ -846,7 +849,8 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Ein Geist in der Maschine",
+						"name": "Der Geist in der Maschine",
+						"alternateName": "Ein Geist in der Maschine",
 						"datePublished": "2023-01-09"
 					},
 					"description": {
