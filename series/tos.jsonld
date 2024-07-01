@@ -43,6 +43,7 @@
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#0.1",
+					"episodeNumber": "0.1",
 					"name": "The Cage",
 					"datePublished": "1988-12-24",
 					"workTranslation": {
