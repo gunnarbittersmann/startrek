@@ -1467,7 +1467,28 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.8" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.10" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zAWNaA1NaOs"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
