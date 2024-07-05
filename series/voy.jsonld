@@ -2572,6 +2572,19 @@
 					},
 					"description": {
 						"de": "Torres, Paris, Seven und der Doctor beobachten in einem Shuttle die Entstehung eines Protonebels. Da dieser schneller expandiert als vorausgesehen, muss die Shuttlecrew per Nottransport gerettet werden. Dabei wird der mobile Holoemitter des Doctors beschädigt. Torres bringt den Emitter ins Wissenschaftslabor, um über Nacht eine Diagnose durchzuführen. Am nächsten Morgen hat sich im Labor Borg-Technik ausgebreitet und eine Reifungskammer inklusive Borg-Embryo ist entstanden. Die Crew findet heraus, dass sich einige von Sevens Nanosonden während des Nottransports mit dem Holoemitter verbunden haben. Mit rasender Geschwindigkeit reift nun eine Borg-Drohne mit der assimilierten Technik des Emitters aus dem 29. Jahrhundert heran. Captain Janeway entscheidet sich gegen die schnelle Vernichtung der Drohne und hofft, dass sich diese mit Sevens Hilfe zu einem Individuum entwickeln kann. Nach anfänglichen Schwierigkeiten gelingt es Seven und der Crew, mit der Drohne zu kommunizieren. Diese entwickelt nach und nach ein individuelles Bewusstsein, nennt sich selbst „Eins“ und baut zu der Crew, insbesondere zu Seven, eine Beziehung auf. Obwohl Seven dies zu verhindern versucht, sendet Eins unabsichtlich ein Borg-Signal und macht damit das Borgkollektiv auf seine Existenz aufmerksam. Ein Borgschiff fängt die Voyager ab und droht die Crew zu assimilieren. Eins hilft bei der Verteidigung der Voyager und beamt sich schließlich an Bord des Borgschiffs. Hier verbindet sich Eins mit dem Kollektiv und steuert das Borgschiff in den Protonebel, woraufhin dieses zerstört wird. Der schwer verletzte Eins wird auf die Krankenstation der Voyager gebeamt, wo er sich einer Behandlung widersetzt. Er wählt den Tod, da die Crew der Voyager durch seine Anwesenheit immer der Gefahr von Borgangriffen ausgesetzt wäre."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/M_RAuQvc1_M"
+						}
 					}
 				},
 				{
