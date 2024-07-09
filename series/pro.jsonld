@@ -1335,13 +1335,13 @@
 							"name": "Patrick Krebs"
 						}
 					],
-					"description": {
-						"en": "A year after the events of the Protostar crew saving Starfleet, Admiral Janeway recruits Dal, Rok Tak, Jankom Pog, Murf, and Zero to join her aboard a new version of USS Voyager. At first excited, the recruits are disillusioned because as cadets, they are not allowed to work alongside Janeway and are snubbed by the Nova Flyers, an elite Starfleet fighter pilot squad, led by a young Vulcan named Maj’el. Dal and Zero discover that Janeway is hiding that the mission involves more than exploration of the wormhole created by the Protostar. After being confronted by Dal, Janeway admits it is a rescue mission to find Chakotay and has the young crew promise not to tell anyone about “Shuttlebay 3”. Maj’el overhears Dal discussing the secret and tries to stop Dal, Zero, and Jankom from moving a cloaked ship in Shuttlebay 3 – only for Dal to accidentally activate the craft and send them into the wormhole prematurely. Meanwhile, Gwynn’s attempts to win the trust of the present-day Solum fail as she discovers that Ascencia has manipulated the leaders into believing that Gwyn is a threat and ordering her capture. Gwyn escapes and reunites with Iluran, The Diviner’s younger uncorrupted self."
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-07-01"
+					},
+					"description": {
+						"en": "A year after the Protostar crew’s aversion of the destruction of Starfleet, Admiral Janeway recruits Dal, Rok Tak, Jankom Pog, Murf, and Zero to join her aboard the newest incarnation of USS Voyager. At first excited, the recruits are disillusioned because as cadets, they are not allowed to work alongside Janeway, and are snubbed by Nova Squadron, an elite Starfleet fighter pilot squad, led by a young Vulcan named Maj’el. After some unauthorized spying, the cadets discover that Janeway is mounting a secret rescue mission to find Chakotay with a cloak-enabled ship called the Infinity. Janeway swears the cadets to secrecy, but Maj’el overhears Dal discussing this and tries to stop the cadets from moving the Infinity. During the melee, the craft is accidentally activated and sent into the wormhole prematurely. Meanwhile, Gwynn’s attempts to win the trust of the present-day Solum fail as she discovers that Ascencia has manipulated the leaders into believing that Gwyn is a threat, prompting them to order her capture. Gwyn escapes and reunites with Ilthuran, the Diviner’s younger uncorrupted self."
 					}
 				},
 				{
@@ -1355,13 +1355,13 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
-					"abstract": {
-						"en": " With Iluran’s support, Gwyn challenges Ascencia to a duel. Dal, Jankom, Zero and Maj’el are captured by The Diviner’s men and find themselves in the same holding cell with Captain Chakotay and his first officer. In spite of his best efforts to not disrupt the original timeline, Dal ends up dropping a phaser which Chakotay uses to get into the Protostar to escape, causing Gwyn to physically phase in and out."
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-07-01"
+					},
+					"description": {
+						"en": "With Ilthuran’s support, Gwyn challenges Ascencia to a duel. Dal, Jankom, Zero and Maj’el are captured by the Diviner’s men and find themselves in the same holding cell with Captain Chakotay and his first officer. In spite of his best efforts to not disrupt the original timeline, which could result in Gwyn never being born, Dal ends up dropping a phaser which Chakotay uses to get into the Protostar to escape, causing Gwyn to physically phase in and out."
 					}
 				},
 				{
@@ -1379,6 +1379,9 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-07-01"
+					},
+					"description": {
+						"en": "Dal, Zero, Jankom and Maj’el race against time to save Gwyn, who has been displaced by time due to the disrupted timeline. Dal gets a hands-on lesson in Temporal Mechanics as he builds a time machine out of the Infinity. Ilthuran finds Gwyn and comforts her. Gwyn hears a voice from the beyond saying, “All of You Must Stay Together”. Dal’s group manages to find Gwyn and bring her back to USS Voyager, where the Doctor places an interphase armband to keep her stable in the present timeline. Meanwhile, Murf is shown communicating with a stranger."
 					}
 				},
 				{
@@ -1403,6 +1406,9 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-07-01"
+					},
+					"description": {
+						"en": "The group tries to have Murf’s constant incoherent babbling translated. After several failed attempts, they turn to Gillian the humpback whale in Cetacean Ops. The translation receive includes the words “Find Me” and a set of coordinates. Gwyn gets another phasing attack, which finds her floating in space and seeing a spiral and the voice from her previous vision saying, “Find me before they find you”. Followed by ominous clinking screeches before Gwyn is pulled back to the prime reality. Gwyn tells the others her vision and discoveries."
 					},
 					"review": [
 						{
@@ -1461,6 +1467,9 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"datePublished": "2024-07-01"
+					},
+					"description": {
+						"en": "Dal and his friends create holograms of themselves in order to cover for them to take the Infinity. Things go sour when their holograms begin to believe they are real. Rok and her hologram decide to work together rather than against each other to find a solution. Dal and friends manage to board Infinity. Unbeknownst to them, their holograms have switched personalities due to a glitch."
 					}
 				},
 				{
