@@ -1382,6 +1382,25 @@
 					},
 					"description": {
 						"en": "Dal, Zero, Jankom and Maj’el recieve a strange message reading “Save Gwyn”. Dal, Zero and Maj’el find Gwyn who’s phasing in and out and in great agony. The group deduce that Gwyn had been displaced by time due to their actions disrupting the original timeline. Zero suggests they build a time machine and Dal gets a hands-on lesson in Temporal Mechanics as they convert the Infinity into a time machine. Ilthuran finds Gwyn and comforts her. While phasing in and out of time, Gwyn hears a voice from beyond saying, “You Must Stay Together”. Dal’s group manages to find Gwyn and bring her back to USS Voyager, where the Doctor places an interphase armband to keep her stable in the present timeline. Meanwhile, Murf is shown communicating with a stranger."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Second Opinion with Dr. Trek",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+							"name": "Larry Nemecek"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.2" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.3" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.4" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Yud0eamHJYI"
+						}
 					}
 				},
 				{
