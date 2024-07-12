@@ -2901,6 +2901,23 @@
 					},
 					"abstract": {
 						"en": "Janeway plans to steal a transwarp coil from a disabled Borg ship to shorten their journey home. Seven of Nine experiences memories of her past just before she and her parents are assimilated and plans to re-join the Borg collective. The Borg Queen tells Seven of Nine that she will leave her individuality intact so the Borg can study her memories and use her to help them assimilate humanity."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#5.15" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#5.16" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qT4NOv8MJsQ"
+						}
 					}
 				},
 				{
