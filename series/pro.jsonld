@@ -1563,6 +1563,25 @@
 					},
 					"description": {
 						"en": "Zero makes contact with another Medusan who offers to give Zero a new body. Gwyn convinces Dal to help Zero and the group detours to Ovidia IV, where the message came from. There, they discover that the resident Medusans and other non-corporeal beings have been using carbon-based matter from the planet’s surroundings to create physical bodies for themselves, providing them the senses of touch, smell, and taste. Since this also will allow Zero to interact directly with other corporeal beings without harming them, Zero agrees to the transfiguration. The operation is a success and Zero takes delight in experiencing newly given senses and participates in the Feast of Senses – a celebration and rite of passage on Ovidia IV. At first happy for their friend, Dal and Gwyn learn from the Medusan leader Ion that because their bodies degenerate outside Ovidia IV, no one wants to leave and give up their senses. Dal and Gwyn discover that Zero is participating in the “Running of the Nazamon”, in which participants experience the sense of fear while feeding and fleeing from the Nazamon, a manta ray-like creature. Dal, Gwyn and the others manage to find Zero and tell him the truth. When Dal is snatched up in the Nazamon’s gaping maw, Zero bravely jumps to Dal’s rescue. Trusting the Nazamon to use its senses and their friends down below, they ride the Nazamon to safety. By the time they reach the finish line, Zero thanks Zion for the experience and ultimately decides to risk leaving Ovidia IV with the Infinity crew as they had risked their lives to reveal the truth. Ion respects Zero’s choice and wishes them luck. Meanwhile, Janeway, The Doctor and Commander Tysses discover the holographic imposters and hunt down Gwyn’s hologram, who tells them about the possible message from Chakotay. The Doctor discovers that the ship’s computer log has been altered and holographic Gwyn tells of the clicking noises from the creature that tried to erase her. Fearing the worst, Janeway sets a new course to find the real Gwyn before the creatures do."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Second Opinion with Dr. Trek",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+							"name": "Larry Nemecek"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.5" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.6" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.7" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.8" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/1EM8k0xFrME"
+						}
 					}
 				},
 				{
