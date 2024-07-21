@@ -1771,6 +1771,26 @@
 					},
 					"description": {
 						"en": "After returning to Voyager, Zero learns from The Doctor that there is nothing that can be done for their failing corporeal body. However, The Doctor suggests upgrading Zero’s new containment suit with sensory inputs so that they can continue to feel, a task that Zero asks Jankom to do. Jellico orders both ships back to Earth where Voyager’s crew will be reassigned, the cadets reevaluated, and the Protostar mission taken over by the Department of Temporal Investigations. Ilthuran contacts Gwyn to reveal that Asencia has taken over Solum armed with mysterious new temporal weaponry. Asencia sends the Rev-1 to destroy Voyager and the Protostar. While the others return to the Protostar, Dal flies with Nova Squadron into battle and Zero remains behind to help The Doctor. Following a failed attack on the enemy ship, Voyager is left defenseless."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.12" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.13" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.14" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.15" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bG4iLMHz5cA"
+						}
 					}
 				},
 				{
