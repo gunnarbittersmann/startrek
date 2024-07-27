@@ -1902,6 +1902,26 @@
 					"review": [
 						{
 							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.16" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.17" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.18" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.19" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.20" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SX74V1Vwx1Y"
+							}
+						},
+						{
+							"@type": "Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
