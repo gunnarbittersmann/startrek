@@ -2795,6 +2795,48 @@
 							}
 						}
 					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.5",
+					"episodeNumber": "5.5",
+					"name": "Starbase 80?",
+					"datePublished": "2024-11-14"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.6",
+					"episodeNumber": "5.6",
+					"name": "Of Gods and Angels",
+					"datePublished": "2024-11-21"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.7",
+					"episodeNumber": "5.7",
+					"name": "Fully Dilated",
+					"datePublished": "2024-11-28"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.8",
+					"episodeNumber": "5.8",
+					"name": "Upper Decks",
+					"datePublished": "2024-12-05"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.9",
+					"episodeNumber": "5.9",
+					"name": "Fissure Quest",
+					"datePublished": "2024-12-12"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.10",
+					"episodeNumber": "5.10",
+					"name": "The New Next Generation",
+					"datePublished": "2024-12-19"
 				}
 			]
 		}
