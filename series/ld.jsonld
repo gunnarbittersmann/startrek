@@ -2325,7 +2325,21 @@
 				},
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_5"
 			},
-			"numberOfEpisodes": 10
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.1",
+					"episodeNumber": "5.1",
+					"datePublished": "2024-10-24"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.2",
+					"episodeNumber": "5.2",
+					"datePublished": "2024-10-24"
+				}
+			]
 		}
 	]
 }
