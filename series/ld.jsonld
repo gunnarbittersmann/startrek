@@ -2338,6 +2338,54 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.2",
 					"episodeNumber": "5.2",
 					"datePublished": "2024-10-24"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.3",
+					"episodeNumber": "5.3",
+					"datePublished": "2024-10-31"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.4",
+					"episodeNumber": "5.4",
+					"datePublished": "2024-11-07"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.5",
+					"episodeNumber": "5.5",
+					"datePublished": "2024-11-14"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.6",
+					"episodeNumber": "5.6",
+					"datePublished": "2024-11-21"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.7",
+					"episodeNumber": "5.7",
+					"datePublished": "2024-11-28"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.8",
+					"episodeNumber": "5.8",
+					"datePublished": "2024-12-05"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.9",
+					"episodeNumber": "5.9",
+					"datePublished": "2024-12-12"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.10",
+					"episodeNumber": "5.10",
+					"datePublished": "2024-12-19"
 				}
 			]
 		}
