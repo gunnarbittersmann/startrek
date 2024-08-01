@@ -1341,6 +1341,19 @@
 					},
 					"description": {
 						"de": "Während einer Außenmission auf einem Planeten wird die Archäologin Marla Aster durch eine Explosion getötet. Nachdem Picard Marlas 12-jährigen Sohn Jeremy darüber informiert hat, erscheint Marla plötzlich in Jeremys Quartier. Data findet heraus, dass es sich bei der Frau um ein aus Energie bestehendes Wesen handelt. Dieses teilt mit, nur für den Jungen sorgen zu möchten und dass die lange ausgestorbene Rasse, mit der es einst auf dem Planeten lebte, für den Tod der Mutter verantwortlich ist. Mit der Hilfe von Worf, Wesley und Troi kann Picard den Jungen, der die Frau gern als seine Mutter behalten würde, davon überzeugen, dass Jeremy in der von dem Wesen geschaffenen, künstlichen Umgebung nie ein richtiges Leben haben könne. Schließlich zieht sich das Wesen zurück."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Md7mnAgVD20"
+						}
 					}
 				},
 				{
