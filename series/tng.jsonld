@@ -1972,6 +1972,19 @@
 					},
 					"description": {
 						"de": "Die Enterprise findet ein treibendes talarianisches Raumschiff im All, an Bord befinden sich vier Talarianer und ein Mensch. Letzterer nennt sich Jono, den Talarianer im Kindesalter entführt hatten, nachdem sie bei einem Überfall auf eine Kolonie seine Eltern ermordet hatten. Daraufhin hatte ihn der Talarianer Endar als Ersatz für seinen eigenen, gestorbenen Sohn adoptiert. Picard stellt Jono vor die Wahl, zu seinen menschlichen Großeltern oder zu Endar zurückzukehren, der mit einem Krieg droht, falls er Jono nicht zurückerhält. Mit der Entscheidung überfordert und deshalb seine eigene Hinrichtung provozierend, versucht Jono, Picard zu ermorden, welcher aber verletzt überlebt. Daraufhin lässt Picard Jono zu Endar zurückkehren."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/UZ6BCr_VeYk"
+						}
 					}
 				},
 				{
