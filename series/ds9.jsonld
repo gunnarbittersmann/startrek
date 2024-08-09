@@ -615,6 +615,19 @@
 					},
 					"abstract": {
 						"de": "Ein junger Cardassianer, während des Krieges zum Waisen geworden und von Bajoranern aufgezogen, kommt auf die Station und greift Garak, den letzten Cardassianer auf der Station, an. Bashir entdeckt bei seinen Nachforschungen, dass es noch zahlreiche cardassianische Waisen auf Bajor gibt, die in politischen Ränkelspielen auf Cardassia eine große Rolle spielen."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/M_Y7jsIbic8"
+						}
 					}
 				},
 				{
