@@ -1498,7 +1498,6 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 3,
-			"numberOfEpisodes": 10,
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
@@ -1508,7 +1507,95 @@
 					"name": "Wikipedia"
 				},
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3"
-			}
+			},
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.1",
+					"episodeNumber": "3.1",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.2",
+					"episodeNumber": "3.2",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
+					"episodeNumber": "3.3"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.4",
+					"episodeNumber": "3.4",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"name": "Jonathan Frakes"
+					},
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
+					"episodeNumber": "3.5"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
+					"episodeNumber": "3.6"
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.7",
+					"episodeNumber": "3.7",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
+						"name": "Sharon Lewis"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.8",
+					"episodeNumber": "3.8",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.9",
+					"episodeNumber": "3.9",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
+						"name": "Andrew Coutts"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.10",
+					"episodeNumber": "3.10",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"name": "Maja Vrvilo"
+					}
+				}
+			]
 		}
 	]
 }
