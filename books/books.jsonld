@@ -102,6 +102,46 @@
 							"embedUrl": "https://www.youtube-nocookie.com/embed/Ek8KT91Ev1g"
 						}
 					}
+				},
+				{
+					"@type": "Book",
+					"name": "Lost to Eternity",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GregCox",
+						"name": "Greg Cox",
+						"givenName": "Greg",
+						"familyName": "Cox"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2024-06-23",
+					"description": {
+						"en": "Three Eras. Three Mysteries. One Ancient Enemy? 2024: Almost forty years ago, marine biologist Gillian Taylor stormed away from her dream job at Sausalito’s Cetacean Institute—and was never seen or heard from again. Now a new true crime podcast has reopened that cold case, but investigator Melinda Silver has no idea that her search for the truth about Gillian’s disappearance will ultimately stretch across time and space—and attract the attention of a ruthless obsessive with his own secret agenda. 2268: The U.S.S. Enterprise’s five-year mission is interrupted when Captain James T. Kirk and his crew set out to recover an abducted Federation scientist whose classified secrets are being sought by the Klingons as well. The trail leads to a barbaric world off limits to both Starfleet and the Klingon Empire—and an ageless mastermind on a quest for eternity. 2292: The Osori, an ancient alien species, has finally agreed to establish relations with its much younger neighbors: the Federation, the Klingons, and the Romulans. A joint mission involving ships from all three powers, including the Enterprise-A, turns explosive when one of the Osori envoys is apparently killed. Each side blames the others, but the truth lies buried deep, nearly three hundred years in the past…"
+					},
+					"url": "https://www.simonandschuster.com/books/Lost-to-Eternity/Greg-Cox/Star-Trek-The-Original-Series/9781668050057",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668050057/lost-to-eternity-9781668050057_lg.jpg",
+					"isbn": "9781668050057",
+					"numberOfPages": 400,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/l17QnIGbx1A"
+						}
+					}
 				}
 			]
 		},
