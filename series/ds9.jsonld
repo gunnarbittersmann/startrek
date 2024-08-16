@@ -1213,6 +1213,19 @@
 					},
 					"abstract": {
 						"de": "Auf DS9 wird ein Jem’Hadar-Baby entdeckt, das in rasender Geschwindigkeit heranwächst und sich, wie von den Gründern vorgesehen, zu einem Krieger entwickelt. Aufgrund der vor allem von Odo empfundenen Aussichtslosigkeit, den Jem’Hadar zu etwas anderem als einer Killermaschine umzuerziehen, bringt er ihn zu dessen Artgenossen."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/aldom_HzCQ4"
+						}
 					}
 				},
 				{
