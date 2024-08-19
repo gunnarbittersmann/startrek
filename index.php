@@ -104,6 +104,9 @@
 					<a>Artwork</a>
 					<ul>
 						<li>
+							<a href="artwork/all-intros">all intros</a>
+						</li>
+						<li>
 							<a href="artwork/discovery-opening-titles">Discovery seasons opening titles</a>
 						</li>
 						<li>
