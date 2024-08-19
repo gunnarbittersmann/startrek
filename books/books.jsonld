@@ -149,6 +149,61 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/tng",
+				"name": "Star Trek: The Next Generation",
+				"identifier": "DS9",
+				"url": "https://bittersmann.de/startrek/series/tng"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Pliable Truth",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tng"
+					},
+					"datePublished": "2024-05-21",
+					"abstract": {
+						"en": "A thrilling new Star Trek: The Next Generation and Deep Space Nine adventure from New York Times bestselling author Dayton Ward!"
+					},
+					"description": {
+						"en": "2369: Shortly after Starfleet thwarts a Cardassian attack on a Federation star system, the Cardassian government orders an end to its fifty-year occupation of the planet Bajor. As a result, a newly installed Bajoran government requests immediate assistance from the Federation to mediate how the withdrawal will proceed and what recompense, if any, Bajorans are owed from their brutal oppressors. Captain Jean-Luc Picard is ordered by Starfleet Command to oversee these tense negotiations on Terok Nor, the massive Cardassian space station still orbiting Bajor, even as he still deals with his own recent trauma as a prisoner held and tortured by a Cardassian interrogator. As these critical peace talks get underway, Ensign Ro Laren receives a call for help from a friend thought long dead, exposing an insidious secret from inside Cardassian space. Now, Picard and the crew of the Starship Enterprise must act to prevent an interstellar incident from reigniting deadly hostilities between the Federation and the Cardassians, and shattering any hope of justice for the Bajoran people…"
+					},
+					"url": "https://www.simonandschuster.com/books/Pliable-Truths/Dayton-Ward/Star-Trek-The-Next-Generation/9781668046418",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668046418/pliable-truths-9781668046418_lg.jpg",
+					"isbn": "9781668046418",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/I8EieNKmq9g"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
 				"@id": "https://bittersmann.de/startrek/series/ds9",
 				"name": "Star Trek: Deep Space Nine",
 				"identifier": "DS9",
