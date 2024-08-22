@@ -3615,6 +3615,19 @@
 					},
 					"description": {
 						"de": "Icheb ist einer der Jugendlichen, die die Voyager von einem Borg-Kubus gerettet haben (siehe die Folge Das Kollektiv in Staffel 6). Der Crew der Voyager ist es gelungen, die Familie von Icheb zu lokalisieren. Icheb fällt der Abschied von der Voyager schwer, auch weil die Kultur seiner Familie sich lediglich in Genetik auf einem höheren technologischen Niveau befindet und Icheb seinem Interesse für Astrometrie nicht mehr nachgehen werden kann. Auch Seven of Nine möchte sich ungern von Icheb trennen, zumal der Planet in der Nähe von einem von den Borg genutzten Transwarpkanal liegt. Nachdem die Voyager bereits Icheb bei seinen Eltern zurückgelassen hat, fallen Seven Unstimmigkeiten in der Geschichte von Ichebs Eltern auf. Die Voyager kehrt zum Planeten von Ichebs Eltern zurück. Wie sich herausstellt, ist Icheb von Geburt an genetisch so verändert, dass er einen für die Borg tödlichen Virus in sich trägt. Ichebs Volk nutzt genetisch manipulierte Kinder und lässt sie von den Borg assimilieren, um die Borg-Schiffe, die in der Nähe des Planeten vorbeifliegen, zu sabotieren. So sind auch die erwachsenen Drohnen auf dem Borg-Kubus getötet worden, auf dem die Voyager Icheb gefunden hat. Icheb ist von seinen Eltern betäubt und mit einer Sonde bereits losgeschickt worden, um erneut assimiliert zu werden. Der Voyager gelingt es, die Sonde wieder einzufangen und ein auftauchendes Borgschiff zu zerstören. Icheb bleibt nun an Bord der Voyager, die ihre Reise zur Erde fortsetzt."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/FXwMkx4gwwM"
+						}
 					}
 				},
 				{
