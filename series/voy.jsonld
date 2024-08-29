@@ -3879,6 +3879,19 @@
 					},
 					"description": {
 						"de": "Der Kortikalknoten von Seven of Nine hat eine schwere Fehlfunktion und muss ersetzt werden. Die Crew versucht zunächst Seven zu helfen, indem sie aus einem Gebiet mit Überbleibseln eines zerstörten Borg-Kubus einen Kortikalknoten aus einer toten Borgdrohne birgt. Wie sich aber in Simulationen des Doktors herausstellt, kann dieser Knoten Sevens Kortikalknoten nicht ersetzen, sondern Seven benötigt eine Transplantation von einer lebenden Drohne. Icheb bietet seinen Kortikalknoten als Spende an, denn er kann auch ohne ihn leben, da er nicht so lange im Borgkollektiv assimiliert war wie Seven. Seven wehrt sich zunächst gegen dieses Angebot und bereitet sich auf ihren Tod vor, woraufhin Icheb seinen Alkoven so umprogrammiert, dass sein Kortikalknoten entfernt wird, und überzeugt schließlich gemeinsam mit dem Doktor und Janeway Seven, seine Spende zu akzeptieren. Die Operation erfolgt erfolgreich. Seven erholt sich wieder und bietet Icheb an, ihn bei seinen Vorbereitungen für die Zulassungsprüfung zur Sternenflottenakademie zu unterstützen."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/"
+						}
 					}
 				},
 				{
