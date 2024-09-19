@@ -2049,6 +2049,19 @@
 					},
 					"description": {
 						"de": "Captain Kirk soll von der Enterprise in diplomatischer Mission auf den Planeten Gideon gebeamt werden, der bisher noch nicht Mitglied der Föderation ist. Kirk soll allein mit dem Botschafter Hodin verhandeln. Kirk wird zu den vereinbarten Koordinaten gebeamt und findet sich scheinbar auf der Enterprise wieder. Diese ist jedoch menschenleer. Der Botschafter leugnet gegenüber Spock, dass Kirk auf Gideon angekommen ist. Dieser kann nichts unternehmen, da Gideon keine Ermittler zulässt und gegen Sensoren abgeschirmt ist. Kirk trifft auf eine junge blonde Frau namens Odona an Bord, die sagt, dass sie von einem extrem überbevölkerten Planeten kommt und sich nichts sehnlicher wünscht als die Einsamkeit. Die Gideoner lassen sich auf einen Transporter-Test ein. Ratsmitglied Krodak wird ohne Probleme aufs Schiff und wieder zurück gebeamt, ohne dass dabei Probleme auftreten. Odona wird von Kirk mit der Veganischen Choriomeningitis infiziert. Dies war von vornherein ihre Absicht. Sie bittet ihn, bei ihr zu bleiben, um noch andere mit der tödlichen Krankheit zu infizieren. Spock erkennt, dass die Beamkoordinaten für Kirk und die für den Test einen Zahlendreher haben. Er beamt sich auf eigene Verantwortung auf die Koordinaten wie Kirk zuvor. Beide erfahren, dass die Bevölkerung Gideons quasi unsterblich ist und sich deshalb ins Unermessliche vermehrt hat. Ziel der Gideons ist es, den Tod wieder in ihre überbevölkerte und keimfreie Gesellschaft zu bringen. Entgegen Odonas Wunsch wird sie mit Kirk auf die echte Enterprise gebeamt und dort geheilt. Sie ist nun genau wie Kirk nicht mehr krank, aber weiterhin ansteckend. Sie beamt nach Gideon zurück, um die Seuche zu verbreiten."
+					},
+					"review":	{
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/na1Vs8sR23I"
+						}
 					}
 				},
 				{
