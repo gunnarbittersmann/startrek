@@ -961,6 +961,19 @@
 					],
 					"abstract": {
 						"en": "Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/0ErYffbJi4c"
+						}
 					}
 				},
 				{
