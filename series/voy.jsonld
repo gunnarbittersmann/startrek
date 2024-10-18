@@ -735,6 +735,20 @@
 					},
 					"abstract": {
 						"en": "A mission to acquire Telerium goes wrong causing Tuvok and B’Elanna to be captured and believed to be with the resistance."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-10-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/vPHoFKibITk"
+						}
 					}
 				},
 				{
