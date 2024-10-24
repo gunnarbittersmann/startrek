@@ -2331,13 +2331,37 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.1",
 					"episodeNumber": "5.1",
-					"datePublished": "2024-10-24"
+					"name": "Dos Cerritos",
+					"datePublished": "2024-10-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Dos Cerritos",
+						"datePublished": "2024-10-24"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"name": "Megan Lloyd"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.2",
 					"episodeNumber": "5.2",
-					"datePublished": "2024-10-24"
+					"name": "Shades of Green",
+					"datePublished": "2024-10-24",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Grüntöne",
+						"datePublished": "2024-10-24"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"name": "Bob Suarez"
+					}
 				}
 			]
 		}
