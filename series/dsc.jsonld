@@ -2208,6 +2208,16 @@
 						"en": "After studying Georgiou’s condition, Culber is visited by Dr. Kovich, a mysterious Starfleet operative, who explains that since Georgiou has both traveled through time and from a different universe, her molecules have moved too far from their origin and she is now likely to die. Consulting with Discovery’s computer, which has been augmented with the intelligent Sphere data, Culber believes that Georgiou could be saved by traveling to an uninhabited planet, Dannus V. Stamets and Adira use the SB-19 data to trace the source of the Burn to the Verubin Nebula, and discover a distress signal from a Kelpien starship. On Dannus V, Georgiou and Burnham encounter a strange being named Carl who directs Georgiou to a door. On the other side, she finds herself back in the Mirror Universe during the time she was Emperor. Georgiou finds that her time with Discovery has made her a better person than she was then, and she decides to use her knowledge of the past to alter certain events, including rescuing the slave Saru and sparing the life of the treacherous Michael Burnham.",
 						"de": "Culber wird von Kovich, einem mysteriösen Sternenflottenmitarbeiter, aufgesucht. Dieser erklärt, dass Georgiou sowohl durch die Zeit gereist ist als auch aus einem anderen Universum, dem Spiegeluniversum, stammt und sich ihre Moleküle zu weit von ihrem Ursprung entfernt haben, so dass sie nun wahrscheinlich sterben wird. Nach Rücksprache mit dem Computer der Discovery, der mit den Daten der intelligenten Sphäre erweitert wurde, glaubt Culber, dass Georgiou gerettet werden könnte, indem sie zu einem unbewohnten Planeten, Dannus V, reist. Stamets und Adira verwenden die SB-19-Daten, um die Quelle des Brandes zum Verubin-Nebel zurückzuverfolgen und entdecken ein Notsignal von einem Kelpianer-Raumschiff. Auf Dannus V treffen Georgiou und Burnham auf ein seltsames Wesen namens Carl, das Georgiou zu einer Tür führt. Auf der anderen Seite findet sie sich im Spiegeluniversum wieder, in der Zeit als sie Imperatorin des Terranischen Reiches war. Georgiou stellt fest, dass ihre Zeit bei der Discovery sie verändert hat und sie nutzt ihr Wissen über die Vergangenheit, um bestimmte Ereignisse zu verändern, darunter die Rettung des Sklaven Saru und die Verschonung des Lebens der verräterischen Michael Burnham."
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Terra_Firma_(Star_Trek:_Discovery)"
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -2281,6 +2291,16 @@
 					"description": {
 						"en": "Georgiou hopes to lead an improved Terran Empire with Burnham by her side, and has the latter tortured until she pledges her allegiance. Georgiou reveals to Saru that the Kelpien biological change known as Vahar’ai does not mean it is time for him to be culled; rather, it is a natural process that will make him stronger if he allows it to happen. Burnham and Georgiou work together to hunt Burnham’s former lover Gabriel Lorca, but this is a ruse and Burnham soon turns on Georgiou. After a fight, Georgiou kills Burnham before dying herself in Saru’s arms. She then returns to Dannus V, where Carl reveals himself to be the Guardian of Forever. He explains that he can send Georgiou to another time and place where she will survive, but he had to test her first and was happy to see her attempt to change the fate of the Terran Empire. Georgiou says goodbye to Burnham before traveling through the Guardian’s portal. On Discovery, Book wishes to prove his worth to the crew and uses Emerald Chain technology to help them connect to the computer systems of the Kelpien starship in the Verubin Nebula.",
 						"de": "Georgiou hofft, mit Burnham an ihrer Seite ein verbessertes terranisches Imperium anführen zu können, und lässt sie foltern, bis sie ihr die Treue schwört. Georgiou offenbart Saru, dass die biologische Veränderung der Kelpianer, die als Vahar’ai bekannt ist, nicht bedeutet, dass es für ihn an der Zeit ist, getötet zu werden, sondern dass es sich um einen natürlichen Prozess handelt, der ihn stärker macht, wenn er es zulässt. Burnham und Georgiou arbeiten zusammen, um Burnhams ehemaligen Liebhaber Gabriel Lorca zu jagen, aber das ist eine List Burnhams, die sich gegen Georgiou richtet. Nach einem Kampf tötet Georgiou Burnham, bevor sie selbst in den Armen von Saru stirbt. Sie kehrt nach Dannus V zurück, wo Carl sich als der Wächter der Ewigkeit zu erkennen gibt. Er erklärt, dass er Georgiou in eine andere Zeit und an einen anderen Ort schicken kann, wo sie überleben wird, aber er musste sie erst testen und war froh, als sie versuchte, das Schicksal des Terranischen Reiches zu ändern. Georgiou verabschiedet sich von Burnham, bevor sie durch das Portal des Wächters reist. Auf der Discovery will Book seinen Wert beweisen und nutzt Smaragdkettentechnologie, um der Besatzung zu helfen, sich mit den Systemen des Kelpianer-Raumschiffs zu verbinden."
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Terra_Firma_(Star_Trek:_Discovery)"
 					},
 					"review": [
 						{
