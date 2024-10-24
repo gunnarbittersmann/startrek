@@ -118,6 +118,20 @@
 					},
 					"description": {
 						"de": "Während Archer durch Reed die Zielausrichtungsscanner für die Torpedos kalibrieren lässt, entdeckt die Crew ein driftendes Raumschiff, das sie untersucht, indem sie sich an Bord begibt. Dort befinden sich 15 kopfüber an der Decke hängende Leichen der humanoiden Spezies Axanar. Nach T’Pols Hinweis, die Mörder der Toten könnten zurückkehren und auch der Enterprise gefährlich werden, lässt Archer die Enterprise wieder wegfliegen. Wegen seines schlechten Gewissens, die Ursache der Tode nicht aufgeklärt zu haben, lässt Archer aber alsbald wenden und Phlox eine Autopsie vornehmen. Dabei findet er heraus, dass den Körpern Triglomylin entzogen wird, einer Körperflüssigkeit ähnlich der Lymphflüssigkeit. Währenddessen erfüllt sich T’Pols Befürchtung und das Raumschiff der Mörder kehrt zurück; es schießt die Enterprise sodann flugunfähig und versucht sie in ihre Gewalt zu bringen. Ein weiteres, hinzugekommenes Raumschiff der Axanar zerstört schließlich das angreifende Schiff, nachdem sich Hoshi nach einigem Zögern dazu überwunden hat, die Axanar in deren ihr bislang fremder Sprache um Hilfe zu bitten."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-10-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3W7w4ZrNySk"
+						}
 					}
 				},
 				{
