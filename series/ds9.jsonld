@@ -207,7 +207,7 @@
 					"abstract": {
 						"de": "Bei einer Expedition in den Gamma-Quadranten stößt Dax auf Picards Freundin Vash. Nach der Rückkehr zur Station verliert DS9 zunehmend Energie, fliegt auf das Wurmloch zu und droht dabei zerstört zu werden. O’Brien entdeckt den allmächtigen Q auf der Station, der versucht Vash davon zu überzeugen wieder mit ihm durch den Weltraum zu reisen. O’Brien vermutet, dass er hinter den Problemen steckt."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -615,6 +615,19 @@
 					},
 					"abstract": {
 						"de": "Ein junger Cardassianer, während des Krieges zum Waisen geworden und von Bajoranern aufgezogen, kommt auf die Station und greift Garak, den letzten Cardassianer auf der Station, an. Bashir entdeckt bei seinen Nachforschungen, dass es noch zahlreiche cardassianische Waisen auf Bajor gibt, die in politischen Ränkelspielen auf Cardassia eine große Rolle spielen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/M_Y7jsIbic8"
+						}
 					}
 				},
 				{
@@ -825,6 +838,20 @@
 					},
 					"abstract": {
 						"de": "Sisko und O’Brien stranden auf einem Planeten, wo sie auf eine Gemeinschaft stoßen, die sich dem einfachen Leben ohne Technik verschrieben hat und von der Anführerin Alixus beinah diktatorisch geführt wird. Sisko und O’Brien verstoßen durch ihre Bemühungen zurück auf ihr Schiff zu gelangen schnell gegen die Regeln und werden drakonisch bestraft. O’Brien erkennt jedoch schnell, dass es kein natürliches Phänomen ist, dass sie an der Rückkehr zum Schiff hindert."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-10-10",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bdJ60oX-Mms"
+						}
 					}
 				},
 				{
@@ -1200,6 +1227,19 @@
 					},
 					"abstract": {
 						"de": "Auf DS9 wird ein Jem’Hadar-Baby entdeckt, das in rasender Geschwindigkeit heranwächst und sich, wie von den Gründern vorgesehen, zu einem Krieger entwickelt. Aufgrund der vor allem von Odo empfundenen Aussichtslosigkeit, den Jem’Hadar zu etwas anderem als einer Killermaschine umzuerziehen, bringt er ihn zu dessen Artgenossen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/aldom_HzCQ4"
+						}
 					}
 				},
 				{
@@ -1222,7 +1262,7 @@
 					"abstract": {
 						"de": "Auf der Station wird versehentlich ein altes cardassianisches Computerprogramm aktiviert, das noch davon ausgeht, die Station stünde unter cardassianischer Herrschaft und es müsse – etwa durch den Einsatz von Nervengas – ein gerade stattfindender Aufstand bajoranischer Zwangsarbeiter beendet werden. Unterstützt von Garak und Dukat gelingt es der Mannschaft aber letztlich, die Selbstzerstörung der Station zu verhindern und die Ausführung des Programms zu beenden."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
@@ -1256,7 +1296,7 @@
 					"abstract": {
 						"de": "Die Defiant entdeckt einen Planeten, der nur alle 60 Jahre für kurze Zeit in festem Zustand existiert. Die Bewohner können sich daher nicht mehr fortpflanzen und versuchen diese Dimensionswechsel in Zukunft zu verhindern. Dax verliebt sich bei der Suche nach einer Lösung in den Anführer Deral und möchte deshalb auf Meridian bleiben."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
@@ -1290,7 +1330,7 @@
 					"abstract": {
 						"de": "Thomas Riker, ein Mitglied des Maquis, entführt die Defiant, um damit eine geheime Schiffswerft des cardassianischen Geheimdienstes aufzuspüren. Kira und Sisko schaffen es aber, Rikers Plan zu durchkreuzen und ihn zu verhaften."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
@@ -1366,7 +1406,7 @@
 					"abstract": {
 						"de": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
@@ -1737,7 +1777,7 @@
 					"abstract": {
 						"de": "Als sich auf der Defiant ein Unfall ereignet, gerät Captain Sisko in den Subraum, wo er durch die Zeit reist und auch seinem stark gealterten Sohn begegnet; dieser hilft ihm schließlich dabei, in seine Zeit zurückzukehren."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
@@ -1897,7 +1937,7 @@
 					"abstract": {
 						"de": "Einige Besatzungsmitglieder werden durch einen Defekt beim Beamen in einer Holosuite gefangen, wo sie in Lebensgefahr geraten, als sie in ein Holoprogramm geraten, in dem Dr. Bashir als Geheimagent seine Freizeit verbringt."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
@@ -2036,7 +2076,7 @@
 					"abstract": {
 						"de": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
@@ -2815,7 +2855,7 @@
 					"abstract": {
 						"de": "Um seinem Vater eine alte Baseballkarte zu beschaffen, erledigt Jake zusammen mit Nog einige Anschaffungen für den Karteneigentümer und wird dabei auch mit dem Dominion konfrontiert."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
@@ -2849,7 +2889,7 @@
 					"abstract": {
 						"de": "Nachdem die Romulaner und andere Völker des Alpha-Quadranten Nichtangriffspakte mit dem Dominion abschließen, lässt die Sternenflotte das Wurmloch verminen, um ein weiteres Aufrüsten des Dominion und ein Anwachsen der von ihm ausgehenden Bedrohung zu verhindern. Wohlwissend, dass die Blockade des Wurmlochs einen Krieg provoziert, veranlasst Sisko die bajoranische Regierung zum Abschluss eines Nichtangriffspaktes mit dem Dominion. Wenig später greift eine Flotte von Cardassianern und Jem’Hadar die mittlerweile fast vollständig evakuierte und von der Sternenflotte verlassene Station an und nimmt sie trotz hoher eigener Verluste ein."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Ups & Downs",
 						"creator": {
@@ -3667,7 +3707,7 @@
 					"abstract": {
 						"de": "Durch den Verlust seines Beines traumatisiert, zieht sich Nog in das Holosuite-Programm zurück, das den Sänger Vic Fontaine beinhaltet."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
