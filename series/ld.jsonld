@@ -2432,6 +2432,23 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Gjhkszl-SPk"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ld#5.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/ld#5.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/4h-uhuBygUE"
+							}
 						}
 					]
 				}
