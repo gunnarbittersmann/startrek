@@ -2,12 +2,13 @@
 	const PREFERRED_LANG = 'de';
 	const IS_LOGO_VISIBLE = FALSE;
 	const IS_DIRECTOR_VISIBLE = FALSE;
+	const IS_AUTHOR_VISIBLE = FALSE;
 	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2023-01-02T14:48Z';
+	const STYLESHEET = '../style.css?date=2024-10-29T13:07Z';
 	const SCRIPT = '../script.js';
 
 	$files = scandir('.');
@@ -98,6 +99,7 @@ EOT;
 						$columnsBeforeReview = 5;
 						if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) { $columnsBeforeReview++; }
 						if (IS_DIRECTOR_VISIBLE) { $columnsBeforeReview++; }
+						if (IS_AUTHOR_VISIBLE) { $columnsBeforeReview++; }
 						if ($data['identifier'] == 'VST') { $columnsBeforeReview++; }
 					?>
 					<?php foreach ($data['containsSeason'] as $season): ?>
@@ -204,6 +206,33 @@ EOT;
 																	resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($director['@id']) ?>"
 																>
 																	<span property="name"><?= htmlSpecialChars($director['name']) ?></span>
+																</li>
+															<?php endforeach; ?>
+														</ul>
+													</td>
+												<?php endif; ?>
+											<?php endif; ?>
+										<?php endif; ?>
+										<?php if (IS_AUTHOR_VISIBLE): ?>
+											<?php if ($episode['author']): ?>
+												<?php if ($episode['author']['name']): ?>
+													<td
+														property="author"
+														typeof="<?= htmlSpecialChars($episode['author']['@type']) ?>"
+														resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['author']['@id']) ?>"
+													>
+														<span property="name"><?= htmlSpecialChars($episode['author']['name']) ?></span>
+													</td>
+												<?php else: ?>
+													<td>
+														<ul>
+															<?php foreach ($episode['author'] as $author): ?>
+																<li
+																	property="author"
+																	typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																	resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																>
+																	<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
 																</li>
 															<?php endforeach; ?>
 														</ul>
