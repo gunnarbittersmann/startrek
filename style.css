@@ -226,6 +226,7 @@ td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
 td[property="author"],
+td:has([property="author"]),
 td[property="review"],
 td:has([property="video"]) {
 	width: 18em;
