@@ -107,6 +107,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
+					},
 					"description": {
 						"en": "Ensign D’Vana Tendi arrives on the USS Cerritos and is given a tour of the starship by ensigns Brad Boimler and Beckett Mariner. Boimler is asked by Captain Carol Freeman to report on any breaches of protocol made by the rebellious Mariner. On a mission, Boimler catches Mariner giving equipment to local farmers. The pair are attacked by a farm animal which destroys Boimler’s uniform and covers him in slime. Meanwhile, commander Jack Ransom unknowingly carries an alien virus from the planet surface to the Cerritos and it quickly infects much of the crew. Ensign Sam Rutherford is on a date with Ensign Barnes when this happens. They fight off infected crew members together, but Rutherford loses interest in Barnes because she does not care about the ship’s mechanics. Chief medical officer T’Ana uses the slime on Boimler to synthesize an antidote for the virus and is praised by Freeman. Boimler chooses not to report Mariner, to the chagrin of Freeman who is Mariner’s mother and was looking for a reason to have her removed from the ship. Mariner offiers to help mentor Boimler.",
 						"de": "Fähnrich D’Vana Tendi trifft auf der USS Cerritos ein und wird von den Fähnrichen Brad Boimler und Beckett Mariner durch das Raumschiff geführt. Boimler wird von Captain Carol Freeman gebeten, über etwaige Protokollverstöße der rebellischen Mariner zu berichten. Auf einer Mission ertappt Boimler Mariner dabei, wie er Ausrüstung an örtliche Farmer verteilt. Die beiden werden von einem Nutztier angegriffen, das Boimlers Uniform zerstört und ihn mit Schleim bedeckt. In der Zwischenzeit bringt Commander Jack Ransom unwissentlich einen außerirdischen Virus von der Planetenoberfläche auf die Cerritos, der schnell einen Großteil der Besatzung infiziert. Fähnrich Sam Rutherford hat ein Date mit Fähnrich Barnes, als dies geschieht. Sie kämpfen gemeinsam gegen infizierte Besatzungsmitglieder, aber Rutherford verliert das Interesse an Barnes, weil sie sich nicht für die Schiffsmechanik interessiert. Die leitende medizinische Offizierin T’Ana benutzt den Schleim auf Boimler, um ein Gegenmittel für das Virus zu synthetisieren und wird von Freeman gelobt. Boimler beschließt, Mariner nicht zu melden, sehr zum Leidwesen von Freeman, die Mariners Mutter ist und nach einem Grund gesucht hat, sie vom Schiff zu entfernen. Mariner bietet sich als Mentor für Boimler an."
@@ -155,6 +160,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisKula",
+						"name": "Chris Kula"
 					},
 					"description": {
 						"en": "Boimler is assigned to a mission to transport Klingon general K’orin to the United Federation of Planets Embassy on Tulgana IV. Mariner has herself assigned to the same mission, revealing that she is old friends with K’orin. The pair drink and reminisce while Boimler flies them to the planet. After they land, a drunken K’orin steals the shuttlecraft. While tracking down K’orin, Boimler feels he is unprepared for field work compared to Mariner, and threatens to quit Starfleet. They are offered assistance from a Ferengi whom Mariner believes is trustworthy, but Boimler cautions against this and is proven correct when the Ferengi pulls a knife on them. Boimler scares the Ferengi away. The pair find K’orin and leave him at the embassy before returning to the Cerritos. Boimler teases Mariner about how he was the one to defeat the Ferengi, unaware that Mariner had staged the incident. Meanwhile, Rutherford transfers from engineering to other divisions hoping to have more time to spend with Tendi. He decides that engineering is where he wants to be, and she chooses to spend time with him while he works.",
@@ -205,6 +215,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DaveIhlenfeld",
+							"name": "Dave Ihlenfeld"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWright",
+							"name": "David Wright"
+						}
+					],
 					"description": {
 						"en": "The Cerritos is en route to Cardassia Prime for peace negotiations when it is re-assigned to instead deliver “diplomatic trinkets” to Gelrak V. This angers Freeman, who believes the Cerritos is not respected by Starfleet. The ensigns teach Tendi about “buffer time”, a long-standing tradition in which the lower decks crew take time to relax between jobs. Boimler accidentally reveals this to Freeman, who institutes a time deadline for all tasks. The ship descends into chaos as the crew attempts to complete their work on time, and this confusion leads to the away team taking the wrong gift to Gelrak V. Offended by this, the people of Gelrak V attack the Cerritos. The crew is unable to respond until Boimler reminds Freeman that they need to be able to complete work in their own time. She halts the time deadlines and the crew are able to focus on repelling the attackers. Freeman later institutes a new mandate named “The Boimler Effect” that encourages crew members to take shortcuts, not blindly follow the rules, and build in “buffer time” whenever they deem fit, much to the chagrin of the by-the-book Boimler.",
 						"de": "Die Cerritos ist auf dem Weg nach Cardassia Prime zu Friedensverhandlungen, als sie umdisponiert wird, um stattdessen „diplomatischen Schmuck“ nach Gelrak V zu liefern. Das verärgert Freeman, die glaubt, die Cerritos werde von der Sternenflotte nicht respektiert. Die Fähnriche unterrichten Tendi über die „Pufferzeit“, eine alte Tradition, bei der sich die Besatzung der unteren Decks zwischen den Einsätzen Zeit zum Entspannen nimmt. Boimler verrät dies versehentlich an Freeman, die eine Frist für alle Aufgaben einführt. Das Schiff versinkt im Chaos, als die Besatzung versucht, ihre Arbeit rechtzeitig zu erledigen, und diese Verwirrung führt dazu, dass das Außenteam das falsche Geschenk nach Gelrak V bringt. Die Besatzung ist nicht in der Lage zu reagieren, bis Boimler Freeman daran erinnert, dass sie in der Lage sein müssen, ihre Arbeit in ihrer eigenen Zeit zu erledigen. Sie stoppt die Zeitvorgaben, und die Besatzung kann sich auf die Abwehr der Angreifer konzentrieren. Später führt Freeman ein neues Mandat mit dem Namen „Der Boimler-Effekt“ ein, das die Besatzungsmitglieder dazu ermutigt, Abkürzungen zu nehmen, die Regeln nicht blind zu befolgen und „Pufferzeit“ einzubauen, wann immer sie es für richtig halten – sehr zum Leidwesen des buchstabengetreuen Boimler."
@@ -253,6 +275,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnnKim",
+						"name": "Ann Kim"
 					},
 					"description": {
 						"en": "The Cerritos joins a joint mission with the USS Merced to tow a disabled generation ship. The ship carries terraforming material that converts inert matter to organic matter. Freeman gives Mariner the most disliked jobs in an effort to force her to transfer to another ship, but Mariner finds a way to make these tasks enjoyable. Freeman then promotes Mariner to lieutenant in an effort to bore her into transferring. During the mission, the terraforming material cripples the Merced and begins terraforming the Cerritos. Mariner works with Freeman to escape the terraforming and use environmental controls to return the ship to its previous state, as well as rescue the crew of the Merced. Meanwhile, Tendi’s clumsiness prevents Lieutenant O’Connor’s spiritual ascension. Despite this, O’Connor nearly sacrifices himself to save Tendi’s life during the terraforming disaster. This act causes him to achieve spiritual ascension, though it appears to be a painful process. Mariner is invited to a meeting where she makes fun of an admiral’s uncommon pronunciation of the word “sensor”, leading to her demotion back to ensign.",
@@ -303,6 +330,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenJoseph",
+						"name": "Ben Joseph"
+					},
 					"description": {
 						"en": "Boimler welcomes his girlfriend, Barbara, onto the Cerritos. Mariner doubts that Barbara is sincerely interested in Boimler and becomes obsessed with proving her hypothesis. The Cerritos provides support to the USS Vancouver in the controlled demolition of an unstable moon. Freeman deals with the alien politics involved before the demolition can proceed. Rutherford and Tendi are excited to tour the larger Vancouver with its state-of-the-art technology. They meet Lt. Commander Docent, who demands to transfer one of them to the Vancouver, against their wishes, after a brief competitive exercise. This results in a brief scuffle. Docent later admits that he cannot handle the exciting and epic adventures on board the Vancouver and was hoping to swap with one of the Cerritos officers to be on a more boring ship. Mariner discovers that Barbara is under the influence of an alien parasite that is attached to Boimler, which she removes. Without the parasite, Barbara leaves Boimler while Mariner and Barbara find they have much in common and become friends. Freeman completes the demolition of the moon.",
 						"de": "Boimler heißt seine Freundin Barbara auf der Cerritos willkommen. Mariner bezweifelt, dass Barbara aufrichtig an Boimler interessiert ist, und ist besessen davon, ihre Hypothese zu beweisen. Die Cerritos unterstützt die USS Vancouver bei der kontrollierten Sprengung eines instabilen Mondes. Freeman muss sich mit der Politik der Außerirdischen auseinandersetzen, bevor die Sprengung durchgeführt werden kann. Rutherford und Tendi sind begeistert von der Besichtigung der größeren Vancouver mit ihrer hochmodernen Technologie. Sie treffen Lt. Commander Docent, der nach einem kurzen Wettstreit verlangt, dass einer von ihnen gegen ihren Willen auf die Vancouver versetzt wird. Dies führt zu einem kurzen Handgemenge. Docent gibt später zu, dass er mit den aufregenden und epischen Abenteuern an Bord der Vancouver nicht zurechtkommt und mit einem der Cerritos-Offiziere tauschen wollte, um auf einem langweiligeren Schiff zu sein. Mariner entdeckt, dass Barbara unter dem Einfluss eines außerirdischen Parasiten steht, der sich an Boimler festgesetzt hat und den sie entfernt. Ohne den Parasiten verlässt Barbara Boimler, während Mariner und Barbara feststellen, dass sie viele Gemeinsamkeiten haben und Freunde werden. Freeman vollendet die Zerstörung des Mondes."
@@ -351,6 +383,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnCochran",
+						"name": "John Cochran"
 					},
 					"description": {
 						"en": "The Cerritos finds itself in a standoff with the Drookmani over the salvage of an old Starfleet ship. Mariner and Boimler’s friend, Ensign Fletcher, offers to recalibrate the ship’s isolinear cores for them so the two can leave work early to attend a concert. They return to find him the victim of an attack and the shield core missing. Rutherford shows off his new holographic assistant to Tendi in the holodeck: this is an anthropomorphic Starfleet badge named Badgey. The Drookmani begin to attack the Cerritos, which is now without shields, causing a holodeck malfunction that results in Badgey becoming homicidal. Badgey attacks Rutherford and Tendi, who defeat him by changing the holodeck program to a tundra which freezes Badgey. Boimler and Mariner discover that Fletcher staged the attack because he was unable to complete the work. The missing core goes on a rampage before being blown out of an airlock. It drifts to the Drookmani ship and disables it, stopping their attack. Fletcher is rewarded for stopping the Drookmani with a transfer to the USS Titan, where he is fired a week later.",
@@ -401,6 +438,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MWillis",
+						"name": "M. Willis"
+					},
 					"description": {
 						"en": "Boimler volunteers to test Rutherford’s new transporter upgrade, which malfunctions and leaves him “phasing”. Tendi genetically engineers a dog with an array of freakish abilities. Both Boimler and the dog are transferred for medical care to “The Farm” on board the USS Osler. Other patients believe the Farm is a front for a horrible place. Freeman is assigned to a covert mission, and Mariner’s old friend Captain Amina Ramsey takes temporary command in her absence. To avoid being promoted by Ramsey, Mariner displays uncharacteristic incompetence, but is forced to confidently take control when the Cerritos finds the USS Rubidoux being torn apart by a hatching space-born entity. The patients on the Osler attempt a mutiny, but are betrayed by Boimler who recovers from his phasing and attempts to make peace. As the patients are about to blow him out of an airlock, they arrive at the Farm, which is a real, luxurious medical spa planet whose inhabitants receive the best care. Boimler tries to stay, but is sent back to the Cerritos since he is cured. Ramsey parts amicably with Mariner.",
 						"de": "Boimler meldet sich freiwillig, um Rutherfords neues Transporter-Upgrade zu testen, das eine Fehlfunktion aufweist und ihn „phasieren“ lässt. Tendi stellt einen Hund mit einer Reihe von seltsamen Fähigkeiten her. Sowohl Boimler als auch der Hund werden zur medizinischen Versorgung auf die „Farm“ an Bord der USS Osler gebracht. Andere Patienten glauben, dass die Farm nur eine Fassade für einen schrecklichen Ort ist. Freeman wird zu einer verdeckten Mission abkommandiert, und Mariners alte Freundin Captain Amina Ramsey übernimmt in ihrer Abwesenheit vorübergehend das Kommando. Um zu verhindern, dass sie von Ramsey befördert wird, zeigt Mariner untypische Inkompetenz, ist aber gezwungen, selbstbewusst die Kontrolle zu übernehmen, als die Cerritos die USS Rubidoux findet, die von einem aus dem Weltraum schlüpfenden Wesen auseinandergerissen wird. Die Patienten auf der Osler versuchen eine Meuterei, werden aber von Boimler verraten, der sich von seinem Phasing erholt und versucht, Frieden zu schließen. Als die Patienten ihn gerade aus einer Luftschleuse werfen wollen, kommen sie auf der Farm an, einem echten, luxuriösen medizinischen Kurplaneten, dessen Bewohner die beste Pflege erhalten. Boimler versucht zu bleiben, wird aber auf die Cerritos zurückgeschickt, da er geheilt ist. Ramsey trennt sich freundschaftlich von Mariner."
@@ -449,6 +491,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GarrickBernard",
+						"name": "Garrick Bernard"
 					},
 					"description": {
 						"en": "Mariner, Boimler, Tendi, and Rutherford are brought before an alien court by Clar, who demands they testify about the actions of the Cerritos’s senior crew. Mariner relates a story about a mishandled standoff with the insectoid Clickets, who are aggravated by Mariner misunderstanding Freeman’s orders. Rutherford recalls a high-stakes mission stealing a Romulan Bird of Prey starship from a Vulcan starship museum, but he has gaps in his memory due to his cybernetic implant. Tendi testifies about being mistakenly brought on a covert mission on the Bird of Prey to the planet Romulus to steal an unknown package. Clar doubts their accounts and confusion, believing that Starfleet officers should know what is happening on their ship, but Boimler assures him that Starfleet crew members make mistakes all the time (including antics with Q or boarding the wrong vessel), and accuses Clar of holding a drumhead trial. Clar clarifies that this is actually a party celebrating his rescue from Romulus by the Cerritos, and he was just seeking an account of those events. The ensigns later ignore another encounter with Q.",
@@ -499,6 +546,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenRodgers",
+						"name": "Ben Rodgers"
+					},
 					"description": {
 						"en": "To help him prepare for an interview with Freeman, Boimler creates a holodeck program using the crews’ private logs to produce an accurate simulation of the Cerritos and its crew. Because of Mariner’s recent behavior, Freeman sends her to the ship’s therapist, Dr. Migleemo. Mariner insists that she is fine. Later, she spitefully takes over Boimler’s program to create a movie-like experience where she plays the villainous Vindicta. Mariner invades the simulation of the Cerritos and kills the crew. Boimler and Rutherford join the holographic crew to fight against Vindicta, while Tendi leaves the simulation after being disturbed by Mariner’s behavior. Mariner ultimately crashes the simulation of the Cerritos and then fights a holographic recreation of herself, causing her to realize her true feelings for her mother and Starfleet. Concluding that this “therapy” has worked, she leaves the holodeck. Boimler completes the simulation and accidentally discovers from it that Freeman is Mariner’s mother. In the interview with the captain, Boimler fails due to panicking about his knowledge of her relationship to Mariner.",
 						"de": "Um sich auf das Gespräch mit Freeman vorzubereiten, erstellt Boimler ein Holodeck-Programm, das die privaten Logbücher der Besatzung nutzt, um eine genaue Simulation der Cerritos und ihrer Besatzung zu erstellen. Aufgrund von Mariners Verhalten in letzter Zeit schickt Freeman sie zum Schiffstherapeuten Dr. Migleemo. Mariner besteht darauf, dass es ihr gut geht. Später übernimmt sie boshafterweise Boimlers Programm, um eine filmähnliche Erfahrung zu schaffen, in der sie die schurkische Vindicta spielt. Mariner dringt in die Simulation der Cerritos ein und tötet die Besatzung. Boimler und Rutherford schließen sich der holografischen Besatzung an, um gegen Vindicta zu kämpfen, während Tendi die Simulation verlässt, nachdem er sich durch Mariners Verhalten gestört fühlt. Mariner stürzt schließlich die Simulation der Cerritos ab und kämpft dann gegen eine holografische Nachbildung ihrer selbst, was sie dazu bringt, ihre wahren Gefühle für ihre Mutter und die Sternenflotte zu erkennen. Da sie zu dem Schluss kommt, dass diese „Therapie“ funktioniert hat, verlässt sie das Holodeck. Boimler schließt die Simulation ab und erfährt dabei zufällig, dass Freeman die Mutter von Mariner ist. Bei der Befragung des Captains scheitert Boimler, weil sie in Panik gerät, weil er von ihrer Beziehung zu Mariner weiß."
@@ -547,6 +599,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BarryJKelly",
 						"name": "Barry J. Kelly"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
 					},
 					"description": {
 						"en": "Boimler inadvertently reveals to the crew that Mariner is Freeman’s daughter. The Cerritos picks up new crew members, including an Exocomp named Peanut Hamper. They receive a distress call from the USS Solvang, and find it destroyed by the Pakleds, a group of unintelligent aliens who have become a threat while being ignored by Starfleet. They begin tearing apart the Cerritos. Rutherford plans to disable the Pakled ship using a computer virus developed by Badgey. Peanut Hamper refuses to deliver the virus, forcing Lieutenant Shaxs and Rutherford to fly a shuttle to the Pakled ship. There, Badgey uploads the virus but also engages the ship’s self-destruct in an attempt to kill Rutherford. Shaxs takes Rutherford’s cybernetic implants and sacrifices himself to help Rutherford escape; the latter loses his long-term memory. When more Pakled ships arrive, the Cerritos is saved by the USS Titan, captained by William Riker. A funeral is held for Shaxs. Freeman makes peace with Mariner and proposes they work together to bend Starfleet regulations. Boimler accepts a promotion to the USS Titan.",
@@ -652,6 +709,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
+					},
 					"description": {
 						"en": "After Starfleet makes first contact with the planet Apergos, the USS Cerritos arrives for “second contact”. While power-washing some of the buildings, Ensign Beckett Mariner—the daughter of Captain Carol Freeman—discovers an ancient defense system that attacks Mariner. It discharges a beam of energy that instead hits First Officer Jack Ransom and gives him god-like abilities. Ensign D’Vana Tendi becomes concerned that her friend Ensign Sam Rutherford’s personality has drastically changed since he lost his memory and got a new cyborg eye implant. She attempts to fix him with her medical equipment, but scares him off. Tendi decides to implement more extreme measures, but soon realizes how she is treating her friend and makes up with Rutherford. Ransom goes mad with his new power and creates a giant, floating head that goes into space and attacks the Cerritos. On the ground, Mariner kicks his headless body in the crotch which diminishes his powers and eventually returns him to normal. On the USS Titan, Ensign Brad Boimler struggles while serving under Captain William Riker.",
 						"de": "Drei Monate sind vergangen. Die USS Cerritos hat den Zweitkontakt mit dem Planeten Apergos erfolgreich beendet. Mit dem Einverständnis ihrer Mutter, Captain Carol Freeman, säubert Beckett Mariner noch ein verschmutztes Gebäude der Hauptstadt, um die Bewohner damit anzuregen, auch andere Häuser sauber zu halten. Dabei entlädt sich jedoch ein Energiestrahl aus dem Gebäude und trifft den Ersten Offizier Jack Ransom. Der erhält dadurch gottgleiche Fähigkeiten. Sein riesiger Kopf schwebt in den Weltraum, um die Cerritos anzugreifen. Auf Apergos tritt Mariner dem kopflosen Ransom in den Schritt, was dessen Kräfte wieder normalisiert. Fähnrich D’Vana Tendi sorgt sich indessen um ihren Freund, Fähnrich Sam Rutherford, weil der ein neues Implantat bekommen hat. Währenddessen wird Brad Boimler auf der USS Titan in ein Gefecht mit den Pakleds verwickelt."
@@ -700,6 +762,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisKula",
+						"name": "Chris Kula"
 					},
 					"description": {
 						"en": "After a prominent member of the Collector’s guild dies, the Cerritos is tasked with preparing his collection to be catalogued under the supervision of Collector Siggi. The ship’s new chief of security, Kayshon, joins the away team with Mariner, Tendi, Rutherford, and Jet Manhaver, an ensign who takes over Boimler’s position and makes Mariner feel threatened. Meanwhile, on the Titan, Boimler helps an away team survive a dangerous mission but is accidentally cloned when he is being transported back to the ship. Unknown to Starfleet, Collector Siggi steals a rare mask from the collection which triggers the dead collector’s automated defense mechanisms which attack the away team. Kayshon is turned into a rag doll in the chaos. Freeman does not check in with the team following a leadership review that criticized her for micro-managing. Manhaver and Mariner clash over their different approaches to escaping, before realizing that they need to let Rutherford and Tendi take charge. The team makes it back to the Cerritos where Boimler returns, keeping him separate from the clone on the Titan.",
@@ -750,6 +817,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MWillis",
+						"name": "M. Willis"
+					},
 					"description": {
 						"en": "Chief medical officer T’Ana sends Tendi to retrieve an important family heirloom, and Mariner joins her. After retrieving an old box, they decide to look at what is inside and find a “libido post” that Caitians like T’Ana use to relieve their annual need to have sex. The pair accidentally break the post and go on a mission to fix it during which they realize that they do not know much about each other. They fail to fix the post, but T’Ana says that she only wanted the box anyway. Rutherford is startled to see tactical officer Shaxs walking around the Cerritos after Shaxs had sacrificed his life to save Rutherford. He is assured that members of Starfleet’s bridge crews die and return in many different ways quite often, but still wants to know how Shaxs survived. When he finally builds up the courage to ask, Shaxs tells him something so horrifying that Rutherford is scarred forever. When Lieutenant Tom Paris boards the ship, Boimler wants to meet him and have Paris sign a commemorative plate with his face on it, but due to access issues he has to crawl through the Jefferies tube to get to the bridge.",
 						"de": "Tom Paris besucht die USS Cerritos. Brad Boimler wird von den Systemen der USS Cerritos nicht mehr als Crewmitglied erkannt. Er muss durch die Jefferies-Röhren kriechen, um seinen Erinnerungs-Teller mit dem Bild von Tom Paris signieren zu lassen. Lieutenant Shaxs ist überraschend wieder zurück, ohne dass erklärt wird, wie er zurückkam. Als Rutherford ihn danach fragt, kann er die schreckliche Wahrheit nicht ertragen. Tendi soll nach Qualor II fliegen und ein privates Familienerbstück von Dr. T’Ana auf das Schiff holen. Sie nimmt Mariner mit. Beide finden heraus, dass es sich bei dem Erbstück um einen sogenannten „Libidopfosten“ handelt, den Caitianer benutzen, weil sie einmal im Jahr intim sein müssen, um nicht verrückt zu werden. Als der Pfosten versehentlich zerbricht, versuchen sie ihn zuerst auf Sternenbasis Earhart und dann auf einem orionischen Piratenstützpunkt reparieren zu lassen, was beides misslingt. Um Tendi zu schützen, lässt Mariner bei der Rückkehr das Shuttle absichtlich mit der Cerritos kollidieren, wobei angeblich das Erbstück zerstört wurde. T’Ana brauchte aber nur die Kiste, in der das Erbstück lag."
@@ -798,6 +870,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenRodgers",
+						"name": "Ben Rodgers"
 					},
 					"description": {
 						"en": "Boimler and Rutherford learn from the Cerritos bartender that Mariner may be a Section 31 spy. When a rare Mugato is detected on a planet that it should not be on, the Cerritos is sent to investigate. Mariner, Boimler, and Rutherford join Shaxs and the away team. They discover many Mugatos that are being kept captive by Ferengi who are harvesting and selling the animals’ horns. The away team attacks and the Mugatos are released, but Boimler and Rutherford get lost in the chaos. The Ferengi’s buyer attempts to escape and is captured by the Cerritos, which accidentally destroys his ship. Not realizing who he is, Freeman compensates him with a shuttle and some valuable items before learning that this was a scam. Boimler and Rutherford find Mariner, who they believe is a terrifying spy, but she convinces them that she is not. Together they convince the Ferengi to change their operation into a Mugato sanctuary and profit off visitors. On the Cerritos, Tendi is tasked with tracking down and scanning crew members who have been avoiding their regular medical checkups.",
@@ -848,6 +925,18 @@
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DaveIhlenfeld",
+							"name": "Dave Ihlenfeld"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWright",
+							"name": "David Wright"
+						}
+					],
 					"description": {
 						"en": "The USS Cerritos escorts a Doopler emissary to Starbase 25. Dooplers involuntarily duplicate when embarrassed so the crew go out of their way to keep him comfortable, but Freeman accidentally embarrasses the emmissary and he begins to uncontrollably duplicate throughout the ship. She realizes that this will reverse if he gets angry and orders the crew to insult him. Mariner plans to get her and Boimler into a party at the starbase using Boimler’s clone’s invitation, but only Boimler is given entry and Mariner reveals how hurt she was that he abandoned her to work on the Titan. Boimler decides to leave the party and join Mariner at a dive bar. Tendi and Rutherford work on rebuilding a favorite model ship of theirs. Rutherford is frustrated that he cannot rebuild it as easily as he did before he lost his memories, until Tendi explains that he made the ship model to be incomplete so they could spend time together. Freeman and the senior officers are shut out of the party and ignored by the other captains. They join Mariner and Boimler at the dive bar, where famous Starfleet officers Kirk and Spock once drank.",
 						"de": "Die USS Cerritos eskortiert einen Doopler zur Sternenbasis 25. Wenn dieser emotional verunsichert wird, dann verdoppelt er sich. Dies geschieht schließlich unkontrolliert, was bereits nach kurzer Zeit den gesamten Platz im Schiff in Anspruch nimmt. Captain Freeman erkennt, dass die Verdoppelungen rückgängig gemacht werden können, wenn die Doopler wütend werden. Also werden diese solange beleidigt, bis nur noch ein einziger übrig ist. Tendi und Rutherford arbeiten an einem Raumschiffmodell. Rutherford zweifelt an sich, weil ihm die Fertigstellung nicht gelingt. Aber Tendi verrät ihm, dass er die Fertigstellung früher absichtlich verzögert hatte, um mehr Zeit mit ihr zu verbringen. Um an einer Sternenflotten-Party auf der Sternenbasis teilnehmen zu können, überredet Mariner Boimler, sich dort als seinen Doppelgänger-Klon William auszugeben. Da Mariner aber nicht mit hinein darf, verlässt Boimler die Party wieder. In einer Bar, in der schon Kirk und Spock gewesen waren, treffen sie schließlich auf die Führungscrew der Cerritos, die ebenfalls am Einlass der Party abgewiesen wurde. Der Doopler wird schließlich auf die Party gebeamt und sprengt diese aufgrund seiner Beschämung, dort nicht eingeladen zu sein."
@@ -896,6 +985,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnCochran",
+						"name": "John Cochran"
 					},
 					"description": {
 						"en": "The crew take in a Pakled refugee, but come to suspect him of being an inept spy. Freeman orders Ransom and Kayshon to keep him busy while she attempts to negotiate a ceasefire with Pakled leadership. She becomes frustrated with their unclear leadership structure. The ensigns are ordered to clean up dangerous and unpredictable mission anomalies left over by the crew, but Boimler is invited to join a group calling themselves the “Red Shirts” who have ambitions of higher ranks and are interested in Boimler’s Titan experience. They give Boimler a makeover, urge him to distance himself from the others, and only spend their time talking about their apparent crisis leadership skills. When Tendi merges with an artifact and turns into a large scorpion-like creature, Boimler makes a fool of himself to make Tendi laugh and return her to normal. The Red Shirts express distaste for Boimler’s actions, but he tells them that true captains take action to help their friends and crew. During negotiations, Freeman gets the spy to reveal the Pakled plan to attack Earth with a Veruvian bomb.",
@@ -946,6 +1040,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GarrickBernard",
+						"name": "Garrick Bernard"
+					},
 					"description": {
 						"en": "Queen Paolana, ruler of Hysperia—a Renaissance-styled society from a planet colonized by fantasy enthusiasts—hails the Cerritos to ask for help from her son, Lieutenant Commander Andarithio Billups. Billups reluctantly agrees to look at her ship’s engines, wary of his mother’s repeated attempts to lure him back to their kingdom by having him lose his virginity, which, by Hysperian tradition, would result in him ascending to the throne as king. Boimler is disappointed after he is reassigned from an exciting field mission to escorting a malevolent AI named AGIMUS with Mariner. Their ship crash lands on a desert planet, where AGIMUS attempts to sow discord by revealing that Mariner had Boimler reassigned as she did not believe he was capable of the field mission. Boimler tricks AGIMUS into powering a distress signal, impressing Mariner who apologizes for getting Boimler reassigned. When Billups believes that Paolana is killed in an explosion, he prepares to lose his virginity and ascend to the throne, but this was a ruse and Rutherford stops Billups in time.",
 						"de": "Die USS Cerritos hilft dem Schiff von Königin Paolana, der Herrscherin von Hysperia und Mutter von Billups. Diese will, dass ihr Sohn endlich Sex hat, damit er seinen Platz in der Thronfolge einnehmen kann. Sie inszeniert eine Explosion, bei der sie und Rutherford scheinbar getötet werden. Tendi ist von Rutherfords Tod erschüttert, bemerkt jedoch, dass er und Paolana am Leben sind. Sie verhindert gerade noch rechtzeitig, dass Billups seine Jungfräulichkeit verliert. Mariner und Boimler sollen den manipulativen Agimus-Computer zum Daystrom-Institut transportieren und stürzen mit dem Shuttle auf einem Wüstenplaneten ab. Obwohl Agimus seine Hilfe anbietet, vertrauen die beiden ihm nicht. Als er die beiden gegeneinander aufzuhetzen versucht, überlistet ihn Boimler, nutzt seine Batterie aus und sendet eine Notsignal. Der Computer endet im Gefängnis böser Rechenmaschinen."
@@ -994,6 +1093,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimArndt",
 						"name": "Kim Arndt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnnKim",
+						"name": "Ann Kim"
 					},
 					"description": {
 						"en": "Friction between the lower deckers and senior officers grows when the former are accidentally left behind in space following a spacewalk repair mission. Shari yn Yem, a Starfleet drill instructor, oversees a series of holodeck drills to build better understanding between the crew. They all fail their assigned drills except for Boimler, who achieves high marks but obsessively reruns the drill in an attempt to achieve a perfect score. Mariner and Freeman’s disagreements cause the team to fail a simple docking drill in record time, and they come to better appreciate one another. They suspect that the drills were rigged for failure to bring them all together, but Shari reveals that this was actually a bid to ensure her continued employment. The Cerritos is likely to be decommissioned if she submits the failing results, but Boimler’s continued running of his drill buys time for Freeman and the crew to demonstrate that they are more than capable. Shari changes their score to passing. Freeman and the senior officers apologize to the lower deckers by providing them with a senior officer food replicator.",
@@ -1050,6 +1154,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
 						"name": "Bob Suarez"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+						"name": "Kathryn Lyn"
+					},
 					"description": {
 						"en": "On the Klingon ship IKS Che’Ta, lower decks officer Ma’ah hopes to become the second officer to Captain Dorg. He earns Dorg’s respect through violence and accompanies him to a meeting with the Pakleds, where he is disturbed to learn that Dorg has been supplying the Pakleds with weapons and Veruvian bombs for use against Earth. On a Vulcan cruiser, the Sh’vhal, lower decks officer T’Lyn is criticized by her captain and fellow crew for her emotional reasoning, but is able to convince them to investigate an anomaly in the sector. T’Lyn has detected the Pakleds’ testing of the Veruvian bombs, which the Cerritos also detects and investigates. The Pakleds and the Che’Ta attack the Cerritos, which is saved by the arrival of the Sh’vhal. Aboard the Che’Ta, Ma’ah challenges Dorg’s dishonorable use of the Pakleds and his insubordination of the Klingon High Council’s wishes, killing him in battle and becoming captain. He orders the Che’Ta to retreat while the Pakleds also flee. Despite her success, T’Lyn is punished for her continued emotional transgressions by being transferred to a Starfleet ship.",
 						"de": "Auf einem langen Warp-Flug gewährt Captain Freeman der Besatzung einen Ruhetag. Boimler behauptet, von Hawaii zu stammen, um mit Commander Ransom die Freizeit verbringen zu können. Es stellt sich jedoch heraus, dass Ransom gar nicht von dort kommt, sondern dies in seiner früheren Unterdeck-Zeit behauptet hatte, um sich mit einem damaligen Brückenoffizier anzufreunden. Der klingonische Bird of Prey Che’ta versorgt die Pakled mit klingonischen Waffen, um einen Krieg der Pakled mit der Föderation zu provozieren. Der klingonische Unterdeck-Offizier Ma’ah steigt zum zweiten Offizier von Kapitän Dorg auf. Weil die Waffentests der Pakled lokale Anomalien verursacht haben, bremst die Cerritos ab und wird sofort von Pakled und Klingonen angegriffen. Auch das vulkanische Raumschiff Sh’Vahl bremst ab, weil die Unterdecks-Offizierin T’Lyn außerhalb ihrer eigentlichen Aufgabe die Anomalien bemerkte. Da sie auch technische Verbesserungen vorgenommen hat, kann sie das Schiff vor der Vernichtung durch die Klingonen bewahren. Auf der Che’ta erkennt Ma’ah das unehrenhafte Verhalten von Dorg, tötet ihn und wird Kapitän. Die Klingonen ziehen sich zurück, und auch die Pakleds fliehen. T’Lyn wird trotz ihrer Verdienste für ihr emotionales Handeln bestraft und auf ein Sternenflottenschiff versetzt. Auf der Cerritos freundet sich Boimler mit einem jungen Fähnrich an."
@@ -1098,6 +1207,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
 					},
 					"description": {
 						"en": "The Cerritos is assigned to assist the USS Archimedes and Captain Sonya Gomez in a first-contact mission. A solar flare results in the Archimedes losing power and being pulled into a planet’s gravity well, but a modified Cerritos stabilizes the Archimedes with a tractor beam. Meanwhile, Freeman has been offered a promotion which will take her off the Cerritos; Mariner, overhearing this and fearing abandonment, spreads the word to the senior staff who begin to bicker with Freeman. Tendi learns that she is being removed from sickbay staff and worries until Dr. T’Ana explains that she is being wasted there and will be promoted to the sciences division. Rutherford begins having trouble with his cybernetic implant, which is running out of storage space, and admits to Billups that he makes triple backups of his memories of Tendi because he is unwilling to lose their friendship. When he decides to delete his redundant memories he sees a different memory that suggests his cybernetic implant was installed against his wishes. Later, Freeman is arrested for allegedly detonating a Veruvian bomb on Pakled Planet.",
@@ -1190,6 +1304,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisKula",
+						"name": "Chris Kula"
+					},
 					"description": {
 						"en": "The trial of Captain Carol Freeman for allegedly detonating a bomb on Pakled Planet begins. Freeman’s daughter, Ensign Beckett Mariner, ignores her father’s pleas to trust the system to prove her mother innocent. Mariner instead recruits fellow ensigns Brad Boimler, D’Vana Tendi, and Sam Rutherford to help her sneak onto the impounded USS Cerritos and retrieve evidence that Freeman could not have been responsible for the bombing. They hijack an amusement park spaceship (based on the life of Zefram Cochrane, the first human to travel faster than light) and board the Cerritos, but are unable to find the evidence they need. Mariner decides to steal the Cerritos and fly it to Earth but they are caught by Starfleet security. The group are saved by the arrival of Freeman and the senior crew, who explain that Starfleet’s undercover operations determined that the Pakleds framed Freeman in a bid to gain a better home planet. Because of Mariner’s continued disobedience, Freeman puts her under the direct supervision of Commander Jack Ransom who cannot wait to find a reason to fire Mariner.",
 						"de": "Captain Freeman wurde verhaftet, weil sie angeblich einen Bombenanschlag auf die Pakled unternommen hat. Obwohl ihr Vater darum bittet, dem Gericht zu vertrauen, sucht Mariner nach Beweisen für die Unschuld ihrer Mutter. Mariner und ihre Freunde entführen ein Raumschiff aus dem Vergnügungspark, um zum Raumdock und an Bord der Cerritos zu gelangen. Als sie sich gegenüber der Sternenflottensicherheit rechtfertigen müssen, täuschen sie eine wissenschaftliche Schularbeit vor. Sie werden von Commander Freeman gerettet, deren Unschuld inzwischen nachgewiesen wurde. Da Commander Freeman einsieht, dass ihre persönliche Beziehung sich auf Mariners Verhalten negativ auswirkt, unterstellt sie ihre Tochter ab sofort der direkten Befehlsgewalt von Ransom, der auch darüber entscheiden soll, ob Mariner in der Sternenflotte bleiben kann."
@@ -1238,6 +1357,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GarrickBernard",
+						"name": "Garrick Bernard"
 					},
 					"description": {
 						"en": "Discouraged that playing it safe is holding him back from advancing in rank, Boimler opts to say yes to more opportunities and agrees to be the prey for an alien hunter named K’ranch. Boimler initially flees before attempting to turn the tables on K’ranch. He is easily captured, but K’ranch then releases Boimler and commends him to his superior officers. An ecstatic Boimler decides to be “Bold Boimler” from now on. Meanwhile, Mariner joins Ransom, Rutherford, and chief engineer Andy Billups on a mission to repair a broken orbital lift. In an effort to prove Mariner’s insubordinate tendencies, Ransom has Billups and Rutherford handle diplomatic relations with the locals while he and Mariner attempt the repairs. Ransom and Mariner struggle with the repairs while Billups and Rutherford transgress upon local customs. Mariner sneaks away to assist them, but returns before Ransom notices after he apologizes for trying to provoke her. Ransom solves the diplomatic ties, rescuing Rutherford and Billups. Ransom thanks Mariner for following his orders but says this does not make up for her past behavior.",
@@ -1288,6 +1412,11 @@
 						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrianDBradley",
+						"name": "Brian D. Bradley"
+					},
 					"description": {
 						"en": "The Cerritos and USS Carlsbad are sent to finalize peace relations between the Scrubble, who are rock-like aliens, and Federation scientists on Jengus IV. Mariner, Boimler, and Rutherford assist members of the Carlsbad crew in deactivating the Scrubble’s psychic landmines, which tempt people with visions of their fantasies and then turn them to stone. On the Cerritos, Tendi starts senior science officer training under Dr. Migleemo who tasks her with getting the captain’s attention during the peace negotiations. When several mines are accidentally broken they begin showing visions of nightmares. Fleeing into a nearby cave, the ensigns discover a lab where the Scrubble and scientists have been working together to gather Starfleet data. The Carlsbad crew also reveal that the Cerritos crew have earned a reputation as mavericks among the other California-class ships. Tendi notes strange readings from a gift that Freeman and the Carlsbad’s Captain Maier are given by the Scrubble. She eventually proves to Freeman that the gift contains spy equipment just as the other ensigns arrive and explain the plot.",
 						"de": "Auf dem Planeten Jengus IV gibt es psychoaktives Gestein, das für jeden individuelle Gestalten aus dessen Gedächtnis erzeugt, um ihn dann bei Berührung zu versteinern. Die Crew muss mit der Schiffsbesatzung der Carlsbad zusammenarbeiten, um das Gestein zu entfernen. Die anfänglichen Konkurrenten erweisen sich überraschend als Bewunderer. Als mehrere der Steine explodieren, stellt sich heraus, dass die einheimischen Scrubbs mit den angeblich verfeindeten Föderationswissenschaftlern zusammenarbeiten und auf dem Planeten alle psychischen Informationen heimlich aufgezeichnet werden. Tendi, die beim Offizierstraining von Dr. Migleemo gecoacht wird, gelingt es nach mehreren vergeblichen Bemühungen, die Aufmerksamkeit von Captain Freeman zu gewinnen und das Geheimnis der Scrupps zu enthüllen."
@@ -1336,6 +1465,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnCochran",
+						"name": "John Cochran"
 					},
 					"description": {
 						"en": "Captain Freeman rewards the exhausted engineering crew by taking them to a relaxation spa, the Dove. They continue to engage in work despite the best efforts of Freeman and the spa manager to get them to relax, causing Freeman’s own stress level to rise to emergency levels. Boimler, Tendi, and Mariner complain about the cramped quarters and lack of privacy in lower decks. After overhearing that members of Delta Shift plan to hack the lottery to gain individual upper deck rooms, the trio race to hack the lottery first. They journey through perilous areas of the ship and arrive at the lottery computer terminal before Delta Shift but learn that there is only one room available. Not wanting to break up their friend group, they opt to allow Delta Shift to fight over it. However, Delta Shift decide to share the one room and throw a party to celebrate. The trio realize that they should have thought about sharing the room. On the Dove, the engineering crew feel guilty about Freeman and create a machine that is able to instantly destress her, which the spa manager secretly orders destroyed before it puts her out of business.",
@@ -1386,6 +1520,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
+					},
 					"description": {
 						"en": "Ransom assigns Boimler and Mariner to staff the Starfleet recruitment booth at Tulgana IV’s job fair and warns Mariner not to step out of line. After they leave, Rutherford’s implant malfunctions and allows an alternate personality called “Red Rutherford” to emerge. Rutherford realizes that Red is his younger self, an angry first year Starfleet recruit who secretly builds experimental vehicles for illegal races. In their mindscape, Red challenges Rutherford to a race for control of their body. On Tulgana IV, Mariner and Boimler are mocked by various attendees including Petra Aberdeen, a smug former Starfleet officer turned archaeologist. Unable to handle the mocking, Boimler rampages around the job fair which draws enough attention to meet their quota for sign-ups. Rutherford wins the mind race and Red reveals what happened to him: his experimental engine blew up, gravely injuring him, and unknown Starfleet officials installed the implant to erase his memories. Ransom punishes Boimler with a night in the brig, but commends him for defending Starfleet, while Aberdeen offers Mariner a job outside Starfleet.",
 						"de": "Boimler und Mariner müssen einen unliebsamen Auftrag übernehmen: Nachwuchsgewinnung auf der Jobmesse von Tulgana IV. Dort werden sie so sehr verspottet, dass Boimler die Selbstbeherrschung verliert und alle Teilnehmer wild beschimpft. Dieses Auftreten imponiert jedoch so sehr, dass sich viele freiwillig zur Sternenflotte melden. Währenddessen hat Rutherfords Implantat Fehlfunktionen, so dass sein früheres draufgängerisches Selbst die Kontrolle über seinen Körper übernimmt. Im ersten Jahr bei der Sternenflotte hatte er illegale Rennflieger konstruiert, woran sich Rutherford seit dem Einbau seines Implantats nicht mehr erinnern konnte. Nun fliegt er ein Wettrennen gegen sich selbst, der Sieger darf den Körper behalten. Rutherford gewinnt, indem er sich fiktiv seine Freunde dazuholt, und erfährt, dass ein Unbekannter sein Implantat manipuliert hatte, um eigene illegale Aktivitäten zu vertuschen."
@@ -1434,6 +1573,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GraceParraJanney",
+						"name": "Grace Parra Janney"
 					},
 					"description": {
 						"en": "Freeman oversees trade negotiations with the Karemma at Deep Space 9 while Mariner struggles to be personable with her girlfriend Jennifer’s pretentious friends. Tendi and Rutherford encounter an Orion DS9 officer, Mesk, who only talks about Orion pirate culture which Tendi has tried to distance herself from. Freeman introduces the Karemma to Quark who is using a new replicator in his successful bar franchise, “Quark’s”. The Karemma kidnap him and shut down all power on DS9, which seals Mariner, Jennifer, and Jennifer’s friends inside a room. The friends become hysterical and Jennifer tells Mariner to handle them as she usually would; Mariner gleefully stuns them all with a phaser. Mesk confesses that he grew up on Earth and learned of Orion culture from trashy novels. They witness the Karemma taking Quark and Tendi uses her pirate skills to stop them, acknowledging that these are part of her identity. The Karemma reveal that Quark stole their technology for his replicators, and Freeman uses this information to negotiate a deal where the Karemma receive 76 percent of Quark’s profits.",
@@ -1484,6 +1628,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnnKim",
+						"name": "Ann Kim"
+					},
 					"description": {
 						"en": "After refusing to help defeat the Pakleds in the Kalla system and transporting off the Cerritos, Exocomp ensign Peanut Hamper finds herself alone in space and threatened by Drookmani scavengers. She builds a ship from nearby wreckage and travels to a planet inhabited by a winged species, the Areore, who are amazed by her technological abilities. Though initially dismissive of all organic lifeforms, Peanut Hamper’s attitude softens as she joins the Areore tribe and falls in love with the chief’s son. She learns that their ancestors achieved space travel but chose to turn their back on technology when it just led to war. The Drookmani arrive seeking to scavenge the ancient Areore starships and Peanut Hamper sends a distress call which is answered by the Cerritos. The Drookmani reveal that Peanut Hamper had invited them to take the ships, revealing her change of heart to be a ruse as part of a plan to have Starfleet rescue and forgive her. Instead, the Cerritos has her imprisoned in the Daystrom Institute for Advanced Robotics alongside the malevolent computer AGIMUS, who proposes an alliance.",
 						"de": "Nach dem Verlassen der Cerritos fliegt Erdnusssnackbox durchs All und landet auf dem Planeten Aerore, auf dem alle Lebewesen Flügel haben. Sie leistet den scheinbar primitiven Einheimischen medizinische Hilfe und erfährt, dass die Vorfahren der Bewohner eine Warp-Zivilisation waren, die freiwillig auf ihre Technologie wieder verzichtet hatten. Deren Relikte befinden sich noch in Höhlen unter der Oberfläche. Rafda, der Sohn des Anführers, verliebt sich in Erdnusssnackbox – trotz ihres überheblichen und arroganten Auftretens – und die beiden heiraten. Insgeheim sucht sie aber nach Möglichkeiten, den Planeten zu verlassen – und ruft die Drookmani-Plünderer herbei. Als die Drookmani tatsächlich erscheinen und die alte Technologie aus den Höhlen rauben, sendet Erdnusssnackbox einen Hilferuf an die Sternenflotte und schafft es auf diese Art beinahe, wieder rehabilitiert zu werden und auf die Cerritos zurückkehren zu können. Doch als die unterlegenen Drookmani den Verrat offenlegen, landet sie endgültig in ein Spezial-Gefängnis für durchgedrehte Kleinroboter."
@@ -1532,6 +1681,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelMullen",
 						"name": "Michael Mullen"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenRodgers",
+						"name": "Ben Rodgers"
 					},
 					"description": {
 						"en": "Boimler creates a holodeck movie titled Crisis Point II: Paradoxus, the sequel to Mariner’s earlier Crisis Point. In Paradoxus, Romulans steal a top secret gem capable of time travel and plan to use it to erase the Federation. However, Boimler loses his enthusiasm for the story after a meeting with Ransom and instead becomes obsessed with discovering the meaning of life. Tendi leads the story’s mission instead and is disheartened when Rutherford does not take it seriously. Annoyed with Boimler, Mariner leaves the holodeck. Ransom tells her that William, Boimler’s clone who was created in a transporter accident, has died in a gas leak. Mariner returns to the program to help Boimler work through his feelings. Tendi admits to Rutherford that she aspires to be a captain and he helps her finish the story. After being in the holodeck for too long and becoming dangerously dehydrated, Boimler has a dream where famous Starfleet captain Hikaru Sulu tells him to embrace the randomness of life. Elsewhere, William’s death is shown to be a ruse as part of his joining Section 31, Starfleet’s secretive black ops division.",
@@ -1582,6 +1736,11 @@
 						"@id": "https://bittersmann.de/startrek/people#FillMarcSagadraca",
 						"name": "Fill Marc Sagadraca"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BenMWaller",
+						"name": "Ben M. Waller"
+					},
 					"description": {
 						"en": "Freeman’s proposed “Project Swing By” initiative, where California-class ships revisit planets abandoned by Starfleet, is approved by Admiral Buenamigo. He sends the Cerritos to Ornara, a planet whose population were forced to quit an addictive substance by Jean-Luc Picard and the USS Enterprise many years earlier. They are accompanied by journalist Victoria Nuzé and Freeman attempts to project competence by controlling her experience. Finding Ornara thriving, Buenamigo sends the Cerritos to nearby planet Brekka instead. After Mariner circumvents Freeman to speak with Nuzé, the journalist confronts Freeman about embarrassing details from past missions. Freeman immediately transfers Mariner to Starbase 80, a dead-end assignment. On Brekka, the Cerritos is ambushed by the Breen and narrowly saved by the USS Aledo, Buenamigo’s new fully automated Texas-class starship. Nuzé’s report reveals that the embarrassing details came from the crew and Mariner had only glowing words for the ship and Freeman. Freeman tries to contact Mariner, but she has resigned and joined Aberdeen.",
 						"de": "Sternzeit 58496,1: Das Projekt „Blickenlassen“, das Freeman vorgeschlagen hatte, wird von Admiral Buenamigo bestätigt. Die Cerritos soll dabei den Planeten Ornara besuchen, dem Picards Enterprise vor 17 Jahren den Drogennachschub vom Nachbarplaneten Brekka gekappt hatte. Doch die Ornaraner benötigen keine Hilfe, so dass die Cerritos nach Brekka weiterfliegt. Die Mission wird von der Reporterin Victoria Nuzé dokumentiert. Mariner und ihre Freunde, die gerade ein Blaubeer-Kuchen-Wettessen vorbereiten, werden vom Kontakt mit der Journalistin ferngehalten, damit die Crew ein gutes Bild abgibt. Mariner spricht dennoch mit ihr. Plötzlich weiß die Reporterin über alle Vorfälle und Peinlichkeiten Bescheid. Freeman versetzt Mariner zur Strafe auf die heruntergekommene Sternenbasis 80. Auf dem weiteren Flug wird die Cerritos auf Brekka von den Breen angegriffen – und von der Aledo gerettet, einem neuen vollautomatischen Schiff der Sternenflotte. Als sich herausstellt, dass alle regulär Interviewten quasi versehentlich die Peinlichkeiten verraten haben und nur Mariner einen positiven Bericht gegeben hatte, will Freeman ihren Fehler korrigieren. Doch Mariner hat Sternenbasis 80 bereits verlassen, um mit Petra Aberdeen (aus Episode 25) nach archäologischen Artefakte zu suchen."
@@ -1630,6 +1789,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JasonZurek",
 						"name": "Jason Zurek"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
 					},
 					"description": {
 						"en": "Buenamigo proposes that all California-class ships be replaced with his Texas-class ships and Freeman challenges him to a race. Mariner becomes suspicious of where Aberdeen is getting her money, but learns that she is funded by Picard and confesses that she was just looking for a reason to return to Starfleet. Freeman claims victory because while the Cerritos lost the race, it was so her crew could double check there were no lifeforms on a desolate planet which the automated ships did not do. Rutherford realizes that the automated ships use Red’s experimental code and it was Buenamigo who erased his memories. Buenamigo orders the Texas-class ships to destroy the Cerritos, but the corrupted systems kill him and fire on all of Starfleet instead. Seeing this in a news report, Mariner and Aberdeen arrive with the other California-class ships and together they defeat the Texas-class ships. Freeman apologizes to Mariner, who rejoins the Cerritos along with new recruit T’Lyn. In the Kalla system, someone finds Rutherford’s original implant which contains the corrupted artificial intelligence Badgey.",
