@@ -87,23 +87,31 @@
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
 						"name": "Akiva Goldsman"
 					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
-							"name": "Akiva Goldsman"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
-							"name": "Alex Kurtzman"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JennyLumet",
-							"name": "Jenny Lumet"
-						}
-					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Akiva Goldsman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+								"name": "Akiva Goldsman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+								"name": "Alex Kurtzman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JennyLumet",
+								"name": "Jenny Lumet"
+							}
+						]
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
