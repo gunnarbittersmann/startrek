@@ -122,18 +122,26 @@
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
 					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SeanCochran",
-							"name": "Sean Cochran"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MichaelChabon",
-							"name": "Michael Chabon"
-						}
-					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelChabon",
+						"name": "Michael Chabon"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+								"name": "Sean Cochran"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MichaelChabon",
+								"name": "Michael Chabon"
+							}
+						]
+					},
 					"description": {
 						"en": "The USS Discovery has held position in space for a thousand years, and its computer system Zora has become sentient. She retrieves a passing escape pod carrying a man named Craft. Zora keeps Craft aboard the ship and begins to fall in love with him, but eventually lets him take Discovery’s last shuttle to return to his family on Alcor IV.",
 						"de": "Der autonom weiterentwickelte Schiffscomputer der Discovery rettet den Soldaten Craft 1000 Jahre nach der Serie aus einer Rettungskapsel. Zora, die künstliche Intelligenz der Discovery, beginnt sich in Craft zu verlieben, lässt ihn am Ende jedoch zu seinem Heimatplaneten aufbrechen."
