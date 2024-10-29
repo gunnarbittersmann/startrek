@@ -1518,7 +1518,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"name": "Chris Fisher"
-					}
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1528,12 +1540,36 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
 						"name": "Jordan Canning"
-					}
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+							"name": "Kirsten Beyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
-					"episodeNumber": "3.3"
+					"episodeNumber": "3.3",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1544,16 +1580,52 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
-					"episodeNumber": "3.5"
+					"episodeNumber": "3.5",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
-					"episodeNumber": "3.6"
+					"episodeNumber": "3.6",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1563,7 +1635,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
 						"name": "Sharon Lewis"
-					}
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1573,7 +1657,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
 						"name": "Jordan Canning"
-					}
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -1583,6 +1679,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
 						"name": "Andrew Coutts"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
 					}
 				},
 				{
@@ -1593,7 +1694,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
 						"name": "Maja Vrvilo"
-					}
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
 				}
 			]
 		}
