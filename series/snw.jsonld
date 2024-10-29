@@ -1519,18 +1519,26 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"name": "Chris Fisher"
 					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
-							"name": "Henry Alonso Myers"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
-							"name": "Davy Perez"
-						}
-					]
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+						"name": "Davy Perez"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+								"name": "Henry Alonso Myers"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+								"name": "Davy Perez"
+							}
+						]
+					}
 				},
 				{
 					"@type": "TVEpisode",
