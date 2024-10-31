@@ -2458,6 +2458,15 @@
 					"episodeNumber": "5.3",
 					"name": "The Best Exotic Nanite Hotel",
 					"datePublished": "2024-10-31",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "The Best Exotic Nanite Hotel",
+							"@language": "en"
+						},
+						"datePublished": "2024-10-31"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
