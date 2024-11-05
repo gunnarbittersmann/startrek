@@ -2745,6 +2745,18 @@
 							}
 						}
 					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/ld#5.4",
+					"episodeNumber": "5.4",
+					"name": "A Farewell To Farms",
+					"datePublished": "2024-11-07",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"name": "Megan Lloyd"
+					}
 				}
 			]
 		}
