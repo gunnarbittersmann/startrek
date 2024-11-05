@@ -2756,6 +2756,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
 						"name": "Megan Lloyd"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DianaTay",
+						"name": "Diana Tay"
 					}
 				}
 			]
