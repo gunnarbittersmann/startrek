@@ -1605,6 +1605,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Doug Aarniokoski"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+						"name": "Terry Matalas"
+					},
 					"description": {
 						"en": "In the 25th century, Dr. Beverly Crusher and her son Jack are attacked aboard the SS Eleos. Beverly is injured and sends an emergency message to her former Starfleet captain, the retired Admiral Jean-Luc Picard. Picard and his romantic partner Laris are planning a trip to Chaltok IV when he receives the message and she encourages him to go. Beverly told Picard not to involve Starfleet so he goes to his former first officer, Captain William Riker. Riker and Picard stage a surprise inspection of the USS Titan-A, the successor to Riker’s former ship, planning to convince its captain, Liam Shaw, to go to Beverly’s location without revealing why. Shaw declines, but his first officer is Picard’s friend Seven of Nine who ignores Shaw’s orders and changes the Titan’s course. On M’talas Prime, Starfleet intelligence officer Raffi Musiker searches for a stolen portal device that her mysterious handler fears will be used in a terrorist attack; she fails to find it before it is used to destroy a Starfleet facility. Picard and Riker board the Eleos via shuttlecraft and find Beverly in stasis. They meet Jack as a large ship appears.",
 						"de": "Im 25. Jahrhundert wird die SS Eleos mit Dr. Beverly Crusher an Bord von einer unbekannten außerirdischen Rasse angegriffen. Beverly wird bei einem Schusswechsel schwer verletzt und sendet gerade noch einen Notruf an ihren ehemaligen Sternenflottenkapitän, den pensionierten Admiral Jean-Luc Picard. Picard und seine Geliebte Laris planen derweil auf der Erde eine Reise nach Chaltok IV, als er Beverlys Nachricht erhält. Laris ermutigt ihn zu gehen. Picard wendet sich daher an seinen ehemaligen ersten Offizier, Captain William Riker, und beide sind entschlossen, Beverly zu helfen. Um an ein Schiff zu kommen, welches sie an Beverlys Standort transportiert, inszenieren Riker und Picard eine Überraschungsinspektion an Bord von Rikers ehemaligem Schiff, der USS Titan-A, und planen, den neuen Captain Liam Shaw davon zu überzeugen, sich zu Beverlys Aufenthaltsort zu begeben, ohne ihre Absichten zu verraten. Es gelingt ihnen nicht, Shaw zu überzeugen, aber sein erster Offizier, Picards Freundin Seven of Nine ignoriert Shaws Befehle und ändert den Kurs der Titan. Auf M’talas Prime sucht die Geheimdienstoffizierin der Sternenflotte, Raffaella Musiker, nach einem gestohlenen Quantentunnelgerät, von dem ihr unbekannter Auftraggeber befürchtet, dass es für einen Terroranschlag verwendet werden könnte. Sie ist bereits kurz davor, es zu finden, als es zur Zerstörung einer Einrichtung der Sternenflotte eingesetzt wird. Derweil gehen Picard und Riker an Bord der Eleos. Hier finden sie die schwer verletzte Beverly und ihren ihnen bis dahin unbekannten Sohn Jack vor, als ein großes unbekanntes Schiff auftaucht."
@@ -1692,6 +1697,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Doug Aarniokoski"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChristopherMonfette",
+							"name": "Christopher Monfette"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanTretta",
+							"name": "Sean Tretta"
+						}
+					],
 					"description": {
 						"en": "Picard stops the large ship, the Shrike, from transporting Jack off the Eleos, but it captures the Eleos itself with a tractor beam. Seven persuades Shaw to intervene and Beverly is transported to the Titan’s medical bay while Picard, Riker, and Jack are brought to the bridge. The Shrike’s captain, a bounty hunter named Vadic, reveals that Jack is an intergalactic criminal with a large bounty on his head. Shaw has Jack arrested and intends to turn him over to save the crew, despite the protests of Picard and Riker. Jack escapes from custody and attempts to transport himself over to the Shrike in an effort to save his mother, but Riker helps Beverly to the bridge and when Picard sees her he realizes that Jack is his son from a brief relationship he had with Beverly decades earlier. Knowing that Picard will not hand over his son, Shaw orders the Titan into a nearby nebula as a delighted Vadic gives chase. Raffi’s handler orders her to stop investigating the attack, but she meets with the Ferengi criminal Sneed in hopes of finding those responsible. Sneed almost kills her but is killed himself by Raffi’s handler, Worf.",
 						"de": "In einer Rückblende inspizieren die Fenris-Ranger die SS Eleos und melden einer Frau die Anwesenheit von Jack. Zwei Wochen später hindern Picard und Riker das unbekannte Schiff, Jack zu entführen. Beim Angriff des Schiffs auf die SS Eleos wird das Shuttle der Titan zerstört und Beverlys Stasiskapsel beschädigt. Als ein Transportversuch durch Picard verhindert wird, versucht das fremde Schiff, mit einem Traktorstrahl die SS Eleos heranzuziehen, doch die USS Titan stellt sich dazwischen und beamt Picard, Riker, Jack und die Stasiskapsel mit Beverly an Bord. Das fremde Schiff outet sich als Würger, in Anlehnung an die Vogelart, Captain ist eine mysteriöse Frau namens Vadic. Sie verlangt die Auslieferung von Jack, und unterstreicht ihr Verlangen, indem sie mittels Traktorstrahl die SS Eleos auf die USS Titan schleudert, die dadurch beschädigt wird. Shaw lässt Jack verhaften, während Beverly sich auf der Krankenstation erholt. Inzwischen sucht Raffi nach dem Angriff auf M’talas Prime nach den Hintermännern und findet einer Spur zu dem Ferengi-Kriminellen Sneed. Ihr Auftraggeber verlangt jedoch, dass sie keine weiteren Nachforschungen anstellt. Sie widersetzt sich ihm und konfrontiert Sneed in einer Bar mit den Anschuldigungen. Um Sneed zu beweisen, dass sie nicht für die Sternenflotte arbeitet, nimmt sie eine von ihm angebotene Droge. Sneed offenbart daraufhin, dass er ihren Betrug durchschaut hat und will sie töten, als ein Angreifer Sneeds Wachen überwältigt und Sneed enthauptet. Der Angreifer entpuppt sich als Worf und knurrt im Gehen: „Ich habe doch gesagt, dass Sie nicht weiter eingreifen sollen!“ Auf der USS Titan entkommt Jack aus der Arrestzelle und will sich Vadic ausliefern, um das Schiff und seine Mutter zu retten. Captain Shaw will gerade den Transport von Jack befehlen, als Riker mit Beverly auf die Brücke kommt und Picard erkennt, dass Jack sein Sohn ist. Er verhindert den Transport, übernimmt das Kommando und befiehlt der Titan-Besatzung die Flucht, während die Würger die Verfolgung aufnimmt."
@@ -1766,6 +1783,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JaneMaggs",
+							"name": "Jane Maggs"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CindyAppel",
+							"name": "Cindy Appel"
+						}
+					],
 					"description": {
 						"en": "The Shrike attacks the Titan, injuring Shaw who transfers command to Riker. Beverly says she did not tell Picard about Jack to keep their son safe. Riker attempts to escape the nebula but they are cornered by the Shrike using portal technology. Picard advises Riker to lure the Shrike into a trap, but Riker wants to flee and prioritize saving the crew. Jack and Seven deduce that Vadic is tracking a gas leak on the Titan and find an ensign sabotaging the ship. He is revealed to be a Changeling and escapes their custody. Using the freighter La Sirena, Raffi and Worf capture a criminal that they believe is responsible for the attack on M’talas Prime. They discover that he is also a Changeling, part of a group that has been fighting the Federation since the end of the Dominion War, and realize that the attack was just a distraction. Convinced by Picard’s insistence that they fight back, Riker fires on the Shrike. Their weapons are redirected back at them with a portal and the Titan sustains heavy damage. Riker blames Picard and orders him off the bridge as they drift towards a gravitational anomaly in the nebula.",
 						"de": "Die Würger greift die USS Titan an, die sich daraufhin in einem Nebel versteckt. Bei dem Angriff wird Captain Shaw schwer verletzt, der das Kommando an Riker übergibt. Beverly hatte Picard nichts von der Existenz seines Sohnes erzählt, um Jack vor Attentatsversuchen auf ihn zu schützen. Jack und Seven finden heraus, warum Vadic die Titan orten und immer wiederfinden kann, denn ein Fähnrich lässt giftige Gase heimlich in den Weltraum ab. Sie stellen fest, dass der Saboteur ein Wechselbalg ist. Picard rät Riker, die Würger mit Hilfe der Gase zu täuschen und in eine Falle zu locken. Aber Riker versucht stattdessen, mit der Titan aus dem Nebel zu fliehen, um weitere Verluste zu vermeiden. Als der Saboteur mittels einer Explosion erfolgreich verhindert, dass die Titan auf Warp-Geschwindigkeit gehen kann, bleibt Riker keine Alternative zum Vorschlag Picards. Aber es ist zu spät, denn Vadics Schiff erzeugt Portale, mit denen die Torpedos der Titan zu einem anderen Ort bewegt werden. Nach erneuten Treffern treibt die Titan manövrierunfähig ins Zentrum des Nebels, wo sich eine Gravitationsanomalie befindet. Raffi findet sich an Bord der La Sirena wieder. Worf möchte nun direkt mit ihr zusammenarbeiten. Sie nehmen den mutmaßlichen Attentäter von M’talas Prime gefangen und entlarven ihn als einen weiteren Formwandler. Worf erklärt, dass die Wechselbälger wegen der Kapitulation des Dominion im Jahr 2375 gespalten sind. Die Fraktion, die sich an der Föderation rächen will, könnte die Portaltechnologie gestohlen haben, um einen schwerwiegenderen Diebstahl zu vertuschen."
@@ -1840,6 +1869,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+							"name": "Terry Matalas"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanTretta",
+							"name": "Sean Tretta"
+						}
+					],
 					"description": {
 						"en": "Vadic, who is a Changeling, is ordered to pursue the Titan at all costs; doing so in the nebula requires disengagement of the portal technology. With only a few hours of power remaining on the Titan, Riker admits Picard was right and suggests he spend his last moments bonding with Jack. In the holodeck, Picard and Jack tell each other some of their adventures, but are joined by Shaw who bitterly recounts his experience as a Starfleet engineer during the Battle of Wolf 359, when Picard had been assimilated by the Borg and was attacking the Federation as “Locutus of Borg”. Riker, Beverly, and Picard form a risky plan to use an energy pulse from the nebula to recharge the ship’s systems. Shaw and Seven help them succeed, and Seven identifies and kills the Changeling impostor. The Titan damages the Shrike on their way out of the nebula, which transforms into many jellyfish-like space creatures. As they warp away, Picard realizes that he briefly met Jack five years earlier and inadvertently dismissed his attempt at connection. Alone, Jack has vivid hallucinations and hears voices calling to him.",
 						"de": "Die Titan befindet sich in einer aussichtslosen Situation. Sie hat nur noch wenig Energie und treibt in die Gravitationsanomalie. Picard sucht das Gespräch mit seinem Sohn, der jedoch nur aus Höflichkeit zuhört. Picard erinnert sich an ein Erlebnis vor 5 Jahren, als ihn mehrere Kadetten vom Essen abhielten und ihn über gefährliche Situationen seines Lebens ausfragten. Er erkennt, dass sein Sohn einer dieser jungen Leute war und ihn nach seiner Familie fragte. Picard hatte geantwortet, dass seine Besatzung genug Familie sei. Das war offenbar der Grund, weshalb sein Sohn nie wieder den Kontakt zu ihm suchte. Captain Shaw stört das Gespräch Picards mit dessen Sohn und erzählt von der Schlacht bei Wolf 359, als er beim Angriff der Borg unter Locutus willkürlich von einem Leutnant ausgesucht wurde und zu den letzten zehn Geretteten gehörte. Beverly bemerkt, dass die Stöße der Gravitationsanomalie die gleiche Regelmäßigkeit wie die Wehen einer Schwangeren aufweisen. Es gelingt, Riker davon zu überzeugen, einen letzten verzweifelten Rettungsversuch zu unternehmen, bei dessen Scheitern alle sofort sterben würden anstatt noch ein paar Stunden leben zu können. Jede verbliebene Energie einschließlich der Lebenserhaltung wird daraufhin in die Steuerdüsen umgeleitet, um bei der letzten „Wehe“ auf deren Welle zu „surfen“ und deren Energie aufnehmen zu können. Nachdem Seven den Formwandler entlarvt und getötet hat, gelingt es allen durch gemeinsames Handeln, den Rettungsplan erfolgreich umzusetzen."
@@ -1914,6 +1955,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"name": "Dan Liu"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CindyAppel",
+							"name": "Cindy Appel"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisDerrick",
+							"name": "Chris Derrick"
+						}
+					],
 					"description": {
 						"en": "Riker returns command of the Titan to Shaw, who contacts Starfleet. The USS Intrepid arrives to arrest Picard and Riker, led by Commander Ro Laren who betrayed Starfleet and Picard years earlier but has returned from imprisonment. Ro forces Picard into the holodeck where she reveals her suspicions that the Changeling conspiracy has compromised Starfleet’s highest levels. Picard reconciles with Ro and she gives him her treasured Bajoran earring. As Ro returns to the Intrepid via shuttle, she discovers a bomb planted by Changeling saboteurs and decides to fly into the Intrepid, sacrificing herself and damaging that ship. The saboteurs attempt to transport Jack off the Titan but his visions influence him into killing them. Picard and Riker realize the earring contains the intelligence Ro gathered on the Changelings and is also a communicator. Worf and Raffi learn that something besides the portal technology was stolen from Daystrom Station. Worf attempts to contact his own handler, Ro, and reaches Picard and Riker. As the Titan flees the damaged Intrepid, Jack reveals his visions to Beverly.",
 						"de": "Riker gibt das Kommando über die Titan an Shaw zurück. Shaw kontaktiert die Sternenflotte, die sofort die USS Intrepid schickt, um Picard und Riker zu verhören. Das Verhörteam wird von Ro Laren geleitet, die die Sternenflotte Jahre zuvor verraten hatte, indem sie zum Maquis überlief, aber nach ihrer Gefangenschaft zurückkehrte. Beverly stellt bei der Autopsie des Wechselbalges fest, dass die Wechselbälger inzwischen ihre Form länger beibehalten und sich der Körperscantechnologie entziehen können. Sie benachrichtigt Picard, der jedoch von Ro bedroht und ins Holodeck gezwungen wird, um vertraulich mit ihm sprechen zu können. Ro vermutet, dass die Wechselbalg-Verschwörung die höchsten Ebenen der Sternenflotte und sowohl die USS Intrepid als auch die USS Titan erfasst hat. Picard erkennt, dass er ihr immer noch vertraut. Sie versöhnen sich, bevor Ro Picard zum Abschied ihren Ohrring schenkt. Ro steuert ihr Shuttle, aber Saboteure der Wechselbälger platzieren eine Bombe an Bord. Um Picard die Flucht zu ermöglichen, steuert sie ihr Shuttle auf Kollisionskurs in die USS Intrepid und opfert sich selbst. Picard und Riker erkennen, dass Ro’s Ohrring die von ihr gesammelten Informationen und einen Kommunikator enthält. Derweil setzen Worf und Raffi ihre Ermittlungen zum Angriff auf M’Talas Prime fort und treffen auf den vulkanischen Kriminellen Krinn, der sie zu einem Duell gegeneinander zwingt. Raffi ersticht Worf scheinbar, aber Worf hatte sich nur tot gestellt. So gelingt es ihm, Krinns Schergen zu töten und Krinn zu zwingen, wichtige Informationen über den Angriff preiszugeben. Worf kontaktiert Picard und Riker über den Ohrring von Ro, gerade als die Titan beginnt, vor der Intrepid zu fliehen."
@@ -1987,6 +2040,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"name": "Dan Liu"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChristopherMonfette",
+						"name": "Christopher Monfette"
 					},
 					"description": {
 						"en": "Worf and Raffi join the Titan. The crew send an away team to infiltrate Daystrom Station while the Titan flees from several Starfleet ships. Picard seeks help from Geordi La Forge, his former chief engineer, who is now a commodore in charge of the Starfleet Museum. The away team discover a synthetic being created by the late Altan Inigo Soong that contains his memories along with those of former androids Data, B-4, Lal, and Lore. This being controls Daystrom, creating a hologram of Professor Moriarty based on Data’s memories. Jack and La Forge’s daughters Sidney and Alandra take a cloaking device from the museum so the Titan can hide from Starfleet, and Geordi agrees to join. They return to Daystrom and recover the away team, other than Riker. Data’s personality in the synthetic being reveals that the Changelings stole Picard’s original body (he died of the neurological disease Irumodic Syndrome and was transferred into his own synthetic body). Beverly believes Jack inherited Irumodic Syndrome from Picard. Riker is captured by Vadic who has already captured his wife, Deanna Troi.",
@@ -2062,6 +2120,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
 						"name": "Deborah Kampmeier"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JaneMaggs",
+						"name": "Jane Maggs"
+					},
 					"description": {
 						"en": "Picard surmises that the Changelings want to create a perfect replica of himself to target Starfleet’s upcoming celebrations for the 250th Frontier Day. Geordi attempts to maintain Data’s control of the synthetic body as it is overcome by the devious Lore. Picard devises and enacts a plan to trap Vadic and her crew on the Titan with force fields, using Jack (who is developing telepathy) and Sidney as bait. Picard and Beverly interrogate Vadic and she reveals that she is hunting Jack for someone else. She also explains that she was one of ten Changelings whom Starfleet doctors experimented on to develop a breed of super-spies; upon their escape, she swore revenge and formed the rogue Changeling faction, taking her torturer’s form. Beverly confirms these facts and Picard decides that he has to kill Vadic. However, Geordi fails to revive Data in time to stop Lore from taking over the Titan’s computers and disabling the force fields, allowing Vadic and her underlings to escape. They capture Seven, Shaw, and the rest of the bridge crew. Vadic invites Jack to the bridge and says she knows his true nature.",
 						"de": "Die USS Titan versteckt sich inmitten von Schiffswracks im Kampfgebiet der Chin’toka. Geordi arbeitet gegen Lores Persönlichkeit, um Datas Dominanz über den Verstand des Androiden wiederherzustellen. Worf und Raffi nehmen La Sirena mit auf eine weitere Aufklärungsmission. Seven versucht, mit ihrem ehemaligen Crewmitglied Tuvok Kontakt aufzunehmen. Der Befragte besteht Sevens ersten Vertrauenstest, versagt aber bei ihrem zweiten und entpuppt sich als Wechselbalg. Das Schicksal des echten Tuvoks bleibt unklar. Picard, der vermutet, dass die Wechselbälger seinen Leichnam benutzen wollen, um die Jubiläumsfeierlichkeiten der Sternenflotte ins Visier zu nehmen, entwickelt einen Plan, um Vadic und ihre Crew auf der USS Titan mit Kraftfeldern in eine Falle zu locken. Dabei benutzt er Jack, der telepathische Fähigkeiten entwickelt, und Sidney als Köder. Vadic tappt in die Falle; Picard und Beverly verhören sie. Vadic enthüllt, dass sie eine von zehn Wechselbälgern war, an denen Ärzte der Sternenflotte qualvolle Experimente durchführten, um eine Rasse von Superspionen zu entwickeln. Geordi gelingt es nicht, Data rechtzeitig wiederzubeleben, um Lore daran zu hindern, die Computer der Titan zu übernehmen und die Kraftfelder zu deaktivieren. Dadurch kann Vadic entkommen, stürmt die Brücke der USS Titan und verkündet, dass sie Jacks wahre Natur kennt."
@@ -2135,6 +2198,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DeborahKampmeier",
 						"name": "Deborah Kampmeier"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MattOkumura",
+						"name": "Matt Okumura"
 					},
 					"description": {
 						"en": "Vadic threatens to execute the crew if Jack does not surrender, which he does after she kills a lieutenant. Data realizes that he cannot overpower Lore and instead surrenders his memories, which consume Lore and allow Data full control of the body. The rest of the crew rush to the computer core to plug Data into the Titan’s systems, which he reprograms to protect Jack and vent the bridge, killing Vadic. On board the Shrike, Worf and Raffi rescue Riker and Troi, who spent much of their detainment discussing their marital issues. They find Picard’s original body and discover that the Changelings have removed portions of the parietal lobe—specifically those supposedly infected with Irumodic Syndrome. After downloading the Shrike’s database, the group are transported to the Titan and the Shrike is destroyed. The reunited crew of Picard’s USS Enterprise-D gather in the Titan’s briefing room to discuss their next moves. With Frontier Day mere hours away and the full extent of the Changelings’ plan still not known, Troi (who has telepathic abilities) meets with Jack to help him discover the truth behind his visions.",
@@ -2216,6 +2284,18 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
 						"name": "Terry Matalas"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanTretta",
+							"name": "Sean Tretta"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KileyRossetter",
+							"name": "Kiley Rossetter"
+						}
+					],
 					"description": {
 						"en": "Troi discovers that Jack’s visions are coming from the Borg. Picard’s supposed Irumodic Syndrome was actually undetected Borg technology from his time as Locutus. This was passed to Jack and activated while his frontal cortex developed. The Changelings stole Picard’s original body so they could copy this technology into Starfleet’s transporter systems and infect any officer under the age of 25. Jack uses his visions to find a Borg Cube, intending to kill the Borg Queen, but is assimilated. Above Earth, Fleet Admiral Elizabeth Shelby on the USS Enterprise-F begins the Frontier Day celebrations and initiates the new “Fleet Formation” protocol that connects all Starfleet ships. The Borg Queen uses Jack to assimilate Starfleet’s youth, kill Shelby, and seize control of the fleet including the Titan. Shaw sacrifices himself to allow Picard and his former crew to escape to the Starfleet Museum. Shaw hands command of the Titan to Seven before he dies. At the museum, Geordi reveals that he has restored the Enterprise-D which is now the only functioning Starfleet ship not controlled by the Borg.",
 						"de": "Troi erkennt in der Therapiesitzung, dass Jack mit den Borg verbunden ist. Sie sind die Quelle aller Stimmen, die er hört. Jack macht sich auf den Weg, um mit ihnen abzurechnen, was dazu führt, dass er von der Borg-Königin gefangen genommen wird. Während die Titan zu den Jubiläumsfeierlichkeiten der Sternenflotte in Richtung Erde fliegt, finden Data, Geordi und Beverly heraus, warum die abtrünnigen Wechselbälger Picards Leiche gestohlen haben: Sie haben mit den Borg zusammengearbeitet. Die Wechselbälger kopierten Picards von den Borg veränderte DNS und modifizierten sämtliche Transporter so, dass diese die Veränderungen in alle Benutzer implantieren. Wirksam werden sie aber nur bei denjenigen, deren Scheitellappen sich noch entwickeln – bei Menschen bis zum Alter von 25 Jahren. In ihrer Rede erwähnt Shelby, dass die Schiffe der Flotte alle per Signalen miteinander verbunden sind. Picard informiert Admiralin Shelby über die Taten der Borg, aber es ist zu spät, denn die Borg lösen die Assimilation der gesamten Flotte aus, einschließlich Geordis Töchter, und töten Shelby. Shaw opfert sich, um die Titan vor den Borg zu verteidigen, und übergibt das Kommando an Seven, die mit Musiker an Bord zurückbleibt. Geordi fliegt daraufhin die verbliebene Besatzung mit einem Shuttle zum Sternenflottenmuseum, wo er enthüllt, dass er die Enterprise-D nach ihrem Absturz heimlich wiederhergestellt hat. Diese ist nun das einzige funktionsfähige Raumschiff, das nicht mit den anderen Schiffen der Flotte verbunden ist. Die alte Besatzung der Enterprise-D macht sich auf den Weg, um die Föderation vor den Borg zu retten."
@@ -2286,6 +2366,11 @@
 						"datePublished": "2023-04-21"
 					},
 					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+						"name": "Terry Matalas"
+					},
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
 						"name": "Terry Matalas"
