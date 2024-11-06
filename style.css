@@ -244,6 +244,15 @@ details p {
 	hyphens: auto;
 }
 
+dl {
+  margin: 0;
+}
+
+dt, dd, dd ul {
+  display: inline;
+  margin: 0;
+}
+
 ul:has(details) {
 	position: relative;
 	display: flex;
