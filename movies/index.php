@@ -1,6 +1,7 @@
 <?php
 	const PREFERRED_LANG = 'de';
 	const IS_DIRECTOR_VISIBLE = TRUE;
+	const IS_AUTHOR_VISIBLE = FALSE;
 	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = TRUE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
@@ -127,6 +128,92 @@
 													<?php endforeach; ?>
 												</ul>
 											</td>
+										<?php endif; ?>
+									<?php endif; ?>
+								<?php endif; ?>
+								<?php if (IS_AUTHOR_VISIBLE): ?>
+									<?php if ($movie['author']): ?>
+										<?php if ($movie['isBasedOn'] && $movie['isBasedOn']['author']): ?>
+											<td>
+												<dl>
+													<div>
+														<dt>screenplay by:</dt>
+														<?php if ($movie['author']['name']): ?>
+															<dd
+																property="author"
+																typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
+															>
+																<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
+															</dd>
+														<?php else: ?>
+															<dd>
+																<ul>
+																	<?php foreach ($movie['author'] as $author): ?>
+																		<li
+																			property="author"
+																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																		>
+																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																		</li>
+																	<?php endforeach; ?>
+																</ul>
+															</dd>
+														<?php endif; ?>
+													</div>
+													<div>
+														<dt>story by:</dt>
+														<?php if ($movie['isBasedOn']['author']['name']): ?>
+															<dd
+																property="author"
+																typeof="<?= htmlSpecialChars($movie['isBasedOn']['author']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
+															>
+																<span property="name"><?= htmlSpecialChars($movie['isBasedOn']['author']['name']) ?></span>
+															</dd>
+														<?php else: ?>
+															<dd>
+																<ul>
+																	<?php foreach ($movie['isBasedOn']['author'] as $author): ?>
+																		<li
+																			property="author"
+																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																		>
+																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																		</li>
+																	<?php endforeach; ?>
+																</ul>
+															</dd>
+														<?php endif; ?>
+													</div>
+												</dl>
+											</td>
+										<?php else: ?>
+											<?php if ($movie['author']['name']): ?>
+												<td
+													property="author"
+													typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
+													resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
+												>
+													<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
+												</td>
+											<?php else: ?>
+												<td>
+													<ul>
+														<?php foreach ($movie['author'] as $author): ?>
+															<li
+																property="author"
+																typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+															>
+																<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+															</li>
+														<?php endforeach; ?>
+													</ul>
+												</td>
+											<?php endif; ?>
 										<?php endif; ?>
 									<?php endif; ?>
 								<?php endif; ?>
