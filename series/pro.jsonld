@@ -87,6 +87,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -162,6 +174,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+						"name": "Chad Quandt"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -217,6 +234,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+						"name": "Lisa Schultz Boyd"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -292,6 +314,18 @@
 							"name": "Olga Ulanova"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -342,6 +376,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -405,6 +444,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -463,6 +507,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+						"name": "Nikhil S. Jayaram"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -514,6 +563,53 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -550,6 +646,53 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -632,6 +775,18 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -703,6 +858,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -766,6 +926,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew L. Schmidt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -838,6 +1003,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+						"name": "Lisa Schultz Boyd"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -900,6 +1070,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+						"name": "Nikhil S. Jayaram"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -970,6 +1145,53 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1032,6 +1254,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+						"name": "Chad Quandt"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1096,6 +1323,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1157,6 +1396,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1220,6 +1464,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1325,6 +1581,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1350,6 +1618,11 @@
 							"name": "Patrick Krebs"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1371,6 +1644,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1391,6 +1669,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1439,6 +1722,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1501,6 +1789,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1529,6 +1822,11 @@
 							"name": "Sean Bishop"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1557,6 +1855,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1597,6 +1900,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1617,6 +1925,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1687,6 +2000,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1708,6 +2026,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlexHanson",
+							"name": "Alex Hanson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1728,6 +2058,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1750,6 +2085,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1771,6 +2111,33 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+							"name": "Erin McNamara"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+							"name": "Jennifer Muro"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+							"name": "Keith Sweet II"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1812,6 +2179,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexHanson",
+						"name": "Alex Hanson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1832,6 +2204,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1854,6 +2231,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1875,6 +2257,23 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1896,6 +2295,23 @@
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",

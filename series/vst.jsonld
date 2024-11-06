@@ -56,6 +56,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CasperKelly",
+						"name": "Casper Kelly"
+					},
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/2xD7QCSjkBc"
@@ -86,6 +91,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ClaireFriedman",
+						"name": "Claire Friedman"
 					},
 					"video": {
 						"@type": "VideoObject",
@@ -118,6 +128,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CasperKelly",
+						"name": "Casper Kelly"
+					},
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/Bij0nWXBKHI"
@@ -149,6 +164,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/LPCGkHjsK9M"
@@ -179,6 +199,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AaronHawkins",
 						"name": "Aaron Hawkins"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CasperKelly",
+						"name": "Casper Kelly"
 					},
 					"video": {
 						"@type": "VideoObject",
