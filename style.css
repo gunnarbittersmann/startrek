@@ -245,12 +245,12 @@ details p {
 }
 
 dl {
-  margin: 0;
+	margin: 0;
 }
 
 dt, dd, dd ul {
-  display: inline;
-  margin: 0;
+	display: inline;
+	margin: 0;
 }
 
 ul:has(details) {
