@@ -2791,6 +2791,20 @@
 					},
 					"abstract": {
 						"de": "Die Crew der in der Atmosphäre eines Planeten im Gamma-Quadranten gefangenen Defiant trifft auf dem Planeten ihre eigenen, zukünftigen Nachkommen und versucht nun, den Planeten wieder zu verlassen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Alternate Timelines",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-11-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/H2HqZurOW1Y"
+						}
 					}
 				},
 				{
