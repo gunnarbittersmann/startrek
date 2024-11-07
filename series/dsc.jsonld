@@ -106,6 +106,33 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidSemel",
 						"name": "David Semel"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+							"name": "Bryan Fuller"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+								"name": "Bryan Fuller"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+								"name": "Alex Kurtzman"
+							}
+						]
+					},
 					"description": {
 						"en": "Investigating a damaged satellite near a binary star system on the edge of Federation space, the crew of the Starfleet starship USS Shenzhou discover an object obscured from their sensors. When First Officer Michael Burnham volunteers to investigate the object, she finds an ancient, carved vessel. She is attacked by a Klingon, and when trying to escape, she accidentally kills him. A group of Klingons mourn the death of their soldier, dubbed the “Torchbearer”, before an outcast Klingon named Voq volunteers to take his place. The Klingons, led by T’Kuvma, reveal themselves to be in a cloakable ship. T’Kuvma preaches to his followers about the Federation’s attempts to usurp the individuality of the Klingons and their culture, and plans to fulfill an ancient prophecy by uniting the 24 great Klingon houses as was once done by the legendary Kahless. Voq activates a beacon that summons all the Klingon leaders. Burnham, desperate to prevent a war, defies the wishes of Captain Philippa Georgiou and attempts to fire on the Klingons first. She is arrested for mutiny.",
 						"de": "Die Handlung setzt im Mai 2256 ein. Das Sternenflottenraumschiff U.S.S. Shenzhou, kommandiert von Captain Philippa Georgiou, stößt am Rande des Territoriums der Föderation auf ein unbekanntes Gebilde im All. Da man zwecks Erforschung des Objekts wegen eines Streufeldes mit dem Schiff nicht nahe genug herankommt, untersucht die erste Offizierin Michael Burnham das Gebilde in einem Raumanzug allein aus der Nähe. Dort tötet sie im Affekt einen plötzlich erschienenen Klingonen, zu dessen als kriegerisch bekannter Spezies die Föderation nun schon seit über 100 Jahren keinen Kontakt mehr hatte, und entgeht bei dem Einsatz nur knapp dem Tod. Das Gebilde erweist sich als klingonisches Kampfschiff und damit als Bedrohung für die Shenzhou. An Bord jenes Schiffs plädiert der Klingone T’Kuvma dafür, dass die 24 untereinander zerstrittenen klingonischen Häuser sich miteinander zu vereinen hätten, um erfolgreich gegen die Sternenflotte zu kämpfen, von der sie sich wegen vermeintlicher Expansionsbestrebungen bedroht fühlen. Burnham, vor sieben Jahren nach vulkanischer Ausbildung an Bord der Shenzhou gekommen, erhält von ihrem vulkanischen Mentor Sarek den Rat, mit einem sog. „Vulkanischen Hallo“ zu reagieren, das heißt, die Klingonen zuerst anzugreifen. Davon beeinflusst, hintergeht Burnham, deren Eltern einst von Klingonen getötet wurden, die Anordnungen ihres Captains und reißt das Kommando an sich. Indes erscheinen weitere klingonische Raumschiffe, die sich der Shenzhou entgegenstellen."
@@ -127,6 +154,26 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AdamKane",
 						"name": "Adam Kane"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+							"name": "Bryan Fuller"
+						}
 					},
 					"description": {
 						"en": "T’Kuvma convinces the majority of the Klingon leaders that he can lead them to victory over the Federation, as Starfleet reinforcements for the Shenzhou arrive. Georgiou offers to resolve the situation peacefully, but the Klingons immediately open fire and the Shenzhou is critically damaged. Starfleet Admiral Anderson arrives and again offers peace to the Klingons, but his ship is rammed by another cloaked Klingon vessel. Anderson has his ship self-destruct, destroying the Klingon ship. Starfleet retreats, leaving the Klingons to collect their dead. In the remains of the Shenzhou, Burnham escapes from her cell after encouragement from her guardian Sarek via a telepathic connection. She convinces Georgiou to try to take T’Kuvma prisoner, and they create a distraction by sending an explosive into his ship with a Klingon corpse. Boarding the vessel, Burnham overpowers Voq. Georgiou attempts to capture T’Kuvma, but is killed. T’Kuvma is fatally shot by Burnham, who is transported to safety. Voq promises that T’Kuvma’s legacy will live on. Burnham is sentenced to life in prison for her mutiny.",
@@ -167,6 +214,43 @@
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
 						"name": "Akiva Goldsman"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CraigSweeny",
+							"name": "Craig Sweeny"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+								"name": "Bryan Fuller"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+								"name": "Gretchen J. Berg"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+								"name": "Aaron Harberts"
+							}
+						]
+					},
 					"description": {
 						"en": "Six months into her sentence, Burnham is on an unexpected prison transfer when an emergency forces her shuttle to be rescued by the USS Discovery. Spending several days on the starship, Burnham is ordered by its captain, the mysterious Gabriel Lorca, to assist with a scientific assignment. Burnham overhears Lieutenant Paul Stamets, an astromycologist who is leading the assignment, discuss an upcoming experiment with a colleague serving on another starship; Lorca is soon informed of an incident on the Discovery’s sister ship, the USS Glenn, that has killed the entire crew. Stamets leads a boarding party to investigate and finds the dead crew hideously twisted and malformed, as well as a group of Klingons killed by an unknown creature. Lorca later asks Burnham to work for him, despite her sentence, explaining that he organized the circumstances that led her to him so she could help develop a new spore-based propulsion system on Discovery. He believes this “spore drive” could win the war that Burnham started by killing T’Kuvma. He also secretly has the creature transported to the Discovery.",
 						"de": "Sechs Monate nach ihrer Verurteilung ist Burnham als Teil eines Häftlingstransports in einem Shuttle unterwegs. Als es in einem Sturm in Gefahr gerät, wird es vom Sternenflottenraumschiff U.S.S. Discovery gerettet und an Bord geholt. Wegen Burnhams Fähigkeiten als Quantenphysikerin setzt Captain Lorca sie als Hilfswissenschaftlerin ein. Sie ist auch Teil eines Außenteams um Lt. Stamets, das die im All driftende U.S.S. Glen untersucht, das Schwesterschiff der Discovery. Dabei schützt Burnham ihre Kollegen vor den gewalttätigen Angriffen eines dort sein Unwesen treibenden, reptilienähnlichen Wesens. Zurück auf der Discovery, erkennt Burnham, dass Lorca sie absichtlich auf die Discovery geholt hat und er sie einer Prüfung ihrer Fähigkeiten unterziehen wollte. Lorca erklärt ihr, dass auf der Discovery ein experimentelles biologisches, auf Sporen basierendes Antriebssystem entwickelt wird, welches der Föderation helfen soll, den Krieg gegen die Klingonen zu gewinnen. Der Antrieb ermöglicht sekundenschnelle Raumsprünge über viele Lichtjahre hinweg und wurde auf der Glen erfolgreich getestet, ehe ein Experiment fehlschlug. Weil Lorca das Verhalten Burnhams während der Schlacht im Doppelsternsystem als taktisch klug beurteilt, überzeugt er sie davon, dauerhaft an Bord zu bleiben und in den Sternenflottendienst zurückzukehren."
@@ -202,6 +286,18 @@
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JesseAlexander",
+							"name": "Jesse Alexander"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AronEliColeite",
+							"name": "Aron Eli Coleite"
+						}
+					],
 					"description": {
 						"en": "Lorca assigns Burnham to study the creature from the Glenn, which is a giant Tardigrade, to find a way to use its biology as a weapon. Starfleet orders Discovery to the dilithium mining colony Corvan II, which is under Klingon attack. Stamets is reluctant to make such a long jump using the spores, and when the drive is activated the ship nearly collides with a star. Lorca sends Commander Landry to keep Burnham’s research on track, and Landry attempts to sedate the Tardigrade (that she names Ripper) to cut off its claw; it kills her. Burnham believes that Ripper was acting in self-defense, and is drawn to the spores. Stamets and Burnham transport it to Engineering, where it connects to the spore drive and interfaces with the navigation system. The ship successfully makes the jump to Corvan II and saves the colony. On T’Kuvma’s stranded ship, Klingon leader Kol earns the loyalty of T’Kuvma’s desperate followers, and leaves Voq to die in the wreckage of the Shenzhou. L’Rell, a Klingon who is secretly loyal to Voq, promises a way for them to win the war for the house of T’Kuvma.",
 						"de": "Eine Föderationskolonie auf dem entlegenen Planeten Korvan II wird von Klingonen angegriffen, dadurch sind die Kolonisten und Dilithiumvorräte in Gefahr. Um schnell dorthin zu gelangen und die Kolonie zu verteidigen, möchte Lorca den Sporenantrieb einsetzen, der trotz erfolgreicher Simulationen aber noch nicht zuverlässig genug funktioniert. Indes entdeckt Burnham bei ihren Untersuchungen des reptilienähnlichen, von Lorca für den Kampf gegen Klingonen vorgesehenen Wesens, dass es aversiv gegen Licht ist und nicht von Natur aus, sondern nur zur Selbstverteidigung andere Individuen angreift. Besonders nützlich ist die Entdeckung, dass die Kreatur – überwiegend als Tardigrade bezeichnet, von Burnham nur als „Ripper“ – im Stande ist, eine symbiotische Beziehung zu Sporen einzugehen und das Myzeliennetzwerk in der Galaxis zur Positionsbestimmung zu nutzen. Diese Erkenntnis ausnutzend, lässt man auf der Discovery das Wesen in Kontakt mit Sporen treten und verhilft so dem Sporenantrieb zur nötigen Zielgenauigkeit, um Korvan II zu erreichen. Die Discovery rettet dort die unter schwerem Beschuss liegenden Kolonisten. Unterdessen stehlen Klingonen den Dilithiumprozessor vom Wrack der Shenzhou. Der Klingone Kol, der nach T’Kuvmas Tod einen Führungsanspruch hegt, verfolgt einen anderen politischen Kurs als zuvor T’Kuvma. Der ungewöhnlich hellhäutige Klingone Voq steht bei Kol in Ungnade. Die Klingonin L’Rell unterstützt Voq und rät ihm dazu, gegen Kol vorzugehen und T’Kuvmas die 24 Häuser einigenden politischen Kurs fortzusetzen."
@@ -236,6 +332,31 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
 						"name": "Lee Rose"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KempPowers",
+						"name": "Kemp Powers"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+								"name": "Gretchen J. Berg"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+								"name": "Aaron Harberts"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#KempPowers",
+								"name": "Kemp Powers"
+							}
+						]
 					},
 					"description": {
 						"en": "After a month of successful operations, Lorca is ordered to protect the spore drive until it can be replicated for other Starfleet ships. As he returns to the Discovery, Lorca is taken captive by a group of Klingons led by L’Rell. Burnham has grown concerned by the toll that the drive has taken on Ripper. Along with Stamets’ partner, medical officer Hugh Culber, Burnham convinces Stamets to find an alternative to run the drive. Lorca is imprisoned with captured Starfleet officer Ash Tyler and human criminal Harry Mudd, and in discussions Lorca reveals that he killed his entire crew during an earlier battle to spare them from the Klingons’ torture, but escaped himself. Lorca is tortured by L’Rell, who wants to learn the secret behind Discovery’s new form of travel, but Lorca and Tyler escape before the Klingons can learn anything about it. For the final jump needed to escape the Klingons, with Lorca and Tyler onboard, Stamets connects to the spore drive himself using Ripper’s DNA. Later, Burnham frees Ripper while Stamets’ reflection in a mirror does not walk away when he does.",
@@ -294,6 +415,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Douglas Aarniokoski"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TedSullivan",
+							"name": "Ted Sullivan"
+						}
+					],
 					"description": {
 						"en": "On his way to broker a peace deal with renegade Klingon houses, Sarek is injured when a “logic extremist” attempts to assassinate him. Burnham senses this through her telepathic link with Sarek and Lorca agrees to rescue him. Admiral Katrina Cornwell questions this decision and others that Lorca has been making. Burnham searches for Sarek in a shuttle with Tyler and her roommate, Cadet Sylvia Tilly. Burnham attempts to connect with Sarek’s mind, and finds him remembering the time that her application for the Vulcan Expeditionary Group was rejected. She learns that the VEG would only admit one of Sarek’s children, and he chose Spock, his half-human son. Spock ultimately chose to join Starfleet, rendering Sarek’s decision futile. Burnham helps him regain consciousness and activates a locator beacon. Lorca and Cornwell have sex, but she is concerned by his paranoid behavior and plans to remove him from command of Discovery. With Sarek unable to meet with the Klingons, Cornwell takes his place; however, the peace talks are actually a trap and she is taken captive.",
 						"de": "Als Botschafter Sarek in einem vulkanischen Kleinraumschiff unterwegs zu einem geheimen Treffen mit zwei klingonischen Häusern ist, die zwecks Gewinn des Krieges eine Allianz schmieden wollen, wird es von einem Logik-Extremisten, der sich selbst in die Luft sprengt, schwer beschädigt. Sarek wird schwer verletzt und liegt bewusstlos an Bord des Kleinraumschiffs innerhalb des Iridia-Nebels. Burnham, die von Sarek einst ausgebildet wurde, spürt Sareks Schmerz, da sie imstande ist, sich mit Sareks Seele zu verbinden. Im Gegensatz zur Entscheidung seiner Vorgesetzten lässt Lorca die Suche nach Sarek starten und dazu Burnham mit Tilly und Tyler zu dem Nebel fliegen. Bei ihren Versuchen, ihre Gedanken mit denen Sareks zu verschmelzen, erfährt Burnham, dass Sareks einstige Entscheidung, nicht sie, sondern Spock zur Teilnahme an einer vulkanischen Expeditionsgruppe anzumelden, durch Spocks Entscheidung nachträglich hinfällig wurde, sich stattdessen der Sternenflotte anzuschließen. Burnham hilft Sarek, sein Bewusstsein zurückzuerlangen und sich durch ein Transpondersignal lokalisieren zu lassen, sodass er gerettet werden kann. Da Sarek nun außerstande ist, die Klingonen zu treffen, reist stattdessen Lorcas Geliebte, Admiral Cornwall, zu dem Treffen. Dieses stellt sich jedoch als Falle heraus, Cornwall wird gefangen genommen."
@@ -329,6 +462,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidMBarrett",
 						"name": "David M. Barrett"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AronEliColeite",
+							"name": "Aron Eli Coleite"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JesseAlexander",
+							"name": "Jesse Alexander"
+						}
+					],
 					"description": {
 						"en": "While attending a crew party, Burnham and Tyler are called to the bridge to deal with an endangered space creature, a gormagander, that the Discovery has come across. When the creature is brought onboard, it is revealed to be carrying a person: Harry Mudd. He plans to kill Lorca and sell the ship to the Klingons, but when he is caught by the officers he decides to blow up the ship instead. Time returns to the party earlier, with Burnham and Tyler called to the bridge again. They are intercepted by Stamets, who is aware that they are in a time loop due to his interactions with Ripper’s DNA. Over numerous time loops, Stamets works with Burnham and Tyler to find a solution to the problem while Mudd gets further in his plan each time. They eventually convince Mudd that he has won, and he ends the time loop. Preparing to receive a boarding party of Klingons, Mudd is instead confronted by his “beloved” Stella and her father, from whom he had stolen her dowry. They take Mudd away. Stamets reveals to Burnham and Tyler that in one of the time loops they had danced together and kissed.",
 						"de": "Der Kriminelle Harry Mudd hält die Discovery-Crew in einer Zeitschleife gefangen, von der jeder Durchlauf 30 Minuten dauert. Es ist sein Ziel, den Sporenantrieb zu kontrollieren und die Discovery aus Profit an die Klingonen zu verkaufen. Als Mudd am Ende jedes Schleifendurchlaufs von der Crew in die Enge getrieben wird, bringt er die Discovery zur Explosion. Der Sporenantrieb funktioniert nicht ohne Stamets; wegen dieses Zusammenhangs ist Stamets der Einzige in der Crew, der die Zeitschleife bemerkt. Mit diesem Wissen und mit seiner Hilfe arbeiten Burnham und Tyler daran, Mudds Treiben ein Ende zu setzen. Dazu stiehlt sie Mudd den Zeitkristall, den er zur Aufrechterhaltung der Zeitschleife benötigt. Mit diesem Druckmittel und dem Argument, dass sie selbst als Mörderin T’Kuvmas eine wertvollere Beute für die Klingonen sei, überredet sie ihn, die Zeitschleife abzubrechen."
@@ -370,6 +515,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnSScott",
 						"name": "John S. Scott"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+						"name": "Kirsten Beyer"
+					},
 					"description": {
 						"en": "Coming to the aid of another Federation ship, the Discovery is unable to prevent the ship’s destruction by a Klingon ship that is using cloaking technology. Desperate for a way to detect these ships even when they are cloaked, Burnham, Tyler, and Saru are sent to Pahvo, a seemingly uninhabited planet with a naturally occurring crystalline transmitter that broadcasts the planet’s vibrational frequency into space. They hope to use the transmitter to create a sonar for the hidden Klingon ships. Meanwhile, L’Rell tries to help Cornwell escape in exchange for protection from Kol, but they are caught and L’Rell apparently kills Cornwell to try to save face with Kol. He sentences L’Rell to death for her actions. The Discovery officers learn that Pahvo is inhabited with indigenous life that introduce Saru to their higher understanding of peace, and he attempts to force Burnham and Tyler to remain with him on the planet forever. Burnham is able to fight off Saru and broadcast the new signal. However, the Pahvo lifeforms adjust the signal to contact the Klingons as well, hoping to end the war, and Kol receives the signal.",
 						"de": "Die Klingonen rüsten ihre Schiffe verstärkt mit Tarnvorrichtungen aus und fügen der Sternenflotte mit Überraschungsangriffen schwere Verluste zu. Daher möchte die Sternenflottenführung den Klingonen den taktischen Vorteil nehmen, den sie deshalb haben. Zur Erreichung dieses Ziels sind Burnham, Saru und Tyler auf dem Planeten Pahvo, wo sich ein turmhoher Kristall befindet, der den ganzen Planeten mit einer spezifischen Frequenz schwingen lässt und wie ein natürlicher Transmitter fungiert, auch in den Weltraum hinaus. Aufgabe des Teams ist es, die Frequenz des Transmitters so zu modifizieren, dass sie der Sternenflotte als Sonar dienen kann, mit dem sie getarnte klingonische Schiffe aufspüren kann. Auf dem Planeten einheimische Wesen namens Pahvaner, die in Konfliktfreiheit leben möchten, ergreifen von Saru Besitz, lassen ihn in ihrem Interesse handeln und wollen das Team am Verlassen des Planeten hindern. Burnham gelingt es mit Tylers Hilfe und gegen Sarus Widerstand, die Frequenz des Turms zu modifizieren und die Discovery zu verständigen, die die drei zurück an Bord beamt. Rasch stellt sich heraus, dass die Pahvaner wegen ihres Ziels, Zwietracht in Harmonie zu verwandeln, dafür sorgen, dass der Turm durch seine Signale nunmehr auch die Klingonen auf Pahvo aufmerksam macht. Das klingonische Schiff mit Kol an Bord nähert sich dadurch der Discovery. Zuvor hatte Kol den Versuch der Klingonin L’Rell als Täuschung verstanden, durch Erlangung von taktisch relevanten Informationen von der Gefangenen Cornwall seine Gunst zu ergattern."
@@ -405,6 +555,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
 						"name": "Chris Byrne"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
+							"name": "Bo Yeon Kim"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#Erika Lippoldt",
+							"name": "Erika Lippoldt"
+						}
+					],
 					"description": {
 						"en": "Lorca is ordered to flee before the Klingons arrive, but disobeys in order to protect the lifeforms on Pahvo and improve the Federation’s chances of detecting the cloaked ships. When the Klingons arrive, Tyler and Burnham transport to the Klingon ship and plant sensors that will help create an algorithm for detecting cloaked ships. They find an alive Cornwell hidden with L’Rell, but encountering the latter sends Tyler into shock due to memories he has of her torturing and raping him. Lorca has Stamets make 133 micro-jumps with the spore drive in order to provide a three-dimensional reading of the sensors, while Burnham distracts Kol by challenging him to a fight. The jumps are completed, though not without trauma to Stamets. When the algorithm is calculated, Burnham, Tyler, Cornwell, and L’Rell—who wishes to defect—are transported back to the Discovery and the Klingon ship is destroyed. Stamets volunteers to make one more jump to safety, but tells Lorca it will be his last. However, Lorca secretly changes the coordinates and they jump to an unknown destination surrounded by starship debris.",
 						"de": "Angesichts der Gefahr durch das nahende klingonische Flaggschiff erhält Lorca von der Sternenflotte den Befehl, mit der Discovery in sicheres Gebiet zurückzukehren. Lorca jedoch missachtet den Befehl und lässt seine Crew eine Mission beginnen, durch die sich die Discovery der klingonischen Tarntechnologie bemächtigen kann: Nachdem Burnham und Tyler von den Klingonen unbemerkt auf das klingonische Schiff gebeamt sind und dort mit der Installation von Sensoren begonnen haben, lässt Lorca die Discovery über 100 Mikrosprünge rund um das klingonische Schiff durchführen und es so in Schach halten. Der mit dem Sporenantrieb verbundene Stamets verkraftet die Sprünge nur unter großen körperlichen Entbehrungen. Auf dem klingonischen Schiff ist Burnham ungeplant auf sich gestellt, da Tyler wegen Symptomen der posttraumatischen Belastungsstörung ausfällt, die er durch Folter in klingonischer Gefangenschaft erlitten hat. Burnham gelangt auf die klingonische Schiffsbrücke, duelliert sich mit Kol und verschafft der Discovery damit Zeitgewinn. Dieser ist hilfreich beim Kopieren von Daten über die Tarntechnologie. Burnham und Tyler beamen mit der verletzten Cornwall und einer klingonischen Geisel auf die Discovery zurück. Beim Versuch, mit dem Sporenantrieb den Schauplatz zu verlassen, gibt es einen technischen Fehler, durch den die Discovery in unbekanntem Gebiet im All strandet."
