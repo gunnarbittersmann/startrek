@@ -275,6 +275,13 @@ ul:has(details) iframe {
 }
 
 @media (width > 40em) {
+	[property="abstract"], [property="description"] {
+		margin-top: 0.5em;
+		padding-top: 0.25em;
+		background: var(--background-color);
+		scale: 1;
+	}
+
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]):last-child,
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]) ~ :last-child {
 		padding-bottom: 0.5em;
