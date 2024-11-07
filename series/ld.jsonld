@@ -2752,6 +2752,12 @@
 					"episodeNumber": "5.4",
 					"name": "A Farewell To Farms",
 					"datePublished": "2024-11-07",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Von Brüdern und anderen Herausforderungen",
+						"datePublished": "2024-11-07"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
