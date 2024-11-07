@@ -2767,7 +2767,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DianaTay",
 						"name": "Diana Tay"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HfPW2BBNku0"
+							}
+						}
+					]
 				}
 			]
 		}
