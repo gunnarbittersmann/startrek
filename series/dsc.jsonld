@@ -602,6 +602,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+						"name": "Sean Cochran"
+					},
 					"description": {
 						"en": "Discovery’s crew determines that they have arrived in a parallel Mirror Universe, with Stamets now unconscious and unable to power the spore drive. Tyler confronts L’Rell, and she attempts to use a verbal cue to trigger something within him, though he fights this off. They find a data core in the wreckage of a Klingon ship and learn that this universe is ruled by the human Terran Empire, who are fighting a resistance that includes species such as Klingons and Vulcans. Here, Burnham is the former captain of the ISS Shenzhou, presumed dead after an attack by the fugitive Lorca. The ISS Discovery is captained by Sylvia Tilly’s counterpart, so Tilly and the crew pretend to be their Mirror selves. They deliver Burnham and Lorca to the Shenzhou, under the ruse that Burnham had been hunting Lorca since her presumed death and has now captured him. Culber informs Tyler that he appears to have undergone major surgical modifications, which triggers something in Tyler and he kills Culber. Tyler joins the others on the Shenzhou, where Lorca is tortured while Burnham assumes command.",
 						"de": "Die Discovery findet sich in einem Paralleluniversum wieder, in dem die Menschen, hier Terraner genannt, eine faschistoide Macht sind, und von nichtmenschlichen Rebellen bekämpft werden. Auf der Brücke erkennt man, dass die Discovery des Spiegeluniversums wahrscheinlich in das Ausgangsuniversum versetzt wurde. Während Lorca seine Crew nach einer Möglichkeit suchen lässt, diesem Universum wieder zu entfliehen, nähert sich der Discovery ein terranisches Raumschiff. Um nicht als Fremde aufzufallen bzw. die Leben auf der Discovery nicht zu riskieren, passt sich die Crew auf dem ganzen Schiff den Rollen an, die ihre Alter Egos des Spiegeluniversums bislang innehatten. Das beinhaltet, dass Fähnrich Tilly die Rolle der Schiffskommandantin einnimmt. Indes erkennt Dr. Culber in der Krankenstation, dass der posttraumatisch gestörte Tyler nicht er selbst ist und wohl durch die Klingonen verändert wurde. Daraufhin bricht Tyler dem Doktor das Genick. Anschließend beamt er mit Burnham und Lorca an Bord des näher gekommenen Schiffs. Burnham ist in der Rolle der Kommandantin jenes Schiffs und bringt Lorca als Gefangenen mit, der daraufhin gefoltert wird. Der erste Offizier des Schiffes versucht Burnham zu ermorden, aber sie tötet ihn und übernimmt das Kommando über das Schiff."
@@ -636,6 +641,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TJScott",
 						"name": "T. J. Scott"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaRandolph",
+						"name": "Lisa Randolph"
 					},
 					"description": {
 						"en": "The ISS Shenzhou is given the coordinates of the resistance leadership, and ordered to kill them all. Burnham and Tyler travel as a landing party themselves and instead surrender to the resistance in hopes of learning how the Klingons of this universe have learned to work with other species; they find that the Mirror version of Voq is the resistance leader. Burnham offers to give the group time to escape before their base is destroyed, and Mirror Sarek confirms that she can be trusted after connecting to her mind. Listening to Voq triggers Tyler’s programming, and he has to be restrained. Back on the ship, he reveals to Burnham that he now knows he was once Voq, and that he underwent surgery to appear human and infiltrate Starfleet. She has him beamed into space, where he is picked up by the USS Discovery. Saru and Tilly imprison him, having earlier found the body of Culber. They also unsuccessfully attempted to heal Stamets, who has not been the same since his last spore jump and Culber’s death. Burnham is reprimanded for not killing the resistance leaders by the Emperor—the Mirror version of Georgiou.",
@@ -672,6 +682,11 @@
 						"@id": "https://bittersmann.de/startrek/people#HanelleMCulpepper",
 						"name": "Hanelle M. Culpepper"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordonNardino",
+						"name": "Jordon Nardino"
+					},
 					"description": {
 						"en": "Burnham and Lorca are summoned to the ISS Charon, the imperial flagship. Georgiou sends Lorca to a torturous agony booth, and has dinner with Burnham. Stamets finds himself within the mycelial network with the consciousness of his Mirror counterpart, learning that the network has been corrupted by the Mirror Stamets’ experiments. Stamets encounters a representation of Culber and accepts his loss, before waking up from his trance. He discovers that his spore collection has been infected. Georgiou laments allowing Lorca to become a father figure to Burnham, only for the pair to fall in love and plot to overthrow her. She plans to execute Burnham, who reveals the truth about being from another universe. Explaining how they had crossed over, Georgiou trades the spore drive’s schematics for information on alternative ways to cross between universes, which leads Burnham to realize that the Lorca she knows is actually originally from the Mirror Universe and has been manipulating events to get back to the Mirror Universe while also getting close to her. Lorca escapes from the agony booth.",
 						"de": "Burnham und Lorca werden zu Georgious Raumschiff Charon gebracht. Während Georgiou ihren als Putschist gefangen genommenen Feind Lorca foltern lässt, nimmt sie ihr Abendessen zusammen mit Burnham ein. Stamets findet sich im Myzeliennetzwerk wieder und trifft dort auf das Bewusstsein seines Gegenübers aus dem Spiegeluniversum. Er erfährt dort, dass das Netzwerk durch die Experimente jenes Alter Egos unbrauchbar geworden ist. Er begegnet zudem einer Version von Dr. Culber, dessen Verlust er akzeptiert, ehe er aufwacht und seine Sporensammlung infiziert vorfindet. Georgiou bejammert, dass sie es zuließ, Lorca zu einer Vaterfigur für Burnham werden zu lassen, so dass diese Georgiou als Machthaberin stürzen wollten. Zur Strafe dafür plant sie, Burnham zu exekutieren. Diese jedoch enthüllt die Wahrheit über sich selbst, der zufolge sie aus dem anderen Universum stammt. Burnham erklärt, wie es dazu kam, dass sie in das Spiegeluniversum gelangten. Georgiou geht einen Deal ein und gibt Informationen über den Aufbau des Sporenantriebs als Gegenleistung für Informationen über alternative Wege für das Wechseln zwischen den Universen. In der Folge realisiert Burnham, dass der Lorca, den sie kennt, in Wirklichkeit aus dem Spiegeluniversum stammt und die Ereignisse mit dem Ziel manipuliert hat, sich ihr anzunähern und zurück ins Spiegeluniversum zu gelangen. Schließlich flieht Lorca aus der Agonie-Kammer, in der er gefoltert wurde."
@@ -706,6 +721,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TedSullivan",
+						"name": "Ted Sullivan"
 					},
 					"description": {
 						"en": "Lorca frees his old crew, who have been tortured since his disappearance, and with the help of Mirror Stamets they are able to kill those loyal to Georgiou and usurp her throne. She goes into hiding, while Burnham also evades capture and contacts the Discovery. They agree to a plan in which Burnham lowers the containment field around a large energy source in the ISS Charon that originated from the mycelial network. The Discovery will then arrive to destroy the energy source, causing an explosion which they can ride into the mycelial network through which Stamets could navigate them back to their own universe. Georgiou agrees to help Burnham and they attack Lorca’s group. Rejected and defeated by Burnham, Lorca is then killed by Georgiou who offers to sacrifice herself to allow Burnham’s escape. The latter instead decides to take Georgiou with her as they are beamed to the Discovery and the Charon is destroyed. Back in their original universe, the Discovery crew learn that they have arrived nine months after they left, and, in the meantime, the Klingons have nearly won the war.",
@@ -742,6 +762,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidSolomon",
 						"name": "David Solomon"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaRandolph",
+						"name": "Lisa Randolph"
+					},
 					"description": {
 						"en": "The Discovery is boarded by Cornwell and Sarek, who explain that the Klingon houses remain divided and fight between themselves to see which can destroy more Federation assets. The only safe refuge for Starfleet beyond Earth is now Starbase 1, and they warp there with Cornwell assuming command. After emergency surgery performed by L’Rell, Tyler now has his personality back, but can still access Voq’s memories; Burnham is unable to forgive his actions as Voq and rejects him. The crew finds Starbase 1 conquered by a Klingon house, and the remainder of Starfleet’s command withdraws to protect Earth. Georgiou tells Burnham that she defeated the Klingons in the Mirror Universe with a surprise attack on their homeworld of Qo’noS, and Cornwell agrees to replicate that now. To jump into Klingon territory, Stamets terraforms a desolate moon to grow a new crop of spores so they can use the spore drive. Georgiou tells Sarek and Cornwell of other essential information she has, and they have her pose as this universe’s original Captain Georgiou to lead the mission.",
 						"de": "Die 24 klingonischen Häuser sind nicht mehr miteinander vereint und kämpfen deshalb unabhängig voneinander gegen die Föderation, die wegen fehlender Informationen über die klingonische Tarntechnologie einen wichtigen Nachteil hat. Admiral Cornwall und Sarek kommen an Bord der Discovery, überzeugen sich von der Echtheit der Besatzung und planen alsbald, mit Hilfe der Discovery und ihres Sporenantriebs den Klingonen einen Schlag zu versetzen, der den Krieg zu Gunsten der Föderation wenden soll. Der Plan basiert auf Georgious Erfahrung im Spiegeluniversum und sieht vor, mit dem Sporenantrieb bis zur klingonischen Heimatwelt Qo’noS zu springen, wo die Crew auf der Planetenoberfläche Schwachstellen für einen möglichen Überraschungsangriff finden soll. Da die letzte Reise alle verfügbaren Sporen verbraucht hat, sorgt die Discovery mit einer besonders schnellen Art von Terraforming auf einem Mond für den Wuchs neuer Sporen. Indes versucht sich Tyler, den die gefangene Klingonin geheilt hat, wieder in die Mannschaft zu integrieren. Lorca gilt als tot, als Captain fungieren zunächst wechselnd Cornwall und Saru. Schließlich beginnt die Discovery mit der Umsetzung des Plans, wofür Cornwall und Saru nach Georgious Aussage, sie hätte wichtige Informationen, Georgiou als Captain einsetzen."
@@ -763,6 +788,38 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
 						"name": "Akiva Goldsman"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+								"name": "Akiva Goldsman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+								"name": "Gretchen J. Berg"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+								"name": "Aaron Harberts"
+							}
+						]
 					},
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
