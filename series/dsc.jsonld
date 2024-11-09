@@ -3504,6 +3504,11 @@
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichelleParadise",
+						"name": "Michelle Paradise"
+					},
 					"description": {
 						"en": "In the 32nd century, Captain Michael Burnham and the crew of the USS Discovery are assigned a top-secret “red directive” mission by the mysterious Dr. Kovich to investigate an 800-year-old Romulan science vessel. Before they get there, couriers Moll and L’ak take something from the vessel. Kovich asks Cleveland “Book” Booker—formerly a courier and Burnham’s romantic partner who is serving time for crimes against the United Federation of Planets—to help find Moll and L’ak, and he leads Discovery and the USS Antares to the planet Q’mau. There, Moll and L’ak meet with an android named Fred who reveals that the object is a Romulan puzzle box holding a journal. They kill Fred and flee. Burnham, Book, and Antares captain Rayner pursue the couriers and Rayner accidentally triggers an avalanche that threatens a nearby town. Burnham uses the shields on Discovery and Antares to save the town, allowing Moll and L’ak to escape. Later, Kovich reveals that the journal belongs to a team of 24th-century scientists who searched for the technology that the Progenitors used to seed the galaxy with life.",
 						"de": "Im 32. Jahrhundert erhalten Captain Michael Burnham und die Besatzung der USS Discovery von dem mysteriösen Dr. Kovich den streng geheimen Auftrag („Rote Direktive“), ein 800 Jahre altes romulanisches Wissenschaftsschiff im Beta-Quadranten zu untersuchen. Als sie dort ankommen, sind die Kuriere Moll und L’ak gerade dabei etwas vom Schiff zu entwenden und diese entkommen mit ihrem Schiff. Kovich bittet Cleveland „Book“ Booker – ehemals ein Kurier und Burnhams romantischer Partner, der wegen Verbrechen gegen die Vereinigte Föderation der Planeten im Gefängnis sitzt – um Hilfe bei der Suche nach Moll und L’ak. Er führt die Discovery und die USS Antares zum Planeten Q’mau. Dort treffen Moll und L’ak auf einen alten Androiden namens Fred, der ihnen verrät, dass es sich bei dem Objekt um eine traditionelle romulanische Rätselbox mit einem enthaltenen Tagebuch handelt. Sie töten Fred und fliehen mit dem Tagebuch. Burnham, Book und Antares-Captain Rayner verfolgen die Kuriere und Rayner löst versehentlich eine große Lawine aus, die eine nahe gelegene Stadt bedroht. Burnham setzt die Schilde der Discovery und der Antares ein, um die Stadt zu retten, Moll und L’ak entkommen derweil. Später enthüllt Kovich, dass das Tagebuch einem Dr. Vellek gehörte, der zu einem Team von Wissenschaftlern aus dem 24. Jahrhundert gehörte, die die Technologie fanden, mit der die Urhumanoiden, auch Progenitoren genannt, die Galaxie mit humanoidem Leben besiedelt haben."
@@ -3552,6 +3557,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
 						"name": "Douglas Aarniokoski"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
+						"name": "Alan McElroy"
 					},
 					"description": {
 						"en": "Following his actions on Q’mau, Rayner is brought before a disciplinary hearing by Federation president Laira Rillak who believes that Rayner’s recklessness is not suitable for Starfleet in peacetime. Using images of the journal that they retrieved from Fred’s memory, Burnham and Discovery travel to the uninhabited burial planet of Lyrek where they believe the Progenitor technology, or a clue to it, is hidden. Burnham and her first officer Saru—on his last mission with Discovery before becoming a Federation ambassador so he can be closer to his fiancé, Ni’Var president T’Rina—transport down to Lyrek and disable an automated defense system using an electromagnetic pulse. Book contacts Moll and L’ak posing as a fellow courier and learns that Moll is Malinne, the daughter of his mentor and namesake Cleveland Booker IV. Burnham and Saru find a piece of a map, and they also determine that the couriers are on their way to Betazed when the next clue is actually on Trill. When Burnham learns that Rayner has been asked to resign from Starfleet, she offers him a second chance as her new first officer.",
@@ -3619,6 +3629,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
 						"name": "Andi Armaganian"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KyleJarrow",
+							"name": "Kyle Jarrow"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LaurenWilkinson",
+							"name": "Lauren Wilkinson"
+						}
+					],
 					"description": {
 						"en": "Saru struggles in his new world of politics, Rayner reluctantly gets to know the crew of Discovery, and Burnham travels to Trill with Book, Dr. Hugh Culber, and ensign Adira Tal who reunites with their boyfriend, Gray. The pair decide to break-up due to their lives going in different directions. The team meet the host of a Trill symbiont, Bix, whose previous host Jinaal was a member of the 24th-century scientist team. Culber offers to have Jinaal’s consciousness temporarily transferred to his body so Jinaal can take Burnham and Book to the next clue. He leads them into the wilderness where they are attacked by several large creatures. Realizing that the creatures are defending their nest, Book uses his empathic abilities to calm them. This convinces Jinaal that they can be trusted with finding the Progenitors’ technology, explaining that the scientists hid the technology and the pieces of the map so it could not be found until someone worthy of that power went looking for it. He gives them his piece of the map and the coordinates for the next piece. Culber is left shaken by this shared-body experience.",
 						"de": "Saru hat mit seiner neuen Aufgabe der Politik zu kämpfen, Rayner lernt widerwillig die Crew der Discovery kennen und Burnham reist mit Book, Dr. Hugh Culber und Fähnrich Adira Tal, die ihren Freund Gray wiedertrifft, nach Trill. Adira und Gray beschließen, sich zu trennen, da ihr Leben in unterschiedliche Richtungen verläuft. Das Team trifft auf den Wirt des Trill-Symbionten Bix, dessen früherer Wirt Jinaal ein Mitglied des Wissenschaftlerteams des 24. Jahrhunderts war. Culber bietet an, Jinaals Bewusstsein vorübergehend in seinen Körper zu übertragen, damit Jinaal Burnham und Book zum nächsten Anhaltspunkt führen kann. Er führt sie in die Wildnis, wo sie von mehreren großen Kreaturen angegriffen werden. Book erkennt, dass die Kreaturen ihr Nest verteidigen, und setzt seine empathischen Fähigkeiten ein, um sie zu beruhigen. Er erklärt, dass die Wissenschaftler die Technologie und die Teile der Karte versteckt haben, damit sie erst gefunden werden, wenn sich jemand, der dieser Macht würdig ist, auf die Suche danach macht. Er gibt ihnen sein Stück der Karte und die Koordinaten für das nächste Stück. Culber ist erschüttert von dieser Erfahrung, die er am eigenen Leib erfahren hat. Moll verfolgte die Discovery heimlich nach Trill und platziert dort eine Zeitspinne, ein Überbleibsel aus den Temporalen Kriegen, auf Adira."
@@ -3680,6 +3702,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeeRose",
 						"name": "Lee Rose"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+						"name": "Sean Cochran"
 					},
 					"description": {
 						"en": "Moll secretly tracks Discovery to Trill and plants a time bug, a weapon left over from the Temporal Wars, on Adira. When Discovery arrives at the coordinates of the next clue, the time bug activates and traps them in a cycle of jumping through time. Burnham and Rayner were transporting when the time bug activated and were left aware of what happened, while chief engineer Paul Stamets is also aware of what is happening due to his unique DNA. The three jump through various periods of the ship’s history, including when it was under construction, fighting the malevolent AI Control, traveling from the 23rd century to the 32nd, being hijacked by Osyraa, and a possible future where Moll and L’ak have found the Progenitors’ technology and it has been used by the Breen to devastate the Federation. Jumping to a few weeks after Burnham first boarded Discovery, she convinces the crew to help her, Rayner, and Stamets break the cycle and return to the correct time, confronting her mutinous younger self in the process. Being stuck in the time cycle gives Moll and L’ak a six hour head-start on the next clue.",
@@ -3761,6 +3788,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JenMcGowan",
 						"name": "Jen McGowan"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohannaLee",
+							"name": "Johanna Lee"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CarlosCisco",
+							"name": "Carlos Cisco"
+						}
+					],
 					"description": {
 						"en": "Moll and L’ak have entered an unstable wormhole. Burnham and Book enter in a shuttle and find the debris of Moll and L’ak’s ship next to the ISS Enterprise, an alternate version of the USS Enterprise from the Mirror Universe. The ship was brought to this universe by refugees escaping the ruthless Terran Empire, and one of the refugees went on to join the 24th-century scientist team. She hid her piece of the map on the ship, which Burnham retrieves along with the next clue. Book attempts to reason with Moll using his connection to her father, but she is unconvinced because her father abandoned her as a child. Burnham and Book appeal to Moll and L’ak’s love for one another, but L’ak reveals that there is an “erigah” bounty on them because he betrayed his people, the Breen, to be with Moll. They hope to sell the Progenitors’ technology to escape the bounty and move to a peaceful colony in the Gamma Quadrant. Moll accidentally detaches the shuttle, forcing Burnham and Book to pilot the Enterprise out of the wormhole with help from Rayner and the Discovery crew. Moll and L’ak escape in a warp pod.",
 						"de": "Moll und L’ak sind in ein instabiles Wurmloch geraten. Burnham und Book fliegen mit einem Shuttle hinein und finden die Trümmer von Molls und L’aks Schiff neben der ISS Enterprise, einer alternativen Version der USS Enterprise aus dem Spiegeluniversum. Das Schiff wurde von Flüchtlingen in dieses Universum gebracht, die vor dem rücksichtslosen Terranischen Imperium geflohen waren. Einer der Flüchtlinge schloss sich dem Wissenschaftlerteam des 24. Jahrhunderts an. Sie hat ihr Stück der Karte auf dem Schiff versteckt, das Burnham zusammen mit dem nächsten Hinweis wiederfindet. Book versucht, Moll mit seiner Verbindung zu ihrem Vater zur Vernunft zu bringen, aber sie ist nicht überzeugt, weil ihr Vater sie als Kind verlassen hat. Burnham und Book appellieren an die Liebe von Moll und L’ak zueinander, aber L’ak enthüllt, dass ein „Erigah“-Kopfgeld auf sie ausgesetzt ist, weil er sein Volk, die Breen, verraten hat, um mit Moll zusammen zu sein. Sie hoffen, die Technologie der Progenitoren zu verkaufen, um dem Kopfgeld zu entgehen und in eine friedliche Kolonie im Gamma-Quadranten zu ziehen. Moll koppelt versehentlich das Shuttle ab und zwingt Burnham und Book, die Enterprise mit Hilfe von Rayner und der Crew der Discovery aus dem Wurmloch zu steuern. Moll und L’ak entkommen in einem terranischen Kriegspod."
@@ -3823,6 +3862,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
 						"name": "Chris Byrne"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KennethLin",
+							"name": "Kenneth Lin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrandonSchultz",
+							"name": "Brandon Schultz"
+						}
+					],
 					"description": {
 						"en": "Kovich identifies the five scientists who hid the map pieces, allowing Discovery to determine that the next clue is pointing to a Denobulan weather tower on Halem’no which holds off deadly sandstorms and provides rain. The tower is concealed as a mountain to hide the advanced technology from the Halem’nites, a pre-warp society that should not be interfered with per Starfleet’s Prime Directive. Burnham and Sylvia Tilly join the Halem’nites in disguise. With help from Adira, Burnham repairs the tower’s malfunctioning control panel while Tilly participates in a race to gain access to the tower. She and one of the Halem’nites, Ravah, win the race and are locked inside the tower as sacrifices to the Halem’nite gods. Burnham violates the Prime Directive to free them and reveal to the Halem’nites that the tower is advanced technology which requires no sacrifice. They retrieve the map piece and next clue, before being informed that Moll and L’ak have been found. Meanwhile, Culber receives help from Stamets and Book as he struggles to come to terms with the impact of the shared-body experience on his spirituality.",
 						"de": "Kovich identifiziert die fünf Wissenschaftler (Jinnal Bix, Carmen Cho, Marina Derex, Hitoroshi Kreel und Vellek), die die Kartenteile versteckt haben, so dass die Discovery feststellen kann, dass der nächste Hinweis auf einen denobulanischen Wetterturm auf Halem’no verweist, der tödliche Sandstürme abhält und für Regen sorgt. Der Turm ist als Berg getarnt, um die fortschrittliche Technologie vor den Halem’niten zu verbergen, einer Prä-Warp-Gesellschaft, in die man sich gemäß der Obersten Direktive der Sternenflotte nicht einmischen sollte. Diese besitzen auch eine besondere Pfeifsprache, um über größere Distanzen zu kommunizieren. Burnham und Sylvia Tilly schließen sich den Halem’niten an. Mit Hilfe von Adira repariert Burnham die defekte Schalttafel des Turms, während Tilly an einem Wettrennen teilnimmt, um Zugang zum Turm zu erhalten. Sie und eine Halem’nitenfrau, Ravah, gewinnen das Rennen und werden als Opfer für die Götter der Halem’niten in den Turm gesperrt. Burnham verstößt gegen die Oberste Direktive, um sie zu befreien und den Halem’niten zu offenbaren, dass der Turm eine fortschrittliche Technologie ist, die keine Opfer erfordert. Sie holen sich das Kartenstück und den nächsten Hinweis, bevor sie erfahren, dass Moll und L’ak gefunden wurden. In der Zwischenzeit erhält Culber Hilfe von Stamets und Book, während er darum kämpft, die Auswirkungen der Erfahrung des geteilten Körpers auf seine Spiritualität zu bewältigen."
@@ -3884,6 +3935,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonDudkowski",
 						"name": "Jon Dudkowski"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MRavenMetzner",
+						"name": "M. Raven Metzner"
 					},
 					"description": {
 						"en": "Culber attempts to treat L’ak, who was injured in the Enterprise confrontation, but is unfamiliar with Breen physiology. Primarch Ruhn, the leader of a Breen faction, arrives at Federation Headquarters to retrieve L’ak, who reveals that he is Ruhn’s nephew and a direct descendant of the former Breen Emperor; Ruhn wishes to use L’ak to legitimize his own claim to the throne. Rayner reveals his past as the survivor of a Breen occupation that killed his entire family, and Burnham uses this information to convince Ruhn that taking L’ak would cause further conflict with other Breen factions. L’ak overdoses in a failed attempt to help Moll escape custody. Breen medics help him at Burnham’s request, but L’ak dies and Ruhn declares war on the Federation. Moll reveals to him their search for the Progenitors’ technology, which she hopes can be used to resurrect L’ak. Ruhn takes her with him, putting Discovery in a race with the Breen to find the technology. Stamets, Book, Tilly, Adira, and engineer Jett Reno determine that the next clue points to the “Eternal Gallery and Archive” in the Badlands region of space.",
@@ -3947,6 +4003,18 @@
 						"@id": "https://bittersmann.de/startrek/people#EmmanuelOseiKuffour",
 						"name": "Emmanuel Osei-Kuffour"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LaurenWilkinson",
+							"name": "Lauren Wilkinson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EricJRobbins",
+							"name": "Eric J. Robbins"
+						}
+					],
 					"description": {
 						"en": "Upon Discovery’s arrival at the Archive, archivist Hy’Rell leads Burnham to the manuscript purported to contain the last map piece. She also gives Book a cutting of the World Root, a priceless piece of his culture following the destruction of his planet. Burnham is transported into a mindscape simulation where she is tested for her worthiness to find the Progenitors’ technology by an AI, in the form of Book, while Book and Rayner fight off attacking Breen forces. Burnham eventually admits that she’s driven by her fears of failure and loss, passing the AI’s test and earning the location of the map piece. She is also given additional information on how to access the technology once at the map’s destination. After Discovery copies the completed map, Burnham gives it to Ruhn in exchange for a promise not to destroy the Archive. The Breen fire on Discovery and Burnham fakes the ship’s destruction. Ruhn decides to destroy the Archive anyway, concerning some of his followers. Moll takes advantage of this discontent and stages a mutiny, killing Ruhn and uniting his forces behind her plan to resurrect L’ak.",
 						"de": "Bei der Ankunft der Discovery im Fundus und Archiv führt die geschworene Wächterin Hy’Rell Burnham zu dem Manuskript, das angeblich das letzte Kartenstück enthält. Sie gibt Book auch einen Ableger der kwejianischen Weltwurzel, ein unschätzbares Stück seiner Kultur nach der Zerstörung seines Planeten. Burnham wird in eine Gedankenlandschaftssimulation transportiert, wo sie von einer KI in Form von Book auf ihre Eignung geprüft wird, die Technologie der Progenitoren zu finden, während Book und Rayner angreifende Breen-Truppen abwehren. Burnham gibt schließlich zu, dass sie von ihren Ängsten vor Versagen und Verlust getrieben wird, besteht den Test der KI damit und erfährt so, wo sich das letzte Kartenstück befindet. Sie erhält auch zusätzliche Informationen darüber, wie man auf die Technologie zugreifen kann, wenn man am Zielort der Karte angekommen ist. Nachdem die Discovery die fertige Karte kopiert hat, gibt Burnham sie Ruhn im Austausch für das Versprechen, das Archiv nicht zu zerstören. Die Breen beschießen die Discovery und Burnham täuscht die Zerstörung des Schiffes vor. Ruhn beschließt, das Archiv trotzdem zu zerstören, was einige seiner Anhänger missbilligen. Moll nutzt diese Unzufriedenheit aus und inszeniert eine Meuterei, bei der sie Ruhn tötet und die restlichen Breen hinter ihrem Plan zur Wiederauferstehung von L’ak vereint."
@@ -4009,6 +4077,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+							"name": "Sean Cochran"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AriFriedman",
+							"name": "Ari Friedman"
+						}
+					],
 					"description": {
 						"en": "Discovery arrives at the location of the Progenitors’ technology and finds a structure at the Lagrange point between two primordial black holes. Moll and the Breen also arrive and capture the structure. Burnham plans a heist to retrieve the structure from Moll’s dreadnaught, while the Breen discover a portal inside the structure. Having learned of Ruhn’s death, Primarch Tahal—another Breen leader who is responsible for the death of Rayner’s family—sets out to claim Ruhn’s forces for her own; Saru volunteers to intercept Tahal’s forces in hopes of stalling them and giving Discovery time to retrieve the technology. Burnham secretly boards the dreadnaught with Book, Adira, and tactical officer Gen Rhys. Rhys protects Adira as they take down the dreadnaught’s shields while Burnham and Book secure the structure and discuss their relationship. When they are discovered, Burnham has Discovery ram the shuttle bay which begins pulling everything into space. Moll, carrying L’ak’s body in a portable pattern buffer, and Burnham enter the portal before it is pulled into space and released from the structure.",
 						"de": "Die Discovery trifft am Standort der Technologie der Vorfahren ein und findet ein Behältnis am Lagrange-Punkt zwischen zwei urzeitlichen schwarzen Löchern. Moll und die Breen treffen ebenfalls ein und holen sich das Behältnis vor der Discovery. Burnham plant einen Spezialeinsatz, um das Behältnis aus Molls Dreadnaught zu befreien, während die Breen ein Portal im Inneren des Behältnis entdecken. Nachdem sie von Ruhns Tod erfahren hat, macht sich Primarchin Tahal – eine weitere Anführerin der Breen, die für den Tod von Rayners Familie verantwortlich ist – auf den Weg, um Ruhns Streitkräfte für sich zu beanspruchen; Saru meldet sich freiwillig, um Tahals Streitkräfte abzufangen, in der Hoffnung, sie aufzuhalten und der Discovery Zeit zu verschaffen, die Technologie zu bergen. Burnham geht heimlich mit Book, Adira und dem taktischen Offizier Gen Rhys an Bord des Dreadnoughts. Rhys beschützt Adira, während sie die Schilde des Dreadnoughts ausschalten, während Burnham und Book das Behältnis sichern und über ihre Beziehung sprechen. Als sie entdeckt werden, lässt Burnham die Discovery die Shuttlerampe des Breen-Schiffes rammen, woraufhin alles ins All gezogen wird. Moll, die L’aks Leiche in einem tragbaren Musterpuffer mit sich führt, und Burnham betreten das Portal, bevor es in den Weltraum gezogen und von dem Behältnis gelöst wird."
@@ -4071,6 +4151,18 @@
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KyleJarrow",
+							"name": "Kyle Jarrow"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichelleParadise",
+							"name": "Michelle Paradise"
+						}
+					],
 					"description": {
 						"en": "The portal takes Burnham and Moll to a higher-dimension structure where Burnham convinces Moll to work together. Book and Culber hold the portal with a shuttle’s tractor beam using knowledge Culber inherited from Jinaal, and Saru convinces Tahal to stay away though she sends a scout ship to investigate. Burnham accesses the technology and connects with the consciousness of a Progenitor who explains that she is free to use the technology but it cannot bring L’ak back to life. Burnham leaves with Moll as the Discovery crew use their unique spore-based propulsion system to send the Breen dreadnought and Tahal’s scout ship to the edge of the galaxy. Burnham decides that no one should control the Progenitors’ technology and releases the portal into one of the black holes. Weeks later, the crew attend Saru and T’Rina’s wedding where Burnham and Book affirm their love for one another and accept a new mission from Kovich, who reveals himself to be the time-traveling operative Agent Daniels; he also plans to offer Moll a job. Years later, Burnham and Book have a son, Leto, who is a new Starfleet captain. Burnham, now an admiral, takes Discovery—which is restored to its 23rd century appearance—to a specific location where its sentient computer Zora will wait for a long time as part of a new red directive mission.",
 						"de": "Das Portal bringt Burnham und Moll zu einer höherdimensionalen Struktur, wo Burnham Moll nach einem Kampf davon überzeugt, zusammenzuarbeiten. Book und Culber halten das Portal mit dem Traktorstrahl eines Shuttles auf, indem sie das Wissen nutzen, das Culber von Jinaal geerbt hat. Saru überzeugt Tahal, sich fernzuhalten, obwohl sie ein getarntes Aufklärungsschiff zur Untersuchung schickt. Burnham verschafft sich Zugang zu der Technologie und verbindet sich mit dem Bewusstsein eines Progenitors, der ihr erklärt, dass es ihr freisteht, die Technologie zu benutzen, dass sie aber L’ak nicht wieder zum Leben erwecken kann. Burnham verlässt mit Moll das Portal, während die Crew der Discovery ihr einzigartiges, auf Sporen basierendes Antriebssystem nutzt, um den Breen-Dreadnought und Tahals Aufklärungsschiff an den Rand der Galaxie zu schicken. Burnham beschließt, dass niemand die Technologie der Progenitoren kontrollieren sollte und transferiert das Portal hinter den Ereignishorizont eines der schwarzen Löcher. Wochen später nimmt die Besatzung an der Hochzeit von Saru und T’Rina teil, wo Burnham und Book ihre Liebe zueinander bekräftigen und einen neuen Auftrag von Kovich annehmen, der sich als der zeitreisende Agent Daniels entpuppt; er will auch Moll einen Job anbieten. Jahre später haben Burnham und Book einen Sohn, Leto, der ein neuer Sternenflotten-Captain ist. Burnham, jetzt Admiral, bringt die Discovery, die ihr Aussehen aus dem 23. Jahrhundert wiedererlangt hat, an einen bestimmten Ort, wo ihr empfindungsfähiger Computer Zora im Rahmen einer neuen Mission der Roten Direktive lange Zeit warten wird."
