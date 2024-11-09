@@ -297,6 +297,8 @@ EOT;
 														</td>
 													<?php endif; ?>
 												<?php endif; ?>
+											<?php else: ?>
+												<td></td>
 											<?php endif; ?>
 										<?php endif; ?>
 										<?php if ($episode['description'] || $episode['abstract']): ?>
