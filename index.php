@@ -45,7 +45,7 @@
 				flex-wrap: wrap;
 				gap: 1em 2em;
 				padding-inline: 0;
-				max-width: 60em;
+				max-width: 70em;
 			}
 			
 			#presentation-list img {
