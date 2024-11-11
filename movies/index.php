@@ -162,7 +162,7 @@
 															</dd>
 														<?php endif; ?>
 													</div>
-													<div>
+													<div property="isBasedOn" typeof="<?= htmlSpecialChars($movie['isBasedOn']['@type']) ?>">
 														<dt>story by:</dt>
 														<?php if ($movie['isBasedOn']['author']['name']): ?>
 															<dd
