@@ -2814,8 +2814,24 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.5",
 					"episodeNumber": "5.5",
-					"name": "Starbase 80?",
-					"datePublished": "2024-11-14"
+					"name": "Starbase 80?!",
+					"datePublished": "2024-11-14",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Sternenbasis 80?!",
+						"datePublished": "2024-11-14"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"name": "Bob Suarez"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MayDarmon",
+						"name": "May Darmon"
+					}
 				},
 				{
 					"@type": "TVEpisode",
