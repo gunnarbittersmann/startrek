@@ -244,7 +244,7 @@ EOT;
 																	</dd>
 																<?php endif; ?>
 															</div>
-															<div>
+															<div property="isBasedOn" typeof="<?= htmlSpecialChars($episode['isBasedOn']['@type']) ?>">
 																<dt>story by:</dt>
 																<?php if ($episode['isBasedOn']['author']['name']): ?>
 																	<dd
