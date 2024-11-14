@@ -2831,7 +2831,36 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MayDarmon",
 						"name": "May Darmon"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2024-11-14",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TQpWAV8PMgY"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-11-14",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/CxdRZ5QuP20"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
