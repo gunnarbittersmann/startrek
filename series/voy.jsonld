@@ -2112,6 +2112,24 @@
 					},
 					"description": {
 						"de": "Nachdem Annorax Chakotay und Paris zwei Monate auf dem Zeitschiff gefangen gehalten hat, will er mit ihnen zusammenarbeiten, weil er die Voyager nicht finden kann. Er behauptet, die Vergangenheit so ändern zu können, dass sein Schiff und Voyager sich nie begegnet sind und Voyager dem Alpha-Quadranten näher ist. Dies zu erreichen, ohne weitere Zivilisationen zu eliminieren, erfordert komplizierte Berechnungen, für die er Chakotay und Paris um Hilfe bittet. Chakotay erklärt sich dazu bereit. Annorax erzählt ihm, dass er in die Geschichte eingreift, um einen Fehler bei einem früheren Eingriff zu korrigieren. Paris schlägt Chakotay vor, den temporalen Kern des Schiffes zu deaktivieren, wodurch es in der normalen Raumzeit angreifbar würde. Chakotay vertraut Annorax und befiehlt Paris, vorerst nichts zu unternehmen, aber nachdem Annorax eine weitere Zivilisation eliminieren ließ, ändert er seine Entscheidung. Chakotay entdeckt auch Annorax’ Grund, die Kolonie auf Kyana Prime wiederherstellen zu wollen: Seine Frau lebte dort. Obrist, ein Besatzungsmitglied des Zeitschiffs, schließt sich Chakotay und Paris an und arbeitet gegen Annorax. Paris übermittelt Voyager die Koordinaten des Zeitschiffs. Die ist kaum noch funktionstüchtig, und ihre verbliebene Besatzung ist erschöpft, aber sie greift mit anderen Raumschiffen zusammen an. Während des Kampfes deaktiviert Obrist den temporalen Kern. Chakotay und Paris werden von Bord gebeamt, und Janeway kollidiert absichtlich mit dem Zeitschiff und zerstört es. Dadurch wird die Vergangenheit verändert: Ein Jahr zuvor umfliegt Voyager den Krenim-Raum. Annorax hat nie das Zeitschiff konstruiert und lebt mit seiner Frau zusammen."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Alternate Timelines",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-11-14",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.8" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.9" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/rclb1makdH8"
+						}
 					}
 				},
 				{
