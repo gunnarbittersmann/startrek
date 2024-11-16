@@ -379,6 +379,10 @@ body:has(> .players) {
 	padding-bottom: 0 !important;
 }
 
+figure {
+  margin: 0;
+}
+
 .players {
 	--columns: 2;
 	--rows: 1;
