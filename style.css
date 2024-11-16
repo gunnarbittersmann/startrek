@@ -379,6 +379,10 @@ body:has(> .players) {
 	padding-bottom: 0 !important;
 }
 
+figure {
+  margin: 0;
+}
+
 .players {
 	--columns: 2;
 	--rows: 1;
@@ -388,22 +392,22 @@ body:has(> .players) {
 	display: grid;
 	gap: 0.5em;
 	
-	&:has(iframe:nth-of-type(2)) {
+	&:has(:is(iframe, figure):nth-of-type(2)) {
 		--rows: 2;
 	}
 	
-	&:has(iframe:nth-of-type(4)) {
+	&:has(:is(iframe, figure):nth-of-type(4)) {
 		--columns: 3;
 	}
 	
-	&:has(iframe:nth-of-type(6)) {
+	&:has(:is(iframe, figure):nth-of-type(6)) {
 		--rows: 3;
 	}
 
 	@media (width >= 36em) {
 		grid-template-columns: repeat(var(--columns), 1fr);
 		
-		&:has(iframe:last-of-type:nth-of-type(even)) {
+		&:has(:is(iframe, figure):last-of-type:nth-of-type(even)) {
 		
 			> :first-child {
 				grid-row: 1 / span var(--rows);
