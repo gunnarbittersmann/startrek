@@ -87,6 +87,31 @@
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
 						"name": "Akiva Goldsman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Akiva Goldsman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+								"name": "Akiva Goldsman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+								"name": "Alex Kurtzman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JennyLumet",
+								"name": "Jenny Lumet"
+							}
+						]
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -148,6 +173,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
 						"name": "Maja Vrvilo"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SarahTarkoff",
+							"name": "Sarah Tarkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -209,6 +246,18 @@
 						"@id": "https://bittersmann.de/startrek/people#LeslieHope",
 						"name": "Leslie Hope"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkelaCooper",
+							"name": "Akela Cooper"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -273,6 +322,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"name": "Dan Liu"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BeauDeMayo",
+							"name": "Beau DeMayo"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -337,6 +398,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RachelLeiterman",
 						"name": "Rachel Leiterman"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobinWasserman",
+							"name": "Robin Wasserman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -398,6 +471,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
 						"name": "Andi Armaganian"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobinWasserman",
+							"name": "Robin Wasserman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -459,6 +544,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
 						"name": "Sydney Freeland"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BeauDeMayo",
+							"name": "Beau DeMayo"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SarahTarkoff",
+							"name": "Sarah Tarkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -520,6 +617,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
 						"name": "Amanda Row"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkelaCooper",
+							"name": "Akela Cooper"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -580,6 +689,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
 						"name": "Christopher J. Byrne"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+						"name": "Davy Perez"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -642,6 +756,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"name": "Chris Fisher"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -758,6 +884,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
 						"name": "Chris Fisher"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -805,6 +943,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/-m-dg9msu-U"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sV8bUotIToA"
+							}
 						}
 					]
 				},
@@ -821,6 +972,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
 						"name": "Valerie Weiss"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+						"name": "Dana Horgan"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -872,6 +1028,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/L_qkJXbK1LI"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/opNaVLESub0"
+							}
 						}
 					]
 				},
@@ -885,6 +1054,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
 						"name": "Amanda Row"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidReed",
+						"name": "David Reed"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -933,6 +1107,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/4xAx0kz43dY"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/eZi9af8VgdI"
+							}
 						}
 					]
 				},
@@ -947,6 +1134,18 @@
 						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
 						"name": "Eduardo Sánchez"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+							"name": "Kirsten Beyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -994,6 +1193,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/6_Aom0mOF9c"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VoOd2aI8330"
+							}
 						}
 					]
 				},
@@ -1008,6 +1220,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
 						"name": "Jordan Canning"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1055,6 +1279,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5N7OisA6sxE"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NEpix5SNFkY"
+							}
 						}
 					]
 				},
@@ -1069,6 +1306,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
 						"name": "Dan Liu"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1116,6 +1365,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/NihlW65N62g"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/u6HSP0PP6FU"
+							}
 						}
 					]
 				},
@@ -1130,6 +1392,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1177,6 +1451,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/epPFBxFuLuw"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/mVNxwQUrBi8"
+							}
 						}
 					]
 				},
@@ -1190,6 +1477,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeffByrd",
 						"name": "Jeff W. Byrd"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+						"name": "Davy Perez"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1238,6 +1530,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/8BCFmbEP818"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uTyaqGwUmaQ"
+							}
 						}
 					]
 				},
@@ -1252,6 +1557,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DermottDowns",
 						"name": "Dermott Downs"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1299,6 +1616,19 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nzzopuCGqUM"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_lNABexpcrw"
+							}
 						}
 					]
 				},
@@ -1312,6 +1642,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
 						"name": "Maja Vrvilo"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+						"name": "Henry Alonso Myers"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1359,6 +1694,19 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/v6MmVnYSoL4"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ENUeusibXec"
 							}
 						}
 					]

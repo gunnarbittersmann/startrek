@@ -43,6 +43,7 @@
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#0.1",
+					"episodeNumber": "0.1",
 					"name": "The Cage",
 					"datePublished": "1988-12-24",
 					"workTranslation": {
@@ -166,6 +167,19 @@
 					},
 					"description": {
 						"de": "Die Enterprise übernimmt den 17-jährigen Jungen Charlie vom Raumschiff Antares, um ihn zu einer Kolonie zu bringen. Charlie wurde kürzlich auf dem Planeten Thasus als einziger Überlebender des 14 Jahre zurückliegenden Absturzes eines Raumschiffs gefunden. Auf der Enterprise trifft Charlie mit Janice Rand erstmals ein Mädchen. Bei seinen Versuchen, sie als Liebhaberin zu gewinnen, zeigt sich, dass er keinen Spaß versteht und Niederlagen nicht verkraften kann. Als die Antares die Enterprise per Funk vor etwas warnen möchte, explodiert die Antares plötzlich, woraufhin Charlie die Antares als Fehlkonstruktion bezeichnet und so das Misstrauen Kirks und Spocks gegenüber ihm erweckt bzw. verstärkt. Später, als er per Willenskraft wiederholt Dinge verändert und Personen verschwinden lässt, zeigt sich, dass Charlie übermenschliche Kräfte ähnlich derer der Thasianer besitzt. Charlie reißt die Gewalt über die Enterprise an sich. Ein thasianisches Raumschiff erscheint bei der Enterprise. Ein von dort auf die Enterprise gebeamter Thasianer erklärt, dass sein Volk dem Jungen vor 14 Jahren die übermenschlichen Kräfte zwecks Überlebens auf dem Planeten gegeben hatte. Jedoch hätte es die Abholung des Jungen durch die Antares verpasst. Die Thasianer nehmen Charlie mit, um zu vermeiden, dass er seine Kräfte gegen die Zivilisation einsetzt."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bS3vM6XKIWs"
+						}
 					}
 				},
 				{
@@ -233,7 +247,7 @@
 					"description": {
 						"de": "Die Enterprise trifft bei einem Planeten ein, der bald auseinanderbrechen wird, und will dort sechs Wissenschaftler abholen. Das Außenteam findet die Wissenschaftler alle erfroren vor. Joe, ein Mitglied des Außenteams, schleppt von dem Planeten unbewusst eine durch Körperkontakt übertragene Seuche mit auf die Enterprise ein. An der Seuche leiden bald auch andere Crew-Mitglieder. Daran erkrankt, bringen sie auch lange unterdrückte Sehnsüchte zum Ausdruck. Zu den Symptomen gehört auch unvorhersehbares, vergnügungssüchtiges Verhalten, ähnlich wie beim Betrunkensein. Auch das Crewmitglied Riley erkrankt daran. Er verschanzt sich allein im Maschinenraum und blockiert die Kontrolle über den Antrieb. Indes ändert sich die Gravitation des Planeten, sodass die Enterprise in einen spiralförmigen Sturzflug gerissen wird und wegen der fehlenden Steuerkontrolle in 20 Minuten abzustürzen droht. Als Scotty den Maschinenraum wieder unter seiner Kontrolle hat, kann er den Antrieb nicht schnell genug neu starten. Deshalb lassen Kirk und Spock eine hochgefährliche, unerprobte Implosion im Antrieb einleiten, bei der Zeit und Antimaterie reagieren. Diese ist erfolgreich, sodass der Sturzflug abgebrochen werden kann, und bewirkt, dass sich die Enterprise 70 Stunden rückwärts durch Zeit und Raum bewegt. McCoy konnte ein Antiserum entwickeln und die infizierten Crewmitglieder heilen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
@@ -342,7 +356,7 @@
 					"description": {
 						"de": "Auf einen automatischen Notruf reagierend, beamt ein Enterprise-Außenteam auf einen erdähnlichen Planeten. In einer heruntergekommenen Stadt, ähnlich der USA in den 1960er Jahren, greift das Team das Mädchen Miri auf, eines von lauter Kindern, die sich in der Stadt vor Erwachsenen verstecken. Die meisten Erwachsenen starben vor vielen Jahren an einer Seuche, die nun auch das Außenteam befällt und zu deren Symptomen blaue Hautgeschwüre und zunehmende Verrücktheit gehören. Wie das Team aus Aufzeichnungen der Planetenbewohner erfährt, schlug auf dem Planeten einst ein lebensverlängerndes Forschungsvorhaben dergestalt fehl, dass die Menschen nach Beginn der Pubertät an der Seuche starben. Den Kindern, die in Wirklichkeit schon über 300 Jahre alt sind, steht dasselbe Schicksal bevor. Aus Angst vor Erwachsenen stehlen sie dem Außenteam, das nun mit Ausnahme Spocks noch wenige Tage zu leben hat, die Funkgeräte. Ohne diese kann McCoy das von ihm entwickelte Gegenserum nicht testen. Während Kirk das Vertrauen der Kinder zu erhalten versucht und an sie appelliert, die Funkgeräte wieder herauszugeben, ist McCoy so verzweifelt, dass er das Gegenserum an sich selbst ausprobiert. Da es korrekt wirkt, können es auch die anderen Teammitglieder und die Kinder einnehmen. Die Enterprise verlässt den Planeten und will den Kindern Hilfe schicken."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -621,7 +635,7 @@
 					"description": {
 						"de": "Die Enterprise wird durch einen Unfall ca. 300 Jahre in die Vergangenheit versetzt und findet sich im Erdorbit wieder. Dort wird die Enterprise von der U.S. Air Force als UFO bemerkt und von einem Kampfflugzeug verfolgt, dessen Piloten Captain Christopher sie an Bord beamt. Die Crew will nun erreichen, dass der Zeitstrahl durch den Vorfall nicht beschädigt wird. Christopher muss dennoch auf die Erde zurückkehren, damit er seinen Sohn zeugen kann, der später als erster Mensch zum Jupiter reist. Damit Christophers Geschichte auf der Erde als unglaubhaft beurteilt wird, vernichtet ein Außenteam die Tonbandaufzeichnungen des Kontakts der Air Force mit der Enterprise. Dabei gelangt ungeplant ein weiterer Mensch, ein Sergeant, von der Erde auf die Enterprise. Der Captain und der Sergeant kehren auf die Erde zurück, kurz bevor die Enterprise schließlich mit einem speziellen Flug um die Sonne herum in ihre ursprüngliche Zeit zurückkehrt."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
@@ -682,7 +696,7 @@
 					"description": {
 						"de": "Sulu kehrt von dem Planeten Beta-3 in einem Hypnose-ähnlichen Zustand auf die Enterprise zurück, sein Kollege O’Neal bleibt verschollen. Ein Außenteam um Kirk, Spock und McCoy sucht daraufhin auf der menschlich besiedelten Planetenoberfläche nach dem Grund dafür und erkennt rasch, dass die Bewohner unter dem Einfluss eines gewissen Landru stehen. Dieser kann die Bewohner per Paralyse dazu veranlassen, sich plötzlich in Anarchie zu versetzen oder das Außenteam anzugreifen. Nach kurzer Flucht vor den Angreifern wird das Außenteam per Schallwellen überwältigt und eingesperrt. McCoy wird, wie indes schon O’Neal, von Landrus Handlangern ebenfalls in dessen seelenlose Gemeinschaft absorbiert, deren Mitglieder permanent Frieden und Freude predigen. Der Rest des Außenteams bleibt davon verschont, da ihnen ein Untergrundkämpfer hilft. Dieser führt Kirk und Spock zu Landru, der nur als Projektion erscheint und ihnen wegen unberechtigten Eindringens ihren baldigen Tod ankündigt. Landru stellt sich als ein Computer heraus, der vor Jahrtausenden an die Stelle des realen Heilsbringers Landru trat. Er führt dessen Ziel weiter, für das harmonische Fortbestehen der Gesellschaft zu sorgen. Da er aber ohne Weisheit, Seele und Kreativität programmiert wurde, zerstört Kirk ihn, woraufhin die Hypnose der Bewohner endet und die Enterprise freigegeben wird."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -862,7 +876,7 @@
 						"de": "Kirk und Spock folgen McCoy durch ein Zeitportal, um den deshalb veränderten Geschichtsablauf auf der Erde zu korrigieren."
 					},
 					"sameAs": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte",
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
@@ -949,7 +963,7 @@
 						"en": "When Mr. Spock begins behaving aggressively, Kirk discovers his first officer must return home to Vulcan to be married or die. Kirk disobeys his orders from Starfleet Command to visit Altair 6 and decides to save Spock. Spock, Kirk, and McCoy land on Vulcan where Spock takes them to his family land to begin pon farr. They meet T’Pau and T’Pring only to find that T’Pring wants a duel and chooses Kirk as a challenger. Kirk accepts the challenge thinking to let Spock win but is later told by T’Pau that it is a challenge to the death. During the fight, McCoy gives Kirk a neuro-tranquilizer to fake his death. Upon victory, Spock asks T’Pring to explain her decision and decides not to marry her. After beaming back to the Enterprise, Spock is overjoyed to see Kirk alive.",
 						"de": "Spock verhält sich merkwürdig und emotional, ohne den ihm bekannten Grund dafür preiszugeben, und ersucht deshalb bei Kirk um Urlaub auf seinem Heimatplaneten Vulkan. Kirk kann ihm den Urlaub zunächst nicht gewähren, da die Enterprise einen wichtigen diplomatischen Termin auf Altea VI wahrnehmen muss. Erst als McCoy erkennt, dass Spocks Verhalten tödlich enden könne, genehmigt Kirk den Flug nach Vulkan. Spock vertraut Kirk nun an, dass er sich im Pon Farr befindet, der vulkanischen Brunft. Obwohl das Sternenflottenkommando darauf besteht, dass die Enterprise zunächst nach Altea VI fliegt, lässt Kirk nach Vulkan Kurs setzen. Dort in Begleitung von Kirk und McCoy angekommen, wird Spock von seiner ihm schon vor Jahren versprochenen Frau T’Pring erwartet. Um T’Pring endgültig für sich zu gewinnen, muss Spock sich im Rahmen vulkanischer Tradition noch duellieren. T’Pring erwählt Kirk als seinen Gegner. Das auf Leben und Tod geführte Duell in einer Arena gewinnt Spock. Danach gibt T’Pring zu, dass sie nur deshalb Kirk als Spocks Gegner gewählt hat, um damit den ursprünglich dafür vorgesehenen Vulkanier Spong zu verschonen, in den sie in Wirklichkeit verliebt ist. Kirk indes ist nicht wirklich gestorben, sondern hat mit Hilfe einer Injektion McCoys überlebt. Nach dem Kampf ist Spocks Pon Farr beendet."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
@@ -1182,7 +1196,7 @@
 					},
 					"description": {
 						"en": "The crew of the Enterprise become entangled in a planet’s tribal power struggle. Upon landing and seeing a Klingon, one crew member is killed by the tribe. In a problematic turn of events, the leader of the 10 tribes is killed and Maab, who supports the Klingons, is the one who takes charge. The woman Eleen along with the landing party of Kirk, Spock, and Bones manage to escape but cannot contact the Enterprise which has been tricked into leaving the planet’s orbit to follow a distress signal. Eleen and the others manage to hide out. Maab realizes the Klingons’ true intention and the Enterprise manages to return in time to help the landing party and get the deal with the tribespeople.",
-						"de": "Ein Außenteam mit Kirk, Spock und McCoy ist auf dem Planeten Capella IV, um mit den dortigen Capellanern über Schürfrechte für ein wichtiges Mineral zu verhandeln. Die Gesprächsatmosphäre ist angespannt, weil auch ein klingonischer Unterhändler namens Kras um Schürfrechte ersucht und deswegen ein viertes Teammitglied von den Capellanern getötet wird. Der Capellaner Maab sympathisiert mit Kras und reißt die Herrschaft über die capellanischen Stämme mit Waffengewalt an sich. Dabei tötet er den bisherigen Anführer Akaar und wird somit selbst Anführer, d.&nbsp;h. Tiru. Kirk vereitelt, dass Maab Akaars Frau Eleen ermordet, die mit dem als künftigen Tiru vorbestimmten Kind hochschwanger ist. Das Außenteam flüchtet mit ihr vor Maab und dessen Gefolgschaft. Ein Teil der Verfolger wird bei einem Felssturz außer Gefecht gesetzt, den Kirk und Spock zielgerichtet verursachen. Die Enterprise unter Scotts Kommando ist indes durch einen gefälschten Notruf unpässlich. Eleen bringt ihr Kind, das sie allerdings aus Tradition nunmehr ablehnt, mit McCoys Hilfe zur Welt und verlässt es kurz darauf, um sich ihrem baldigen Tod zu ergeben. Kirk und Spock erwehren sich, auch mit der späteren Hilfe der Enterprise, den Angriffen von Kras und Maabs Kämpfern. Dabei stirbt Maab. Daraufhin übernimmt Eleen so lange die capellanische Anführerschaft, bis ihr neugeborener Sohn alt genug dazu sein wird."
+						"de": "Ein Außenteam mit Kirk, Spock und McCoy ist auf dem Planeten Capella IV, um mit den dortigen Capellanern über Schürfrechte für ein wichtiges Mineral zu verhandeln. Die Gesprächsatmosphäre ist angespannt, weil auch ein klingonischer Unterhändler namens Kras um Schürfrechte ersucht und deswegen ein viertes Teammitglied von den Capellanern getötet wird. Der Capellaner Maab sympathisiert mit Kras und reißt die Herrschaft über die capellanischen Stämme mit Waffengewalt an sich. Dabei tötet er den bisherigen Anführer Akaar und wird somit selbst Anführer, d. h. Tiru. Kirk vereitelt, dass Maab Akaars Frau Eleen ermordet, die mit dem als künftigen Tiru vorbestimmten Kind hochschwanger ist. Das Außenteam flüchtet mit ihr vor Maab und dessen Gefolgschaft. Ein Teil der Verfolger wird bei einem Felssturz außer Gefecht gesetzt, den Kirk und Spock zielgerichtet verursachen. Die Enterprise unter Scotts Kommando ist indes durch einen gefälschten Notruf unpässlich. Eleen bringt ihr Kind, das sie allerdings aus Tradition nunmehr ablehnt, mit McCoys Hilfe zur Welt und verlässt es kurz darauf, um sich ihrem baldigen Tod zu ergeben. Kirk und Spock erwehren sich, auch mit der späteren Hilfe der Enterprise, den Angriffen von Kras und Maabs Kämpfern. Dabei stirbt Maab. Daraufhin übernimmt Eleen so lange die capellanische Anführerschaft, bis ihr neugeborener Sohn alt genug dazu sein wird."
 					}
 				},
 				{
@@ -1332,7 +1346,7 @@
 						"en": "The Enterprise visits a planet with a violent culture based on America’s 1920s Prohibition era. After receiving a 100-year-late report from an old starship, Kirk, Bones, and Spock decide to beam down to the Iotian planet to learn about their way of life and are surprised that the entire society is based on 1920s-era Chicago mob culture. Realizing that the Enterprise must help rectify this situation, Kirk decides to collect all the bosses in one place and form a syndicate but runs into trouble with the two biggest bosses, Bela and Krako. Kirk captures Bela and transports Krako to the Enterprise before tricking the rest of the bosses into gathering together. Using Starfleet Command as the oversight body, Kirk forms the syndicate, to be headed by Bela with Krako as his lieutenant. Kirk hopes that they can teach a new style of living to these people under the surveillance of the Federation.",
 						"de": "Vor vielen Jahren besuchte das Föderationsraumschiff Horizon den Planeten Jota, auf dem damals eine vorindustrielle einheimische Zivilisation lebte, und ließ dabei ein Buch über die Chicagoer Unterwelt der 1920er Jahre zurück. In der Folge entwickelte sich die dortige Zivilisation zu einer Gesellschaft entsprechend der in dem Buch dargestellten, die von Kriminalität und Waffengewalt geprägt ist und deshalb in Anarchie zu versinken droht. Kirks Mission im Auftrag der Föderation ist es, den Schaden für die Einheimischen zu beheben. Nachdem Kirk mit Spock und McCoy auf den Planeten gebeamt ist, werden sie von dem Gangsterboss Bela Okmyx eingesperrt, weil Kirk sich weigert, ihm zur Bekämpfung seiner Konkurrenten Waffen von der Enterprise zu liefern. Auch Belas Konkurrent Jojo Krako scheitert mit dieser Forderung an Kirk. Kirk, Spock und McCoy können sich befreien und machen sich daran, Krako und Bela gegeneinander auszuspielen. Dabei gibt sich Kirk als konkurrierender Gangsterboss aus, der für das Syndikat namens Föderation arbeitet. Mit der Hilfe der Enterprise kann er den Jotaniern die Macht der Föderation demonstrieren. Damit und mit der Ankündigung, die Enterprise werde jährliche Kontrollen vornehmen, kann Kirk die Jotanier dazu veranlassen, das Buch nicht mehr zu verwenden, und somit das gegenseitige Bekämpfen stoppen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -1436,7 +1450,7 @@
 					"description": {
 						"en": "The crew of the Enterprise visits a planet dominated by a Nazi culture and at war with its planetary neighbor. The Enterprise is visiting the planet of Ekos that is surrounded by system Zeon inhabitants. Ekosians are violent and Zeons are peaceful people. Enterprise wants to contact a Professor John from Earth who came here to research without interaction but the planet turned into a Nazi-type colony hating the Zeons. Apparently, John becomes the leader of Ekos and hatches a plot to eliminate the Zeons. Spock and Kirk beam down and try to contact John but run into trouble and are captured. They scheme to get out of the jail with one of the Zeons and arrange to meet John but realize that John is drugged and Malekon is controlling the entire process. Bones is beamed down and gives a stimulant that finally works on John, who explains to Kirk what went wrong with his observation mission and saves the day by giving an eye-opening speech to the people of Ekos restoring the peace."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -1493,7 +1507,7 @@
 						"en": "Captain Kirk must battle a deadly virus and a treacherous fellow starship captain to stop a meaningless intertribal war. The Enterprise responds to a signal received from the USS Exeter, which is orbiting a planet but not responding to any communications. Upon boarding the ship, Kirk, Bones, and Spock finds that the crew has disappeared and have left behind clothes and a mysterious salt rich in potassium and carbon. Bones realizes that this could be the remains if the crew’s bodies lost all their water. Spock plays the last log from the Exeter and finds a message that says everyone is affected by a virus and should not go back to their ship but beam down to the planet’s surface. Upon landing, they find Captain Tracey of the Exeter, but he is fighting a war with the inhabitants on the side of the Yangs. The landing party is imprisoned and Bones is instructed to find the cure for the disease so that they can go back to the ship. Kirk, Spock, and Bones realize that the human body develops antibodies for the disease within a few hours if they remain on the surface and then beam back to the Enterprise; the antibodies are natural for the local Yangs and Kohms. Finally, the Yangs realize Kirk follows the same book as them (the American Constitution and flag), but in order to decide who is right, they makes Kirk and Captain Tracey fight in a trial by combat. Spock manages to allure one of the Yangs and trick her into giving back his communicator. Three security personnel beam down and take control of the situation. Finally, Kirk tells the Yangs that their Constitution is for everyone, including Kohms, and they should try to live peacefully here.",
 						"de": "Die Enterprise entdeckt im Orbit des Planeten Gamma-IV das Sternenflottenraumschiff Exeter. Ein Außenteam mit Kirk, Spock, McCoy erkennt, dass die Crew durch Kristallisation starb. Einem Logbucheintrag des Schiffsarztes folgend, beamt das Team auf den Planeten und kommt dort in Kontakt mit Captain Tracey, dem letzten Überlebenden der Exeter. Er wie auch das Team können den Planeten nicht mehr verlassen, weil sie nur durch den Planeten vor dem Ausbruch der Krankheit geschützt sind, die zur tödlichen Kristallisation führt. Tracey lässt von McCoy die Besonderheit der Einheimischen erforschen, durch den Zyklus des sog. „Jahres des roten Vogels“ sehr langlebig zu sein. Tracey hat sich entgegen der obersten Direktive auf dem Planeten auf Seiten der sog. Kohms geschlagen, die ihre Feinde, die sog. Yangs versklaven. Er lässt Kirk und Spock mit zwei Yangs einsperren, sie können sich jedoch befreien. Von McCoy erfahren sie, dass die Einheimischen infolge eines früheren Krieges so langlebig wurden und auch eine Immunität gegen die Krankheit entwickelten. Immun, aber nicht langlebig, werden alle Besucher des Planeten, sodass sie ihn gefahrlos verlassen können. Schließlich erfahren sie, dass die Yangs und die Kohms einst einen Kalten Krieg gegeneinander führten, ähnlich dem auf der Erde. Kirk versichert ihnen, dass die Gesetze der Demokratie für beide Seiten gelten."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -1550,7 +1564,7 @@
 						"en": "Captain Kirk and his companions are forced to fight in gladiatorial games on a planet with a civilization similar to the Roman Empire. Kirk, Spock and Bones beam down to a planet to find out why its people live like the ancient Roman Empire where slaves are subjected to fighting in gladiatorial combat. They ask refugees who escaped slavery to help them get into the empire where they meet a former starship captain. All three of them are captured. Spock and Bones are forced to fight and later all three of them are sentenced to the death penalty. However, Kirk, Spock and Bones manage to get back their transponders, and Scotty immediately beams them up.",
 						"de": "Die Enterprise findet im All Trümmer des lange vermissten Raumschiffs Beagle und ortet auf einem nahen, der Erde des 20. Jahrhunderts ähnelnden Planeten Lebenszeichen, die möglicherweise von der Crew der Beagle stammen. Kirk, Spock und McCoy, auf der Suche nach ihnen auf den Planeten gebeamt, treffen dort auf Stadtbewohner, die unter der Macht des Prokonsuls Claudius Marcus leben. Dessen Adjutant ist Merrick, der ehemalige Captain der Beagle. In deren Gefangenschaft kommen die Drei zusammen mit dem entflohenen Sklaven Flavius. Merrick und seine Crew untersuchten einst den Planeten und durften ihn zur Vermeidung ihrer Ermordung durch die Einheimischen nicht mehr verlassen. Diejenigen, die sich den Einheimischen widersetzten, starben und die anderen leben nun in einer Gesellschaft nach Vorbild des Römischen Reichs, in der Gladiatorenkämpfe üblich sind. Der Prokonsul versucht Kirk dazu zu zwingen, der restlichen Enterprise-Crew den Befehl zum Herunterbeamen zu geben. Da Kirk sich weigert, möchte Claudius Marcus ihn öffentlich exekutieren lassen. Jedoch kann er mit Spock und McCoy rechtzeitig auf die Enterprise beamen. Bei der Flucht hilft ihnen sowohl Flavius als auch Merrick, der Claudius Marcus indes überdrüssig geworden ist, als auch die Enterprise, die Kirk zuvor insgeheim instruiert hatte."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -1698,7 +1712,7 @@
 					"description": {
 						"de": "Die Enterprise entdeckt, dass der Planet Amerind durch einen Asteroiden zerstört werden wird. Dort finden Captain Kirk, Mr. Spock und Dr. McCoy einen Obelisken mit fremden Schriftzeichen. Kirk kontaktiert die Enterprise und fällt daraufhin durch eine sich öffnende Falltür in das Bauwerk. Durch einen aktivierten Abwehrmechanismus verliert er sein Gedächtnis. Die Enterprise verlässt den Planeten, um den Asteroiden rechtzeitig abzufangen. Kirk gelingt es, den Obelisken zu verlassen und trifft auf Miramanee und ihre Magd, die Kirk zu ihrem Stamm bringen. Die Menschen dort leben und kleiden sich wie die Ureinwohner Nordamerikas und sehen in Kirk ihren göttlichen Retter. Häuptling Goro macht ihn zu dem neuen Medizinmann. Währenddessen muss Spock eine Geschwindigkeit anordnen, die zu einem Ausfall der Sol-Triebwerke führt. Durch deren fehlende Energie scheitert der Versuch, den Asteroiden abzulenken oder ihn mithilfe der Phaser zu zerkleinern. Die Enterprise kann nur noch mit Impulsenergie zum Planeten zurückfliegen. Kirk erfährt, dass die Indianer von den Erbauern des Obelisken auf den Planeten gebracht wurden. Er heiratet Miramanee. Der vorherige Medizinmann Salish versucht erfolglos, dies zu verhindern. Bei einem Gewitter soll Kirk die Indianer retten. Er begibt sich zum Obelisken, kann dort aber nichts erreichen. Er und Miramanee werden von den wütenden Indianern gesteinigt. Spock kann Kirk mit einer Gedankenverschmelzung sein Gedächtnis wiedergeben. Sie entdecken, wie der Obelisk geöffnet werden kann. Im Obelisk aktiviert Spock einen Energiestrahl, der den Asteroiden ablenkt. Miramanee hat zu starke innere Verletzungen und stirbt in Kirks Armen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -1783,7 +1797,7 @@
 					"description": {
 						"de": "Die Enterprise trifft auf eine Sonde, die über Telepathie eine eindeutige Warnung an die gesamte Besatzung ausspricht, den Planeten Melkot zu betreten. Trotz der Warnung wird der Kurs beibehalten und Captain Kirk beamt mit einem Landetrupp auf den Planeten. Dort treffen sie auf einen Melkotianer, der das Team für die verbotene Landung auf dem Planeten mit dem Tod bestrafen will. Einen Moment später finden sie sich im Jahr 1881 in Tombstone, Arizona wieder. In diesem Jahr kämpften die Clanton-Bande und die Earp Brüder um die Vorherrschaft in der Stadt. Wie sie bald herausfinden, übernehmen sie die Rolle der Clanton-Bande, die am Ende sterben wird. Nach einem Streit um das Mädchen Sylvia mit einem der Earp-Brüder wird Chekov erschossen. Bald findet Spock heraus, dass Billy, dessen Rolle Chekov eingenommen hatte, 1881 als einziger den Kampf am O. K. Corral überlebte und somit der Lauf der realen Geschichte nicht eingehalten wird. Sie produzieren ein Gift, das die feindliche Bande beim entscheidenden Kampf unschädlich machen soll. Da das Gift nicht wirkt, erkennen sie, dass alles um sie herum nicht real ist. Vor der entscheidenden Schießerei nimmt Spock eine Gedankenverschmelzung vor, damit auch die anderen fest davon überzeugt sind, dass alles um sie herum irreal ist. Die feindlichen Kugeln können ihnen nicht das Geringste anhaben. Mit Selbstverteidigung setzen sie die Gegner außer Gefecht, ohne sie dabei ernsthaft zu verletzen. Dieser Verzicht auf Gewalt imponiert den Melkotianern. Sie schicken alle Mitglieder des Landetrupps wohlbehalten auf die Enterprise zurück und stimmen zu, mit der Föderation Kontakt aufzunehmen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Other Earths",
 						"creator": {
@@ -2035,6 +2049,19 @@
 					},
 					"description": {
 						"de": "Captain Kirk soll von der Enterprise in diplomatischer Mission auf den Planeten Gideon gebeamt werden, der bisher noch nicht Mitglied der Föderation ist. Kirk soll allein mit dem Botschafter Hodin verhandeln. Kirk wird zu den vereinbarten Koordinaten gebeamt und findet sich scheinbar auf der Enterprise wieder. Diese ist jedoch menschenleer. Der Botschafter leugnet gegenüber Spock, dass Kirk auf Gideon angekommen ist. Dieser kann nichts unternehmen, da Gideon keine Ermittler zulässt und gegen Sensoren abgeschirmt ist. Kirk trifft auf eine junge blonde Frau namens Odona an Bord, die sagt, dass sie von einem extrem überbevölkerten Planeten kommt und sich nichts sehnlicher wünscht als die Einsamkeit. Die Gideoner lassen sich auf einen Transporter-Test ein. Ratsmitglied Krodak wird ohne Probleme aufs Schiff und wieder zurück gebeamt, ohne dass dabei Probleme auftreten. Odona wird von Kirk mit der Veganischen Choriomeningitis infiziert. Dies war von vornherein ihre Absicht. Sie bittet ihn, bei ihr zu bleiben, um noch andere mit der tödlichen Krankheit zu infizieren. Spock erkennt, dass die Beamkoordinaten für Kirk und die für den Test einen Zahlendreher haben. Er beamt sich auf eigene Verantwortung auf die Koordinaten wie Kirk zuvor. Beide erfahren, dass die Bevölkerung Gideons quasi unsterblich ist und sich deshalb ins Unermessliche vermehrt hat. Ziel der Gideons ist es, den Tod wieder in ihre überbevölkerte und keimfreie Gesellschaft zu bringen. Entgegen Odonas Wunsch wird sie mit Kirk auf die echte Enterprise gebeamt und dort geheilt. Sie ist nun genau wie Kirk nicht mehr krank, aber weiterhin ansteckend. Sie beamt nach Gideon zurück, um die Seuche zu verbreiten."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/na1Vs8sR23I"
+						}
 					}
 				},
 				{
@@ -2156,7 +2183,7 @@
 					"description": {
 						"de": "Eine Pflanzenseuche bedroht den Planeten Merak II. Die Enterprise wird zum Planeten Ardana geschickt, um von dort Zenit zu beschaffen, das das Pflanzensterben aufhalten kann. Captain Kirk und Mr. Spock wollen die Lieferung auf der Planetenoberfläche übernehmen. Stattdessen werden sie von rebellischen Minenarbeiter, den Troglyten, angegriffen. Ein Eingreifen des Hohen Rats des Planeten Plasus mit seinen Sicherheitskräften beendet die Attacke. Kirk und Spock werden in die fliegende Wolkenstadt Stratos gebracht, um dort die Angelegenheit mit der herrschenden Klasse zu besprechen. Spock unterhält sich mit Droxine, der Tochter von Plasus. Kirk wird in seinem Zimmer von einer Dienerin angegriffen. Es handelt sich um Vanna, die Anführerin der Troglyten. Plasus behauptet, dass die Troglyten weniger intelligent sind als die Bewohner der Wolkenstadt. Dr. McCoy findet heraus, dass Rohzenit beim Abbau ein schädliches Gas freisetzt, das die Troglyten dadurch geschädigt werden. Atemfilter könnten diesen Effekt verhindern. Kirk sucht die gefangene Vanna auf und bietet ihr diese Filter an. Sie geht zum Schein darauf ein und entführt Kirk in die Zenit-Stollen. Plasus wird auf Befehl von Kirk von der Enterprise in den zuvor von Kirk blockierten Stollen gebeamt. Die beiden Männer werden durch das Zenitgas aggressiv und kämpfen miteinander. Als Vanna die Wirkung des Gases erkennt, kontaktiert sie die Enterprise. Alle werden dorthin gebeamt. Dort wird eine Übereinkunft erzielt, mit Hilfe der Filter die Aufteilung in zwei Kasten von Planeten- und Bewohnern der Himmelsstadt aufzuheben. Die Enterprise erhält das Zenit und kann es nach Merak II bringen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {

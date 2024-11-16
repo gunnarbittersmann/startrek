@@ -105,7 +105,7 @@
 					"description": {
 						"de": "Als die Offiziere der Enterprise das Rätsel um Farpoint zu lösen versuchen, taucht im Orbit des Planeten – zunächst in Form eines Raumschiffes – ein Lebewesen auf, das wesentlich größer als die Enterprise ist und das die Stadt der Planetenbewohner beschießt. Sie finden heraus, dass die Bewohner des Planeten einst eine ähnliche, jedoch verletzte, Lebensform gefangen nahmen und deren Energie dazu verwendeten, die Station Farpoint zu errichten. Dem Wesen im Orbit gelingt es nun, auch mit der Hilfe der Enterprise, seinen Artgenossen zu befreien. Q teilt Picard mit, dass die Enterprise ihren ersten Test bestanden hätte, und deutet seine künftige Rückkehr an."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | First Episodes",
 						"creator": {
@@ -303,7 +303,7 @@
 					"description": {
 						"de": "Q taucht wieder auf und verwickelt einige der Brückenoffiziere in ein Spiel auf der Oberfläche eines Planeten, wo sie von menschenähnlichen Wesen angegriffen werden. Während des Spiels stattet Q Riker mit den Fähigkeiten Qs aus und testet ihn, inwieweit er dazu fähig ist, in das Q-Kontinuum aufgenommen zu werden. Schließlich muss Q einsehen, dass er bei seinem Versuch gescheitert ist."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -358,7 +358,7 @@
 					"description": {
 						"de": "Um sich vom Stress der Kommunikationsversuche mit den insektoiden Jarada zu erholen, gönnt sich Picard, begleitet von Data, Dr. Crusher und einem Historiker eine Auszeit im Holodeck. Während sie sich dort im Amerika der 1940er Jahre an detektivischer Arbeit versuchen, wird die Enterprise durch die Jarada gescannt, wobei die Holodeck-Besucher auf selbigem eingeschlossen werden. Wesley Crusher und LaForge arbeiten fieberhaft an deren Befreiung."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
@@ -581,7 +581,7 @@
 					"description": {
 						"de": "Die Enterprise nimmt zwei Ornaraner und zwei Brekkarianer mitsamt einer Fracht an Bord, bei der es sich um eine von den Ornaranern als lebenswichtig empfundene Droge handelt. Die Brekkarianer fordern die Herausgabe der Fracht, weil sie nicht bezahlt wurde. Es stellt sich heraus, dass die Droge nur auf dem Planeten der Brekkarianer gedeiht, welche sie zur Aufrechterhaltung der Abhängigkeit der Ornaraner zum Verkauf anbietet."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
@@ -748,7 +748,7 @@
 					"description": {
 						"de": "Die Enterprise wird im All von einer inhalts- und dimensionslosen Lebensform gefangen genommen. Diese gibt ihren Namen als Nagilum zu erkennen und möchte die Reaktionen der Menschen auf den Tod studieren. Als Nagilum ankündigt, über ein Drittel der Enterprise-Crew zu Studienzwecken zu töten, lassen Picard und Riker die Selbstzerstörungssequenz des Schiffes beginnen. Diese brechen sie jedoch wieder ab, als Nagilum übermittelt, genügend gelernt zu haben."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
@@ -782,7 +782,7 @@
 					"description": {
 						"de": "Data und LaForge versuchen sich im Rahmen eines Holodeck-Programms in den Rollen von Sherlock Holmes und Dr. Watson an Detektivarbeit. Als die holografische Figur Professor Moriarty aufgrund eines falschen Befehls von LaForge das Kommando über die Enterprise zu übernehmen beginnt, schafft es Picard schließlich, Moriarty davon zu überzeugen, seinen Plan abzubrechen und muss ihm dabei zusichern, dass er im Holodeck gespeichert wird."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
@@ -1070,7 +1070,7 @@
 						"de": "Damit sich die Enterprise-Crew auf kommende Gefahren vorbereitet, versetzt Q das Schiff gegen Picards Willen an einen weit entfernten Teil des Alls, wo es mit den feindlichen Borg konfrontiert wird."
 					},
 					"sameAs": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q",
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
@@ -1341,6 +1341,19 @@
 					},
 					"description": {
 						"de": "Während einer Außenmission auf einem Planeten wird die Archäologin Marla Aster durch eine Explosion getötet. Nachdem Picard Marlas 12-jährigen Sohn Jeremy darüber informiert hat, erscheint Marla plötzlich in Jeremys Quartier. Data findet heraus, dass es sich bei der Frau um ein aus Energie bestehendes Wesen handelt. Dieses teilt mit, nur für den Jungen sorgen zu möchten und dass die lange ausgestorbene Rasse, mit der es einst auf dem Planeten lebte, für den Tod der Mutter verantwortlich ist. Mit der Hilfe von Worf, Wesley und Troi kann Picard den Jungen, der die Frau gern als seine Mutter behalten würde, davon überzeugen, dass Jeremy in der von dem Wesen geschaffenen, künstlichen Umgebung nie ein richtiges Leben haben könne. Schließlich zieht sich das Wesen zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Md7mnAgVD20"
+						}
 					}
 				},
 				{
@@ -1425,6 +1438,20 @@
 					},
 					"description": {
 						"de": "Einen Überfall auf einen Föderationsaußenposten untersuchend, findet Picard heraus, dass die sogenannten Sammler dafür verantwortlich sind – eine Gruppe Räuber, die sich einst von der acamarianischen Gesellschaft lossagten. Picard gelingt es, die acamarianische Anführerin Marouk und die Sammler davon zu überzeugen, dass Marouk mit Chorgan, dem Anführer der Sammler, Friedensverhandlungen führt. Währenddessen ermordet Marouks Dienerin Yuta, unbemerkt von den anderen, einen der Sammler. Während des Fluges zum Treffen mit Chorgan lässt sie sich zudem auf ein Stelldichein mit Riker ein. Riker, Data und Dr. Crusher finden alsbald heraus, dass Yuta für diesen und für einen früheren Mord verantwortlich ist, die sie aus Rache an dem von den Lornack einst begangenen Massaker an ihrem eigenen Clan, dem Tralesta-Clan, begangen hat. Während des Treffens mit Chorgan, bei dem es sich um den letzten Lornack handelt, kann Riker schließlich verhindern, dass Yuta auch Chorgan ermordet."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-10-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Uvc9Zt4T83A"
+						}
 					}
 				},
 				{
@@ -1510,7 +1537,7 @@
 					"description": {
 						"de": "Während die Enterprise den Bewohnern des Planeten Bre’el-Vier dabei hilft, einen Mond umzulenken, der auf den Planeten zu stürzen droht, erscheint plötzlich Q auf der Schiffsbrücke. Wegen Erfolglosigkeit durch sein Kontinuum seiner Allmacht beraubt, bittet Q um Asyl auf dem Schiff. Während seines Aufenthalts erscheint im All eine Lebensform der Kalamarain, die sich an Q rächen möchte. Weil diese auch die Bemühungen der Enterprise zum Ablenken des Mondes behindert, stiehlt Q ein Shuttleschiff und schlägt die Kalamarain in die Flucht. Anerkennung zollend für Qs kühne Wohltat, schenkt ihm einer seiner Artgenossen seine Allmacht zurück. Darüber überglücklich, veranlasst er Data für einen Moment lang zu einem Lachkrampf."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -1565,7 +1592,21 @@
 					"abstract": {
 						"de": "Die Enterprise-D muss – in einen anderen Zeitstrahl versetzt – dafür sorgen, dass die aus einer Raumanomalie erschienene Enterprise-C wieder an ihren Herkunftsort zurückkehrt, damit sich der normale Zeitstrahl wieder einstellt."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Die_alte_Enterprise"
+					"sameAs": "https://de.wikipedia.org/wiki/Die_alte_Enterprise",
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Alternate Timelines",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-10-31",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/P5q2I_PF41Y"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -1692,7 +1733,7 @@
 					"description": {
 						"de": "Der zum Techniker-Team der Enterprise gehörige, ausgesprochen schüchterne Lieutenant Reginald Barclay zeigt wiederholt nachlässiges Verhalten bei der Arbeit. Darüber besorgt, versucht LaForge, nachdem er mit Picard Rücksprache gehalten hat, als Barclays Vorgesetzter diesen näher kennenzulernen und so besser in das Team zu integrieren. Dabei findet er unter anderem heraus, das sich Barclay in Holodeck-Programmen mit den Abbildern der Führungsoffiziere des Schiffes umgibt. Zum Beispiel lässt sich Barclay dort von Troi und Dr. Crusher liebkosen, die sich in der Rolle von Liebessklavinnen befinden. Als sich auf der Enterprise, die einige Behälter des Gases Invidium transportiert, merkwürdige Vorfälle häufen und das Schiff zerstört zu werden droht, entdeckt Barclay die Ursache für die Probleme. Mit seiner Hilfe kann die Gefahr für Schiff und Besatzung gebannt werden, dennoch kündigt er schließlich an, das Schiff zu verlassen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
@@ -1959,6 +2000,19 @@
 					},
 					"description": {
 						"de": "Die Enterprise findet ein treibendes talarianisches Raumschiff im All, an Bord befinden sich vier Talarianer und ein Mensch. Letzterer nennt sich Jono, den Talarianer im Kindesalter entführt hatten, nachdem sie bei einem Überfall auf eine Kolonie seine Eltern ermordet hatten. Daraufhin hatte ihn der Talarianer Endar als Ersatz für seinen eigenen, gestorbenen Sohn adoptiert. Picard stellt Jono vor die Wahl, zu seinen menschlichen Großeltern oder zu Endar zurückzukehren, der mit einem Krieg droht, falls er Jono nicht zurückerhält. Mit der Entscheidung überfordert und deshalb seine eigene Hinrichtung provozierend, versucht Jono, Picard zu ermorden, welcher aber verletzt überlebt. Daraufhin lässt Picard Jono zu Endar zurückkehren."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/UZ6BCr_VeYk"
+						}
 					}
 				},
 				{
@@ -1981,7 +2035,7 @@
 					"description": {
 						"de": "Nachdem Dr. Crusher einen alten Freund, ihren Mentor Dr. Quaice, an Bord begrüßt hat, unterläuft Wesley in ihrem Beisein bei einem Experiment mit dem Warp-Antrieb ein Malheur. In der Folge dieses Vorfalls bemerkt Dr. Crusher nacheinander das unerklärliche Verschwinden von Quaice und Besatzungsmitgliedern. Als Ursache dafür stellt sich heraus, dass Dr. Crusher bei dem Unfall in ein Paralleluniversum versetzt wurde. Data, La Forge und der Reisende, der Wesley zu Hilfe gekommen ist, versuchen daraufhin fieberhaft, Dr. Crusher zurückzuholen, die die Versuche aber als Bedrohung wahrnimmt. Als das Paralleluniversum zu kollabieren beginnt und sie zu töten droht, bemerkt Dr. Crusher, dass ihr Gedanke zum Zeitpunkt ihres Verschwindens aus dem realen Universum verantwortlich für ihre Lage ist. Kurz vor dem Zusammenbruch der fremden Welt gelingt Dr. Crusher aber die Rückkehr."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
@@ -2309,7 +2363,7 @@
 					"description": {
 						"de": "Während Föderationsarchäologen auf der Enterprise weilen, erhält Picard Besuch durch seine einstige Kurzzeitgeliebte Vash und durch Q, der beide Gespräche heimlich mitverfolgt. Um beide dazu zu bringen, sich ihre gegenseitigen Gefühle mitzuteilen, versetzt Q das Pärchen und Picards Führungsoffiziere in den mittelalterlichen Sherwood Forest auf der Erde, wo Picard alias Robin Hood auf Qs Verlangen hin, der das Geschehen in der Rolle des Sheriffs von Nottingham überwacht, Vash alias Lady Marian retten soll. Picard schafft es mithilfe seiner Crew, die Robin Hoods Gefolgsleute spielen müssen, Marian aus den Händen ihres Vermählten Sir Guy zu retten. Daraufhin versetzt Q Vash und die Crew zurück auf die Enterprise."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -2390,12 +2444,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#4.24",
 					"episodeNumber": "4.24",
-					"name": "Half a Life",
+					"name": "The Mind’s Eye",
 					"datePublished": "1991-05-27",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Die Auflösung",
+						"name": "Verräterische Signale",
 						"datePublished": "1994-03-22"
 					},
 					"director": {
@@ -2978,7 +3032,7 @@
 					"description": {
 						"de": "Auf einem Mond findet die Enterprise-Crew einen verletzten, bewusstlosen Borg neben seinem abgestürzten Raumschiff. Als Dr. Crusher darauf besteht, seine Verletzungen zu behandeln, lässt Picard es trotz erheblicher Sicherheitsbedenken zu, ihn auf die Enterprise in eine Arrestzelle zu beamen, aus der heraus er nicht mit seinem Kollektiv kommunizieren kann. Um das Überleben der Föderation zu sichern, beauftragt Picard daraufhin Data und La Forge, dem Borg ein Schadprogramm einzusetzen, mit dem nach dessen Rückkehr das gesamte Borg-Kollektiv zerstört würde; damit trifft Picard bei Dr. Crusher aber auf starke Ablehnung. Während Crusher und La Forge einige Tests an dem mittlerweile wieder zu Bewusstsein gekommenen und von La Forge mit Energie versorgten Borg vornehmen, vergeben sie ihm den Namen Hugh. Dabei freundet sich La Forge mit Hugh an. Weil Guinans Volk einst durch die Borg stark dezimiert wurde, hat Guinan zunächst kein Verständnis für La Forges Zweifel an Picards Befehl, Hugh als Instrument für die Vernichtung von dessen Rasse zu verwenden. Dennoch überzeugt Guinan Picard davon, vor der Durchführung des Befehls mit Hugh zu sprechen, weil sie sich unsicher ist, ob Hugh noch ein Borg ist. Daraufhin gibt sich Picard in einem persönlichen Gespräch mit Hugh als Locutus aus, um zu überprüfen, ob Hugh sich noch als Teil des Kollektivs oder als Individuum wahrnimmt. Tatsächlich zeigt sich, dass Hugh in sich ein Individuum sieht, weil er es ablehnt, die Enterprise zu assimilieren und dabei seinen Freund La Forge zu töten. Picard gelangt so zu der Überzeugung, das Schadprogramm nicht gegen die Borg einzusetzen, und äußert den offen bleibenden Vorschlag, Hughs Individualitätsbewusstsein an dessen Kollektiv zu übertragen. Daraufhin setzt die Crew Hugh an der Absturzstelle aus, wo er alsbald wieder von seinen Artgenossen aufgegriffen wird, ohne dass diese eine Bedrohung für die Enterprise darstellen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
@@ -3104,7 +3158,7 @@
 					"description": {
 						"de": "Das durch das Zeitportal geschrittene Enterprise-Außenteam entdeckt in einer Leichenhalle San Franciscos, dass einigen Menschen die Nervenenergie abgesaugt wurde, wodurch sie starben. Die dafür verantwortlichen Außerirdischen, in Gestalt eines menschlichen Ehepaares befindlich, kann das Außenteam überwältigen und als Gefangene mit in die Höhle nehmen, die den Außerirdischen als Zeitreiseort dient. Das Außenteam trifft wieder mit Data zusammen, der durch den neugierigen Samuel Clemens verfolgt wird. Als Clemens die durch die Zeit Gereisten, die er als Bedrohung empfindet, in der Höhle mit einem Colt bedroht, flieht einer der beiden Außerirdischen per Zeitreise. In dem Moment werden auch Clemens und das Außenteam – mit Ausnahme von Picard und Datas Kopf – in das 24. Jahrhundert versetzt, und zwar wieder in die Höhle auf Devidia II. Nachdem Picard im Beisein der verletzten Guinan von dem anderen Außerirdischen erfahren hat, dass dessen Artgenossen die abgesaugte Energie zum Überleben brauchen, versteckt er in Datas Kopf die Botschaft, die Höhle nicht mit Photonentorpedos zu zerstören. Auf der Enterprise entdeckt La Forge im Kopf von Data, den er unterdessen auf den Körperrumpf reinstalliert hat, die Botschaft, sodass der zum Beenden der Aktivitäten der Außerirdischen dienende Beschuss der Höhle in letzter Sekunde ausgesetzt wird. Dadurch und durch eine an Clemens vor dessen Rückkehr ins 19. Jahrhundert mitgegebene Botschaft für Picard schafft es Picard, in das 24. Jahrhundert zurückzukehren."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
@@ -3239,7 +3293,7 @@
 					"description": {
 						"de": "Die Frau Amanda Rogers, die eine Q ist, kommt als neue Praktikantin an Bord. Alsbald testet Q, inwieweit sie fähig ist, ihre magischen Fähigkeiten einzusetzen. Unter anderem beseitigt Amanda einen von Q ausgelösten Warpkernbruch. Q erscheint daraufhin und möchte Amanda näher kennenlernen, um zu ermitteln, ob sie eine wahre Q ist. Nach Qs Aussage, Amandas leibliche Eltern seien einst bei einem Tornado ums Leben gekommen, ermittelt Picard, dass die Eltern, ebenfalls Q, einst nicht durch den Wirbelsturm, sondern durch Mitglieder des Q-Kontinuums exekutiert worden sind, weil sie sich nicht mit ins Kontinuum begeben wollten. Während Q versucht, Amanda von den Vorteilen des Q-Seins zu überzeugen, appelliert Crusher an Q, Amanda selbst entscheiden zu lassen. Das Kontinuum inkl. Q sehen in Amanda, solange sie nicht dauerhaft zum Kontinuum gehört, die Gefahr, dass sie ihre Allmacht zu falschen Zwecken einsetzt. Picard kann Q davon überzeugen, von seiner Absicht abzusehen, Amanda ebenfalls zu töten, wenn sie sich nicht zum Beitritt ins Kontinuum entschließt. Q stellt Amanda somit vor die Wahl, entweder dem Kontinuum beizutreten oder dauerhaft auf den Einsatz ihrer allmächtigen Kräfte zu verzichten. Die Enterprise liefert Hilfsgüter auf dem Planeten Tagra IV aus, dessen Ökosystem stark beschädigt ist. Als ein Reaktor auf dem Planeten einen ernsten Schaden nimmt, beseitigt Amanda den Reaktorschaden und stellt das komplette Ökosystem des Planeten wieder her. Dadurch von ihren Fähigkeiten vollends überzeugt, entschließt sie sich zum Beitritt ins Q-Kontinuum, wohin sie sich zusammen mit Q sofort begibt."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -3315,7 +3369,7 @@
 					"description": {
 						"de": "Die Enterprise trifft bei einer Raumstation ein, um die neuartige Bergbautechnologie namens Partikelquelle für den Einsatz in der Föderation zu begutachten. Zur Behebung einer Fehlfunktion an der Partikelquelle setzt die Stationsingenieurin Dr. Farallon einen der von ihr erfundenen und neu entwickelten Exocomps ein, bei denen es sich um kleine, als Werkzeuge nutzbare und zum Lernen fähige Roboter handelt. Data schlussfolgert aus dem Verhalten des Exocomps bei dem Einsatz, dass die Exocomps einen Selbsterhaltungstrieb besitzen, und entwickelt die Hypothese, dass es sich bei ihnen um Lebewesen handelt. Weil sie deshalb schützenswert sind, verbietet er Dr. Farallon, sie zum Arbeiten einzusetzen. Dr. Farallon ist aber dagegen und betrachtet die Exocomps nur als Werkzeuge. Um Datas Hypothese zu prüfen, lässt ihn Picard weitere, ähnliche Experimente durchführen, die zunächst scheitern. Nach über 30 erfolglosen Versuchen auf der Enterprise sieht Data seine Hypothese bestätigt. Picard und La Forge werden bei einem weiteren Unfall auf der Station, der sie zu verstrahlen droht, zusammen mit einem Techniker auf der Station eingeschlossen. Indem er die Enterprise-Transporter sperrt, widersetzt sich Data Rikers Befehl, die Exocomps zur Beseitigung des Strahlungslecks in den Stationskern beamen und dort explodieren zu lassen. Nach einem Streitgespräch mit Data einigt man sich auf Rikers Vorschlag, die Exocomps selbst entscheiden zu lassen, ob sie sich in diese Situation begeben wollen. Die drei Roboter machen dabei allerdings einen eigenen Vorschlag, durch den die Eingeschlossenen gerettet werden, ohne dass dabei alle Exocomps vernichtet werden."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
@@ -3390,7 +3444,7 @@
 						},
 						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
@@ -3491,7 +3545,7 @@
 					"description": {
 						"de": "Bei einer Außenmission wird Picard schwer verwundet, sodass er in der Krankenstation zu sterben droht. Er findet sich plötzlich im Jenseits wieder, wo ihn Q als selbsternannter Gott im Leben nach dem Tode begrüßt. Auch nachdem ihm Q die Situation gezeigt hat, in der Picard als junger, frischgebackener Offizier von einem Nausicaaner schwer verletzt wird, bereut Picard einige der Taten in seinem Leben. Q gibt ihm deshalb eine zweite Chance und versetzt ihn in seine damalige Rolle und in die Zeit wenige Tage vor dem Kampf gegen den Nausicaaner. Q bietet Picard an, ihn im Diesseits überleben zu lassen, sofern er verhindert, in jungem Alter durch den Angriff sein später durch ein Kunstherz ersetztes Herz zu verlieren. Picards damaliger Freund Corey verliert beim Spielen des Billard-ähnlichen Spiels Domjot und möchte den Spieltisch präparieren, um bei der anstehenden Revanche zu gewinnen. Picard lehnt die Manipulation als zu riskant ab und vereitelt einen Angriff Coreys gegen die körperlich überlegenen Nausicaaner, die ihn als Feigling provozieren. Picard gerät dadurch zwar in keinen Kampf und wird nicht am Herzen verletzt, jedoch ziehen sich Corey und eine Freundin von ihm zurück. Picards Laufbahn verläuft in der Folge so, dass er es auf der Enterprise nur bis zur Position eines Junior-Lieutenants bringt – eine Tätigkeit, mit der sich Picard gegenüber Q jedoch ausgesprochen unzufrieden äußert. Q erklärt es damit, dass Picard in seinem Leben nie etwas riskiert hat, und Picard wünscht sich nun, Corey beim Kampf gegen die Nausicaaner unterstützt zu haben. Q erfüllt ihm den Wunsch und lässt ihn im Diesseits die schwere Verletzung überleben."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
@@ -3608,6 +3662,19 @@
 					},
 					"description": {
 						"de": "Der Föderationsarchäologe und Mentor Picards, Professor Galen, möchte Picard wegen einer weitreichenden Entdeckung davon überzeugen, ihn bei einer mehrmonatigen Forschungsreise zu begleiten. Nachdem Picard berufsbedingt abgelehnt hat, verlässt Galen enttäuscht die Enterprise und wird nach seiner Abreise von feindlichen Iridianern tödlich verwundet. Picard setzt daraufhin mit der Enterprise Galens Forschung fort. Aus den Daten seines Shuttle gewinnt man eine Reihe zueinander kompatibler DNS-Fragmente, die von verschiedenen Spezies in der ganzen Galaxie stammen und wohl von einer Spezies hinterlassen wurde, die vor 4 Milliarden Jahren lebte. Um das zu prüfen, sucht man nach den noch fehlenden Fragmenten und begegnet dabei Cardassianern und Klingonen, die diese Spur ebenfalls verfolgen. Die drei Parteien setzen die von ihnen gesammelten Fragmente zusammen und ermitteln daraus einen Planeten, auf dem sie das letzte Fragment vermuten. Nachdem ein Enterprise-Außenteam mit dem klingonischen Vertreter sowie Cardassianer und Romulaner dort eingetroffen sind, finden Picard und Crusher in vegetativen Resten des sonst biologisch toten Planeten das fehlende Fragment. Eingesetzt in das System der bereits gesammelten Fragmente wird eine Projektion eines Vertreters der Ur-Spezies aktiviert. Seine Spezies hinterließ, nachdem sie bei der Erforschung der Galaxie kein humanoides Leben fand, einst ihre eigene DNS auf verschiedenen Planeten, um von sich nach ihrem Aussterben ein Vermächtnis zu hinterlassen. Zudem sei es seine Hoffnung, dass das Wissen über die gemeinsame Abstammung zum Frieden unter den Spezies der versammelten Parteien beträgt."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/tdSJwre1qdk"
+						}
 					}
 				},
 				{
@@ -3783,6 +3850,23 @@
 					},
 					"description": {
 						"de": "Der Borg Hugh hatte einst seine auf der Enterprise erweckte Individualität auf die Crewmitglieder seines Raumschiffs übertragen. Dieses wurde mitsamt der Crew später durch Lore entdeckt. Die Borg dieser Crew dienen Lore nun auf dem Planeten für Experimente zur Erschaffung einer perfekten, künstlichen Rasse. Dabei lässt sich Lore durch Data helfen, den er zu diesem Zweck so beeinflusst hat, dass Data nicht mehr ethisch handelt. Bei Lores Experimenten wurden einige Borg verstümmelt, die sich aus Angst vor weiteren Experimenten nun mit Hugh vor Lore verstecken. Auf der Suche nach den restlichen Enterprise-Crewmitgliedern stoßen Worf und Riker auf diese Borg. Unterdessen lässt Lore auch an La Forge experimentieren und versuchen Picard und Troi aus ihrer Gefangenschaft heraus, Datas ethisches Programm zu reaktivieren. Parallel dazu versucht Crusher mit einer Rumpf-Crew auf der Enterprise, die restlichen Crewmitglieder an Bord zu beamen. Dabei erwehren sie sich der Angriffe eines Borg-Schiffes, das sie schließlich durch künstliches Herbeiführen einer Eruption auf einem Stern zerstören können. Hugh, Riker und Worf können schließlich Lore und dessen Borg beschießen und besiegen und dabei Riker, Data und Troi befreien. Picard schafft es, Datas ethisches Programm zu reaktivieren. Data deaktiviert daraufhin Lore und bemächtigt sich dessen Emotionschips, den er sich aber wegen der Befürchtung, so zu werden wie Lore, nicht selbst einsetzt. La Forge verhindert, dass Data den Chip aus gleichem Grund zerstört. Hugh verbleibt auf dem Planeten, während die Enterprise-Crewmitglieder wieder an Bord zurückkehren."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | More Borg Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tng#6.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#7.1" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/jBv_NVeC3Lc"
+						}
 					}
 				},
 				{

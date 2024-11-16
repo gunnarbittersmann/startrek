@@ -225,6 +225,8 @@ td:empty {
 td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
+td[property="author"],
+td:has([property="author"]),
 td[property="review"],
 td:has([property="video"]) {
 	width: 18em;
@@ -240,6 +242,15 @@ details p {
 	line-height: 1.4;
 	-webkit-hyphens: auto;
 	hyphens: auto;
+}
+
+dl {
+	margin: 0;
+}
+
+dt, dd, dd ul {
+	display: inline;
+	margin: 0;
 }
 
 ul:has(details) {
@@ -264,6 +275,13 @@ ul:has(details) iframe {
 }
 
 @media (width > 40em) {
+	[property="abstract"], [property="description"] {
+		margin-top: 0.5em;
+		padding-top: 0.25em;
+		background: var(--background-color);
+		scale: 1;
+	}
+
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]):last-child,
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]) ~ :last-child {
 		padding-bottom: 0.5em;
