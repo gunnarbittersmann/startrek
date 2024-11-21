@@ -2883,7 +2883,36 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AaronBurdette",
 						"name": "Aaron Burdette"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2024-11-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YQ5xM6Ny-YI"
+							}
+						},
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-11-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bRAQw6vDoUY"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
