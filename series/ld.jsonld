@@ -2867,7 +2867,23 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.6",
 					"episodeNumber": "5.6",
 					"name": "Of Gods and Angels",
-					"datePublished": "2024-11-21"
+					"datePublished": "2024-11-21",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Von Göttern und Kanten",
+						"datePublished": "2024-11-21"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
+						"name": "Brandon Williams"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronBurdette",
+						"name": "Aaron Burdette"
+					}
 				},
 				{
 					"@type": "TVEpisode",
