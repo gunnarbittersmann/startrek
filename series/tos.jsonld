@@ -53,7 +53,7 @@
 						"datePublished": "1993-10-25"
 					},
 					"director": {
-						"@id": "RobertButler",
+						"@id": "https://bittersmann.de/startrek/people#RobertButler",
 						"@type": "Person",
 						"name": "Robert Butler"
 					},
@@ -135,7 +135,7 @@
 						"datePublished": "1987-09-28"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -158,7 +158,7 @@
 						"datePublished": "1974-02-09"
 					},
 					"director": {
-						"@id": "LawrenceDobkin",
+						"@id": "https://bittersmann.de/startrek/people#LawrenceDobkin",
 						"@type": "Person",
 						"name": "Lawrence Dobkin"
 					},
@@ -195,7 +195,7 @@
 						"datePublished": "1973-10-06"
 					},
 					"director": {
-						"@id": "JamesGoldstone",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
 						"@type": "Person",
 						"name": "James Goldstone"
 					},
@@ -237,7 +237,7 @@
 						"datePublished": "1987-10-05"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -274,7 +274,7 @@
 						"datePublished": "1972-07-22"
 					},
 					"director": {
-						"@id": "LeoPenn",
+						"@id": "https://bittersmann.de/startrek/people#LeoPenn",
 						"@type": "Person",
 						"name": "Leo Penn"
 					},
@@ -298,7 +298,7 @@
 						"datePublished": "1987-09-21"
 					},
 					"director": {
-						"@id": "HarveyHart",
+						"@id": "https://bittersmann.de/startrek/people#HarveyHart",
 						"@type": "Person",
 						"name": "Harvey Hart"
 					},
@@ -322,7 +322,7 @@
 						"datePublished": "1987-10-19"
 					},
 					"director": {
-						"@id": "JamesGoldstone",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
 						"@type": "Person",
 						"name": "James Goldstone"
 					},
@@ -346,7 +346,7 @@
 						"datePublished": "1987-11-02"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -383,7 +383,7 @@
 						"datePublished": "1987-10-26"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -407,7 +407,7 @@
 						"datePublished": "1972-10-07"
 					},
 					"director": {
-						"@id": "JosephSargent",
+						"@id": "https://bittersmann.de/startrek/people#JosephSargent",
 						"@type": "Person",
 						"name": "Joseph Sargent"
 					},
@@ -431,7 +431,7 @@
 						"datePublished": "1987-11-16"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -455,7 +455,7 @@
 						"datePublished": "1987-11-23"
 					},
 					"director": {
-						"@id": "RobertButler",
+						"@id": "https://bittersmann.de/startrek/people#RobertButler",
 						"@type": "Person",
 						"name": "Robert Butler"
 					},
@@ -479,7 +479,7 @@
 						"datePublished": "1987-11-09"
 					},
 					"director": {
-						"@id": "GerdOswald",
+						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
 						"@type": "Person",
 						"name": "Gerd Oswald"
 					},
@@ -503,7 +503,7 @@
 						"datePublished": "1987-10-12"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -528,7 +528,7 @@
 						"datePublished": "1987-11-30"
 					},
 					"director": {
-						"@id": "RobertSparr",
+						"@id": "https://bittersmann.de/startrek/people#RobertSparr",
 						"@type": "Person",
 						"name": "Robert Sparr"
 					},
@@ -553,7 +553,7 @@
 						"datePublished": "1972-10-14"
 					},
 					"director": {
-						"@id": "RobertGist",
+						"@id": "https://bittersmann.de/startrek/people#RobertGist",
 						"@type": "Person",
 						"name": "Robert Gist"
 					},
@@ -577,7 +577,7 @@
 						"datePublished": "1974-03-23"
 					},
 					"director": {
-						"@id": "DonMcDougall",
+						"@id": "https://bittersmann.de/startrek/people#DonMcDougall",
 						"@type": "Person",
 						"name": "Don McDougall"
 					},
@@ -601,7 +601,7 @@
 						"datePublished": "1987-12-07"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -625,7 +625,7 @@
 						"datePublished": "1972-05-27"
 					},
 					"director": {
-						"@id": "MichaelOHerlihy",
+						"@id": "https://bittersmann.de/startrek/people#MichaelOHerlihy",
 						"@type": "Person",
 						"name": "Michael O’Herlihy"
 					},
@@ -662,7 +662,7 @@
 						"datePublished": "1972-06-10"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -686,7 +686,7 @@
 						"datePublished": "1987-12-21"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -723,7 +723,7 @@
 						"datePublished": "1972-10-21"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -747,7 +747,7 @@
 						"datePublished": "1987-12-28"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -771,7 +771,7 @@
 						"datePublished": "1988-01-04"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -795,7 +795,7 @@
 						"datePublished": "1988-01-11"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -819,7 +819,7 @@
 						"datePublished": "1973-12-15"
 					},
 					"director": {
-						"@id": "JohnNewland",
+						"@id": "https://bittersmann.de/startrek/people#JohnNewland",
 						"@type": "Person",
 						"name": "John Newland"
 					},
@@ -843,7 +843,7 @@
 						"datePublished": "1987-12-14"
 					},
 					"director": {
-						"@id": "GerdOswald",
+						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
 						"@type": "Person",
 						"name": "Gerd Oswald"
 					},
@@ -867,7 +867,7 @@
 						"datePublished": "1988-01-18"
 					},
 					"director": {
-						"@id": "Joseph Pevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -903,7 +903,7 @@
 						"datePublished": "1988-01-25"
 					},
 					"director": {
-						"@id": "HerschelDaugherty",
+						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"@type": "Person",
 						"name": "Herschel Daugherty"
 					},
@@ -955,7 +955,7 @@
 						"datePublished": "1974-01-12"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -990,7 +990,7 @@
 						"datePublished": "1972-11-04"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1012,7 +1012,7 @@
 						"datePublished": "1972-07-01"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1034,7 +1034,7 @@
 						"datePublished": "1988-02-22"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1056,7 +1056,7 @@
 						"datePublished": "1988-02-15"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1078,7 +1078,7 @@
 						"datePublished": "1972-06-24"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1102,7 +1102,7 @@
 						"datePublished": "1973-12-01"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1124,7 +1124,7 @@
 						"datePublished": "1972-08-26"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1146,7 +1146,7 @@
 						"datePublished": "1973-11-17"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -1168,7 +1168,7 @@
 						"datePublished": "1972-09-16"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1190,7 +1190,7 @@
 						"datePublished": "1988-02-01"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1212,7 +1212,7 @@
 						"datePublished": "1988-02-29"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1234,7 +1234,7 @@
 						"datePublished": "1972-07-29"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -1256,7 +1256,7 @@
 						"datePublished": "1988-02-08"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1278,7 +1278,7 @@
 						"datePublished": "1972-09-23"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1316,7 +1316,7 @@
 						"datePublished": "1988-03-14"
 					},
 					"director": {
-						"@id": "GeneNelson",
+						"@id": "https://bittersmann.de/startrek/people#GeneNelson",
 						"@type": "Person",
 						"name": "Gene Nelson"
 					},
@@ -1338,7 +1338,7 @@
 						"datePublished": "1972-07-08"
 					},
 					"director": {
-						"@id": "JamesKomack",
+						"@id": "https://bittersmann.de/startrek/people#JamesKomack",
 						"@type": "Person",
 						"name": "James Komack"
 					},
@@ -1373,7 +1373,7 @@
 						"datePublished": "1972-06-03"
 					},
 					"director": {
-						"@id": "JosephPevney",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
@@ -1395,7 +1395,7 @@
 						"datePublished": "1988-03-07"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1417,7 +1417,7 @@
 						"datePublished": "1973-12-29"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -1439,7 +1439,7 @@
 						"datePublished": "1999-07-25"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -1477,7 +1477,7 @@
 						"datePublished": "1972-11-11"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1499,7 +1499,7 @@
 						"datePublished": "1988-03-21"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -1534,7 +1534,7 @@
 						"datePublished": "1972-07-15"
 					},
 					"director": {
-						"@id": "JohnMeredythLucas",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"@type": "Person",
 						"name": "John Meredyth Lucas"
 					},
@@ -1556,7 +1556,7 @@
 						"datePublished": "1974-01-26"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -1591,7 +1591,7 @@
 						"datePublished": "1972-09-02"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1641,7 +1641,7 @@
 						"datePublished": "1988-04-04"
 					},
 					"director": {
-						"@id": "MarcDaniels",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
@@ -1678,7 +1678,7 @@
 						"datePublished": "1972-08-12"
 					},
 					"director": {
-						"@id": "JohnMeredythLucas",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"@type": "Person",
 						"name": "John Meredyth Lucas"
 					},
@@ -1702,7 +1702,7 @@
 						"datePublished": "1972-11-18"
 					},
 					"director": {
-						"@id": "JudTaylor",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"@type": "Person",
 						"name": "Jud Taylor"
 					},
@@ -1739,7 +1739,7 @@
 						"datePublished": "1974-02-23"
 					},
 					"director": {
-						"@id": "MarvinJChomsky",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"@type": "Person",
 						"name": "Marvin J. Chomsky"
 					},
@@ -1763,7 +1763,7 @@
 						"datePublished": "1972-09-30"
 					},
 					"director": {
-						"@id": "RalphSenensky",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
@@ -1787,7 +1787,7 @@
 						"datePublished": "1988-03-28"
 					},
 					"director": {
-						"@id": "VincentMcEveety",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
@@ -1824,7 +1824,7 @@
 						"datePublished": "1988-04-18"
 					},
 					"director": {
-						"@id": "MarvinJChomsky",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"@type": "Person",
 						"name": "Marvin J. Chomsky"
 					},
@@ -1848,7 +1848,7 @@
 						"datePublished": "1972-10-28"
 					},
 					"director": {
-						"@id": "TonyLeader",
+						"@id": "https://bittersmann.de/startrek/people#TonyLeader",
 						"@type": "Person",
 						"name": "Tony Leader"
 					},
@@ -1872,7 +1872,7 @@
 						"datePublished": "1972-06-17"
 					},
 					"director": {
-						"@id": "HerbWallerstein",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"@type": "Person",
 						"name": "Herb Wallerstein"
 					},
@@ -1896,7 +1896,7 @@
 						"datePublished": "1988-04-25"
 					},
 					"director": {
-						"@id": "DavidAlexander",
+						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"@type": "Person",
 						"name": "David Alexander"
 					},
@@ -1920,7 +1920,7 @@
 						"datePublished": "1973-11-03"
 					},
 					"director": {
-						"@id": "JudTaylor",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"@type": "Person",
 						"name": "Jud Taylor"
 					},
@@ -1944,7 +1944,7 @@
 						"datePublished": "1988-04-11"
 					},
 					"director": {
-						"@id": "JohnErman",
+						"@id": "https://bittersmann.de/startrek/people#JohnErman",
 						"@type": "Person",
 						"name": "John Erman"
 					},
@@ -1968,7 +1968,7 @@
 						"datePublished": "1973-10-20"
 					},
 					"director": {
-						"@id": "JohnMeredythLucas",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"@type": "Person",
 						"name": "John Meredyth Lucas"
 					},
@@ -1992,7 +1992,7 @@
 						"datePublished": "1988-05-09"
 					},
 					"director": {
-						"@id": "HerbWallerstein",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"@type": "Person",
 						"name": "Herb Wallerstein"
 					},
@@ -2016,7 +2016,7 @@
 						"datePublished": "1988-05-02"
 					},
 					"director": {
-						"@id": "JudTaylor",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"@type": "Person",
 						"name": "Jud Taylor"
 					},
@@ -2040,7 +2040,7 @@
 						"datePublished": "1988-05-16"
 					},
 					"director": {
-						"@id": "JudTaylor",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"@type": "Person",
 						"name": "Jud Taylor"
 					},
@@ -2077,7 +2077,7 @@
 						"datePublished": "1972-08-19"
 					},
 					"director": {
-						"@id": "HerbWallerstein",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"@type": "Person",
 						"name": "Herb Wallerstein"
 					},
@@ -2101,7 +2101,7 @@
 						"datePublished": "1972-08-05"
 					},
 					"director": {
-						"@id": "HerbKenwith",
+						"@id": "https://bittersmann.de/startrek/people#HerbKenwith",
 						"@type": "Person",
 						"name": "Herb Kenwith"
 					},
@@ -2125,7 +2125,7 @@
 						"datePublished": "1974-03-09"
 					},
 					"director": {
-						"@id": "MurrayGolden",
+						"@id": "https://bittersmann.de/startrek/people#MurrayGolden",
 						"@type": "Person",
 						"name": "Murray Golden"
 					},
@@ -2149,7 +2149,7 @@
 						"datePublished": "1988-05-30"
 					},
 					"director": {
-						"@id": "DavidAlexander",
+						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"@type": "Person",
 						"name": "David Alexander"
 					},
@@ -2173,7 +2173,7 @@
 						"datePublished": "1988-05-23"
 					},
 					"director": {
-						"@id": "JudTaylor",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"@type": "Person",
 						"name": "Jud Taylor"
 					},
@@ -2210,7 +2210,7 @@
 						"datePublished": "1972-11-25"
 					},
 					"director": {
-						"@id": "HerschelDaugherty",
+						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"@type": "Person",
 						"name": "Herschel Daugherty"
 					},
@@ -2234,7 +2234,7 @@
 						"datePublished": "1988-06-06"
 					},
 					"director": {
-						"@id": "MarvinJChomsky",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"@type": "Person",
 						"name": "Marvin J. Chomsky"
 					},
@@ -2258,7 +2258,7 @@
 						"datePublished": "1988-06-13"
 					},
 					"director": {
-						"@id": "HerbWallerstein",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"@type": "Person",
 						"name": "Herb Wallerstein"
 					},
