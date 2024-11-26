@@ -255,7 +255,12 @@
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
 											<details lang="en" property="video" typeof="VideoObject">
-												<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+												<summary
+													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
+													<?php if ($movie['review']['name']): ?>
+														title="<?= htmlSpecialChars($movie['review']['name']) ?>"
+													<?php endif; ?>
+												>
 													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
 														<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
 															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
@@ -280,7 +285,12 @@
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
 														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
-															<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+															<summary
+																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
+																<?php if ($review['name']): ?>
+																	title="<?= htmlSpecialChars($review['name']) ?>"
+																<?php endif; ?>
+															>
 																<?php if ($review['creator'] && $review['creator']['name']): ?>
 																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
