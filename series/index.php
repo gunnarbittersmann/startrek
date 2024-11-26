@@ -357,7 +357,12 @@ EOT;
 											<?php if ($episode['review']['video']): ?>
 												<td property="review" typeof="Review">
 													<details lang="en" property="video" typeof="VideoObject">
-														<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
+														<summary
+															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+															<?php if ($episode['review']['name']): ?>
+																title="<?= htmlSpecialChars($episode['review']['name']) ?>"
+															<?php endif; ?>
+														>
 															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($episode['review']['creator']['@type']) ?>">
 																	<span class="visually-hidden" property="name">
@@ -400,7 +405,12 @@ EOT;
 																	typeof="VideoObject"
 																	name="review-<?= htmlSpecialChars($episode['@identifier']) ?>"
 																>
-																	<summary aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>">
+																	<summary
+																		aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
+																		<?php if ($review['name']): ?>
+																			title="<?= htmlSpecialChars($review['name']) ?>"
+																		<?php endif; ?>
+																	>
 																		<?php if ($review['creator'] && $review['creator']['name']): ?>
 																			<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																				<span class="visually-hidden" property="name">
@@ -447,7 +457,12 @@ EOT;
 										<?php if ($season['review']['video']): ?>
 											<td property="review" typeof="Review">
 												<details lang="en" property="video" typeof="VideoObject">
-													<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
+													<summary
+														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+														<?php if ($season['review']['name']): ?>
+															title="<?= htmlSpecialChars($season['review']['name']) ?>"
+														<?php endif; ?>
+													>
 														<?php if ($season['review']['creator']): ?>
 															<?php if ($season['review']['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($season['review']['creator']['@type']) ?>">
@@ -491,7 +506,12 @@ EOT;
 																typeof="VideoObject"
 																name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>"
 															>
-																<summary aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>">
+																<summary
+																	aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
+																	<?php if ($review['name']): ?>
+																		title="<?= htmlSpecialChars($review['name']) ?>"
+																	<?php endif; ?>
+																>
 																	<?php if ($review['creator']): ?>
 																		<?php if ($review['creator']['name']): ?>
 																			<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
@@ -542,7 +562,12 @@ EOT;
 								<?php if ($data['review']['video']): ?>
 									<td property="review" typeof="Review">
 										<details lang="en" property="video" typeof="VideoObject">
-											<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
+											<summary
+												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
+												<?php if ($data['review']['name']): ?>
+													title="<?= htmlSpecialChars($data['review']['name']) ?>"
+												<?php endif; ?>
+											>
 												<?php if ($data['review']['name']): ?>
 													<span class="visually-hidden" property="name"><?= htmlSpecialChars($data['review']['name']) ?></span>
 													<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['name'][0]) ?></abbr>
@@ -578,7 +603,12 @@ EOT;
 														typeof="VideoObject"
 														name="review-season-<?= htmlSpecialChars($data['name']) ?>"
 													>
-														<summary aria-description="season <?= htmlSpecialChars($data['name']) ?>">
+														<summary
+															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
+															<?php if ($review['name']): ?>
+																title="<?= htmlSpecialChars($review['name']) ?>"
+															<?php endif; ?>
+														>
 															<?php if ($review['name']): ?>
 																<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
 																<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
