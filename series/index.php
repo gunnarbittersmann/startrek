@@ -327,20 +327,32 @@ EOT;
 															<?php else: ?>
 																see also:
 															<?php endif; ?>
-															<?php foreach ($episode['subjectOf'] as $index => $source): ?>
-																<?php if ($index): ?>
-																	&amp;
-																<?php endif; ?>
+															<?php if ($episode['subjectOf']['url']): ?>
 																<span property="subjectOf" typeof="Webpage">
 																	<a
 																		property="url"
-																		href="<?= htmlSpecialChars($source['url']) ?>"
+																		href="<?= htmlSpecialChars($episode['subjectOf']['url']) ?>"
 																	>
-																		<?= htmlSpecialChars($source['publisher']['name']) ?>
-																		(<?= htmlSpecialChars($source['inLanguage']) ?>)
+																		<?= htmlSpecialChars($episode['subjectOf']['publisher']['name']) ?>
+																		(<?= htmlSpecialChars($episode['subjectOf']['inLanguage']) ?>)
 																	</a>
 																</span>
-															<?php endforeach; ?>
+															<?php else: ?>
+																<?php foreach ($episode['subjectOf'] as $index => $source): ?>
+																	<?php if ($index): ?>
+																		&amp;
+																	<?php endif; ?>
+																	<span property="subjectOf" typeof="Webpage">
+																		<a
+																			property="url"
+																			href="<?= htmlSpecialChars($source['url']) ?>"
+																		>
+																			<?= htmlSpecialChars($source['publisher']['name']) ?>
+																			(<?= htmlSpecialChars($source['inLanguage']) ?>)
+																		</a>
+																	</span>
+																<?php endforeach; ?>
+															<?php endif; ?>
 														</p>
 													<?php else: ?>
 														<?php if ($episode['sameAs']): ?>
