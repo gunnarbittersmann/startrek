@@ -118,6 +118,16 @@
 						"name": "Fremde neue Welten",
 						"datePublished": "2022-12-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Strange_New_Worlds_(Star_Trek:_Strange_New_Worlds)"
+					},
 					"description": {
 						"en": "In the 23rd century, Starfleet Admiral Robert April recalls Captain Christopher Pike of the starship USS Enterprise from shore leave after Pike’s first officer, Una Chin-Riley (referred to as “Number One”), goes missing during a first contact mission. Pike is reluctant to return to space and confides in Vulcan science officer Spock—who has just become engaged to T’Pring—that he saw a vision of his own paralysis during their mission with the USS Discovery. They travel to the planet Kiley 279, which is in a similar state to 21st century Earth and on the brink of civil war. They have reverse-engineered a weapon from starship warp drives after witnessing the Discovery mission in nearby space. Pike and his crew rescue Number One from captivity and break Starfleet’s General Order 1 by interfering in the society to convince them not to use the weapon. They avoid repercussions because of the top secret nature of the Discovery mission but Starfleet doubles-down on the rule by renaming it the Prime Directive. Pike recommits to his role and captains the Enterprise on a new five-year mission of exploration.",
 						"de": "Im 23. Jahrhundert holt Sternenflottenadmiral Robert April Captain Christopher Pike vom Raumschiff USS Enterprise vom Landgang zurück, nachdem Pikes erster Offizier, Una Chin-Riley (genannt „Nummer Eins“), während einer Erstkontaktmission verschwunden ist. Pike zögert, in den Weltraum zurückzukehren, und vertraut dem vulkanischen Wissenschaftsoffizier Spock – der sich gerade mit T’Pring verlobt hat – an, dass er während seiner Mission mit der USS Discovery eine Vision gesehen hat, in der er sich selbst als gelähmten Menschenen gesehen hat. Die Crew reist zum Planeten Kiley 279, der sich in einem ähnlichen Zustand wie die Erde des 21. Jahrhunderts befindet und am Rande eines Bürgerkriegs steht. Die Kriegsparteien haben außerdem eine Waffe auf Basis eines Warp-Antriebs gebaut, nachdem sie die Mission der USS Discovery im nahen Weltraum beobachtet hatten. Pike und seine Crew befreien Nummer Eins aus der Gefangenschaft und verstoßen kurz danach gegen den Allgemeinen Befehl 1 der Sternenflotte, indem sie sich in die Gesellschaft einmischen, um sie davon zu überzeugen, die Waffe nicht einzusetzen. Aufgrund der streng geheimen Natur der Discovery-Mission entgehen sie den Konsequenzen, aber die Sternenflotte verschärft die Regel, indem sie sie in die Oberste Direktive umbenennt. Pike bekennt sich daraufhin zu seiner Rolle als Captain und führt die Enterprise auf eine neue fünfjährige Erkundungsmission."
@@ -1410,6 +1420,16 @@
 						"name": "Tierisch olle Sternenreisende",
 						"datePublished": "2023-07-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Those_Old_Scientists"
+					},
 					"description": {
 						"en": "In the 24th century, ensign Brad Boimler of the USS Cerritos is assigned to investigate an ancient portal. The portal, which is powered by the rare substance horonium, sends him back in time 120 years where he is taken aboard the Enterprise. Boimler struggles to contain his excitement at meeting his heroes and also to prevent polluting the timeline with his knowledge of the future. The portal is stolen by an Orion ship and Pike trades grain supplies to retrieve it. They attempt to return Boimler to the future with the last remaining horonium, but ensign Beckett Mariner comes through the portal instead in a rescue attempt. Spock and Boimler unsuccessfully try to synthesize horonium so they can use the portal again while Mariner and Uhura work to translate engravings on the portal. Boimler realizes that horonium from the hull of the previous starship Enterprise was incorporated into Pike’s Enterprise. They use this to send Boimler and Mariner back to their own time, while the Orions agree to accept credit for discovering the portal in exchange for allowing the Enterprise to continue peacefully.",
 						"de": "Im 24. Jahrhundert nimmt Ensign Brad Boimler von der USS Cerritos an einem Außeneinsatz teil, der ein uraltes Portal untersucht. Das Portal, das mit der seltenen Substanz Horonium betrieben wird, aktiviert sich plötzlich und schickt ihn 120 Jahre in die Vergangenheit, wo er an Bord der Enterprise gebracht wird. Boimler fällt es schwer, angesichts seiner Helden, die er vorher nur aus Geschichtsbüchern kannte, seine Aufregung im Zaum zu halten und die Zeitlinie nicht durch Informationen aus der Zukunft zu verändern. Das Portal wird von einem orionischen Schiff gestohlen, und Pike kann es im Austausch mit Getreidevorräten zurückbekommen. Mit der letzten verbliebenen Portion Horonium versuchen sie, Boimler in seine Zeit zurückzuschicken, aber stattdessen kommt nun auch Ensign Beckett Mariner durch das Portal, in dem Versuch, Boimler zu retten. Spock und Boimler versuchen, Horonium synthetisch herzustellen, aber ohne Erfolg. Boimler fällt ein, dass Horonium von der vorhergehenden Enterprise in Pikes Enterprise eingebaut worden war. Damit können Boimler und Mariner schließlich in ihre Zeit zurückgeschickt werden, nachdem den Orionern zugestanden wurde, dass sie die Entdeckung des Portals für sich beanspruchen dürfen."
@@ -1574,6 +1594,16 @@
 						"inLanguage": "de",
 						"name": "Subraum-Rhapsodie",
 						"datePublished": "2023-08-03"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Subspace_Rhapsody"
 					},
 					"description": {
 						"en": "James Kirk, recently promoted to executive officer of the Farragut, visits the Enterprise to shadow Number One. While conducting communications experiments, Uhura broadcasts a recording of “Anything Goes” into a mysterious “subspace fold”. It produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. Pike has an argument with Batel, in song, in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes it over her relationship with Spock. La’an confesses her feelings for Kirk before the musical can force her to, but he is already in a relationship with Carol Marcus. An affected Klingon ship intends to blow up the fold, but experiments reveal that this will destroy all starships in the vicinity. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field before the Klingons arrive; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates.",
