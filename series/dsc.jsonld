@@ -101,6 +101,16 @@
 						"name": "Leuchtfeuer",
 						"datePublished": "2017-09-25"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Vulcan_Hello"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidSemel",
@@ -149,6 +159,16 @@
 						"inLanguage": "de",
 						"name": "Das Urteil",
 						"datePublished": "2017-09-25"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Battle_at_the_Binary_Stars"
 					},
 					"director": {
 						"@type": "Person",
@@ -208,6 +228,16 @@
 						"inLanguage": "de",
 						"name": "Lakaien und Könige",
 						"datePublished": "2017-10-02"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Context_Is_for_Kings"
 					},
 					"director": {
 						"@type": "Person",
@@ -280,6 +310,16 @@
 						"inLanguage": "de",
 						"name": "Sprung",
 						"datePublished": "2017-10-09"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Butcher%27s_Knife_Cares_Not_for_the_Lamb%27s_Cry"
 					},
 					"director": {
 						"@type": "Person",
