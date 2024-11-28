@@ -2962,7 +2962,22 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewMueth",
 						"name": "Andrew Mueth"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-11-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gm5GOW6zOvg"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
