@@ -2946,7 +2946,23 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.7",
 					"episodeNumber": "5.7",
 					"name": "Fully Dilated",
-					"datePublished": "2024-11-28"
+					"datePublished": "2024-11-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Zeitdilatation",
+						"datePublished": "2024-11-28"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"name": "Megan Lloyd"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewMueth",
+						"name": "Andrew Mueth"
+					}
 				},
 				{
 					"@type": "TVEpisode",
