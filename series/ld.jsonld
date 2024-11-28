@@ -2879,7 +2879,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.6",
 					"episodeNumber": "5.6",
-					"name": "Of Gods and Angels",
+					"name": "Of Gods and Angles",
 					"datePublished": "2024-11-21",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2924,6 +2924,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/bRAQw6vDoUY"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2024-11-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zUjtSQChW-4"
+							}
 						}
 					]
 				},
@@ -2932,7 +2946,38 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.7",
 					"episodeNumber": "5.7",
 					"name": "Fully Dilated",
-					"datePublished": "2024-11-28"
+					"datePublished": "2024-11-28",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Zeitdilatation",
+						"datePublished": "2024-11-28"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"name": "Megan Lloyd"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewMueth",
+						"name": "Andrew Mueth"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-11-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gm5GOW6zOvg"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",

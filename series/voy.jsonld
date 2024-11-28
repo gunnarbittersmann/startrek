@@ -3132,6 +3132,20 @@
 					},
 					"abstract": {
 						"en": "Captain Braxton recruits Seven of Nine to stop Voyager being sabotaged."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | Alternate Timelines",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-11-28",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/F6onQ7f16d4"
+						}
 					}
 				},
 				{
