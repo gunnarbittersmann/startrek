@@ -234,18 +234,6 @@
 											<p property="<?= htmlSpecialChars($plotType) ?>">
 												<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
 											</p>
-											<?php if ($movie['sameAs']): ?>
-												<p>
-													<?php if ($plotLang == 'de'): ?>
-														mehr in der
-													<?php else: ?>
-														see also
-													<?php endif; ?>
-													<a property="sameAs" href="<?= htmlSpecialChars($movie['sameAs']) ?>">
-														Wikipedia
-													</a>
-												</p>
-											<?php endif; ?>
 										</details>
 									</td>
 								<?php else: ?>
