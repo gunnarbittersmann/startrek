@@ -66,6 +66,16 @@
 						"name": "Der Fürsorger",
 						"datePublished": "1996-06-21"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Caretaker_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -102,6 +112,16 @@
 						"inLanguage": "de",
 						"name": "Die Parallaxe",
 						"datePublished": "1996-06-28"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Parallax_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -140,6 +160,16 @@
 						"name": "Subraumspalten",
 						"datePublished": "1996-07-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Time_and_Again_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -163,6 +193,16 @@
 						"inLanguage": "de",
 						"name": "Transplantationen",
 						"datePublished": "1996-07-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Phage_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -188,6 +228,16 @@
 						"name": "Der mysteriöse Nebel",
 						"datePublished": "1996-07-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Cloud_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -211,6 +261,16 @@
 						"inLanguage": "de",
 						"name": "Das Nadelöhr",
 						"datePublished": "1996-07-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Eye_of_the_Needle_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -236,6 +296,16 @@
 						"name": "Die Augen des Toten",
 						"datePublished": "1996-08-02"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Ex_Post_Facto_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -259,6 +329,16 @@
 						"inLanguage": "de",
 						"name": "Das Unvorstellbare",
 						"datePublished": "1996-08-09"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Emanations_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -284,6 +364,16 @@
 						"name": "Das oberste Gesetz",
 						"datePublished": "1996-08-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prime_Factors_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -307,6 +397,16 @@
 						"inLanguage": "de",
 						"name": "Der Verrat",
 						"datePublished": "1996-08-23"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/State_of_Flux"
 					},
 					"director": {
 						"@type": "Person",
@@ -332,6 +432,16 @@
 						"name": "Helden und Dämonen",
 						"datePublished": "1996-08-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Heroes_and_Demons"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -355,6 +465,16 @@
 						"inLanguage": "de",
 						"name": "Bewusstseinsverlust",
 						"datePublished": "1996-09-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cathexis_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -380,6 +500,16 @@
 						"name": "Von Angesicht zu Angesicht",
 						"datePublished": "1996-09-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Faces_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -404,6 +534,16 @@
 						"name": "Dr. Jetrels Experiment",
 						"datePublished": "1996-09-20"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Jetrel"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -427,6 +567,16 @@
 						"inLanguage": "de",
 						"name": "Erfahrungswerte",
 						"datePublished": "1996-09-27"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Learning_Curve_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -470,6 +620,16 @@
 						"name": "Die 37er",
 						"datePublished": "1996-10-25"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_37%27s"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -493,6 +653,16 @@
 						"inLanguage": "de",
 						"name": "Der Namenlose",
 						"datePublished": "1996-11-01"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Initiations_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -518,6 +688,16 @@
 						"name": "Das Holo-Syndrom",
 						"datePublished": "1996-10-04"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Projections_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -542,6 +722,16 @@
 						"name": "Elogium",
 						"datePublished": "1996-10-11"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Elogium_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -562,6 +752,16 @@
 						"inLanguage": "de",
 						"name": "Der Zeitstrom",
 						"datePublished": "1996-11-08"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Non_Sequitur_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -587,6 +787,16 @@
 						"name": "Die Raumverzerrung",
 						"datePublished": "1996-10-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Twisted_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -610,6 +820,16 @@
 						"inLanguage": "de",
 						"name": "Der Höllenplanet",
 						"datePublished": "1996-11-15"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Parturition_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -635,6 +855,16 @@
 						"name": "Rätselhafte Visionen",
 						"datePublished": "1996-11-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Persistence_of_Vision_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -658,6 +888,16 @@
 						"inLanguage": "de",
 						"name": "Tattoo",
 						"datePublished": "1997-01-10"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tattoo_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -683,6 +923,16 @@
 						"name": "Suspiria",
 						"datePublished": "1997-01-17"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cold_Fire_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -707,6 +957,16 @@
 						"name": "Das Signal",
 						"datePublished": "1997-01-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Maneuvers_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -727,6 +987,16 @@
 						"inLanguage": "de",
 						"name": "Die Resistance",
 						"datePublished": "1997-01-31"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Resistance_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -763,6 +1033,16 @@
 						"name": "Prototyp",
 						"datePublished": "1997-02-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prototype_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -787,6 +1067,16 @@
 						"name": "Allianzen",
 						"datePublished": "1997-06-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Alliances_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -810,6 +1100,16 @@
 						"inLanguage": "de",
 						"name": "Die Schwelle",
 						"datePublished": "1997-07-05"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Threshold_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -860,6 +1160,16 @@
 						"name": "Gewalt",
 						"datePublished": "1997-07-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Meld_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -884,6 +1194,16 @@
 						"name": "Der Flugkörper",
 						"datePublished": "1997-07-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dreadnought_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -907,6 +1227,16 @@
 						"inLanguage": "de",
 						"name": "Todessehnsucht",
 						"datePublished": "1997-07-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Death_Wish_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -945,6 +1275,16 @@
 						"name": "Lebensanzeichen",
 						"datePublished": "1997-08-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Lifesigns_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -968,6 +1308,16 @@
 						"inLanguage": "de",
 						"name": "Der Verräter",
 						"datePublished": "1998-02-27"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Investigations_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -993,6 +1343,16 @@
 						"name": "Die Verdoppelung",
 						"datePublished": "1998-03-06"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Deadlock_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1017,6 +1377,16 @@
 						"name": "Unschuld",
 						"datePublished": "1998-03-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Innocence_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -1040,6 +1410,16 @@
 						"inLanguage": "de",
 						"name": "Das Ultimatum",
 						"datePublished": "1998-03-20"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Thaw_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1075,6 +1455,16 @@
 						"name": "Tuvix",
 						"datePublished": "1998-03-27"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tuvix"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1099,6 +1489,16 @@
 						"name": "Entscheidungen",
 						"datePublished": "1998-04-03"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Resolutions_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -1122,6 +1522,16 @@
 						"inLanguage": "de",
 						"name": "Der Kampf ums Dasein – Teil 1",
 						"datePublished": "1998-04-17"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Basics_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1165,6 +1575,16 @@
 						"name": "Der Kampf ums Dasein – Teil 2",
 						"datePublished": "1998-04-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Basics_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1188,6 +1608,16 @@
 						"inLanguage": "de",
 						"name": "Tuvoks Flashback",
 						"datePublished": "1998-05-08"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Flashback_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1226,6 +1656,16 @@
 						"name": "Das Hochsicherheits­gefängnis",
 						"datePublished": "1998-05-15"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Chute"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1249,6 +1689,16 @@
 						"inLanguage": "de",
 						"name": "Der Schwarm",
 						"datePublished": "1998-05-22"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Swarm_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1274,6 +1724,16 @@
 						"name": "Das Wurmloch",
 						"datePublished": "1998-05-29"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/False_Profits"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1297,6 +1757,16 @@
 						"inLanguage": "de",
 						"name": "Das Erinnern",
 						"datePublished": "1998-06-05"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Remember_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1322,6 +1792,16 @@
 						"name": "Das Ritual",
 						"datePublished": "1998-06-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Sacred_Ground_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
@@ -1342,6 +1822,16 @@
 						"inLanguage": "de",
 						"name": "Vor dem Ende der Zukunft – Teil 1",
 						"datePublished": "1998-06-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Future%27s_End"
 					},
 					"director": {
 						"@type": "Person",
@@ -1366,6 +1856,16 @@
 						"inLanguage": "de",
 						"name": "Vor dem Ende der Zukunft – Teil 2",
 						"datePublished": "1998-06-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Future%27s_End"
 					},
 					"director": {
 						"@type": "Person",
@@ -1408,6 +1908,16 @@
 						"name": "Der Kriegsherr",
 						"datePublished": "1998-06-26"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Warlord_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1431,6 +1941,16 @@
 						"inLanguage": "de",
 						"name": "Die „Q“-Krise",
 						"datePublished": "1998-07-03"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Q_and_the_Grey"
 					},
 					"director": {
 						"@type": "Person",
@@ -1469,6 +1989,16 @@
 						"name": "Makrokosmos",
 						"datePublished": "1998-07-10"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Macrocosm_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -1492,6 +2022,16 @@
 						"inLanguage": "de",
 						"name": "Das Wagnis",
 						"datePublished": "1998-07-17"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fair_Trade_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1517,6 +2057,16 @@
 						"name": "Das andere Ego",
 						"datePublished": "1998-07-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Alter_Ego_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
@@ -1540,6 +2090,16 @@
 						"inLanguage": "de",
 						"name": "Der Wille",
 						"datePublished": "1998-08-07"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Coda_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1565,6 +2125,16 @@
 						"name": "Pon Farr",
 						"datePublished": "1998-08-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Blood_Fever_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
@@ -1585,6 +2155,16 @@
 						"inLanguage": "de",
 						"name": "Die Kooperative",
 						"datePublished": "1998-08-14"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Unity_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1623,6 +2203,16 @@
 						"name": "Charakterelemente",
 						"datePublished": "1998-08-14"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Darkling_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -1646,6 +2236,16 @@
 						"inLanguage": "de",
 						"name": "Die Asteroiden",
 						"datePublished": "1998-08-21"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rise_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1671,6 +2271,16 @@
 						"name": "Die neue Identität",
 						"datePublished": "1998-08-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Favorite_Son_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
@@ -1691,6 +2301,16 @@
 						"inLanguage": "de",
 						"name": "Temporale Sprünge",
 						"datePublished": "1998-09-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Before_and_After_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1715,6 +2335,16 @@
 						"inLanguage": "de",
 						"name": "Das wirkliche Leben",
 						"datePublished": "1998-09-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Real_Life_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1753,6 +2383,16 @@
 						"name": "Herkunft aus der Ferne",
 						"datePublished": "1998-09-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Distant_Origin"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1777,6 +2417,16 @@
 						"name": "Translokalisation",
 						"datePublished": "1998-09-25"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Displaced_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1800,6 +2450,16 @@
 						"inLanguage": "de",
 						"name": "Rebellion Alpha",
 						"datePublished": "1998-10-23"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Worst_Case_Scenario_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1837,6 +2497,16 @@
 						"inLanguage": "de",
 						"name": "Skorpion – Teil 1",
 						"datePublished": "1998-10-16"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Scorpion_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1880,6 +2550,16 @@
 						"name": "Skorpion – Teil 2",
 						"datePublished": "1998-10-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Scorpion_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1921,6 +2601,16 @@
 						"name": "Die Gabe",
 						"datePublished": "1998-10-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Gift_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
@@ -1944,6 +2634,16 @@
 						"inLanguage": "de",
 						"name": "Tag der Ehre",
 						"datePublished": "1998-11-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Day_of_Honor_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1969,6 +2669,16 @@
 						"name": "Nemesis",
 						"datePublished": "1998-11-20"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Nemesis_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -1993,6 +2703,16 @@
 						"name": "Der Isomorph",
 						"datePublished": "1998-11-27"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Revulsion_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
@@ -2016,6 +2736,16 @@
 						"inLanguage": "de",
 						"name": "Der schwarze Vogel",
 						"datePublished": "1998-12-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Raven_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2054,6 +2784,16 @@
 						"name": "Verwerfliche Experimente",
 						"datePublished": "1998-12-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Scientific_Method_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2078,6 +2818,16 @@
 						"name": "Ein Jahr Hölle – Teil 1",
 						"datePublished": "1999-01-08"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Year_of_Hell"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -2101,6 +2851,16 @@
 						"inLanguage": "de",
 						"name": "Ein Jahr Hölle – Teil 2",
 						"datePublished": "1999-01-08"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Year_of_Hell"
 					},
 					"director": {
 						"@type": "Person",
@@ -2144,6 +2904,16 @@
 						"name": "Gewalttätige Gedanken",
 						"datePublished": "1999-01-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Random_Thoughts_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -2167,6 +2937,16 @@
 						"inLanguage": "de",
 						"name": "Apropos Fliegen",
 						"datePublished": "1999-01-29"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Concerning_Flight"
 					},
 					"director": {
 						"@type": "Person",
@@ -2192,6 +2972,16 @@
 						"name": "Leben nach dem Tod",
 						"datePublished": "1999-02-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Mortal_Coil_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -2215,6 +3005,16 @@
 						"inLanguage": "de",
 						"name": "Wache Momente",
 						"datePublished": "1999-02-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Waking_Moments"
 					},
 					"director": {
 						"@type": "Person",
@@ -2240,6 +3040,16 @@
 						"name": "Flaschenpost",
 						"datePublished": "1999-02-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Message_in_a_Bottle_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
@@ -2263,6 +3073,16 @@
 						"inLanguage": "de",
 						"name": "Jäger",
 						"datePublished": "1999-02-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Hunters_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2288,6 +3108,16 @@
 						"name": "Die Beute",
 						"datePublished": "1999-03-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prey_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
@@ -2311,6 +3141,16 @@
 						"inLanguage": "de",
 						"name": "Im Rückblick",
 						"datePublished": "1999-03-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Retrospect_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2336,6 +3176,16 @@
 						"name": "Das Tötungsspiel (1)",
 						"datePublished": "1998-12-04"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Killing_Game_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2359,6 +3209,16 @@
 						"inLanguage": "de",
 						"name": "Das Tötungsspiel (2)",
 						"datePublished": "1998-12-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Killing_Game_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2384,6 +3244,16 @@
 						"name": "Vis à vis",
 						"datePublished": "1999-03-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Vis_%C3%A0_Vis_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
@@ -2407,6 +3277,16 @@
 						"inLanguage": "de",
 						"name": "Die Omega-Direktive",
 						"datePublished": "1999-03-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Omega_Directive"
 					},
 					"director": {
 						"@type": "Person",
@@ -2432,6 +3312,16 @@
 						"name": "Unvergessen",
 						"datePublished": "1999-04-09"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Unforgettable_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
@@ -2455,6 +3345,16 @@
 						"inLanguage": "de",
 						"name": "Der Zeitzeuge",
 						"datePublished": "1999-04-16"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Living_Witness"
 					},
 					"director": {
 						"@type": "Person",
@@ -2480,6 +3380,16 @@
 						"name": "Dämon",
 						"datePublished": "1999-04-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Demon_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
@@ -2504,6 +3414,16 @@
 						"name": "Eine",
 						"datePublished": "1999-04-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/One_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
@@ -2527,6 +3447,16 @@
 						"inLanguage": "de",
 						"name": "In Furcht und Hoffnung",
 						"datePublished": "1999-05-07"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Hope_and_Fear"
 					},
 					"director": {
 						"@type": "Person",
@@ -2570,6 +3500,16 @@
 						"name": "Nacht",
 						"datePublished": "2000-04-01"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Night_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2593,6 +3533,16 @@
 						"inLanguage": "de",
 						"name": "Die Drohne",
 						"datePublished": "2000-04-08"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Drone_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2631,6 +3581,16 @@
 						"name": "Extreme Risiken",
 						"datePublished": "2000-04-15"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Extreme_Risk_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2655,6 +3615,16 @@
 						"name": "In Fleisch und Blut",
 						"datePublished": "2000-04-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_the_Flesh_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2676,6 +3646,16 @@
 						"name": "Es war einmal",
 						"datePublished": "2000-04-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
@@ -2696,6 +3676,16 @@
 						"inLanguage": "de",
 						"name": "Temporale Paradoxie",
 						"datePublished": "2000-04-29"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Timeless_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2735,6 +3725,16 @@
 						"name": "Das Vinculum",
 						"datePublished": "2000-05-06"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Infinite_Regress_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2755,6 +3755,16 @@
 						"inLanguage": "de",
 						"name": "Inhumane Praktiken",
 						"datePublished": "2000-05-20"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2777,6 +3787,16 @@
 						"name": "Dreißig Tage",
 						"datePublished": "2000-05-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Thirty_Days_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2798,6 +3818,16 @@
 						"name": "Kontrapunkt",
 						"datePublished": "2000-05-27"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Counterpoint_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2818,6 +3848,16 @@
 						"inLanguage": "de",
 						"name": "Verborgene Bilder",
 						"datePublished": "2000-06-03"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Latent_Image_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2842,6 +3882,16 @@
 						"inLanguage": "de",
 						"name": "Chaoticas Braut",
 						"datePublished": "2000-06-17"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Bride_of_Chaotica!"
 					},
 					"director": {
 						"@type": "Person",
@@ -2877,6 +3927,16 @@
 						"name": "Schwere",
 						"datePublished": "2000-08-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Gravity_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -2897,6 +3957,16 @@
 						"inLanguage": "de",
 						"name": "Euphorie",
 						"datePublished": "2000-07-01"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Bliss_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2919,6 +3989,16 @@
 						"name": "Das ungewisse Dunkel (1)",
 						"datePublished": "1999-12-11"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dark_Frontier"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2939,6 +4019,16 @@
 						"inLanguage": "de",
 						"name": "Das ungewisse Dunkel (2)",
 						"datePublished": "1999-12-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dark_Frontier"
 					},
 					"director": {
 						"@type": "Person",
@@ -2978,6 +4068,16 @@
 						"name": "Das Generationenschiff",
 						"datePublished": "2000-07-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Disease"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2998,6 +4098,16 @@
 						"inLanguage": "de",
 						"name": "Endstation: Vergessenheit",
 						"datePublished": "2000-07-29"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Course:_Oblivion"
 					},
 					"director": {
 						"@type": "Person",
@@ -3020,6 +4130,16 @@
 						"name": "Der Fight",
 						"datePublished": "2000-06-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Fight_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3040,6 +4160,16 @@
 						"inLanguage": "de",
 						"name": "Die Denkfabrik",
 						"datePublished": "2000-08-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Think_Tank_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3062,6 +4192,16 @@
 						"name": "Verheerende Gewalt",
 						"datePublished": "2000-08-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Juggernaut_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -3082,6 +4222,16 @@
 						"inLanguage": "de",
 						"name": "Liebe inmitten der Sterne",
 						"datePublished": "2000-08-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Someone_to_Watch_Over_Me_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3104,6 +4254,16 @@
 						"name": "23:59",
 						"datePublished": "2000-09-02"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/11:59_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3124,6 +4284,16 @@
 						"inLanguage": "de",
 						"name": "Zeitschiff Relativity",
 						"datePublished": "2000-09-09"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Relativity_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3160,6 +4330,16 @@
 						"name": "Geheimnisvolle Intelligenz",
 						"datePublished": "2000-09-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Warhead_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
@@ -3180,6 +4360,16 @@
 						"inLanguage": "de",
 						"name": "Equinox – Teil 1",
 						"datePublished": "2000-10-14"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Equinox_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3220,6 +4410,16 @@
 						"name": "Equinox – Teil 2",
 						"datePublished": "2000-10-14"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Equinox_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3243,6 +4443,16 @@
 						"inLanguage": "de",
 						"name": "Überlebensinstinkt",
 						"datePublished": "2000-10-21"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Survival_Instinct_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3268,6 +4478,16 @@
 						"name": "Die Barke der Toten",
 						"datePublished": "2000-10-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Barge_of_the_Dead_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -3291,6 +4511,16 @@
 						"inLanguage": "de",
 						"name": "Dame, Doktor, Ass, Spion",
 						"datePublished": "2000-11-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tinker,_Tenor,_Doctor,_Spy"
 					},
 					"director": {
 						"@type": "Person",
@@ -3316,6 +4546,16 @@
 						"name": "Alice",
 						"datePublished": "2000-11-11"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Alice_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3339,6 +4579,16 @@
 						"inLanguage": "de",
 						"name": "Rätsel",
 						"datePublished": "2000-11-18"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Riddles_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3364,6 +4614,16 @@
 						"name": "Die Zähne des Drachen",
 						"datePublished": "2000-11-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dragon%27s_Teeth_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3387,6 +4647,16 @@
 						"inLanguage": "de",
 						"name": "Ein kleiner Schritt",
 						"datePublished": "2000-12-01"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/One_Small_Step_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3412,6 +4682,16 @@
 						"name": "Die Voyager-Konspiration",
 						"datePublished": "2000-12-08"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Voyager_Conspiracy"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -3435,6 +4715,16 @@
 						"inLanguage": "de",
 						"name": "Das Pfadfinder-Projekt",
 						"datePublished": "2000-12-15"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Pathfinder_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3460,6 +4750,16 @@
 						"name": "Fair Haven",
 						"datePublished": "2000-12-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fair_Haven_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -3483,6 +4783,16 @@
 						"inLanguage": "de",
 						"name": "Es geschah in einem Augenblick",
 						"datePublished": "2000-12-30"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Blink_of_an_Eye_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3508,6 +4818,16 @@
 						"name": "Der Virtuose",
 						"datePublished": "2001-02-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Virtuoso_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3531,6 +4851,16 @@
 						"inLanguage": "de",
 						"name": "Das Mahnmal",
 						"datePublished": "2001-03-02"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Memorial_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3556,6 +4886,16 @@
 						"name": "Tsunkatse",
 						"datePublished": "2001-03-09"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tsunkatse"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -3579,6 +4919,16 @@
 						"inLanguage": "de",
 						"name": "Kollektiv",
 						"datePublished": "2001-03-16"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Collective_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3617,6 +4967,16 @@
 						"name": "Das Geistervolk",
 						"datePublished": "2001-03-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Spirit_Folk_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3641,6 +5001,16 @@
 						"name": "Asche zu Asche",
 						"datePublished": "2001-03-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Ashes_to_Ashes_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -3664,6 +5034,16 @@
 						"inLanguage": "de",
 						"name": "Icheb",
 						"datePublished": "2001-04-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Child%27s_Play_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3702,6 +5082,16 @@
 						"name": "Der gute Hirte",
 						"datePublished": "2001-04-20"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Good_Shepherd_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3725,6 +5115,16 @@
 						"inLanguage": "de",
 						"name": "Lebe flott und in Frieden",
 						"datePublished": "2001-04-27"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Live_Fast_and_Prosper"
 					},
 					"director": {
 						"@type": "Person",
@@ -3750,6 +5150,16 @@
 						"name": "Die Muse",
 						"datePublished": "2001-05-04"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Muse_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -3773,6 +5183,16 @@
 						"inLanguage": "de",
 						"name": "Voller Wut",
 						"datePublished": "2001-05-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fury_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -3798,6 +5218,16 @@
 						"name": "Rettungsanker",
 						"datePublished": "2001-05-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Life_Line_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -3822,6 +5252,16 @@
 						"name": "Der Spuk auf Deck Zwölf",
 						"datePublished": "2001-06-15"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Haunting_of_Deck_Twelve_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3845,6 +5285,16 @@
 						"inLanguage": "de",
 						"name": "Unimatrix Zero – Teil 1",
 						"datePublished": "2001-06-01"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Unimatrix_Zero"
 					},
 					"director": {
 						"@type": "Person",
@@ -3888,6 +5338,16 @@
 						"name": "Unimatrix Zero – Teil 2",
 						"datePublished": "2001-06-08"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Unimatrix_Zero"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -3929,6 +5389,16 @@
 						"name": "Unvollkommenheit",
 						"datePublished": "2001-06-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Imperfection_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3966,6 +5436,16 @@
 						"name": "Das Rennen",
 						"datePublished": "2001-06-29"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Drive_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3989,6 +5469,16 @@
 						"inLanguage": "de",
 						"name": "Verdrängung",
 						"datePublished": "2001-07-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Repression_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4014,6 +5504,16 @@
 						"name": "Kritische Versorgung",
 						"datePublished": "2001-07-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Critical_Care_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -4037,6 +5537,16 @@
 						"inLanguage": "de",
 						"name": "Eingeschleust",
 						"datePublished": "2001-07-20"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Inside_Man_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4062,6 +5572,16 @@
 						"name": "Körper und Seele",
 						"datePublished": "2001-07-27"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Body_and_Soul_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
@@ -4085,6 +5605,16 @@
 						"inLanguage": "de",
 						"name": "Nightingale",
 						"datePublished": "2001-08-03"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Nightingale_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4110,6 +5640,16 @@
 						"name": "Fleisch und Blut – Teil 1",
 						"datePublished": "2001-08-10"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Flesh_and_Blood_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4133,6 +5673,16 @@
 						"inLanguage": "de",
 						"name": "Fleisch und Blut – Teil 2",
 						"datePublished": "2001-08-24"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Flesh_and_Blood_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4158,6 +5708,16 @@
 						"name": "Zersplittert",
 						"datePublished": "2001-08-31"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shattered_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
@@ -4181,6 +5741,16 @@
 						"inLanguage": "de",
 						"name": "Abstammung",
 						"datePublished": "2001-09-07"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Lineage_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4206,6 +5776,16 @@
 						"name": "Reue",
 						"datePublished": "2001-09-14"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Repentance_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4229,6 +5809,16 @@
 						"inLanguage": "de",
 						"name": "Die Prophezeiung",
 						"datePublished": "2001-09-21"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prophecy_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4254,6 +5844,16 @@
 						"name": "Die Leere",
 						"datePublished": "2001-09-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Void_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4278,6 +5878,16 @@
 						"name": "Arbeiterschaft – Teil 1",
 						"datePublished": "2001-10-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4301,6 +5911,16 @@
 						"inLanguage": "de",
 						"name": "Arbeiterschaft – Teil 2",
 						"datePublished": "2001-10-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4343,6 +5963,16 @@
 						"name": "Menschliche Fehler",
 						"datePublished": "2001-10-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Human_Error_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4366,6 +5996,16 @@
 						"inLanguage": "de",
 						"name": "Q2",
 						"datePublished": "2001-10-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Q2_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4404,6 +6044,16 @@
 						"name": "Die Veröffentlichung",
 						"datePublished": "2002-01-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Author,_Author_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -4441,6 +6091,16 @@
 						"name": "Friendship One",
 						"datePublished": "2002-01-25"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Friendship_One_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4464,6 +6124,16 @@
 						"inLanguage": "de",
 						"name": "Ein natürliches Gesetz",
 						"datePublished": "2002-02-01"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Natural_Law_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4489,6 +6159,16 @@
 						"name": "Eine Heimstätte",
 						"datePublished": "2002-02-08"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Homestead_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -4512,6 +6192,16 @@
 						"inLanguage": "de",
 						"name": "Renaissancemensch",
 						"datePublished": "2002-06-02"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Renaissance_Man_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
@@ -4537,6 +6227,16 @@
 						"name": "Endspiel – Teil 1",
 						"datePublished": "2002-02-15"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Endgame_(Star_Trek:_Voyager)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4560,6 +6260,16 @@
 						"inLanguage": "de",
 						"name": "Endspiel – Teil 2",
 						"datePublished": "2002-02-22"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Endgame_(Star_Trek:_Voyager)"
 					},
 					"director": {
 						"@type": "Person",
