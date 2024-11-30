@@ -234,6 +234,41 @@
 											<p property="<?= htmlSpecialChars($plotType) ?>">
 												<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
 											</p>
+											<?php if ($movie['subjectOf']): ?>
+												<p>
+													<?php if ($plotLang == 'de'): ?>
+														siehe auch:
+													<?php else: ?>
+														see also:
+													<?php endif; ?>
+													<?php if ($movie['subjectOf']['url']): ?>
+														<span property="subjectOf" typeof="Webpage">
+															<a
+																property="url"
+																href="<?= htmlSpecialChars($movie['subjectOf']['url']) ?>"
+															>
+																<?= htmlSpecialChars($movie['subjectOf']['publisher']['name']) ?>
+																(<?= htmlSpecialChars($movie['subjectOf']['inLanguage']) ?>)
+															</a>
+														</span>
+													<?php else: ?>
+														<?php foreach ($movie['subjectOf'] as $index => $source): ?>
+															<?php if ($index): ?>
+																&amp;
+															<?php endif; ?>
+															<span property="subjectOf" typeof="Webpage">
+																<a
+																	property="url"
+																	href="<?= htmlSpecialChars($source['url']) ?>"
+																>
+																	<?= htmlSpecialChars($source['publisher']['name']) ?>
+																	(<?= htmlSpecialChars($source['inLanguage']) ?>)
+																</a>
+															</span>
+														<?php endforeach; ?>
+													<?php endif; ?>
+												</p>
+											<?php endif; ?>
 										</details>
 									</td>
 								<?php else: ?>
