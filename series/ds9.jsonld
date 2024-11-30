@@ -2776,18 +2776,16 @@
 						"name": "Trekors Prophezeiung",
 						"datePublished": "1996-03-02"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Destiny_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Destiny_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2809,18 +2807,16 @@
 						"name": "Das Motiv der Propheten",
 						"datePublished": "1996-03-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Prophet_Motive"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prophet_Motive"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -2842,18 +2838,16 @@
 						"name": "Der Visionär",
 						"datePublished": "1996-03-05"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Visionary_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Visionary_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
@@ -2875,18 +2869,16 @@
 						"name": "Ferne Stimmen",
 						"datePublished": "1996-03-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Distant_Voices_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Distant_Voices_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -2908,18 +2900,16 @@
 						"name": "Durch den Spiegel",
 						"datePublished": "1996-03-07"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Through_the_Looking_Glass_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Through_the_Looking_Glass_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2941,18 +2931,16 @@
 						"name": "Der geheimnisvolle Garak – Teil 1",
 						"datePublished": "1996-03-08"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Improbable_Cause"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Improbable_Cause"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -2974,18 +2962,16 @@
 						"name": "Der geheimnisvolle Garak – Teil 2",
 						"datePublished": "1996-03-09"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Die_Is_Cast_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Die_Is_Cast_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3007,18 +2993,16 @@
 						"name": "Die Erforscher",
 						"datePublished": "1996-03-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Explorers_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Explorers_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3040,18 +3024,16 @@
 						"name": "Familienangelegenheiten",
 						"datePublished": "1996-03-12"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Family_Business_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Family_Business_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -3073,18 +3055,16 @@
 						"name": "Shakaar",
 						"datePublished": "1996-03-13"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Shakaar"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shakaar"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -3106,18 +3086,16 @@
 						"name": "Facetten",
 						"datePublished": "1996-03-14"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Facets_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Facets_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3139,18 +3117,16 @@
 						"name": "Der Widersacher",
 						"datePublished": "1996-03-15"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Adversary_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Adversary_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3190,18 +3166,16 @@
 						"name": "Der Weg des Kriegers",
 						"datePublished": "1996-10-15"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Way_of_the_Warrior_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Way_of_the_Warrior_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -3223,18 +3197,16 @@
 						"name": "Der Besuch",
 						"datePublished": "1996-10-16"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3269,18 +3241,16 @@
 						"name": "Der hippokratische Eid",
 						"datePublished": "1996-10-17"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Hippocratic_Oath_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Hippocratic_Oath_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -3302,18 +3272,16 @@
 						"name": "Indiskretion",
 						"datePublished": "1996-10-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Indiscretion_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Indiscretion_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3335,18 +3303,16 @@
 						"name": "Wiedervereinigt",
 						"datePublished": "1996-10-19"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Rejoined"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rejoined"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -3368,18 +3334,16 @@
 						"name": "Das Wagnis",
 						"datePublished": "1996-10-22"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Starship_Down"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Starship_Down"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -3401,18 +3365,16 @@
 						"name": "Kleine grüne Männchen",
 						"datePublished": "1996-10-21"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Little_Green_Men_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Little_Green_Men_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3434,18 +3396,16 @@
 						"name": "Das Schwert des Kahless",
 						"datePublished": "1996-10-23"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Sword_of_Kahless"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Sword_of_Kahless"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3467,18 +3427,16 @@
 						"name": "Unser Mann Bashir",
 						"datePublished": "1996-10-24"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Our_Man_Bashir"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Our_Man_Bashir"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3513,18 +3471,16 @@
 						"name": "Die Front (1)",
 						"datePublished": "1996-10-25"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Homefront_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Homefront_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3546,18 +3502,16 @@
 						"name": "Das verlorene Paradies (2)",
 						"datePublished": "1996-10-26"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Paradise_Lost_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Paradise_Lost_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
@@ -3579,18 +3533,16 @@
 						"name": "Emotionen",
 						"datePublished": "1996-10-28"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Crossfire_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Crossfire_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3612,18 +3564,16 @@
 						"name": "Zu neuer Würde",
 						"datePublished": "1996-10-29"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Return_to_Grace"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Return_to_Grace"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -3645,18 +3595,16 @@
 						"name": "Die Söhne von Mogh",
 						"datePublished": "1996-10-30"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Sons_of_Mogh"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Sons_of_Mogh"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3678,18 +3626,16 @@
 						"name": "Der Streik",
 						"datePublished": "1996-10-31"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Bar_Association_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Bar_Association_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3724,18 +3670,16 @@
 						"name": "Die Übernahme",
 						"datePublished": "1996-11-01"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Accession_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Accession_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3757,18 +3701,16 @@
 						"name": "Das Gefecht",
 						"datePublished": "1996-11-02"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Rules_of_Engagement_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rules_of_Engagement_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3790,18 +3732,16 @@
 						"name": "Strafzyklen",
 						"datePublished": "1996-11-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Hard_Time_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Hard_Time_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3823,18 +3763,16 @@
 						"name": "Der zerbrochene Spiegel",
 						"datePublished": "1996-11-05"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Shattered_Mirror_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shattered_Mirror_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -3856,18 +3794,16 @@
 						"name": "Die Muse",
 						"datePublished": "1996-11-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Muse_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Muse_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -3889,18 +3825,16 @@
 						"name": "In eigener Sache",
 						"datePublished": "1996-11-07"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/For_the_Cause_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/For_the_Cause_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -3922,18 +3856,16 @@
 						"name": "Die Abtrünnigen",
 						"datePublished": "1996-11-08"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/To_the_Death_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/To_the_Death_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3955,18 +3887,16 @@
 						"name": "Hoffnung",
 						"datePublished": "1996-11-09"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Quickening_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Quickening_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -3988,18 +3918,16 @@
 						"name": "Quarks Schicksal",
 						"datePublished": "1996-11-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Body_Parts_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Body_Parts_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -4021,18 +3949,16 @@
 						"name": "Das Urteil",
 						"datePublished": "1996-11-12"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Broken_Link_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Broken_Link_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -4072,18 +3998,16 @@
 						"name": "Die Apokalypse droht",
 						"datePublished": "1998-02-19"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Apocalypse_Rising"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Apocalypse_Rising"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -4105,18 +4029,16 @@
 						"name": "Das Schiff",
 						"datePublished": "1998-02-20"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Ship_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Ship_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -4138,18 +4060,16 @@
 						"name": "Gefährliche Liebschaften",
 						"datePublished": "1998-02-23"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Looking_for_Par%27mach_in_All_the_Wrong_Places"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Looking_for_Par%27mach_in_All_the_Wrong_Places"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewJRobinson",
@@ -4171,18 +4091,16 @@
 						"name": "Die Schlacht um Ajilon Prime",
 						"datePublished": "1998-02-24"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/...Nor_the_Battle_to_the_Strong"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/...Nor_the_Battle_to_the_Strong"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -4204,18 +4122,16 @@
 						"name": "Die Erpressung",
 						"datePublished": "1998-02-25"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Assignment_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Assignment_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4237,18 +4153,16 @@
 						"name": "Immer die Last mit den Tribbles",
 						"datePublished": "1997-12-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Trials_and_Tribble-ations"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Trials_and_Tribble-ations"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -4283,18 +4197,16 @@
 						"name": "Die Reise nach Risa",
 						"datePublished": "1998-02-27"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Let_He_Who_Is_Without_Sin..."
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Let_He_Who_Is_Without_Sin..."
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -4316,18 +4228,16 @@
 						"name": "Die Schuld",
 						"datePublished": "1998-03-02"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Things_Past_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Things_Past_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -4349,18 +4259,16 @@
 						"name": "Der Aufstieg",
 						"datePublished": "1998-03-03"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Ascent_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Ascent_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4382,18 +4290,16 @@
 						"name": "Heilige Visionen",
 						"datePublished": "1998-03-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Rapture_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rapture_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -4415,18 +4321,16 @@
 						"name": "Dunkelheit und Licht",
 						"datePublished": "1998-03-05"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Darkness_and_the_Light_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Darkness_and_the_Light_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4448,18 +4352,16 @@
 						"name": "Das Baby",
 						"datePublished": "1998-03-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Begotten"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Begotten"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
@@ -4481,18 +4383,16 @@
 						"name": "Für die Uniform",
 						"datePublished": "1998-03-09"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/For_the_Uniform"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/For_the_Uniform"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
@@ -4514,18 +4414,16 @@
 						"name": "Die Schatten der Hölle (1)",
 						"datePublished": "1998-03-10"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/In_Purgatory%27s_Shadow"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_Purgatory%27s_Shadow"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -4547,18 +4445,16 @@
 						"name": "Im Lichte des Infernos (2)",
 						"datePublished": "1998-03-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/By_Inferno%27s_Light"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/By_Inferno%27s_Light"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -4580,18 +4476,16 @@
 						"name": "Dr. Bashirs Geheimnis",
 						"datePublished": "1998-03-12"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Doctor_Bashir,_I_Presume%3F"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Doctor_Bashir,_I_Presume%3F"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -4613,18 +4507,16 @@
 						"name": "Der Datenkristall",
 						"datePublished": "1998-03-13"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/A_Simple_Investigation"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/A_Simple_Investigation"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnTKretchmer",
@@ -4646,18 +4538,16 @@
 						"name": "Kriegsgeschäfte",
 						"datePublished": "1998-03-14"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Business_as_Usual_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Business_as_Usual_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
@@ -4679,18 +4569,16 @@
 						"name": "Die Überwindung",
 						"datePublished": "1998-03-16"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Ties_of_Blood_and_Water"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Ties_of_Blood_and_Water"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -4712,18 +4600,16 @@
 						"name": "Liebe und Profit",
 						"datePublished": "1998-03-17"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Ferengi_Love_Songs"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Ferengi_Love_Songs"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -4745,18 +4631,16 @@
 						"name": "Martoks Ehre",
 						"datePublished": "1998-03-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Soldiers_of_the_Empire"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Soldiers_of_the_Empire"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -4778,18 +4662,16 @@
 						"name": "Kinder der Zeit",
 						"datePublished": "1998-03-19"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Children_of_Time_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Children_of_Time_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -4825,18 +4707,16 @@
 						"name": "Glanz des Ruhms",
 						"datePublished": "1998-03-20"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Blaze_of_Glory_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Blaze_of_Glory_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -4858,18 +4738,16 @@
 						"name": "Empok Nor",
 						"datePublished": "1998-03-23"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Empok_Nor"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Empok_Nor"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -4891,18 +4769,16 @@
 						"name": "Die Karte",
 						"datePublished": "1998-03-24"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/In_the_Cards"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_the_Cards"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
@@ -4937,18 +4813,16 @@
 						"name": "Zu den Waffen!",
 						"datePublished": "1998-03-25"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Call_to_Arms_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Call_to_Arms_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5001,18 +4875,16 @@
 						"name": "Zeit des Widerstands",
 						"datePublished": "1998-05-09"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/A_Time_to_Stand"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/A_Time_to_Stand"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5034,18 +4906,16 @@
 						"name": "Entscheidungen",
 						"datePublished": "1998-05-16"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Rocks_and_Shoals_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rocks_and_Shoals_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -5067,18 +4937,16 @@
 						"name": "Söhne und Töchter",
 						"datePublished": "1998-05-23"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Sons_and_Daughters_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Sons_and_Daughters_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
@@ -5100,18 +4968,16 @@
 						"name": "Hinter der Linie",
 						"datePublished": "1998-05-30"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Behind_the_Lines_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Behind_the_Lines_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -5133,18 +4999,16 @@
 						"name": "Ein kühner Plan (1)",
 						"datePublished": "1998-06-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Favor_the_Bold"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Favor_the_Bold"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -5166,18 +5030,16 @@
 						"name": "Sieg oder Niederlage? (2)",
 						"datePublished": "1998-06-13"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Sacrifice_of_Angels"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Sacrifice_of_Angels"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5199,18 +5061,16 @@
 						"name": "Klingonische Tradition",
 						"datePublished": "1998-06-20"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/You_Are_Cordially_Invited"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/You_Are_Cordially_Invited"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -5232,18 +5092,16 @@
 						"name": "Erkenntnis",
 						"datePublished": "1998-06-27"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Resurrection_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Resurrection_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -5265,18 +5123,16 @@
 						"name": "Statistische Wahrscheinlichkeiten",
 						"datePublished": "1998-07-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Statistical_Probabilities"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Statistical_Probabilities"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
@@ -5298,18 +5154,16 @@
 						"name": "Der glorreiche Ferengi",
 						"datePublished": "1998-07-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Magnificent_Ferengi"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Magnificent_Ferengi"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -5331,18 +5185,16 @@
 						"name": "Das Gute und das Böse",
 						"datePublished": "1998-07-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Waltz_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Waltz_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -5364,18 +5216,16 @@
 						"name": "Wer trauert um Morn?",
 						"datePublished": "1998-07-25"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Who_Mourns_for_Morn%3F"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Who_Mourns_for_Morn%3F"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
@@ -5397,18 +5247,16 @@
 						"name": "Jenseits der Sterne",
 						"datePublished": "1998-08-01"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Far_Beyond_the_Stars"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Far_Beyond_the_Stars"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -5430,18 +5278,16 @@
 						"name": "Das winzige Raumschiff",
 						"datePublished": "1998-08-08"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/One_Little_Ship"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/One_Little_Ship"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5463,18 +5309,16 @@
 						"name": "Ehre unter Dieben",
 						"datePublished": "1998-08-15"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Honor_Among_Thieves_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Honor_Among_Thieves_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
@@ -5496,18 +5340,16 @@
 						"name": "Wandel des Herzens",
 						"datePublished": "1998-08-22"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Change_of_Heart_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Change_of_Heart_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -5529,18 +5371,16 @@
 						"name": "Tiefes Unrecht",
 						"datePublished": "1998-08-29"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Wrongs_Darker_Than_Death_or_Night"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Wrongs_Darker_Than_Death_or_Night"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -5562,18 +5402,16 @@
 						"name": "Inquisition",
 						"datePublished": "1998-09-05"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Inquisition_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Inquisition_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
@@ -5595,18 +5433,16 @@
 						"name": "In fahlem Mondlicht",
 						"datePublished": "1998-09-12"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/In_the_Pale_Moonlight"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_the_Pale_Moonlight"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
@@ -5628,18 +5464,16 @@
 						"name": "Auf seine Art",
 						"datePublished": "1998-09-19"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/His_Way_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/His_Way_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5661,18 +5495,16 @@
 						"name": "Zeit der Abrechnung",
 						"datePublished": "1998-09-26"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Reckoning_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Reckoning_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
@@ -5694,18 +5526,16 @@
 						"name": "Valiant",
 						"datePublished": "1998-10-10"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Valiant_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Valiant_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -5727,18 +5557,16 @@
 						"name": "Die Beraterin",
 						"datePublished": "1998-10-17"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Profit_and_Lace"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Profit_and_Lace"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
@@ -5760,18 +5588,16 @@
 						"name": "Das Zeitportal",
 						"datePublished": "1998-10-24"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Time%27s_Orphan"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Time%27s_Orphan"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5793,18 +5619,16 @@
 						"name": "Der Klang ihrer Stimme",
 						"datePublished": "1998-10-31"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Sound_of_Her_Voice"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Sound_of_Her_Voice"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -5826,18 +5650,16 @@
 						"name": "Tränen der Propheten",
 						"datePublished": "1998-11-07"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Tears_of_the_Prophets"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tears_of_the_Prophets"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5877,18 +5699,16 @@
 						"name": "Das Gesicht im Sand (1)",
 						"datePublished": "1999-09-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Image_in_the_Sand"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Image_in_the_Sand"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -5910,18 +5730,16 @@
 						"name": "Schatten und Symbole (2)",
 						"datePublished": "1999-09-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Shadows_and_Symbols"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shadows_and_Symbols"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -5943,18 +5761,16 @@
 						"name": "Nachempfindung",
 						"datePublished": "1999-09-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Afterimage_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Afterimage_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -5976,18 +5792,16 @@
 						"name": "Wettkampf in der Holosuite",
 						"datePublished": "1999-09-25"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Take_Me_Out_to_the_Holosuite"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Take_Me_Out_to_the_Holosuite"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -6022,18 +5836,16 @@
 						"name": "Sarina",
 						"datePublished": "1999-10-02"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Chrysalis_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Chrysalis_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -6055,18 +5867,16 @@
 						"name": "Verrat, Glaube und gewaltiger Fluss",
 						"datePublished": "1999-10-09"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Treachery,_Faith_and_the_Great_River"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Treachery,_Faith_and_the_Great_River"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
@@ -6088,18 +5898,16 @@
 						"name": "Der Dahar-Meister",
 						"datePublished": "1999-10-16"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Once_More_unto_the_Breach_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Once_More_unto_the_Breach_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -6121,18 +5929,16 @@
 						"name": "Die Belagerung von AR-558",
 						"datePublished": "1999-10-23"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Siege_of_AR-558"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Siege_of_AR-558"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -6154,18 +5960,16 @@
 						"name": "Entscheidung auf Empok Nor",
 						"datePublished": "1999-10-30"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Covenant_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Covenant_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
@@ -6187,18 +5991,16 @@
 						"name": "Leben in der Holosuite",
 						"datePublished": "1999-11-06"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/It%27s_Only_a_Paper_Moon_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/It%27s_Only_a_Paper_Moon_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
@@ -6233,18 +6035,16 @@
 						"name": "Die verlorene Tochter",
 						"datePublished": "1999-11-13"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Prodigal_Daughter_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Prodigal_Daughter_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
@@ -6266,18 +6066,16 @@
 						"name": "Die Tarnvorrichtung",
 						"datePublished": "1999-11-20"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Cloak"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Cloak"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -6299,18 +6097,16 @@
 						"name": "Freies Schussfeld",
 						"datePublished": "1999-11-27"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Field_of_Fire_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Field_of_Fire_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TonyDow",
@@ -6332,18 +6128,16 @@
 						"name": "Hirngespinst",
 						"datePublished": "1999-12-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Chimera_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Chimera_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
@@ -6365,18 +6159,16 @@
 						"name": "Badda-Bing, Badda-Bang",
 						"datePublished": "1999-12-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Badda-Bing,_Badda-Bang"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Badda-Bing,_Badda-Bang"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -6422,18 +6214,16 @@
 						"name": "Im Ungewissen",
 						"datePublished": "2000-01-22"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Penumbra_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Penumbra_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
@@ -6455,18 +6245,16 @@
 						"name": "Bis dass der Tod uns scheide",
 						"datePublished": "2000-01-29"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/%27Til_Death_Do_Us_Part_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/%27Til_Death_Do_Us_Part_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -6488,18 +6276,16 @@
 						"name": "Eine sonderbare Kombination",
 						"datePublished": "2000-02-05"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Strange_Bedfellows_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Strange_Bedfellows_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
@@ -6521,18 +6307,16 @@
 						"name": "Im Angesicht des Bösen",
 						"datePublished": "2000-02-12"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Changing_Face_of_Evil"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Changing_Face_of_Evil"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -6554,18 +6338,16 @@
 						"name": "Ein Unglück kommt selten allein",
 						"datePublished": "2000-02-19"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/When_It_Rains..."
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/When_It_Rains..."
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
@@ -6587,18 +6369,16 @@
 						"name": "Kampf mit allen Mitteln",
 						"datePublished": "2000-02-26"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Tacking_Into_the_Wind"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Tacking_Into_the_Wind"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -6620,18 +6400,16 @@
 						"name": "Extreme Maßnahmen",
 						"datePublished": "2000-03-04"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/Extreme_Measures_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Extreme_Measures_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
@@ -6653,18 +6431,16 @@
 						"name": "In den Wirren des Krieges",
 						"datePublished": "2000-03-11"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/The_Dogs_of_War_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Dogs_of_War_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
@@ -6686,18 +6462,16 @@
 						"name": "Das, was du zurücklässt, Teil 1",
 						"datePublished": "2000-03-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/What_You_Leave_Behind"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/What_You_Leave_Behind"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -6719,18 +6493,16 @@
 						"name": "Das, was du zurücklässt, Teil 2",
 						"datePublished": "2000-03-18"
 					},
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/What_You_Leave_Behind_(Star_Trek:_Deep_Space_Nine)"
-						}
-					],
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/What_You_Leave_Behind_(Star_Trek:_Deep_Space_Nine)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
