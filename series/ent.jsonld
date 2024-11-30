@@ -76,16 +76,28 @@
 						"name": "Aufbruch ins Unbekannte",
 						"datePublished": "2003-03-15"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Broken_Bow_(Star_Trek:_Enterprise)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Broken_Bow_(Star_Trek:_Enterprise)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -94,7 +106,6 @@
 					"abstract": {
 						"de": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | First Episodes",
@@ -1734,16 +1745,28 @@
 						"name": "Die Ausdehnung",
 						"datePublished": "2004-11-27"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Expanse_(Star_Trek:_Enterprise_episode)"
 						},
-						"url": "https://en.wikipedia.org/wiki/The_Expanse_(Star_Trek:_Enterprise_episode)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Ausdehnung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1751,8 +1774,7 @@
 					},
 					"abstract": {
 						"de": "Beim Angriff eines aus der Zukunft angereisten Xindi-Raumschiffes auf die Erde sterben über 7 Millionen Menschen. Durch eine Warnung des zeitreisenden Anführers der Suliban-Kabale, wonach der Erde sogar die gänzliche Zerstörung durch die Xindi drohe, lässt sich die Sternenflottenführung davon überzeugen, dass die Enterprise das zerstörerische Vorhaben der Xindi verhindert. Zu diesem Zweck bricht die Enterprise in die „Delphische Ausdehnung“ auf, eine weit entfernte, gefährliche und wenig erforschte Gegend des Weltraums."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Die_Ausdehnung"
+					}
 				}
 			]
 		},
