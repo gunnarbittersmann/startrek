@@ -66,16 +66,28 @@
 						"name": "Der Fürsorger",
 						"datePublished": "1996-06-21"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Caretaker_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Caretaker_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_F%C3%BCrsorger"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -113,16 +125,28 @@
 						"name": "Die Parallaxe",
 						"datePublished": "1996-06-28"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Parallax_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Parallax_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Parallaxe"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -160,16 +184,28 @@
 						"name": "Subraumspalten",
 						"datePublished": "1996-07-05"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Time_and_Again_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Time_and_Again_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Subraumspalten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -194,16 +230,28 @@
 						"name": "Transplantationen",
 						"datePublished": "1996-07-12"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Phage_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Phage_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Transplantationen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -228,16 +276,28 @@
 						"name": "Der mysteriöse Nebel",
 						"datePublished": "1996-07-19"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Cloud_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/The_Cloud_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_mysteri%C3%B6se_Nebel"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -262,16 +322,28 @@
 						"name": "Das Nadelöhr",
 						"datePublished": "1996-07-26"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Eye_of_the_Needle_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Eye_of_the_Needle_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Nadel%C3%B6hr"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -296,16 +368,28 @@
 						"name": "Die Augen des Toten",
 						"datePublished": "1996-08-02"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Ex_Post_Facto_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Ex_Post_Facto_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Augen_des_Toten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -330,16 +414,28 @@
 						"name": "Das Unvorstellbare",
 						"datePublished": "1996-08-09"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Emanations_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Emanations_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Unvorstellbare"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -364,16 +460,28 @@
 						"name": "Das oberste Gesetz",
 						"datePublished": "1996-08-16"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Prime_Factors_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Prime_Factors_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_oberste_Gesetz"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -398,16 +506,28 @@
 						"name": "Der Verrat",
 						"datePublished": "1996-08-23"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/State_of_Flux"
 						},
-						"url": "https://en.wikipedia.org/wiki/State_of_Flux"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Verrat_(Star_Trek:_Raumschiff_Voyager)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -432,16 +552,28 @@
 						"name": "Helden und Dämonen",
 						"datePublished": "1996-08-30"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Heroes_and_Demons"
 						},
-						"url": "https://en.wikipedia.org/wiki/Heroes_and_Demons"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Helden_und_D%C3%A4monen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -466,16 +598,28 @@
 						"name": "Bewusstseinsverlust",
 						"datePublished": "1996-09-06"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Cathexis_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Cathexis_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Bewusstseinsverlust_(Star_Trek:_Raumschiff_Voyager)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -500,16 +644,28 @@
 						"name": "Von Angesicht zu Angesicht",
 						"datePublished": "1996-09-13"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Faces_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Faces_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Von_Angesicht_zu_Angesicht_(Star_Trek:_Raumschiff_Voyager)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -534,16 +690,28 @@
 						"name": "Dr. Jetrels Experiment",
 						"datePublished": "1996-09-20"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Jetrel"
 						},
-						"url": "https://en.wikipedia.org/wiki/Jetrel"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Dr._Jetrels_Experiment"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
@@ -568,16 +736,28 @@
 						"name": "Erfahrungswerte",
 						"datePublished": "1996-09-27"
 					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Learning_Curve_(Star_Trek:_Voyager)"
 						},
-						"url": "https://en.wikipedia.org/wiki/Learning_Curve_(Star_Trek:_Voyager)"
-					},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Erfahrungswerte"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
