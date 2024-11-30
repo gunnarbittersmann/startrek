@@ -354,19 +354,6 @@ EOT;
 																<?php endforeach; ?>
 															<?php endif; ?>
 														</p>
-													<?php else: ?>
-														<?php if ($episode['sameAs']): ?>
-															<p>
-																<?php if ($plotLang == 'de'): ?>
-																	mehr in der
-																<?php else: ?>
-																	see also
-																<?php endif; ?>
-																<a property="sameAs" href="<?= htmlSpecialChars($episode['sameAs']) ?>">
-																	Wikipedia
-																</a>
-															</p>
-														<?php endif; ?>
 													<?php endif; ?>
 												</details>
 											</td>
