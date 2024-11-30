@@ -1690,8 +1690,7 @@
 					},
 					"abstract": {
 						"de": "Um sich Experimenten des Kybernetikers Maddox zu entziehen, tritt Data aus der Sternenflotte aus. Es folgt ein Gerichtsprozess über die Frage, ob Data Sternenflotteneigentum ist."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Wem_geh%C3%B6rt_Data%3F"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -1993,7 +1992,6 @@
 					"abstract": {
 						"de": "Damit sich die Enterprise-Crew auf kommende Gefahren vorbereitet, versetzt Q das Schiff gegen Picards Willen an einen weit entfernten Teil des Alls, wo es mit den feindlichen Borg konfrontiert wird."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Borg Episodes",
@@ -2978,7 +2976,6 @@
 					"abstract": {
 						"de": "Die Enterprise-D muss – in einen anderen Zeitstrahl versetzt – dafür sorgen, dass die aus einer Raumanomalie erschienene Enterprise-C wieder an ihren Herkunftsort zurückkehrt, damit sich der normale Zeitstrahl wieder einstellt."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Die_alte_Enterprise",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Alternate Timelines",
@@ -3478,8 +3475,7 @@
 					},
 					"abstract": {
 						"de": "Bei der Konfrontation der Enterprise mit einem Borg-Kubus wird Picard von den Borg entführt, um ihnen als Sprecher mit der Föderation, die die Borg assimilieren möchten, zu dienen."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg"
+					}
 				}
 			]
 		},
@@ -3551,7 +3547,6 @@
 					"abstract": {
 						"de": "Auf ihrem Flug zur Erde schlagen die Borg eine Flotte aus Sternenflottenraumschiffen vernichtend. Der Enterprise-Crew gelingt es aber in letzter Sekunde, die Borg von der Assimilation der Erde abzuhalten. Dabei kann sie auch Picard zurückholen."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg",
 					"review": [
 						{
 							"@type": "Review",
@@ -4815,8 +4810,7 @@
 					},
 					"abstract": {
 						"de": "Ein Captain einer nur mit Metaphern kommunizierenden Spezies versucht auf einem Planeten, Picard zur Teilnahme an einem gemeinsamen Kampf gegen ein Monster zu bewegen."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Darmok"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -5521,8 +5515,7 @@
 					},
 					"abstract": {
 						"de": "Die Enterprise ist in einer Zeitschleife gefangen, an deren Ende das Schiff zerstört wird. Daher muss die Crew einen Weg finden, die Schleife zu verlassen und somit die Zerstörung des Schiffes zu verhindern."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu_%28Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert%29"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -5836,8 +5829,7 @@
 					},
 					"abstract": {
 						"de": "Captain Picard durchlebt unter dem Einfluss einer fremden Sonde innerhalb von weniger als einer halben Stunde mehrere Jahrzehnte des Lebens eines Mannes, der zu einer untergehenden Kultur gehört."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Das_zweite_Leben_%28Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert%29"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -8279,7 +8271,6 @@
 					"abstract": {
 						"de": "Picard bewegt sich vor- und rückwärts durch drei verschiedene Zeitperioden und erkennt bald in einer in allen Zeitperioden auftretenden Raumanomalie eine Erklärung dafür, weshalb er die Anomalie zu bekämpfen versucht. Währenddessen kommt er abermals in Kontakt mit Q, der ihn mit der Bewältigung dieser Aufgabe einer Prüfung zur Daseinsberechtigung der Menschheit unterzieht. Nachdem Picard erkannt hat, dass sein Verhalten in der Zukunft ursächlich für die sich rückwärts durch die Zeit bewegende und sich dabei vergrößernde Anomalie ist, erklärt Q den Test für bestanden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen",
 					"subjectOf": [
 						{
 							"@type": "Webpage",
