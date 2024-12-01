@@ -320,16 +320,39 @@ EOT;
 													<p property="<?= htmlSpecialChars($plotType) ?>">
 														<?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
 													</p>
-													<?php if ($episode['sameAs']): ?>
+													<?php if ($episode['subjectOf']): ?>
 														<p>
 															<?php if ($plotLang == 'de'): ?>
-																mehr in der
+																siehe auch:
 															<?php else: ?>
-																see also
+																see also:
 															<?php endif; ?>
-															<a property="sameAs" href="<?= htmlSpecialChars($episode['sameAs']) ?>">
-																Wikipedia
-															</a>
+															<?php if ($episode['subjectOf']['url']): ?>
+																<span property="subjectOf" typeof="Webpage">
+																	<a
+																		property="url"
+																		href="<?= htmlSpecialChars($episode['subjectOf']['url']) ?>"
+																	>
+																		<?= htmlSpecialChars($episode['subjectOf']['publisher']['name']) ?>
+																		(<?= htmlSpecialChars($episode['subjectOf']['inLanguage']) ?>)
+																	</a>
+																</span>
+															<?php else: ?>
+																<?php foreach ($episode['subjectOf'] as $index => $source): ?>
+																	<?php if ($index): ?>
+																		&amp;
+																	<?php endif; ?>
+																	<span property="subjectOf" typeof="Webpage">
+																		<a
+																			property="url"
+																			href="<?= htmlSpecialChars($source['url']) ?>"
+																		>
+																			<?= htmlSpecialChars($source['publisher']['name']) ?>
+																			(<?= htmlSpecialChars($source['inLanguage']) ?>)
+																		</a>
+																	</span>
+																<?php endforeach; ?>
+															<?php endif; ?>
 														</p>
 													<?php endif; ?>
 												</details>
