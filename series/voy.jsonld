@@ -360,7 +360,10 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/voy#1.8",
 					"episodeNumber": "1.8",
-					"name": "Ex Post Facto",
+					"name": {
+						"@value": "Ex Post Facto",
+						"@language": "la"
+					},
 					"datePublished": "1995-02-27",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -925,7 +928,10 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/voy#2.5",
 					"episodeNumber": "2.5",
-					"name": "Non Sequitur",
+					"name": {
+						"@value": "Non Sequitur",
+						"@language": "la"
+					},
 					"datePublished": "1995-09-25",
 					"workTranslation": {
 						"@type": "TVEpisode",

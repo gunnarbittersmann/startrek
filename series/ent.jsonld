@@ -753,12 +753,18 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#1.22",
 					"episodeNumber": "1.22",
-					"name": "Vox Sola",
+					"name": {
+						"@value": "Vox Sola",
+						"@language": "la"
+					},
 					"datePublished": "2002-05-01",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Vox Sola",
+						"name": {
+							"@value": "Vox Sola",
+							"@language": "la"
+						},
 						"datePublished": "2003-08-22"
 					},
 					"subjectOf": {
