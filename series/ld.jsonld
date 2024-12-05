@@ -3025,7 +3025,26 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.8",
 					"episodeNumber": "5.8",
 					"name": "Upper Decks",
-					"datePublished": "2024-12-05"
+					"datePublished": "2024-12-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Upper Decks",
+							"@language": "en"
+						},
+						"datePublished": "2024-12-05"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"name": "Bob Suarez"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CullenCrawford",
+						"name": "Cullen Crawford"
+					}
 				},
 				{
 					"@type": "TVEpisode",
