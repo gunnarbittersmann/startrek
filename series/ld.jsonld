@@ -36,6 +36,7 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
 		}
 	],
+	"numberOfSeasons": 5,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
@@ -2767,6 +2768,9 @@
 						"@id": "https://bittersmann.de/startrek/people#DianaTay",
 						"name": "Diana Tay"
 					},
+					"description": {
+						"en": "The Klingon officer Ma’ah is forced to return to his family farm after being stripped of his captaincy for allowing his crew to mutiny. He is visited by Boimler and Mariner, offering to help him regain his command. However, Ma’ah is less enthusiastic, as he would be forced to serve under Bargh, the leader of the Klingon Oversight Council, who abuses his position to deny Ma’ah’s appeals. With encouragement from Boimler, Ma’ah fights and kills Bargh and resolves to start his career anew with his brother Malor as his first officer. Meanwhile, the Cerritos is escorting two food critics back to the homeworld of Dr. Migleemo, the ship’s psychologist. Migleemo’s attempts to impress them with his cooking only receive negative criticism. Freeman, Tendi and Rutherford expose the critics as frauds who have lost their sense of taste; Migleemo offers to provide therapy, earning their respect."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -2830,6 +2834,9 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MayDarmon",
 						"name": "May Darmon"
+					},
+					"description": {
+						"en": "The Cerritos is forced to dock at Starbase 80, which has a negative reputation among Starfleet. The starbase is understaffed and supplied with obsolete equipment. Mariner, who was previously assigned to Starbase 80, believes the place to be cursed, especially when members of the Cerritos crew start acting like zombies. Ultimately, it is revealed the phenomenon was caused by an “anaphasic lifeform” the crew unknowingly picked up on a previous mission who unintentionally possessed them in a failed attempt to communicate."
 					},
 					"review": [
 						{
@@ -2897,6 +2904,9 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronBurdette",
 						"name": "Aaron Burdette"
 					},
+					"description": {
+						"en": "The Cerritos hosts peace talks between two photonic species, the Cubes and the Orbs. Meanwhile, Mariner sees a kindred spirit in Ensign Olly, a descendant of the alien entity the ancient Greeks worshipped as Zeus, and takes her under her wing as they investigate the disappearance of the son and daughter of the leading delegates. However, Olly ends up hampering the investigation due to her anxiety about being dismissed from Starfleet, inflaming tensions between the Cubes and the Orbs, who start a war with the Cerritos caught in the middle. Olly uses the tractor beam to incapacitate them, proving her value as a Starfleet office, It is revealed that the delegates’ children are in love and have produced their own hybrid child, inspiring renewed peace talks. Meanwhile, Boimler, trying emulate his more successful alternate-universe counterpart, attempts to befriend the cantankerous physician Dr. T’Ana."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -2963,7 +2973,24 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewMueth",
 						"name": "Andrew Mueth"
 					},
+					"description": {
+						"en": "Mariner, Tendi and T’Lyn go undercover to a pre-industrial planet, Dilmer III, which is subject to time dilation such that a week passes on the planet for every second on the Cerritos. Their mission is to prevent the locals from discovering Starfleet technology from yet another parallel universe, which turns out to be the head of the android Starfleet officer Data. However, Boimler and Rutherford accidentally disable the transporter, forcing the three women to spend a year on the planet during the minute it takes to repair the transporter. Believing she is competing with T’Lyn for the position of senior science officer, Tendi desperately tries to outdo T’Lyn in scientific achievement; she reactivates Data’s head while T’Lyn develops innovations in local agriculture. They draw the attention of a suspicious Dilmerian named Snell, who tries to expose them as witches, but they are able to descredit him in front of his community. After they are returned to the Cerritos, before returning to his home universe, Data recommends to Captain Freeman to promote both Tendi and T’Lyn."
+					},
 					"review": [
+						{
+							"@type": "Review",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2024-11-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/e_7UpKLKV-E"
+							}
+						},
 						{
 							"@type": "Review",
 							"creator": {
@@ -2976,6 +3003,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/gm5GOW6zOvg"
 							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2024-12-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0gJw7aKF_qA"
+							}
 						}
 					]
 				},
@@ -2984,13 +3025,47 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.8",
 					"episodeNumber": "5.8",
 					"name": "Upper Decks",
-					"datePublished": "2024-12-05"
+					"datePublished": "2024-12-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Upper Decks",
+							"@language": "en"
+						},
+						"datePublished": "2024-12-05"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BobSuarez",
+						"name": "Bob Suarez"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CullenCrawford",
+						"name": "Cullen Crawford"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-12-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/afuAPDV1dw4"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.9",
 					"episodeNumber": "5.9",
-					"name": "Fissue Quest",
+					"name": "Fissure Quest",
 					"datePublished": "2024-12-12"
 				},
 				{
