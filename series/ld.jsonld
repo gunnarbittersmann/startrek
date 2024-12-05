@@ -3044,7 +3044,22 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CullenCrawford",
 						"name": "Cullen Crawford"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-12-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/afuAPDV1dw4"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
