@@ -3113,7 +3113,22 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LaurenMcGuire",
 						"name": "Lauren McGuire"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2024-12-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/lCQwMVSZmTk"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
