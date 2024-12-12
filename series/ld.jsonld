@@ -3097,7 +3097,23 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.9",
 					"episodeNumber": "5.9",
 					"name": "Fissure Quest",
-					"datePublished": "2024-12-12"
+					"datePublished": "2024-12-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Spalt-Mission",
+						"datePublished": "2024-12-12"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrandonWilliams",
+						"name": "Brandon Williams"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LaurenMcGuire",
+						"name": "Lauren McGuire"
+					}
 				},
 				{
 					"@type": "TVEpisode",
