@@ -1112,6 +1112,16 @@
 								"name": "Wikipedia"
 							},
 							"url": "https://en.wikipedia.org/wiki/Star_Trek:_Section_31"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Section_31"
 						}
 					]
 				}
