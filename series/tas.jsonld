@@ -1192,6 +1192,20 @@
 					],
 					"abstract": {
 						"en": "A mysterious being threatens to destroy the Enterprise if the crew is unable to solve an ancient puzzle."
+					},
+					"review": {
+						"@type": "Review",
+						"name": "Retro Review | 100th Episode!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2024-12-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qRMbMKaN7_U"
+						}
 					}
 				},
 				{
