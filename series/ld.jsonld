@@ -2557,12 +2557,18 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ld#5.1",
 					"episodeNumber": "5.1",
-					"name": "Dos Cerritos",
+					"name": {
+						"@value": "Dos Cerritos",
+						"@language": "es"
+					},
 					"datePublished": "2024-10-24",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Dos Cerritos",
+						"name": {
+							"@value": "Dos Cerritos",
+							"@language": "es"
+						},
 						"datePublished": "2024-10-24"
 					},
 					"director": {
