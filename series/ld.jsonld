@@ -3166,7 +3166,23 @@
 					"@id": "https://bittersmann.de/startrek/series/ld#5.10",
 					"episodeNumber": "5.10",
 					"name": "The New Next Generation",
-					"datePublished": "2024-12-19"
+					"datePublished": "2024-12-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die neue nächste Generation",
+						"datePublished": "2024-12-19"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeganLloyd",
+						"name": "Megan Lloyd"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+						"name": "Mike McMahan"
+					}
 				}
 			]
 		}
