@@ -1166,19 +1166,34 @@
 					"description": {
 						"de": "Am nördlichen Polarkreis auf der Erde entdeckt ein menschliches Wissenschaftlerteam die Absturzstelle eines fremden Raumschiffes und untersucht die zunächst eingefrorenen Verletzten, bei denen es sich um kybernetische Organismen handelt. Nachdem diese sich mittels Nanotechnologie regeneriert haben, überwältigen und entführen sie die Wissenschaftler und entwenden deren Frachtraumschiff. Mit dem Zurückholen des Teams beauftragt, verfolgt die Enterprise das Schiff und rettet unterwegs zwei verletzte Takalianer von deren Raumschiff, das von dem Frachter angegriffen wurde. Diese wurden von den kybernetischen Wesen infiziert und werden nun – ebenfalls mit Nanotechnologie – in kybernetische Organismen transformiert. Nachdem die beiden ausgebrochen sind und dabei auch Phlox infiziert haben, beginnen sie, die Enterprise zu modifizieren, sodass Archer keine andere Wahl bleibt, als sie zu ihrer Unschädlichmachung in den Weltraum zu befördern. Während die Enterprise den Frachter weiter verfolgt, kann Phlox letztlich erfolgreich seine Infektion heilen. Bei dem Schiff eingetroffen, beginnen die kybernetischen Wesen, die Enterprise zu assimilieren. Die Crew hat keine Hoffnung mehr, die Wissenschaftler unbeschadet zurückzuholen, da diese höchstwahrscheinlich auch assimiliert wurden. Nachdem Archer und Reed in dem Frachter eine Bombe zur Explosion gebracht haben, ziehen sich die Wesen von der Enterprise zurück. Als sich der Frachter zu regenerieren beginnt, lässt ihn Archer durch Beschuss zerstören. Messungen des Kommunikationsverkehrs ergeben, dass die kybernetischen Wesen in den Delta-Quadranten kommunizierten und dorthin zurückkehren wollten."
 					},
-					"review": {
-						"@type": "Review",
-						"name": "Retro Review | Borg Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"name": "Retro Review | Borg Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3S2sZDKmOeY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/3S2sZDKmOeY"
+						{
+							"@type": "Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-12-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xuBfCvhvBIA"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
