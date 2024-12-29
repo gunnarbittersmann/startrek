@@ -57,6 +57,11 @@
 						"@type": "Person",
 						"name": "Robert Butler"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"@type": "Person",
+						"name": "Gene Roddenberry"
+					},
 					"description": {
 						"de": "Nach einer verlustreichen Mission auf dem Planeten Rigel VII folgt die Enterprise unter dem Kommando von Captain Christopher Pike einem Notruf auf den Planeten Talos IV. Das von Pike geführte Landeteam findet dort eine Gruppe Überlebender des seit 18 Jahren verschollenen Forschungsschiffes Columbia. Unter den Überlebenden ist die attraktive Vina. Von Vina abgelenkt, wird Pike von den Talosianern gefangen genommen, einer hochentwickelten, Telepathie beherrschende Spezies. Es stellt sich heraus, dass der Notruf von den Talosianern fingiert wurde und auch die Überlebenden, mit Ausnahme von Vina, nur eine Illusion waren, mit der die Enterprise zu dem Planeten gelockt werden sollte. Pike wird in einen Käfig interniert und die Talosianer versuchen, seinen Geist zu manipulieren, ihm Vina nahe zu bringen, aber Pike widersteht. Er erkennt, dass die Talosianer ihn nach Talos IV gelockt haben, um mit ihm und Vina eine neue Menschenrasse zu züchten, um sie zu versklaven. Als ein weiteres Landeteam zur Bergung des Captains auf den Planeten gebeamt wird, geraten auch Nummer Eins und Fähnrich Colt in die Gewalt der Talosianer. Sie werden zu Pike in den Käfig gesperrt, in der Hoffnung, dass Pike sich zu ihnen hingezogen fühlt. Schließlich kann Pike einen Wärter überwältigen und die Gefangenen können auf die vor Jahrhunderten atomar zerstörte Planetenoberfläche entkommen. Als die Landegruppe dort von den Talosianern gestellt wird, droht Nummer Eins, alle durch eine Explosion ihres Phasers zu töten, da sie lieber sterben wolle als in Gefangenschaft zu leben. Daraufhin lassen die Talosianer Nummer Eins und Fähnrich Colt gehen. Pike offenbaren sie, dass Vina die einzige Überlebende des Absturzes der Columbia war. Sie hatte das Unglück schwer entstellt überlebt und um ihr zu helfen, schufen sie ihr die Illusion eines unversehrten Äußeren. Pike bittet die Talosianer, ihr diese Illusion nicht zu nehmen, woraufhin sie ihr die Illusion eines Pike an die Seite stellen, während Captain Pike auf sein Schiff zurückkehrt."
 					},
@@ -139,6 +144,11 @@
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#George Clayton Johnson",
+						"@type": "Person",
+						"name": "George Clayton Johnson"
+					},
 					"abstract": {
 						"en": "The Enterprise visits planet M-113 for routine medical examinations of the husband-and-wife archaeological team stationed there, but the woman has been replaced by a shape-shifting creature, forced to survive by extracting the salt from the bodies of the members of the crew, killing them.",
 						"de": "Die Enterprise-Crew ist bei dem Planeten, auf dem das Ehepaar Crater lebt. Nachdem mehrere Crew-Mitglieder an Salzmangel gestorben sind, stellt sich heraus, dass Frau Crater durch ein gestaltwandelndes Wesen ersetzt wurde."
@@ -161,6 +171,19 @@
 						"@id": "https://bittersmann.de/startrek/people#LawrenceDobkin",
 						"@type": "Person",
 						"name": "Lawrence Dobkin"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						}
 					},
 					"abstract": {
 						"en": "The Enterprise picks up Charlie Evans, an unstable 17-year-old boy, who spent 14 years alone on a deserted planet and lacks the training and restraint to handle his superhuman mental powers wisely."
@@ -198,6 +221,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
 						"@type": "Person",
 						"name": "James Goldstone"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#SamuelAPeeples",
+						"@type": "Person",
+						"name": "Samuel A. Peeples"
 					},
 					"abstract": {
 						"en": "After the Enterprise attempts to cross the Great Barrier at the edge of the galaxy, crew members Gary Mitchell and Elizabeth Dehner develop “godlike” psychic powers, which threaten the safety of the crew."
@@ -241,6 +269,11 @@
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
+						"@type": "Person",
+						"name": "John D. F. Black"
+					},
 					"abstract": {
 						"en": "A strange, intoxicating infection, which lowers the crew’s emotional inhibitions, spreads throughout the Enterprise. As the madness spreads, the entire ship is endangered."
 					},
@@ -278,6 +311,11 @@
 						"@type": "Person",
 						"name": "Leo Penn"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#RichardMatheson",
+						"@type": "Person",
+						"name": "Richard Matheson"
+					},
 					"abstract": {
 						"en": "While beaming up from planet Alpha 177, a transporter accident splits Captain Kirk into two beings: one “good”, who is weak and indecisive, and one “evil”, who is overly aggressive and domineering."
 					},
@@ -301,6 +339,19 @@
 						"@id": "https://bittersmann.de/startrek/people#HarveyHart",
 						"@type": "Person",
 						"name": "Harvey Hart"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						}
 					},
 					"abstract": {
 						"en": "The Enterprise pursues a vessel and rescues its occupants; Harry Mudd, an interstellar con man, is transporting three mysteriously beautiful women to become the wives of dilithium miners."
@@ -326,6 +377,11 @@
 						"@type": "Person",
 						"name": "James Goldstone"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"@type": "Person",
+						"name": "Robert Bloch"
+					},
 					"abstract": {
 						"en": "In search of Nurse Chapel’s fiancé, renowned exobiologist Roger Korby, the Enterprise visits the icy planet Exo III, where Korby has discovered an ancient machine that allows him to duplicate any living person with an android replacement. Korby plans to use the machine to spread controlled androids throughout the Federation, and replaces Captain Kirk with such a duplicate in an effort to take over the Enterprise."
 					},
@@ -349,6 +405,11 @@
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#AdrianSpies",
+						"@type": "Person",
+						"name": "Adrian Spies"
 					},
 					"abstract": {
 						"en": "After discovering what appears to be a duplicate of the planet Earth, Captain Kirk and his away team find a population ravaged by a strange disease, which only children appear to have survived."
@@ -387,6 +448,11 @@
 						"@type": "Person",
 						"name": "Vincent McEveety"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#ShimonWincelberg",
+						"@type": "Person",
+						"name": "Shimon Wincelberg"
+					},
 					"abstract": {
 						"en": "While the Enterprise is on a resupply mission to a rehabilitation colony for the criminally insane, a former doctor — now insane — sneaks on board the ship. Beaming down to the planet, Kirk and a female crew member discover that the chief doctor has been using a device that destroys the human mind. Spock performs a mind meld for the first time in this episode."
 					},
@@ -410,6 +476,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephSargent",
 						"@type": "Person",
 						"name": "Joseph Sargent"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+						"@type": "Person",
+						"name": "Jerry Sohl"
 					},
 					"abstract": {
 						"en": "The Enterprise is menaced by a gigantic alien ship whose commander condemns the crew to death. The alien ship appears all-powerful, and the alien commander refuses all attempts at negotiation, forcing Kirk to employ an unorthodox strategy to save the ship."
@@ -435,6 +506,11 @@
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"@type": "Person",
+						"name": "Gene Roddenberry"
+					},
 					"abstract": {
 						"en": "Spock hijacks the Enterprise to take his crippled former captain, Christopher Pike, to the forbidden world of Talos IV. He then demands a court martial, where he uses the events of “The Cage” to tell the tale of Pike’s captivity on the planet years earlier."
 					},
@@ -458,6 +534,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertButler",
 						"@type": "Person",
 						"name": "Robert Butler"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"@type": "Person",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "After witnessing the Talosians’ capabilities of mental illusion, Kirk realizes that Spock intends to return Pike to the planet to live a life of illusion, unencumbered by his crippled condition."
@@ -483,6 +564,11 @@
 						"@type": "Person",
 						"name": "Gerd Oswald"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#BarryTrivers",
+						"@type": "Person",
+						"name": "Barry Trivers"
+					},
 					"abstract": {
 						"en": "While visiting an old friend, Kirk suspects a Shakespearean actor may actually be the murderous former governor of Tarsus IV, where Kirk grew up. Kirk invites the acting troupe aboard the Enterprise to investigate, but soon, assassination attempts are made on Kirk and another crewman, who was an eyewitness to the murders."
 					},
@@ -506,6 +592,11 @@
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"@type": "Person",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#PaulSchneider",
+						"@type": "Person",
+						"name": "Paul Schneider"
 					},
 					"abstract": {
 						"en": "While investigating a series of destroyed outposts, the Enterprise discovers a lone Romulan vessel with a cloaking device. The Romulans, having never been seen by humans, are revealed to visually resemble Vulcans, casting doubt on Mr. Spock’s loyalty, as the two ships become locked in a cat-and-mouse battle through space."
@@ -532,6 +623,11 @@
 						"@type": "Person",
 						"name": "Robert Sparr"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#TheodoreSturgeon",
+						"@type": "Person",
+						"name": "Theodore Sturgeon"
+					},
 					"abstract": {
 						"en": "Captain Kirk orders shore leave for the Enterprise crew on a seemingly uninhabited planet in the Omicron Delta system. The landing parties begin to see strange sights, such as a White Rabbit a la “Alice in Wonderland”, Don Juan, and a sword-wielding samurai. Also, Kirk sees (and fights) an image of Finnegan, a rival from his Starfleet Academy days. Spock discovers that the planet seems to be drawing a large amount of energy from the ship’s engines, placing the Enterprise in danger."
 					},
@@ -557,6 +653,26 @@
 						"@type": "Person",
 						"name": "Robert Gist"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+							"name": "Oliver Crawford"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#ShimonWincelberg",
+							"@type": "Person",
+							"name": "Shimon Wincelberg"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+							"name": "Oliver Crawford"
+						}
+					},
 					"abstract": {
 						"en": "Spock and a scientific party are sent to study the Murasaki 312 quasar aboard the shuttle Galileo. During the survey, the Galileo is forced to make an emergency landing on the planet Taurus II, where the crew fights the planet’s dangerous inhabitants. As the crew begins to make repairs, Scotty determines that the shuttle does not have enough fuel to reach orbit carrying all seven passengers, and Spock must contemplate leaving some of his fellow crew behind."
 					},
@@ -580,6 +696,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DonMcDougall",
 						"@type": "Person",
 						"name": "Don McDougall"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#PaulSchneider",
+						"@type": "Person",
+						"name": "Paul Schneider"
 					},
 					"abstract": {
 						"en": "The Enterprise discovers a rogue planet drifting through space, inhabited by an eccentric being named Trelane, who uses his apparently unlimited power over matter and form to manipulate the crew."
@@ -605,6 +726,19 @@
 						"@type": "Person",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FredricBrown",
+							"name": "Fredric Brown"
+						}
+					},
 					"abstract": {
 						"en": "The Enterprise comes under attack by unknown aliens while investigating the near-destruction of the Cestus III colony. While chasing the aliens into unexplored space, both ships are captured by the powerful Metrons, who force Kirk and the alien captain (later identified as a member of the Gorn race) to trial by combat; the winner’s vessel will be set free, while the loser’s ship will be destroyed."
 					},
@@ -628,6 +762,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelOHerlihy",
 						"@type": "Person",
 						"name": "Michael O’Herlihy"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"abstract": {
 						"en": "After accidentally traveling back in time to 1969, the Enterprise rescues USAF Captain John Christopher from his crippled fighter jet. The crew struggles to return to their own time, while simultaneously returning Christopher to the Air Force, removing his knowledge of the future and all record of contact with the Enterprise."
@@ -666,6 +805,26 @@
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DonMMankiewicz",
+							"name": "Don M. Mankiewicz"
+						},
+						{
+							"@id": "https://bittersmann.de/startrek/people#StevenWCarabatsos",
+							"@type": "Person",
+							"name": "Steven W. Carabatsos"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DonMMankiewicz",
+							"name": "Don M. Mankiewicz"
+						}
+					},
 					"abstract": {
 						"en": "Captain Kirk is placed on trial for negligence after a crewman is killed during a severe ion storm. Kirk maintains that his actions were proper and should not have led to the officer’s death, but the evidence seems strong against him."
 					},
@@ -689,6 +848,19 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BorisSobelman",
+						"name": "Boris Sobelman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						}
 					},
 					"abstract": {
 						"en": "The Enterprise discovers a planetary population controlled by a powerful being called Landru. While investigating, Captain Kirk and his landing party are taken captive, and discover that the Enterprise crew will be the next to be “absorbed” into Landru’s control."
@@ -727,6 +899,26 @@
 						"@type": "Person",
 						"name": "Marc Daniels"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CareyWilber",
+							"name": "Carey Wilber"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CareyWilber",
+							"name": "Carey Wilber"
+						}
+					},
 					"abstract": {
 						"en": "The Enterprise discovers an ancient sleeper ship, the SS Botany Bay, which escaped from Earth’s Eugenics Wars in the late 20th century. The genetically engineered passengers, led by war criminal Khan Noonien Singh, seize control of the Enterprise and attempt to destroy the ship. (This episode serves as the backstory to the second Star Trek film.)"
 					},
@@ -750,6 +942,26 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHamner",
+							"name": "Robert Hamner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHamner",
+							"name": "Robert Hamner"
+						}
 					},
 					"abstract": {
 						"en": "On Eminiar VII, the Enterprise finds a civilization at war with its planetary neighbor. Unable to discern any signs of battle from orbit, Captain Kirk leads a landing party to the surface, where he discovers the entire war is fought by computer. Though the war is simulated, citizens who are listed as virtual casualties still report to termination booths to be killed for real. After the Enterprise is destroyed in an attack simulation, Kirk must fight to keep his crew from death."
@@ -775,6 +987,26 @@
 						"@type": "Person",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+								"name": "Jerry Sohl"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DCFontana",
+								"name": "D. C. Fontana"
+							}
+						]
+					},
 					"abstract": {
 						"en": "Despite exposure to fatal radiation, the Federation colony on Omicron Ceti III appears to be thriving. A landing party from the Enterprise investigates, finding the colony’s population to be healthy beyond explanation. Leila Kalomi, an old friend of Mr. Spock’s, shows the landing party strange flowers that seem to impose a state of pure bliss and perfect health on all exposed to its spores (even Spock), but at the cost of ambition and self-discipline."
 					},
@@ -798,6 +1030,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"@type": "Person",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "Dispatched to the mining colony on Janus VI, the Enterprise is to investigate rumors of a strange, subterranean creature responsible for destruction of equipment and the deaths of 50 miners. Kirk and Spock discover a silicon-based life form, a Horta, which lives in the surrounding rock. After Kirk and Spock find the strange creature, Spock performs a mind meld, discovering the reason behind the Horta’s attacks."
@@ -823,6 +1060,11 @@
 						"@type": "Person",
 						"name": "John Newland"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"@type": "Person",
+						"name": "Gene L. Coon"
+					},
 					"abstract": {
 						"en": "Peace negotiations have collapsed between the Federation and the warlike Klingon Empire. The Enterprise is ordered to protect Organia, a peaceful planet located near the Klingon border. Kirk and Spock beam to the surface to warn the Organians about the Klingons, but a Klingon fleet soon arrives, forcing the Enterprise to abandon the duo on the planet. The natives protect Kirk and Spock, even as Kor, the new Klingon governor, orders mass executions of the Organian people. As both Federation and Klingon fleets converge above the planet, Kirk and Spock execute a daring raid on the Klingon headquarters in an effort to destabilize their control over the planet."
 					},
@@ -847,6 +1089,11 @@
 						"@type": "Person",
 						"name": "Gerd Oswald"
 					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#DonIngalls",
+						"@type": "Person",
+						"name": "Don Ingalls"
+					},
 					"abstract": {
 						"en": "While orbiting an apparently dead planet, the Enterprise seems to experience a strange moment of “nonexistence”. Captain Kirk discovers a man named Lazarus on the planet below, who claims the effect was caused by his “enemy”, later revealed to be an insane version of Lazarus from an alternate dimension. The sane version of Lazarus asks for Kirk’s help in defeating his counterpart."
 					},
@@ -870,6 +1117,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"@type": "Person",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#HarlanEllison",
+						"@type": "Person",
+						"name": "Harlan Ellison"
 					},
 					"abstract": {
 						"en": "After accidentally overdosing on a powerful stimulant, Dr. McCoy becomes unbalanced and disappears through the Guardian of Forever, a newly discovered time portal on a remote planet. Kirk and Spock follow after learning that McCoy somehow changed history, removing everything they once knew, including the Enterprise. Arriving in the 1930s, the duo meets Edith Keeler, a New York social worker, who gives them a place to stay. As the days pass, and McCoy is nowhere to be seen, Kirk finds himself falling in love with Keeler, but Spock discovers that Keeler must die to restore the timeline.",
@@ -906,6 +1158,11 @@
 						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"@type": "Person",
 						"name": "Herschel Daugherty"
+					},
+					"author": {
+						"@id": "https://bittersmann.de/startrek/people#StevenWCarabatsos",
+						"@type": "Person",
+						"name": "Steven W. Carabatsos"
 					},
 					"abstract": {
 						"en": "The Enterprise arrives at Deneva - the home of Captain Kirk’s brother, Sam, and his family - and discovers that the entire planet has been infested with large, amoeba-like aliens that have attacked and killed much of the human population. One of these aliens attaches itself to Spock, who volunteers to become a subject in Dr. McCoy’s medical tests. McCoy and Kirk find a cure in time to save Spock and the remainder of the Denevan population."
