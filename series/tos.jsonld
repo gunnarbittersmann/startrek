@@ -1216,6 +1216,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TheodoreSturgeon",
+						"name": "Theodore Sturgeon"
+					},
 					"description": {
 						"en": "When Mr. Spock begins behaving aggressively, Kirk discovers his first officer must return home to Vulcan to be married or die. Kirk disobeys his orders from Starfleet Command to visit Altair 6 and decides to save Spock. Spock, Kirk, and McCoy land on Vulcan where Spock takes them to his family land to begin pon farr. They meet T’Pau and T’Pring only to find that T’Pring wants a duel and chooses Kirk as a challenger. Kirk accepts the challenge thinking to let Spock win but is later told by T’Pau that it is a challenge to the death. During the fight, McCoy gives Kirk a neuro-tranquilizer to fake his death. Upon victory, Spock asks T’Pring to explain her decision and decides not to marry her. After beaming back to the Enterprise, Spock is overjoyed to see Kirk alive.",
 						"de": "Spock verhält sich merkwürdig und emotional, ohne den ihm bekannten Grund dafür preiszugeben, und ersucht deshalb bei Kirk um Urlaub auf seinem Heimatplaneten Vulkan. Kirk kann ihm den Urlaub zunächst nicht gewähren, da die Enterprise einen wichtigen diplomatischen Termin auf Altea VI wahrnehmen muss. Erst als McCoy erkennt, dass Spocks Verhalten tödlich enden könne, genehmigt Kirk den Flug nach Vulkan. Spock vertraut Kirk nun an, dass er sich im Pon Farr befindet, der vulkanischen Brunft. Obwohl das Sternenflottenkommando darauf besteht, dass die Enterprise zunächst nach Altea VI fliegt, lässt Kirk nach Vulkan Kurs setzen. Dort in Begleitung von Kirk und McCoy angekommen, wird Spock von seiner ihm schon vor Jahren versprochenen Frau T’Pring erwartet. Um T’Pring endgültig für sich zu gewinnen, muss Spock sich im Rahmen vulkanischer Tradition noch duellieren. T’Pring erwählt Kirk als seinen Gegner. Das auf Leben und Tod geführte Duell in einer Arena gewinnt Spock. Danach gibt T’Pring zu, dass sie nur deshalb Kirk als Spocks Gegner gewählt hat, um damit den ursprünglich dafür vorgesehenen Vulkanier Spong zu verschonen, in den sie in Wirklichkeit verliebt ist. Kirk indes ist nicht wirklich gestorben, sondern hat mit Hilfe einer Injektion McCoys überlebt. Nach dem Kampf ist Spocks Pon Farr beendet."
@@ -1251,6 +1256,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GilbertRalston",
+						"name": "Gilbert Ralston"
+					},
 					"description": {
 						"en": "The Enterprise is held captive within an energy field which is controlled by an alien who claims to be the Greek god Apollo. Apollo commands Kirk to meet him on the planet’s surface. Bones, Chekov, Scotty, and Lieutenant Carolyn Palamas accompany Kirk. Apollo demands the crew worship him as a god at his temple, captivating Carolyn and attacking Scotty when he disobeys. Spock finds a way to get through the energy field and helps Kirk to take down the temple that was its power source.",
 						"de": "Die Enterprise nähert sich gerade einem Planeten und wird dabei plötzlich von einem Energiefeld überfallen, das in Form einer riesigen Hand erscheint und die Enterprise gefangenhält. Verantwortlich dafür ist ein Mann auf dem Planeten, der sich dem Enterprise-Außenteam als Apoll vorstellt, Sohn des Zeus, und von einem Tempel auf dem Olymp aus herrscht. Apoll fordert von den Besuchern, verehrt zu werden, und hat offensichtlich übermenschliche Fähigkeiten, die er zur Unterjochung der Menschen einsetzt. Er nimmt das Außenteammitglied Carolyn Palamas als seine Frau, während das Team nach der Energiequelle für seine Kräfte sucht. Das Team stellt fest, dass Apolls Kräfte vorübergehend schwinden, wenn er provoziert wird, und versucht das zum eigenen Vorteil auszunutzen. Apoll will Carolyn zur Mutter eines neuen Göttergeschlechts und sein Leben so vollkommen machen. Auf Anweisung Kirks trennt sich Carolyn von Apoll, der darüber verbittert ist. Er verschwindet, nachdem die Enterprise vom Orbit aus per Phaserbeschuss seinen Tempel zerstört hat, der seine Energiequelle darstellte."
@@ -1272,6 +1282,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
 					},
 					"description": {
 						"en": "The crew of the Enterprise deals with Nomad — an indestructible, planet-destroying space probe that thinks Kirk is its creator. The space probe is beamed up and after completing an analysis, Mr. Spock reveals that its real creator is Jackson Roykirk, a scientist from the twentieth century. Spock enters the mind of Nomad and finds out the original space probe was destroyed when another alien probe somehow united with it, deleting its memory banks and resulting in a new machine with a new objective: sterilize all units which are imperfect. When Nomad takes control of the Enterprise, Kirk tells Nomad the truth making it realize that Nomad itself is flawed and must destroy itself. Star Trek: The Motion Picture was in part an expansion of this episode.",
@@ -1295,6 +1310,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
+					},
 					"description": {
 						"en": "A transporter mishap slips Captain Kirk and his companions into a parallel universe, where the Enterprise serves a barbaric Empire instead of the Federation. Kirk, Bones, Scotty, and Uhura try to act appropriately for their new environment while figuring out how to get back to their universe where their Empire equivalents beamed. In this mirror universe, Mr. Chekov tried to kill Captain Kirk to succeed as Captain but failed and was sent to the torture booth. The Empire Spock receives a command from Starfleet base to execute Captain Kirk if he does not annihilate the planet Halkan by dawn, which he tells Kirk. Bones and Scotty reprogram the transporter to beam them back but are encountered by Spock in Sick Bay. Spock attacks them but is defeated and about to die. Kirk allows Bones to treat him while the others go to the transporter room. Mirror Spock learns the truth about the twin universes and brings Bones to the transporter room where he helps them transport back to our universe where Spock is waiting for them. This episode spun off several plotlines in Deep Space Nine, Enterprise and Discovery.",
 						"de": "Kirk, McCoy, Scott und Uhura erhalten als Außenteam auf einem Planeten Ablehnung auf ihre Bitte an die einheimischen Halkanier um Dilithiumkristalle. Beim Zurückbeamen auf die Enterprise wird das Team durch einen Transporterunfall auf die Enterprise in einem Paralleluniversum gebeamt. Dort gehört die Enterprise-Crew zum sogenannten Imperium, das zum Erreichen seiner Ziele nicht friedensstiftend, sondern kriegerisch vorgeht. Es herrschen brutale und barbarische Sitten: Mord an Vorgesetzten ist eine gängige Aufstiegsmethode und auf Fehlverhalten folgt die schmerzverursachende Disziplinierungsmethode Agonie-Simulation. Die vier haben Schwierigkeiten, die Rollen zu spielen, die ihre Alter Egos normalerweise ausfüllen, welche indes auf die Enterprise im diesseitigen Universum gebeamt wurden. Kirk als Captain der Enterprise im Paralleluniversum zögert die Umsetzung eines vernichtenden Angriffs auf die Halkanier hinaus. Weil er damit Misstrauen beim Parallel-Spock erweckt, droht ihm die baldige Exekution. Die vier bereiten insgeheim und kollaborativ ihr Zurückbeamen in ihr Universum vor und können sich dabei den Hinderungsversuchen der feindlichen Crewmitglieder erwehren. Schließlich hilft ihnen der feindliche Spock beim Zurückbeamen, damit er seine vier fehlenden Crewmitglieder zurückerhält."
@@ -1317,6 +1337,26 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MaxEhrlich",
+							"name": "Max Ehrlich"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MaxEhrlich",
+							"name": "Max Ehrlich"
+						}
+					},
 					"description": {
 						"en": "The crew of the Enterprise visits a mysterious and deadly paradise planet which they discover is controlled by a machine called Vaal. The landing party, which includes Kirk, Spock, Bones and Sulu, are enchanted by the planet but encounter a strange flower that kills two members of the party. A mysterious bolt of lightning hurts Spock and disrupts the transporter room of the Enterprise. The surviving landing party finds a group of men and women who are controlled by Vaal. Vaal restricts their knowledge of human interactions such as sexual intercourse and has the island’s inhabitants feed it an explosive mineral found on the island in order to fuel itself. Vaal orders the inhabitants to kill the landing party by morning when it becomes clear that they represent a threat to the inhabitants’ current way of life. Scotty finds a way to route all the power to the ship’s phasers while Kirk and Bones prevent Vaal from being fed any more explosive mineral. Vaal loses strength as a result and becomes vulnerable which allows the Enterprise to destroy Vaal and free the inhabitants.",
 						"de": "Ein Außenteam um Kirk erkundet den bislang unerforschten Planeten Gamma Trianguli VI. Nacheinander sterben Teammitglieder durch Gift, Blitztreffer und eine Explosion. Das Zurückbeamen des Teams wird durch eine unbekannte Kraft verhindert. Das Team stellt einen Verfolger, der Akuta heißt und zu einem kleinen Volk vollkommen gesunder Humanoiden gehört, die einen Gott namens Wal verehren. Wal ist zugleich die im Fels steckende künstliche Energiequelle, die das Beamen behindert und die die Enterprise, die sie als Feind betrachtet, durch einen Saugstrahl zum baldigen Absturz auf den Planeten zwingen will. Wal ist auch dafür verantwortlich, dass Akutas Artgenossen bislang nichts über Liebe, Fortpflanzung und Töten wissen. Als zwei von ihnen Chekov beim Küssen beobachten und dadurch entgegen Wals Sinn beeinflusst werden, beauftragt Wal das Volk mit der Tötung des Außenteams. Darin scheitern sie aber durch eigenes Unvermögen und den Widerstand des Teams. Spock gibt gegenüber Kirk zu bedenken, dass es ein Verstoß gegen die Oberste Direktive wäre, den Gott der Einheimischen zu beseitigen. Dennoch sorgt Kirk mit Hilfe der Enterprise dafür, dass Wal durch Phaserbeschuss dauerhaft ausfällt. Daraufhin ist die Enterprise wieder frei. Bevor das Außenteam wieder an Bord beamt, fordert Kirk die Einheimischen auf, künftig unabhängig und in Freiheit zu leben und sich fortzupflanzen."
@@ -1338,6 +1378,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NormanSpinrad",
+						"name": "Norman Spinrad"
 					},
 					"abstract": {
 						"en": "After losing his entire crew to a planet-eating alien machine from another galaxy, Commodore Matt Decker pulls rank on Kirk in order to play a game of cat-and-mouse with the mechanical adversary. His efforts to destroy the menace place the Enterprise in grave danger."
@@ -1363,6 +1408,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"name": "Robert Bloch"
+					},
 					"description": {
 						"en": "Two powerful aliens threaten the well-being of the Enterprise and her crew with their magical powers. Scotty, Sulu, and Jackson from the landing party go missing on a planet known to be uninhabited. Upon returning Jackson dies, giving Kirk a warning to leave the system. Kirk, Spock and Bones beam down to find a mysterious castle. A man and a woman, Korob and Sylvia, meet them and they find that Korob and Sylvia are not from this system but have moved here with the intention of learning more about the humans. Korob has good intentions, but Sylvia is determined to learn about humans and captures Sulu, Scotty, and Bones completely by mind control. Kirk uses seductive tricks on Sylvia to get the truth and destroys their ’transmuter’ power source to free the entire landing party and end the illusions.",
 						"de": "Von einem 3-köpfigen Außenteam, das einen fremden Planeten erforscht, wird ein Mann tot zurückgebeamt, während die anderen beiden, Scott und Sulu, verschollen sind. Obwohl eine fremde Stimme die Enterprise zum Verlassen auffordert, beamen Kirk, Spock und McCoy hinunter, um die Vermissten zu finden. Sie begegnen auf der Oberfläche drei gespensterähnlichen Hexen, ehe sie in ein unheimliches Schloss kommen und dort in die Gefangenschaft von Korob geraten, der das Schloss mit einer Frau namens Sylvia führt. Sylvia hat Scott und Sulu, die sie für sich arbeiten lassen, mittels Telekinese in willenlose Marionetten verwandelt, alsbald geschieht dies auch mit McCoy. Zudem kann sie sich in andere Wesen verwandeln. Gegenüber Kirk erklärt sie, dass ihr ein sog. Transmutator, der die Form eines Zauberstabs hat, die Form verleiht. Sie benötigt nun noch den Inhalt in Form von Willen und bittet Kirk darum. Kirk zeigt ihr seinen Willen, indem er sie liebkost. Sylvia erkennt rasch, dass Kirk sie gar nicht liebt, sondern nur ausnutzt, und lässt ihn wieder einsperren. Korob befreit ihn und Spock und sagt ihnen, dass Sylvia große Gier nach Stimulanz und Vernichtung hat und er sie vor ihr schützen will. Schließlich erweist sich, dass das Schloss und Sylvia und Korob nur Illusionen waren, die die beiden mit dem Zauberstab schufen. Kirk, Spock, McCoy, Sulu und Scott kehren auf die Enterprise zurück."
@@ -1384,6 +1434,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
 					},
 					"description": {
 						"en": "Captain Kirk and the crew have a second run-in with the con man, Harry Mudd, this time finding him as the king of a planet of androids. The Enterprise is captured by an android which takes the entire crew to an uncharted planet in the galaxy. Kirk, Spock, Bones, Uhura, Scotty, and Chekov land with the android on the planet to find Harry Mudd as the King of the planet and about 200,000 androids to serve him. He reveals that the androids want to learn about and serve humans and demanded more specimens. Harry Mudd plans to leave the entire crew of the Enterprise behind and take the starship. By unraveling the weak points of the androids, the crew of the Enterprise damage the main control unit ‘Norman’, reprogram the androids to serve their original purpose of settling the planet, gain control of the Enterprise and leave Harry Mudd behind to live with the humorous androids.",
@@ -1407,6 +1462,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
+					},
 					"description": {
 						"en": "A shuttle crew from the Enterprise encounters a castaway who appears to be Zefram Cochrane, the inventor of warp drive, and his mysterious alien Companion. Kirk, Bones, Spock and a disease-stricken officer are brought down on a planet surface en route to the Enterprise where they meet Zefram Cochrane, who is recorded to be dead for 150 years. Cochrane explains that the Companion, a mysterious energy field, keeps him alive and well, but recently decided that he needed a companion. After investigating and challenging the alien Companion, Kirk realizes that the Companion has feelings for Cochrane and finds a way to get back to the Enterprise in a surprisingly romantic episode.",
 						"de": "Kirk, Spock und McCoy transportieren gerade mit einem Shuttle die kranke, dringend behandlungsbedürftige Nancy Hedford in Richtung Enterprise, als das Shuttle von einer unbekannten Kraft auf einen anderen Kurs gezwungen und zur Landung auf einem Planetoiden gezwungen wird. Dort treffen die vier auf Zefram Cochrane, der einst die Warp-Triebwerke erfand und hier notlanden musste. Er müsste schon seit 150 Jahren tot sein. Seit dem Kontakt mit dem Companion ist Cochrane dauerhaft jung und gesund. Der Companion will die vier nicht mehr weglassen, weil er menschlichen Kontakt für Cochrane für nötig hält. Während sich Hedfords Zustand verschlechtert, versuchen Kirk und Spock erfolglos, den Companion zu bekämpfen, um zu entfliehen. Spock erschafft eine Möglichkeit, mit dem Companion zu kommunizieren. Kirk argumentiert gegenüber dem Companion, dass seine Rasse Freiheit braucht, um zu existieren. An der Art und Weise, wie der Companion mit Cochrane kommuniziert, wird deutlich, dass zwischen beiden eine Liebesbeziehung existiert. Kirk weckt im Companion die Einsicht, dass er wegen der Verschiedenartigkeit die menschliche Art zu lieben nicht verstehen kann. Daraufhin vereint sich der Companion mit Hedford, kurz bevor diese an ihrer Krankheit gestorben wäre. Cochrane bleibt bei ihr auf dem Planeten, während Kirk, Spock und McCoy auf die Enterprise zurückkehren."
@@ -1428,6 +1488,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"description": {
 						"en": "While transporting dignitaries to an important peace conference on the planet Babel, the Enterprise is pursued by a mysterious vessel and, after a quarrel between the Vulcan ambassador, Sarek (Spock’s father), and the Tellarite ambassador, the latter is killed, with Sarek as the main suspect. Kirk is then attacked and badly injured by the assassin, exonerating Sarek but requiring that Spock take charge of the Enterprise. An ethical dilemma arises when Sarek falls ill and needs Spock’s blood for a risky life-saving operation. To his mother’s distress Spock puts his duty ahead of his father’s life. Kirk and Bones find a way to allow Spock to assist in the operation, while a still-injured Kirk tries to uncover the assassin’s plan and engages the attacking starship.",
@@ -1451,6 +1516,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
 					"description": {
 						"en": "The crew of the Enterprise become entangled in a planet’s tribal power struggle. Upon landing and seeing a Klingon, one crew member is killed by the tribe. In a problematic turn of events, the leader of the 10 tribes is killed and Maab, who supports the Klingons, is the one who takes charge. The woman Eleen along with the landing party of Kirk, Spock, and Bones manage to escape but cannot contact the Enterprise which has been tricked into leaving the planet’s orbit to follow a distress signal. Eleen and the others manage to hide out. Maab realizes the Klingons’ true intention and the Enterprise manages to return in time to help the landing party and get the deal with the tribespeople.",
 						"de": "Ein Außenteam mit Kirk, Spock und McCoy ist auf dem Planeten Capella IV, um mit den dortigen Capellanern über Schürfrechte für ein wichtiges Mineral zu verhandeln. Die Gesprächsatmosphäre ist angespannt, weil auch ein klingonischer Unterhändler namens Kras um Schürfrechte ersucht und deswegen ein viertes Teammitglied von den Capellanern getötet wird. Der Capellaner Maab sympathisiert mit Kras und reißt die Herrschaft über die capellanischen Stämme mit Waffengewalt an sich. Dabei tötet er den bisherigen Anführer Akaar und wird somit selbst Anführer, d. h. Tiru. Kirk vereitelt, dass Maab Akaars Frau Eleen ermordet, die mit dem als künftigen Tiru vorbestimmten Kind hochschwanger ist. Das Außenteam flüchtet mit ihr vor Maab und dessen Gefolgschaft. Ein Teil der Verfolger wird bei einem Felssturz außer Gefecht gesetzt, den Kirk und Spock zielgerichtet verursachen. Die Enterprise unter Scotts Kommando ist indes durch einen gefälschten Notruf unpässlich. Eleen bringt ihr Kind, das sie allerdings aus Tradition nunmehr ablehnt, mit McCoys Hilfe zur Welt und verlässt es kurz darauf, um sich ihrem baldigen Tod zu ergeben. Kirk und Spock erwehren sich, auch mit der späteren Hilfe der Enterprise, den Angriffen von Kras und Maabs Kämpfern. Dabei stirbt Maab. Daraufhin übernimmt Eleen so lange die capellanische Anführerschaft, bis ihr neugeborener Sohn alt genug dazu sein wird."
@@ -1472,6 +1542,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+						"name": "David P. Harmon"
 					},
 					"description": {
 						"en": "Strange radiation exposes the command crew of the Enterprise to the effects of rapid aging. A landing party of Chekov, Kirk, Spock, Bones, Scotty, and Lieutenant Galway divide into small teams to find the planet Gamma Hydra Four’s colonists. Chekov enters a building and is shocked to see a dead man and calls others. The landing party meets two other people who are old in appearance but young in age. Bones concludes the analysis and says the two other people have only a few days to live because their bodily functions are aging about 30 years a day. The same thing begins to happen to the landing party upon getting back to the Enterprise. Scotty, Bones, Spock, Kirk and Galway start to get old, but Chekov does not. The aging inhibits the decision-making abilities of Captain Kirk and Spock. A Commodore Stocker who is a passenger aboard the Enterprise takes command of the ship. He makes a bad decision taking the Enterprise into the Neutral Zone and into a deadly attack by the Romulans. From an idea Bones has about why Chekov was immune, Spock and Dr. Janet Wallace (who is also a passenger aboard) devise a vaccine containing adrenaline that Kirk readily tests. It works and Kirk immediately resumes command of the Enterprise and tricks the Romulans, saving the Enterprise.",
@@ -1495,6 +1570,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+						"name": "Art Wallace"
+					},
 					"description": {
 						"en": "Captain Kirk becomes obsessed with destroying a murderous entity that killed many of the crew of his old ship. After finding a mysterious cloud that quickly kills three crew members, Captain Kirk is determined to find a way to understand it and destroy it, stopping it from spreading to more planetary systems. Kirk recalls his past experience with this cloud a few years earlier in a different planetary system on the other side of the galaxy. His obsession with this cloud starts to interfere with his decision-making skills as the commander of the starship prompting a medical record from Bones and Spock. Soon, Spock and Bones realize why Kirk is obsessed with this cloud. The Enterprise begins attacking the cloud only to realize that the cloud is not running away and manages to enter the air circulation system of the Enterprise. Kirk, Spock and Bones finally devise a way to destroy the cloud.",
 						"de": "Auf einem Planeten werden mehrere Redshirts der Enterprise durch den Kontakt mit einer plötzlich erscheinenden Wolke getötet. Es ist dieselbe Wolke, die Kirk aus seiner Zeit auf dem Raumschiff Farragut kennt, auf dem er vor elf Jahren Dienst tat. Damals starben der Captain der Farragut und weitere Crewmitglieder durch den Kontakt mit der Wolke. Kirk wirft sich nun vor, damals zu spät auf die Wolke gefeuert zu haben, und vernachlässigt wegen der Jagd auf die Wolke eine wichtige Mission der Enterprise. Alsbald verlässt die Wolke den Planeten und fliegt ins All, wo die Enterprise die Verfolgung wegen des zu hohem Tempos abbrechen muss. Man erkennt, dass die Wolke ein intelligentes Lebewesen ist und sich von Blutplasma ernährt, nicht zuletzt deshalb, weil ihren Opfern alle roten Blutkörperchen fehlen und weil Spock, dessen Blut anders zusammengesetzt ist, den Kontakt mit der Wolke unbeschadet übersteht. Enterprise-Fähnrich Garrowick, der Sohn des Farragut-Captains, macht sich nach seiner Konfrontation mit der Wolke ähnliche Selbstvorwürfe wie Kirk. Beide erkennen diese Vorwürfe aber alsbald als ungerechtfertigt, da Phaserfeuer die Wolke offensichtlich nicht aufhält. Die Wolke fliegt zu einem Planeten nahe ihrem damaligen Kontakt mit der Farragut. Dort ködern Kirk und Garrowick die Wolke mit Blutplasma und vernichten sie zielgerichtet mit einer Materie-Antimaterie-Explosion."
@@ -1517,6 +1597,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"name": "Robert Bloch"
+					},
 					"description": {
 						"en": "Mr. Scott is implicated in a series of bizarre murders. On planet Argelius during a planned break, Scotty, Kirk and Bones encounter a series of events where Scotty is blamed for murdering three women, two local to the planet, and one crew member aboard the Enterprise, Lt. Tracy. The Prefect wants to investigate the murder on the planet but all methods seem futile. Once aboard the Enterprise, the computer, fed with all medical records of Scotty, begins analyzing Scotty’s responses to all the questions. The committee realizes that Scotty is not lying and indeed someone/something else is responsible for the murder. The committee finds that the thing resembles Jack the Ripper, who has been rumored to exist throughout the 19th, 20th and 21st centuries on all systems between Earth and Argelius. Upon further analysis, Hengist, security adviser to the Prefect, is found to be possessed by the creature which causes fear in humanoids and kills them. It takes control of the Enterprise and threatens to kill them all. Spock overrides the controls, setting them to manual, overloads the computer banks by getting it to calculate the last digit of pi, impairing the thing for a few hours while Bones tranquilizes the entire crew aboard. The thing is captured inside Hengist finally and transported to the furthermost regions of the galaxy in thousands of small pieces.",
 						"de": "Bei einem Urlaub auf dem Planeten Argelius II lernt Scotty die hübsche Frau Kara kennen. Nachdem diese erstochen wurde, gerät Scotty unter dringenden Mordverdacht. Bei den anschließenden Befragungen Scottys auf dem Planeten werden zwei weitere Frauen in Gegenwart Scottys erstochen, eine davon ist Syvo, die telepathisch begabte Frau des Präfekten Jaris. In allen drei Fällen hat Scotty unmittelbar nach der Tat Blut bzw. die Tatwaffe in Händen, jedoch kann er sich nicht an die eigentliche Tat erinnern. Nach der dritten Tötung wird die Untersuchung auf Kirks Betreiben hin auf der Enterprise fortgesetzt. Mit Hilfe des Enterprise-Computers fällt der Verdacht auf ein unbekanntes, körperloses Wesen und werden frühere Frauenmorde bekannt, darunter auch welche auf dem Planeten Rigel IV. Von dort stammt auch der Mann Hengist, der als argelischer Verwalter durch Jaris mit der Aufklärung der Morde beauftragt ist. Wegen dieser Verbindung fällt der Verdacht auf ihn, kurz bevor er fliehen will und überraschenderweise stirbt. Er wurde offenbar durch das körperlose Wesen beherrscht, welches nun nach seinem Tod den Enterprise-Computer beherrscht. Spock stellt dem Computer daraufhin eine unlösbare Rechenaufgabe, wodurch das Wesen aus dem Computer zurück in Hengists Körper kehrt. Diesen beamen Kirk und Spock anschließend ins Weltall, um das Wesen unschädlich zu machen."
@@ -1538,6 +1623,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+						"name": "David Gerrold"
 					},
 					"abstract": {
 						"de": "Auf der Enterprise und der Raumstation K-7 vermehren sich die kleinen Pelztiere „Tribbles“ rasend schnell."
@@ -1577,6 +1667,11 @@
 						"@id": "https://bittersmann.de/startrek/people#GeneNelson",
 						"name": "Gene Nelson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
+					},
 					"description": {
 						"en": "Captain Kirk, Chekov and Uhura are kidnapped by powerful disembodied aliens and forced to fight in gladiatorial contests for the aliens’ gambling entertainment. While trying to beam down to planet Gamma 2, Kirk, Uhura and Chekov are transported to a mysterious planet, Triskelion, that has never been mapped by the Federation. There, the three of them are captured and trained in fighting skills by trainers called Thralls. Any act of disobedience is met with pain through collars around their necks. The Enterprise, now commanded by Spock, leaves the Gamma 2 system and finds a hydrogen cloud with mysterious energy fields. On Triskelion, Kirk manages to impress the Providers and bonds with his Thrall to learn more about the Providers. While trying to run away, the Providers show their true selves and wager a deal with Kirk for one last fight between Kirk and three Thralls. Kirk manages to defeat them, setting all the Thralls free and making the Providers teach the Thralls using all the knowledge they possess.",
 						"de": "Als Kirk, Chekov und Uhura auf den Planeten Gamma II hinunterbeamen wollen, verschwinden sie plötzlich und finden sich auf dem fremden Planeten Triskelion wieder. Dort sind sie unter der Herrschaft des Sklavenhalters Galt, der stellvertretend für gewisse Versorger auftritt. Galt ist in der Lage, die Untergebenen durch schmerzverursachende Gehorsamkeitshalsbänder zu bestrafen. Jeder der drei erhält einen anderen Sklaven zugewiesen, der ihn mit dem Ziel ausbilden soll, später ein erfolgreicher Sklave zu sein und an einen Sklavenhalter verkauft zu werden. Als Kirk in einem Schaukampf seinen Gegner besiegt und somit gegenüber den Versorgern Stärke beweist, werden die drei zu Sklaven ernannt. Dabei schließen die Versorger Wetten auf die Sklaven ab, um sich zu unterhalten. Kirks Ausbilderin ist die Sklavin Shahna, der er die Werte eines Lebens in Freiheit und der Liebe vermittelt, die ihr bislang fremd waren. Als die drei aus ihren Zellen ausgebrochen sind, diszipliniert Galt sie mit den Halsbändern. Unterdessen hat die Enterprise Triskelion gefunden. Die Versorger zeigen Kirk, dass sie in gehirnähnlicher Form tief unter der Erde existieren. Kirk kann sie von einer Wette überzeugen, die einen viel spektakuläreren Kampf beinhaltet. Den Kampf gegen drei Angreifer auf Leben und Tod gewinnt Kirk, sodass er Freiheit für sich und seine Crew erreicht und, dass die Versorger die Sklaven zu freieren Individuen erziehen."
@@ -1598,6 +1693,26 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesKomack",
 						"name": "James Komack"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+							"name": "David P. Harmon"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+							"name": "David P. Harmon"
+						}
 					},
 					"description": {
 						"en": "The Enterprise visits a planet with a violent culture based on America’s 1920s Prohibition era. After receiving a 100-year-late report from an old starship, Kirk, Bones, and Spock decide to beam down to the Iotian planet to learn about their way of life and are surprised that the entire society is based on 1920s-era Chicago mob culture. Realizing that the Enterprise must help rectify this situation, Kirk decides to collect all the bosses in one place and form a syndicate but runs into trouble with the two biggest bosses, Bela and Krako. Kirk captures Bela and transports Krako to the Enterprise before tricking the rest of the bosses into gathering together. Using Starfleet Command as the oversight body, Kirk forms the syndicate, to be headed by Bela with Krako as his lieutenant. Kirk hopes that they can teach a new style of living to these people under the surveillance of the Federation.",
@@ -1634,6 +1749,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertSabaroff",
+						"name": "Robert Sabaroff"
+					},
 					"description": {
 						"en": "The crew of the Enterprise encounters an energy-draining space creature. On their way to Starfleet Command base 6, the Enterprise receives orders to check on Starship Intrepid in Gamma 7 solar system. They find a black space covering the path to the system with no stars visible through it. Upon crossing into the space, the Enterprise begins to lose energy and is pulled towards a single-celled organism that is massive in size. After losing two probes to investigate the organism and failing in an attempt to pull away, Kirk chooses Spock to take the shuttlecraft into the organism membrane, investigate it and find a way to destroy it. Spock finds that the organism is about to reproduce and has a nucleus that can be attacked with a full charge of antimatter energy. Kirk manages to send a probe with the help of Scotty equipped with a timed bomb of antimatter energy and the Enterprise begins to drift out of the membrane tugging the shuttlecraft. Finally, the organism is destroyed and the galaxy is saved.",
 						"de": "Die Enterprise geht der plötzlichen Zerstörung des Föderationsraumschiffs Intrepid, auf dem sich Hunderte Vulkanier befanden, im Sternensystem Gamma-7A nach. Am Ort des Verschwindens eingetroffen, entdeckt die Enterprise ein riesiges Gebilde im Raum, das einem Loch im Weltraum ähnelt und in dem keine Sterne sichtbar sind. Je mehr sich die Enterprise dem Kern dieser Dunkelzone nähert, desto stärker gibt es an Bord Energieverluste und desto schwächer werden die Crewmitglieder physisch und psychisch. McCoy prognostiziert, dass die Besatzung bei dieser Entwicklung bald sterben wird. Die Enterprise befindet sich in einem Gravitationssog, wird immer weiter zum Kern des Lochs gezogen und droht dort wie schon die Intrepid vernichtet zu werden. Im Kern des Lochs ist ein riesiges, amöbenförmiges, gallertartiges Wesen, das sich schubweise von Energie ernährt und sich durch bevorstehende Zellteilung zu vergrößern droht. Spock fliegt mit einem speziell präparierten Shuttle in das Innere des Wesens. Er instruiert die Enterprise per Funk über die Möglichkeit zur Vernichtung. Weil diese wegen Interferenzen unverständlich ist, kann die Enterprise sie nicht umsetzen. Deshalb fliegt die Enterprise in die Amöbe. Weil diese eine negative Energieladung hat, lässt Kirk eine Ladung Antimaterie zünden und dadurch die Amöbe vernichten, wodurch Spock und dem Shuttle aber nichts passiert."
@@ -1655,6 +1775,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DonIngalls",
+							"name": "Don Ingalls"
+						}
 					},
 					"description": {
 						"en": "Captain Kirk must decide how to save a primitive people from the technological interference of the Klingons. Upon landing on the planet with a humanoid population, Kirk finds that half of the population, led by his old friend Tyree, is still primitive while the other half has firearms. Spock is shot and is beamed back to the ship to recover. Kirk and McCoy begin an investigation and Kirk is poisoned by a wild beast. With the Enterprise unavailable to help, Tyree’s wife, Nona, heals Kirk, but she also attempts to control both Kirk and Tyree. After recovering, Kirk takes Nona away from the camp but is attacked by her. She steals his phaser and runs to the enemy camp but is killed in the ambush. Tyree agrees to use weapons to fight to protect his people. Kirk asks Mr. Scott to make firearms for the primitive people, to maintain a balance of power between the two camps.",
@@ -1678,6 +1811,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnTDugan",
+						"name": "John T. Dugan"
+					},
 					"description": {
 						"en": "Telepathic aliens take control of Kirk and Spock’s bodies with the intention to build new, mechanized bodies for themselves. After receiving a distress signal from a planet deep in the galaxy and far from the last charted area, the Enterprise is contacted by a life form of pure energy that wishes Kirk, Spock, Dr. Mulhall and Bones to beam down. They meet Sargon, a conscious mind trapped in a machine. Sargon explains that their civilization travelled space just like Kirk centuries ago and left people in various star systems to colonize. But this planet suffered a war where all but a few people destroyed themselves. Sargon, his wife and another remain alive like this and wish to take control of Kirk, Spock and Dr. Mulhall’s bodies to make android bodies for themselves. The Enterprise accepts their offer after deliberation and Sargon begins work. To allow the body to sustain this transformation, Henock, the third alien, makes a potion to help but has other plans. Sargon devizes a plan to destroy him, apologizes to the Enterprise and accepts their fate thereby ceasing to exist.",
 						"de": "Eine fremde Stimme, die dem nichtphysisch existierenden Wesen Sargon gehört, lässt Kirk, Spock, McCoy und die Wissenschaftlerin Ann Mulhall auf einen Planeten beamen. Sargon und zwei andere Artgenossen existieren dort nur in Energieform in Urnen und sind die letzten Vertreter einer Spezies, die schon lange vor der Menschheit das All erforschte, dann aber beinahe unterging. Nun wollen diese drei Wesen vorübergehend die Körper von Kirk, Spock und Mulhall übernehmen, um ihre künftige Weiterexistenz in Androidenform vorzubereiten. Nachdem Sargon exemplarisch von Kirks Körper Besitz ergriffen hat, entscheidet Kirk, dass es zu Forschungszwecken das Risiko wert ist, den Wesen ihren Wunsch zu erfüllen. Auf der Enterprise erfüllen sie ihnen den Wunsch. Sargon ist in Kirks Körper, Henoch ist in Spocks Körper und Sargons Geliebte Thalassa ist in Mulhalls Körper. Kirks Körper verkraftet die Besitznahme durch Sargon nicht und ergreift daher, ebenso wie später Thalassa, von der Enterprise Besitz. Henoch will dauerhaft in Spocks Körper bleiben, da er nur so Sinnesfreuden erleben kann. Da Sargon gegen Henochs Vorhaben ist, täuschen sie ihn und vernichten ihn, nachdem er Spocks Körper verlassen hat. Schließlich erklären Sargon und Thalassa der Crew, dass sie ihr Vorhaben nicht länger verfolgen."
@@ -1699,6 +1837,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
 					},
 					"abstract": {
 						"de": "Kirk und Spock infiltrieren auf der Suche nach einem Vermissten einen außerirdischen Planeten, auf dem Zustände wie in Nazideutschland herrschen."
@@ -1738,6 +1881,26 @@
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+							"name": "Jerome Bixby"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+							"name": "Jerome Bixby"
+						}
+					},
 					"description": {
 						"en": "Beings from the Andromeda Galaxy steal the Enterprise, technologically modify it, and attempt to return home. Kirk, Spock, Bones, and some crew members beam down to a planet’s surface and find a group of people who demand Kirk surrender the ship by paralyzing everyone except Kirk. These people are the inhabitants of the planet Kelvan in the Andromeda galaxy. They crossed the intergalactic boundaries and intergalactic space to the Milky Way to find a sustainable system for their people on a journey spanning over 300 years. Soon, Rojan controls the Enterprise and, along with his people, immobilizes the entire crew aboard and begins the journey for Andromeda. Upon reaching the intergalactic boundary, Spock and Scotty make a plan to blow up the Enterprise to defeat the Kelvans’ mission, but Spock says no. Later, Kirk and Spock realize that these people, though they have taken human form, are unable to handle the flow of emotions. Spock, Kirk, Bones, and Scotty begin challenging those emotions to distract the Kelvans and regain control of the Enterprise. They help the Kelvans realize that with the help of the United Federation of Planets, the Kelvans can peacefully make their journey into the Milky Way and live in harmony with other civilizations.",
 						"de": "Einem Notruf folgend, ist die Enterprise beim Planeten Kelva. Der Notruf stellt sich für die Crew als Falle heraus, da die Kelvaner die Enterprise gewaltsam übernehmen und für die baldige Entführung vorbereiten. Die Kelvaner wollen, da ihr eigenes Raumschiff zerstört wurde, mit der Enterprise zurück in ihre Heimat, die benachbarte Andromedagalaxie fliegen. Als das auf dem Planeten eingesperrte Außenteam um Kirk und Spock fliehen will, lässt der kelvanische Anführer Rojan zur Strafe ein Redshirt exekutieren. Nachdem die Enterprise, auf die das Außenteam nun zurückgeholt wurde, unter Einsatz von kelvanischer Technik die intergalaktische Energiebarriere zwischen Milchstraße und Andromedagalaxie durchbrochen hat, lässt Rojan die Enterprise-Crewmitglieder in etwa faustgroße Polyeder verwandeln, weil er sie nicht mehr benötigt. Ausnahme davon bilden nur Kirk, Spock, McCoy und Scotty. Da die Kelvaner an Bord der Enterprise ihrer übersinnlichen Fähigkeiten nicht mehr mächtig sind, versuchen die Vier, ihre Schwächen auszunutzen, und können ihnen damit das Menschsein nahebringen. Kirk macht Rojan verständlich, dass er und seine Artgenossen, wenn sie in 300 Jahren in ihrer Heimat ankommen, ihren Verwandten längst fremd geworden sein werden, und bewegt ihn so dazu, mit der Enterprise umzukehren und den Kelvanern im Föderationsgebiet eine Heimat zu bieten."
@@ -1759,6 +1922,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"description": {
 						"en": "Captain Kirk must battle a deadly virus and a treacherous fellow starship captain to stop a meaningless intertribal war. The Enterprise responds to a signal received from the USS Exeter, which is orbiting a planet but not responding to any communications. Upon boarding the ship, Kirk, Bones, and Spock finds that the crew has disappeared and have left behind clothes and a mysterious salt rich in potassium and carbon. Bones realizes that this could be the remains if the crew’s bodies lost all their water. Spock plays the last log from the Exeter and finds a message that says everyone is affected by a virus and should not go back to their ship but beam down to the planet’s surface. Upon landing, they find Captain Tracey of the Exeter, but he is fighting a war with the inhabitants on the side of the Yangs. The landing party is imprisoned and Bones is instructed to find the cure for the disease so that they can go back to the ship. Kirk, Spock, and Bones realize that the human body develops antibodies for the disease within a few hours if they remain on the surface and then beam back to the Enterprise; the antibodies are natural for the local Yangs and Kohms. Finally, the Yangs realize Kirk follows the same book as them (the American Constitution and flag), but in order to decide who is right, they makes Kirk and Captain Tracey fight in a trial by combat. Spock manages to allure one of the Yangs and trick her into giving back his communicator. Three security personnel beam down and take control of the situation. Finally, Kirk tells the Yangs that their Constitution is for everyone, including Kohms, and they should try to live peacefully here.",
@@ -1795,6 +1963,19 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
 					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LaurenceNWolfe",
+							"name": "Laurence N. Wolfe"
+						}
+					},
 					"description": {
 						"en": "A new computer system causes havoc while being tested aboard the Enterprise. With most of the Enterprise crew deboarded, a new M5 multitronic system is installed to test if it can control the Enterprise and manage operations aboard. Dr. Richard Daystrom has built this M5 unit and will oversee the test. Everything goes as planned as the M5 unit completes the demonstration tasks, but somehow the machine begins gaining too much control of the Enterprise, which starts to worry Spock and Kirk. When Kirk says he wants the M5 to let go of some of the controls the machine begins to see that as a threat and starts locking out all manual controls. This becomes a problem because the next task is a mock battle with three starships, which the M5 thinks are actual attacks. The M5 loads the torpedoes, destroys the USS Excalibur and seriously damages the USS Lexington. Dr. Daystrom tries to talk to the M5 but becomes mentally unstable, so Spock puts him to rest. Then Kirk talks to the M5 and makes it understand that it was designed not to harm humans, a rule the M5 has broken by attacking the USS Lexington and Excalibur. The M5 realizes that its understanding is still weak and destroys itself. Kirk, Spock, Uhura, Scotty and Chekov retake control of the ship and return safely to base.",
 						"de": "Der Föderationsforscher Dr. Daystrom hat das Computersystem M5 entwickelt, welches dazu dient, ein Raumschiff ohne jegliche menschliche Hilfe zu kontrollieren. M5 wird auf der Enterprise einem Praxistest unterzogen, es verbleiben dort nur Daystrom und eine 20-köpfige Rumpfcrew, darunter Kirk. Während Spock von M5 fasziniert ist, hat Kirk Bedenken, ob M5 für seine Aufgabe geeignet ist. Der erste Test, dem M5 unterzogen wird, ist die Konfrontation mit einem sich nähernden feindlichen Raumschiff; diese verläuft mit Scheintreffern wie geplant. Als die Enterprise danach aber ungeplant auf einen Erzfrachter trifft, zerstört M5 diesen sofort per Photonentorpedo-Beschuss. Daran erkennt Daystrom, dass M5 einen Defekt hat. M5 lässt sich zunächst nicht abschalten und beschützt sich selbst, wobei M5 auch ein Redshirt tötet. Bald nähern sich der Enterprise vier Raumschiffe, darunter die Lexington, auf der auch Captain Wesley arbeitet, der den Praxistest von M5 angeordnet hat. M5 greift die Schiffe an, schießt sie teils manövrierunfähig, wobei dort auch Menschen sterben. Dadurch ist Wesley gezwungen, die Vernichtung der Enterprise anzuordnen. Kirk überzeugt den Computer M5, den Daystrom mit eigener Denkstruktur und Mentalität programmiert hat, von der Erkenntnis, dass Morden illegal ist. Dadurch schaltet sich M5 selbst ab, begeht Suizid. Dadurch ist die Gefahr für Enterprise und Wesleys Schiffe gebannt."
@@ -1817,6 +1998,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
 					"description": {
 						"en": "Captain Kirk and his companions are forced to fight in gladiatorial games on a planet with a civilization similar to the Roman Empire. Kirk, Spock and Bones beam down to a planet to find out why its people live like the ancient Roman Empire where slaves are subjected to fighting in gladiatorial combat. They ask refugees who escaped slavery to help them get into the empire where they meet a former starship captain. All three of them are captured. Spock and Bones are forced to fight and later all three of them are sentenced to the death penalty. However, Kirk, Spock and Bones manage to get back their transponders, and Scotty immediately beams them up.",
 						"de": "Die Enterprise findet im All Trümmer des lange vermissten Raumschiffs Beagle und ortet auf einem nahen, der Erde des 20. Jahrhunderts ähnelnden Planeten Lebenszeichen, die möglicherweise von der Crew der Beagle stammen. Kirk, Spock und McCoy, auf der Suche nach ihnen auf den Planeten gebeamt, treffen dort auf Stadtbewohner, die unter der Macht des Prokonsuls Claudius Marcus leben. Dessen Adjutant ist Merrick, der ehemalige Captain der Beagle. In deren Gefangenschaft kommen die Drei zusammen mit dem entflohenen Sklaven Flavius. Merrick und seine Crew untersuchten einst den Planeten und durften ihn zur Vermeidung ihrer Ermordung durch die Einheimischen nicht mehr verlassen. Diejenigen, die sich den Einheimischen widersetzten, starben und die anderen leben nun in einer Gesellschaft nach Vorbild des Römischen Reichs, in der Gladiatorenkämpfe üblich sind. Der Prokonsul versucht Kirk dazu zu zwingen, der restlichen Enterprise-Crew den Befehl zum Herunterbeamen zu geben. Da Kirk sich weigert, möchte Claudius Marcus ihn öffentlich exekutieren lassen. Jedoch kann er mit Spock und McCoy rechtzeitig auf die Enterprise beamen. Bei der Flucht hilft ihnen sowohl Flavius als auch Merrick, der Claudius Marcus indes überdrüssig geworden ist, als auch die Enterprise, die Kirk zuvor insgeheim instruiert hatte."
@@ -1851,6 +2044,26 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+						"name": "Art Wallace"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+								"name": "Gene Roddenberry"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+								"name": "Art Wallace"
+							}
+						]
 					},
 					"description": {
 						"en": "During a historical research mission in 1968, the Enterprise encounters Gary Seven, a human from the future who appears to be attempting to alter history. The Enterprise is on its mission to observe the Earth in 1968 when it beams aboard a mysterious man named Gary Seven. Gary wants to get back to the Earth’s surface, but the Enterprise command crew are unable to decide how to proceed. Seven tricks the guards and escapes, leading Kirk and Spock to beam down to the Earth’s surface. History suggests that on this day, a crucial spacecraft launch failed in the US that changed the course of history. But Kirk and Spock fail to realize that Seven is trying to help the events take place and not stop them. Using his secret portal, Seven is able to reach the launch site and install the device that will cause the mission to fail. The Enterprise can safely return to its present time.",
@@ -1902,6 +2115,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
+					},
 					"abstract": {
 						"en": "Captain Kirk pursues aliens who have stolen Spock’s brain."
 					},
@@ -1939,6 +2157,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
 					"abstract": {
 						"en": "The crew of the Enterprise attempts to steal a Romulan cloaking device."
 					},
@@ -1962,6 +2185,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
 					},
 					"abstract": {
 						"en": "A mysterious alien device on a planet with a predominantly American Indian culture erases Captain Kirk’s memory, and he begins a life with them as a member of their tribe."
@@ -2000,6 +2228,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EdwardJLakso",
+						"name": "Edward J. Lakso"
+					},
 					"abstract": {
 						"en": "The crew of the Enterprise rescues a group of children stranded on a planet, along with their evil “imaginary” friend."
 					},
@@ -2024,6 +2257,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeanLisetteAroeste",
+						"name": "Jean Lisette Aroeste"
+					},
 					"abstract": {
 						"en": "The Enterprise travels with an alien ambassador who must travel inside a special case because his appearance causes insanity."
 					},
@@ -2047,6 +2285,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "For trespassing on an alien world, Captain Kirk and his companions are forced to re-enact the famous shoot-out at the O.K. Corral with themselves cast as the losing side."
@@ -2085,6 +2328,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
+					},
 					"abstract": {
 						"en": "An alien energy-based life form that feeds on negative emotions (such as fear, anger, hatred) drives the crew of the Enterprise into brutal conflict with the Klingons."
 					},
@@ -2108,6 +2356,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TonyLeader",
 						"name": "Tony Leader"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HendrikVollaerts",
+						"name": "Hendrik Vollaerts"
 					},
 					"abstract": {
 						"en": "As McCoy discovers he is dying of an incurable disease, the crew of the Enterprise rush to stop an asteroid from colliding with a Federation world, only to discover that the asteroid is, in fact, a disguised alien vessel. They find an entire civilization living in the ship who believe they are actually on a planet and a dictatorial “Oracle” who forbids any attempt to discover the truth."
@@ -2133,6 +2386,18 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudyBurns",
+							"name": "Judy Burns"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChetRichards",
+							"name": "Chet Richards"
+						}
+					],
 					"abstract": {
 						"en": "Captain Kirk is caught between dimensions while the Enterprise is trapped by an energy draining web spun by mysterious aliens. The two-part Enterprise episode “In a Mirror, Darkly” serves as a sequel to this episode."
 					},
@@ -2156,6 +2421,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"name": "David Alexander"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeyerDolinsky",
+						"name": "Meyer Dolinsky"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise encounters an ageless and mischievous race of psychic humanoids who claim to have organized their society around Ancient Greek ideals."
@@ -2181,6 +2451,19 @@
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
 					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+						"name": "Arthur Heinemann"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					},
 					"abstract": {
 						"en": "Invisible “time-accelerated” aliens take over the Enterprise and attempt to abduct the crew for use as “genetic stock”."
 					},
@@ -2205,6 +2488,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnErman",
 						"name": "John Erman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoyceMuskat",
+						"name": "Joyce Muskat"
+					},
 					"abstract": {
 						"en": "While visiting a doomed planet, the landing party is subject to torturous experiments to test an empathic race."
 					},
@@ -2225,6 +2513,11 @@
 						"datePublished": "1973-10-20"
 					},
 					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
+					},
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
@@ -2253,6 +2546,26 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeeErwin",
+						"name": "Lee Erwin"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LeeErwin",
+								"name": "Lee Erwin"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+								"name": "Jerry Sohl"
+							}
+						]
+					},
 					"abstract": {
 						"en": "Captain Kirk visits a mental health facility and confronts an insane starship captain who believes he is destined to control the universe."
 					},
@@ -2276,6 +2589,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+						"name": "Oliver Crawford"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
 					},
 					"abstract": {
 						"en": "The Enterprise picks up the last two survivors of a war-torn planet who are still committed to destroying each other aboard the ship."
@@ -2301,6 +2627,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeorgeFSlavin",
+							"name": "George F. Slavin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StanleyAdams",
+							"name": "Stanley Adams"
+						}
+					],
 					"abstract": {
 						"en": "An overpopulated race of aliens abduct Kirk to solve their problem."
 					},
@@ -2338,6 +2676,19 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
 					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						}
+					},
 					"abstract": {
 						"en": "The crew of the Enterprise visits an abandoned outpost guarded by a mysterious computer."
 					},
@@ -2362,6 +2713,18 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbKenwith",
 						"name": "Herb Kenwith"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeremyTarcher",
+							"name": "Jeremy Tarcher"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShariLewis",
+							"name": "Shari Lewis"
+						}
+					],
 					"abstract": {
 						"en": "Strange, energy-based alien life forms threaten the Memory Alpha station and the Enterprise crew."
 					},
@@ -2385,6 +2748,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MurrayGolden",
 						"name": "Murray Golden"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise encounters an immortal human who lives as a recluse on his own planet."
@@ -2410,6 +2778,26 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"name": "David Alexander"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+						"name": "Arthur Heinemann"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DCFontana",
+								"name": "D. C. Fontana"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+								"name": "Arthur Heinemann"
+							}
+						]
+					},
 					"abstract": {
 						"en": "The Enterprise is hijacked by a criminal doctor and his loyal, hippie-like followers who are attempting to find paradise."
 					},
@@ -2433,6 +2821,26 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+								"name": "David Gerrold"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+								"name": "Oliver Crawford"
+							}
+						]
 					},
 					"abstract": {
 						"en": "Kirk races against time to acquire plague-fighting minerals from a world in the midst of a civil uprising."
@@ -2471,6 +2879,26 @@
 						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"name": "Herschel Daugherty"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+							"name": "Arthur Heinemann"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						}
+					},
 					"abstract": {
 						"en": "Aliens force Kirk and Spock to battle illusionary villains in a test of good versus evil."
 					},
@@ -2495,6 +2923,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeanLisetteAroeste",
+						"name": "Jean Lisette Aroeste"
+					},
 					"abstract": {
 						"en": "Kirk, Spock, and McCoy are trapped in the past on a world threatened by a nova."
 					},
@@ -2518,6 +2951,19 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurSinger",
+						"name": "Arthur Singer"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						}
 					},
 					"abstract": {
 						"en": "Kirk’s consciousness becomes trapped in the body of a woman bent on killing him and taking over his command while inhabiting his body."
