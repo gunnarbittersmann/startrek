@@ -72,11 +72,6 @@
 							"url": "https://de.wikipedia.org/wiki/Das_k%C3%B6rperlose_Wesen"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -92,6 +87,16 @@
 							"datePublished": "2016-09-08"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SamuelAPeeples",
+						"name": "Samuel A. Peeples"
+					},
 					"abstract": {
 						"en": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
 					},
@@ -138,11 +143,6 @@
 							"url": "https://de.wikipedia.org/wiki/Das_Zeitportal"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -158,6 +158,16 @@
 							"datePublished": "2016-09-09"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
 					"abstract": {
 						"en": "Spock must travel to the past to rescue his younger self from danger."
 					},
@@ -204,11 +214,6 @@
 							"url": "https://de.wikipedia.org/wiki/Die_gef%C3%A4hrliche_Wolke"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -224,6 +229,16 @@
 							"datePublished": "2016-09-12"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
+						"name": "Marc Daniels"
+					},
 					"abstract": {
 						"en": "The Enterprise encounters a giant cloud creature that feeds on the energy of the planets that lie in its path. They determine it is heading for Mantilles, home to a Federation colony governed by former Starfleet officer Bob Wesley (featured in the TOS episode “The Ultimate Computer”)."
 					}
@@ -257,11 +272,6 @@
 							"url": "https://de.wikipedia.org/wiki/Das_Lorelei-Signal"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -277,6 +287,16 @@
 							"datePublished": "2016-09-13"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
+					},
 					"abstract": {
 						"en": "Investigating a sector of space where starships have disappeared every 27 years, the Enterprise finds a race of beautiful women living on the planet Taurus II."
 					}
@@ -310,11 +330,6 @@
 							"url": "https://de.wikipedia.org/wiki/Mehr_Trouble_mit_Tribbles"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -330,6 +345,16 @@
 							"datePublished": "2016-09-14"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+						"name": "David Gerrold"
+					},
 					"abstract": {
 						"en": "While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman’s Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
 					}
@@ -363,11 +388,6 @@
 							"url": "https://de.wikipedia.org/wiki/Der_%C3%9Cberlebende"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -383,6 +403,16 @@
 							"datePublished": "2016-09-15"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSchmerer",
+						"name": "James Schmerer"
+					},
 					"abstract": {
 						"en": "Patrolling near the Romulan Neutral Zone, the USS Enterprise finds a ship carrying Carter Winston, a Federation citizen and philanthropist who has been missing for five years."
 					}
@@ -416,11 +446,6 @@
 							"url": "https://de.wikipedia.org/wiki/Das_Superhirn_(Die_Enterprise)"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -436,6 +461,16 @@
 							"datePublished": "2016-09-16"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WalterKoenig",
+						"name": "Walter Koenig"
+					},
 					"abstract": {
 						"en": "While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu’s life, but kidnap Mr. Spock."
 					},
@@ -482,16 +517,21 @@
 							"url": "https://de.wikipedia.org/wiki/Das_Geheimnis_von_Megas-Tu"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Das Geheimnis von Megas-Tu",
 						"datePublished": "2016-09-19"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryBrody",
+						"name": "Larry Brody"
 					},
 					"abstract": {
 						"en": "While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship’s systems and takes the crew to explore his planet, Megas-Tu."
@@ -526,11 +566,6 @@
 							"url": "https://de.wikipedia.org/wiki/Phantasie_oder_Wirklichkeit"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -544,6 +579,23 @@
 							"name": "Phantasie oder Wirklichkeit",
 							"inLanguage": "de",
 							"datePublished": "2016-09-20"
+						}
+					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChuckMenville",
+							"name": "Chuck Menville"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LenJanson",
+							"name": "Len Janson"
 						}
 					],
 					"abstract": {
@@ -579,11 +631,6 @@
 							"url": "https://de.wikipedia.org/wiki/Der_Liebeskristall"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -599,6 +646,16 @@
 							"datePublished": "2016-09-21"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
+					},
 					"abstract": {
 						"en": "The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd, who is accused of selling fake love crystals. Intercepting Harry on the mining colony of Motherlode, they bring him aboard the Enterprise."
 					}
@@ -632,11 +689,6 @@
 							"url": "https://de.wikipedia.org/wiki/Die_Rettungsmission"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -652,6 +704,16 @@
 							"datePublished": "2016-09-22"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulSchneider",
+						"name": "Paul Schneider"
+					},
 					"abstract": {
 						"en": "While observing a burnt-out supernova, the USS Enterprise picks up a strange message transmitted in a two-hundred-year-old code."
 					}
@@ -685,11 +747,6 @@
 							"url": "https://de.wikipedia.org/wiki/Die_Zeitfalle_(Die_Enterprise)"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -705,6 +762,16 @@
 							"datePublished": "2016-09-23"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoycePerry",
+						"name": "Joyce Perry"
+					},
 					"abstract": {
 						"en": "While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
 					}
@@ -738,11 +805,6 @@
 							"url": "https://de.wikipedia.org/wiki/Die_Entf%C3%BChrung_(Die_Enterprise)"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -758,6 +820,16 @@
 							"datePublished": "2016-09-26"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
+					},
 					"abstract": {
 						"en": "While exploring the water planet Argo, Captain Kirk and Mr. Spock are transformed into water breathers by the planet’s undersea inhabitants, the Aquans. In order to return to their normal selves, they must enlist the help of the Aquans to capture a giant sur-snake, whose venom holds the antidote."
 					}
@@ -791,16 +863,21 @@
 							"url": "https://de.wikipedia.org/wiki/Das_Geheimnis_der_Stasis-Box"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Das Geheimnis der Stasis-Box",
 						"datePublished": "2016-09-27"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryNiven",
+						"name": "Larry Niven"
 					},
 					"abstract": {
 						"en": "In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
@@ -835,11 +912,6 @@
 							"url": "https://de.wikipedia.org/wiki/Auf_der_Suche_nach_%C3%9Cberlebenden"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -855,6 +927,16 @@
 							"datePublished": "2016-09-28"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+						"name": "David P. Harmon"
+					},
 					"abstract": {
 						"en": "The disappearance of a scientific team lures the USS Enterprise to investigate near Lactra VII. The starship Ariel is located there, abandoned, with its captain having transported to the planet’s surface."
 					}
@@ -888,16 +970,21 @@
 							"url": "https://de.wikipedia.org/wiki/Das_gestohlene_Gehirnwellenmuster"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
-						"name": "Hal Sutherland"
-					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Das gestohlene Gehirnwellenmuster",
 						"datePublished": "2016-09-29"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HalSutherland",
+						"name": "Hal Sutherland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
 					},
 					"abstract": {
 						"en": "The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr. Spock have been summoned to learn about a stolen religious artifact, the “Soul of the Skorr”, whose theft could ignite a galactic holy war."
@@ -939,11 +1026,6 @@
 							"url": "https://de.wikipedia.org/wiki/Die_Piraten_von_Orion"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -959,6 +1041,16 @@
 							"datePublished": "2016-09-30"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HowardWeinstein",
+						"name": "Howard Weinstein"
+					},
 					"abstract": {
 						"en": "Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
 					},
@@ -1005,11 +1097,6 @@
 							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Pr%C3%BCfung"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -1025,6 +1112,16 @@
 							"datePublished": "2016-10-04"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+						"name": "David Gerrold"
+					},
 					"abstract": {
 						"en": "The Enterprise crew is taken captive by a race of primitives on a newly discovered planet."
 					}
@@ -1058,11 +1155,6 @@
 							"url": "https://de.wikipedia.org/wiki/W%C3%BCste_Scherze"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -1076,6 +1168,23 @@
 							"name": "Wüste Scherze",
 							"inLanguage": "de",
 							"datePublished": "2016-10-05"
+						}
+					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChuckMenville",
+							"name": "Chuck Menville"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LenJanson",
+							"name": "Len Janson"
 						}
 					],
 					"abstract": {
@@ -1124,11 +1233,6 @@
 							"url": "https://de.wikipedia.org/wiki/Dr._McCoy_unter_Anklage"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -1137,6 +1241,16 @@
 							"datePublished": "2016-10-06"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DarioFinelli",
+						"name": "Dario Finelli"
+					},
 					"abstract": {
 						"en": "Doctor McCoy is arrested for allegedly causing a deadly plague which once ravaged the planet Dramia."
 					}
@@ -1170,11 +1284,6 @@
 							"url": "https://de.wikipedia.org/wiki/Kulkulkan_%E2%80%93_Der_M%C3%A4chtige"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -1188,6 +1297,23 @@
 							"name": "Kukulkan – der Mächtige",
 							"inLanguage": "de",
 							"datePublished": "2016-10-07"
+						}
+					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RussellBates",
+							"name": "Russell Bates"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWise",
+							"name": "David Wise"
 						}
 					],
 					"abstract": {
@@ -1237,11 +1363,6 @@
 							"url": "https://de.wikipedia.org/wiki/Flucht_aus_einem_anderen_Universum"
 						}
 					],
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillReed",
-						"name": "Bill Reed"
-					},
 					"workTranslation": [
 						{
 							"@type": "TVEpisode",
@@ -1257,6 +1378,16 @@
 							"datePublished": "2016-10-10"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillReed",
+						"name": "Bill Reed"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnCulver",
+						"name": "John Culver"
+					},
 					"abstract": {
 						"en": "An unusual spaceship pulls the Enterprise into a “negative universe” where time seems to flow backwards."
 					}
