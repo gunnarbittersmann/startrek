@@ -1486,6 +1486,21 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "As a group of Suliban take over Enterprise, Captain Archer tries to return to the 22nd century."
+					},
 					"description": {
 						"de": "Auf der Suche nach Archer übernehmen die Suliban die Kontrolle über die Enterprise, verhören T’Pol und sperren den Rest der Mannschaft in ihre Quartiere. Unterdessen sind Archer und Daniels in eine Bibliothek San Franciscos gelangt und versuchen dort mittels Archers Kommunikator mit der Enterprise in der Vergangenheit zu kommunizieren, damit Archer zurückkehren kann. Alsbald beginnen die eingesperrten Führungsoffiziere, unbemerkt von den Suliban miteinander zu kommunizieren, auszubrechen und die Suliban auszuschalten. Dabei entwenden sie – nachdem T’Pol durch Archer darüber instruiert worden ist – aus Daniels’ Quartier ein Gerät, mit dessen Hilfe Archer zurückzukehren hofft. Zwar wird ihnen dieses anschließend durch die Suliban abgenommen, jedoch kann Archer zurückkehren, als Silik das Gerät anwendet. Nachdem die Crew die Gewalt über die Enterprise zurückerlangt hat, wird das Schiff zunächst durch über 30 Suliban-Schiffe verfolgt und beschossen; der Angriff endet jedoch abrupt. Nachdem die Enterprise mit dem vulkanischen Raumschiff Sikir zusammengetroffen ist, teilen Sternenflotten- und vulkanisches Kommando den Führungsoffizieren mit, dass die Mission der Enterprise trotz Unschuldsbeweises bzgl. der Vernichtung der Paraganer beendet werden müsse, weil die Crew bereits in zu viele bewaffnete Konflikte involviert gewesen sei. Da sowohl Archer als auch T’Pol argumentieren, dass Menschen bzw. Vulkanier aus ihren Fehlern lernen können, macht ihnen Sternenflottenadmiral Forrest Hoffnung, dass ihre Mission dennoch fortgesetzt werde."
 					}
@@ -1516,6 +1531,34 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+						"name": "Chris Black"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DanOShannon",
+								"name": "Dan O’Shannon"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Sub-Commander T’Pol relates the tale of a Vulcan crew stranded on Earth in the 1950s."
 					},
 					"description": {
 						"de": "Beim gemeinsamen Essen mit Archer und Tucker erzählt T’Pol eine Geschichte von ihrer Urgroßmutter T’Mir, die in den 1950er Jahren als erste Offizierin auf einem vulkanischen Raumschiff tätig ist. Als dieses auf der Erde – in der Nähe der Bergwerks-Kleinstadt Carbon Creek, Pennsylvania – notlanden muss, ist sie zwecks Überleben zusammen mit ihren beiden überlebenden Mannschaftskollegen, darunter einer namens Mestral, dazu gezwungen, im Ort eine Arbeit aufzunehmen. Mestral widersetzt sich T’Mirs Anweisungen, sich nicht in die Geschichte einzumischen und unnötigen Kontakt mit den Einheimischen zu vermeiden, indem er eine Liebesbeziehung beginnt und eingeschlossene Bergleute befreit. Nach mehreren Monaten Wartezeit in Carbon Creek werden sie, ohne dass die Menschen sie als Außerirdische enttarnen konnten, durch ein vulkanisches Schiff abgeholt, das auf den Notruf aufmerksam geworden war; Mestral bleibt jedoch wegen eigener Neugierde auf der Erde. T’Pol enthüllt die Geschichte gegenüber Archer und Tucker zu deren Verwunderung zwar als erfunden, packt jedoch danach in ihrem Quartier die Handtasche aus, die T’Mir einst aus Carbon Creek mitnahm."
@@ -1548,6 +1591,14 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnShiban",
+						"name": "John Shiban"
+					},
+					"abstract": {
+						"en": "Enterprise snags a cloaked mine and Lieutenant Reed and Captain Archer race to disable it during first contact with the Romulan Star Empire."
+					},
 					"description": {
 						"de": "Als sich die Enterprise einem unbekannten Planeten nähert, reißt eine gewaltige Explosion ein Loch in den Schiffsrumpf, es gibt zahlreiche Verletzte. Schnell wird klar, dass das Schiff in ein Minenfeld geraten ist. Eine Mine haftet an der Außenhülle. Während Mayweather die von einem romulanischen Schiff zum Rückzug gedrängte Enterprise aus dem Minenfeld herausmanövriert, macht sich Reed im Raumanzug daran, die haftende Mine zu entschärfen. Dabei bohrt sich ein Minenstandfuß durch Reeds Bein und fixiert ihn somit. Deshalb beginnt Archer, auf Reeds Anleitung hin die Mine zu entschärfen. Dabei unterhalten sie sich über Reeds Freizeit. Als Archers Entschärfungsbemühungen scheitern und die Romulaner das Schiff zum weiteren Rückzug drängen, lässt er den Hüllenteil, auf dem sich Mine und Reed befinden, von der Schiffspanzerung absprengen. Es gelingt ihm, Reed von dem Standfuß zu trennen, bevor die Mine explodiert."
 					}
@@ -1579,6 +1630,21 @@
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"abstract": {
+						"en": "Heavily damaged by the Romulan mine, Enterprise is repaired by an unmanned and automated sentient alien repair station."
+					},
 					"description": {
 						"de": "Zur Reparatur der bei der Minenexplosion entstandenen Schäden nimmt die Enterprise die Hilfe einer autarken, computergesteuerten Raumstation in Anspruch und dockt an ihr an. Archer misstraut aber der entgegenkommenden Haltung der Station, auch, weil diese mit 200 Litern Warpplasma nur eine geringe Gegenleistung fordert. Nachdem Mayweather auf der Enterprise durch eine unbekannte Kraft offensichtlich getötet wurde, findet Phlox bei der Obduktion heraus, dass es sich bei der Leiche nur um ein Faksimile Mayweathers handelt und der originale Körper sich nur auf der Station befinden kann. Daraufhin gewaltsam in den Datenkern der Station eingedrungen, entführen Archer und Tucker Mayweathers Körper auf die Enterprise. Da die Station das Schiff wegen des Diebstahls nicht freiwillig freigibt, lässt Archer die Enterprise mit Waffengewalt abfliegen. Offensichtlich nutzte die Station die Gehirne Mayweathers und anderer dort eingesperrter Humanoider als Computerprozessor. Wenig später zerstört diese sich selbst, beginnt jedoch schließlich, sich selbst zu reparieren."
 					}
@@ -1609,6 +1675,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "The Captain’s beagle, Porthos, becomes ill from an alien pathogen, and Captain Archer frets in Sickbay waiting for him to recover."
 					},
 					"description": {
 						"de": "Nach einem Aufenthalt Archers und seines Hundes Porthos auf dem Planeten der Kretasaner verlangen letztere eine Entschuldigung Archers für einen von Porthos begangenen Verstoß gegen kretasanische Sitten. Solange Archer sich nicht entschuldigt hat, verweigern sie der Enterprise die Herausgabe eines dringend benötigten Plasmainjektors. Da sich Porthos dabei außerdem mit einem fremden Erreger infiziert hat, befindet er sich in der Behandlung von Phlox. Seinem Hund treu, übernachtet Archer mit auf der Krankenstation, wird dabei aber durch Phlox beim Schlafen gestört. Während Phlox den Hund mit einer noch nicht erprobten Transplantation zu heilen versucht, spricht er mit Archer über seine Familie und über dessen persönliche Beziehung zu T’Pol. Schließlich gelingt es Archer, die Kretasaner mit der Durchführung eines ihrer traditionellen Riten zufriedenzustellen, sodass diese den Injektor herausgeben. Phlox’ Behandlung von Porthos stellt sich als erfolgreich heraus."
@@ -1654,6 +1735,29 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidWilcox",
+						"name": "David Wilcox"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer barters for deuterium from a mining colony plagued by Klingon marauders, who are seeking deuterium as well."
+					},
 					"description": {
 						"de": "Auf einem Planeten gelandet, erbittet die Enterprise-Crew von den Inhabern einer Arbeiterkolonie Deuterium, das dort raffiniert wird, und bietet im Gegenzug Reparatur- und medizinische Hilfe an. Technische Probleme an den Förderanlagen verhindern zunächst die Bereitstellung einer ausreichenden Menge Deuterium. Zudem wird die Kolonie schon seit längerem durch Klingonen terrorisiert. Um die Siedler nicht im Stich zu lassen, bietet Archer ihnen die Hilfe der Enterprise an. Die Crew schult die Kolonisten im Umgang mit Waffen und gibt taktische Hinweise. Indem sie zusammen die Siedlung um einige Meter versetzen, um so die Bohrlöcher vor Explosionen zu schützen, stellen sie den Klingonen eine Falle, in die diese wie erwartet hineintappen. Dankbar für die Hilfe überlassen die Kolonisten der Enterprise ein Vielfaches an Deuterium."
 					}
@@ -1684,6 +1788,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Sub-Commander T’Pol is reactivated as a Vulcan intelligence agent, reawakening a dark secret from her past."
 					},
 					"description": {
 						"de": "T’Pol erhält vom vulkanischen Oberkommando den Auftrag, den vulkanischen abtrünnigen Agenten und Schmuggler Menos aufzugreifen, den sie im Rahmen ihrer früheren Tätigkeit als Agentin nicht finden konnte. Unter dem Vorwand, der Auftrag stamme auch vom Föderationskommando, und ohne Näheres über ihre Beweggründe preiszugeben, überredet T’Pol Archer dazu, sie zu begleiten. Nachdem die beiden zusammen mit Mayweather in einer heruntergekommenen Kneipe auf einem Planeten angekommen sind, können sie Menos nach kurzem Widerstand verhaften. Die vermuteten Toxine kann T’Pol in Menos’ Raumschiff aber nicht finden. Nach einem Gespräch mit Menos, der sich als unschuldig betrachtet, gerät T’Pol in Selbstzweifel und enthüllt gegenüber Archer, dass ihr einst nicht nur Menos, sondern auch dessen Kollege Jossen entwischt sei, den sie auf der Flucht aber erschießen musste. Ihre Erinnerungen an die Jagd auf Jossen wurden von anderen Vulkaniern im Rahmen des Fullara-Rituals einst unterdrückt und kommen erst jetzt nach und nach zurück. Bei einem Brand in der Kneipe kann Menos entfliehen, jedoch nach kurzem Intermezzo durch Archer, T’Pol und Mayweather in seinem Raumschiff wieder gestellt werden. Dort finden sie schließlich auch die vermuteten Toxinbehälter."
@@ -1716,6 +1835,29 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "After an away mission, Lieutenant Reed discovers that his communicator was lost on a pre-warp planet; he and Captain Archer are then captured trying to retrieve it."
+					},
 					"description": {
 						"de": "Chirurgisch-kosmetisch verändert, kehren Archer und Reed auf den eben von ihnen besuchten Planeten einer Prä-Warp-Kultur zurück, um Reeds dort vergessenen Kommunikator mitzunehmen und so zu verhindern, dass die Kultur durch fremde Technologie kontaminiert wird. Sie erregen jedoch Aufsehen und werden durch das Militär verhaftet und gewaltsam verhört, das sie – vor allem angesichts ihrer Phaserwaffen – als Spione der sog. Allianz verdächtigt und eines geplanten Attentats beschuldigt. Als die Einheimischen zudem entdecken, dass Archer und Reed einer fremden Spezies angehören, versuchen die beiden, ihre wahre Herkunft durch Lügen zu verschleiern, sie seien genetisch veränderte, prototypische Supersoldaten der Allianz. Um ihre Biologie näher zu untersuchen, möchte das Militär den beiden ihre Organe entnehmen; zu dem Zweck werden sie zum Tode durch den Strang verurteilt. Bereits mit der Schlinge um den Hals, werden sie während eines intensiven Feuergefechts durch T’Pol, Tucker und Mayweather gerettet, die zuvor mit einem nicht immer getarnten und deshalb auch aufgefallenen Suliban-Raumschiff herbeigeeilt waren. Nachdem sie mit der auf den Planeten mitgebrachten Technologie auf die Enterprise zurückgekehrt sind, würdigt T’Pol Archers Bereitschaft, lieber zu sterben, als den Planetenbewohnern seine wahre Herkunft preiszugeben."
 					}
@@ -1747,6 +1889,14 @@
 						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"name": "Patrick R. Norris"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+						"name": "Chris Black"
+					},
+					"abstract": {
+						"en": "Enterprise charts a course through a trinary star system to investigate a black hole, and the crew find themselves suffering from a condition similar to OCD."
+					},
 					"description": {
 						"de": "Als die Enterprise zu Forschungszwecken ein trinäres Sternensystem durchfliegt, beginnen die Crewmitglieder mit Ausnahme T’Pols, sich merkwürdig zu verhalten: Sie sind überaus stark auf triviale Dinge fixiert. Archer hat Konzentrationsschwierigkeiten, Tucker ist streitsüchtig, Reed agiert paranoisch. Phlox will Mayweather zur Behandlung von dessen Kopfschmerzen einer Gehirnoperation unterziehen. T’Pol erkennt als Ursache die Strahlung des Sternensystems und schafft es schließlich, mit der schwierigen Hilfe Archers, das Schiff durch Asteroidentrümmer aus dem System zu manövrieren, woraufhin alle wieder gesunden."
 					}
@@ -1777,6 +1927,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "After her first trip through the transporter, Ensign Sato finds herself becoming incorporeal, with the crew believing she has perished."
 					},
 					"description": {
 						"de": "Bei der Rückkehr von einem Planeten zur Enterprise lassen sich Tucker und Sato einzeln heraufbeamen, da Stürme das Fliegen unmöglich machen. Danach klagt Sato über Unwohlsein und wird von Archer, nachdem sie bei der Kommunikation in einer bislang fremden Sprache kläglich gescheitert ist, vorerst vom Dienst freigestellt. Nachdem sie außerdem ihr Spiegelbild als transparent erkennt und Wasser durch ihre Hand laufen sieht, wird sie völlig unsichtbar für ihre Mannschaftskollegen. Während Phlox und Tucker als Ursache für Satos Verschwinden einen Transporterfehler identifizieren und nach subzellulären Rückständen Satos suchen, bemerkt diese, wie blauhäutige Außerirdische Bomben in der Enterprise anbringen und scharf machen. Ihre anschließenden Versuche, Archer durch das Morsen von SOS auf ihre Lage und die Bedrohung aufmerksam zu machen, bleiben erfolglos. Als Sato im Maschinenraum die Transporterplattform der Außerirdischen benutzt, findet sie sich plötzlich rematerialisiert im Transporterraum wieder, wo sie erfährt, dass nur acht Sekunden vergangen sind, seitdem sie auf dem Planeten dematerialisierte."
