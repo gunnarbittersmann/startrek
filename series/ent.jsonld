@@ -625,6 +625,11 @@
 						},
 						"url": "https://en.wikipedia.org/wiki/Silent_Enemy_(Star_Trek:_Enterprise)"
 					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
+						"name": "Winrich Kolbe"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
@@ -632,11 +637,6 @@
 					},
 					"abstract": {
 						"en": "Ensign Sato tries to find out what Lieutenant Reed’s favorite food is, while Captain Archer deals with a secretive and aggressive alien first contact."
-					},
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
-						"name": "Winrich Kolbe"
 					},
 					"description": {
 						"de": "Mehrfach hat die Enterprise Kontakt mit einem fremden Raumschiff, dessen Besatzung sich aber jeglicher Kommunikation verweigert. Nachdem es die Enterprise beschossen hat und anschließend geflohen ist, beschließt Archer, mit der Enterprise zur Erde zu fliegen, um dort die neuen Phaserkanonen installieren zu lassen. Ehrgeizig machen sich Tucker und Reed daran, die Waffen schon während des Fluges zu installieren. Dies zahlt sich aus, als sie die Waffen nach einem zunächst unplanmäßig verlaufenen Test einsetzen können, um das erneut aufgetauchte fremde Schiff kampfunfähig zu schießen und damit in die Flucht zu schlagen. Unterdessen hat Archer Sato damit beauftragt, zu Reeds Geburtstag dessen Lieblingsessen zu ermitteln. So können sie Reed sehr zu dessen Freude schließlich mit einem Ananaskuchen überraschen."
