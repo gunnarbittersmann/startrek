@@ -76,6 +76,28 @@
 						"name": "Aufbruch ins Unbekannte",
 						"datePublished": "2003-03-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Broken_Bow_(Star_Trek:_Enterprise)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -84,7 +106,6 @@
 					"abstract": {
 						"de": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Aufbruch_ins_Unbekannte",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | First Episodes",
@@ -110,6 +131,16 @@
 						"inLanguage": "de",
 						"name": "Freund oder Feind",
 						"datePublished": "2003-03-21"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fight_or_Flight_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -146,6 +177,16 @@
 						"name": "Geistergeschichten",
 						"datePublished": "2003-03-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Strange_New_World_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -166,6 +207,16 @@
 						"inLanguage": "de",
 						"name": "In guter Hoffnung",
 						"datePublished": "2003-04-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Unexpected_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -188,6 +239,16 @@
 						"name": "Terra Nova",
 						"datePublished": "2003-04-11"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Terra_Nova_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -209,6 +270,16 @@
 						"name": "Doppeltes Spiel",
 						"datePublished": "2003-05-02"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Andorian_Incident"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
@@ -229,6 +300,16 @@
 						"inLanguage": "de",
 						"name": "Das Eis bricht",
 						"datePublished": "2003-05-09"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Breaking_the_Ice_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -264,6 +345,16 @@
 						"name": "Die Saat",
 						"datePublished": "2003-05-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Civilization_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
@@ -284,6 +375,16 @@
 						"inLanguage": "de",
 						"name": "Familienbande",
 						"datePublished": "2003-05-23"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fortunate_Son_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -306,6 +407,16 @@
 						"name": "Kalter Krieg",
 						"datePublished": "2003-05-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cold_Front_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
@@ -326,6 +437,16 @@
 						"inLanguage": "de",
 						"name": "Lautloser Feind",
 						"datePublished": "2003-06-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Silent_Enemy_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -348,6 +469,16 @@
 						"name": "Lieber Doktor",
 						"datePublished": "2003-06-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dear_Doctor"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
@@ -368,6 +499,16 @@
 						"inLanguage": "de",
 						"name": "Schlafende Hunde",
 						"datePublished": "2003-06-20"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Sleeping_Dogs_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -390,6 +531,16 @@
 						"name": "Im Schatten von P’Jem",
 						"datePublished": "2003-06-27"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shadows_of_P%27Jem"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
@@ -410,6 +561,16 @@
 						"inLanguage": "de",
 						"name": "Allein",
 						"datePublished": "2003-07-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shuttlepod_One"
 					},
 					"director": {
 						"@type": "Person",
@@ -445,6 +606,16 @@
 						"name": "Verschmelzung",
 						"datePublished": "2003-08-02"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fusion_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobHedden",
@@ -465,6 +636,16 @@
 						"inLanguage": "de",
 						"name": "Gesetze der Jagd",
 						"datePublished": "2003-08-08"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rogue_Planet_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -487,6 +668,16 @@
 						"name": "Raumpiraten",
 						"datePublished": "2003-08-09"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Acquisition_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
@@ -507,6 +698,16 @@
 						"inLanguage": "de",
 						"name": "Schiff der Geister",
 						"datePublished": "2003-08-15"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Oasis_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -529,6 +730,16 @@
 						"name": "In sicherem Gewahrsam",
 						"datePublished": "2003-08-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Detained_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -542,13 +753,29 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#1.22",
 					"episodeNumber": "1.22",
-					"name": "Vox Sola",
+					"name": {
+						"@value": "Vox Sola",
+						"@language": "la"
+					},
 					"datePublished": "2002-05-01",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Vox Sola",
+						"name": {
+							"@value": "Vox Sola",
+							"@language": "la"
+						},
 						"datePublished": "2003-08-22"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Vox_Sola"
 					},
 					"director": {
 						"@type": "Person",
@@ -571,6 +798,16 @@
 						"name": "Gefallene Heldin",
 						"datePublished": "2003-08-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Fallen_Hero"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
@@ -591,6 +828,16 @@
 						"inLanguage": "de",
 						"name": "Durch die Wüste",
 						"datePublished": "2003-08-30"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Desert_Crossing"
 					},
 					"director": {
 						"@type": "Person",
@@ -613,6 +860,16 @@
 						"name": "Zwei Tage auf Risa",
 						"datePublished": "2003-08-31"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Two_Days_and_Two_Nights"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
@@ -633,6 +890,16 @@
 						"inLanguage": "de",
 						"name": "Die Schockwelle (1)",
 						"datePublished": "2003-09-05"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shockwave_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -683,6 +950,16 @@
 						"name": "Die Schockwelle, Teil 2",
 						"datePublished": "2003-09-06"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Shockwave,_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -703,6 +980,16 @@
 						"inLanguage": "de",
 						"name": "Carbon Creek",
 						"datePublished": "2003-09-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Carbon_Creek_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -725,6 +1012,16 @@
 						"name": "Das Minenfeld",
 						"datePublished": "2003-10-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Minefield_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
@@ -746,6 +1043,16 @@
 						"name": "Todesstation",
 						"datePublished": "2003-09-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dead_Stop"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
@@ -759,13 +1066,23 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#2.5",
 					"episodeNumber": "2.5",
-					"name": "A Night In Sickbay",
+					"name": "A Night in Sickbay",
 					"datePublished": "2002-10-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Eine Nacht Krankenstation",
 						"datePublished": "2003-09-20"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/A_Night_in_Sickbay"
 					},
 					"director": {
 						"@type": "Person",
@@ -801,6 +1118,16 @@
 						"name": "Marodeure",
 						"datePublished": "2003-09-26"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Marauders_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
@@ -821,6 +1148,16 @@
 						"inLanguage": "de",
 						"name": "Der Siebente",
 						"datePublished": "2003-09-27"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Seventh"
 					},
 					"director": {
 						"@type": "Person",
@@ -843,6 +1180,16 @@
 						"name": "Der Kommunikator",
 						"datePublished": "2003-10-10"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Communicator_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
@@ -863,6 +1210,16 @@
 						"inLanguage": "de",
 						"name": "Eigenarten",
 						"datePublished": "2003-10-17"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Singularity_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -885,6 +1242,16 @@
 						"name": "Vermisst",
 						"datePublished": "2003-10-24"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Vanishing_Point_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
@@ -905,6 +1272,16 @@
 						"inLanguage": "de",
 						"name": "Kostbare Fracht",
 						"datePublished": "2003-10-31"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Precious_Cargo_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -927,6 +1304,16 @@
 						"name": "Der Laufsteg",
 						"datePublished": "2003-11-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Catwalk"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
@@ -947,6 +1334,16 @@
 						"inLanguage": "de",
 						"name": "Morgengrauen",
 						"datePublished": "2003-11-14"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Dawn_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -969,6 +1366,16 @@
 						"name": "Stigma",
 						"datePublished": "2003-11-21"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Stigma_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -989,6 +1396,16 @@
 						"inLanguage": "de",
 						"name": "Waffenstillstand",
 						"datePublished": "2003-11-28"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cease_Fire_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1011,6 +1428,16 @@
 						"name": "Die Zukunft",
 						"datePublished": "2003-12-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Future_Tense_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
@@ -1031,6 +1458,16 @@
 						"inLanguage": "de",
 						"name": "Canamar",
 						"datePublished": "2003-12-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Canamar"
 					},
 					"director": {
 						"@type": "Person",
@@ -1053,6 +1490,16 @@
 						"name": "Übergang",
 						"datePublished": "2003-12-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Crossing_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1073,6 +1520,16 @@
 						"inLanguage": "de",
 						"name": "Das Urteil",
 						"datePublished": "2004-10-30"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Judgment_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1095,6 +1552,16 @@
 						"name": "Horizon",
 						"datePublished": "2004-10-31"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Horizon_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
@@ -1115,6 +1582,16 @@
 						"inLanguage": "de",
 						"name": "Böses Blut",
 						"datePublished": "2004-11-06"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Breach_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1137,6 +1614,16 @@
 						"name": "Cogenitor",
 						"datePublished": "2004-11-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cogenitor"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -1157,6 +1644,16 @@
 						"inLanguage": "de",
 						"name": "Regeneration",
 						"datePublished": "2004-11-13"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Regeneration_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1207,6 +1704,16 @@
 						"name": "Erstflug",
 						"datePublished": "2004-11-14"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/First_Flight_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -1227,6 +1734,16 @@
 						"inLanguage": "de",
 						"name": "Kopfgeld",
 						"datePublished": "2004-11-21"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Bounty_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1249,6 +1766,28 @@
 						"name": "Die Ausdehnung",
 						"datePublished": "2004-11-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Expanse_(Star_Trek:_Enterprise_episode)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Ausdehnung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1256,8 +1795,7 @@
 					},
 					"abstract": {
 						"de": "Beim Angriff eines aus der Zukunft angereisten Xindi-Raumschiffes auf die Erde sterben über 7 Millionen Menschen. Durch eine Warnung des zeitreisenden Anführers der Suliban-Kabale, wonach der Erde sogar die gänzliche Zerstörung durch die Xindi drohe, lässt sich die Sternenflottenführung davon überzeugen, dass die Enterprise das zerstörerische Vorhaben der Xindi verhindert. Zu diesem Zweck bricht die Enterprise in die „Delphische Ausdehnung“ auf, eine weit entfernte, gefährliche und wenig erforschte Gegend des Weltraums."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Die_Ausdehnung"
+					}
 				}
 			]
 		},
@@ -1299,6 +1837,16 @@
 						"name": "Die Xindi",
 						"datePublished": "2004-11-28"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Xindi"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1319,6 +1867,16 @@
 						"inLanguage": "de",
 						"name": "Anomalie",
 						"datePublished": "2004-12-04"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Anomaly_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1341,6 +1899,16 @@
 						"name": "Transformation",
 						"datePublished": "2004-12-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Extinction_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -1361,6 +1929,16 @@
 						"inLanguage": "de",
 						"name": "Rajiin",
 						"datePublished": "2004-12-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Rajiin"
 					},
 					"director": {
 						"@type": "Person",
@@ -1383,6 +1961,16 @@
 						"name": "Impulsiv",
 						"datePublished": "2004-12-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Impulse_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1403,6 +1991,16 @@
 						"inLanguage": "de",
 						"name": "Exil",
 						"datePublished": "2004-12-18"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Exile_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1425,6 +2023,16 @@
 						"name": "Die Ladung",
 						"datePublished": "2004-12-19"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Shipment_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
@@ -1445,6 +2053,16 @@
 						"inLanguage": "de",
 						"name": "Dämmerung",
 						"datePublished": "2005-01-02"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Twilight_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1481,6 +2099,16 @@
 						"name": "Faustrecht",
 						"datePublished": "2005-01-08"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/North_Star_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
@@ -1502,6 +2130,16 @@
 						"name": "Ebenbild",
 						"datePublished": "2005-01-09"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Similitude_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -1522,6 +2160,16 @@
 						"inLanguage": "de",
 						"name": "Carpenter Street",
 						"datePublished": "2005-01-15"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Carpenter_Street_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1557,6 +2205,16 @@
 						"name": "Das auserwählte Reich",
 						"datePublished": "2005-01-16"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Chosen_Realm"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
@@ -1577,6 +2235,16 @@
 						"inLanguage": "de",
 						"name": "Testgebiet",
 						"datePublished": "2005-01-22"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Proving_Ground_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1599,6 +2267,16 @@
 						"name": "Kriegslist",
 						"datePublished": "2005-01-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Stratagem_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -1619,6 +2297,16 @@
 						"inLanguage": "de",
 						"name": "Der Vorbote",
 						"datePublished": "2005-01-29"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Harbinger_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1641,6 +2329,16 @@
 						"name": "Auf ärztliche Anweisung",
 						"datePublished": "2005-01-30"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Doctor%27s_Orders_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
@@ -1661,6 +2359,16 @@
 						"inLanguage": "de",
 						"name": "Brutstätte",
 						"datePublished": "2005-02-05"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Hatchery_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1696,6 +2404,16 @@
 						"name": "Azati Prime (1)",
 						"datePublished": "2005-02-06"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Azati_Prime"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1716,6 +2434,16 @@
 						"inLanguage": "de",
 						"name": "Beschädigungen (2)",
 						"datePublished": "2005-02-12"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Damage_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1738,6 +2466,16 @@
 						"name": "Die Vergessenen",
 						"datePublished": "2005-02-13"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Forgotten_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -1758,6 +2496,16 @@
 						"inLanguage": "de",
 						"name": "E²",
 						"datePublished": "2005-02-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/E%C2%B2"
 					},
 					"director": {
 						"@type": "Person",
@@ -1780,6 +2528,16 @@
 						"name": "Der Rat",
 						"datePublished": "2005-02-20"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Council_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -1801,6 +2559,16 @@
 						"name": "Countdown",
 						"datePublished": "2005-02-26"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Countdown_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
@@ -1821,6 +2589,16 @@
 						"inLanguage": "de",
 						"name": "Stunde Null",
 						"datePublished": "2005-02-27"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Zero_Hour_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1871,6 +2649,16 @@
 						"name": "Sturmfront – Teil 1",
 						"datePublished": "2006-02-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Storm_Front_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1891,6 +2679,16 @@
 						"inLanguage": "de",
 						"name": "Sturmfront – Teil 2",
 						"datePublished": "2006-02-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Storm_Front_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1913,6 +2711,16 @@
 						"name": "Zuhause",
 						"datePublished": "2006-02-26"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Home_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -1933,6 +2741,16 @@
 						"inLanguage": "de",
 						"name": "Borderland (1)",
 						"datePublished": "2006-03-05"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Borderland_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -1955,6 +2773,16 @@
 						"name": "Cold Station 12 (2)",
 						"datePublished": "2006-03-12"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Cold_Station_12"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -1975,6 +2803,16 @@
 						"inLanguage": "de",
 						"name": "Die Augments (3)",
 						"datePublished": "2006-03-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Augments"
 					},
 					"director": {
 						"@type": "Person",
@@ -1997,6 +2835,16 @@
 						"name": "Der Anschlag (1)",
 						"datePublished": "2006-03-26"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Forge_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
@@ -2017,6 +2865,16 @@
 						"inLanguage": "de",
 						"name": "Zeit des Erwachens (2)",
 						"datePublished": "2006-04-02"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Awakening_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2039,6 +2897,16 @@
 						"name": "Kir’Shara (3)",
 						"datePublished": "2006-04-09"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Kir%27Shara"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2059,6 +2927,16 @@
 						"inLanguage": "de",
 						"name": "Daedalus",
 						"datePublished": "2006-04-16"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Daedalus_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2081,6 +2959,16 @@
 						"name": "Beobachtungseffekt",
 						"datePublished": "2006-04-23"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Observer_Effect_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -2101,6 +2989,16 @@
 						"inLanguage": "de",
 						"name": "Babel (1)",
 						"datePublished": "2006-04-30"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Babel_One"
 					},
 					"director": {
 						"@type": "Person",
@@ -2123,6 +3021,16 @@
 						"name": "Vereinigt (2)",
 						"datePublished": "2006-05-07"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/United_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2143,6 +3051,16 @@
 						"inLanguage": "de",
 						"name": "Die Aenar (3)",
 						"datePublished": "2006-05-14"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Aenar"
 					},
 					"director": {
 						"@type": "Person",
@@ -2165,6 +3083,16 @@
 						"name": "Die Heimsuchung (1)",
 						"datePublished": "2006-05-21"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Affliction_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
@@ -2185,6 +3113,16 @@
 						"inLanguage": "de",
 						"name": "Die Abweichung (2)",
 						"datePublished": "2006-05-28"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Divergence_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2207,6 +3145,16 @@
 						"name": "Die Verbindung",
 						"datePublished": "2006-06-04"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Bound_(Star_Trek:_Enterprise)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
@@ -2227,6 +3175,16 @@
 						"inLanguage": "de",
 						"name": "Die dunkle Seite des Spiegels – Teil 1",
 						"datePublished": "2006-06-11"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_a_Mirror,_Darkly"
 					},
 					"director": {
 						"@type": "Person",
@@ -2249,6 +3207,16 @@
 						"name": "Die dunkle Seite des Spiegels – Teil 2",
 						"datePublished": "2006-06-18"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/In_a_Mirror,_Darkly"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
@@ -2269,6 +3237,16 @@
 						"inLanguage": "de",
 						"name": "Dämonen (1)",
 						"datePublished": "2006-06-25"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Demons_(Star_Trek:_Enterprise)"
 					},
 					"director": {
 						"@type": "Person",
@@ -2291,6 +3269,16 @@
 						"name": "Terra Prime (2)",
 						"datePublished": "2006-07-02"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Terra_Prime"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
@@ -2304,13 +3292,23 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#4.22",
 					"episodeNumber": "4.22",
-					"name": "These Are the Voyages",
+					"name": "These Are the Voyages…",
 					"datePublished": "2005-05-13",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Dies sind die Abenteuer",
 						"datePublished": "2006-07-09"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/These_Are_the_Voyages..."
 					},
 					"director": {
 						"@type": "Person",

@@ -76,6 +76,28 @@
 						"name": "Der Mächtige",
 						"datePublished": "1990-09-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Encounter_at_Farpoint"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_M%C3%A4chtige_/_Mission_Farpoint"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -97,6 +119,28 @@
 						"name": "Mission Farpoint",
 						"datePublished": "1990-09-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Encounter_at_Farpoint"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_M%C3%A4chtige_/_Mission_Farpoint"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -135,6 +179,28 @@
 						"name": "Gedankengift",
 						"datePublished": "1990-09-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Naked_Now"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gedankengift"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
@@ -156,6 +222,28 @@
 						"name": "Der Ehrenkodex",
 						"datePublished": "1990-09-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Code_of_Honor_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Ehrenkodex"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RussMayberry",
@@ -190,6 +278,28 @@
 						"name": "Der Wächter",
 						"datePublished": "1990-10-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Last_Outpost_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_W%C3%A4chter_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RichardColla",
@@ -211,6 +321,28 @@
 						"name": "Der Reisende",
 						"datePublished": "1990-10-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Where_No_One_Has_Gone_Before"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Reisende"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -232,6 +364,28 @@
 						"name": "Die geheimnisvolle Kraft",
 						"datePublished": "1990-10-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Lonely_Among_Us"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_geheimnisvolle_Kraft"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -253,6 +407,28 @@
 						"name": "Das Gesetz der Edo",
 						"datePublished": "1990-10-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Justice_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Gesetz_der_Edo"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -274,6 +450,28 @@
 						"name": "Die Schlacht von Maxia",
 						"datePublished": "1990-11-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Battle_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Schlacht_von_Maxia"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -295,6 +493,28 @@
 						"name": "Rikers Versuchung",
 						"datePublished": "1991-01-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Hide_and_Q"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Rikers_Versuchung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -329,6 +549,28 @@
 						"name": "Die Frau seiner Träume",
 						"datePublished": "1990-11-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Haven_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Frau_seiner_Tr%C3%A4ume"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RichardCompton",
@@ -350,6 +592,28 @@
 						"name": "Der große Abschied",
 						"datePublished": "1990-11-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Big_Goodbye"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Abschied"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
@@ -384,6 +648,28 @@
 						"name": "Das Duplikat",
 						"datePublished": "1990-12-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/DataLore"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Duplikat"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -405,6 +691,28 @@
 						"name": "Planet Angel One",
 						"datePublished": "1990-12-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Angel_One"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Planet_Angel_One"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelRhoades",
@@ -426,6 +734,28 @@
 						"name": "11001001",
 						"datePublished": "1990-12-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/11001001"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/11001001"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
@@ -439,7 +769,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#1.16",
 					"episodeNumber": "1.16",
-					"name": "Too Short A Season",
+					"name": "Too Short a Season",
 					"datePublished": "1988-02-08",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -447,6 +777,28 @@
 						"name": "Die Entscheidung des Admirals",
 						"datePublished": "1990-12-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Too_Short_a_Season"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Entscheidung_des_Admirals"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -460,7 +812,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#1.17",
 					"episodeNumber": "1.17",
-					"name": "When The Bough Breaks",
+					"name": "When the Bough Breaks",
 					"datePublished": "1988-02-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -468,6 +820,28 @@
 						"name": "Die Sorge der Aldeaner",
 						"datePublished": "1991-01-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/When_the_Bough_Breaks_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Sorge_der_Aldeaner"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimManners",
@@ -489,6 +863,28 @@
 						"name": "Ein Planet wehrt sich",
 						"datePublished": "1991-01-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Home_Soil"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_Planet_wehrt_sich"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -510,6 +906,28 @@
 						"name": "Prüfungen",
 						"datePublished": "1991-03-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Coming_of_Age_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Pr%C3%BCfungen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
@@ -531,6 +949,28 @@
 						"name": "Worfs Brüder",
 						"datePublished": "1991-02-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Heart_of_Glory"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Worfs_Br%C3%BCder"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -552,6 +992,28 @@
 						"name": "Die Waffenhändler",
 						"datePublished": "1991-02-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Arsenal_of_Freedom"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Waffenh%C3%A4ndler"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -573,6 +1035,28 @@
 						"name": "Die Seuche",
 						"datePublished": "1991-02-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Symbiosis_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Seuche_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinPhelps",
@@ -599,7 +1083,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#1.23",
 					"episodeNumber": "1.23",
-					"name": "Skin Of Evil",
+					"name": "Skin of Evil",
 					"datePublished": "1988-04-25",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -607,6 +1091,28 @@
 						"name": "Die schwarze Seele",
 						"datePublished": "1991-03-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Skin_of_Evil"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_schwarze_Seele"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
@@ -628,6 +1134,28 @@
 						"name": "Begegnung mit der Vergangenheit",
 						"datePublished": "1991-03-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/We%27ll_Always_Have_Paris_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Begegnung_mit_der_Vergangenheit"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertBecker",
@@ -649,6 +1177,28 @@
 						"name": "Die Verschwörung",
 						"datePublished": "1991-03-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Conspiracy_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Verschw%C3%B6rung_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -670,6 +1220,28 @@
 						"name": "Die Neutrale Zone",
 						"datePublished": "1991-04-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Neutral_Zone_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Neutrale_Zone"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -719,6 +1291,28 @@
 						"name": "Das Kind",
 						"datePublished": "1991-04-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Child_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Kind_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -740,6 +1334,28 @@
 						"name": "Illusion oder Wirklichkeit?",
 						"datePublished": "1991-04-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Where_Silence_Has_Lease"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Illusion_oder_Wirklichkeit%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -774,6 +1390,28 @@
 						"name": "Sherlock Data Holmes",
 						"datePublished": "1991-04-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Elementary,_Dear_Data"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Sherlock_Data_Holmes"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -808,6 +1446,28 @@
 						"name": "Der unmögliche Captain Okona",
 						"datePublished": "1991-05-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Outrageous_Okona"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_unm%C3%B6gliche_Captain_Okona"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertBecker",
@@ -821,7 +1481,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#2.5",
 					"episodeNumber": "2.5",
-					"name": "Loud As A Whisper",
+					"name": "Loud as a Whisper",
 					"datePublished": "1989-01-07",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -829,6 +1489,28 @@
 						"name": "Der stumme Vermittler",
 						"datePublished": "1991-05-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Loud_as_a_Whisper"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_stumme_Vermittler"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LarryShaw",
@@ -850,6 +1532,28 @@
 						"name": "Das fremde Gedächtnis",
 						"datePublished": "1991-05-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Schizoid_Man_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_fremde_Ged%C3%A4chtnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -871,6 +1575,28 @@
 						"name": "Die jungen Greise",
 						"datePublished": "1992-02-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Unnatural_Selection_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_jungen_Greise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
@@ -884,7 +1610,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#2.8",
 					"episodeNumber": "2.8",
-					"name": "A Matter Of Honor",
+					"name": "A Matter of Honor",
 					"datePublished": "1989-02-04",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -892,6 +1618,28 @@
 						"name": "Der Austauschoffizier",
 						"datePublished": "1991-06-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Matter_of_Honor"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Austauschoffizier"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -905,7 +1653,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#2.9",
 					"episodeNumber": "2.9",
-					"name": "The Measure Of A Man",
+					"name": "The Measure of a Man",
 					"datePublished": "1989-02-11",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -913,6 +1661,28 @@
 						"name": "Wem gehört Data?",
 						"datePublished": "1992-02-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wem_geh%C3%B6rt_Data%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -920,8 +1690,7 @@
 					},
 					"abstract": {
 						"de": "Um sich Experimenten des Kybernetikers Maddox zu entziehen, tritt Data aus der Sternenflotte aus. Es folgt ein Gerichtsprozess über die Frage, ob Data Sternenflotteneigentum ist."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Wem_geh%C3%B6rt_Data%3F"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -935,6 +1704,28 @@
 						"name": "Die Thronfolgerin",
 						"datePublished": "1992-02-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Dauphin_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Thronfolgerin_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -956,6 +1747,28 @@
 						"name": "Die Iconia-Sonden",
 						"datePublished": "1992-03-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Contagion_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Iconia-Sonden"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
@@ -977,6 +1790,28 @@
 						"name": "Hotel Royale",
 						"datePublished": "1992-03-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Royale"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Hotel_Royale"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -998,6 +1833,28 @@
 						"name": "Die Zukunft schweigt",
 						"datePublished": "1992-03-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Time_Squared_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Zukunft_schweigt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
@@ -1019,6 +1876,28 @@
 						"name": "Rikers Vater",
 						"datePublished": "1992-03-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Icarus_Factor"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Rikers_Vater"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertIscove",
@@ -1040,6 +1919,28 @@
 						"name": "Brieffreunde",
 						"datePublished": "1992-04-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Pen_Pals_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Brieffreunde"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1061,6 +1962,28 @@
 						"name": "Zeitsprung mit Q",
 						"datePublished": "1992-04-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Q_Who"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -1069,7 +1992,6 @@
 					"abstract": {
 						"de": "Damit sich die Enterprise-Crew auf kommende Gefahren vorbereitet, versetzt Q das Schiff gegen Picards Willen an einen weit entfernten Teil des Alls, wo es mit den feindlichen Borg konfrontiert wird."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Zeitsprung_mit_Q",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Borg Episodes",
@@ -1096,6 +2018,28 @@
 						"name": "Das Herz eines Captains",
 						"datePublished": "1992-04-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Samaritan_Snare"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Herz_eines_Captains"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1109,7 +2053,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#2.18",
 					"episodeNumber": "2.18",
-					"name": "Up The Long Ladder",
+					"name": "Up the Long Ladder",
 					"datePublished": "1989-05-20",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1117,6 +2061,28 @@
 						"name": "Der Planet der Klone",
 						"datePublished": "1992-05-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Up_the_Long_Ladder"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Planet_der_Klone"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1138,6 +2104,28 @@
 						"name": "Andere Sterne, andere Sitten",
 						"datePublished": "1992-05-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Manhunt_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Andere_Sterne,_andere_Sitten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -1159,6 +2147,28 @@
 						"name": "Klingonenbegegnung",
 						"datePublished": "1992-06-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Emissary_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Klingonenbegegnung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1180,6 +2190,28 @@
 						"name": "Galavorstellung",
 						"datePublished": "1992-06-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Peak_Performance_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Galavorstellung_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -1201,6 +2233,28 @@
 						"name": "Kraft der Träume",
 						"datePublished": "1992-06-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Shades_of_Gray_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kraft_der_Tr%C3%A4ume"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -1250,6 +2304,28 @@
 						"name": "Die Macht der Naniten",
 						"datePublished": "1992-07-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Evolution_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Macht_der_Naniten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1271,6 +2347,28 @@
 						"name": "Die Macht der Paragraphen",
 						"datePublished": "1992-07-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Ensigns_of_Command"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Macht_der_Paragraphen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1292,6 +2390,28 @@
 						"name": "Die Überlebenden auf Rana–Vier",
 						"datePublished": "1992-07-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Survivors_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_%C3%9Cberlebenden_auf_Rana-Vier"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1305,7 +2425,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#3.4",
 					"episodeNumber": "3.4",
-					"name": "Who Watches The Watchers",
+					"name": "Who Watches the Watchers",
 					"datePublished": "1989-10-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1313,6 +2433,28 @@
 						"name": "Der Gott der Mintakaner",
 						"datePublished": "1992-07-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Who_Watches_the_Watchers"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Gott_der_Mintakaner"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -1334,6 +2476,28 @@
 						"name": "Mutterliebe",
 						"datePublished": "1992-07-31"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Bonding"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Mutterliebe_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1368,6 +2532,28 @@
 						"name": "Die Energiefalle",
 						"datePublished": "1992-08-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Booby_Trap_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Energiefalle"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -1389,6 +2575,28 @@
 						"name": "Auf schmalem Grat",
 						"datePublished": "1992-08-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Enemy_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Auf_schmalem_Grat_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
@@ -1410,6 +2618,28 @@
 						"name": "Der Barzanhandel",
 						"datePublished": "1992-08-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Price_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Barzanhandel"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -1431,6 +2661,28 @@
 						"name": "Yuta, die Letzte ihres Clans",
 						"datePublished": "1992-09-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Vengeance_Factor"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Yuta,_die_Letzte_ihres_Clans"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TimothyBond",
@@ -1466,6 +2718,28 @@
 						"name": "Der Überläufer",
 						"datePublished": "1992-09-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Defector_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_%C3%9Cberl%C3%A4ufer_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -1487,6 +2761,28 @@
 						"name": "Die Verfemten",
 						"datePublished": "1992-09-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Hunted_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Verfemten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1508,6 +2804,28 @@
 						"name": "Terror auf Rutia-Vier",
 						"datePublished": "1992-10-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_High_Ground_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Terror_auf_Rutia-Vier"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -1529,6 +2847,28 @@
 						"name": "Noch einmal Q",
 						"datePublished": "1992-10-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Deja_Q"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Noch_einmal_Q"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1563,6 +2903,28 @@
 						"name": "Riker unter Verdacht",
 						"datePublished": "1992-10-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Matter_of_Perspective"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Riker_unter_Verdacht"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1584,6 +2946,28 @@
 						"name": "Die alte Enterprise",
 						"datePublished": "1992-10-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Yesterday%27s_Enterprise"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_alte_Enterprise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
@@ -1592,7 +2976,6 @@
 					"abstract": {
 						"de": "Die Enterprise-D muss – in einen anderen Zeitstrahl versetzt – dafür sorgen, dass die aus einer Raumanomalie erschienene Enterprise-C wieder an ihren Herkunftsort zurückkehrt, damit sich der normale Zeitstrahl wieder einstellt."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Die_alte_Enterprise",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Alternate Timelines",
@@ -1620,6 +3003,28 @@
 						"name": "Datas Nachkomme",
 						"datePublished": "1992-11-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Offspring_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Datas_Nachkomme"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -1633,7 +3038,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#3.17",
 					"episodeNumber": "3.17",
-					"name": "Sins of The Father",
+					"name": "Sins of the Father",
 					"datePublished": "1990-03-18",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1641,6 +3046,28 @@
 						"name": "Die Sünden des Vaters",
 						"datePublished": "1992-11-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Sins_of_the_Father_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_S%C3%BCnden_des_Vaters"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1662,6 +3089,28 @@
 						"name": "Versuchskaninchen",
 						"datePublished": "1992-11-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Allegiance_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Versuchskaninchen_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -1683,6 +3132,28 @@
 						"name": "Picard macht Urlaub",
 						"datePublished": "1992-11-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Captain%27s_Holiday"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Picard_macht_Urlaub"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -1704,6 +3175,28 @@
 						"name": "Der Telepath",
 						"datePublished": "1993-08-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Tin_Man_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Telepath"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -1725,6 +3218,28 @@
 						"name": "Der schüchterne Reginald",
 						"datePublished": "1993-08-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Hollow_Pursuits"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_schüchterne_Reginald"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1759,6 +3274,28 @@
 						"name": "Der Sammler",
 						"datePublished": "1993-08-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Most_Toys"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Sammler_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TimothyBond",
@@ -1780,6 +3317,28 @@
 						"name": "Botschafter Sarek",
 						"datePublished": "1993-08-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Sarek_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Botschafter_Sarek"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1801,6 +3360,28 @@
 						"name": "Die Damen Troi",
 						"datePublished": "1993-08-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/M%C3%A9nage_%C3%A0_Troi"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Damen_Troi"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertLegato",
@@ -1822,6 +3403,28 @@
 						"name": "Wer ist John?",
 						"datePublished": "1993-08-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Transfigurations"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wer_ist_John%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TomBenko",
@@ -1843,6 +3446,28 @@
 						"name": "In den Händen der Borg (1)",
 						"datePublished": "1993-08-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Best_of_Both_Worlds_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg_/_Angriffsziel_Erde"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1850,8 +3475,7 @@
 					},
 					"abstract": {
 						"de": "Bei der Konfrontation der Enterprise mit einem Borg-Kubus wird Picard von den Borg entführt, um ihnen als Sprecher mit der Föderation, die die Borg assimilieren möchten, zu dienen."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg"
+					}
 				}
 			]
 		},
@@ -1893,6 +3517,28 @@
 						"name": "Angriffsziel Erde (2)",
 						"datePublished": "1993-08-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Best_of_Both_Worlds_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg_/_Angriffsziel_Erde"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -1901,7 +3547,6 @@
 					"abstract": {
 						"de": "Auf ihrem Flug zur Erde schlagen die Borg eine Flotte aus Sternenflottenraumschiffen vernichtend. Der Enterprise-Crew gelingt es aber in letzter Sekunde, die Borg von der Assimilation der Erde abzuhalten. Dabei kann sie auch Picard zurückholen."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/In_den_H%C3%A4nden_der_Borg",
 					"review": [
 						{
 							"@type": "Review",
@@ -1951,6 +3596,28 @@
 						"name": "Familienbegegnung",
 						"datePublished": "1993-08-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Family_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Familienbegegnung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -1972,6 +3639,28 @@
 						"name": "Die ungleichen Brüder",
 						"datePublished": "1993-08-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Brothers_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_ungleichen_Br%C3%BCder"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
@@ -1993,6 +3682,28 @@
 						"name": "Endars Sohn",
 						"datePublished": "1993-08-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Suddenly_Human"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Endars_Sohn"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -2027,6 +3738,28 @@
 						"name": "Das Experiment",
 						"datePublished": "1993-08-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Remember_Me_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Experiment_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2061,6 +3794,28 @@
 						"name": "Die Rettungsoperation",
 						"datePublished": "1993-08-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Legacy_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Rettungsoperation"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -2082,6 +3837,28 @@
 						"name": "Tödliche Nachfolge",
 						"datePublished": "1993-08-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Reunion_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/T%C3%B6dliche_Nachfolge"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2103,6 +3880,28 @@
 						"name": "Gedächtnisverlust",
 						"datePublished": "1993-08-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Future_Imperfect"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ged%C3%A4chtnisverlust_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2124,6 +3923,28 @@
 						"name": "Die letzte Mission",
 						"datePublished": "1993-08-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Final_Mission"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_letzte_Mission"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -2145,6 +3966,28 @@
 						"name": "Das kosmische Band",
 						"datePublished": "1994-03-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Loss"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_kosmische_Band"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -2166,6 +4009,28 @@
 						"name": "Datas Tag",
 						"datePublished": "1994-03-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Data%27s_Day"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Datas_Tag"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -2187,6 +4052,28 @@
 						"name": "Der Rachefeldzug",
 						"datePublished": "1994-03-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Wounded_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Rachefeldzug"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -2208,6 +4095,28 @@
 						"name": "Der Pakt mit dem Teufel",
 						"datePublished": "1994-03-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Devil%27s_Due_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Pakt_mit_dem_Teufel_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TomBenko",
@@ -2229,6 +4138,28 @@
 						"name": "Beweise",
 						"datePublished": "1994-03-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Clues_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Beweise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2250,6 +4181,28 @@
 						"name": "Erster Kontakt",
 						"datePublished": "1994-03-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/First_Contact_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Erster_Kontakt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2271,6 +4224,28 @@
 						"name": "Die Begegnung im Weltraum",
 						"datePublished": "1994-03-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Galaxy%27s_Child"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Begegnung_im_Weltraum"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2292,6 +4267,28 @@
 						"name": "Augen in der Dunkelheit",
 						"datePublished": "1994-03-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Night_Terrors_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Augen_in_der_Dunkelheit"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2313,6 +4310,28 @@
 						"name": "Der unbekannte Schatten",
 						"datePublished": "1994-03-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Identity_Crisis_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_unbekannte_Schatten"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2334,6 +4353,28 @@
 						"name": "Die Reise ins Ungewisse",
 						"datePublished": "1994-03-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Nth_Degree_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Reise_ins_Ungewisse_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertLegato",
@@ -2355,6 +4396,28 @@
 						"name": "Gefangen in der Vergangenheit",
 						"datePublished": "1994-03-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Qpid"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gefangen_in_der_Vergangenheit_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2389,6 +4452,28 @@
 						"name": "Das Standgericht",
 						"datePublished": "1994-03-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Drumhead"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Standgericht"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2410,6 +4495,28 @@
 						"name": "Die Auflösung",
 						"datePublished": "1994-03-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Half_a_Life_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Aufl%C3%B6sung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2431,6 +4538,28 @@
 						"name": "Odan, der Sonderbotschafter",
 						"datePublished": "1994-03-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Host_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Odan,_der_Sonderbotschafter"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
@@ -2452,6 +4581,28 @@
 						"name": "Verräterische Signale",
 						"datePublished": "1994-03-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Mind%27s_Eye_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Verr%C3%A4terische_Signale"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2473,6 +4624,28 @@
 						"name": "Datas erste Liebe",
 						"datePublished": "1994-03-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/In_Theory"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Datas_erste_Liebe"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
@@ -2494,6 +4667,28 @@
 						"name": "Der Kampf um das Klingonische Reich – Teil 1",
 						"datePublished": "1994-03-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Redemption_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Kampf_um_das_Klingonische_Reich"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2543,6 +4738,28 @@
 						"name": "Der Kampf um das Klingonische Reich – Teil 2",
 						"datePublished": "1994-03-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Redemption_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Kampf_um_das_Klingonische_Reich"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
@@ -2564,6 +4781,28 @@
 						"name": "Darmok",
 						"datePublished": "1994-03-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Darmok"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Darmok"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2571,8 +4810,7 @@
 					},
 					"abstract": {
 						"de": "Ein Captain einer nur mit Metaphern kommunizierenden Spezies versucht auf einem Planeten, Picard zur Teilnahme an einem gemeinsamen Kampf gegen ein Monster zu bewegen."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Darmok"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2586,6 +4824,28 @@
 						"name": "Fähnrich Ro",
 						"datePublished": "1994-03-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Ensign_Ro_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/F%C3%A4hnrich_Ro"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2607,6 +4867,28 @@
 						"name": "Das Recht auf Leben",
 						"datePublished": "1994-03-31"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Silicon_Avatar"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Recht_auf_Leben"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2628,6 +4910,28 @@
 						"name": "Katastrophe auf der Enterprise",
 						"datePublished": "1994-04-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Disaster_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Katastrophe_auf_der_Enterprise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -2649,6 +4953,28 @@
 						"name": "Gefährliche Spielsucht",
 						"datePublished": "1994-04-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Game_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Spielsucht"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -2670,6 +4996,28 @@
 						"name": "Wiedervereinigung? Teil 1",
 						"datePublished": "1994-04-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Unification_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wiedervereinigung%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2691,6 +5039,28 @@
 						"name": "Wiedervereinigung? Teil 2",
 						"datePublished": "1994-04-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Unification_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wiedervereinigung%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -2721,7 +5091,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.9",
 					"episodeNumber": "5.9",
-					"name": "A Matter Of Time",
+					"name": "A Matter of Time",
 					"datePublished": "1991-11-18",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2729,6 +5099,28 @@
 						"name": "Der zeitreisende Historiker",
 						"datePublished": "1994-04-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Matter_of_Time_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_zeitreisende_Historiker"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
@@ -2750,6 +5142,28 @@
 						"name": "Die Soliton-Welle",
 						"datePublished": "1994-04-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/New_Ground_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Soliton-Welle"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -2771,6 +5185,28 @@
 						"name": "Der einzige Überlebende",
 						"datePublished": "1994-04-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Hero_Worship_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_einzige_%C3%9Cberlebende"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
@@ -2792,6 +5228,28 @@
 						"name": "Geistige Gewalt",
 						"datePublished": "1994-04-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Violations_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Geistige_Gewalt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -2813,6 +5271,28 @@
 						"name": "Das künstliche Paradies",
 						"datePublished": "1994-04-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Masterpiece_Society"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_k%C3%BCnstliche_Paradies"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2834,6 +5314,28 @@
 						"name": "Mission ohne Gedächtnis",
 						"datePublished": "1994-04-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Conundrum_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Mission_ohne_Ged%C3%A4chtnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -2855,6 +5357,28 @@
 						"name": "Ungebetene Gäste",
 						"datePublished": "1994-04-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Power_Play_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ungebetene_G%C3%A4ste_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
@@ -2876,6 +5400,28 @@
 						"name": "Die Operation",
 						"datePublished": "1994-04-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Ethics_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Operation"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
@@ -2897,6 +5443,28 @@
 						"name": "Verbotene Liebe",
 						"datePublished": "1994-04-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Outcast_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Verbotene_Liebe_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -2910,7 +5478,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.18",
 					"episodeNumber": "5.18",
-					"name": "Cause And Effect",
+					"name": "Cause and Effect",
 					"datePublished": "1992-03-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2918,6 +5486,28 @@
 						"name": "Déjà vu",
 						"datePublished": "1994-04-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2925,8 +5515,7 @@
 					},
 					"abstract": {
 						"de": "Die Enterprise ist in einer Zeitschleife gefangen, an deren Ende das Schiff zerstört wird. Daher muss die Crew einen Weg finden, die Schleife zu verlassen und somit die Zerstörung des Schiffes zu verhindern."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu_%28Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert%29"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2940,6 +5529,28 @@
 						"name": "Ein missglücktes Manöver",
 						"datePublished": "1994-04-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_First_Duty"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_missgl%C3%BCcktes_Man%C3%B6ver"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
@@ -2953,7 +5564,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.20",
 					"episodeNumber": "5.20",
-					"name": "Cost Of Living",
+					"name": "Cost of Living",
 					"datePublished": "1992-04-20",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2961,6 +5572,28 @@
 						"name": "Hochzeit mit Hindernissen",
 						"datePublished": "1994-05-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Cost_of_Living_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Hochzeit_mit_Hindernissen_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -2982,6 +5615,28 @@
 						"name": "Eine hoffnungslose Romanze",
 						"datePublished": "1994-05-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Perfect_Mate"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Eine_hoffnungslose_Romanze"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3003,6 +5658,28 @@
 						"name": "Die imaginäre Freundin",
 						"datePublished": "1994-05-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Imaginary_Friend_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_imagin%C3%A4re_Freundin"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -3024,6 +5701,28 @@
 						"name": "Ich bin Hugh",
 						"datePublished": "1994-05-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/I_Borg"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ich_bin_Hugh"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertLederman",
@@ -3058,6 +5757,28 @@
 						"name": "So nah und doch so fern",
 						"datePublished": "1994-05-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Next_Phase"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/So_nah_und_doch_so_fern"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
@@ -3079,6 +5800,28 @@
 						"name": "Das zweite Leben",
 						"datePublished": "1994-05-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Inner_Light_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_zweite_Leben_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PeterLauritson",
@@ -3086,8 +5829,7 @@
 					},
 					"abstract": {
 						"de": "Captain Picard durchlebt unter dem Einfluss einer fremden Sonde innerhalb von weniger als einer halben Stunde mehrere Jahrzehnte des Lebens eines Mannes, der zu einer untergehenden Kultur gehört."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Das_zweite_Leben_%28Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert%29"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -3101,6 +5843,28 @@
 						"name": "Gefahr aus dem 19. Jahrhundert – Teil 1",
 						"datePublished": "1994-05-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Time%27s_Arrow_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gefahr_aus_dem_19._Jahrhundert"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3150,6 +5914,28 @@
 						"name": "Gefahr aus dem 19. Jahrhundert – Teil 2",
 						"datePublished": "1994-05-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Time%27s_Arrow_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gefahr_aus_dem_19._Jahrhundert"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3188,6 +5974,28 @@
 						"name": "Todesangst beim Beamen",
 						"datePublished": "1994-05-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Realm_Of_Fear"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Todesangst_beim_Beamen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3201,7 +6009,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.3",
 					"episodeNumber": "6.3",
-					"name": "Man Of The People",
+					"name": "Man of the People",
 					"datePublished": "1992-10-03",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3209,6 +6017,28 @@
 						"name": "Der unmoralische Friedensvermittler",
 						"datePublished": "1994-05-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Man_of_the_People_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_unmoralische_Friedensvermittler"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3230,6 +6060,28 @@
 						"name": "Besuch von der alten Enterprise",
 						"datePublished": "1994-05-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Relics_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Besuch_von_der_alten_Enterprise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3264,6 +6116,28 @@
 						"name": "In den Subraum entführt",
 						"datePublished": "1994-05-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Schisms_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/In_den_Subraum_entf%C3%BChrt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -3285,6 +6159,28 @@
 						"name": "Eine echte „Q“",
 						"datePublished": "1994-05-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/True_Q"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Eine_echte_%E2%80%9CQ%E2%80%9D"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -3319,6 +6215,28 @@
 						"name": "Erwachsene Kinder",
 						"datePublished": "1994-05-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Rascals_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Erwachsene_Kinder"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AdamNimoy",
@@ -3332,7 +6250,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.8",
 					"episodeNumber": "6.8",
-					"name": "A Fistful Of Datas",
+					"name": "A Fistful of Datas",
 					"datePublished": "1992-11-07",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3340,6 +6258,28 @@
 						"name": "Eine Handvoll Datas",
 						"datePublished": "1994-05-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Fistful_of_Datas"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Eine_Handvoll_Datas"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
@@ -3361,6 +6301,28 @@
 						"name": "Datas Hypothese",
 						"datePublished": "1994-05-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Quality_of_Life_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Datas_Hypothese"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -3387,7 +6349,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.10",
 					"episodeNumber": "6.10",
-					"name": "Chain Of Command, Part I",
+					"name": "Chain of Command, Part I",
 					"datePublished": "1992-12-12",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3395,6 +6357,28 @@
 						"name": "Geheime Mission auf Celtris Drei – Teil 1",
 						"datePublished": "1994-05-31"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Geheime_Mission_auf_Celtris_Drei"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -3418,7 +6402,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.11",
 					"episodeNumber": "6.11",
-					"name": "Chain Of Command, Part II",
+					"name": "Chain of Command, Part II",
 					"datePublished": "1992-12-19",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3426,6 +6410,28 @@
 						"name": "Geheime Mission auf Celtris Drei – Teil 2",
 						"datePublished": "1994-06-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Geheime_Mission_auf_Celtris_Drei"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3466,7 +6472,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.12",
 					"episodeNumber": "6.12",
-					"name": "Ship In A Bottle",
+					"name": "Ship in a Bottle",
 					"datePublished": "1993-01-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3474,6 +6480,28 @@
 						"name": "Das Schiff in der Flasche",
 						"datePublished": "1994-06-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Ship_in_a_Bottle_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Schiff_in_der_Flasche"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3495,6 +6523,28 @@
 						"name": "Aquiel",
 						"datePublished": "1994-06-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Aquiel"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Aquiel"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3508,7 +6558,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.14",
 					"episodeNumber": "6.14",
-					"name": "Face Of The Enemy",
+					"name": "Face of the Enemy",
 					"datePublished": "1993-02-06",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -3516,6 +6566,28 @@
 						"name": "Das Gesicht des Feindes",
 						"datePublished": "1994-06-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Face_of_the_Enemy_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Gesicht_des_Feindes"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -3537,6 +6609,28 @@
 						"name": "Willkommen im Leben nach dem Tode",
 						"datePublished": "1994-06-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Tapestry_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Willkommen_im_Leben_nach_dem_Tode"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -3571,6 +6665,28 @@
 						"name": "Der Moment der Erkenntnis – Teil 1",
 						"datePublished": "1994-06-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Birthright_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Moment_der_Erkenntnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3592,6 +6708,28 @@
 						"name": "Der Moment der Erkenntnis – Teil 2",
 						"datePublished": "1994-06-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Birthright_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Moment_der_Erkenntnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanCurry",
@@ -3613,6 +6751,28 @@
 						"name": "In der Hand von Terroristen",
 						"datePublished": "1994-06-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Starship_Mine"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/In_der_Hand_von_Terroristen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3634,6 +6794,28 @@
 						"name": "Der Feuersturm",
 						"datePublished": "1994-05-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Lessons_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Feuersturm_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)s"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -3655,6 +6837,28 @@
 						"name": "Das fehlende Fragment",
 						"datePublished": "1994-06-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Chase_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_fehlende_Fragment"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -3686,9 +6890,31 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Phantasie oder Wahrheit?",
+						"name": "Phantasie oder Wahrheit",
 						"datePublished": "1994-06-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Frame_of_Mind_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Phantasie_oder_Wahrheit"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
@@ -3710,6 +6936,28 @@
 						"name": "Verdächtigungen",
 						"datePublished": "1994-06-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Suspicions_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Verd%C3%A4chtigungen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3731,6 +6979,28 @@
 						"name": "Der rechtmäßige Erbe",
 						"datePublished": "1994-06-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Rightful_Heir"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_rechtm%C3%A4%C3%9Fige_Erbe"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -3752,6 +7022,28 @@
 						"name": "Riker : 2 = ?",
 						"datePublished": "1994-06-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Second_Chances_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Riker_:_2_%3D_%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -3773,6 +7065,28 @@
 						"name": "Gefangen in einem temporären Fragment",
 						"datePublished": "1994-06-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Timescape_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gefangen_in_einem_tempor%C3%A4ren_Fragment"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AdamNimoy",
@@ -3794,6 +7108,28 @@
 						"name": "Angriff der Borg – Teil 1",
 						"datePublished": "1994-06-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Descent_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Angriff_der_Borg"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3843,6 +7179,28 @@
 						"name": "Angriff der Borg, Teil 2",
 						"datePublished": "1994-06-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Descent_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Angriff_der_Borg"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3881,6 +7239,28 @@
 						"name": "Indiskretionen",
 						"datePublished": "1994-06-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Liaisons_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Indiskretionen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -3902,6 +7282,28 @@
 						"name": "Das Interface",
 						"datePublished": "1994-06-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Interface_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Interface"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -3923,6 +7325,28 @@
 						"name": "Der Schachzug, Teil 1",
 						"datePublished": "1994-06-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Gambit_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Schachzug"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PeterLauritson",
@@ -3944,6 +7368,28 @@
 						"name": "Der Schachzug, Teil 2",
 						"datePublished": "1994-06-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Gambit_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Schachzug"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -3965,6 +7411,28 @@
 						"name": "Traumanalyse",
 						"datePublished": "1994-06-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Phantasms_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Traumanalyse_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
@@ -3986,6 +7454,28 @@
 						"name": "Ort der Finsternis",
 						"datePublished": "1994-07-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Dark_Page"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ort_der_Finsternis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -4007,6 +7497,28 @@
 						"name": "Kontakte",
 						"datePublished": "1994-06-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Attached"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kontakte_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -4028,6 +7540,28 @@
 						"name": "Die Raumkatastrophe",
 						"datePublished": "1994-07-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Force_of_Nature_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Raumkatastrophe"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertLederman",
@@ -4049,6 +7583,28 @@
 						"name": "Soongs Vermächtnis",
 						"datePublished": "1994-07-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Inheritance_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Soongs_Verm%C3%A4chtnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
@@ -4070,6 +7626,28 @@
 						"name": "Parallelen",
 						"datePublished": "1994-07-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Parallels_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Parallelen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -4091,6 +7669,28 @@
 						"name": "Das Pegasus-Projekt",
 						"datePublished": "1994-07-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Pegasus_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Pegasus-Projekt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
@@ -4112,6 +7712,28 @@
 						"name": "Die Oberste Direktive",
 						"datePublished": "1994-07-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Homeward_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Oberste_Direktive"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
@@ -4133,6 +7755,28 @@
 						"name": "Ronin",
 						"datePublished": "1994-07-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Sub_Rosa_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ronin_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -4167,6 +7811,28 @@
 						"name": "Beförderung",
 						"datePublished": "1994-07-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Lower_Decks_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Bef%C3%B6rderung_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
@@ -4188,6 +7854,28 @@
 						"name": "Radioaktiv",
 						"datePublished": "1994-07-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Thine_Own_Self"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Radioaktiv_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -4209,6 +7897,28 @@
 						"name": "Der Komet",
 						"datePublished": "1994-07-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Masks_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Komet_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
@@ -4230,6 +7940,28 @@
 						"name": "Der Fall „Utopia Planitia“",
 						"datePublished": "1994-07-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Eye_of_the_Beholder_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Fall_%E2%80%9CUtopia_Planitia%E2%80%9D"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -4251,6 +7983,28 @@
 						"name": "Genesis",
 						"datePublished": "1994-07-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Genesis_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Genesis_(Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GatesMcFadden",
@@ -4272,6 +8026,28 @@
 						"name": "Am Ende der Reise",
 						"datePublished": "1994-07-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Journey%27s_End_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Am_Ende_der_Reise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
@@ -4293,6 +8069,28 @@
 						"name": "Ritus des Aufsteigens",
 						"datePublished": "1994-07-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Firstborn_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ritus_des_Aufsteigens"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
@@ -4314,6 +8112,28 @@
 						"name": "Boks Vergeltung",
 						"datePublished": "1994-07-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Bloodlines_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Boks_Vergeltung"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
@@ -4335,6 +8155,28 @@
 						"name": "Neue Intelligenz",
 						"datePublished": "1994-07-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Emergence_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Neue_Intelligenz"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
@@ -4356,6 +8198,28 @@
 						"name": "Die Rückkehr von Ro Laren",
 						"datePublished": "1994-07-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Preemptive_Strike_(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_R%C3%BCckkehr_von_Ro_Laren"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
@@ -4377,6 +8241,28 @@
 						"name": "Gestern, heute, morgen",
 						"datePublished": "1994-07-26/1994-07-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/All_Good_Things..._(Star_Trek:_The_Next_Generation)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
@@ -4385,7 +8271,6 @@
 					"abstract": {
 						"de": "Picard bewegt sich vor- und rückwärts durch drei verschiedene Zeitperioden und erkennt bald in einer in allen Zeitperioden auftretenden Raumanomalie eine Erklärung dafür, weshalb er die Anomalie zu bekämpfen versucht. Währenddessen kommt er abermals in Kontakt mit Q, der ihn mit der Bewältigung dieser Aufgabe einer Prüfung zur Daseinsberechtigung der Menschheit unterzieht. Nachdem Picard erkannt hat, dass sein Verhalten in der Zukunft ursächlich für die sich rückwärts durch die Zeit bewegende und sich dabei vergrößernde Anomalie ist, erklärt Q den Test für bestanden."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen",
 					"subjectOf": [
 						{
 							"@type": "Webpage",

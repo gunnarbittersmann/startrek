@@ -52,6 +52,28 @@
 						"name": "Der Käfig",
 						"datePublished": "1993-10-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Cage_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_K%C3%A4fig_(1965)"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertButler",
@@ -139,6 +161,28 @@
 						"name": "Das Letzte seiner Art",
 						"datePublished": "1987-09-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Man_Trap"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Letzte_seiner_Art"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -152,8 +196,7 @@
 					"abstract": {
 						"en": "The Enterprise visits planet M-113 for routine medical examinations of the husband-and-wife archaeological team stationed there, but the woman has been replaced by a shape-shifting creature, forced to survive by extracting the salt from the bodies of the members of the crew, killing them.",
 						"de": "Die Enterprise-Crew ist bei dem Planeten, auf dem das Ehepaar Crater lebt. Nachdem mehrere Crew-Mitglieder an Salzmangel gestorben sind, stellt sich heraus, dass Frau Crater durch ein gestaltwandelndes Wesen ersetzt wurde."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Das_Letzte_seiner_Art"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -167,6 +210,28 @@
 						"name": "Der Fall Charlie",
 						"datePublished": "1974-02-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Charlie_X"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Fall_Charlie"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LawrenceDobkin",
@@ -217,6 +282,28 @@
 						"name": "Die Spitze des Eisberges",
 						"datePublished": "1973-10-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Where_No_Man_Has_Gone_Before"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Spitze_des_Eisberges"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
@@ -264,6 +351,28 @@
 						"name": "Implosion in der Spirale",
 						"datePublished": "1987-10-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Naked_Time"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Implosion_in_der_Spirale"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -306,6 +415,28 @@
 						"name": "Kirk : 2 = ?",
 						"datePublished": "1972-07-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Enemy_Within_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kirk_:_2_%3D_%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeoPenn",
@@ -335,6 +466,28 @@
 						"name": "Die Frauen des Mr. Mudd",
 						"datePublished": "1987-09-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Mudd%27s_Women"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Frauen_des_Mr._Mudd"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HarveyHart",
@@ -372,6 +525,28 @@
 						"name": "Der alte Traum",
 						"datePublished": "1987-10-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/What_Are_Little_Girls_Made_Of%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_alte_Traum"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
@@ -401,6 +576,28 @@
 						"name": "Miri, ein Kleinling",
 						"datePublished": "1987-11-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Miri_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Miri,_ein_Kleinling"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -435,7 +632,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.9",
 					"episodeNumber": "1.9",
-					"name": "Dagger Of The Mind",
+					"name": "Dagger of the Mind",
 					"datePublished": "1966-11-03",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -443,6 +640,28 @@
 						"name": "Der Zentralnervensystem­manipulator",
 						"datePublished": "1987-10-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Dagger_of_the_Mind"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Zentralnervensystem­manipulator"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -472,6 +691,28 @@
 						"name": "Pokerspiele",
 						"datePublished": "1972-10-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Corbomite_Maneuver"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Pokerspiele"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephSargent",
@@ -501,6 +742,28 @@
 						"name": "Talos IV – Tabu – Teil 1",
 						"datePublished": "1987-11-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Menagerie_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Talos_IV_%E2%80%93_Tabu"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -530,6 +793,28 @@
 						"name": "Talos IV – Tabu – Teil 2",
 						"datePublished": "1987-11-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Menagerie_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Talos_IV_%E2%80%93_Tabu"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertButler",
@@ -551,7 +836,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.13",
 					"episodeNumber": "1.13",
-					"name": "The Conscience Of The King",
+					"name": "The Conscience of the King",
 					"datePublished": "1966-12-08",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -559,6 +844,28 @@
 						"name": "Kodos, der Henker",
 						"datePublished": "1987-11-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Conscience_of_the_King"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kodos,_der_Henker"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
@@ -580,7 +887,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.14",
 					"episodeNumber": "1.14",
-					"name": "Balance Of Terror",
+					"name": "Balance of Terror",
 					"datePublished": "1966-12-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -588,6 +895,28 @@
 						"name": "Spock unter Verdacht",
 						"datePublished": "1987-10-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Balance_of_Terror"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spock_unter_Verdacht"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -618,6 +947,28 @@
 						"inLanguage": "de",
 						"datePublished": "1987-11-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Shore_Leave_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Landeurlaub"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertSparr",
@@ -684,7 +1035,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.17",
 					"episodeNumber": "1.17",
-					"name": "The Squire Of Gothos",
+					"name": "The Squire of Gothos",
 					"datePublished": "1967-01-12",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -692,6 +1043,28 @@
 						"name": "Tödliche Spiele auf Gothos",
 						"datePublished": "1974-03-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Squire_of_Gothos"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/T%C3%B6dliche_Spiele_auf_Gothos"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DonMcDougall",
@@ -721,6 +1094,28 @@
 						"name": "Ganz neue Dimensionen",
 						"datePublished": "1987-12-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Arena_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ganz_neue_Dimensionen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -758,6 +1153,28 @@
 						"name": "Morgen ist gestern",
 						"datePublished": "1972-05-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Tomorrow_Is_Yesterday"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Morgen_ist_gestern"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelOHerlihy",
@@ -800,6 +1217,28 @@
 						"name": "Kirk unter Anklage",
 						"datePublished": "1972-06-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Court_Martial_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kirk_unter_Anklage"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -836,7 +1275,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.21",
 					"episodeNumber": "1.21",
-					"name": "The Return Of The Archons",
+					"name": "The Return of the Archons",
 					"datePublished": "1967-02-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -844,6 +1283,28 @@
 						"name": "Landru und die Ewigkeit",
 						"datePublished": "1987-12-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Return_of_the_Archons"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Landru_und_die_Ewigkeit"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -894,6 +1355,28 @@
 						"name": "Der schlafende Tiger",
 						"datePublished": "1972-10-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Space_Seed"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_schlafende_Tiger"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -930,7 +1413,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.23",
 					"episodeNumber": "1.23",
-					"name": "A Taste Of Armageddon",
+					"name": "A Taste of Armageddon",
 					"datePublished": "1967-02-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -938,6 +1421,28 @@
 						"name": "Krieg der Computer",
 						"datePublished": "1987-12-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Taste_of_Armageddon"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Krieg_der_Computer"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -974,7 +1479,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.24",
 					"episodeNumber": "1.24",
-					"name": "This Side Of Paradise",
+					"name": "This Side of Paradise",
 					"datePublished": "1967-03-02",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -982,6 +1487,28 @@
 						"name": "Falsche Paradiese",
 						"datePublished": "1988-01-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/This_Side_of_Paradise_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Falsche_Paradiese"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -1018,7 +1545,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.25",
 					"episodeNumber": "1.25",
-					"name": "The Devil In The Dark",
+					"name": "The Devil in the Dark",
 					"datePublished": "1967-03-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1026,6 +1553,28 @@
 						"name": "Horta rettet ihre Kinder",
 						"datePublished": "1988-01-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Devil_in_the_Dark"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Horta_rettet_ihre_Kinder"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1047,7 +1596,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.26",
 					"episodeNumber": "1.26",
-					"name": "Errand Of Mercy",
+					"name": "Errand of Mercy",
 					"datePublished": "1967-03-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1055,6 +1604,28 @@
 						"name": "Kampf um Organia",
 						"datePublished": "1973-12-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Errand_of_Mercy"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kampf_um_Organia"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnNewland",
@@ -1084,6 +1655,28 @@
 						"name": "Auf Messers Schneide",
 						"datePublished": "1987-12-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Alternative_Factor"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Auf_Messers_Schneide"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
@@ -1113,6 +1706,28 @@
 						"name": "Griff in die Geschichte",
 						"datePublished": "1988-01-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1127,7 +1742,6 @@
 						"en": "After accidentally overdosing on a powerful stimulant, Dr. McCoy becomes unbalanced and disappears through the Guardian of Forever, a newly discovered time portal on a remote planet. Kirk and Spock follow after learning that McCoy somehow changed history, removing everything they once knew, including the Enterprise. Arriving in the 1930s, the duo meets Edith Keeler, a New York social worker, who gives them a place to stay. As the days pass, and McCoy is nowhere to be seen, Kirk finds himself falling in love with Keeler, but Spock discovers that Keeler must die to restore the timeline.",
 						"de": "Kirk und Spock folgen McCoy durch ein Zeitportal, um den deshalb veränderten Geschichtsablauf auf der Erde zu korrigieren."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte",
 					"review": {
 						"@type": "Review",
 						"name": "Retro Review | Time Travel Episodes",
@@ -1154,6 +1768,28 @@
 						"name": "Spock außer Kontrolle",
 						"datePublished": "1988-01-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Operation_--_Annihilate!"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spock_au%C3%9Fer_Kontrolle"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
@@ -1211,6 +1847,28 @@
 						"name": "Weltraumfieber",
 						"datePublished": "1974-01-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Amok_Time"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Weltraumfieber"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1243,7 +1901,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.2",
 					"episodeNumber": "2.2",
-					"name": "Who Mourns For Adonais?",
+					"name": "Who Mourns for Adonais?",
 					"datePublished": "1967-09-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1251,6 +1909,28 @@
 						"name": "Der Tempel des Apoll",
 						"datePublished": "1972-11-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Who_Mourns_for_Adonais%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Tempel_des_Apoll"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1278,6 +1958,28 @@
 						"name": "Ich heiße Nomad",
 						"datePublished": "1972-07-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Changeling_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ich_hei%C3%9Fe_Nomad"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1305,6 +2007,28 @@
 						"name": "Ein Parallel-Universum",
 						"datePublished": "1988-02-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Mirror,_Mirror_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_Parallel-Universum"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1332,6 +2056,28 @@
 						"name": "Die Stunde der Erkenntnis",
 						"datePublished": "1988-02-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Apple_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Stunde_der_Erkenntnis"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1374,6 +2120,28 @@
 						"name": "Planeten-Killer",
 						"datePublished": "1972-06-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Doomsday_Machine_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Planeten-Killer"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1403,6 +2171,28 @@
 						"name": "Das Spukschloss im Weltall",
 						"datePublished": "1973-12-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Catspaw_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Spukschloss_im_Weltall"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1430,6 +2220,28 @@
 						"name": "Der dressierte Herrscher",
 						"datePublished": "1972-08-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/I,_Mudd"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_dressierte_Herrscher"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1457,6 +2269,28 @@
 						"name": "Metamorphose",
 						"datePublished": "1973-11-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Metamorphosis_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Metamorphose"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -1476,7 +2310,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.10",
 					"episodeNumber": "2.10",
-					"name": "Journey To Babel",
+					"name": "Journey to Babel",
 					"datePublished": "1967-11-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1484,6 +2318,28 @@
 						"name": "Reise nach Babel",
 						"datePublished": "1972-09-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Journey_to_Babel"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Reise_nach_Babel"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1511,6 +2367,28 @@
 						"name": "Im Namen des jungen Tiru",
 						"datePublished": "1988-02-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Friday%27s_Child_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Im_Namen_des_jungen_Tiru"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1538,6 +2416,28 @@
 						"name": "Wie schnell die Zeit vergeht",
 						"datePublished": "1988-02-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Deadly_Years"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wie_schnell_die_Zeit_vergeht"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1565,6 +2465,28 @@
 						"name": "Tödliche Wolken",
 						"datePublished": "1972-07-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Obsession_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/T%C3%B6dliche_Wolken"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -1584,7 +2506,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.14",
 					"episodeNumber": "2.14",
-					"name": "Wolf In The Fold",
+					"name": "Wolf in the Fold",
 					"datePublished": "1967-12-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1592,6 +2514,28 @@
 						"name": "Der Wolf im Schafspelz",
 						"datePublished": "1988-02-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Wolf_in_the_Fold"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Wolf_im_Schafspelz"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1611,7 +2555,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.15",
 					"episodeNumber": "2.15",
-					"name": "The Trouble With Tribbles",
+					"name": "The Trouble with Tribbles",
 					"datePublished": "1967-12-29",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1619,6 +2563,28 @@
 						"name": "Kennen Sie Tribbles?",
 						"datePublished": "1972-09-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Trouble_with_Tribbles"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kennen_Sie_Tribbles%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1632,7 +2598,6 @@
 					"abstract": {
 						"de": "Auf der Enterprise und der Raumstation K-7 vermehren sich die kleinen Pelztiere „Tribbles“ rasend schnell."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Kennen_Sie_Tribbles%3F",
 					"description": {
 						"en": "Tribbles – purring, fluffy, and fertile creatures – disrupt the exploitation of a disputed planet between the Klingon Empire and the Federation. The Enterprise responds to a priority 1 distress signal from Space Station K7 on the edge of the Neutral Zone and close to Sherman’s Planet. Mr. Baris asks Kirk to provide protection to the storage facility on the space station to preserve an improved grain that will help the Federation to gain control of Sherman’s Planet and prevent the Klingons from capturing it. Kirk sanctions the security guard and also gives shore leave to the crew aboard the Enterprise. Uhura and Chekov find an interesting creature called a tribble on the station and bring it aboard the Enterprise. Tribbles begin to reproduce exponentially and spread everywhere on the Enterprise. A Klingon ship also reaches the K7 facility for shore leave and Kirk allows it under the Enterprise’s protection. Tribbles begin to enter the vent systems of the Enterprise and Space Station K7, destroying the crop. Later it is revealed that the crop was poisoned by a Klingon spy aboard the space station. The poison also killed the Tribbles that ate the grain. Kirk finds the spy and Scotty finds a way to get rid of the tribbles from the Enterprise."
 					},
@@ -1654,7 +2619,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.16",
 					"episodeNumber": "2.16",
-					"name": "The Gamesters Of Triskelion",
+					"name": "The Gamesters of Triskelion",
 					"datePublished": "1968-01-05",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1662,6 +2627,28 @@
 						"name": "Meister der Sklaven",
 						"datePublished": "1988-03-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Gamesters_of_Triskelion"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Meister_der_Sklaven"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GeneNelson",
@@ -1681,7 +2668,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.17",
 					"episodeNumber": "2.17",
-					"name": "A Piece Of The Action",
+					"name": "A Piece of the Action",
 					"datePublished": "1968-01-12",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1689,6 +2676,28 @@
 						"name": "Epigonen",
 						"datePublished": "1972-07-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Piece_of_the_Action_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Epigonen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesKomack",
@@ -1744,6 +2753,28 @@
 						"name": "Das Loch im Weltraum",
 						"datePublished": "1972-06-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Immunity_Syndrome_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Loch_im_Weltraum"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
@@ -1771,6 +2802,28 @@
 						"name": "Der erste Krieg",
 						"datePublished": "1988-03-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Private_Little_War"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_erste_Krieg"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1798,7 +2851,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.20",
 					"episodeNumber": "2.20",
-					"name": "Return To Tomorrow",
+					"name": "Return to Tomorrow",
 					"datePublished": "1968-02-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1806,6 +2859,28 @@
 						"name": "Geist sucht Körper",
 						"datePublished": "1973-12-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Return_to_Tomorrow"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Geist_sucht_K%C3%B6rper"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -1825,7 +2900,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.21",
 					"episodeNumber": "2.21",
-					"name": "Patterns Of Force",
+					"name": "Patterns of Force",
 					"datePublished": "1968-02-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1833,6 +2908,28 @@
 						"name": "Schablonen der Gewalt",
 						"datePublished": "1999-07-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Patterns_of_Force_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Schablonen_der_Gewalt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -1846,7 +2943,6 @@
 					"abstract": {
 						"de": "Kirk und Spock infiltrieren auf der Suche nach einem Vermissten einen außerirdischen Planeten, auf dem Zustände wie in Nazideutschland herrschen."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Schablonen_der_Gewalt",
 					"description": {
 						"en": "The crew of the Enterprise visits a planet dominated by a Nazi culture and at war with its planetary neighbor. The Enterprise is visiting the planet of Ekos that is surrounded by system Zeon inhabitants. Ekosians are violent and Zeons are peaceful people. Enterprise wants to contact a Professor John from Earth who came here to research without interaction but the planet turned into a Nazi-type colony hating the Zeons. Apparently, John becomes the leader of Ekos and hatches a plot to eliminate the Zeons. Spock and Kirk beam down and try to contact John but run into trouble and are captured. They scheme to get out of the jail with one of the Zeons and arrange to meet John but realize that John is drugged and Malekon is controlling the entire process. Bones is beamed down and gives a stimulant that finally works on John, who explains to Kirk what went wrong with his observation mission and saves the day by giving an eye-opening speech to the people of Ekos restoring the peace."
 					},
@@ -1876,6 +2972,28 @@
 						"name": "Stein und Staub",
 						"datePublished": "1972-11-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/By_Any_Other_Name"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Stein_und_Staub"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -1918,6 +3036,28 @@
 						"name": "Das Jahr des roten Vogels",
 						"datePublished": "1988-03-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Omega_Glory"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Jahr_des_roten_Vogels"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -1958,6 +3098,28 @@
 						"name": "Computer M5",
 						"datePublished": "1972-07-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Ultimate_Computer"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Computer_M5"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
@@ -1985,7 +3147,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.25",
 					"episodeNumber": "2.25",
-					"name": "Bread And Circuses",
+					"name": "Bread and Circuses",
 					"datePublished": "1968-03-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1993,6 +3155,28 @@
 						"name": "Brot und Spiele",
 						"datePublished": "1974-01-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Bread_and_Circuses_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Brot_und_Spiele"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -2040,6 +3224,28 @@
 						"name": "Ein Planet, genannt Erde",
 						"datePublished": "1972-09-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Assignment:_Earth"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_Planet,_genannt_Erde"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -2110,6 +3316,28 @@
 						"name": "Spocks Gehirn",
 						"datePublished": "1988-04-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Spock%27s_Brain"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spocks_Gehirn"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
@@ -2152,6 +3380,28 @@
 						"name": "Die unsichtbare Falle",
 						"datePublished": "1972-08-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Enterprise_Incident"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_unsichtbare_Falle"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
@@ -2181,6 +3431,28 @@
 						"name": "Der Obelisk",
 						"datePublished": "1972-11-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Paradise_Syndrome"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Obelisk"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
@@ -2215,7 +3487,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.4",
 					"episodeNumber": "3.4",
-					"name": "And The Children Shall Lead",
+					"name": "And the Children Shall Lead",
 					"datePublished": "1968-10-11",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2223,6 +3495,28 @@
 						"name": "Kurs auf Markus 12",
 						"datePublished": "1974-02-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/And_the_Children_Shall_Lead"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kurs_auf_Markus_12"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
@@ -2244,7 +3538,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.5",
 					"episodeNumber": "3.5",
-					"name": "Is There In Truth No Beauty?",
+					"name": "Is There in Truth No Beauty?",
 					"datePublished": "1968-10-18",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2252,6 +3546,28 @@
 						"name": "Die fremde Materie",
 						"datePublished": "1972-09-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Is_There_in_Truth_No_Beauty%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_fremde_Materie"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
@@ -2273,7 +3589,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.6",
 					"episodeNumber": "3.6",
-					"name": "Spectre Of The Gun",
+					"name": "Spectre of the Gun",
 					"datePublished": "1968-10-25",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2281,6 +3597,28 @@
 						"name": "Wildwest im Weltraum",
 						"datePublished": "1988-03-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Spectre_of_the_Gun"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wildwest_im_Weltraum"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
@@ -2315,7 +3653,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.7",
 					"episodeNumber": "3.7",
-					"name": "Day Of The Dove",
+					"name": "Day of the Dove",
 					"datePublished": "1968-11-01",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2323,6 +3661,28 @@
 						"name": "Das Gleichgewicht der Kräfte",
 						"datePublished": "1988-04-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Day_of_the_Dove"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Gleichgewicht_der_Kr%C3%A4fte"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
@@ -2344,7 +3704,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.8",
 					"episodeNumber": "3.8",
-					"name": "For The World Is Hollow And I Have Touched The Sky",
+					"name": "For the World Is Hollow and I Have Touched the Sky",
 					"datePublished": "1968-11-08",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2352,6 +3712,28 @@
 						"name": "Der verirrte Planet",
 						"datePublished": "1972-10-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/For_the_World_Is_Hollow_and_I_Have_Touched_the_Sky"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_verirrte_Planet"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TonyLeader",
@@ -2381,6 +3763,28 @@
 						"name": "Das Spinnennetz",
 						"datePublished": "1972-06-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Tholian_Web"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Spinnennetz"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
@@ -2417,6 +3821,28 @@
 						"name": "Platons Stiefkinder",
 						"datePublished": "1988-04-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Plato%27s_Stepchildren"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Platons_Stiefkinder"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
@@ -2438,7 +3864,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.11",
 					"episodeNumber": "3.11",
-					"name": "Wink Of An Eye",
+					"name": "Wink of an Eye",
 					"datePublished": "1968-11-29",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2446,6 +3872,28 @@
 						"name": "Was summt denn da?",
 						"datePublished": "1973-11-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Wink_of_an_Eye"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Was_summt_denn_da%3F"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
@@ -2483,6 +3931,28 @@
 						"name": "Der Plan der Vianer",
 						"datePublished": "1988-04-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Empath"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Plan_der_Vianer"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnErman",
@@ -2504,7 +3974,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.13",
 					"episodeNumber": "3.13",
-					"name": "Elaan Of Troyius",
+					"name": "Elaan of Troyius",
 					"datePublished": "1968-12-20",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2512,6 +3982,28 @@
 						"name": "Brautschiff Enterprise",
 						"datePublished": "1973-10-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Elaan_of_Troyius"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Brautschiff_Enterprise"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
@@ -2541,6 +4033,28 @@
 						"name": "Wen die Götter zerstören",
 						"datePublished": "1988-05-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Whom_Gods_Destroy"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wen_die_G%C3%B6tter_zerst%C3%B6ren"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
@@ -2585,6 +4099,28 @@
 						"name": "Bele jagt Lokai",
 						"datePublished": "1988-05-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Let_That_Be_Your_Last_Battlefield"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Bele_jagt_Lokai"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
@@ -2614,7 +4150,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.16",
 					"episodeNumber": "3.16",
-					"name": "The Mark Of Gideon",
+					"name": "The Mark of Gideon",
 					"datePublished": "1969-01-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2622,6 +4158,28 @@
 						"name": "Fast unsterblich",
 						"datePublished": "1988-05-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Mark_of_Gideon"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Fast_unsterblich"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
@@ -2671,6 +4229,28 @@
 						"name": "Gefährliche Planetengirls",
 						"datePublished": "1972-08-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/That_Which_Survives"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Planetengirls"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
@@ -2700,7 +4280,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.18",
 					"episodeNumber": "3.18",
-					"name": "The Lights Of Zetar",
+					"name": "The Lights of Zetar",
 					"datePublished": "1969-01-31",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2708,6 +4288,28 @@
 						"name": "Strahlen greifen an",
 						"datePublished": "1972-08-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Lights_of_Zetar"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Strahlen_greifen_an"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbKenwith",
@@ -2736,7 +4338,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.19",
 					"episodeNumber": "3.19",
-					"name": "Requiem For Methuselah",
+					"name": "Requiem for Methuselah",
 					"datePublished": "1969-02-14",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2744,6 +4346,28 @@
 						"name": "Planet der Unsterblichen",
 						"datePublished": "1974-03-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Requiem_for_Methuselah"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Planet_der_Unsterblichen"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MurrayGolden",
@@ -2765,7 +4389,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.20",
 					"episodeNumber": "3.20",
-					"name": "The Way To Eden",
+					"name": "The Way to Eden",
 					"datePublished": "1969-02-21",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2773,6 +4397,28 @@
 						"name": "Die Reise nach Eden",
 						"datePublished": "1988-05-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Way_to_Eden"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Reise_nach_Eden"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
@@ -2817,6 +4463,28 @@
 						"name": "Die Wolkenstadt",
 						"datePublished": "1988-05-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Cloud_Minders"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Wolkenstadt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
@@ -2874,6 +4542,28 @@
 						"name": "Seit es Menschen gibt",
 						"datePublished": "1972-11-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Savage_Curtain"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Seit_es_Menschen_gibt"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
@@ -2918,6 +4608,28 @@
 						"name": "Portal in die Vergangenheit",
 						"datePublished": "1988-06-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/All_Our_Yesterdays"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Portal_in_die_Vergangenheit"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
@@ -2947,6 +4659,28 @@
 						"name": "Gefährlicher Tausch",
 						"datePublished": "1988-06-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Turnabout_Intruder"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrlicher_Tausch"
+						}
+					],
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
