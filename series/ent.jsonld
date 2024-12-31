@@ -2283,6 +2283,41 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+								"name": "André Bormanis"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Incorporeal aliens attempt to take over Enterprise."
+					},
 					"description": {
 						"de": "Die Enterprise wird von einem übergroßen und überschnellen Raumschiff gefangengenommen. Bei der Untersuchung des Raumschiffsinneren ergreift ein energiewolkenähnliches Wesen zweimal vorübergehend Besitz von Tucker. Danach erklärt dieser, dass es sich bei den Wesen um Subraumwesen handelt, die ihre körperliche Existenz längst hinter sich gelassen haben und nun erfahren möchten, wie ihre Vorfahren lebten. Daraufhin kann die Enterprise das fremde Schiff wieder verlassen. Alsbald befallen die Wesen jedoch weitere Mitglieder der Enterprise-Crew. Deshalb lässt Archer diese in ihren Quartieren isolieren und den gesunden Rest der Mannschaft in den vor den Wesen sicheren Laufsteg evakuieren. Indem T’Pol absichtlich zulässt, dass die Wesen Besitz von ihr ergreifen, erfährt sie, dass deren Schiff zerfällt und sie durch die Inbesitznahme der Crew, das heißt deren Übergang in eine neue Existenz, nur überleben möchten. Der erneut besessene Tucker kann Phlox schließlich nicht an dessen von Archer erteiltem Auftrag hindern, Kohlendioxid in der Enterprise freizusetzen, um die Wesen zum Verlassen der humanoiden Körper zu zwingen."
 					}
@@ -2314,6 +2349,29 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
+						"name": "David A. Goodman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TaylorElmore",
+								"name": "Taylor Elmore"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
+								"name": "David A. Goodman"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer is arrested and imprisoned by the Klingons for allegedly conspiring against the Empire."
+					},
 					"description": {
 						"de": "Archer ist vor einem klingonischen Tribunal der Verschwörung mit Rebellen angeklagt und soll daher als Staatsfeind exekutiert werden. Im folgenden Gerichtsprozess lässt der Ankläger Orak den Kommandanten des klingonischen Schiffes als Zeugen aussagen, das von der Enterprise die Herausgabe einiger Flüchtlinge forderte und dafür von der Enterprise beschossen wurde. Seine Erinnerungen sind jedoch insofern falsch, als dass sie Archer als Kriegstreiber darstellen. Archer kann daraufhin Koloth, seinen Verteidiger, davon überzeugen, entgegen dem gegenwärtigen Brauch Archer als Zeugen zu vernehmen, wodurch Archer seine – wahre – Version der Geschichte darlegen kann, in der es ihm lediglich darum ging, die Flüchtlinge vor dem Verhungern zu retten. Trotzdem wird Archer der Gesetzesverletzung für schuldig befunden, wegen der von Koloth vorgetragenen früheren Verdienste Archers um das klingonische Reich wird seine Todesstrafe jedoch umgewandelt in lebenslangen Aufenthalt in einer Strafkolonie auf einem Eisplaneten. Dort eingetroffen, wird er, nachdem T’Pol einige Klingonen bestochen hat, von der Enterprise befreit. Der wegen Einspruches ebenfalls dort gelandete Koloth verbleibt auf eigenen Wunsch hin dort, da er außerhalb ohnehin nicht mehr als ehrenvoller Bürger anerkannt würde."
 					}
@@ -2344,6 +2402,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"abstract": {
+						"en": "After the death of his father, Ensign Mayweather visits his family on their cargo ship and begins to reconsider his place aboard Enterprise."
 					},
 					"description": {
 						"de": "Travis Mayweather begibt sich an Bord des Frachtraumschiffs Horizon, seines früheren Dienstortes, um seine Familie zu besuchen. Der Besuch wird jedoch überschattet durch den plötzlichen Tod seines Vaters, lange Zeit der Captain des Schiffes. Alsbald wird die Horizon durch Piraten angegriffen, die zwecks Vorbereitung der Plünderung der Fracht eine Bombe an der Außenhülle platzieren. Über das weitere Vorgehen zur Vermeidung des Diebstahles sowie über Travis’ einstigen Weggang von der Horizon geraten Travis und sein Bruder Paul, der amtierende Captain, in Streit miteinander. Als sie zum Bekämpfen der Piraten aber zur Zusammenarbeit gezwungen sind, beginnen sie sich wieder zu vertragen. Unterdessen kommt T’Pol bei der Teilnahme am Filmabend auf der Enterprise die Idee, den Film Frankenstein ihren Artgenossen zu empfehlen, damit sie verstehen, wie die Menschen sie sehen. Zudem ist die Enterprise Zeuge des verstärkten Vulkanismus auf einem Planeten, dessen Umlaufbahn sich zwischen zwei Sterne verlagert hat."
