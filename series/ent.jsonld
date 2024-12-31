@@ -2812,6 +2812,21 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer and Lieutenant Reed visit a mining facility in order to track down a Xindi."
+					},
 					"description": {
 						"de": "Die Enterprise befindet sich seit sechs Wochen in der Ausdehnung, um die Xindi zu finden, die für den Angriff auf die Erde verantwortlich sein sollen. Aus diesem Grund ist nun auch ein militärisches Angriffskommando (MAKOs) an Bord. Der Tipp eines Frachtercaptains führt die Enterprise zu einem Planeten, auf dem Archer und Tucker durch das Eintauschen flüssigen Platins Kontakt zu einem dort gefangen gehaltenen humanoiden Xindi aufnehmen können. Als sie diesen in einer unterirdischen Gefängnismine treffen, erkennen sie, dass sie nun ebenfalls dort gefangen sind. Der Xindi verspricht den beiden, ihnen die Koordinaten der Heimatwelt der Xindi zu nennen, wenn sie ihm bei der Flucht helfen. Als ihr gemeinsamer Fluchtversuch von den Gefängniswärtern vereitelt wird, stellt sich heraus, dass der Xindi von den Wärtern instrumentalisiert wurde, um Archer und Tucker in eine Falle zu locken. In dem Moment werden die drei von einem MAKO-Kommando unter Reeds Führung befreit und können vor den feindlichen Schiffen fliehen. Bei der Befreiung wird der Xindi schwer verletzt, verrät Phlox kurz vor seinem Tode aber noch die versprochenen Koordinaten. Dort findet die Crew jedoch nur ein 80 Millionen Kilometer langes Trümmerfeld eines vor 120 Jahren zerstörten Planeten vor. Um die Xindi zu finden, begeben sie sich auf einen Kurs, der sie noch tiefer in die Ausdehnung hinein führt. Das Vorhaben der Crew bleibt einem weit entfernten Rat aus Außerirdischen nicht verborgen. – Tucker, nach dem Tod seiner Schwester traumatisiert und kaum in der Lage durchzuschlafen, wird unter Phlox’ Mitwirkung von T’Pol zu einer vulkanischen Neuropressur überredet."
 					}
@@ -2842,6 +2857,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "The crew of Enterprise encounters the rigours of the Delphic Expanse first-hand, and deal with pirates operating from a giant cloaked alien sphere."
 					},
 					"description": {
 						"de": "Die Enterprise-Crew findet ein im All treibendes Raumschiff mit den Leichen von 17 Humanoiden vor, die dort vor weniger als zwei Tagen getötet wurden. Plötzlich wird die Enterprise von den osaarianischen Piraten überfallen, die auch das vorgefundene Schiff überfallen haben. Sie entwenden neben Waffen und Nahrungsmitteln auch Antimaterievorräte, die der Enterprise als Antriebsmittel dienen. Da die verbliebenen Vorräte höchstens für einen Monat ausreichen, beginnt die Crew mit der Suche nach dem Diebesgut. Bei dem Überfall wurden ein Besatzungsmitglied getötet und weitere verletzt, allerdings konnte die Crew einen Piraten gefangen nehmen. Die Spur des Piratenschiffes verfolgend, stößt die Enterprise nach der Durchquerung eines Tarnfeldes auf eine 19 km durchmessende Sphäre im All, in der sie die meisten Frachtgegenstände findet. Um vom gefangenen Osaarianer Informationen über die Xindi zu erpressen, foltert ihn Archer durch rasche Dekompression in einer Luftschleuse. Dadurch erfährt er, dass die Osaarianer über eine Datenbank der Xindi verfügen. Einen Teil der Datenbank kann die Crew von einem weiteren, hinzugekommenen osaarianischen Schiff kopieren, als sie dieses mit der Enterprise kurzzeitig in das Tarnfeld verfolgt. Sie setzt den gefangenen Osaarianer in der Sphäre ab."
@@ -2874,6 +2897,14 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"abstract": {
+						"en": "While pursuing the Xindi, three crew members are exposed to an alien virus and begin to mutate into Loque’eque, a long-dead alien race."
+					},
 					"description": {
 						"de": "Dank der Xindi-Datenbank kann die Enterprise einige Xindi bis zu einem Planeten verfolgen. Dort finden Archer, T’Pol, Reed und Sato neben einer Xindi-Fähre einige verbrannte Leichen. Archer, Reed und Sato verwandeln sich unter dem Einfluss des Planeten schnell in animalische Kreaturen, nehmen T’Pol gefangen und erklären, auf der Suche nach einem Ort namens Urquat zu sein. Es gelingt einem Rettungsteam, Reed auf die Enterprise zurückzubringen, wo Phlox ein Virus als wahrscheinliche Ursache für die Mutationen ermittelt. Der Anführer zweier fremder Schiffe, die sich dem Planeten nähern, fordert die sofortige Dekontamination der Enterprise, also die Tötung Reeds, und droht ansonsten mit Gewaltanwendung. Er erklärt zudem, dass seine Gesellschaft das Virus bereits seit 60 Jahren untersucht und es einst von der Spezies Loque’eque hergestellt wurde, die sich damit vor dem Aussterben retten wollte. Seine Gesellschaft hat bereits 10 Millionen Infizierte umgebracht, um die Ausbreitung des Virus zu verhindern. Um auch die infizierten Mitglieder der Enterprise-Besatzung zu töten, schickt er einen Stoßtrupp auf die Planetenoberfläche. Bevor dieser seinen Auftrag ausführen kann, werden Archer, Sato und T’Pol durch ein Außenteam der Enterprise gerettet. Diese flieht daraufhin vor den beiden Schiffen und Phlox gelingt es, ein Gegenmittel zu entwickeln. Archer, der sich schnell in einen Menschen zurückverwandelt, bietet es den Verfolgern an und kann sie so von weiteren Angriffen abhalten."
 					}
@@ -2904,6 +2935,36 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrentVFriedman",
+							"name": "Brent V. Friedman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#PaulBrown",
+								"name": "Paul Brown"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrentVFriedman",
+								"name": "Brent V. Friedman"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A slave girl Archer rescues from an alien bazaar seeks refuge aboard Enterprise but betrays the crew instead."
 					},
 					"description": {
 						"de": "Zur sichereren Passage der Ausdehnung benötigt die Enterprise-Crew die Substanz Trellium-D, deren Herstellungsformel ihr bislang aber unbekannt ist. Als ein Außenteam die Formel auf einem Marktplatz auf einem Planeten erwirbt, rettet Archer die offensichtlich vor einem Händler fliehende, humanoide Konkubine Rajiin und nimmt sie mit an Bord. Ein erster Synthetisierungsversuch mit Hilfe der Formel scheitert. Alsbald stellt sich heraus, dass Rajiin in der Lage ist, die Besatzung, darunter Archer, zu manipulieren, um sich ihr nähern und sie biometrisch scannen zu können. Nachdem Rajiin dabei T’Pol verletzt hat, ist sie als Spionin enttarnt, woraufhin sie vor der Crew erfolglos zu fliehen versucht. Während sich zwei Xindi-Raumschiffe der Enterprise nähern, erfährt Archer von Rajiin, dass sie von den Xindi hergeschickt wurde, weil diese zum Bau einer neuen Biowaffe Informationen über die Menschen brauchen. Einige der Reptilianer entern die Enterprise und nehmen Rajiin mit, wobei einige Enterprise-Crewmitglieder und ein Xindi sterben, den Archer anschließend von Phlox obduzieren lässt. Der Xindi-Versammlung, die den Bau der Waffe plant, gibt Rajiin schließlich die Informationen über die Enterprise-Besatzung preis."
@@ -2936,6 +2997,29 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFernandez",
+						"name": "Jonathan Fernandez"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JonathanFernandez",
+								"name": "Jonathan Fernandez"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+								"name": "Terry Matalas"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Enterprise encounters a Vulcan ship whose crew has become unstable due to Trellium-D exposure. Sub-Commander T’Pol soon begins to exhibit the same symptoms."
+					},
 					"description": {
 						"de": "Die Enterprise empfängt einen Notruf vom vulkanischen Raumschiff Seleya, das seit neun Monaten in der Ausdehnung verschollen ist. Archer und T’Pol fliegen daraufhin mit einem Außenteam zur Seleya, die sie in einem Asteroidenfeld, das große Mengen Trellium-D enthält, treibend aufgespürt haben. An Bord treffen sie auf die vulkanische Besatzung, die sich in gewalttätige, angriffslustige und äußerlich entstellte Wesen verwandelt hat und ihnen nun den Rückweg zur Raumfähre versperrt. Auch T’Pol beginnt sich zu verändern und reagiert zunehmend emotional und paranoisch. Da Tucker und Mayweather die zweite Enterprise-Fähre unterdessen bei der Gewinnung von Trellium-D – das die Enterprise vor Anomalien in der Ausdehnung schützen soll – beschädigt haben, können sie den Eingeschlossenen zunächst nicht helfen. Phlox’ Auswertung der Daten, die das Außenteam gesammelt hat, ergibt, dass Trellium-D giftig für Vulkanier ist und sie in mordlüsterne Kreaturen verwandelt. Da die Besatzung der Seleya dem Gift bereits zu lange ausgesetzt ist, kann Phlox sie nicht mehr heilen. Dem Außenteam gelingt es schließlich, von der Seleya auf die Enterprise zu fliehen, wobei sie notgedrungen den Reaktor der Seleya überladen, so dass das Schiff zerstört wird. Tucker und Mayweather haben über 60 kg Trellium-D gewonnen, das so an Bord gelagert wird, dass T’Pol, die sich wieder erholt hat, davor geschützt ist."
 					}
@@ -2966,6 +3050,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
+					},
+					"abstract": {
+						"en": "A Beauty and the Beast-like tale involving Ensign Sato encountering a potentially helpful telepath on a deserted world."
 					},
 					"description": {
 						"de": "Während die Enterprise auf dem Weg zu einer neu entdeckten, zweiten Xindi-Sphäre ist, nimmt der Telepath Tarquin, der aufgrund seiner Fähigkeiten allein auf einem Planeten im Exil lebt, Kontakt zu Sato auf. Archer und Sato willigen in Tarquins Forderung ein, dass Sato eine Zeitlang in seinem Anwesen bleibt. Im Gegenzug möchte er der Crew neue Informationen über die Xindi-Waffe geben. Sato stellt fest, dass Tarquin sehr genau über ihre Vergangenheit informiert ist und dass er sehr einsam ist. Sie stellt außerdem fest, dass er bereits früher einige Gefährtinnen hatte, die mittlerweile gestorben sind, da er sehr langlebig ist. Tarquin gibt zu, dass er Sato für immer bei sich behalten und nicht auf die Enterprise zurückkehren lassen will. In der Nähe der auch visuell getarnten Xindi-Sphäre wird die Enterprise durch massive gravimetrische Verzerrungen schwer beschädigt. Um die Sphäre zu erforschen, fliegen Archer und Tucker daher in einer Fähre dorthin, die sie mit Trellium-D, das vor den Anomalien schützt, ausgekleidet haben, und sammeln wertvolle Informationen. Die Auswertung der Daten über die Sphäre ergibt, dass die Anomalien von mindestens 50 ähnlichen Sphären verursacht werden, die eventuell die Ausdehnung erst erzeugt haben. Sato kann sich aus der Gewalt von Tarquin befreien und auf die zum Planeten zurückgekehrte Enterprise retten. Sie erhält dadurch aber zunächst keine neuen Informationen über die Xindi. Tarquin erscheint ihr jedoch erneut auf telepathischem Weg und informiert sie doch über eine Xindi-Kolonie, in der angeblich ein Teil der Xindi-Waffe gebaut wird."
@@ -2998,6 +3090,21 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrentVFriedman",
+							"name": "Brent V. Friedman"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer learns of kemocite, a key element in a new weapon being built to destroy Earth, and seeks to follow its supply to the superweapon."
+					},
 					"description": {
 						"de": "Im Rat der Xindi berichtet Bauleiter Degra, dass die geplante Waffe in wenigen Wochen einsatzbereit sein werde. Mit Hilfe der Koordinaten, die die Enterprise-Crew von Tarquin erhalten hat, entdecken sie einen Planeten und einen Gebäudekomplex der Xindi. Darin findet das aus Archer, Reed und Hayes bestehende Außenteam eine große Menge der Substanz Kemocite. Sie beamen einen Kanister davon zur Analyse an Bord. Dann folgen sie Gralik, einem der drei Xindi, die sie in dem Gebäude entdeckt haben, zu seinem Wohnhaus und konfrontieren ihn mit der Wahrheit, dass das Kemocite zum Bau einer Waffe benutzt werden soll. Gralik bestreitet jedoch, etwas von der Waffe zu wissen. An Bord der Enterprise findet Tucker heraus, dass das Kemocite alle Xindi-Waffen antreibt. Er löst versehentlich einen Selbstzerstörungsmechanismus bei einer Xindi-Handwaffe aus, kann sie aber im letzten Moment von Bord beamen. Archer entscheidet sich gegen die Zerstörung der Kemocite-Anlage, um nicht als Aggressor zu wirken, und informiert Gralik über den Angriff auf die Erde. Gralik wiederum erklärt, Degra habe ihn im Glauben gelassen, das Kemocite sei nur für Forschungszwecke gedacht. Ein Raumschiff der Xindi-Spezies Reptilianer erscheint, um die letzte Ladung Kemocite abzuholen. T’Pol modifiziert den Kanister, sodass er nachverfolgt werden kann, und beamt ihn wieder zu Archer. Dieser kann ihn in das Reptilianer-Schiff schmuggeln, während ihm Gralik dabei hilft, unentdeckt zu bleiben. Zurück auf der Enterprise bestätigt Sato, dass sie das Schiff der Xindi verfolgen kann."
 					}
@@ -3028,6 +3135,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "A parasite causes Captain Archer to lose his short-term memory, and he (with the help of T’Pol and Doctor Phlox) seeks a way to change the past."
 					},
 					"description": {
 						"de": "Auf der Enterprise wird Archer von einer Anomalie getroffen und dabei mit Parasiten infiziert, die ihn dauerhaft sein Langzeitgedächtnis verlieren lassen. Zwölf Jahre später ist er nach wie vor krank und wird von T’Pol über die Ereignisse seit dem Vorfall informiert: Einige Zeit nach seiner Infektion erhielt T’Pol von der Sternenflotte das Kommando über die Enterprise. Auf dem Weg zur Waffenfabrik der Xindi wurde die Enterprise von Xindi-Raumschiffen angegriffen und dabei durch T’Pols Einsatz zwar vor der Vernichtung bewahrt, aber erheblich beschädigt. Die Crew erreichte die Waffenfabrik zu spät; die Xindi konnten mit der Waffe nicht nur die Erde, sondern auch etliche menschliche Kolonien zerstören, sodass nur wenige Menschen überlebten. Daraufhin legte T’Pol ihr Kommando nieder. Zwölf Jahre nach Archers Infektion wird er von Phlox aufgesucht, der beabsichtigt ihn zu heilen. Dazu begeben sich Archer, T’Pol und Phlox auf die mittlerweile von Tucker kommandierte Enterprise, wo Phlox mit der Heilungsprozedur beginnt und dabei mit T’Pol erkennt, dass dadurch nicht nur die gegenwärtig in Archers Körper befindlichen Parasiten eliminiert werden, sondern dass die Parasiten auch in der Vergangenheit verschwinden und somit die Geschichte neu geschrieben werden kann. Während der Heilungsprozedur wird die Enterprise jedoch erneut von den Xindi angegriffen und schwer beschossen. Kurz bevor die Enterprise zerstört wird, kann Archer die Prozedur vollenden, wodurch die Zeitlinie korrigiert wird und Archer gesund wieder in der Gegenwart erwacht."
