@@ -440,6 +440,21 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreJacquemetton",
+							"name": "Andre Jacquemetton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MariaJacquemetton",
+							"name": "Maria Jacquemetton"
+						}
+					],
+					"abstract": {
+						"en": "Lieutenant Reed and Ensign Mayweather extract a rare chemical on a comet while Sub-Commander T’Pol considers marriage to Koss."
+					},
 					"description": {
 						"de": "Die Enterprise untersucht einen über 80 km durchmessenden Kometen, um dort ein seltenes Mineral zu gewinnen. Alsbald nähert sich ein vulkanisches Raumschiff, dessen Captain, der die Menschen unter anderem als arrogant einschätzt, die Bemühungen der Enterprise überwacht. Reed und Mayweather untersuchen die vereiste Kometenoberfläche. Zugleich erlangt Tucker Kenntnis von T’Pols Problemen, ihre geplante arrangierte Ehe betreffend. Er versteht, dass sie lieber nicht heiraten würde, und berät sie entsprechend, aber sie fühlt sich verpflichtet, den vulkanischen Traditionen zu folgen. Nach der Sprengung eines Lochs in die Kometenoberfläche verletzt sich Mayweather am Bein. Dadurch schaffen es die beiden erst spät, auf dem unter der aufgehenden Sonne bröckelnden Eis ihre Fähre zu erreichen. Mit dieser stürzen sie beim Abheben in ein tiefes Loch. Da es Archer mit der Enterprise nicht schafft, die beiden zu retten, nimmt er die Hilfe der Vulkanier an, die Fähre mit dem Traktorstrahl von deren Schiff zu retten. Dies widerstrebte ihm zunächst wegen seines Misstrauens gegenüber den Vulkaniern. T’Pol nimmt Tuckers Ratschlag an und weigert sich zu heiraten."
 					},
@@ -484,6 +499,21 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer and an away team go undercover to a pre-industrial civilization in order to investigate an unexpected sensor reading."
+					},
 					"description": {
 						"de": "Die Enterprise-Crew erkundet einen fremden Planeten, auf dem die scheinbar vorindustrielle Gesellschaft der Akali lebt, und versucht herauszufinden, wodurch Neutrino-Emissionen verursacht werden, die der Schiffscomputer auf der Oberfläche bemerkt hat. Dazu brechen Archer und Tucker in ein Geschäftsgebäude ein, in dem sich die Energiequelle befindet, die sich als Reaktor herausstellt. Dabei werden sie von einer einheimischen Frau überrascht, die gegen den Geschäftseigentümer wegen lokal gehäuft auftretender Vergiftungserscheinungen der Einwohner ermittelt. Zusammen ermitteln sie, dass der Eigentümer, der einer anderen Spezies angehört, unter dem Gebäude Waffenmaterial herstellen lässt und dieses mittels Raumschiffen abtransportieren lässt. Weil sich der Eigentümer durch die Crew gestört fühlt, lässt er Archer und die Frau auf dem Planeten verfolgen und die Enterprise im Orbit beschießen. Die Enterprise-Crew schafft es aber, den Reaktor aus dem Gebäude zu beamen und zu zerstören sowie das fremde Schiff kampfunfähig zu machen. Die Erkrankungsgefahr für die Akali kann somit gebannt werden."
 					}
@@ -514,6 +544,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesDuff",
+						"name": "James Duff"
+					},
+					"abstract": {
+						"en": "The cargo ship Fortunate is damaged by Nausicaan pirates and Enterprise offers a helping hand, only to find the acting-captain has secret plans."
 					},
 					"description": {
 						"de": "Das mit menschlicher Besatzung reisende, aber nicht zur Sternenflotte gehörende Frachtraumschiff Fortunate wird von nausicaanischen Piraten angegriffen. Dabei wird der Captain schwer verletzt und ein Nausicaaner durch den 1. Offizier Ryan gefangen genommen. Ryan verhört den Gefangenen, um die anderen Nausicaaner aufzuspüren, die er vernichten will. Die Enterprise erhält vom Sternenflottenkommando den Auftrag, der Fortunate bei den Reparaturen zu helfen. Bei dem Schiff angekommen, erfährt Mayweather von Ryan, dass dessen Eltern einst durch Nausicaaner getötet wurden. Da Ryan gegenüber Archer nicht erklären möchte, warum er den Nausicaaner gefangen hält, überlistet er die Enterprise-Crew und flieht mit der Fortunate in Richtung des Standortes anderer nausicaanischer Schiffe, um diese anzugreifen. Dies versucht Archer aus moralischen Gründen zu verhindern, indem er das Schiff verfolgen lässt. Einer möglichen Zerstörung der Fortunate durch die sich verteidigenden Nausicaaner zuvor gekommen, möchte Archer die Beziehungen zu den Nausicaanern verbessern. Dazu lässt er Mayweather den rachsüchtigen Ryan davon überzeugen, aufzugeben."
@@ -546,6 +584,21 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StephenBeck",
+							"name": "Stephen Beck"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TimFinch",
+							"name": "Tim Finch"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer learns that Crewman Daniels is covertly helping to fight the Temporal Cold War against Silik and members of the Suliban Cabal."
+					},
 					"description": {
 						"de": "Die Enterprise weilt, ebenso wie ein Raumschiff mit Pilgern an Bord, in der Nähe eines Sternentstehungsgebietes, um dort der Geburt eines Sterns beizuwohnen. Während einige der Pilger auf Einladung von Archer die Enterprise besichtigen, platziert einer davon unentdeckt etwas im Maschinenraum. Wenig später durchfliegt die Enterprise auf dem Weg zu dem Protostern einen Plasmasturm, der zu einer Antimaterie-Kaskade am Schiffsantrieb führt, die jedoch aus zunächst unerfindlichem Grunde endet, bevor sie das Schiff zerstört hätte. Kurz darauf enthüllt Archers Diener Daniels, dass er ein Zeitreisender aus einer 900 Jahre entfernten Zukunft ist und dass die Kaskade nur wegen des Eingriffs von Silik, einem Suliban, gestoppt worden sei. Es herrsche ein „Temporaler Kalter Krieg“ und er müsse Silik verhaften. Alsbald erscheint Silik in Archers Quartier und versichert diesem, dass Daniels ein Lügner sei. Nachdem Silik Archer betäubt hat, erschießt er Daniels. Archer verfolgt Silik daraufhin bis in den Fährenhangar, wo er ihm aber entwischt und in ein nahendes Suliban-Raumschiff flieht."
 					}
@@ -571,6 +624,14 @@
 							"name": "Wikipedia"
 						},
 						"url": "https://en.wikipedia.org/wiki/Silent_Enemy_(Star_Trek:_Enterprise)"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"abstract": {
+						"en": "Ensign Sato tries to find out what Lieutenant Reed’s favorite food is, while Captain Archer deals with a secretive and aggressive alien first contact."
 					},
 					"director": {
 						"@type": "Person",
@@ -608,6 +669,21 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesAContner",
 						"name": "James A. Contner"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreJacquemetton",
+							"name": "Andre Jacquemetton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MariaJacquemetton",
+							"name": "Maria Jacquemetton"
+						}
+					],
+					"abstract": {
+						"en": "Doctor Phlox and Captain Archer must decide the fate of two species suffering from an evolutionary pandemic."
+					},
 					"description": {
 						"de": "Dr. Phlox diktiert einen Brief an einen befreundeten Arzt. Darin hält er auch seine gegenwärtigen beruflichen und privaten Eindrücke fest. Zu letzteren gehören die Annäherungsversuche seiner menschlichen Kollegin Cutler. Als die Enterprise zwei verletzte Walakianer aus einem driftenden Raumschiff an Bord nimmt, stellt sich heraus, dass die gegenwärtig 50 Millionen Individuen umfassende Spezies wegen einer Epidemie in den nächsten Jahren auszusterben droht. Die Krankheit ist, wie Phlox herausfindet, genetisch bedingt und betrifft im Gegensatz zu den Walakianern nicht die Wenk, die auf demselben Planeten leben und die gegen den Krankheitserreger resistent sind. Phlox rät Archer davon ab, das von ihm mittlerweile entwickelte Heilmittel einzusetzen. Er begründet das damit, dass sie sich dann auch in die Evolution der Wenk, die von der Krankheit der Walakianer profitieren, einmischen würden. Archer entscheidet schließlich entsprechend Phlox’ Meinung, da er nicht Gott spielen wolle. Dafür überlässt er den Walakianern aber ein Medikament, das die Symptome für etwa 10 Jahre lindert."
 					}
@@ -638,6 +714,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FredDekker",
+						"name": "Fred Dekker"
+					},
+					"abstract": {
+						"en": "Ensign Sato, Lieutenant Reed and Sub-Commander T’Pol attempt to help an unresponsive Klingon ship escape the crushing pressures of a gas giant."
 					},
 					"description": {
 						"de": "Um einem havarierten Raumschiff zu helfen, das in der Atmosphäre eines Gasplaneten festsitzt, fliegt ein aus T’Pol, Reed und Sato bestehendes Außenteam mit einer Fähre zu dem Schiff, das sie als klingonisch identifizieren. Dessen Besatzung finden sie bewusstlos vor, aber eine Klingonin überrumpelt sie und flieht mit der Fähre, die aber alsbald von der Enterprise aufgegriffen wird. Das klingonische Schiff droht zerstört zu werden, weil es immer weiter in die Atmosphäre sinkt. Um den Antrieb zu reaktivieren und sich so zu retten, versuchen die drei zunächst erfolglos, den defekten Fusionsreaktor zu reparieren. An Bord der Enterprise sträubt sich die Klingonin zunächst dagegen, bei der Reparatur ihres Schiffes zu helfen. Phlox ermittelt, dass die klingonische Crew durch Bier erkrankt ist, das sie bei ihrem letzten Raubzug erbeutet hat. Schließlich überzeugt Archer, nachdem er Aufzeichnungen über die klingonische Kultur studiert hat, die Frau davon, bei der Bergung ihres Schiffes zu helfen. Nachdem das Schiff die Atmosphäre wieder verlassen hat und seine Crew wieder bei Bewusstsein ist, scheitert sein Captain darin, die Enterprise anzugreifen."
