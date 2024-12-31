@@ -103,7 +103,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
+						"en": "Enterprise (NX-01) is launched, and Captain Archer finds himself in the middle of a Temporal Cold War involving Klingons and Suliban.",
 						"de": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 					},
 					"review": {
@@ -146,6 +159,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Ensign Sato faces her fears on an alien ship whose crew was murdered, while Lieutenant Reed tries to upgrade the ship’s defense system."
 					},
 					"description": {
 						"de": "Während Archer durch Reed die Zielausrichtungsscanner für die Torpedos kalibrieren lässt, entdeckt die Crew ein driftendes Raumschiff, das sie untersucht, indem sie sich an Bord begibt. Dort befinden sich 15 kopfüber an der Decke hängende Leichen der humanoiden Spezies Axanar. Nach T’Pols Hinweis, die Mörder der Toten könnten zurückkehren und auch der Enterprise gefährlich werden, lässt Archer die Enterprise wieder wegfliegen. Wegen seines schlechten Gewissens, die Ursache der Tode nicht aufgeklärt zu haben, lässt Archer aber alsbald wenden und Phlox eine Autopsie vornehmen. Dabei findet er heraus, dass den Körpern Triglomylin entzogen wird, einer Körperflüssigkeit ähnlich der Lymphflüssigkeit. Währenddessen erfüllt sich T’Pols Befürchtung und das Raumschiff der Mörder kehrt zurück; es schießt die Enterprise sodann flugunfähig und versucht sie in ihre Gewalt zu bringen. Ein weiteres, hinzugekommenes Raumschiff der Axanar zerstört schließlich das angreifende Schiff, nachdem sich Hoshi nach einigem Zögern dazu überwunden hat, die Axanar in deren ihr bislang fremder Sprache um Hilfe zu bitten."
@@ -192,6 +220,36 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A storm traps an away team in a cave on an alien world, and pollen spores cause them to experience psychosis."
+					},
 					"description": {
 						"de": "Ein Außenteam, darunter T’Pol und Tucker, ist zur Erkundung auf einem Planeten eingetroffen, als plötzlich ein schwerer Sturm aufzieht. Nachdem das Team in einer Höhle Schutz gefunden hat, zeigen sich zumindest bei Tucker Halluzinationserscheinungen, bei denen er geheimnisvolle Steinwesen sieht und T’Pol verdächtigt, mit diesen zu kollaborieren, weswegen er T’Pol zu töten beabsichtigt. Nachdem die Enterprise eines der Teammitglieder an Bord gebeamt hat, stirbt es an den Folgen der Infektion, die auch Tucker befallen hat. Basierend auf dieser Erkenntnis halten Archer und Sato, auch auf Vulkanisch mit T’Pol kommunizierend, Tucker so lange mit Erklärungsversuchen für deren Verhalten hin, bis T’Pol die Gelegenheit wahrnimmt, Tucker zu überwältigen. Nachdem den infizierten Teammitgliedern die unterdessen von Dr. Phlox bereitgestellte Medizin verabreicht wurde und der Sturm abgeflaut ist, verlässt das Außenteam die Höhle."
 					}
@@ -222,6 +280,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Commander Tucker helps an alien crew fix their engines, has an “interspecies encounter” in a holodeck, and returns to find himself pregnant."
 					},
 					"description": {
 						"de": "Als Ursache für mehrfach auftretende Systemausfälle auf der Enterprise stellt sich ein xyrillianisches Raumschiff heraus, das den Plasmaausstoß der Enterprise wegen seines eigenen defekten Antriebs nutzt und zu diesem Zweck im Warpschatten der Enterprise fliegt. An Bord des fremden Schiffes leistet Tucker entscheidende Reparaturhilfe; während seines dortigen Aufenthaltes lernt er eine xyrillianische Ingenieurin näher kennen. Zurückgekehrt auf die Enterprise, beginnen an Tuckers Arm Brustwarzen zu wachsen, woraufhin Dr. Phlox herausfindet, dass Tucker durch einen Körperkontakt mit der Xyrillianerin schwanger ist. Um dieses für Tucker unangenehme Problem zu beheben, spürt die Enterprise das xyrillianische Schiff nach kurzer Suche auf. Da dieses durch ein ebenfalls anwesendes Klingonenschiff zerstört zu werden droht, macht Archer die Klingonen auf die Hologramm-Technologie der Xyrillianer neugierig. Dadurch kann Tucker schließlich an Bord des xyrillianischen Schiffes gehen und die Schwangerschaft beenden lassen: Der Fötus wird transferiert."
@@ -254,6 +327,29 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AntoinetteStella",
+						"name": "Antoinette Stella"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Enterprise is sent to learn what happened to an early Human colony called Terra Nova."
+					},
 					"description": {
 						"de": "Die Enterprise untersucht die alte menschliche Kolonie Terra Nova auf einem Planeten. Mit einer Fähre dort gelandet, findet die Crew ein völlig verlassenes Dorf vor. Beim Verfolgen einer unbekannten Person wird Reed durch Unbekannte in einem Tunnelsystem gefangen genommen; sie leben dort seit 70 Jahren. Dorthin begaben sie sich einst, als die Oberfläche verstrahlt wurde. Da die Novaner genannten Menschen die Crew als Bedrohung empfinden, halten sie Reed weiter gefangen. Die Crew ermittelt, dass damals ein Asteroideneinschlag einen radioaktiven Niederschlag verursachte, der sie zur Flucht unter die Erde zwang, und dass sie als Kinder zunächst immun gegen die Strahlung waren – im Gegensatz zu ihren Eltern, die umkamen. Da sie durch das nun mehr und mehr kontaminierte Grundwasser auch zu sterben drohen, möchte Archer sie auf die Erde umsiedeln, wogegen sich die Novaner aber sträuben. Nachdem Archer einen abgestürzten Novaner vor dem Ertrinken rettet, lassen sich die Novaner davon überzeugen, Reed freizugeben und selbst in die Höhlen eines anderen, nicht kontaminierten Kontinents des Planeten umzuziehen."
 					}
@@ -284,6 +380,34 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FredDekker",
+						"name": "Fred Dekker"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#FredDekker",
+								"name": "Fred Dekker"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer, Commander Tucker, and Sub-Commander T’Pol are taken hostage by Andorians in a Vulcan monastery called P’Jem."
 					},
 					"description": {
 						"de": "Zu Erkundungszwecken besucht die Enterprise einen Planeten, auf dem sich das vulkanische Kloster P’Jem befindet. Das Kloster wird jedoch durch Andorianer belagert, die die Vulkanier verdächtigen, ihren Planeten mit geheimer Technologie auszuspionieren. Als Archer, T’Pol und Tucker im Kloster eintreffen, werden sie durch Andorianer gefangen genommen und mit den Mönchen eingesperrt. Alsbald schmieden die drei einen Ausbruchsplan und setzen ihn mit Hilfe der Enterprise-Crew um, mit der sie unbemerkt von den Andorianern kommunizieren. Während des Ausbruchs entdecken sie sehr zu ihrer Überraschung schließlich eine riesige vulkanische Überwachungsanlage, womit sich der Verdacht der Andorianer bestätigt. Mit dieser Erkenntnis lassen die Andorianer die Crew frei, und Archer lässt die Andorianer unbehelligt abziehen."
