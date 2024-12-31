@@ -2442,6 +2442,29 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnShiban",
+							"name": "John Shiban"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanielMcCarthy",
+							"name": "Daniel McCarthy"
+						}
+					},
+					"abstract": {
+						"en": "Due to the demands of a militant faction, Enterprise is asked to retrieve Denobulan geologists from an alien cave. Dr. Phlox must treat a patient with racist views against his people."
+					},
 					"description": {
 						"de": "Auf ein Hilfsgesuch des denobulanischen Wissenschaftsrates reagierend, beginnt ein Außenteam der Enterprise, auf einem Planeten nach drei Denobulanern zu suchen, da diesen durch Xantoraner die baldige Verhaftung droht. In einem Höhlensystem zu ihnen unterwegs, stürzen Tucker, Mayweather und Reed in einem Abgrund ab, wobei sich Mayweather ein Bein bricht. Tucker und Reed müssen die Denobulaner schließlich zum Verlassen ihrer Forschungsstätte zwingen und schaffen es zusammen mit Mayweather unter einsetzendem xantoranischen Bombardement in letzter Sekunde bis an Bord der Enterprise. Gleichzeitig behandelt Phlox einen von einem verunfallten Raumschiff geretteten, verletzten Antaraner. Beider Völker sind, seitdem die Denobulaner einst 20 Millionen Antaraner töteten, isoliert und hegen eine starke Abneigung gegeneinander. Deshalb verweigert der Verletzte zunächst die Hilfe von Phlox und nimmt sogar seinen Tod in Kauf. Phlox andererseits verweigert Archers Befehl, den Verletzten gegen dessen Willen zu behandeln. Nach einem Gespräch mit T’Pol beginnt sich Phlox’ Meinung über die Antaraner aber zu ändern. Um seinem eigenen Sohn ein Vorbild zu sein, überzeugt Phlox schließlich den Verletzten davon, sich behandeln zu lassen."
 					}
@@ -2473,6 +2496,21 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Enterprise encounters the Vissians and Commander Tucker finds himself troubled by the fact the Vissians are a three-sexed species."
+					},
 					"description": {
 						"de": "Während Archer zusammen mit einem visianischen Captain in dessen Stratokapsel die Atmosphäre eines Riesensterns erforscht, beginnt sich Tucker für ein Cogenitor zu interessieren, ein Individuum des dritten Geschlechts der Visianer, von denen einige gerade zu Besuch auf der Enterprise sind. Cogenitoren dienen visianischen Pärchen ausschließlich zur Befruchtung; sie werden nicht als gleichwertige Individuen angesehen, erhalten keine Bildung und tragen keine Namen. Da Tucker deshalb die Individuenrechte des Cogenitors beeinträchtigt sieht, bringt er ihm – entgegen Archers Befehl, sich nicht in die Entwicklung fremder Rassen einzumischen – das Lesen bei und führt es durch die Enterprise. Nachdem das Cogenitor auf der Enterprise Asyl beansprucht hat, erregt Tucker den Zorn der Visianer und von Archer. Daraufhin verlassen die Visianer mitsamt dem Cogenitor die Enterprise und teilen später – sehr zu Tuckers Bestürzung – mit, dass das Cogenitor sich das Leben genommen hat."
 					}
@@ -2503,6 +2541,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"abstract": {
+						"en": "A group of Borg (from Star Trek: First Contact) are revived after a century frozen in the Arctic ice."
 					},
 					"description": {
 						"de": "Am nördlichen Polarkreis auf der Erde entdeckt ein menschliches Wissenschaftlerteam die Absturzstelle eines fremden Raumschiffes und untersucht die zunächst eingefrorenen Verletzten, bei denen es sich um kybernetische Organismen handelt. Nachdem diese sich mittels Nanotechnologie regeneriert haben, überwältigen und entführen sie die Wissenschaftler und entwenden deren Frachtraumschiff. Mit dem Zurückholen des Teams beauftragt, verfolgt die Enterprise das Schiff und rettet unterwegs zwei verletzte Takalianer von deren Raumschiff, das von dem Frachter angegriffen wurde. Diese wurden von den kybernetischen Wesen infiziert und werden nun – ebenfalls mit Nanotechnologie – in kybernetische Organismen transformiert. Nachdem die beiden ausgebrochen sind und dabei auch Phlox infiziert haben, beginnen sie, die Enterprise zu modifizieren, sodass Archer keine andere Wahl bleibt, als sie zu ihrer Unschädlichmachung in den Weltraum zu befördern. Während die Enterprise den Frachter weiter verfolgt, kann Phlox letztlich erfolgreich seine Infektion heilen. Bei dem Schiff eingetroffen, beginnen die kybernetischen Wesen, die Enterprise zu assimilieren. Die Crew hat keine Hoffnung mehr, die Wissenschaftler unbeschadet zurückzuholen, da diese höchstwahrscheinlich auch assimiliert wurden. Nachdem Archer und Reed in dem Frachter eine Bombe zur Explosion gebracht haben, ziehen sich die Wesen von der Enterprise zurück. Als sich der Frachter zu regenerieren beginnt, lässt ihn Archer durch Beschuss zerstören. Messungen des Kommunikationsverkehrs ergeben, dass die kybernetischen Wesen in den Delta-Quadranten kommunizierten und dorthin zurückkehren wollten."
@@ -2563,6 +2616,21 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnShiban",
+							"name": "John Shiban"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						}
+					],
+					"abstract": {
+						"en": "Upon the death of a close friend, Captain Archer tells Sub-Commander T'Pol about his early career as an experimental warp engine pilot."
+					},
 					"description": {
 						"de": "Während Archer und T’Pol von einer Fähre aus einen Nebel aus dunkler Materie sichtbar zu machen versuchen, erzählt Archer von seinen Erlebnissen mit A. G. Robinson, seinem früheren Arbeitskollegen und Freund, der kürzlich tödlich verunglückte: Als A. G. als Pilot den von Archers Vater entwickelten Warpantrieb erstmals testet, missachtet er Befehle und der Testflug scheitert. Die Sternenflottenführung möchte in der Folge ihr Warpentwicklungsprogramm einstellen, wofür Archer, auch verbittert über seine Nichtberücksichtigung als Pilot, in einer Kneipenschlägerei A. G. verantwortlich macht. Um die Einstellung des Programms doch noch zu verhindern, stehlen sie – unterstützt von Archers dort neu kennengelerntem Freund Tucker – heimlich das zweite Testraumschiff und absolvieren damit den Testflug erfolgreich, indem sie das Schiff bis auf Warp 2,5 beschleunigen. – Während Archer in der Fähre die Geschichte zu Ende erzählt, gelingt es ihm und T’Pol, den Nebel sichtbar zu machen. T’Pol schlägt vor, den Nebel nach Robinson zu benennen."
 					}
@@ -2593,6 +2661,41 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansTobeason",
+							"name": "Hans Tobeason"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A Tellarite captures Captain Archer in order to collect a reward from the Klingons who have been searching for him since the events of “Judgment”."
 					},
 					"description": {
 						"de": "Unter einem Vorwand entführt der Tellarite Skalaar Captain Archer von Bord der Enterprise, um ihn den Klingonen auszuliefern und so Kopfgeld zu kassieren, das er für den Rückkauf seines von den Klingonen einst beschlagnahmten Raumschiffes Tezra benötigt. Während sie zum Treffpunkt fliegen, lernt Archer Skalaars Absichten kennen und hilft ihm bei der Flucht vor einem konkurrierenden Kopfgeldjäger. Auf einer Raumstation übergibt Skalaar Archer den Klingonen. Dort erfährt er zuvor, dass die Tezra mittlerweile zerstört wurde. Daher lässt er sich von Archer dazu überzeugen, diesem zur Flucht zu verhelfen, gibt ihm dazu heimlich einen Dietrich mit und verständigt die Enterprise. Mit dem Werkzeug befreit sich Archer und wird, mit einer Rettungskapsel geflohen, von der Enterprise aufgenommen. – Zugleich befinden sich Phlox und T’Pol zur Desinfektion in der Dekontaminationskammer. In der Enge der Kammer kann T’Pol alsbald ihre Emotionen nicht mehr unterdrücken und erkennt, dass sie verfrüht in das Pon Farr eingetreten ist, den vulkanischen Paarungszyklus. Da Phlox sich nicht mit ihr paaren möchte, flieht sie schließlich aus der Kammer, wird aber alsbald aufgegriffen und bis zu ihrer vollständigen Genesung erneut eingesperrt."
@@ -2637,7 +2740,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
+						"en": "After an alien attack on Earth, Enterprise is refitted before being sent into the Delphic Expanse. Sub-Commander T'Pol resigns her commission with the Vulcan High Command, and Commander Tucker is troubled by the death of his sister.",
 						"de": "Beim Angriff eines aus der Zukunft angereisten Xindi-Raumschiffes auf die Erde sterben über 7 Millionen Menschen. Durch eine Warnung des zeitreisenden Anführers der Suliban-Kabale, wonach der Erde sogar die gänzliche Zerstörung durch die Xindi drohe, lässt sich die Sternenflottenführung davon überzeugen, dass die Enterprise das zerstörerische Vorhaben der Xindi verhindert. Zu diesem Zweck bricht die Enterprise in die „Delphische Ausdehnung“ auf, eine weit entfernte, gefährliche und wenig erforschte Gegend des Weltraums."
 					}
 				}
