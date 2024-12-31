@@ -219,7 +219,7 @@ EOT;
 													<td>
 														<dl>
 															<div property="isBasedOn" typeof="<?= htmlSpecialChars($episode['isBasedOn']['@type']) ?>">
-																<dt>story by:</dt>
+																<dt><abbr title="story by">S</abbr>:</dt>
 																<?php if ($episode['isBasedOn']['author']['name']): ?>
 																	<dd
 																		property="author"
@@ -245,7 +245,7 @@ EOT;
 																<?php endif; ?>
 															</div>
 															<div>
-																<dt>teleplay by:</dt>
+																<dt><abbr title="teleplay by">T</abbr>:</dt>
 																<?php if ($episode['author']['name']): ?>
 																	<dd
 																		property="author"
