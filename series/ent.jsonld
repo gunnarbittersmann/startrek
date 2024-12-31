@@ -1974,6 +1974,29 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
+						"name": "David A. Goodman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "While answering a distress call, Commander Tucker is kidnapped along with a demanding alien princess."
+					},
 					"description": {
 						"de": "Tucker leistet auf dem an die Enterprise angedockten Raumschiff zweier Außerirdischer Reparaturhilfe an einer Stasiskammer. Als die darin befindliche, humanoide Frau Kaitaama plötzlich erwacht und mit Tuckers Hilfe freikommt, lässt der Raumschiffkommandeur sein Schiff gewaltsam abdocken und wegfliegen und hindert die Enterprise an der Verfolgung, indem er deren Warpantrieb mit einer List außer Betrieb setzt. Nachdem Tucker seinen Universalübersetzer aktiviert hat, findet er heraus, dass Kaitaama die zukünftige Monarchin von Krios Prime ist und als Geisel gehalten wird, um Lösegeld zu erhalten. Mit ihr flieht er in einer engen Rettungskapsel, die sie gemeinsam auf einer sumpfigen, bewaldeten Insel eines Planeten landen. Dort geraten sie abermals wegen Missverständnissen in Streit, küssen sich aber schließlich. Unterdessen haben Archer und T’Pol den auf der Enterprise verbliebenen Außerirdischen durch die Drohung mit Hinrichtung dazu bewogen, bei der Verfolgung seines Artgenossen zu helfen, sodass sie Tucker und Kaitaama schließlich retten können. Kaitaama kehrt letztlich auf ein Raumschiff ihrer Spezies zurück."
 					}
@@ -2004,6 +2027,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"abstract": {
+						"en": "The Enterprise crew takes refuge inside one of the warp nacelles to avoid an inescapable radiation belt."
 					},
 					"description": {
 						"de": "Drei Schutz suchende Fremde warnen die Enterprise-Crew vor einer neutronischen Wellenfront, die sich mit Warp 7 auf die Enterprise zubewegt und zwar keine Gefahr für das Schiff, wohl aber eine ernste Lebensgefahr für die Besatzung darstellt. Daher lässt Archer die Crew zusammen mit den Fremden in den nur bei deaktiviertem Warpantrieb sicheren Laufsteg evakuieren, die röhrenförmige Verbindung zwischen den Antriebsgondeln des Schiffes. Während die Crew dort über Tage hinweg ein Dasein auf engstem Raum fristet und das Schiff von der Welle geschüttelt wird, versuchen einige, unbemerkt auf das Schiff gelangte, fremde Milizionäre, die Kontrolle über die Enterprise zu übernehmen und dazu den Warpantrieb zu starten. Sie beschuldigen die Crew zudem der kriminellen Konspiration mit den drei Fremden, bei denen es sich aus ihrer Sicht um Deserteure handelt. Bei stark zunehmender Hitze infolge der anfahrenden Antriebsreaktoren schaffen es Archer und Kollegen, die Milizionäre und deren angedocktes Schiff zu vertreiben, indem sie in Raumanzügen im Maschinenraum deren Bemühungen sabotieren. Tage später verlässt der Sturm die Position der Enterprise, woraufhin die Crew den Laufsteg wieder verlässt."
@@ -2036,6 +2074,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnShiban",
+						"name": "John Shiban"
+					},
+					"abstract": {
+						"en": "Commander Tucker is fired upon by an Arkonian ship and is then stranded on a planet with his attacker."
+					},
 					"description": {
 						"de": "Während Tucker allein den Autopiloten seiner Fähre testet, wird diese von einem aconianischen Raumschiff beschossen, woraufhin er auf der nächtlichen Oberfläche eines Mondes notlanden muss. Wegen Interferenzen und der Vielzahl der Monde in diesem Sternensystem ist kein Kontakt zwischen Fähre und Enterprise möglich. Auch der Angreifer ist mit seinem Raumschiff nahe Tuckers Landestelle notgelandet. Er entwendet kurz darauf den Transceiver aus Tuckers Fähre. Um wieder in den Besitz des Gerätes zu gelangen, stellt Tucker dem Aconianer eine Falle, wird dabei aber von diesem gefangen genommen und zur Reparatur von dessen Raumschiff gezwungen, später kann er sich aber aus der Gewalt des Aconianers befreien. Durch ihre völlig verschiedenen Sprachen ist das Verhältnis zunächst von großem Misstrauen geprägt, ein deswegen ausgetragener, martialischer Zweikampf hat keinen klaren Sieger. Die Rettungsversuche der Enterprise werden durch das historisch bedingte Misstrauen der Aconianer gegenüber Vulkaniern behindert. Während des Aufgangs mehrerer Sonnen über der sich rasch erwärmenden Planetenoberfläche können Tucker und der Aconianer, der Sokan heißt, den Transceiver reparieren und dadurch von der Enterprise lokalisiert werden. Durch fortschreitende Dehydration in ein Delirium geraten, werden sie kurz vor ihrem wahrscheinlichen Tod durch eine Fähre gerettet. Auf der Enterprise sprechen Tucker und Sokan schließlich freundschaftlich miteinander."
 					}
@@ -2066,6 +2112,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Sub-Commander T’Pol learns she has Pa’nar Syndrome, contracted from her mind meld in “Fusion”, and faces being ostracized by Vulcan society."
 					},
 					"description": {
 						"de": "Auf dem Planeten Dekendi III möchte Dr. Phlox von einer, dort auf einer Medizinerkonferenz anwesenden vulkanischen Delegation die neuesten Forschungsergebnisse für die Behandlung des Panara-Syndroms erhalten. Dabei handelt es sich um eine auch tödlich verlaufende Krankheit, die sich Vulkanier bei der Gedankenverschmelzung mit Artgenossen zuziehen können und die T’Pol schon seit einem Jahr hat. Da Gedankenverschmelzungen, bei denen auch Emotionen übertragen werden, unter dem größten Teil der Vulkanier gemeinhin geächtet sind, lehnt es die Delegation ab, Phlox zu helfen – auch, nachdem sie herausgefunden hat, dass T’Pol die Patientin ist, der deshalb – sehr zu Archers Unmut – die baldige Abberufung von der Enterprise droht. Obwohl T’Pol zu der Gedankenverschmelzung einst gegen ihren Willen gezwungen wurde, lehnt sie zunächst Archers Vorschlag ab, gegen das Vorgehen der Delegation zu protestieren. Juris, eines der Delegationsmitglieder, übergibt T’Pol heimlich die neuesten Forschungsergebnisse, durch die sie geheilt würde, und teilt ihr dabei mit, dass er zum Kreise derer gehört, die Gedankenverschmelzungen praktizieren, es aber aus Angst vor Stigmatisierung nicht enthüllen möchten. Als Archer, sich um T’Pol bemühend, einer Anhörung T’Pols vor der Delegation beiwohnt, rettet Juris T’Pol mit der nicht vereinbarten Enthüllung von T’Pols einstiger gedanklicher Vergewaltigung, belastet sich allerdings damit und mit seiner ebenfalls verkündeten Befürwortung von Gedankenverschmelzungen so schwer, dass nun er mit seiner eigenen Abberufung rechnen muss."
@@ -2098,6 +2159,14 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+						"name": "Chris Black"
+					},
+					"abstract": {
+						"en": "Captain Archer negotiates a cease fire between the Andorians and the Vulcans."
+					},
 					"description": {
 						"de": "Einen Planeten im vulkanisch-andorianischen Grenzgebiet beanspruchen beide Seiten für sich, weswegen sie sich auf seiner Oberfläche bekriegen. Shran, der Anführer der andorianischen Seite, bittet daraufhin seinen Bekannten Archer um Vermittlung in dem Streit. Dort eingetroffen, kann Archer die Freilassung einer vulkanischen Geisel aus Shrans Gewalt erreichen und den vulkanischen Botschafter Soval als Gegenleistung davon überzeugen, mit Shran zu einem persönlichen Gespräch zusammenzukommen. Während Archer und T’Pol mit Soval in einer Fähre zu Shran unterwegs sind, werden sie jedoch abgeschossen und müssen notlanden. Ihre Bemühungen, zu Fuß zu Shran vorzudringen, versucht Shrans Adjutantin Tara, die gegen Shran opponiert, mit Waffengewalt zu verhindern. Schließlich können aber Archer und Soval gegenüber Shran Taras wahre Rolle enthüllen und damit deren Verhaftung erreichen. Auf der Enterprise stoßen die Vertreter beider Lager schließlich auf den Fortschritt hinsichtlich eines Waffenstillstandes an."
 					}
@@ -2129,6 +2198,21 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"name": "James Whitmore Jr."
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"abstract": {
+						"en": "Enterprise finds a derelict ship, only to be attacked by both Suliban and Tholian ships."
+					},
 					"description": {
 						"de": "Nachdem die Enterprise-Crew ein kleines, fremdes, driftendes Raumschiff an Bord genommen hat, entdeckt sie darin die Leiche eines Menschen, der auch vulkanische Vorfahren hatte. Zudem ist das Schiff innen größer als außen; dem darin befindlichen Schacht gefolgt, entdecken Reed und Tucker eine Kammer mit einem funktionierenden Apparat. Während die Enterprise unterwegs ist, um das Schiff den Vulkaniern zu überbringen, erheben nacheinander einige angreifende Suliban und Tholianer Bergungsanspruch auf das Schiff. In Daniels’ versiegeltem Quartier entdecken Archer und T’Pol, dass das Schiff aus dem 31. Jahrhundert stammt. Der Aufenthalt in der Nähe des geborgenen Schiffes verursacht Déjà-vus bei der Crew. Archer ist gegen T’Pols Vorschlag, das Schiff zu zerstören, da er Näheres über den Temporalen Kalten Krieg erfahren möchte. Während Suliban- und tholianische Raumschiffe sowohl gegeneinander als auch auf die Enterprise feuernd diese verfolgen, schafft es Tucker, den Apparat zu aktivieren, woraufhin das Schiff, die Leiche und die Suliban-Schiffe verschwinden und sich die tholianischen Raumschiffe zurückziehen."
 					}
@@ -2159,6 +2243,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnShiban",
+						"name": "John Shiban"
+					},
+					"abstract": {
+						"en": "Mistaken as smugglers, Captain Archer and Commander Tucker find themselves on a prisoner transport ship."
 					},
 					"description": {
 						"de": "Aufgrund eines Missverständnisses werden Archer und Tucker, während sie in einer Fähre unterwegs sind, von Änolianern verhaftet und auf einem Gefangenenschiff eingesperrt, das die Strafkolonie Canamar anfliegt. Dabei jedoch revoltieren zwei Häftlinge, bei denen es sich um den Änolianer Kuroda und einen mitunter sadistischen Nausicaaner handelt, und setzen Kurs auf den Handelsaußenposten Tamal, wo sie unterzutauchen hoffen. Nachdem sich Archer erfolgreich als Pilot angeboten hat, kann er unbemerkt von den beiden Gangstern einen Notruf an die Enterprise absetzen und – unter Kurodas Gewalt – zwei änolianische Schiffe mit einem Trick an der Verfolgung hindern. Während die Enterprise-Crew mit der änolianischen Regierung an der Verfolgung des Häftlingsschiffes arbeitet und Tucker mit einem geschwätzigen Mithäftling konfrontiert ist, möchten Kuroda und der Nausicaaner das Schiff in der Atmosphäre eines Planeten verglühen lassen und dabei die Chance zur unbemerkten Flucht nutzen. Doch Archer, Tucker und die Enterprise-Crew schaffen es, die Gefangenen mit einer änolianischen Fähre auf die Enterprise zu retten, bevor das Gefangenenschiff mit Kuroda, den Archer in einem martialischen Zweikampf besiegen konnte, an Bord abstürzt."
