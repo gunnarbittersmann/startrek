@@ -754,6 +754,36 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelVejar",
 						"name": "Michael Vejar"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Sub-Commander T’Pol is recalled to Vulcan. During her final away mission, she and Captain Archer are kidnapped, leading to another confrontation between Vulcans and Andorians."
+					},
 					"description": {
 						"de": "Weil die Vulkanier Archer zu starke Einflussnahme bei seiner Intervention im vulkanischen Kloster P’Jem vorwerfen, wollen sie T’Pol dauerhaft versetzen. Entgegen Archers Ansicht akzeptiert T’Pol ihre Versetzung widerspruchslos. Um sie doch noch umzustimmen, nimmt Archer sie mit auf eine Außenmission auf dem Planeten Koridan, dessen Regierungschefin zu dem Besuch eingeladen hat. Bei ihrer Ankunft werden die beiden jedoch durch eine radikale koridanische Gruppe verhaftet und eingesperrt, weil diese in den beiden ihre Feinde und zugleich Sympathisanten der vulkanisch unterstützten Regierung sieht. Während Archer und T’Pol erfolglos zu fliehen versuchen, fordert der vulkanische Captain Sopek vom stellvertretenden Enterprise-Captain Tucker, die umgehende Rettung der beiden Gefangenen anzuführen. Dem widersetzt sich Tucker mit der Begründung, die Gefangenen dabei zu gefährden, und möchte sie zusammen mit Reed heimlich selbst befreien. Dabei erhalten Reed und Tucker unverhoffte Hilfe von zwei Andorianern, die Archer für die Entdeckung des Lauschpostens unter P’Jem noch einen Gefallen schuldig sind. Bei der Befreiung stoßen plötzlich Sopek und Gefolgschaft hinzu, die durch ihr auffälliges Vorgehen die Aufmerksamkeit der Wachen auf sich ziehen. Beim Versuch, Sopek zu schützen, wird T’Pol verletzt. Archers anschließender Versuch, Sopek wegen T’Pols Loyalität dazu zu bewegen, sich gegen T’Pols Versetzung auszusprechen, scheint erfolgreich."
 					}
@@ -784,6 +814,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "After finding debris from Enterprise, Lieutenant Reed and Commander Tucker are stranded in a shuttlepod far from help."
 					},
 					"description": {
 						"de": "Beim Andocken eines tessianischen Raumschiffes an die Enterprise kommt es zu einem Unfall, bei dem beide Schiffe miteinander kollidieren. Die zuvor zwecks Vermessungsarbeiten mit einer Raumfähre aufgebrochenen Reed und Tucker wollen wegen defekter Sensoren vorzeitig zum Treffpunkt mit der Enterprise zurückkehren und entdecken dabei Raumschifftrümmer, die sie glauben lassen, die Enterprise sei zerstört und ihre Besatzung tot. Sie schlagen deshalb mit der Fähre, die über keinen funktionierenden Warp-Antrieb verfügt, einen Kurs ein, auf dem sie sich Rettung erhoffen. Dabei bereitet sich Reed, sehr zu Tuckers Unmut, mit Abschiedsbriefen auf seinen baldigen Tod vor. Trotzdem werden die beiden Freunde. Als sie zu erfrieren und zu ersticken drohen, sprengen sie den Antrieb von der Fähre ab, um mit der Explosion auf sich aufmerksam zu machen. Dadurch werden sie schließlich von der Enterprise gerettet."
@@ -829,6 +874,36 @@
 						"@id": "https://bittersmann.de/startrek/people#RobHedden",
 						"name": "Rob Hedden"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Enterprise encounters a crew of emotional Vulcans; Sub-Commander T’Pol experiences an illicit mind meld, with unsettling results."
+					},
 					"description": {
 						"de": "Die Enterprise-Crew leistet der Besatzung eines vulkanischen Raumschiffs Reparaturhilfe. Die Vulkanier lassen entgegen den Traditionen ihrer Spezies Gefühle auf Kosten der Logik zu; T’Pol zweifelt an dem Sinn einer solchen Lebensweise. Der Vulkanier Tolaris überzeugt T’Pol davon, zu Gunsten des Träumens auf ihre alltägliche Meditation zu verzichten. So kommt es, dass sie intensiv träumt, unter anderem vom gemeinsamen Liebesakt mit Tolaris. Damit T’Pol sich gegenüber Tolaris an ihre Träume erinnert, lässt sie eine Gedankenverschmelzung mit ihm zu. Als er sie darin zur Akzeptanz ihrer unterdrückten Emotionen zwingen möchte, bricht sie die Verschmelzung vorzeitig ab; daraufhin erkrankt sie. Als es Archer auf die Bitte des Sternenflottenkommandanten hin nicht schafft, den Vulkanier Coff zu einem Gespräch mit dessen sterbendem Vater zu bewegen, bittet er Tucker um Hilfe, der daraufhin erfolgreich an Coffs Reuegefühl appelliert. Da Archer in Tolaris’ Verhalten gegenüber T’Pol eine Bedrohung sieht, provoziert er ihn zu einem Gewaltausbruch. Dies nimmt Archer zum Anlass, die Vulkanier fortzuschicken."
 					}
@@ -859,6 +934,34 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+						"name": "Chris Black"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+								"name": "Chris Black"
+							}
+						]
+					},
+					"abstract": {
+						"en": "While exploring an uncharted planet, Enterprise crew members encounter a group of aliens who are hunting down indigenous creatures (Wraiths) for sport. Stephanie Niznik guest stars as the wraith alien."
 					},
 					"description": {
 						"de": "Führungsoffiziere der Enterprise-Crew begeben sich auf einen zufällig entdeckten Planeten, auf dem sie zuvor ein unbekanntes Raumschiff geortet haben. Obwohl der Planet keinen Stern umkreist und seine Oberfläche dadurch völlig dunkel ist, besitzt er eine üppige Vegetation. Diese nutzen einige Vertreter der Spezies Eska, wie sie der Crew gegenüber vorgeben, zur Jagd auf wilde, schweinähnliche Tiere. Als sich die Offiziere aus Neugier an der Jagd beteiligen, erscheint Archer, sehr zum Unglauben seiner Kollegen, mehrfach eine junge Frau, die ihn um Hilfe bittet. Er identifiziert sie später als eine Erinnerung aus seiner Kindheit. Daraufhin geben die Eska gegenüber der Crew zu, dass es sich bei den Tieren und der Frau um phantomähnliche Gestaltwandler handelt, die sie aus Rache an von den Wesen einst getöteten eskanischen Artgenossen jagen, und dass sie zum Aufspüren der Wesen modifizierte Scanner benutzen. Da Archer die Wesen deshalb im Nachteil sieht, lässt er die Frau ein Tarnmittel an ihre Artgenossen verteilen, wodurch die Eska keinen Jagderfolg mehr haben."
@@ -891,6 +994,36 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesWhitmoreJr",
 						"name": "James Whitmore Jr."
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MariaJacquemetton",
+							"name": "Maria Jacquemetton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreJacquemetton",
+							"name": "Andre Jacquemetton"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A group of Ferengi hijack Enterprise, but Commander Tucker, Captain Archer and Sub-Commander T’Pol resist the pirates in order to win back their ship."
+					},
 					"description": {
 						"de": "Einige großohrige, raffgierige Außerirdische entern die Enterprise, um Waffen, Mobiliar und Computertechnik zu plündern und die Frauen zu entführen, die sie versklaven möchten. Zuvor haben sie die Besatzung betäubt – mit Ausnahme Tuckers, der sich in der Dekontaminationskammer befand. Die Aliens wecken Archer auf, um von ihm den Standort des erhofften Tresors zu erfragen. Nachdem Tucker T’Pol aufwecken konnte, arbeiten die beiden kooperativ mit Archer daran, sich der überaus profitgierigen und in Frauen vernarrten Aliens zu entledigen, und säen dazu auch Zwietracht unter ihnen. Schließlich gelingt es ihnen, drei der vier Räuber festzunehmen und sie das Diebesgut zurück auf die Enterprise tragen zu lassen. Den vierten, gegenüber seinen Artgenossen bislang unterwürfigen, Dieb kann Archer dazu überzeugen, mehr Eigeninitiative zu zeigen. Dadurch übernimmt dieser schließlich beim Wegflug das Kommando über ihr Raumschiff."
 					}
@@ -922,6 +1055,34 @@
 						"@id": "https://bittersmann.de/startrek/people#JimCharleston",
 						"name": "Jim Charleston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenBeck",
+						"name": "Stephen Beck"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#StephenBeck",
+								"name": "Stephen Beck"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer and an away team find a mysterious crew apparently alive on a ship that crash-landed years ago."
+					},
 					"description": {
 						"de": "Die Enterprise-Crew geht dem Hinweis eines Händlers nach, wonach sich auf einem Planeten ein abgestürztes Raumschiff befindet, das nützliche Rohstoffe beherbergen soll. Bei dem offensichtlich notgelandeten Raumschiff eingetroffen, begegnet ein Außenteam bald einigen Humanoiden. Sie behaupten, als einstige Kolonisten mit ihrem Schiff vor drei Jahren angegriffen worden und hier abgestürzt zu sein. Das Angebot Archers, ihnen bei der Reparatur ihres Antriebes zu helfen, nehmen sie dankend an. Während Tucker viel Zeit mit Leanna verbringt, der Tochter des Ingenieurs, findet Reed heraus, dass die Kolonisten in Wahrheit schon vor 22 Jahren abgestürzt sein müssen und dafür kein Angriff, sondern eine Fehlfunktion verantwortlich sein müsse. Leanna wird durch ihren Vater gezwungen, nichts über ihr Geheimnis preiszugeben. Als das Außenteam den Kolonisten zu neugierig wird, sperren sie T’Pol ein und zwingen Tucker zur Reparatur von Speicherrelais. Tucker kann Leanna aber überzeugen, die Situation aufzuklären. Dazu entfernt sie ein Speicherrelais und alle Kolonisten mit Ausnahme Leannas und ihres Vaters verschwinden – sie waren lediglich Hologramme, die der Ingenieur nach dem von ihm mitverursachten Absturz ihres Schiffes erschuf, um Leanna in Gesellschaft aufwachsen zu lassen. Der Vater weigert sich schließlich, den Planeten zu verlassen, da er ihn mittlerweile als Zuhause lieb gewonnen hat."
 					}
@@ -952,6 +1113,36 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+							"name": "Phyllis Strong"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer and Ensign Mayweather find themselves imprisoned in a Suliban internment camp run by the Tandarans."
 					},
 					"description": {
 						"de": "Archer und Mayweather finden sich, nachdem ihre Fähre abgeschossen wurde, zu ihrer Verwunderung in einem Gefängnisgebäude auf dem Planeten Tendar Prime wieder. Dort werden sie durch die Tendaraner als Feinde angeklagt und Archer durch den Gefängnischef über die Suliban, die Kabale und den temporalen kalten Krieg ausgefragt. Sie sind zusammen mit mehreren Dutzend Suliban inhaftiert, die durch die Tendaraner sowohl vor der Kabale beschützt werden als auch als Risiko für eine mögliche Kollaboration mit der Kabale betrachtet werden. Archer und Mayweather versuchen alsbald, die Suliban von einer gemeinsamen Flucht zu überzeugen, und sind dabei mit Vorurteilen der Suliban konfrontiert, mit den Tendaranern zu kollaborieren. In Vorbereitung des Ausbruchs erhält Archer einen Kommunikator von der Enterprise. Als die Tendaraner den entdecken, kommt Archer in Einzelhaft. Unterstützt durch Reed, den Phlox chirurgisch in einen Suliban verwandelt hat, und den mit einer Fähre entgegenkommenden Tucker gelingt den Gefangenen schließlich die Flucht aus dem Lager."
@@ -990,6 +1181,34 @@
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FredDekker",
+						"name": "Fred Dekker"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#FredDekker",
+								"name": "Fred Dekker"
+							}
+						]
+					},
+					"abstract": {
+						"en": " A strange, symbiotic alien creature boards Enterprise and starts kidnapping members of the crew."
+					},
 					"description": {
 						"de": "Verärgert verlassen einige Kretasaner die Enterprise. Als sie mit ihrem Schiff ablegen, gelangt eine formwandelnde Kreatur in die Enterprise. Nachdem das Wesen für einige merkwürdige technische Probleme am Schiff gesorgt hat, wird es von zwei Crewmitgliedern im Frachtraum entdeckt, die es dort in ein schleimiges Spinnennetz einwebt. Das Gleiche geschieht mit Archer, Tucker und einem Kollegen, als diese den Eingeschlossenen zu Hilfe eilen. Ein Versuch, die Gefangenen durch Beschuss mit EM-Strahlen zu befreien, scheitert und führt dazu, dass das Wesen die fünf Menschen zunehmend assimiliert, indem es mit ihnen eine Symbiose eingeht. Schnell fällt der Verdacht für die Herkunft des Wesens auf die Kretasaner, die die Crew alsbald aufzuspüren beginnt. Ihre Sprache zu verstehen, gestaltet sich für Sato zunächst außerordentlich schwierig, später jedoch erfolgreich. So kann Mayweather von den Kretasanern, nachdem er das gemeinsame Kommunikationsproblem gelöst hat, Auskunft über den Herkunftsplaneten des Wesens erhalten. Als die Gefangenen nahezu vollständig assimiliert sind und zu sterben drohen, können Sato und T’Pol das Wesen zur Freigabe der Gefangenen bewegen, nachdem sie einen Weg zur Kommunikation gefunden haben und ihm versprochen haben, es an den von ihm genannten Koordinaten auf dem Planeten freizulassen. Schließlich setzt die Crew das Wesen auf dem Planeten ab."
 					}
@@ -1020,6 +1239,34 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PatrickRNorris",
 						"name": "Patrick R. Norris"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanCross",
+						"name": "Alan Cross"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+								"name": "Chris Black"
+							}
+						]
+					},
+					"abstract": {
+						"en": " Enterprise finds itself under attack while transporting a controversial Vulcan ambassador."
 					},
 					"description": {
 						"de": "Im Rahmen einer Hilfsleistung für die vulkanische Regierung beauftragt die Sternenflottenführung Archer damit, die vulkanische Botschafterin V’lar vom Planeten Masar abzuholen und zu dem vulkanischen Schiff Sheran zu bringen. Nachdem V’lar an Bord der Enterprise gekommen ist, fordern alsbald einige Masariten mit Waffengewalt, ihnen V’lar auszuliefern, die sie des Amtsmissbrauches und der Kriminalität beschuldigen. Daraufhin lässt Archer das masaritische Schiff manövrierunfähig schießen. Da Archer seine eigene Crew in Gefahr sieht, V’lar aber zugleich nicht enthüllen will, inwieweit die Anschuldigungen zutreffen, lässt Archer die Enterprise in Richtung Masar wenden. Nach einem Gespräch mit V’lar kann T’Pol, die V’lar von früher kennt und als unschuldig einschätzt, Archer aber davon überzeugen, V’lar nicht den Masariten auszuliefern. Erst als die Enterprise von drei masaritischen Schiffen, vor denen sie mit maximaler Warpgeschwindigkeit flieht, eingeholt zu werden droht, gibt V’lar gegenüber Archer preis, dass es sich bei diesen Masariten um eine kriminelle Splitterorganisation handelt, die die masaritische Regierung infiltriert hat, die deshalb V’lar um Hilfe gebeten hat. Schließlich kann Archer genügend Zeit schinden und V’lar vor dem Zugriff der kriminellen Masariten bewahren, bis das überlegene Schiff Sheran zu Hilfe gekommen ist."
@@ -1052,6 +1299,34 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+								"name": "André Bormanis"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Commander Tucker and Captain Archer are invited to a desert planet by a man named Zobral, only to discover that he has ulterior motives."
+					},
 					"description": {
 						"de": "Archer und Tucker sind von Sobral, einem Bewohner des Wüstenplaneten Zygnia, zum Dank für geleistete Reparaturhilfe an seinem Raumschiff zum Essen eingeladen. Als Sobrals Siedlung aber durch das Militär von Trelet, seinem politischen Feind, angegriffen wird, enthüllt Sobral den wahren Grund für die Einladung, indem er Archer um Waffenhilfe bittet. Da es wegen wiederholten Bombardements nicht möglich ist, mit der Fähre zur Enterprise zurückzufliegen, schlagen sich Archer und Tucker durch die überaus heiße Wüste und drohen dabei zu verdursten. T’Pol bittet Trelet von der Enterprise aus zunächst erfolglos darum, die beiden retten zu dürfen. Als Sobral aber Schutz suchend auf die Enterprise kommt, kann ihn T’Pol von seiner Mitverantwortung für ihr Schicksal überzeugen. Daraufhin hilft Sobral beim Überwinden des planetaren Verteidigungssystems und bei der Rettung."
 					}
@@ -1083,6 +1358,29 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"name": "Michael Dorn"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+						"name": "Chris Black"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Enterprise finally arrives for shore leave on Risa. While there, the crew experience more than they are later willing to admit."
+					},
 					"description": {
 						"de": "Ein Teil der Crew verbringt zur Erholung zwei Tage und zwei Nächte auf dem Urlaubsplaneten Risa. Tucker und Reed lassen sich dabei durch zwei scheinbar sehr menschenähnliche Frauen verführen, die sich später aber als formwandelnde Räuber erweisen, sie fesseln und ihre Kleider stehlen. Sato verbringt eine Nacht mit einem Außerirdischen. Nachdem sich Mayweather beim Klettern verletzt hat, wecken T’Pol und Cutler Phlox aus dessen medikamentös hergestelltem Winterschlaf auf; er ist deshalb bei Mayweathers Behandlung noch desorientiert. Unterdessen lernt Archer eine Frau näher kennen, deren Eltern angeblich durch die Suliban getötet wurden. Als sie immer mehr Fragen über die Suliban und die Kabale stellt, enttarnt er sie als tendaranische Spionin; sie flieht daraufhin. Schließlich kehren die Crewmitglieder zur Enterprise zurück, wobei sie ihre jeweiligen Erlebnisse verschweigen."
 					}
@@ -1113,6 +1411,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Enterprise is recalled to Earth after the crew is blamed for the accidental destruction of a colony world. En route, it is hijacked by Suliban and Captain Archer is trapped in the future."
 					},
 					"description": {
 						"de": "Eine Fähre der Enterprise ist unterwegs zur Oberfläche eines von den Paraganern besiedelten Planeten, als Schiff und Planet plötzlich von einer gewaltigen, feurigen Schockwelle getroffen werden, durch die alle 3600 Siedler vernichtet werden. Es hat den Anschein, dass ein technisches Problem an der Fähre für das Unglück verantwortlich war. Daraufhin beschließt das Sternenflottenkommando, unter dem Druck der Vulkanier, dass die Menschheit noch nicht reif genug für die Raumfahrt sei und dass deshalb die Mission der Enterprise abgebrochen werden soll. Während das Schiff zur Erde zurückfliegt, wird Archer für zwei Stunden in das San Francisco der Vergangenheit versetzt und dabei durch den tot geglaubten Daniels darüber informiert, dass die Suliban für die Schockwelle verantwortlich sind, weil sie die Mission der Enterprise zu verhindern versuchen. Zurück auf der Enterprise und ausgestattet mit den von Daniels erhaltenen Informationen, lässt Archer das Schiff zum Planeten der Paraganer wenden, um den Unfall näher zu untersuchen. Dort eingetroffen, leitet er ein Außenteam, das aus einem zuvor von der Enterprise-Crew enttarnten Suliban-Raumschiff Informationen stiehlt. Diese beweisen, dass die Suliban die Schockwelle verursacht haben, indem sie die Enterprise-Fähre sabotierten. Die Suliban nähern sich und zwingen Archer dazu, sich an Bord eines ihrer Schiffe zu begeben. Dorthin unterwegs, verschwindet Archer plötzlich und die zahlreichen Suliban-Schiffe möchten die Enterprise zerstören. Archer findet sich im völlig zerstörten San Francisco wieder, wo er von Daniels erfährt, dass er sich im 31. Jahrhundert befindet und nicht zurückkehren kann."
