@@ -3438,7 +3438,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#3.26",
 					"episodeNumber": "3.26",
-					"name": "The Best of Both Worlds",
+					"name": "The Best of Both Worlds, Part I",
 					"datePublished": "1990-06-18",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -4659,12 +4659,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#4.26",
 					"episodeNumber": "4.26",
-					"name": "Redemption",
+					"name": "Redemption, Part I",
 					"datePublished": "1991-06-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Kampf um das Klingonische Reich – Teil 1",
+						"name": "Der Kampf um das Klingonische Reich, Teil I",
 						"datePublished": "1994-03-24"
 					},
 					"subjectOf": [
@@ -4730,12 +4730,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.1",
 					"episodeNumber": "5.1",
-					"name": "Redemption, Part II",
+					"name": "Redemption, Part II",
 					"datePublished": "1991-09-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Kampf um das Klingonische Reich – Teil 2",
+						"name": "Der Kampf um das Klingonische Reich, Teil II",
 						"datePublished": "1994-03-28"
 					},
 					"subjectOf": [
@@ -4988,7 +4988,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.7",
 					"episodeNumber": "5.7",
-					"name": "Unification, Part I",
+					"name": "Unification, Part I",
 					"datePublished": "1991-11-04",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -5031,7 +5031,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.8",
 					"episodeNumber": "5.8",
-					"name": "Unification, Part II",
+					"name": "Unification, Part II",
 					"datePublished": "1991-11-11",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -5835,12 +5835,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#5.26",
 					"episodeNumber": "5.26",
-					"name": "Time’s Arrow",
+					"name": "Time’s Arrow, Part I",
 					"datePublished": "1992-06-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Gefahr aus dem 19. Jahrhundert – Teil 1",
+						"name": "Gefahr aus dem 19. Jahrhundert, Teil I",
 						"datePublished": "1994-05-10"
 					},
 					"subjectOf": [
@@ -5911,7 +5911,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Gefahr aus dem 19. Jahrhundert – Teil 2",
+						"name": "Gefahr aus dem 19. Jahrhundert, Teil II",
 						"datePublished": "1994-05-11"
 					},
 					"subjectOf": [
@@ -6354,7 +6354,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Geheime Mission auf Celtris Drei – Teil 1",
+						"name": "Geheime Mission auf Celtris Drei, Teil I",
 						"datePublished": "1994-05-31"
 					},
 					"subjectOf": [
@@ -6407,7 +6407,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Geheime Mission auf Celtris Drei – Teil 2",
+						"name": "Geheime Mission auf Celtris Drei, Teil II",
 						"datePublished": "1994-06-01"
 					},
 					"subjectOf": [
@@ -6662,7 +6662,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Moment der Erkenntnis – Teil 1",
+						"name": "Der Moment der Erkenntnis, Teil I",
 						"datePublished": "1994-06-08"
 					},
 					"subjectOf": [
@@ -6705,7 +6705,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Moment der Erkenntnis – Teil 2",
+						"name": "Der Moment der Erkenntnis, Teil II",
 						"datePublished": "1994-06-09"
 					},
 					"subjectOf": [
@@ -7100,12 +7100,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tng#6.26",
 					"episodeNumber": "6.26",
-					"name": "Descent",
+					"name": "Descent, Part I",
 					"datePublished": "1993-06-19",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Angriff der Borg – Teil 1",
+						"name": "Angriff der Borg, Teil I",
 						"datePublished": "1994-06-22"
 					},
 					"subjectOf": [
@@ -7176,7 +7176,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Angriff der Borg, Teil 2",
+						"name": "Angriff der Borg, Teil II",
 						"datePublished": "1994-06-23"
 					},
 					"subjectOf": [
@@ -7322,7 +7322,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Schachzug, Teil 1",
+						"name": "Der Schachzug, Teil I",
 						"datePublished": "1994-06-28"
 					},
 					"subjectOf": [
@@ -7365,7 +7365,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Der Schachzug, Teil 2",
+						"name": "Der Schachzug, Teil II",
 						"datePublished": "1994-06-29"
 					},
 					"subjectOf": [
