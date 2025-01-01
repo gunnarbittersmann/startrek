@@ -1515,6 +1515,19 @@
 						},
 						{
 							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_gSw_oYp6cE"
+							}
+						},
+						{
+							"@type": "Review",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
