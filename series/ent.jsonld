@@ -4643,6 +4643,14 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"abstract": {
+						"en": "As a gift for negotiating with the Orion Syndicate, Archer receives three Orion Slave Girls, but these “gifts” have their own agenda. Meanwhile, Trip and T’Pol come to terms with the psychic bond that has been created between them."
+					},
 					"description": {
 						"de": "Vorgeblich zur Verbesserung der Beziehungen zwischen der Sternenflotte und dem Orion-Syndikat verkauft das Syndikatsmitglied Harrad-Sar die Koordinaten eines Planeten mit umfangreichen Rohstoffvorkommen an Archer und schenkt ihm dazu noch drei attraktive Frauen. Während die Enterprise zwecks Prüfung der Koordinaten zum Planeten unterwegs ist, verführen die Frauen zunehmend die männlichen Crewmitglieder und instrumentalisieren Kelby, den vor Tuckers Rückkehr leitenden Ingenieur. Mit seiner Hilfe sabotieren sie den Warpantrieb, sodass dieser ausfällt und der baldige Angriff Harrad-Sars droht. Phlox diagnostiziert, dass ein Pheromon der Frauen bei den Männern zu einer starken Erhöhung des Adrenalinspiegels führt und diese dadurch wahnsinnig und draufgängerisch werden, während die weiblichen Besatzungsmitglieder Kopfschmerzen bekommen und antriebslos werden. Tucker wegen seiner Beziehung zu T’Pol und diese wegen ihrer vulkanischen Spezieszugehörigkeit sind nicht von der körperlichen Veränderung betroffen. So können sie die Bemühungen Harrad-Sars und der Frauen stoppen, die Enterprise zu Orion-Marodeuren zu schleppen, die Archer nach dem Leben trachten. Die Frauen verlassen das Schiff. – Als T’Pol Tucker mit einem Kuss zu überreden versucht, auf der Enterprise zu bleiben, verrät der, dass er seine Rückversetzung von der Columbia schon beantragt hat."
 					}
@@ -4673,6 +4681,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "In the Mirror Universe, Commander Archer mutinies against Captain Forrest in order to capture a future Earth ship found in Tholian space."
 					},
 					"description": {
 						"de": "Beim ersten Kontakt der Menschen mit den Vulkaniern 2063 überfallen Cochrane und seine Anhänger die Vulkanier, sodass die Geschichte einen abweichenden, kriegerischeren Verlauf nimmt. Im 22. Jahrhundert möchte sich Archer mit der Crew der Enterprise tholianische Technologie aneignen. Weil der Enterprise-Captain Forrest anderer Meinung ist, zettelt Archer als erster Offizier eine Meuterei gegen ihn an, in deren Folge er das Kommando übernimmt. Durch das Foltern eines gefangen genommenen Tholianers gewinnt er die Koordinaten des Standortes eines in tholianischer Hand befindlichen Schiffes, das aus einem Paralleluniversum stammt. Dorthin unterwegs, befreit ein von T’Pol geführtes Team Forrest aus dem Gefängnis; Forrest übernimmt wieder das Kommando. Nachdem Forrest vom Sternenflottenkommando erfahren hat, dass dieses Archers Plan unterstützt, stellt er Archer wieder als seinen ersten Offizier ein. Die Enterprise trifft bei der Raumstation ein, die sich an den genannten Koordinaten befindet. Während ein von Archer geführtes Außenteam das daran angedockte Raumschiff untersucht, bei dem es sich um die ca. 100 Jahre aus der Zukunft und dem Paralleluniversum stammende USS Defiant handelt, wird die Enterprise von Tholianern in einem Gitternetz gefangen genommen, beschossen und mit Forrest an Bord zerstört."
@@ -4705,6 +4721,22 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					},
+					"abstract": {
+						"en": "In the Mirror Universe, Archer commandeers the 23rd-century Defiant from the Tholians and uses it in a nefarious power grab."
+					},
 					"description": {
 						"de": "Archer lässt die Defiant aus der Raumstation fliegen und Kurs zur Angriffsflotte des Imperiums setzen, um diese im Krieg gegen die Rebellen zu unterstützen. Die Crew gelangt nach einem Katz-und-Maus-Spiel im Defiant-Inneren wieder an die von einem feindlichen Reptil gestohlenen Plasmaregler. Weil Archer ehrgeizig ist und die Führer des Imperiums für korrupt und zu schwach im Kampf gegen die Rebellen hält, beansprucht er die Rolle des Imperators für sich. Zudem will er das Imperium von fremden Spezies säubern und vernichtet dazu andorianische, tellaritische und vulkanische Rebellenschiffe. Er tötet Admiral Black, der das Sternenflottenschiff Avenger kommandiert hat und ihm die Defiant nehmen wollte. T’Pol führt einen Aufstand der vom Imperium unterdrückten Spezies zusammen mit dem Vulkanier Soval und später auch Phlox an. Dazu retten sie sich auf die Avenger. Nachdem T’Pol daraufhin durch Archers Gefolgschaft verhaftet wurde, lässt dieser die Avenger zerstören. Während des Weiterfluges der Defiant wird Archer durch seine Geliebte Sato ermordet, die sich sodann zur neuen Imperatorin erklärt."
 					}
@@ -4735,6 +4767,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"abstract": {
+						"en": "A xenophobic faction of humanity threatens to undermine talks to form a new coalition of planets."
 					},
 					"description": {
 						"de": "Die Enterprise-Führungsoffiziere wohnen in San Francisco der Bekanntgabe der Absicht von Menschen, Vulkaniern, Tellariten und Andorianern bei, eine interplanetare Koalition zu bilden. Plötzlich stürzt eine Frau namens Susan Khouri herein und übergibt kurz vor ihrem Tod T’Pol eine Ampulle mit einem Haar, das von einem bislang unbekannten Baby T’Pols und Tuckers stammt. Einem Tipp der Sektion 31 folgend, verfolgt die Enterprise-Crew die Spur des Kindes zurück bis zu der auf dem Mond gelegenen Bergbaustation Orpheus, die zugleich Hauptquartier der isolationistischen, fremdenfeindlichen Menschengruppierung Terra Prime ist. Von dort war Khouri kürzlich geflohen, nachdem sie entgegen der Absicht des Terra-Prime-Anführers Paxton Gefühle für das Baby entwickelt hatte. T’Pol und Tucker lassen sich in die Station einschleusen und geraten dort in die Gefangenschaft Paxtons. In ihrem Beisein lässt er die Station vom Mond bis auf den Mars fliegen und die dortige Verteron-Phalanx einnehmen. Mit der Gewalt über die Phalanx verkündet er seine Forderung, dass alle nichtmenschlichen Wesen das Sonnensystem verlassen. – Auf der Enterprise konfrontiert Archer die vorgeblich als Journalistin tätige Gannet Brooks, die eine frühere Beziehung mit Mayweather wieder aufgenommen hat, mit dem Vorwurf, Terra-Prime-Spionin zu sein."
@@ -4767,6 +4807,46 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+								"name": "Garfield Reeves-Stevens"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+								"name": "Judith Reeves-Stevens"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+								"name": "André Bormanis"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A human isolationist leader threatens to destroy Starfleet Command unless all aliens leave Earth immediately. His bargaining tool: a baby cloned from DNA belonging to Trip and T’Pol."
+					},
 					"description": {
 						"de": "In seinem Rundruf präsentiert Paxton das Hybrid-Baby als Beispiel für die von ihm abgelehnte „Mischung“ der menschlichen Rasse mit außerirdischen Rassen; damit spricht er sich auch gegen die angestrebte Koalition der Planeten aus. Das Kind hatte Paxton in seiner Klinik einst klonen lassen. Ein von Archer geführtes Außenteam der Enterprise begibt sich mit einer Fähre im Schutz des Schweifs eines Kometen auf den Mars und gelangt in die Verteron-Phalanx, die Paxton nach Ablauf seines Ultimatums zur Zerstörung des Sternenflottenhauptquartiers einzusetzen plant. Zwar schafft es das Team mit Tuckers Hilfe, Paxton zu überwältigen, jedoch kann dieser den Beschuss starten. Tucker hat die Zieleinrichtung allerdings noch geringfügig stören können, so dass der Beschuss den Pazifik vor San Francisco trifft und keinen Schaden anrichtet. Durch diese Ereignisse wird die Konferenz zur Schaffung der interplanetaren Koalition zunächst auf unbestimmte Zeit verschoben, aber nach einer mitreißenden Rede Archers wieder aufgenommen. – Wegen eines technischen Fehlers beim Klonen stirbt T’Pols und Tuckers Baby. – Es stellt sich heraus, dass Brooks keine Spionin ist, sondern dem Geheimdienst der Sternenflotte angehört. Ein Enterprise-Fähnrich hatte im Auftrag Terra Primes die Fähre des Außenteams sabotiert. Nach seiner Enttarnung tötet er sich selbst."
 					}
@@ -4797,6 +4877,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "Two centuries in the future, two crew members of the USS Enterprise (NCC-1701-D) (Commander William Riker and Counselor Deanna Troi) observe a holodeck creation of the final voyage of the NX-01 in 2161 (six years after the events of “Terra Prime”) as it returns to Earth for decommissioning and the signing of the United Federation of Planets charter."
 					},
 					"description": {
 						"de": "Etwa im Jahr 2370 lässt Commander Riker auf der Enterprise D ein Holodeckprogramm ablaufen, das die letzte Reise der Enterprise NX-01 zeigt. Das Programm dient Riker im Rahmen einer Konsultation bei Troi zur Entscheidungsfindung, ob er Captain Picard über den von Sternenflottenmitgliedern einst vertuschten Tod von 71 Crewmitgliedern des Raumschiffs Pegasus informieren sollte. Im Jahr 2161 ist die Enterprise unter Captain Archer unterwegs zur Erde, wo er bei der Gründungszeremonie der Vereinten Föderation der Planeten als wichtiger Redner vorgesehen ist. Archer kann dem mittlerweile als kriminell geltenden Shran die Erfüllung eines Gefallens nicht verwehren, der die Rettung seiner entführten jungen Tochter beinhaltet. Ein Außenteam um Shran und Archer rettet die Tochter aus der Hand der Entführer, jedoch betrügt Shran die Entführer, indem er mit einem gefälschten Edelstein bezahlt. Nachdem das Außenteam zur Enterprise NX-01 zurückgekehrt ist, entern die einstigen Entführer das Schiff, um sich an Shran zu rächen. Tucker vereitelt den Racheakt, indem er eine Explosion auslöst, die die Enterer und ihn selbst tötet. Damit verhindert er auch, dass Archer von den Enterern getötet wird, damit dieser wie geplant an der Zeremonie teilnehmen kann. Archer hält schließlich seine Rede und Riker entscheidet sich dafür, Picard zu informieren."
