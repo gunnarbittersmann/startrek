@@ -3935,7 +3935,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Sturmfront, Teil I",
+						"name": "Sturmfront",
 						"datePublished": "2006-02-12"
 					},
 					"subjectOf": {
@@ -4659,12 +4659,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#4.18",
 					"episodeNumber": "4.18",
-					"name": "In a Mirror, Darkly, Part I",
+					"name": "In a Mirror, Darkly",
 					"datePublished": "2005-04-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Die dunkle Seite des Spiegels, Teil I",
+						"name": "Die dunkle Seite des Spiegels",
 						"datePublished": "2006-06-11"
 					},
 					"subjectOf": {
