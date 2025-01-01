@@ -3544,6 +3544,29 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+								"name": "André Bormanis"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+								"name": "Mike Sussman"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Captain Archer becomes overly protective of an Insectoid hatchery, to the point of endangering their mission."
+					},
 					"description": {
 						"de": "Auf dem Flug nach Azati Prime entdeckt die Crew auf einem Planeten ein abgestürztes Raumschiff der insektoiden Xindi, dessen Besatzung tot ist. Während ein Außenteam darin einen Raum mit über 30 Eiern der Insektoiden untersucht, wird Archer von einem der Gelege mit einer Substanz besprüht, die Phlox zunächst als gefahrlos deutet. Um den Xindi zu beweisen, dass die Menschen – entgegen der Auffassung der Xindi – empfindungsfähig und nicht angriffslustig sind, möchte Archer sicherstellen, dass die Brut überlebt und nicht durch den bevorstehenden Mangel an Energie für die Brutstätte stirbt. Mit dieser Absicht trifft er aber auf die Abneigung seiner Führungsoffiziere, die die Meinung vertreten, dass man den Xindi nicht helfen dürfe zu überleben, weil man sie wegen ihres Angriffs auf die Erde bekämpfen müsse. In diesem Zusammenhang wird T’Pol durch Archer suspendiert und unter Arrest gestellt, Gleiches geschieht wenig später mit Reed. Als Archer den Auftrag gibt, zwecks Rettung der Eier einen Notruf an die Xindi zu schicken, werden die Meuterer in ihrem Widerstand gegen Archer und die ihn unterstützenden Mitglieder des militärischen Angriffskommandos bestärkt. Nachdem sie T’Pol befreit haben, erlangen einige von ihnen gewaltsam die Kontrolle über das Schiff, während Tucker im Raumschiffwrack Archer überwältigt. Phlox entdeckt schließlich, dass die Substanz, mit der Archer besprüht wurde, ihn auf die Eier prägte, die er dadurch wie seinen Nachwuchs behandelte und um jeden Preis schützte. Die restlichen Eier auf dem Planeten zurücklassend, setzt die Enterprise ihren Flug nach Azati Prime fort."
 					},
@@ -3588,6 +3611,34 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RickBerman",
+								"name": "Rick Berman"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+								"name": "Brannon Braga"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+								"name": "Manny Coto"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Finding the superweapon on Azati Prime, Captain Archer embarks on a suicide mission to destroy it, and Enterprise suffers a devastating attack by the Xindi."
+					},
 					"description": {
 						"de": "Die Enterprise erreicht das Planetensystem, zu dem der Rote Riese und der Planet Azati Prime gehören. Da man mit der Enterprise das Sicherheitsgitter des Systems nicht überwinden kann, erkunden Tucker und Mayweather mit einer einst von den Insektoiden erbeuteten Fähre Azati Prime, unter dessen Meeresoberfläche sie eine Kommandozentrale entdecken und die Waffe lokalisieren. Aufgrund ihrer Größe lässt sich die Waffe nicht mit herkömmlichen Mitteln zerstören, deshalb muss ein Raumschiff als Zündmittel dienen. Archer entschließt sich, sich dazu selbst zu opfern. Der Zeitreisende Daniels versucht jedoch, ihn davon zu überzeugen, dass die Sternenflotte stattdessen mit den Xindi Frieden schließen müsse: 400 Jahre in der Zukunft werde die Menschheit mit den Xindi in der Föderation vereint sein und es werde ihnen nur gemeinsam gelingen, die transdimensionalen Wesen zu besiegen, die mit den Sphären die Ausdehnung zu dem Zweck zu rekonfigurieren versuchen, diese für sich bewohnbar zu machen. Archer missachtet Daniels’ Argumente zunächst und begibt sich mit der Insektoiden-Fähre nach Azati Prime. Ihm gelingt die Umsetzung seines Planes jedoch nicht, da er von den Xindi gefangen genommen wird. Mit Hilfe der von Daniels erhaltenen Informationen kann er aber erreichen, dass Degra und einige andere nicht-reptilianische Ratsmitglieder an der Zweckhaftigkeit des Einsatzes der Waffe zu zweifeln beginnen: Wenn die Xindi die Menschheit vernichteten, dann würde auch die Xindi-Spezies eliminiert. Die Reptilianer glauben Archer jedoch nicht und greifen unterdessen mit mehreren Raumschiffen die Enterprise an, wobei diese schwerst beschädigt wird und etliche Crewmitglieder sterben."
 					}
@@ -3618,6 +3669,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
+					},
+					"abstract": {
+						"en": "Enterprise, now heavily damaged, seeks a warp coil from an alien vessel but is forced to steal it."
 					},
 					"description": {
 						"de": "Der Xindi-Rat, dem Degra angehört, kommt zu der Überzeugung, dass die Enterprise keine so große Bedrohung darstellt wie von den Reptilianern angenommen. Daher lässt er den Angriff auf die Enterprise einstellen und Archer in einer Raumkapsel dorthin zurückkehren. In der Kapsel entdeckt die Crew eine geheime Botschaft von Degra mit dem Hinweis, ihn in drei Tagen an einem vier Lichtjahre entfernten Ort zu treffen. Da der Warpantrieb der Enterprise defekt ist, würde man den Treffpunkt zu spät erreichen. Der Captain eines plötzlich erschienenen Raumschiffs mit einigen Fremden an Bord, die technische Hilfe benötigen, erteilt Archer eine Absage auf dessen Bitte, ihm seine Warpspule zu überlassen. Archer fasst daher schweren Herzens den Entschluss, die Warpspule von dem Raumschiff der Hilfesuchenden zu rauben. Trotz Einsprüchen von Archers Kollegen setzt dieser den Entschluss in die Tat um und einem von ihm geführten Enterkommando gelingt der Raub, wodurch die Enterprise auf den Treffpunkt Kurs setzt und ihn aller Voraussicht nach pünktlich erreichen wird. – Vor dem intern uneinigen Xindi-Rat erscheint ein transdimensionales Wesen und fordert die Ratsmitglieder zur Geschlossenheit und dazu auf, die Waffe wie geplant gegen die Erde einzusetzen. Degra zweifelt nach wie vor, da er von den transdimensionalen Wesen keine Beweise für die Feindlichkeit der Menschheit hat. – T’Pol offenbart unterdessen gegenüber Phlox, dass sie nach der Substanz Trellium-D süchtig geworden ist, und begibt sich bei ihm in die Behandlung ihrer Entzugserscheinungen, zu denen ausgeprägtes emotionales Verhalten gehört."
@@ -3650,6 +3709,21 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
+							"name": "David A. Goodman"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer deals with the loss of 18 crew members and continues negotiations with two of the five Xindi species."
+					},
 					"description": {
 						"de": "Die Enterprise fliegt zu einem Treffen mit Degra. Derweilen kümmert sich die Crew um ihre mittlerweile 18 Toten, die Verletzten und um die Beschädigungen am Schiff. T’Pol erfährt von Phlox, dass ihre Nerven durch die Einnahme des Trellium-D erheblich geschädigt sind und sie deshalb wohl dauerhaft ihre Emotionen nicht mehr unterdrücken können wird. Während Tucker ein Kondolenzschreiben an die Eltern einer getöteten Ingenieurin seines Teams verfasst, erlebt er Albträume und trauert um seine tote Schwester, was ihn gegenüber Degra rachsüchtig werden lässt. Dieser kommt, nachdem die Enterprise den vor den anderen Xindi geheim gehaltenen Treffpunkt nahe einer Sphäre erreicht hat, an Bord der Enterprise. Dort lässt er sich durch Archer Beweise für die von den transdimensionalen Wesen und den Reptilianern ausgehende Bedrohung zeigen; im Gegensatz zu Degra bleibt dessen Begleiter aber zunächst misstrauisch. Den Angriff eines reptilianischen Schiffes kann die Enterprise durch die entscheidende Hilfe Degras abwehren. Bei der Reparatur eines Plasmalecks an der Enterprise-Außenhülle fällt Reed wegen Überhitzung in Ohnmacht. Degra gibt Archer die Koordinaten des Xindi-Rates und informiert ihn auch über eine Abkürzung durch einen Subraumkorridor. Archer und Degra begeben sich auf den Weg zum Rat und planen eine Allianz gegen die Reptilianer."
 					}
@@ -3680,6 +3754,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "The Enterprise crew meet their own descendants from an alternate timeline in the past."
 					},
 					"description": {
 						"de": "Die Enterprise-Crew trifft auf dem Flug zum Subraumkorridor auf eine deutlich älter aussehende Kopie ihres Schiffes. Zu ihrer Besatzung gehören auch Nachkommen der aktuellen Enterprise-Crew, darunter Lorian, der Commander, der Sohn von T’Pol und Tucker. Die zweite Enterprise wurde bedingt durch ein temporales Phänomen 117 Jahre in die Vergangenheit geschleudert, versuchte vergeblich, die erste Xindi-Waffe zu zerstören, und wartete seitdem in der Ausdehnung auf das Eintreffen der aktuellen Enterprise, um diese davon abzuhalten, sich in den Korridor zu begeben. T’Pol erhält Berechnungen ihres älteren Ichs, das mittlerweile Greisin ist. Ihnen zufolge kann die von Archer kommandierte Enterprise sich womöglich doch gefahrlos in den Korridor begeben. Da Lorian diese Einschätzung nicht teilt und stattdessen seinen Plan umsetzen will, benötigt er funktionierende Warpplasma-Injektoren für sein Schiff, die er von Archers Enterprise stiehlt. Um Lorians Enterprise am Abflug zu hindern, lässt Archer den Antrieb des anderen Schiffes zerstören und Ausrüstungsgegenstände herüberbeamen und zwingt Lorian so dazu, seinen Plan aufzugeben. Während Archer sein Schiff in den Korridor fliegen lässt, erhält er Waffenhilfe durch Lorians Enterprise, die die Angriffe dreier fremder Raumschiffe abwehrt. Nach dem Flug durch den Korridor ist Lorians Schiff verschwunden und Archers Enterprise trifft Degra an den vereinbarten Koordinaten."
@@ -3712,6 +3794,14 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"abstract": {
+						"en": "Captain Archer speaks at the Xindi Council, sparking a civil war for control of the superweapon."
+					},
 					"description": {
 						"de": "Die transdimensionalen Wesen versuchen die reptilianischen und insektoiden Xindi-Ratsmitglieder in ihrem Sinne zu beeinflussen und dadurch die Menschen davon abzuhalten, die Waffe zu zerstören. Die Enterprise trifft bei dem Planeten ein, auf dem der Rat tagt, und wird dabei von Degra sowie anderen humanoiden und arboralen Xindi eskortiert. Zuvor hat sich ein von T’Pol geleitetes Außenteam in einer Fähre zu einer Sphäre begeben, um aus deren Datenkern Informationen zu gewinnen. Im Inneren der Sphäre stößt das Team auf einen Verteidigungsmechanismus, der ein Teammitglied tötet. Vor den Rat treten Degra und Archer, begleitet von Sato als Übersetzerin, persönlich. Sie präsentieren dem Rat Beweise dafür, dass die transdimensionalen Wesen die Xindi benutzen und dass die Ausdehnung für die Xindi nicht mehr kompatibel wäre, wenn die Wesen Erfolg damit hätten, sie für sich selbst bewohnbar zu machen. Beeinflusst von den transdimensionalen Wesen, die den Reptilianern die langfristige Dominanz innerhalb der Xindi garantieren, überlistet der reptilianische Anführer Dolim seinen Kontrahenten Degra und ersticht ihn für seinen Verrat an den Xindi. Da Reptilianer und Insektoiden der Enterprise-Crew und den anderen Ratsmitgliedern nicht glauben, spalten sie sich vom Rat ab. Dolim lässt die Waffe vom Planeten starten und fliegt damit unter schwerem Beschuss durch die Allianz aus Enterprise, humanoiden und arboralen Xindi in einen Raumwirbel. Kurz vor dem Verschwinden im Wirbel lässt er Sato entführen."
 					}
@@ -3743,6 +3833,21 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						}
+					],
+					"abstract": {
+						"en": "Captain Archer seeks the support of the Aquatics in order to tip the war in their favor."
+					},
 					"description": {
 						"de": "Im Inneren der Waffe lässt Dolim Sato Parasiten injizieren, damit sie den Reptilianern den letzten Aktivierungscode für die Waffe entschlüsselt. Sie wehrt sich zunächst und fügt eine Verschlüsselungsebene hinzu, aber schließlich machen die Parasiten sie gefügig. – Da die Enterprise und die Raumschiffe der humanoiden und arboralen Xindi zu schwach bewaffnet sind, um die reptilianischen Schiffe zu bekämpfen, bittet Archer die Aquarianer um Hilfe. Diese lassen sich erst überzeugen, als ihnen Archer seine Hilfe bei der Deaktivierung der Sphären anbietet, wofür T’Pol und Tucker, basierend auf den neu gewonnenen Daten, mittlerweile eine Möglichkeit gefunden zu haben glauben. – T’Pol bittet Tucker um Hilfe bei der Bewältigung ihrer Emotionen. – Geschützt von hinzugekommenen aquarianischen Raumschiffen lässt Archer die Enterprise in die Nähe der Waffe fliegen, die von zahlreichen reptilianischen und insektoiden Schiffen verteidigt wird. Diese werden von der Enterprise und den mit ihr verbündeten Xindi-Raumschiffen unter schweren Beschuss genommen. Um die Waffe sowie die reptilianischen und insektoiden Schiffe zu beschützen, erzeugen die transdimensionalen Wesen eine riesige Raumanomalie. – Einem von Hayes geführten Außenteam gelingt es, Sato lebend auf die Enterprise zurückzuholen; dabei wird Hayes allerdings angeschossen, sodass er wenig später stirbt. – Reptilianische und insektoide Raumschiffe begeben sich, Kurs auf die Erde setzend, mit der Waffe in einen Raumwirbel, der ihnen zur schnelleren Beförderung dient. Während des Fluges trennt sich Dolim von den mittlerweile gegen ihn opponierenden Insektoiden. Um die Zerstörung der Erde zu verhindern, verfolgt Archer mit einem Außenteam auf Degras Schiff, das als einziges schnell genug fliegen kann, die Waffe."
 					}
@@ -3773,6 +3878,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"abstract": {
+						"en": "The final showdown with the Reptilians and their Guardian allies occurs."
 					},
 					"description": {
 						"de": "Während sich die Enterprise einer Sphäre nähert, um das Sphärennetz zu zerstören, erzeugen die transdimensionalen Wesen zu deren Schutz eine riesige Raumanomalie. Während die Enterprise die Sphäre beschießt, entern einige der Wesen das Schiff und sabotieren dessen Systeme. Damit haben sie jedoch keinen Erfolg; die Sphäre und mit ihr andere Sphären werden durch den Beschuss zerstört, die von den Wesen transformierte Ausdehnung kollabiert vollständig. – Unterdessen verfolgt das Außenteam mit einigen verbündeten Xindi auf Degras Schiff die Waffe. Archer ignoriert die Bitte des Zeitreisenden Daniels, sich zur Zerstörung der Waffe nicht selbst zu opfern, weil er bei der Gründung der Föderation eine entscheidende Rolle spielen werde. Mit der Hilfe des hinzugekommenen Raumschiffs von Shran kann sich das Außenteam der Waffe nähern. Nachdem Sato trotz ihres Nerventraumas die Baupläne der Waffe entschlüsselt hat, leitet sie Archer bei der Deaktivierung des Waffenreaktors an. In einem erbitterten Duell gelingt es Archer zwar, Dolim zu töten, jedoch schafft er es scheinbar nicht, sich rechtzeitig vor der in Erdnähe erfolgenden Explosion der Waffe zurück auf Degras Schiff beamen zu lassen. Das Außenteam kehrt ohne Archer zum Treffpunkt mit der Enterprise zurück, die sodann zur Erde fliegt. Die Crew erfährt, dass der Xindi-Rat wieder zusammentritt. Nach erfolglosem Kontaktaufnahmeversuch die Erde untersuchend, wird eine Fähre mit Tucker und Mayweather an Bord beim Anflug auf San Francisco von Kampfflugzeugen beschossen. Der schwer verletzte Archer wird in einem Lazarett voller Deutscher von einem Außerirdischen in Nazi-Offiziersuniform begutachtet."
