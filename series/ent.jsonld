@@ -1389,12 +1389,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/ent#1.26",
 					"episodeNumber": "1.26",
-					"name": "Shockwave (1)",
+					"name": "Shockwave, Part I",
 					"datePublished": "2002-05-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Die Schockwelle (1)",
+						"name": "Die Schockwelle, Teil I",
 						"datePublished": "2003-09-05"
 					},
 					"subjectOf": {
