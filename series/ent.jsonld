@@ -4187,6 +4187,21 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						}
+					],
+					"abstract": {
+						"en": "Earth’s embassy on Vulcan is partially destroyed by a bomb, killing Admiral Forrest. Archer and T’Pol travel to Vulcan in search of an alleged terrorist group blamed for the explosion, of which T’Pol’s mother is a member."
+					},
 					"description": {
 						"de": "Bei einem Bombenanschlag auf die Botschaft der Erde auf Vulkan sterben 12 Vulkanier, Admiral Forrest, der dabei dem vulkanischen Botschafter Soval das Leben rettet, und 30 weitere Menschen. Das vulkanische Oberkommando verdächtigt die Syrranniten und ermittelt gleichzeitig mit Archer und dessen Crew. Die Syrranniten sind vulkanische Anhänger der wahren Lehre von Surak, einem vulkanischen Vordenker, der vor 1800 Jahren lebte. T’Pol wird von ihrem Ehemann Koss informiert, dass ihre Mutter, ebenfalls Syrrannitin, untergetaucht ist, um ihrer Verhaftung zu entgehen. Sie hat eine Spur hinterlassen, der T’Pol folgen soll. Weil die Spur wahrscheinlich auch zu T’Pau führt, der möglichen Attentäterin, beschreitet T’Pol mit Archer Suraks Pilgerpfad auf Vulkan. Unterwegs treffen sie den Vulkanier Arev, der Archer vor seinem blitzschlagbedingten Tod in einer Gedankenverschmelzung einen entscheidenden Hinweis auf den Aufenthaltsort der Syrranniten gibt, eine Höhle. Dort angelangt, werden Archer und T’Pol mit Waffen bedroht. – Auf der Enterprise haben Phlox und Tucker indes Beweise für eine mögliche Verschwörung in der vulkanischen Regierung gefunden. Weil Soval ihnen beim Erlangen dieser Beweise auch mit einer – im Übrigen als Beweismittel unzulässigen – Gedankenverschmelzung half, wird er vom Regierungschef V’Las beschuldigt, Schande über sein Volk gebracht zu haben."
 					}
@@ -4217,6 +4232,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"abstract": {
+						"en": "Archer and T’Pol find T’Pau and T’Pol’s mother and learn that Archer is carrying Surak’s katra."
 					},
 					"description": {
 						"de": "Archer und T’Pol finden sich in der Gewalt der Syrranniten wieder, zu denen T’Pols Mutter ihnen eine Spur hinterließ, und erfahren, dass Arev eigentlich Syrran hieß und Anführer der Syrranniten war. Kurz vor seinem Tod transferierte er Suraks Katra, d. h. dessen Geist, in Archer. Dadurch erscheint Archer Surak, der ihn dazu auffordert, die Vulkanier zurück auf den rechten Weg der Gewaltlosigkeit zu bringen und dazu ein Artefakt namens Kir’Shara zu suchen. Nachdem es gefunden ist, wird der Aufenthaltsort der Syrranniten in V’Las’ Auftrag bombardiert. Beim Bombardement stirbt T’Pols Mutter. Die Schuld für den Bombenanschlag auf die Botschaft der Erde auf Vulkan weist V’Las den Syrranniten zu, obwohl er selbst dafür verantwortlich ist. Da Soval dies herausgefunden hat und V’Las ihn als Bedrohung empfindet, wird Soval von V’Las seines Amtes enthoben. Soval unterstützt die Enterprise-Crew und enthüllt schließlich gegenüber Tucker, dass V’Las die Syrranniten vernichten will, weil sie als Pazifisten gegen jede Gewaltanwendung opponieren. V’Las plant aber in Kürze einen so genannten Präventivschlag gegen Andoria durchzuführen, angeblich weil er Vulkan durch eine auf Xindi-Technologie basierende, andorianische Waffe bedroht sieht. Da der „Präventivschlag“ auch eine Gefahr für die Erde darstellt, bricht Tucker mit der Enterprise nach Andoria auf, um ihn zu verhindern."
@@ -4249,6 +4272,14 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "Archer and T’Pol bring back the Kir’Shara (Surak’s artifact) that will lead to vast changes in the Vulcan world. T’Pol’s Pa’nar Syndrome is cured by T’Pau."
+					},
 					"description": {
 						"de": "Um die Andorianer von V’Las’ Angriffsabsichten zu unterrichten, suchen Tucker und Soval Shran auf. Der ist misstrauisch und hält eine List für möglich. Um sich der Wahrheit von Sovals Angaben über den Aufenthaltsort der vulkanischen Flotte zu versichern, entführt er diesen und foltert ihn. Unterdessen sind Archer, T’Pol und T’Pau unterwegs in die vulkanische Hauptstadt, um das Kir’Shara dorthin zu bringen. Dieses gilt seit langem als verschollen und enthält die einzigen Aufzeichnungen von Suraks wahren Lehren. Mit einer Gedankenverschmelzung heilt T’Pau T’Pols Pa’nar-Syndrom. Unterwegs werden sie von V’Las’ Anhängern überfallen, die T’Pol entführen. V’Las lässt vulkanische Schiffe die andorianische Flotte und die Enterprise angreifen. Archer und T’Pau gelingt es mit Koss’ Hilfe, bis in das Oberkommando vorzudringen. Vor anderen Regierungsvertretern enthüllen sie, dass V’Las der Bombenanschlag als Vorwand dazu diente, sicherzustellen, dass die Syrranniten das Kir’Shara nie finden. Daraufhin stellen sich die anderen Regierungsvertreter gegen V’Las, lassen den Angriff auf Andorianer und Enterprise abbrechen und V’Las aus seinem Amt entfernen. Ein Vulkanier übernimmt Suraks Katra von Archer. Da Koss weiß, dass T’Pol ihn nur geheiratet hat, um ihrer Mutter wieder zu ihrem Amt zu verhelfen, die nun nicht mehr lebt, löst er die Ehe auf. V’Las trifft sich schließlich mit einem Romulaner, in dessen Auftrag er bezüglich der Syrranniten und im Rahmen eines romulanischen Plans handelte, der die romulanisch-vulkanische Wiedervereinigung beinhaltet."
 					}
@@ -4279,6 +4310,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBrennert",
+							"name": "Alan Brennert"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KenLaZebnik",
+							"name": "Ken LaZebnik"
+						}
+					],
+					"abstract": {
+						"en": "Dr. Emory Erickson, inventor of the transporter, conducts a long-range experiment in order to recover his lost son."
 					},
 					"description": {
 						"de": "Der Wissenschaftler Emory Erickson, ein alter Freund der Familie Archer, kommt mit seiner Tochter Danica an Bord der Enterprise, vorgeblich für ein Experiment zum Testen seiner Erfindung, bei der es sich um das Beamen über besonders lange Distanz handelt. Alsbald findet die Crew aber heraus, dass das Experiment Emory nur als Vorwand zum Verschleiern seiner wahren Absicht dient, seinen vor 15 Jahren bei einem Beam-Experiment verlorenen Sohn Quinn zurückzuholen. Weil bei Emorys Versuchen auf der Enterprise auch ein Crewmitglied stirbt, ist vor allem Tucker nicht mit Archers Entscheidung einverstanden, Emory die nur noch jetzt bestehende Möglichkeit zu gewähren, seinen Sohn zurückzuholen. Zwar gelingt es schließlich, Quinn auf der Enterprise zu rematerialisieren, aber wegen Energiemangels beim Beamen und dadurch eingetretenen zellulären Verfalls stirbt er kurz darauf. – Phlox diagnostiziert, dass T’Pol nun nicht mehr am Pa’nar-Syndrom leidet."
@@ -4311,6 +4357,21 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						}
+					],
+					"abstract": {
+						"en": "Organians test the Enterprise crew by observing their reactions to a deadly silicon-based infection."
+					},
 					"description": {
 						"de": "Sato und Tucker sind von einer Außenmission auf einem Planeten zurückgekehrt und befinden sich, weil sie mit einem gefährlichen Erreger infiziert sind, in einer Dekontaminationskammer und unter Quarantäne. Es wird deutlich, dass die Körper von Reed und Mayweather von Vertretern einer körperlosen Spezies namens Organier bewohnt werden. Diese wollen die Reaktionen der Menschen auf das Unerwartete zu dem Zweck studieren, eines Tages mit den Menschen einen ersten Kontakt herzustellen. Vorübergehend werden auch Phlox, T’Pol und Archer durch die Wesen bewohnt. Nachdem sich Sato und Tucker, als menschliche Körper offensichtlich an den Erregern gestorben, als von den Organiern bewohnt zu erkennen gegeben haben, versucht Archer ihnen klarzumachen, dass es für das Erforschen der Menschen nicht ausreiche, diese lediglich zu beobachten, weil so nicht die viel wichtigere Notwendigkeit erkannt werde, Mitgefühl zu erfahren. Die Organier machen alle Auswirkungen des Erregers rückgängig und löschen Archers Gedächtnis. Damit andere Raumfahrer nicht ebenfalls infiziert werden, lässt Archer in der Nähe des Planeten eine Warnboje aussetzen. Reeds und Mayweathers Körper werden ein letztes Mal von den Organiern bewohnt, die nun einen zukünftigen ersten Kontakt für realistisch halten."
 					}
@@ -4341,6 +4402,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidStraiton",
 						"name": "David Straiton"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						}
+					],
+					"abstract": {
+						"en": "Andorians threaten war on the Tellarites after apparently being attacked by a Tellarite vessel en route to trade talks."
 					},
 					"description": {
 						"de": "Die Enterprise befördert einige Tellariten zu dem neutralen Planeten Babel, wo Botschafter der Erde einen lange währenden Streit zwischen Tellariten und Andorianern schlichten wollen. Der Kurs führt die Enterprise durch andorianisches Territorium. Darin rettet sie Shran und weitere 19 Besatzungsmitglieder, die von Shrans Raumschiff geflohen waren, ehe dieses mit über 60 weiteren Crewmitgliedern infolge von scheinbar tellaritischem Beschuss vernichtet wurde. Alsbald wird die Enterprise von einem scheinbar andorianischen Schiff beschossen, das schließlich flieht. T’Pol entdeckt Hinweise darauf, dass es sich um ein und denselben Angreifer handelt. Archer lässt ihn verfolgen und findet das Schiff, das offenbar über ein Tarnsystem verfügt, mit dem sich fremde Technologie simulieren lässt. Nachdem Reed und Tucker an Bord gebeamt sind, greift das ferngesteuerte Schiff die Enterprise an, die flieht. Die Enterprise-Crew kann nur vermuten, dass Romulaner das feindliche Schiff kontrollieren. – In dem Glauben, die Tellariten seien die wahren Angreifer, will Shran den tellaritischen Botschafter Gral ermorden. Zwar hält ihn Archer in letzter Sekunde davon ab, jedoch werden Gral und Shrans Geliebte Talas in der vorübergehend eskalierenden Situation verletzt."
@@ -4373,6 +4449,29 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					},
+					"abstract": {
+						"en": "Archer and Shran engage in mortal combat as Archer tries to unite the Andorians and Tellarites who are being set at each other’s throats by a remote-controlled Romulan vessel."
+					},
 					"description": {
 						"de": "Das romulanische Raumschiff ist ein Prototyp, der ferngesteuert und im Auftrag der romulanischen Regierung getestet wird. Dazu simulieren die Romulaner mit dem Schiff die Enterprise und lassen es ein rigelianisches Schiff zerstören, wodurch von rigelianischer Seite Forderungen nach Archers Verhaftung laut werden. Tucker und Reed gelingt es unter Lebensgefahr und trotz romulanischen Widerstands, die Fernsteuerungsfunktion des prototypischen Schiffs vorübergehend außer Kraft zu setzen. Derweil versucht Archer auf der Enterprise, das Vertrauen der Andorianer und der Tellariten zu dem Zweck zu gewinnen, zusammen mit den Vulkaniern und den Menschen eine Allianz gegen die romulanische Bedrohung zu schmieden. Shran sagt seine Unterstützung zu, stellt die Allianz aber – getrieben von tiefer Rachsucht wegen des Todes seiner Crewkameraden und Talas, die ihren Verletzungen mittlerweile erlegen ist – wieder in Frage, indem er Gral zu einem Duell auf Leben und Tod herausfordert. Archer begibt sich als Stellvertreter Grals in den Kampf und schafft es deshalb, den Tod Shrans durch geschicktes Ausnutzen der Kampfregeln zu verhindern. Dadurch kommt die Allianz schließlich zustande. Eine Raumschiffflotte der Allianz schlägt das romulanische Schiff in die Flucht, von dem zuvor Tucker und Reed auf die Enterprise gebeamt werden konnten."
 					}
@@ -4403,6 +4502,22 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					},
+					"abstract": {
+						"en": "The drone Romulan ship that attacked the Andorians is under the control of an Aenar, an offshoot race of the Andorians. Archer and Shran join forces to rescue the Aenar and stop the Romulan plot."
 					},
 					"description": {
 						"de": "Der Einsatz des prototypischen, ferngesteuerten Raumschiffs ist Teil eines romulanischen Vorhabens, Differenzen zwischen Andorianern und Tellariten zu verursachen. Weil die Menschen den Widerstand gegen die romulanische Bedrohung organisieren, schickt die romulanische Regierung nun zwei derartige Raumschiffe gegen die Enterprise aus. Sie werden mittels einer Telepräsenz-Einheit durch einen Aenar gesteuert, den die Romulaner wegen dessen telepathischer Fähigkeit dazu ausnutzen. Die Aenar sind eine friedliebende, weißhäutige, blinde, zurückgezogen lebende und telepathisch begabte Subspezies der Andorianer. Um mehr über die Beweggründe des Aenar zu erfahren, der für die Romulaner tätig ist, begeben sich Archer und Shran in die Heimat der Aenar, ein Eishöhlensystem auf Andoria. Von dort kehren sie mit Jhamel zurück, der Schwester des einst spurlos verschwundenen Aenars Gareb, der die Fernsteuerung bedient. Jhamel kann die Telepräsenz-Einheit bedienen, die die Enterprise-Crew unter Nutzung der von Tucker und Reed gewonnenen Erkenntnisse mittlerweile nachgebaut hat. Nach einem gescheiterten Verwendungsversuch schafft sie es, Gareb zu kontaktieren, der eines der romulanischen Schiffe das andere zerstören lässt; die Enterprise zerstört das zweite. Die Romulaner töten Gareb. – Archer akzeptiert widerwillig Tuckers Versetzungsgesuch auf die Columbia, das Schwesterschiff der Enterprise. Tucker hat sich sehr um T’Pol gesorgt, die unter hohem persönlichem Risiko die Telepräsenz-Einheit getestet hat, und möchte lieber auf einem Schiff dienen, auf dem er für niemanden starke Gefühle hegt."
@@ -4435,6 +4550,22 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelGrossman",
 						"name": "Michael Grossman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					},
+					"abstract": {
+						"en": "Phlox is kidnapped by the Klingons who are seeking to cure a disease caused by an attempt to create Klingon/Augment hybrids; T’Pol’s mental abilities grow after she conducts her first mind meld."
+					},
 					"description": {
 						"de": "Während die Enterprise anlässlich der Fertigstellung ihres Schwesterschiffes Columbia bei der Erde ist und Tucker seinen Posten auf dem neuen Schiff antritt, lassen Klingonen Phlox zu einer ihrer Kolonien entführen. Er wird dort unter Androhung seiner Ermordung dazu gezwungen, ihnen beim Erschaffen eines Mittels gegen eine Seuche zu helfen, die einen Teil der Klingonen in der Kolonie befallen hat. Die Seuche existiert, weil ein klingonisches Experiment mit Augment-Embyronen gescheitert ist, und droht alle Klingonen zu töten. Einige der bei diesem Experiment geschaffenen Augments entern kurzzeitig die Enterprise und sabotieren dabei deren Computer so, dass er von einem klingonischen Unterprogramm infiltriert wird, durch das die Enterprise dazu gezwungen ist, ihr Flugtempo bis zum Äußersten zu erhöhen, um keinen Schaden zu nehmen. Reed ist unterdessen für die geheime Sternenflottenorganisation Sektion 31 tätig und behindert die Verfolgung von Phlox’ Spur durch das Verschweigen von Informationen. Nachdem die Crew sein doppeltes Spiel entdeckt hat, wird er von Archer suspendiert und unter Arrest gestellt."
 					}
@@ -4465,6 +4596,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidBarrett",
 						"name": "David Barrett"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						}
+					],
+					"abstract": {
+						"en": "With the Columbia’s help, the Enterprise crew grapples with sabotage to their ship as they pursue the truth behind the kidnapping of Phlox. The disease is cured, but genetic mutations will make many Klingons appear human-like for generations to come."
 					},
 					"description": {
 						"de": "Phlox wird dazu gezwungen, zum Stoppen der Seuche die unvollkommenen klingonischen Augments zu perfektionieren. Insgeheim arbeitet er jedoch an einem Antivirus. Die Enterprise holt sich die Hilfe der Columbia und Tuckers, um ihren Warpkernbruch zu verhindern; die klingonischen Subroutinen können dadurch aus dem Computer gelöscht werden. Archer spricht mit Harris, Reeds Kontakt bei der Sektion 31, und zweifelt an dessen Aussage, der zufolge es der Sektion um die Stabilisierung des klingonischen Reiches gehe. Reed nennt, geplagt von Gewissensbissen, Archer die Koordinaten der klingonischen Kolonie, sodass die Enterprise dorthin fliegt. Es stellt sich heraus, dass Harris mit einem klingonischen General kooperiert, der die Kolonie zum Verhindern der Ausbreitung der Seuche zerstören möchte. Die Enterprise kann, unterstützt durch die Columbia, aber den klingonischen Beschuss der Ziele stoppen. Phlox gelingt es trotz des Beschusses, den Antivirus herzustellen. Damit werden die infizierten Klingonen geheilt. Tucker bleibt vorerst auf der Enterprise, um bei den Reparaturen zu helfen."
