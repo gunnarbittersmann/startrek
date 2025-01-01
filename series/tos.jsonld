@@ -734,12 +734,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.11",
 					"episodeNumber": "1.11",
-					"name": "The Menagerie – Part I",
+					"name": "The Menagerie, Part I",
 					"datePublished": "1966-11-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Talos IV – Tabu – Teil 1",
+						"name": "Talos IV – Tabu, Teil I",
 						"datePublished": "1987-11-16"
 					},
 					"subjectOf": [
@@ -785,12 +785,12 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.12",
 					"episodeNumber": "1.12",
-					"name": "The Menagerie – Part II",
+					"name": "The Menagerie, Part II",
 					"datePublished": "1966-11-24",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Talos IV – Tabu – Teil 2",
+						"name": "Talos IV – Tabu, Teil II",
 						"datePublished": "1987-11-23"
 					},
 					"subjectOf": [
