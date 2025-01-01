@@ -3953,6 +3953,14 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"abstract": {
+						"en": "After destroying the Xindi weapon, Enterprise finds itself in the 20th century during World War II with Nazis in control of the North Eastern USA."
+					},
 					"description": {
 						"de": "Den Nazis ist es gelungen, die Vereinigten Staaten teilweise zu erobern; 1944 halten sie die nordamerikanische Ostküste besetzt. Zu den Nazis in Amerika gehören auch einige Außerirdische, deren Anführer Vosk ist. Archer wird von einigen Widerstandskämpfern aus der Nazi-Gefangenschaft befreit und arbeitet in New York City mit ihnen zusammen. Mit ihrer Hilfe macht er einen der Nazi-Aliens ausfindig. Die Crew der im Erdorbit befindlichen Enterprise wird von Daniels aufgesucht, der sterbenskrank ist. Er berichtet, dass die von Vosk geführte Fraktion aus temporalen Agenten eine verdeckte Form des Zeitreisens erfunden hat und in der Zeit zurückgereist ist, wodurch die Zeitlinie verändert wurde. Um in seine Zeit zurückzukehren, lässt Vosk auf der Erde einen riesigen Apparat bauen. Dazu nimmt er die Hilfe der menschlichen Nazis in Anspruch und täuscht ihnen gegenüber vor, es handele sich dabei um eine Waffe, die den Nazis die arische Herrschaft sichere. Daniels fordert die Enterprise-Crew dazu auf, Vosk aufzuhalten, weil dies nur zu dieser Zeit möglich sei. Daniels’ Bemühungen werden durch den ebenfalls plötzlich auf der Enterprise erschienenen Silik torpediert, der dazu mit einer gestohlenen Fähre nach New York flieht. Bei dessen Verfolgung werden Tucker und Mayweather von den Nazis gefangen genommen. Archer beamt auf der Flucht vor den Nazis auf die Enterprise zurück."
 					}
@@ -3983,6 +3991,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
+					},
+					"abstract": {
+						"en": "Archer joins Silik to stop the alien Nazis, restore the timeline and end the Temporal Cold War."
 					},
 					"description": {
 						"de": "Die Enterprise-Crew findet heraus, dass die Zeitlinie ab 1916 einen abweichenden Verlauf nahm. In dem Jahr wurde Lenin durch einen Unbekannten ermordet; die Nazis sahen Russland in der Folge nicht als Bedrohung an, sodass sie ihren Eroberungsfeldzug auf den Westen konzentrierten und schließlich auch die US-Ostküste besetzten. Vosks Ziel mit der Zeitreisetechnologie ist es, seine Spezies zu perfektionieren, indem sie die Zeit beherrscht und so die Geschichte nach ihrem eigenen Willen formen kann. Daniels will Vosk aufhalten und schickte die Enterprise dafür zurück durch die Zeit. Silik überlistet Archer und gelangt so wieder auf die Enterprise, wo er gefangen genommen wird. Da auch er Vosk bekämpft, dringt Archer mit ihm zusammen, unterstützt durch die nordamerikanischen Widerstandskämpfer, in die Anlage ein, in der Vosk den Zeitreiseapparat bauen lässt, den er alsbald zu benutzen gedenkt. Silik wird dabei getötet. Unterstützt durch die Waffenhilfe der in die Erdatmosphäre geflogenen Enterprise kann Archer zur Zerstörung des Zeitreiseapparats beitragen. Dadurch werden Vosk und seine Begleiter getötet und der Temporale Kalte Krieg beendet, zudem wird die normale Zeitlinie wiederhergestellt und die Enterprise samt Crew zurück in ihre Ursprungszeit versetzt. In der Nähe der Erde wird die Enterprise von Dutzenden Erdraumschiffen empfangen."
@@ -4015,6 +4031,14 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "Enterprise is welcomed home after saving Earth and the crew takes a much needed vacation. Tucker and T’Pol visit Vulcan where T’Pol must consider marriage to Koss. Erika Hernandez becomes captain of the Columbia and renews her acquaintance with Archer. Phlox encounters prejudice on Earth."
+					},
 					"description": {
 						"de": "Die Enterprise-Crew wird anlässlich ihrer Rückkehr von der erfolgreichen Mission unter großem Beifall in San Francisco empfangen. Archer begegnet seiner Ex-Freundin Erica Hernandez, die gerade das Kommando über Columbia, das Schwesterschiff der Enterprise, übernommen hat, und unternimmt eine Klettertour mit ihr. In ihrer Gegenwart fühlt er sich an sein früheres Selbst erinnert und angesichts von Folterhandlungen und anderen ihm unangenehmen und in der Ausdehnung von ihm begangenen Taten ungerechtfertigt als Held verehrt. Durch ihren Zuspruch findet er seinen inneren Frieden wieder, und sie nehmen ihre Beziehung wieder auf. – Begleitet von Tucker besucht T’Pol ihr Zuhause und ihre Mutter auf Vulkan. Dort wird T’Pol alsbald von ihrem ehemaligen Verlobten Koss aufgesucht. Sie befolgt die vulkanischen Traditionen und heiratet ihn auf seinen Wunsch hin, damit ihre wegen der Zerstörung des Klosters P’Jem zum Rücktritt gezwungene Mutter in ihr Amt zurückkehren darf. Tucker, der T’Pol liebt, wohnt der Hochzeit dennoch bei. – Phlox sieht sich in einer Bar auf der Erde einer feindseligen Haltung von Menschen gegenüber Außerirdischen ausgesetzt und entscheidet sich deswegen gegen weitere Landgänge, die er ursprünglich unternehmen wollte."
 					}
@@ -4040,6 +4064,14 @@
 							"name": "Wikipedia"
 						},
 						"url": "https://en.wikipedia.org/wiki/Borderland_(Star_Trek:_Enterprise)"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KenLaZebnik",
+						"name": "Ken LaZebnik"
+					},
+					"abstract": {
+						"en": "Dr. Arik Soong restores his relationship with his genetically-enhanced “children”."
 					},
 					"director": {
 						"@type": "Person",
@@ -4077,6 +4109,14 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBrennert",
+						"name": "Alan Brennert"
+					},
+					"abstract": {
+						"en": "A space station crew is held hostage as Dr. Arik Soong and his Augments work to obtain hundreds of Augment embryos in hopes of creating an Augment population."
+					},
 					"description": {
 						"de": "Soong, Malik und die anderen Augments fliegen zur Cold Station 12, einer Raumstation, auf der sich Hunderte weiterer Augment-Embryonen befinden, die Soong ausbrüten lassen will. Von Dr. Lucas, dem Leiter des dortigen Forscherteams, und seinen Kollegen versuchen Soong und Malik – auch mittels Folter – die Codes zu erpressen, die den Zugang zu den Embryonen ermöglichen. Der Spur Soongs folgend ist die Enterprise zur Station gelangt und wird bei ihrer Ankunft durch Soongs Drohung, Geiseln zu ermorden, zur Umkehr gezwungen. In letzter Minute gelingt es einem von Archer – der das Ausbrüten der Embryonen verhindern will – geführten Außenteam, sich auf die Station zu beamen. Dort wird das Team alsbald von Soongs Gefolgschaft gefangen genommen. Malik opponiert wiederholt gegen Soong. Dieser bemächtigt sich der Embryonen, nachdem beide Lucas mit dessen Freund Phlox erpresst haben und an die Codes gelangt sind. Als sich Soong von der Station entfernt, wird das Außenteam durch Malik auf der Station eingesperrt und droht durch tödliche Erreger zu sterben, die in fünf Minuten freigesetzt werden."
 					}
@@ -4107,6 +4147,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"abstract": {
+						"en": "Dr. Arik Soong finds himself overthrown as “father” of the Augments and Archer rushes to prevent the destruction of a Klingon colony. As a result of his dashed hopes of enhancing humans, Soong turns in a new direction of research."
 					},
 					"description": {
 						"de": "Durch selbstlosen Einsatz verhindert Archer, dass das Außenteam und die Wissenschaftler auf der Cold Station 12 durch die Krankheitserreger sterben. Soong ist mit den Augments unterwegs zu zwei abgelegenen Planeten, um dort die Augment-Embryonen geschützt reifen zu lassen. Nachdem Malik erfahren hat, dass Soong das Genom der Embryonen ändert, um sie weniger aggressiv zu machen, sieht er die Natur der Augments gefährdet und übernimmt mit den anderen Augments das Kommando über ihr Raumschiff. Mit diesem fliegt er zu einem klingonischen Planeten, dessen Bevölkerung er mit aus Sternenflottenbeständen stammenden Toxinen töten will, um die Sternenflotte in einen Krieg gegen die Klingonen zu zwingen und davon abzulenken, die Augments gefangenzunehmen. Maliks Geliebte Persis, die mittlerweile gegen ihn opponiert, ermöglicht Soongs Flucht von Bord des Schiffes und wird deshalb von Malik getötet. In seiner Rettungskapsel durch die Enterprise-Crew aufgegriffen, kann Soong Archer davon überzeugen, ihm zu erlauben, der Crew beim Vereiteln von Maliks Plan zu helfen. Dies gelingt den Verbündeten in letzter Sekunde, ehe Malik, um seine Gefangennahme zu verhindern, die Selbstzerstörung seines Raumschiffs auslöst. Im selben Moment beamt er sich auf die Enterprise, um Soong zu töten, wird aber stattdessen von Archer erschossen. Soong setzt in Sternenflotten-Gefangenschaft seine Forschungen fort und will sich dabei auf künstliches Leben konzentrieren."
