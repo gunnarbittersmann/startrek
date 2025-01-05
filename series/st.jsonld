@@ -43,6 +43,7 @@
 			"@id": "https://bittersmann.de/startrek/people#JessieGender",
 			"name": "Jessie Gender"
 		},
+		"datePublished": "2020-01-16",
 		"video": {
 			"@type": "VideoObject",
 			"embedUrl": "https://www.youtube-nocookie.com/embed/mQDLoq7QRt8"
@@ -55,11 +56,13 @@
 			"seasonNumber": 1,
 			"review": {
 				"@type": "Review",
+				"name": "Trek, Actually",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#SteveShives",
 					"name": "Steve Shives"
 				},
+				"datePublished": "2019-01-09",
 				"video": {
 					"@type": "VideoObject",
 					"embedUrl": "https://www.youtube-nocookie.com/embed/Tl8ADPO509E"
@@ -258,6 +261,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2019-10-05",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/QbmLGIX5XaY"
@@ -300,6 +304,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2019-10-10",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/uioqcZJzz0Y"
@@ -340,6 +345,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2019-11-14",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/5BEl1QvBOXI"
@@ -423,6 +429,7 @@
 							{ "@id": "https://bittersmann.de/startrek/series/st#2.4" },
 							{ "@id": "https://bittersmann.de/startrek/series/st#2.5" }
 						],
+						"datePublished": "2019-12-12",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/VmiIo-GErxI"
@@ -478,6 +485,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2020-01-09",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/0z4zOwMH1F8"
