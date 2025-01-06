@@ -614,7 +614,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Rückkehr nach Tars Lamora, Teil I",
+						"name": "Rückkehr nach Tars Lamora, Teil 1",
 						"datePublished": "2022-04-28"
 					},
 					"abstract": {
@@ -697,7 +697,7 @@
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Rückkehr nach Tars Lamora, Teil II",
+						"name": "Rückkehr nach Tars Lamora, Teil 2",
 						"datePublished": "2022-04-29"
 					},
 					"abstract": {
@@ -1511,6 +1511,19 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/P_8zG80dTgU"
+							}
+						},
+						{
+							"@type": "Review",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_gSw_oYp6cE"
 							}
 						},
 						{
