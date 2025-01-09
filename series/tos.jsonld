@@ -148,6 +148,19 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+					"name": "Nerdzika"
+				},
+				"datePublished": "2024-10-30",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/7Q3IAUoRelU"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
