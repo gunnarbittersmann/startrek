@@ -150,6 +150,7 @@
 			],
 			"review": {
 				"@type": "Review",
+				"inLanguage": "de",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
