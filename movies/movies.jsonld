@@ -86,6 +86,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Person",
@@ -99,6 +100,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -188,6 +190,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -262,6 +265,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -368,6 +372,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -462,6 +467,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -563,6 +569,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -575,6 +582,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -681,6 +689,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -766,6 +775,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -840,6 +850,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -852,6 +863,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -931,6 +943,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1003,6 +1016,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1015,6 +1029,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1027,6 +1042,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1098,6 +1114,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1163,6 +1180,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",

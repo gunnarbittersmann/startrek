@@ -90,6 +90,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -104,6 +105,7 @@
 						{
 							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | First Episodes",
 							"creator": {
 								"@type": "Person",
@@ -272,6 +274,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -337,6 +340,7 @@
 					"review": {
 						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -405,6 +409,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -630,6 +635,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1207,6 +1213,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1345,6 +1352,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1424,6 +1432,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | The Augments",
 						"creator": {
 							"@type": "Person",
@@ -1772,6 +1781,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1913,6 +1923,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2631,6 +2642,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Ups & Downs",
 						"creator": {
 							"@type": "Organization",
@@ -2757,6 +2769,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -2976,6 +2989,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -3102,6 +3116,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -3228,6 +3243,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -3384,6 +3400,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -3499,6 +3516,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -3665,6 +3683,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -4233,6 +4252,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -4546,6 +4566,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",

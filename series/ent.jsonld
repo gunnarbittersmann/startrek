@@ -121,6 +121,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -180,6 +181,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -460,6 +462,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -835,6 +838,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1696,6 +1700,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -2563,6 +2568,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Borg Episodes",
 							"creator": {
 								"@type": "Person",
@@ -2576,6 +2582,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3149,6 +3156,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -3287,6 +3295,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -3572,6 +3581,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -4083,6 +4093,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | The Augments",
 						"creator": {
 							"@type": "Person",

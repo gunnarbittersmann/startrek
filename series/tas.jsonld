@@ -101,6 +101,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -171,6 +172,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -469,6 +471,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -1039,6 +1042,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -1173,6 +1177,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1300,6 +1305,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | 100th Episode!",
 						"creator": {
 							"@type": "Person",

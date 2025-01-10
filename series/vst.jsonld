@@ -32,6 +32,7 @@
 			"@type": "TVSeason",
 			"review": {
 				"@type": "Review",
+				"inLanguage": "en",
 				"name": "Ups & Downs",
 				"creator": {
 					"@type": "Organization",
@@ -70,6 +71,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -106,6 +108,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -142,6 +145,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -178,6 +182,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -214,6 +219,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
