@@ -151,6 +151,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -254,6 +255,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -525,6 +527,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -624,6 +627,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1067,6 +1071,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1209,6 +1214,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Trek, Actually",
 						"creator": {
 							"@type": "Person",
@@ -1380,6 +1386,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1436,6 +1443,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2008,6 +2016,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2522,6 +2531,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -2707,6 +2717,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -2893,6 +2904,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2992,6 +3004,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -3264,6 +3277,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -3564,6 +3578,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3581,6 +3596,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Borg Episodes",
 							"creator": {
 								"@type": "Person",
@@ -3728,6 +3744,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -3784,6 +3801,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -4442,6 +4460,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -5085,6 +5104,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
@@ -5747,6 +5767,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -5960,6 +5981,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6106,6 +6128,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6205,6 +6228,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6347,6 +6371,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6466,6 +6491,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6655,6 +6681,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6883,6 +6910,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Ups & Downs",
 						"creator": {
 							"@type": "Organization",
@@ -7225,6 +7253,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -7801,6 +7830,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Ups & Downs",
 						"creator": {
 							"@type": "Organization",
@@ -8309,6 +8339,7 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Ups & Downs",
 						"creator": {
 							"@type": "Organization",

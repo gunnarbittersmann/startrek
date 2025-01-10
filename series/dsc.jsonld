@@ -38,6 +38,7 @@
 	],
 	"review": {
 		"@type": "Review",
+		"inLanguage": "en",
 		"creator": {
 			"@type": "Person",
 			"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -77,6 +78,7 @@
 			],
 			"review": {
 				"@type": "Review",
+				"inLanguage": "en",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -201,6 +203,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -287,6 +290,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -344,6 +348,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -405,6 +410,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review",
 							"creator": {
 								"@type": "Person",
@@ -418,6 +424,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Not Actually Trek, Actually",
 							"creator": {
 								"@type": "Person",
@@ -473,6 +480,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -520,6 +528,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -566,6 +575,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -613,6 +623,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -653,6 +664,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -693,6 +705,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -733,6 +746,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -773,6 +787,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -867,6 +882,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review",
 						"creator": {
 							"@type": "Person",
@@ -912,6 +928,7 @@
 			],
 			"review": {
 				"@type": "Review",
+				"inLanguage": "en",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -964,6 +981,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1025,6 +1043,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1064,6 +1083,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1130,6 +1150,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1169,6 +1190,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1215,6 +1237,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1270,6 +1293,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1282,6 +1306,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1338,6 +1363,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1377,6 +1403,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1423,6 +1450,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1469,6 +1497,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1515,6 +1544,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1566,6 +1596,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1618,6 +1649,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1630,6 +1662,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1680,6 +1713,7 @@
 			"review": [
 				{
 					"@type": "Review",
+					"inLanguage": "en",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1692,6 +1726,7 @@
 				},
 				{
 					"@type": "Review",
+					"inLanguage": "en",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1746,6 +1781,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1759,6 +1795,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1812,6 +1849,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1825,6 +1863,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1873,6 +1912,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1886,6 +1926,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1939,6 +1980,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1952,6 +1994,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2008,6 +2051,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2021,6 +2065,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2062,6 +2107,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2075,6 +2121,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2116,6 +2163,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2129,6 +2177,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2177,6 +2226,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2190,6 +2240,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2261,6 +2312,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2274,6 +2326,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2345,6 +2398,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2358,6 +2412,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2399,6 +2454,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2412,6 +2468,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2453,6 +2510,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2466,6 +2524,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2507,6 +2566,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2520,6 +2580,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2561,6 +2622,7 @@
 			],
 			"review": {
 				"@type": "Review",
+				"inLanguage": "en",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2614,6 +2676,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2627,6 +2690,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2639,6 +2703,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -2687,6 +2752,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2700,6 +2766,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2712,6 +2779,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -2753,6 +2821,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2766,6 +2835,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2778,6 +2848,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -2826,6 +2897,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2839,6 +2911,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2851,6 +2924,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -2892,6 +2966,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2905,6 +2980,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2917,6 +2993,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -2965,6 +3042,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -2978,6 +3056,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -2990,6 +3069,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3038,6 +3118,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3051,6 +3132,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3063,6 +3145,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3111,6 +3194,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3124,6 +3208,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3136,6 +3221,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3177,6 +3263,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3190,6 +3277,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3202,6 +3290,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3243,6 +3332,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3256,6 +3346,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3268,6 +3359,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3316,6 +3408,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3329,6 +3422,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3341,6 +3435,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3382,6 +3477,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3395,6 +3491,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3407,6 +3504,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3448,6 +3546,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3461,6 +3560,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3473,6 +3573,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3515,6 +3616,7 @@
 			"review": [
 				{
 					"@type": "Review",
+					"inLanguage": "en",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3527,6 +3629,7 @@
 				},
 				{
 					"@type": "Review",
+					"inLanguage": "en",
 					"creator": [
 						{
 							"@type": "Person",
@@ -3576,6 +3679,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3589,6 +3693,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3630,6 +3735,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3643,6 +3749,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3655,6 +3762,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -3708,6 +3816,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3721,6 +3830,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3733,6 +3843,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -3775,6 +3886,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Organization",
 								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
@@ -3793,6 +3905,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3806,6 +3919,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3818,6 +3932,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -3867,6 +3982,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3880,6 +3996,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3892,6 +4009,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -3941,6 +4059,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -3954,6 +4073,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -3966,6 +4086,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -4008,6 +4129,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -4021,6 +4143,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -4033,6 +4156,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -4082,6 +4206,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -4095,6 +4220,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -4107,6 +4233,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -4156,6 +4283,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -4169,6 +4297,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -4181,6 +4310,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -4230,6 +4360,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -4243,6 +4374,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -4255,6 +4387,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Second Opinion with Dr. Trek",
 							"creator": {
 								"@type": "Person",

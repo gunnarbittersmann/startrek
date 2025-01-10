@@ -38,6 +38,7 @@
 	],
 	"review": {
 		"@type": "Review",
+		"inLanguage": "en",
 		"creator": {
 			"@type": "Person",
 			"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -56,6 +57,7 @@
 			"seasonNumber": 1,
 			"review": {
 				"@type": "Review",
+				"inLanguage": "en",
 				"name": "Trek, Actually",
 				"creator": {
 					"@type": "Person",
@@ -256,6 +258,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -299,6 +302,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -340,6 +344,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -420,6 +425,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -480,6 +486,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
