@@ -1102,6 +1102,12 @@
 						"@id": "https://bittersmann.de/startrek/people#CraigSweeny",
 						"name": "Craig Sweeny"
 					},
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Sektion 31",
+						"datePublished": "2025-01-24"
+					},
 					"subjectOf": [
 						{
 							"@type": "Webpage",
