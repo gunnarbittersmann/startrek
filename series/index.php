@@ -410,6 +410,9 @@ EOT;
 																	))
 																?>)</span>
 															<?php endif; ?>
+															<?php if ($episode['review']['inLanguage'] != 'en'): ?>
+																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
+															<?php endif; ?>
 														</summary>
 														<meta
 															property="embedUrl"
@@ -455,6 +458,9 @@ EOT;
 																				htmlSpecialChars(parse_url(
 																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
 																			?>)</span>
+																		<?php endif; ?>
+																		<?php if ($review['inLanguage'] != 'en'): ?>
+																			<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																		<?php endif; ?>
 																	</summary>
 																	<meta
@@ -511,6 +517,9 @@ EOT;
 																<?php endforeach; ?>
 															<?php endif; ?>
 														<?php endif; ?>
+														<?php if ($season['review']['inLanguage'] != 'en'): ?>
+															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
+														<?php endif; ?>
 													</summary>
 													<meta
 														property="embedUrl"
@@ -559,6 +568,9 @@ EOT;
 																				</span>
 																			<?php endforeach; ?>
 																		<?php endif; ?>
+																	<?php endif; ?>
+																	<?php if ($review['inLanguage'] != 'en'): ?>
+																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																	<?php endif; ?>
 																</summary>
 																<meta
