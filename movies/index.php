@@ -290,6 +290,9 @@
 															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
 														</span>
 													<?php endif; ?>
+													<?php if ($movie['review']['inLanguage'] != 'en'): ?>
+														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
+													<?php endif; ?>
 												</summary>
 												<meta
 													property="embedUrl"
@@ -319,6 +322,9 @@
 																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																	</span>
+																<?php endif; ?>
+																<?php if ($review['inLanguage'] != 'en'): ?>
+																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
 															<meta

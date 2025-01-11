@@ -358,7 +358,8 @@ summary {
 	outline: none;
 }
 
-.review-range {
+.review-range,
+.review-lang {
 	font-size: 0.8em;
 }
 
