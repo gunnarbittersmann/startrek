@@ -39,11 +39,13 @@
 	"review": {
 		"@type": "Review",
 		"inLanguage": "en",
+		"name": "Trek, Actually",
 		"creator": {
 			"@type": "Person",
 			"@id": "https://bittersmann.de/startrek/people#SteveShives",
 			"name": "Steve Shives"
 		},
+		"datePublished": "2024-07-03",
 		"video": {
 			"@type": "VideoObject",
 			"embedUrl": "https://www.youtube-nocookie.com/embed/K20uZuF88S0"
