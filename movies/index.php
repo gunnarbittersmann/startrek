@@ -277,7 +277,7 @@
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
-											<details lang="en" property="video" typeof="VideoObject">
+											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 													<?php if ($movie['review']['name']): ?>
@@ -289,6 +289,9 @@
 															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
 															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
 														</span>
+													<?php endif; ?>
+													<?php if ($movie['review']['inLanguage'] != 'en'): ?>
+														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
 												<meta
@@ -307,7 +310,12 @@
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
-														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
+														<details
+															lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
+															property="video"
+															typeof="VideoObject"
+															name="review-<?= htmlSpecialChars($movie['@identifier']) ?>"
+														>
 															<summary
 																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 																<?php if ($review['name']): ?>
@@ -319,6 +327,9 @@
 																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																	</span>
+																<?php endif; ?>
+																<?php if ($review['inLanguage'] != 'en'): ?>
+																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
 															<meta

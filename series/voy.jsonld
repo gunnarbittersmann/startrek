@@ -101,6 +101,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -160,6 +161,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -922,6 +924,9 @@
 					},
 					"abstract": {
 						"en": "Space-dwelling life-forms cause Kes to enter the Ocampan fertile phase called Elogium, putting pressure on her relationship with Neelix when she wants to have his child."
+					},
+					"description": {
+						"de": "Als die Voyager auf eine im Weltall lebende Form in der Art von Geißeltierchen trifft, wird sie unerwartet in den Schwarm dieser Wesen hineingezogen, was zu schwerwiegenden Problemen mit den Schiffssystemen führt. Während die Besatzung versucht, einen Ausweg zu finden, zeigt Kes plötzlich seltsame Symptome, die auf eine Störung ihres Stoffwechsels durch den Schwarm zurückzuführen sind. Dies führt zu einer unerwarteten Entwicklung in Bezug auf Kes’ reproduktive Phase, die sie vor schwierige Entscheidungen stellt. Jede Ocampa erreicht nur einmal im Leben den Zustand des „Elogiums“ und kann nur dann ein Kind bekommen. Währenddessen diskutieren Kathryn und Chakotay über die möglichen Konsequenzen von Kindern an Bord der Voyager. Die Situation wird noch komplizierter, als Kes Neelix bittet, der Vater ihres Kindes zu werden, und er zögert zunächst. Während die Voyager weiterhin vom Schwarm bedroht wird, gelingt es der Crew schließlich, sich durch ein cleveres Manöver zu befreien. Kes entscheidet sich letztendlich dagegen, jetzt ein Kind zu bekommen, aber der Doktor ist optimistisch, dass sie noch eine Chance haben wird, wenn der Schwarm nicht mehr stört. In einer ironischen Wendung erfährt Kathryn, dass ein anderes Besatzungsmitglied, Fähnrich Samantha Wildman, schwanger ist."
 					}
 				},
 				{
@@ -1023,9 +1028,7 @@
 						"name": "Jonathan Frakes"
 					},
 					"abstract": {
-						"en": "Neelix and Tom Paris fight over Kes, but are sent on an away mission together."
-					},
-					"description": {
+						"en": "Neelix and Tom Paris fight over Kes, but are sent on an away mission together.",
 						"de": "Tom Paris verguckt sich in Kes und gerät deswegen in eine körperliche Auseinandersetzung mit Neelix. Wenig später müssen Paris und Neelix zu zweit einen unwirtlichen Planeten erkunden. Nachdem sie mit ihrem Shuttle notgelandet sind, finden sie ein frisch aus dem Ei geschlüpftes fremdes Wesen und päppeln es auf. Dabei legen sie ihren Streit bei."
 					}
 				},
@@ -1160,6 +1163,9 @@
 					},
 					"abstract": {
 						"en": "Kazon Nistrim board Voyager and steal a transporter module in an attempt to unite the Kazon sects."
+					},
+					"description": {
+						"de": "Die Voyager entdeckt eine Funkbake, die ein Förderationssignal aussendet, zur Untersuchung wird ein entsprechender Kurs gesetzt. An der Bake, die sich in einem Nebel befindet, angekommen, werden sie von einem Kazon-Schiff angegriffen. Der Angriff ist ungewöhnlich gut geplant, die Kazon deaktivieren den Warpantrieb der Voyager und schießen ein Loch in den Schutzschild. Durch dieses Loch fliegt ein kleines Shuttle, das die Voyager rammt und in der Hülle stecken bleibt. Die meisten Kazon können ausgeschaltet werden, zwei von ihnen schaffen es aber, mit einem gestohlenen Transportermodul zurück auf ihr Schiff zu beamen. Noch während die Voyager-Crew überlegt, was nun zu tun ist, werden sie von Maje Cullah von den Kazon-Nistrim gerufen, der sich mit seiner neuen Beraterin Seska vorstellt. Seska verhöhnt Chakotay als berechenbar, bevor sie mit Warp verschwinden. Da sie große Sorge hat, dass sich das Gleichgewicht und die Stabilität der gesamten Kazon-Sekten im Quadranten ändern wird, sollten die Nistrim im Besitz der Föderationstechnologie bleiben, will Janeway die Verfolgung aufnehmen. Während das Shuttle aus der Hülle entfernt wird, um wieder ein Warpfeld aufbauen zu können, diskutiert die Crew verschiedene Möglichkeiten, das gestohlene Modul zurückzubekommen. Vertreter verschiedener Kazon-Clans treffen sich, um zu diskutieren, was mit der gestohlenen Technik geschehen soll. Cullah ist nicht einverstanden damit, die Technik zu teilen, was damit endet, dass er seine Kontrahenten ins All beamen lässt. Als die Voyager etwas später am Treffpunkt ankommt, können nur noch die Leichen der Kazon geborgen werden. Chakotay hat derweil die Voyager ohne Erlaubnis mit einem Shuttle und diverser Technik verlassen, mit der er das gestohlene Transportermodul unbrauchbar machen will. Er kann sich ungesehen auf das Kazon-Schiff beamen und das Modul mit seinem Phaser zerstören, wird dann aber von Seska und den Kazon gefangen genommen. Die Voyager konnte das Kazon-Schiff lokalisieren und gerät in ein Gefecht mit dem Schiff von Cullah und weiteren Kazon-Anführern. Chakotay kommt wieder an Bord der Voyager und die Kazon verschwinden fürs Erste. Auf der Brücke der Voyager empfängt man noch eine Nachricht von Seska, die Chakotay zu seinem Sieg gratuliert und ihm erklärt, dass sie sich selbst mit einer Probe seiner DNA befruchtet hat."
 					}
 				},
 				{
@@ -1190,10 +1196,12 @@
 						"name": "Winrich Kolbe"
 					},
 					"abstract": {
-						"en": "A mission to acquire Telerium goes wrong causing Tuvok and B’Elanna to be captured and believed to be with the resistance."
+						"en": "A mission to acquire Telerium goes wrong causing Tuvok and B’Elanna to be captured and believed to be with the resistance.",
+						"de": "Auf der Suche nach Tellerium, das zum Antrieb des Schiffes benötigt wird, beamen sich Captain Janeway, Tuvok, Torres und Neelix in eine Stadt der Alsaurianer, die von den feindlichen Mokras besetzt ist. Die Mokra-Soldaten nehmen Tuvok und Torres gefangen. Während eines Aufruhrs wird Janeway von Caylem, einem Einwohner, versteckt gehalten. Dieser sieht in ihr seine längst verstorbene Tochter."
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -1238,7 +1246,7 @@
 						"en": "The crew finds and reactivates a robot’s body which was adrift in space only to find themselves in the middle of a war when B’Elanna is abducted."
 					},
 					"description": {
-						"de": "Die Voyager-Crew birgt einen funktionsuntüchtigen Roboter unbekannter Bauart. Lieutenant Torres setzt ihn wieder in Gang, indem sie sein Energiemodul so modifiziert, dass es mit Warp-Plasma betrieben werden kann. Er stellt sich als die automatische Einheit 3947 vor und sagt, er sei auf einem Raumschiff der Pralor stationiert. Diese Spezies, von ihm „die Erbauer“ genannt, kam Jahrzehnte zuvor in einem Krieg um. Torres’ Leistung, das Energiemodul anzupassen, bringt 3947 auf die Idee, dass sie ein prototypisches Energiemodul für die Konstruktion weiterer automatischer Einheiten bauen könnte, was den Robotern erlauben würde, sich „fortzupflanzen“. Captain Janeway verweigert wegen der obersten Direktive ihre Zustimmung. Daraufhin entführt 3947 Torres auf das Pralor-Schiff, auf dem er stationiert ist und dessen Feuerkraft der der Voyager überlegen ist. Torres erklärt sich bereit, einen Prototyp zu bauen, um die Voyager zu retten. Die Konstruktion ist erfolgreich, aber als der Prototyp fertig ist, wird das Pralor-Schiff von einem anderen Raumschiff angegriffen, dessen Besatzung ebenfalls nur aus Robotern besteht. Deren Erbauer, die Cravic, führten mit den Pralor Krieg. Sie leben auch nicht mehr ‒ die Erbauer haben einen Waffenstillstand geschlossen und wollten ihre Kampfroboter vernichten, darum haben die Roboter sie vernichtet. Als Torres das erfährt, zerstört sie den Prototyp. Lieutenant Paris beamt sie in ein Shuttle und kehrt mit ihr zur Voyager zurück."
+						"de": "Die Voyager-Crew birgt einen funktionsuntüchtigen Roboter unbekannter Bauart. Lieutenant Torres setzt ihn wieder in Gang, indem sie sein Energiemodul so modifiziert, dass es mit Warp-Plasma betrieben werden kann. Er stellt sich als die automatische Einheit 3947 vor und sagt, er sei auf einem Raumschiff der Pralor stationiert. Diese Spezies, von ihm „die Erbauer“ genannt, kam Jahrzehnte zuvor in einem Krieg um. Torres’ Leistung, das Energiemodul anzupassen, bringt 3947 auf die Idee, dass sie ein prototypisches Energiemodul für die Konstruktion weiterer automatischer Einheiten bauen könnte, was den Robotern erlauben würde, sich „fortzupflanzen“. Captain Janeway verweigert wegen der obersten Direktive ihre Zustimmung. Daraufhin entführt 3947 Torres auf das Pralor-Schiff, auf dem er stationiert ist und dessen Feuerkraft der der Voyager überlegen ist. Torres erklärt sich bereit, einen Prototyp zu bauen, um die Voyager zu retten. Die Konstruktion ist erfolgreich, aber als der Prototyp fertig ist, wird das Pralor-Schiff von einem anderen Raumschiff angegriffen, dessen Besatzung ebenfalls nur aus Robotern besteht. Deren Erbauer, die Cravic, führten mit den Pralor Krieg. Sie leben auch nicht mehr ‒ die Erbauer haben einen Waffenstillstand geschlossen und wollten ihre Kampfroboter vernichten, darum haben die Roboter sie vernichtet. Als Torres das erfährt, zerstört sie den Prototyp. Lieutenant Paris beamt sie in ein Shuttle und kehrt mit ihr zur Voyager zurück."
 					}
 				},
 				{
@@ -1305,9 +1313,13 @@
 					"abstract": {
 						"en": "Tom Paris breaks the transwarp barrier in the Shuttlecraft Cochrane, designed to reach warp 10, but he begins to evolve."
 					},
+					"description": {
+						"de": "Tom experimentiert mit Technik, um Warp 10 zu erreichen. Hierzu simuliert er einen Shuttleflug, bei dem er bis auf Warp 9,95 beschleunigen kann, bevor das Shuttle zerrissen wird. im Kasino sprechen Tom, B’Elanna und Harry über die Situation und darüber, dass Warp 10 bisher als technisch unmöglich gilt. Die Theorie sagt, bei Warp 10 sei man an jedem Punkt im Universum gleichzeitig. Harry und Tom erarbeiten eine mögliche Lösung und bei der Simulation eines weiteren Flugs gelingt es Tom tatsächlich, Warp 10 zu erreichen. Die gesammelten Daten werden Janeway vorgelegt, die, anders als ursprünglich, Warp 10 für grundsätzlich machbar hält. Ein echtes Shuttle soll entsprechend modifiziert und für einen Testflug genutzt werden. Entgegen dem ursprünglichen Plan, Tom als Pilot einzusetzen, empfiehlt der Doktor den Transwarpflug mit Harry durchzuführen, da Tom mit einer sehr geringen Wahrscheinlichkeit beim Flug eine Gehirnblutung erleiden kann. Tom schafft es aber, Janeway davon zu überzeugen, ihn als Pilot einzusetzen. Als er dann wenig später mit dem Shuttle den ersten Transwarpflug der Geschichte durchführt, verschwindet das Shuttle von den Sensoren der Voyager. Auch nach mehreren ausgeweiteten Sensorsuchen kann es nicht wieder geortet werden, somit wird der Transwarpflug als erfolgreich angesehen. Kurz darauf erscheint das Shuttle wieder neben der Voyager. Tom ist an Bord, allerdings mit sehr schwachen Lebenszeichen. Janeway beamt ihn direkt auf die Krankenstation, Tom hat aber nur geschlafen und scheint ansonsten gesund zu sein. Auch das Shuttle ist in Ordnung, die Logbücher bestätigen die Theorie, dass Tom an jedem Punkt im Universum war, der gesamte Sektor ist kartographiert. Crewman Jonas, der ein ehemaliger Maquis und Sympathisant der Kazon ist, belauscht die ganze Unterhaltung mit großem Interesse. Kurze Zeit später beginnt Tom seltsame Symptome zu zeigen. Er ist plötzlich allergisch gegen Wasser und benötigt ein spezielles Luft-Gemisch, da seine Lungen keine normale Luft mehr atmen können. Auf der Krankenstation erklärt der Doktor, dass er nichts mehr für Tom tun kann und dieser sterben wird. In der Nacht liegt Tom plötzlich wieder gesundet in seinem Bett. Eine Untersuchung zeigt, dass sich seine DNA komplett neu schreibt und er über ein zweites Herz verfügt. Er verändert sich immer stärker, sein Gesicht ist entstellt, die Haut blass und feucht, die Haare fallen aus. Tom erklärt, das Schiff verlassen zu wollen, weil alle ihn hassen und ihm niemand trauen würde. Der Doktor erklärt Toms Mutation damit, dass er Millionen von Jahren der Evolution in nur 24 Stunden durchlaufen habe. Er müsse Antiprotonen ausgesetzt werden, um die mutierte DNA zu zerstören und den Prozess damit umzukehren. Durch die Mutation gelingt es Tom aber, das modifizierte Shuttle zu stehlen und gemeinsam mit der gekidnappten Janeway von der Voyager zu fliehen. Das Shuttle kann auf einem Planeten geortet werden und Chakotay und Tuvok beamen auf dorthin, um die beiden zu holen. Sie finden aber nur zwei Amphibien in einem trüben Teich, in denen menschliche DNA gescannt werden kann. In der näheren Umgebung finden sich drei weitere kleinere dieser Kreaturen, die schnell in den Tümpel schlittern. Zurück auf der Voyager kann der Doktor die Verwandlung von Tom und Janeway mittels Antiprotonen rückgängig machen. Es wird entschieden, dass die Nachkommen auf dem Planeten verbleiben sollen und dass die Transwarp-Technologie noch nicht ausgereift genug ist. Weiterhin hat Jonas die Kazon kontaktiert und ihnen alle Daten und Informationen über den Transwarpflug durchgegeben."
+					},
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1321,6 +1333,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Worst Episodes Ever",
 							"creator": {
 								"@type": "Person",
@@ -1437,6 +1450,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1480,7 +1494,7 @@
 						"en": "The Doctor helps a Phage-ridden Vidiian woman."
 					},
 					"description": {
-						"de": "Aus einem Raumschiff, das einen Notruf sendet, rettet die Voyager-Besatzung Dr. Danara Pel, eine vidiianische Ärztin, deren Leben durch die Fresszelle akut bedroht ist. Der Doktor erschafft einen holografischen Körper für sie, der ihn bei ihrer weiteren Behandlung unterstützt. Er transplantiert Nervengewebe von B’Elanna Torres, die erst nach einem Gespräch mit Danara dazu bereit ist. Nach und nach verliebt der Doktor sich in Danara, und sie erwidert seine Gefühle. Nach anfänglichen Schwierigkeiten folgt mit Kes’ und Tom Paris’ Hilfe ein Date auf dem Holodeck, und sie beginnen eine Beziehung. – Inzwischen ist Tom mehrmals zu spät zum Dienst erschienen und hat sich respektlos verhalten. Nach einem Eklat zwischen ihm und Chakotay kommt er in den Arrest. – Michael Jonas wird unterdessen von Seska beauftragt, die Warpspulen zu beschädigen, damit die Kazon-Nistrim der Voyager-Crew auf dem Planeten Hemikek IV eine Falle stellen können. – Danara ist überzeugt, dass der Doktor sie nur als gesundes Hologramm anziehend findet, und versucht deshalb, ihren kranken Körper zu vergiften. Der Doktor versichert ihr, dass sie sich irrt, und sie führen ihre Beziehung fort, nachdem sie in ihren eigenen Körper zurückgekehrt ist. Ihr Leben ist nicht mehr unmittelbar bedroht, und nach einigen Wochen setzt die Voyager sie in ihrer Heimatkolonie ab, damit sie weiterhin ihrem Volk helfen kann."
+						"de": "Aus einem Raumschiff, das einen Notruf sendet, rettet die Voyager-Besatzung Dr. Danara Pel, eine vidiianische Ärztin, deren Leben durch die Fresszelle akut bedroht ist. Der Doktor erschafft einen holografischen Körper für sie, der ihn bei ihrer weiteren Behandlung unterstützt. Er transplantiert Nervengewebe von B’Elanna Torres, die erst nach einem Gespräch mit Danara dazu bereit ist. Nach und nach verliebt der Doktor sich in Danara, und sie erwidert seine Gefühle. Nach anfänglichen Schwierigkeiten folgt mit Kes’ und Tom Paris’ Hilfe ein Date auf dem Holodeck, und sie beginnen eine Beziehung. – Inzwischen ist Tom mehrmals zu spät zum Dienst erschienen und hat sich respektlos verhalten. Nach einem Eklat zwischen ihm und Chakotay kommt er in den Arrest. – Michael Jonas wird unterdessen von Seska beauftragt, die Warpspulen zu beschädigen, damit die Kazon-Nistrim der Voyager-Crew auf dem Planeten Hemikek IV eine Falle stellen können. – Danara ist überzeugt, dass der Doktor sie nur als gesundes Hologramm anziehend findet, und versucht deshalb, ihren kranken Körper zu vergiften. Der Doktor versichert ihr, dass sie sich irrt, und sie führen ihre Beziehung fort, nachdem sie in ihren eigenen Körper zurückgekehrt ist. Ihr Leben ist nicht mehr unmittelbar bedroht, und nach einigen Wochen setzt die Voyager sie in ihrer Heimatkolonie ab, damit sie weiterhin ihrem Volk helfen kann."
 					}
 				},
 				{
@@ -1514,7 +1528,7 @@
 						"en": "Neelix tries to flush out the traitor on board who has been colluding with the Kazon Nistrim."
 					},
 					"description": {
-						"de": "Tom Paris verlässt die Voyager und heuert auf einem talaxianischen Schiff an, wird aber bald darauf von den Kazon-Nistrim entführt. Seska will Informationen von ihm, die den Kazon helfen sollen, die Voyager zu übernehmen. Sie deutet an, dass sie einen Spion auf dem Schiff haben. Inzwischen hat überhitztes Plasma die Warpspulen beschädigt, so dass Voyager zum Hemikek-System fliegen muss, um Material für neue Spulen zu erwerben. Neelix nimmt an, dass Paris den Kazon nicht zufällig in die Hände gefallen ist, und schließt daraus, dass es einen Verräter auf der Voyager gibt. Er untersucht die Subraum­kommunikations­logbücher und findet Lücken, die auf Löschungen hindeuten könnten. Als er Tuvok informiert, will der die Sache verfolgen und verbietet Neelix weitere Nachforschungen. Der ermittelt allerdings weiter, verfolgt eine der Botschaften zu ihrem scheinbaren Ursprung ‒ Paris’ Quartier ‒ und berichtet darüber in seinem neuen Programm „Briefing mit Neelix“. Tuvok entlarvt die Spur als falsch. Er und Janeway erklären, dass Paris sich absichtlich gefangen nehmen ließ, um herauszufinden, welches Besatzungsmitglied der Voyager den Kazon heimlich Nachrichten sendet. Neelix soll weiter ermitteln, um den Spion nervös zu machen. Währenddessen entnimmt Paris den Aufzeichnungen der Kommunikation zwischen Kazon und Voyager, dass Michael Jonas der Verräter ist und dass die Kazon der Voyager-Crew auf Hemikek IV eine Falle gestellt haben. Paris flieht vom Kazon-Schiff und informiert die Voyager über Jonas. Der riegelt den Maschinenraum ab und deaktiviert die Waffensysteme, aber Neelix tötet ihn im Zweikampf."
+						"de": "Tom Paris verlässt die Voyager und heuert auf einem talaxianischen Schiff an, wird aber bald darauf von den Kazon-Nistrim entführt. Seska will Informationen von ihm, die den Kazon helfen sollen, die Voyager zu übernehmen. Sie deutet an, dass sie einen Spion auf dem Schiff haben. Inzwischen hat überhitztes Plasma die Warpspulen beschädigt, so dass Voyager zum Hemikek-System fliegen muss, um Material für neue Spulen zu erwerben. Neelix nimmt an, dass Paris den Kazon nicht zufällig in die Hände gefallen ist, und schließt daraus, dass es einen Verräter auf der Voyager gibt. Er untersucht die Subraum­kommunikations­logbücher und findet Lücken, die auf Löschungen hindeuten könnten. Als er Tuvok informiert, will der die Sache verfolgen und verbietet Neelix weitere Nachforschungen. Der ermittelt allerdings weiter, verfolgt eine der Botschaften zu ihrem scheinbaren Ursprung ‒ Paris’ Quartier ‒ und berichtet darüber in seinem neuen Programm „Briefing mit Neelix“. Tuvok entlarvt die Spur als falsch. Er und Janeway erklären, dass Paris sich absichtlich gefangen nehmen ließ, um herauszufinden, welches Besatzungsmitglied der Voyager den Kazon heimlich Nachrichten sendet. Neelix soll weiter ermitteln, um den Spion nervös zu machen. Währenddessen entnimmt Paris den Aufzeichnungen der Kommunikation zwischen Kazon und Voyager, dass Michael Jonas der Verräter ist und dass die Kazon der Voyager-Crew auf Hemikek IV eine Falle gestellt haben. Paris flieht vom Kazon-Schiff und informiert die Voyager über Jonas. Der riegelt den Maschinenraum ab und deaktiviert die Waffensysteme, aber Neelix tötet ihn im Zweikampf."
 					}
 				},
 				{
@@ -1613,10 +1627,12 @@
 						"name": "Marvin V. Rush"
 					},
 					"abstract": {
-						"en": "The crew finds aliens mentally connected to a computer that has created a being that feeds on their fear."
+						"en": "The crew finds aliens mentally connected to a computer that has created a being that feeds on their fear.",
+						"de": "Die Besatzung findet Außerirdische, die geistig mit einem Computer verbunden sind, den ein Wesen geschaffen hat, das sich von ihrer Angst ernährt."
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1694,7 +1710,7 @@
 						"en": "Janeway and Chakotay must adapt to life quarantined on a planet after they contract an incurable disease. Meanwhile, the Voyager crew risk their lives to seek out a possible cure from the Vidiians."
 					},
 					"description": {
-						"de": "Ein potentiell tödliches Virus zwingt Janeway und Chakotay, die Voyager zu verlassen und sich auf einem unbewohnten Planeten niederzulassen, wo sie vor den Auswirkungen des Virus geschützt sind. Da der Doktor kein Heilmittel findet, setzt die von Tuvok kommandierte Voyager ihre Reise zum Alpha-Quadranten fort. Janeway und Chakotay leben zu zweit und kommen einander näher. Auf die dringende Bitte von Harry Kim, Kes und weiteren Besatzungsmitgliedern missachtet Tuvok Janeways striktes Verbot, die Vidiianer zu kontaktieren, die über immenses medizinisches Wissen verfügen. Dr. Pel, deren Leben der Doktor einige Wochen zuvor gerettet hatte, stellt ein Heilmittel zur Verfügung. Vidiianische Schiffe greifen die Voyager an, können aber abgewehrt werden. Nach ihrer Heilung geben Janeway und Chakotay ihr Leben zu zweit auf und gehen wieder an Bord."
+						"de": "Ein potentiell tödliches Virus zwingt Janeway und Chakotay, die Voyager zu verlassen und sich auf einem unbewohnten Planeten niederzulassen, wo sie vor den Auswirkungen des Virus geschützt sind. Da der Doktor kein Heilmittel findet, setzt die von Tuvok kommandierte Voyager ihre Reise zum Alpha-Quadranten fort. Janeway und Chakotay leben zu zweit und kommen einander näher. Auf die dringende Bitte von Harry Kim, Kes und weiteren Besatzungsmitgliedern missachtet Tuvok Janeways striktes Verbot, die Vidiianer zu kontaktieren, die über immenses medizinisches Wissen verfügen. Dr. Pel, deren Leben der Doktor einige Wochen zuvor gerettet hatte, stellt ein Heilmittel zur Verfügung. Vidiianische Schiffe greifen die Voyager an, können aber abgewehrt werden. Nach ihrer Heilung geben Janeway und Chakotay ihr Leben zu zweit auf und gehen wieder an Bord."
 					}
 				},
 				{
@@ -1818,6 +1834,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Trek Legend Guest Stars Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2066,6 +2083,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2151,6 +2169,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2365,6 +2384,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2545,6 +2565,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Not Actually Trek, Actually",
 						"creator": {
 							"@type": "Person",
@@ -2660,6 +2681,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2759,6 +2781,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2946,6 +2969,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -3061,6 +3085,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -3743,6 +3768,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -3886,6 +3912,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -4089,6 +4116,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Holodeck Episodes",
 						"creator": {
 							"@type": "Person",
@@ -4226,6 +4254,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -4491,6 +4520,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -5129,6 +5159,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | More Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -5244,6 +5275,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -5547,6 +5579,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Borg Episodes",
 						"creator": {
 							"@type": "Person",
@@ -5598,6 +5631,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -6121,6 +6155,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6206,6 +6241,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Q Episodes",
 						"creator": {
 							"@type": "Person",
@@ -6253,6 +6289,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",

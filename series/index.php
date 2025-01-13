@@ -385,7 +385,7 @@ EOT;
 										<?php if ($episode['review']): ?>
 											<?php if ($episode['review']['video']): ?>
 												<td property="review" typeof="Review">
-													<details lang="en" property="video" typeof="VideoObject">
+													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 														<summary
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 															<?php if ($episode['review']['name']): ?>
@@ -410,6 +410,9 @@ EOT;
 																	))
 																?>)</span>
 															<?php endif; ?>
+															<?php if ($episode['review']['inLanguage'] != 'en'): ?>
+																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
+															<?php endif; ?>
 														</summary>
 														<meta
 															property="embedUrl"
@@ -429,7 +432,7 @@ EOT;
 														<?php foreach ($episode['review'] as $review): ?>
 															<li property="review" typeof="Review">
 																<details
-																	lang="en"
+																	lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
 																	property="video"
 																	typeof="VideoObject"
 																	name="review-<?= htmlSpecialChars($episode['@identifier']) ?>"
@@ -455,6 +458,9 @@ EOT;
 																				htmlSpecialChars(parse_url(
 																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
 																			?>)</span>
+																		<?php endif; ?>
+																		<?php if ($review['inLanguage'] != 'en'): ?>
+																			<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																		<?php endif; ?>
 																	</summary>
 																	<meta
@@ -485,7 +491,7 @@ EOT;
 										</th>
 										<?php if ($season['review']['video']): ?>
 											<td property="review" typeof="Review">
-												<details lang="en" property="video" typeof="VideoObject">
+												<details lang="<?= htmlspecialchars($season['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 													<summary
 														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 														<?php if ($season['review']['name']): ?>
@@ -511,6 +517,9 @@ EOT;
 																<?php endforeach; ?>
 															<?php endif; ?>
 														<?php endif; ?>
+														<?php if ($season['review']['inLanguage'] != 'en'): ?>
+															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
+														<?php endif; ?>
 													</summary>
 													<meta
 														property="embedUrl"
@@ -530,7 +539,7 @@ EOT;
 													<?php foreach ($season['review'] as $review): ?>
 														<li property="review" typeof="Review">
 															<details
-																lang="en"
+																lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
 																property="video"
 																typeof="VideoObject"
 																name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>"
@@ -559,6 +568,9 @@ EOT;
 																				</span>
 																			<?php endforeach; ?>
 																		<?php endif; ?>
+																	<?php endif; ?>
+																	<?php if ($review['inLanguage'] != 'en'): ?>
+																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																	<?php endif; ?>
 																</summary>
 																<meta

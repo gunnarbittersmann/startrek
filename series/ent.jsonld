@@ -121,6 +121,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -180,6 +181,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Grab Bag",
 						"creator": {
 							"@type": "Person",
@@ -460,6 +462,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -835,6 +838,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -1696,6 +1700,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -2563,6 +2568,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Borg Episodes",
 							"creator": {
 								"@type": "Person",
@@ -2576,6 +2582,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -3149,6 +3156,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Alternate Timelines",
 						"creator": {
 							"@type": "Person",
@@ -3287,6 +3295,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -3572,6 +3581,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Orphans!",
 						"creator": {
 							"@type": "Person",
@@ -4080,6 +4090,21 @@
 					},
 					"description": {
 						"de": "Im Borderland, einer von Kriminalität geprägten Region an der Grenze zum klingonischen Reich, entführen sogenannte Augments ein klingonisches Raumschiff. Die Augments sind Menschen, die einst vom Wissenschaftler Dr. Soong gentechnisch verändert und für die Kampfführung in den eugenischen Kriegen optimiert wurden. Archer nimmt die Hilfe des in menschlicher Gefangenschaft lebenden Soong in Anspruch, um die Augments zur Erde zurückzuholen und zu verhindern, dass es zu einem Krieg mit den auf Vergeltung drängenden Klingonen kommt. Raakin, der Anführer der Augments, wird von seinem gegen ihn opponierenden „Bruder“ Malik getötet. Mitglieder des Orion-Syndikats entführen neun Enterprise-Besatzungsmitglieder, um sie zu versklaven. Mit Soongs Hilfe holen Archer und seine Crew die Entführten auf die Enterprise zurück. Weil Soong bei der Befreiungsaktion zu fliehen versuchte, wird Archer klar, dass er die Entführungsaktion mitgeplant hatte. Wenig später befreien Malik und seine Gefolgsleute Soong von Bord der Enterprise. Der von ihnen als Vater und Erschaffer bewunderte Soong beabsichtigt, weitere Augment-Embryonen ausbrüten zu lassen und mit ihnen eine neue Welt aufzubauen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | The Augments",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-01-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/q9fQLy4I4Tg"
+						}
 					}
 				},
 				{
