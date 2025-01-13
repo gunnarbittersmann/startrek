@@ -3659,20 +3659,37 @@
 					"abstract": {
 						"de": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Labor Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2021-04-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BPVXrVRHmlw"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/3WmgCm82xP4"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Labor Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3WmgCm82xP4"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
