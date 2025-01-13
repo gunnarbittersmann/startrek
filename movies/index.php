@@ -277,7 +277,7 @@
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
-											<details lang="en" property="video" typeof="VideoObject">
+											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 													<?php if ($movie['review']['name']): ?>
@@ -310,7 +310,12 @@
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
-														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
+														<details
+															lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
+															property="video"
+															typeof="VideoObject"
+															name="review-<?= htmlSpecialChars($movie['@identifier']) ?>"
+														>
 															<summary
 																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 																<?php if ($review['name']): ?>
