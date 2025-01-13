@@ -36,6 +36,21 @@
 			"url": "https://de.wikipedia.org/wiki/Die_Enterprise"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Trek, Actually",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#SteveShives",
+			"name": "Steve Shives"
+		},
+		"datePublished": "2019-09-18",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Ojt7fsu2t_k"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
