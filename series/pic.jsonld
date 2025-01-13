@@ -406,6 +406,28 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/qodJuNueARs"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.5" }
+							],
+							"datePublished": "2020-02-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/XhH3tXdoPSI"
+							}
 						}
 					]
 				},
@@ -746,6 +768,28 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/G-i_L2UshVg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.8" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#1.10" }
+							],
+							"datePublished": "2020-04-01",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KELONnIcUfk"
 							}
 						}
 					]
