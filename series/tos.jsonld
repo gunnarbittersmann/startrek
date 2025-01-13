@@ -153,6 +153,7 @@
 			"review": {
 				"@type": "Review",
 				"inLanguage": "de",
+				"name": "Ersteindruck",
 				"creator": {
 					"@type": "Person",
 					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
