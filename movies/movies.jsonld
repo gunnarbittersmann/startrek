@@ -110,6 +110,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pbR779ClQ3E"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vtSAstQfB2o"
+							}
 						}
 					]
 				},
@@ -173,19 +188,36 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_II:_Der_Zorn_des_Khan"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ONmh2mga-tY"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -232,19 +264,36 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_III:_Auf_der_Suche_nach_Mr._Spock"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/V3cFcbBV3hM"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -323,19 +372,36 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_IV:_Zur%C3%BCck_in_die_Gegenwart"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hZ6ChePDvj8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -402,19 +468,36 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_V:_Am_Rande_des_Universums"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/rw2kEOubwF8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -513,6 +596,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/PyM0gxCv2yc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Wr3Jt7GYHyE"
 							}
 						}
 					]
