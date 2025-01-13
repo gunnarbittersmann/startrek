@@ -25,5 +25,39 @@
 			},
 			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(TV_series)"
 		}
+	],
+	"containsSeason": [
+		{
+			"@type": "TVSeason",
+			"seasonNumber": 1,
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/sfa#1.1",
+					"episodeNumber": "1.1",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Alex Kurtzman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Gaia Violo"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/sfa#1.2",
+					"episodeNumber": "1.2",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Alex Kurtzman"
+					}
+				}
+			]
+		}
 	]
 }
