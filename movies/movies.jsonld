@@ -388,6 +388,21 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-12-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7_TvyvUnZEE"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Ersteindruck",
 							"creator": {
