@@ -80,11 +80,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Not Actually Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2020-10-14",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/WfETUfm6CNM"
@@ -704,11 +706,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Not Actually Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2021-10-27",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/9ISyCsIv9-o"

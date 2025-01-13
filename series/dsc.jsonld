@@ -78,6 +78,7 @@
 			],
 			"review": {
 				"@type": "Review",
+				"name": "Trek, Actually",
 				"inLanguage": "en",
 				"creator": {
 					"@type": "Person",
@@ -1307,6 +1308,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1663,6 +1665,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1728,11 +1731,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Not Actually Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2021-01-13",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/OdwjBXODO2c"
@@ -3618,11 +3623,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2024-06-05",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/hexhOT3mIzI"
