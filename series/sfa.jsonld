@@ -1,0 +1,29 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
+	},
+	"@type": "TVSeries",
+	"name": "Star Trek: Starfleet Academy",
+	"identifier": "SFA",
+	"inLanguage": "en",
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(TV_series)"
+		}
+	]
+}
