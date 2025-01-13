@@ -5611,6 +5611,21 @@
 					},
 					"abstract": {
 						"de": "Als Ishka einen Herzinfarkt erleidet, muss sie Quark in Verhandlungen mit der Ferengi-Handelsbehörde ersetzen, wofür sich Quark zeitweise in eine Ferengi-Weibliche umwandeln lässt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2023-01-13",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/W3O0YayxpNA"
+						}
 					}
 				},
 				{
