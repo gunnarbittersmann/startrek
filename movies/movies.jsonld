@@ -101,6 +101,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -192,6 +193,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -268,6 +270,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -376,6 +379,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -487,6 +491,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -605,6 +610,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -728,6 +734,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -814,6 +821,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -889,6 +897,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -983,6 +992,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1082,6 +1092,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1154,6 +1165,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -1220,6 +1232,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
