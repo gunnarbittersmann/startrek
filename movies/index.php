@@ -217,23 +217,32 @@
 										<?php endif; ?>
 									<?php endif; ?>
 								<?php endif; ?>
-								<?php if ($movie['description'] || $movie['abstract']): ?>
+								<?php if ($movie['description'] || $movie['abstract'] || $movie['subjectOf']): ?>
 									<?php
-										$plotType = ($movie['description']) ? 'description' : 'abstract';
-										$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+										$hasPlot = ($movie['description'] || $movie['abstract']);
+										if ($hasPlot) {
+											$plotType = ($movie['description']) ? 'description' : 'abstract';
+											$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+										}
 									?>
 									<td>
 										<details lang="<?= htmlSpecialChars($plotLang) ?>">
 											<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>">
-												<?php if ($plotLang == 'de'): ?>
-													Handlung
+												<?php if ($hasPlot): ?>
+													<?php if ($plotLang == 'de'): ?>
+														Handlung
+													<?php else: ?>
+														Plot
+													<?php endif; ?>
 												<?php else: ?>
-													Plot
+													Links
 												<?php endif; ?>
 											</summary>
-											<p property="<?= htmlSpecialChars($plotType) ?>">
-												<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
-											</p>
+											<?php if ($hasPlot): ?>
+												<p property="<?= htmlSpecialChars($plotType) ?>">
+													<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
+												</p>
+											<?php endif; ?>
 											<?php if ($movie['subjectOf']): ?>
 												<p>
 													<?php if ($plotLang == 'de'): ?>

@@ -307,25 +307,34 @@ EOT;
 												<td></td>
 											<?php endif; ?>
 										<?php endif; ?>
-										<?php if ($episode['description'] || $episode['abstract']): ?>
+										<?php if ($episode['description'] || $episode['abstract']) || $episode['subjectOf']): ?>
 											<?php
-												$plotType = ($episode['description']) ? 'description' : 'abstract';
-												$plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
+												$hasPlot = ($episode['description'] || $episode['abstract']);
+												if ($hasPlot) {
+													$plotType = ($episode['description']) ? 'description' : 'abstract';
+													$plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
+												}
 											?>
 											<td>
 												<details lang="<?= htmlSpecialChars($plotLang) ?>">
 													<summary
 														aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>"
 													>
-														<?php if ($plotLang == 'de'): ?>
-															Handlung
+														<?php if ($hasPlot): ?>
+															<?php if ($plotLang == 'de'): ?>
+																Handlung
+															<?php else: ?>
+																Plot
+															<?php endif; ?>
 														<?php else: ?>
-															Plot
+															Links
 														<?php endif; ?>
 													</summary>
-													<p property="<?= htmlSpecialChars($plotType) ?>">
-														<?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
-													</p>
+													<?php if ($hasPlot): ?>
+														<p property="<?= htmlSpecialChars($plotType) ?>">
+															<?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
+														</p>
+													<?php endif; ?>
 													<?php if ($episode['subjectOf']): ?>
 														<p>
 															<?php if ($plotLang == 'de'): ?>

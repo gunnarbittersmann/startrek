@@ -358,6 +358,10 @@ summary {
 	outline: none;
 }
 
+p:not([property]):only-of-type {
+    text-align: end;
+}
+
 .review-range,
 .review-lang {
 	font-size: 0.8em;
