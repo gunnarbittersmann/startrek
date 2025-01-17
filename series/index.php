@@ -307,7 +307,7 @@ EOT;
 												<td></td>
 											<?php endif; ?>
 										<?php endif; ?>
-										<?php if ($episode['description'] || $episode['abstract']) || $episode['subjectOf']): ?>
+										<?php if ($episode['description'] || $episode['abstract'] || $episode['subjectOf']): ?>
 											<?php
 												$hasPlot = ($episode['description'] || $episode['abstract']);
 												if ($hasPlot) {
