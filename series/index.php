@@ -410,7 +410,7 @@ EOT;
 																	))
 																?>)</span>
 															<?php endif; ?>
-															<?php if ($episode['review']['inLanguage'] != 'en'): ?>
+															<?php if ($episode['review']['inLanguage'] && $episode['review']['inLanguage'] != 'en'): ?>
 																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
 															<?php endif; ?>
 														</summary>

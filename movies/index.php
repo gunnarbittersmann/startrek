@@ -290,7 +290,7 @@
 															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
 														</span>
 													<?php endif; ?>
-													<?php if ($movie['review']['inLanguage'] != 'en'): ?>
+													<?php if ($movie['review']['inLanguage'] && $movie['review']['inLanguage'] != 'en'): ?>
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
