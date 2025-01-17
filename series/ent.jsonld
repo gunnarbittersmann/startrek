@@ -4147,6 +4147,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | The Augments",
 						"creator": {
 							"@type": "Person",
