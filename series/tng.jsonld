@@ -3587,7 +3587,13 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
+						"en": "Picard is rescued from the Borg as the Enterprise races to save Earth. Data interfaces with the half-Borg Picard and finds a way to shut down the Borg ship.",
 						"de": "Auf ihrem Flug zur Erde schlagen die Borg eine Flotte aus Sternenflottenraumschiffen vernichtend. Der Enterprise-Crew gelingt es aber in letzter Sekunde, die Borg von der Assimilation der Erde abzuhalten. Dabei kann sie auch Picard zurückholen."
 					},
 					"review": [
@@ -3668,6 +3674,14 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"abstract": {
+						"en": "While the Enterprise is undergoing repairs at Earth, Captain Picard visits his brother’s family in France, Lt. Worf’s adoptive human parents come to see him aboard the ship, and Dr. Crusher gives her son Wesley a personal holo-recording left by his late father shortly after his birth."
+					},
 					"description": {
 						"de": "Die Enterprise befindet sich zu Reparaturzwecken angedockt an einer Raumstation im Erdorbit. Währenddessen erhält Worf auf der Enterprise Besuch von seinen Adoptiveltern, dabei geht es auch um die Entehrung seines Hauses. Dr. Crusher lässt Wesley eine holografische Botschaft seines lange toten Vaters ansehen. Unterdessen ist Picard in Frankreich zu Besuch bei seiner Familie; darunter ist auch sein Bruder, mit dem er sich vor Jahren einst zerstritten hatte. Der Streit flammt erneut auf; zudem erhält Picard das Angebot, statt in der Sternenflotte an einem wissenschaftlichen Projekt auf der Erde mitzuarbeiten. Das Angebot lehnt er schließlich ab und nachdem der Streit mit seinem Bruder ausgestanden ist, kehrt er auf die Enterprise zurück."
 					}
@@ -3711,6 +3725,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RickBerman",
+						"name": "Rick Berman"
+					},
+					"abstract": {
+						"en": "Data is summoned by his creator Noonien Soong. They are joined by Data’s brother, Lore."
+					},
 					"description": {
 						"de": "Während die Enterprise einen kleinen Jungen, der an einer gefährlichen Krankheit leidet, zur weiteren Behandlung zu einer Raumstation bringt, übernimmt Data plötzlich und unangekündigt das Kommando über das Schiff, das er sodann zu einem Planeten fliegt. Dort hinunter gebeamt, trifft er seinen Erschaffer, Dr. Noonian Soong. Wie dieser Data erklärt, hat er Data zu sich gerufen, um Data seinen neu entwickelten Emotionschip zu installieren. Beide werden jedoch überrascht durch Datas Bruder Lore, der mit einem Täuschungsmanöver Data alsbald außer Betrieb setzt, den Chip in sich selbst integrieren lässt und flieht. Die Enterprise-Crew konnte unterdessen das Kommando über das Schiff zurückerlangen. Ein Außenteam gelangt in Soongs Haus, wo es Data und den durch Lore schwer verletzten, sterbenden Soong vorfindet. Data wird wieder aktiviert, die Enterprise kann ihren Flug zur Raumstation fortsetzen."
 					}
@@ -3753,6 +3775,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
 						"name": "Gabrielle Beaumont"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnWhelpley",
+							"name": "John Whelpley"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RalphPhillips",
+							"name": "Ralph Phillips"
+						}
+					},
+					"abstract": {
+						"en": "Picard must help a human boy, raised by aliens, to decide his fate."
 					},
 					"description": {
 						"de": "Die Enterprise findet ein treibendes talarianisches Raumschiff im All, an Bord befinden sich vier Talarianer und ein Mensch. Letzterer nennt sich Jono, den Talarianer im Kindesalter entführt hatten, nachdem sie bei einem Überfall auf eine Kolonie seine Eltern ermordet hatten. Daraufhin hatte ihn der Talarianer Endar als Ersatz für seinen eigenen, gestorbenen Sohn adoptiert. Picard stellt Jono vor die Wahl, zu seinen menschlichen Großeltern oder zu Endar zurückzukehren, der mit einem Krieg droht, falls er Jono nicht zurückerhält. Mit der Entscheidung überfordert und deshalb seine eigene Hinrichtung provozierend, versucht Jono, Picard zu ermorden, welcher aber verletzt überlebt. Daraufhin lässt Picard Jono zu Endar zurückkehren."
@@ -3811,6 +3856,14 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeeSheldon",
+						"name": "Lee Sheldon"
+					},
+					"abstract": {
+						"en": "After an apparent failure of a warp-field experiment, people begin to disappear from the Enterprise with only Dr. Crusher remembering that they ever existed."
+					},
 					"description": {
 						"de": "Nachdem Dr. Crusher einen alten Freund, ihren Mentor Dr. Quaice, an Bord begrüßt hat, unterläuft Wesley in ihrem Beisein bei einem Experiment mit dem Warp-Antrieb ein Malheur. In der Folge dieses Vorfalls bemerkt Dr. Crusher nacheinander das unerklärliche Verschwinden von Quaice und Besatzungsmitgliedern. Als Ursache dafür stellt sich heraus, dass Dr. Crusher bei dem Unfall in ein Paralleluniversum versetzt wurde. Data, La Forge und der Reisende, der Wesley zu Hilfe gekommen ist, versuchen daraufhin fieberhaft, Dr. Crusher zurückzuholen, die die Versuche aber als Bedrohung wahrnimmt. Als das Paralleluniversum zu kollabieren beginnt und sie zu töten droht, bemerkt Dr. Crusher, dass ihr Gedanke zum Zeitpunkt ihres Verschwindens aus dem realen Universum verantwortlich für ihre Lage ist. Kurz vor dem Zusammenbruch der fremden Welt gelingt Dr. Crusher aber die Rückkehr."
 					},
@@ -3868,6 +3921,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
+					"abstract": {
+						"en": "Tasha Yar’s sister Ishara seeks to restore order on their conflict-ridden colony world."
+					},
 					"description": {
 						"de": "Die Enterprise trifft am Planeten Turkana 4 ein, wo die Crew Zeuge der Explosion des Föderationsraumschiffes wird, von dem sie zuvor einen Notruf empfing. Es ergibt sich, dass die zweiköpfige Besatzung des Schiffes auf dem Planeten gefangen gehalten wird, und zwar von der Allianz, bei der es sich neben der Koalition um eine von zwei dort konkurrierenden Seiten handelt. Deren Mitglieder überwachen einander mit Annäherungsdetektoren, die in ihren Körpern eingepflanzt sind. Picard nimmt das Angebot der Koalition an, der Enterprise-Crew bei der Befreiung der beiden Ingenieure zu helfen. Konkret besteht die Hilfe aus den Kenntnissen Isharas, bei der es sich um die Schwester von Tasha Yar handelt, die aufgrund des planetaren Konflikts einst von dort floh. An Bord freundet sich Ishara mit Data an, der ihr über seine gemeinsame Vergangenheit mit Tasha erzählt und ihr alsbald sein Vertrauen entgegenbringt. Unbemerkt von der Enterprise-Crew handelt Ishara aber im Auftrag der Koalition mit dem Ziel, die Annäherungsdetektoren zu vernichten und die Verteidigungsanlagen der Allianz zu deaktivieren. Ersteres gelingt ihr zwar, doch Letzteres verhindert Data, sehr zu seiner Enttäuschung über Isharas verräterisches Spiel."
 					}
@@ -3910,6 +3971,51 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ThomasPerry",
+							"name": "Thomas Perry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoPerry",
+							"name": "Jo Perry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DrewDeighan",
+								"name": "Drew Deighan"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ThomasPerry",
+								"name": "Thomas Perry"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JoPerry",
+								"name": "Jo Perry"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Worf’s former lover returns, and along with Picard, the two mediate a Klingon power dispute. Worf discovers more family."
 					},
 					"description": {
 						"de": "Die klingonische Botschafterin K’Ehleyr kommt an Bord der Enterprise und bringt zu Worfs Überraschung Alexander mit, ihren durch Worf gezeugten, jungen Sohn. Sie teilt Picard mit, dass der klingonische Führer K’mpec vergiftet wurde. Dieser bittet Picard darum, die Nachfolgezeremonie für sein Amt durchzuführen, und teilt ihm überdies seinen Verdacht mit, dass einer der beiden Herrscheranwärter, Duras und Gowron, für die Vergiftung verantwortlich ist. Als K’Ehleyr herausfindet, dass Duras’ Vater für die Kollaboration mit den Romulanern verantwortlich ist, in deren Folge beim Khitomer-Massaker einst zahlreiche Klingonen starben, wird sie von Duras ermordet, welcher wenig später aus Rache durch Worf getötet wird. Nachdem K’mpec gestorben ist, wird Gowron zum neuen Herrscher bestimmt. Worf beschließt, Alexander durch Worfs Adoptiveltern auf der Erde erziehen zu lassen."
@@ -3954,6 +4060,21 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JLarryCarroll",
+							"name": "J. Larry Carroll"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidBennettCarren",
+							"name": "David Bennett Carren"
+						}
+					],
+					"abstract": {
+						"en": "Riker finds himself sixteen years in the future. His memory of the interim is erased by a dormant virus."
+					},
 					"description": {
 						"de": "Während einer Außenmission auf einem Planeten kommt es zu einer gefährlichen Situation, in der Riker in Ohnmacht fällt. Er erwacht auf der Enterprise, wo er erfährt, dass seit dem Vorfall 16 Jahre vergangen sind und er nun Captain der Enterprise ist. Zudem erfährt er, dass Viren, die er sich bei der Außenmission einfing und die ihn erst jetzt infiziert haben, dafür verantwortlich sind, dass er sich an nichts in den 16 Jahren erinnern kann. Mittlerweile leben Föderation und Romulaner in Frieden miteinander, Picard ist Admiral und begrüßt Riker von Bord eines romulanischen Schiffes aus. Als Riker merkwürdiges Verhalten des Schiffscomputers bemerkt und er den romulanischen Botschafter Tomalak damit konfrontiert, findet sich Riker zusammen mit Tomalak plötzlich in einer holografischen Umgebung wieder. Tomalak steckt Riker in ein Gefängnis, in dem sich auch der kleine Junge befindet, den Riker auf der Enterprise zuvor als seinen Sohn kennenlernte. Nachdem dieser sich, Tomalak betreffend, in Widersprüche verwickelt, enthüllt er sein wahres Wesen als Barash, einen Außerirdischen, der sich das ganze Szenario zu Unterhaltungszwecken geschaffen hat, da er sich allein im Exil befindet."
 					}
@@ -3996,6 +4117,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
 						"name": "Corey Allen"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KaceyArnoldInce",
+							"name": "Kacey Arnold-Ince"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KaceyArnoldInce",
+							"name": "Kacey Arnold-Ince"
+						}
+					},
+					"abstract": {
+						"en": "Wesley sets off on his final mission with the Enterprise accompanied by Picard. They become stranded on a desert planet."
 					},
 					"description": {
 						"de": "Auf Picards Wunsch hin begleitet Wesley, der eine Zusage für die Aufnahme an der Sternenflottenakademie erhalten hat, Picard bei einer diplomatischen Mission. Auf dem Weg zu ihrem Ziel stürzt ihr Shuttle auf einem Mond ab, wo sie sich zusammen mit dem mitgereisten Shuttle-Piloten Dirgo auf den Weg machen, um Wasser zu suchen. In einer Höhle angekommen, entdecken sie eine Wasserquelle, die aber durch eine Energie-Barriere gesichert ist. Eigenmächtiges Verhalten Dirgos führt zu einem Felssturz, der Picard schwer verletzt, und beim Beschießen der Barriere zu Dirgos Tod. Während Wesley Picard wach zu halten versucht, findet er einen Weg, die Barriere außer Kraft zu setzen und Wasser von der Quelle abzuschöpfen. Die beiden werden schließlich durch die Crew der Enterprise gerettet, die verzögert eintraf, weil sie mit dem Aufhalten eines radioaktiv strahlenden und einen Planeten bedrohenden Frachtraumschiffes beschäftigt war."
@@ -4040,6 +4184,34 @@
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
 						"name": "Chip Chalmers"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+							"name": "Hilary J. Bader"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AllanJAdler",
+							"name": "Allan J. Adler"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#VanessaGreene",
+							"name": "Vanessa Greene"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+							"name": "Hilary J. Bader"
+						}
+					},
+					"abstract": {
+						"en": "An unknown force captures the Enterprise and causes Deanna to lose her empathic powers."
+					},
 					"description": {
 						"de": "Als die Enterprise auf ein merkwürdiges Raumphänomen trifft, verliert Troi ihre telepathischen Kräfte. Die Crew findet heraus, dass es sich bei der Erscheinung im All um eine zweidimensionale Lebensform handelt, die die Enterprise gefangen hält. Währenddessen leidet Troi so stark unter ihrer Situation, dass sie von ihrer Position als Schiffsberaterin zurücktritt. Als das Schiff durch die Lebensform in einen kosmischen String gezogen wird und dadurch zerstört zu werden droht, gelingt es Data, das Wesen zu täuschen, sodass die Crew die Enterprise befreien kann. Daraufhin erlangt Troi ihre telepathischen Fähigkeiten zurück, die durch die Lebensform unterdrückt worden waren, und nimmt ihren Dienst wieder auf."
 					}
@@ -4082,6 +4254,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
 						"name": "Robert Wiemer"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HaroldApter",
+							"name": "Harold Apter"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HaroldApter",
+							"name": "Harold Apter"
+						}
+					},
+					"abstract": {
+						"en": "Data gets dancing lessons from Dr. Crusher in preparation of Chief O’Brien’s wedding as the Enterprise brings Ambassador T’Pel to the Romulans for negotiations."
 					},
 					"description": {
 						"de": "Diese Episode wird aus der Sicht von Data erzählt, auch durch seine Stimme aus dem Off. Sie spielt am Tage von Chief O’Briens geplanter Hochzeit mit Keiko, mit der Data befreundet ist. Als Keiko die Hochzeit absagt, muss Data erkennen, dass er sich mit seiner Annahme irrt, Chief O’Brien sei über die Absage erfreut. Um bei der Hochzeit einen guten Eindruck zu machen, lässt sich Data durch Dr. Crusher im Tanzen unterrichten. Unterdessen weilt die vulkanische Botschafterin T´Pel auf der Enterprise, um Friedensverhandlungen mit den Romulanern zu begleiten. Nachdem sie erfolglos versucht, von Data Informationen bezüglich der Schiffssicherheit zu erhalten, stirbt sie augenscheinlich bei einem Transporterunfall. Data findet heraus, dass ihr Tod eine Täuschung war, und der romulanische Kommandant muss deshalb zugeben, dass T´Pel in Wirklichkeit eine romulanische Agentin ist. Die Hochzeit findet schließlich doch noch wie geplant statt."
@@ -4126,6 +4321,34 @@
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
 						"name": "Chip Chalmers"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#StuartCharno",
+								"name": "Stuart Charno"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SaraCharno",
+								"name": "Sara Charno"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#CyChermak",
+								"name": "Cy Chermak"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A rogue Starfleet Captain jeopardizes the Cardassian peace treaty."
+					},
 					"description": {
 						"de": "Das Föderationsraumschiff USS Phoenix unter dem Kommando von Chief O’Briens ehemaligem Vorgesetzten Captain Maxwell befindet sich offensichtlich auf einem Feldzug zur Vernichtung cardassianischer Raumschiffe. Weil dies den jungen Frieden zwischen cardassianischem Imperium und Föderation gefährdet, versucht Picard mit der Enterprise, Maxwell zu stoppen. Dabei wird er vom Cardassianer Gul Macet begleitet und überwacht. Zusammen erleben sie, wie die Langstreckensensoren die Vernichtung zweier weiterer cardassianischer Raumschiffe durch die Phoenix vermelden. Nachdem die Enterprise bei der Phoenix angekommen ist, teilt Maxwell gegenüber Picard mit, dass er Beweise für Aufrüstungsbemühungen der Cardassianer hätte. Von Maxwells Vorhaben, aus diesem Grund ein weiteres cardassianisches Schiff zu zerstören, kann ihn Picard nicht abbringen, wohl aber Chief O’Brien in einem persönlichen Gespräch. Picard teilt Macet schließlich mit, dass Maxwells Verdacht nicht aus der Luft gegriffen war."
 					}
@@ -4168,6 +4391,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TomBenko",
 						"name": "Tom Benko"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
+						"name": "Philip LaZebnik"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
+								"name": "Philip LaZebnik"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#WilliamDouglasLansford",
+								"name": "William Douglas Lansford"
+							}
+						]
+					},
+					"abstract": {
+						"en": "A powerful mythic figure from a millennium ago returns to enslave a planet in accordance with a contract. However, Picard is convinced she is an opportunistic charlatan."
 					},
 					"description": {
 						"de": "Nachdem die Enterprise einen Notruf von einer Föderationsforschungsstation auf dem Planeten Ventax II erhalten hat, entdeckt die Crew, dass sich die Bewohner Ardra unterworfen haben, einer teufelsähnlichen Frau, die sich offensichtlich in beliebige Lebewesen verwandeln kann. Die Ventaxianer akzeptieren Ardras Rolle, mit der einer Legende zufolge das ventaxianische Volk vor mehreren Generationen einen Vertrag geschlossen hatte, demzufolge die Bewohner in Frieden und Gesundheit leben können, wenn sie sich durch Ardra versklaven lassen. Infolge La Forges Verdacht, dass Ardra eine Betrügerin sei, erklärt sich diese dazu bereit, in einem Gerichtsprozess, in dem Data die Rolle des Richters übernimmt, ihre Identität und die Richtigkeit des Vertrages beweisen zu lassen. Picard als Ankläger argumentiert, dass die Ventaxianer für ihr Schicksal selbst verantwortlich seien, und kann Ardra als Betrügerin entlarven, nachdem er mit La Forges Hilfe bewiesen hat, dass Ardras Verwandlungskünste mit einem im Orbit getarnten Raumschiff erzeugt werden."
@@ -4212,6 +4458,29 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BruceDArthurs",
+							"name": "Bruce D. Arthurs"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BruceDArthurs",
+							"name": "Bruce D. Arthurs"
+						}
+					},
+					"abstract": {
+						"en": "The crew, with the exception of Data, is rendered unconscious for 30 seconds after going through a localized wormhole. However, various clues suggest they were unconscious for an entire day."
+					},
 					"description": {
 						"de": "Mit der Enterprise unterwegs, um einen geheimnisvollen Planeten zu untersuchen, wird die Crew durch ein plötzlich aufgetauchtes Wurmloch vorübergehend bewusstlos. Datas Angaben zufolge dauerte die Bewusstlosigkeit nur eine halbe Minute. Mehrere Merkwürdigkeiten an Bord des Schiffes, unter anderem das von Dr. Crusher festgestellte, offenbar schnellere Wachstum von Pflanzen, erhärten aber den Verdacht, dass die Bewusstlosigkeit in Wirklichkeit einen Tag lang dauerte, und damit, dass Datas Aussage falsch ist. Nachdem sich das Schiff auf Picards Befehl hin weiter dem Planeten nähert, ergreift plötzlich ein Paxaner Besitz von Troi und Data enthüllt, dass die zurückgezogen lebenden Paxaner die von ihnen als Eindringlinge gewertete Crew – wider Erwarten mit Ausnahme Datas – betäubt hatten. Um die Paxaner davon abzuhalten, die Enterprise zu zerstören, und um niemanden von der Existenz der Paxaner wissen zu lassen, erklärt sich Picard dazu bereit, die Erinnerungen der Crew an die Paxaner auslöschen zu lassen; zudem befiehlt er Data, niemandem etwas über die Paxaner zu verraten."
 					}
@@ -4254,6 +4523,44 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DennisBailey",
+							"name": "Dennis Bailey"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidBischoff",
+							"name": "David Bischoff"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MarcScottZicree",
+							"name": "Marc Scott Zicree"
+						}
+					},
+					"abstract": {
+						"en": "Riker is hospitalized during a botched pre-first contact mission. Xenophobia results in increasing hostility toward his presence."
 					},
 					"description": {
 						"de": "Riker, chirurgisch in einen Malcorianer verwandelt, wird verletzt in ein Krankenhaus auf dem Planeten Malcoria 3 eingeliefert, wo die einheimischen Ärzte alsbald feststellen, dass er zu einer ihnen fremden Spezies gehört. Riker ist Teil einer Mission der Enterprise, den Planeten zu erkunden, bevor die Föderation offiziell den ersten Kontakt herstellt. Da Rikers Verletzung und Enttarnung so nicht eingeplant waren, und um eine Panik unter den Planetenbewohnern zu verhindern, stellt Picard sich und die Angelegenheit mit der Hilfe der malcorianischen Forschungsministerin Mirasta dem malcorianischen Kanzler Durken vor. Zudem erklärt er, dass die Föderation mit der Mission einzig und allein friedliche Ziele verfolge. Von dieser Absicht ist Durkens Sicherheitschef Krola im Gegensatz zu Durken jedoch gar nicht überzeugt. Deshalb versucht er, nachdem Riker erfolglos zu fliehen versucht hat, Riker zu verhören und nimmt dabei die Gefahr in Kauf, ihn zu töten. Um Riker zu belasten und um Mirasta von ihren Zukunftsplänen abzubringen, das Weltall zu erobern, versucht sich Krola durch einen in Rikers Hand abgefeuerten Phaser töten zu lassen. Dr. Crusher kann Riker und Krola jedoch retten. Nachdem Durken von den Geschehnissen erfahren hat, entscheidet er schließlich, dass sein Volk noch nicht bereit dazu ist, von anderen Rassen im All zu erfahren. Mirasta verbleibt auf eigenen Wunsch hin auf der Enterprise."
@@ -4298,6 +4605,22 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+						"name": "Maurice Hurley"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ThomasKartozian",
+							"name": "Thomas Kartozian"
+						}
+					},
+					"abstract": {
+						"en": "The Enterprise accidentally kills a space creature, and the crew rush to save its unborn offspring. Meanwhile, Geordi meets the engineer he fell in love with and finds to his shock that she is nothing like the woman he encountered on the holodeck."
+					},
 					"description": {
 						"de": "Um La Forges Arbeitsfortschritt am Schiffsantrieb zu untersuchen, kommt die Ingenieurin Dr. Brahms an Bord, von der La Forge einst ein Abbild im Holodeck erschuf. La Forges Versuche, Brahms privat kennenzulernen, scheitern, weil sie ihm gegenüber abgeneigt ist. Zugleich begegnet die Enterprise einem riesigen, fremden Lebewesen im All, das von der Crew, das Schiff verteidigend, unbeabsichtigt getötet wird. Jedoch kann die Enterprise dem Nachwuchs des Tieres dabei helfen, sich aus dem toten Leib zu befreien. Sogleich heftet sich das Junge an die Außenhülle der Enterprise und ernährt sich von der Energie des Schiffes. La Forge und Brahms suchen daraufhin nach einem Weg, das Schiff von dem Tier zu befreien. Brahms erfährt dabei, sehr zu ihrem Unmut, von dem Holoprogramm mit ihrem Alter Ego und teilt La Forge zu dessen Enttäuschung mit, dass sie verheiratet ist. Als die Enterprise durch Artgenossen des Wesens ebenfalls als Energiequelle genutzt zu werden droht, kann erfolgreich beider Ingenieure Plan umgesetzt werden, die Enterprise aus den Fängen des Tieres zu befreien. La Forge und Brahms beschließen, Freunde zu bleiben."
 					}
@@ -4340,6 +4663,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PamelaDouglas",
+							"name": "Pamela Douglas"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShariGoodhartz",
+							"name": "Shari Goodhartz"
+						}
+					},
+					"abstract": {
+						"en": "The Enterprise is trapped in a rift, the crew succumbs to REM sleep deprivation, and Deanna has a recurring nightmare."
 					},
 					"description": {
 						"de": "Die Enterprise findet das seit langem vermisste Föderationsraumschiff Brittain treibend im All und dessen Besatzung tot vor – mit Ausnahme eines Betazoiden. La Forges Versuch, das Schiff abzuschleppen, scheitert. Zudem wird Troi von Alpträumen geplagt, in denen sie unter anderem die Aussage „Augen in der Dunkelheit“ hört. Als Ursache für diese und andere merkwürdige Vorfälle vermutet Dr. Crusher denselben Grund, aus dem die Britain-Crew starb, nämlich Traumentzug. Data hat die Hypothese, dass beide Schiffe in einen Raumspalt gezogen werden, wo nun auch die Enterprise ihrer Energie beraubt wird. Troi und Data zufolge werden Trois Albträume durch ein Raumschiff auf der anderen Seite des Raumspalts verursacht, welches Wasserstoff benötigt, damit die Enterprise und die Brittain freigegeben werden können. Als Data den Wasserstoff aus der Enterprise an das andere Schiff leiten will, ereignet sich eine Explosion, durch die die Enterprise aus dem Spalt frei kommt."
@@ -4384,6 +4730,22 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TimothyDeHaas",
+							"name": "Timothy DeHaas"
+						}
+					},
+					"abstract": {
+						"en": "Geordi transforms into an alien creature with a strong instinct to return to its planet of origin."
+					},
 					"description": {
 						"de": "La Forge erfährt von seiner früheren Kollegin Leitjen, dass die drei anderen Mitglieder ihres gemeinsamen früheren Außenteams, das einen Planeten untersuchte, verschwunden sind. Auf dem Planeten entdecken sie nur die drei Shuttles der Teammitglieder. Leitjen beginnt danach, zu einem fremden Wesen zu mutieren, und Dr. Crusher vermutet diese Verwandlung auch als Ursache für das Verschwinden der anderen Teammitglieder. Nachdem La Forge auf dem Holodeck die Landungsstelle der Shuttles auf dem Planeten nachgebildet und einen unbekannten Schatten identifiziert hat, verwandelt auch er sich zusehends in einen Außerirdischen. Während Dr. Crusher den Parasiten, der für beider Verwandlung verantwortlich ist, aus Leitjen entfernt und diese daraufhin wieder gesundet, flieht La Forge auf den Planeten. Mittlerweile vollständig in die andere Lebensform mutiert und nur im UV-Licht sichtbar, kann ihn dort die Crew der Enterprise entdecken und kann ihn Leitjen dazu überreden, sich zu stellen und den Parasiten aus sich entfernen zu lassen."
 					}
@@ -4427,6 +4789,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertLegato",
 						"name": "Robert Legato"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
+					"abstract": {
+						"en": "After an encounter with an alien probe, Barclay experiences great leaps in confidence and intelligence."
+					},
 					"description": {
 						"de": "In Vorbereitung auf die Reparatur eines defekten Teleskops werden Barclay und La Forge durch eine in der Nähe treibende Sonde vorübergehend bewusstlos. Kurz darauf beginnt Barclay, sich ausgesprochen merkwürdig zu verhalten. So macht er etwa einen Vorschlag zur Reparatur des Teleskopes, dessen Umsetzung ihn nur einen Bruchteil der sonst üblichen Zeit kostet. Es stellt sich heraus, dass Barclay zu einem weitaus weiter als die Menschen entwickelten Wesen mutiert. Dabei stellt er im Holodeck eine Verbindung zwischen seinem Gehirn und dem Computer des Schiffes her, welches er damit kontrolliert. Unter anderem versetzt er die Enterprise mit seinen neuen Kräften vorübergehend an eine 30.000 Lichtjahre entfernte Position des Alls. Kurz darauf wird die Crew mit einem Vertreter der Cytherianer konfrontiert. Dieser erklärt Barclays Transformation damit, dass er andere Kulturen studiert, indem er die Sonde verwendet, und sich mit deren Hilfe in ihre Heimat des Weltraums verbringen lässt. Als Picard einwilligt, den Cytherianern Informationen über seine Kultur zu übermitteln, macht das cytherianische Wesen Barclays Transformation rückgängig."
 					}
@@ -4469,6 +4839,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RandeeRussell",
+								"name": "Randee Russell"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+								"name": "Ira Steven Behr"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Q returns to test Picard’s love for an old flame."
 					},
 					"description": {
 						"de": "Während Föderationsarchäologen auf der Enterprise weilen, erhält Picard Besuch durch seine einstige Kurzzeitgeliebte Vash und durch Q, der beide Gespräche heimlich mitverfolgt. Um beide dazu zu bringen, sich ihre gegenseitigen Gefühle mitzuteilen, versetzt Q das Pärchen und Picards Führungsoffiziere in den mittelalterlichen Sherwood Forest auf der Erde, wo Picard alias Robin Hood auf Qs Verlangen hin, der das Geschehen in der Rolle des Sheriffs von Nottingham überwacht, Vash alias Lady Marian retten soll. Picard schafft es mithilfe seiner Crew, die Robin Hoods Gefolgsleute spielen müssen, Marian aus den Händen ihres Vermählten Sir Guy zu retten. Daraufhin versetzt Q Vash und die Crew zurück auf die Enterprise."
@@ -4527,6 +4920,14 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
+					"abstract": {
+						"en": "A witchhunt ensues for suspected Romulan spies aboard the Enterprise."
+					},
 					"description": {
 						"de": "Die bereits im Ruhestand befindliche Sternenflottenadmiralin Satie kommt an Bord, um eine Explosion aufzuklären, die sich am Warpantrieb der Enterprise ereignet hat. Verdächtigt wird zunächst der klingonische Austauschoffizier J´Dan, der jedoch leugnet, dafür verantwortlich zu sein. Saties Begleiter, der Betazoid Sabin, vermutet aufgrund seiner telepathisch empfangenen Gefühle, dass der ebenfalls verhörte Medizintechniker Simon Tarses in Bezug auf seine teilweise vulkanische Abstammung etwas zu verbergen hat. Dies veranlasst Satie zu der Absicht, Tarses als Verdächtigen für die Explosion zu verhören, obwohl Picard wegen mangelnder Beweise dagegen ist. Selbst nachdem Data und La Forge ermitteln konnten, dass die Explosion nur ein Unglück und kein Anschlag war, verfolgt Satie ihre Absicht weiter. Diese setzt sie in die Tat um, indem sie Picard übergeht und die Anklage unter Aufsicht des hinzugeholten Sternenflottenadmirals Henry fortsetzt. Picards Widerstand gegen Saties Vorgehen, das er als Standgericht beurteilt, führt dazu, dass auch Picard von Satie verhört wird. Als dabei Picard Saties Argumentation zu entkräften versucht, indem er auf ihren Vater verweist, beginnt Satie eine wilde Beschimpfungstirade. Dies veranlasst Henry dazu, sich von dem Verfahren zurückzuziehen, daraufhin wird es abgebrochen."
 					}
@@ -4569,6 +4970,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TedRoberts",
+								"name": "Ted Roberts"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+								"name": "Peter Allan Fields"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Lwaxana Troi finally finds love but discovers her man must undergo a ritualistic suicide."
 					},
 					"description": {
 						"de": "Der kaelonische Wissenschaftler Timicin kommt an Bord, um im Rahmen seiner Arbeit ein Experiment zu begleiten. Dabei wird die Sonne des Planetensystems, in dem sich sein Heimatplanet befindet, mit Photonentorpedos beschossen, um ihre Strahlkraft zu erhöhen und so vor dem Sterben zu bewahren. Doch das Experiment misslingt, die Sonne explodiert. Seine diesbezüglichen Forschungen fortzusetzen, ist ihm allerdings unmöglich, weil er bald 60 Jahre alt wird und deshalb im Rahmen der kaelonischen Tradition „Auflösung“ Suizid begehen muss, um den kaelonischen Kindern die Last des Älterwerdens zu ersparen. Lwaxana Troi, die ebenfalls an Bord weilt und sich den Führungsoffizieren mit ihrem ausgesprochen mütterlichen Verhalten als Belastung erweist, ist über Timicins Vorhaben erschüttert. Unter Verweis auf die Oberste Direktive verneint Picard Lwaxanas Bitte, zu intervenieren. Als sie sich in Timicin verliebt, überzeugt sie ihn, seine Meinung zu ändern; daraufhin erbittet Timicin Asyl auf der Enterprise, was aber die Kaelonier nicht akzeptieren können. Seine an Bord gekommene Tochter überzeugt ihn vom Gegenteil, sehr zu Lwaxanas Missfallen. Lwaxana begleitet ihn schließlich auf den Planeten, wo er sich umzubringen beabsichtigt."
@@ -4613,6 +5037,14 @@
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichelHorvat",
+						"name": "Michel Horvat"
+					},
+					"abstract": {
+						"en": "Dr. Crusher falls in love with Odan, a peace negotiator, only to discover that he is a symbiont. When his original host dies, he is implanted into Riker temporarily to finish his negotiations."
+					},
 					"description": {
 						"de": "An Bord der Enterprise befindet sich der Botschafter Odan, der zur Spezies Trill gehört, über die die Föderation bislang nur wenige Informationen hat. Odan ist als Verhandlungsführer in einem Streit zwischen den Bewohnern der Monde Peliar Alpha und Beta vorgesehen. Zudem ist er seit einiger Zeit Dr. Crushers Liebespartner. Beim Angriff eines Raumschiffes gegen das Shuttle, in dem er einen der beiden Monde zu besuchen beabsichtigt, wird er schwer verletzt. Sein Körper, so stellt sich heraus, ist ein im Sterben begriffener Wirt, der einen Symbionten beinhaltet. Der Wirtskörper stirbt und um den Symbionten zu retten, lässt ihn sich Riker freiwillig einpflanzen. Crusher hat zunächst Schwierigkeiten damit, Odan als ihren Liebhaber in Rikers Körper zu akzeptieren. Nachdem die Repräsentanten der Monde Odan in Rikers Körper akzeptiert haben, schafft es Odan in einer Marathonsitzung, den Streit zu schlichten. Dabei wird jedoch Rikers Körper stark geschwächt, sodass sich Odan daraus entfernen und in einen neu auf dem Schiff eingetroffenen, diesmal jedoch weiblichen Wirt verpflanzen lässt. Nach dem erneuten Wechsel des Wirtskörpers verliert Dr. Crusher das Interesse an Odan, der daraufhin das Schiff verlässt."
 					}
@@ -4655,6 +5087,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#KenSchafer",
+								"name": "Ken Schafer"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+								"name": "René Echevarria"
+							}
+						]
+					},
+					"abstract": {
+						"en": "The Romulans brainwash Geordi to carry out a covert mission."
 					},
 					"description": {
 						"de": "Während er mit seinem Shuttle unterwegs in den Urlaub ist, wird La Forge von den Romulanern entführt und einer Gehirnwäsche unterzogen, zudem modifizieren sie seinen Visor. Unterdessen ist die Enterprise mit dem klingonischen Botschafter Kell unterwegs, um den Vorwurf des klingonischen Gouverneurs Vagh zu untersuchen, die Sternenflotte unterstütze klingonische Rebellen. Zusammen mit Data findet der nunmehr auf die Enterprise zurückgekehrte La Forge heraus, dass Föderationswaffen, die Vagh von den Rebellen hat sicherstellen lassen, mit romulanischer Technologie manipuliert wurden. Vagh sieht seinen Vorwurf erhärtet, als ein Container voller Waffen von der Enterprise gebeamt wird – was durch La Forge ohne Wissen von Picard und Gefolgschaft durchgeführt wurde. Manipuliert wird La Forge auch durch den mit den Romulanern sympathisierenden Kell. Die Romulaner bezwecken mit der Manipulation, zu ihrem eigenen strategischen Vorteil einen Keil zwischen Föderation und klingonischem Reich zu treiben. Unterdessen hat Datas Analyse von ungewöhnlichen E-Band-Emissionen ergeben, dass diese von La Forge ausgehen und von den Romulanern zur Kommunikation mit La Forge benutzt werden. Mit dieser Erkenntnis kann schließlich Data in letzter Sekunde verhindern, dass La Forge Vagh ermordet."
@@ -4699,6 +5154,21 @@
 						"@id": "https://bittersmann.de/startrek/people#PatrickStewart",
 						"name": "Patrick Stewart"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
+					"abstract": {
+						"en": "Data participates in a romantic relationship with a fellow crew member."
+					},
 					"description": {
 						"de": "Während sie zusammenarbeiten, um einen Nebel aus dunkler Materie zu untersuchen, verlieben sich Data und Lieutenant D’Sora ineinander. Da Data noch keine Erfahrung im Führen von Liebesbeziehungen hat, holt er sich nacheinander Rat bei Guinan und Führungsoffizieren. Data zieht mit in D’Soras Quartier und bringt bzgl. der Beziehungsangelegenheiten auch Emotionen zum Ausdruck, etwa indem er ein Lied singt oder – zwecks Festigung der Beziehung – einen Ehekrach beginnt. Während die Enterprise durch den Nebel fliegt, ereignen sich merkwürdige Vorfälle: Ein Planet verschwindet und erscheint plötzlich wieder, Mobiliar von Räumen des Schiffes wird plötzlich derangiert, zudem stirbt ein Besatzungsmitglied, indem es zur Hälfte in den Fußboden eingeschlossen wird. Als Ursache ermitteln Data und Kollegen gehäuft auftretende Raumanomalien im Nebel. Um die Enterprise sicher an den Anomalien vorbei zu leiten, steuert Picard als Vorhut ein Shuttle. Kurz bevor die Enterprise den Nebel verlässt, kann Picard aus dem explodierenden Shuttle gebeamt werden. Da es D’Sora bereut, ein weiteres Mal eine Beziehung mit einem unemotionalen Mann begonnen zu haben, trennt sie sich von Data."
 					}
@@ -4741,6 +5211,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"abstract": {
+						"en": "Worf leaves the Enterprise to fight on behalf of Gowron in a Klingon civil war."
 					},
 					"description": {
 						"de": "Die Enterprise ist unterwegs zum klingonischen Heimatplaneten, wo Picard die Zeremonie zur Einsetzung von Gowron als neuem Herrscher überwachen wird. Zugleich bittet Gowron Picard darum, ihm beim Niederschlagen einer Rebellion zu helfen, die von Mitgliedern der Duras-Familie gegen Gowrons Inthronisierung geführt wird. Picard lehnt jedoch ab, um die Föderation nicht in einen klingonischen Bürgerkrieg hineinzuziehen. Worf erfährt Ablehnung von Gowron in seiner Bitte, ihm seine einst entzogene Familienehre zurückzugeben, weil Gowron die Macht des Duras-Clans fürchtet. Der bislang unbekannte Toral, Sohn von Duras, beansprucht den Thron für sich, was ihm durch Picard wegen Torals fehlender Kampfeserfahrung jedoch verweigert wird. Während Worf auf Gowrons Schiff weilt, wird dieses durch Schiffe des Duras-Clans angegriffen. Als es der Zerstörung nahe ist, wird es durch das Schiff von Kurn gerettet, Worfs Bruder. Durch die Unterstützung von Kurn und dessen Gefolgschaft lässt sich Gowron davon überzeugen, Worf dessen Familienehre zurückzugeben. Gowron, nunmehr neuer Herrscher, möchte die Föderation auf seine Seite im Kampf gegen den Duras-Clan bringen, und Worf möchte ihn dabei unterstützen. Beides lehnt Picard strikt ab, wegen letzterem verlässt Worf schließlich die Sternenflotte. Unterdessen wohnt einem Treffen der Duras-Familie auch eine Romulanerin bei, die Tasha Yar stark ähnelt und gegen Picard vorzugehen beabsichtigt."
