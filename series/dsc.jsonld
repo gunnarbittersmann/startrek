@@ -192,13 +192,10 @@
 							"name": "Aaron Harberts"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BryanFuller",
-							"name": "Bryan Fuller"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"description": {
 						"en": "T’Kuvma convinces the majority of the Klingon leaders that he can lead them to victory over the Federation, as Starfleet reinforcements for the Shenzhou arrive. Georgiou offers to resolve the situation peacefully, but the Klingons immediately open fire and the Shenzhou is critically damaged. Starfleet Admiral Anderson arrives and again offers peace to the Klingons, but his ship is rammed by another cloaked Klingon vessel. Anderson has his ship self-destruct, destroying the Klingon ship. Starfleet retreats, leaving the Klingons to collect their dead. In the remains of the Shenzhou, Burnham escapes from her cell after encouragement from her guardian Sarek via a telepathic connection. She convinces Georgiou to try to take T’Kuvma prisoner, and they create a distraction by sending an explosive into his ship with a Klingon corpse. Boarding the vessel, Burnham overpowers Voq. Georgiou attempts to capture T’Kuvma, but is killed. T’Kuvma is fatally shot by Burnham, who is transported to safety. Voq promises that T’Kuvma’s legacy will live on. Burnham is sentenced to life in prison for her mutiny.",

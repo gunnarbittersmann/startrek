@@ -2459,13 +2459,10 @@
 							"name": "John Shiban"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanielMcCarthy",
-							"name": "Daniel McCarthy"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanielMcCarthy",
+						"name": "Daniel McCarthy"
 					},
 					"abstract": {
 						"en": "Due to the demands of a militant faction, Enterprise is asked to retrieve Denobulan geologists from an alien cave. Dr. Phlox must treat a patient with racist views against his people."
@@ -3419,13 +3416,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
-							"name": "Terry Matalas"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+						"name": "Terry Matalas"
 					},
 					"abstract": {
 						"en": "A Xindi scientist, Degra, is tricked into giving Captain Archer information about the location of the new superweapon."
@@ -4502,13 +4496,10 @@
 							"name": "Judith Reeves-Stevens"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-							"name": "Manny Coto"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
 					},
 					"abstract": {
 						"en": "Archer and Shran engage in mortal combat as Archer tries to unite the Andorians and Tellarites who are being set at each other’s throats by a remote-controlled Romulan vessel."
@@ -4549,13 +4540,10 @@
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
 						"name": "André Bormanis"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-							"name": "Manny Coto"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
 					},
 					"abstract": {
 						"en": "The drone Romulan ship that attacked the Andorians is under the control of an Aenar, an offshoot race of the Andorians. Archer and Shran join forces to rescue the Aenar and stop the Romulan plot."
@@ -4596,13 +4584,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-							"name": "Manny Coto"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
 					},
 					"abstract": {
 						"en": "Phlox is kidnapped by the Klingons who are seeking to cure a disease caused by an attempt to create Klingon/Augment hybrids; T’Pol’s mental abilities grow after she conducts her first mind meld."
@@ -4767,13 +4752,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-							"name": "Manny Coto"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+						"name": "Manny Coto"
 					},
 					"abstract": {
 						"en": "In the Mirror Universe, Archer commandeers the 23rd-century Defiant from the Tholians and uses it in a nefarious power grab."
