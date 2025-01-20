@@ -1353,6 +1353,26 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JaronSummers",
+							"name": "Jaron Summers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JonPovill",
+							"name": "Jon Povill"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						}
+					],
+					"abstract": {
+						"en": "Dr. Katherine Pulaski joins the Enterprise while Lt. Geordi La Forge prepares the Enterprise to transport dangerous plague specimens; Counsellor Deanna Troi spontaneously becomes pregnant and gives birth to a mysterious child."
+					},
 					"description": {
 						"de": "Ein fremdes Wesen gelangt an Bord der Enterprise und dringt in Trois Körper ein, woraufhin sie schwanger wird und zwei Tage später einen Jungen gebärt, der rasend schnell heranwächst. Währenddessen hat die Enterprise eine Probe eines lebensgefährlichen Erregers an Bord genommen, der kurze Zeit später zu wachsen beginnt und Besatzung und Passagiere zu töten droht. Als die Lebensform im Körper des Jungen davon erfährt, sieht sie sich in der Schuld für den Viruswachstum und verlässt den Körper des Jungen, wodurch die Gefahr gebannt wird."
 					}
@@ -1395,6 +1415,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JackBSowards",
+						"name": "Jack B. Sowards"
+					},
+					"abstract": {
+						"en": "The Enterprise becomes trapped in a spatial phenomenon. Here they are subjected to unusual experiments by the whim of a being unlike any they have encountered before."
 					},
 					"description": {
 						"de": "Die Enterprise wird im All von einer inhalts- und dimensionslosen Lebensform gefangen genommen. Diese gibt ihren Namen als Nagilum zu erkennen und möchte die Reaktionen der Menschen auf den Tod studieren. Als Nagilum ankündigt, über ein Drittel der Enterprise-Crew zu Studienzwecken zu töten, lassen Picard und Riker die Selbstzerstörungssequenz des Schiffes beginnen. Diese brechen sie jedoch wieder ab, als Nagilum übermittelt, genügend gelernt zu haben."
@@ -1453,6 +1481,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrianAlanLane",
+						"name": "Brian Alan Lane"
+					},
+					"abstract": {
+						"en": "After Lt. Commander Data easily solves an ordinary Sherlock Holmes holodeck mystery, La Forge asks the computer to make a Holmes villain capable of defeating him. The resultant Professor Moriarty soon becomes far more powerful than expected."
+					},
 					"description": {
 						"de": "Data und LaForge versuchen sich im Rahmen eines Holodeck-Programms in den Rollen von Sherlock Holmes und Dr. Watson an Detektivarbeit. Als die holografische Figur Professor Moriarty aufgrund eines falschen Befehls von LaForge das Kommando über die Enterprise zu übernehmen beginnt, schafft es Picard schließlich, Moriarty davon zu überzeugen, seinen Plan abzubrechen und muss ihm dabei zusichern, dass er im Holodeck gespeichert wird."
 					},
@@ -1510,6 +1546,34 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertBecker",
 						"name": "Robert Becker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
+						"name": "Burton Armus"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LesMenchen",
+								"name": "Les Menchen"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LanceDickson",
+								"name": "Lance Dickson"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#DavidLandsberg",
+								"name": "David Landsberg"
+							}
+						]
+					},
+					"abstract": {
+						"en": "The Enterprise is caught up in the schemes of a flamboyant space rogue on the run, while Data explores humor with the help of a holodeck comedian."
+					},
 					"description": {
 						"de": "Die Enterprise nimmt den Frauenhelden Okona von dessen marodem Raumschiff an Bord. Alsbald erscheinen die Raumschiffe zweier verfeindeter Parteien, die jeweils die Auslieferung Okonas fordern. Im Zuge der auf der Enterprise durchgeführten Verhandlungen stellt sich heraus, dass nicht Okona, sondern der Sohn eines der Gegner die Tochter des anderen Gegners geschwängert hat."
 					}
@@ -1552,6 +1616,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LarryShaw",
 						"name": "Larry Shaw"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JacquelineZambrano",
+						"name": "Jacqueline Zambrano"
+					},
+					"abstract": {
+						"en": "The crew play host to a deaf, telepathic ambassador who mediates difficult peace negotiations with the assistance of his trio of telepathic interpreters."
 					},
 					"description": {
 						"de": "Auftrag für die Enterprise ist es, den stummen Vermittler Riva zu einem Planeten zu bringen, damit er dort zur Vermeidung eines Bürgerkrieges als Schlichter fungiert. Bei der ersten Verhandlung ermorden die verfeindeten Parteien die drei Begleiter Rivas, die er für sich hatte sprechen lassen. In der Folge gelingt es Data, die Gebärdensprache Rivas zu erlernen, und Troi, den erschütterten Riva davon zu überzeugen, die Verhandlungen fortzuführen."
@@ -1596,6 +1668,29 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
+						"name": "Tracy Tormé"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#RichardManning",
+								"name": "Richard Manning"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+								"name": "Hans Beimler"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Scientist Dr. Ira Graves cheats death by uploading his memories and personality into Lt. Commander Data."
+					},
 					"description": {
 						"de": "Der an einer tödlichen Krankheit leidende Kybernetiker Dr. Graves transferiert kurz vor seinem Tod seine Persönlichkeit in Data, wodurch sich dieser in der Folge wie Graves verhält. Als er Graves’ Assistentin Kareen mitteilt, ihre Persönlichkeit ebenfalls in einen Computer zu transferieren, um sie unsterblich zu machen, diese das Angebot jedoch ablehnt, beginnt Data an sich zu zweifeln. Schließlich kommt er zu der Überzeugung, Graves’ Persönlichkeit in den Computer der Enterprise zu transferieren, und gibt daraufhin Datas Körper wieder frei."
 					}
@@ -1638,6 +1733,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnMason",
+							"name": "John Mason"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeGray",
+							"name": "Mike Gray"
+						}
+					],
+					"abstract": {
+						"en": "The Enterprise receives a distress call from the USS Lantree, discovering its crew has apparently died of old age. The race is on to solve the mystery before scientists on a research colony suffer the same fate."
 					},
 					"description": {
 						"de": "Als die Enterprise ein Sternenflottenschiff findet, dessen Besatzung an Altersschwäche gestorben ist, stellt die Crew fest, dass sich auf der Forschungsstation Darwin dasselbe rapide Altern zu ereignen scheint. Als sie nach der Ursache und dem Übertragungsweg für die Infektion sucht, infiziert sich Dr. Pulaski versehentlich ebenfalls und altert zusehends. Einer Idee Picards folgend, schafft es die Crew der Enterprise aber, mit Hilfe von Pulaskis DNS und einem modifizierten Transporterstrahl, Pulaski in den Zustand vor ihrer Erkrankung zu verwandeln."
@@ -1682,6 +1792,34 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
+						"name": "Burton Armus"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#WandaMHaight",
+								"name": "Wanda M. Haight"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#GregoryAmos",
+								"name": "Gregory Amos"
+							},
+							{
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
+								"name": "Burton Armus"
+							}
+						]
+					},
+					"abstract": {
+						"en": "Commander William Riker is assigned to a Klingon vessel via an officer exchange program between the Federation and the Klingon Empire. However, the Klingon Captain is full of mistrust and wants Riker to fire on the Enterprise."
+					},
 					"description": {
 						"de": "Ein Fähnrich arbeitet im Rahmen eines Austauschprogramms auf der Enterprise und findet dabei heraus, dass ein sich im Rumpf des Schiffes vergrößerndes und das Schiff bedrohendes Loch von einer fremden, bakteriellen Lebensform verursacht wird. Zugleich ist Commander Riker als Austauschoffizier auf einem klingonischen Raumschiff eingesetzt. Er schafft es, sich den Respekt der Klingonen zu verdienen, und verhindert durch eine List, dass die Enterprise durch die Klingonen angegriffen wird, als sich die bakterielle Lebensform am Rumpf des Klingonenschiffes ebenfalls bemerkbar macht."
 					}
@@ -1725,7 +1863,13 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MelindaMSnodgrass",
+						"name": "Melinda M. Snodgrass"
+					},
 					"abstract": {
+						"en": "After Lt. Commander Data refuses an order from Starfleet to be dismantled for research purposes, a hearing is convened to determine if he is a legal citizen or property of the Federation.",
 						"de": "Um sich Experimenten des Kybernetikers Maddox zu entziehen, tritt Data aus der Sternenflotte aus. Es folgt ein Gerichtsprozess über die Frage, ob Data Sternenflotteneigentum ist."
 					}
 				},
@@ -1767,6 +1911,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ScottRubenstein",
+							"name": "Scott Rubenstein"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeonardMlodinow",
+							"name": "Leonard Mlodinow"
+						}
+					],
+					"abstract": {
+						"en": "The Enterprise hosts the young leader of Daled IV, Salia. Soon Wesley Crusher finds himself falling in love with her. However, Salia and her guardian harbor a secret."
 					},
 					"description": {
 						"de": "Die Enterprise nimmt die junge Salia, die künftige Thronfolgerin des Planeten Daled IV, und ihre Gouvernante, die alte Anya, als Passagiere an Bord. Wesley Crusher verliebt sich auf den ersten Blick in Salia und lässt sich von Riker und Guinan dabei helfen, sich auf ein Rendezvous mit Salia einzustellen. Alsbald stellt sich heraus, dass ihre Liebe keine Zukunft hat, da sie, ebenso wie Anya, eine Gestaltwandlerin ist, und als Thronfolgerin den Planeten nicht verlassen können wird."
@@ -1811,6 +1970,21 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
 						"name": "Joseph L. Scanlan"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveGerber",
+							"name": "Steve Gerber"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BethWoods",
+							"name": "Beth Woods"
+						}
+					],
+					"abstract": {
+						"en": "A dangerous alien computer virus runs rampant through the Enterprise after causing the destruction of her sister ship, the USS Yamato."
+					},
 					"description": {
 						"de": "In der neutralen Zone trifft die Enterprise ihr Schwesterschiff Yamato, auf dem sich mysteriöse Fehlfunktionen häufen und das wenig später mitsamt der Besatzung explodiert. Die Untersuchungen der Enterprise-Crew ergeben, dass ein Computervirus, das von einer Sonde der Iconianer stammt, für die Zerstörung verantwortlich ist und dass sich gleiches auf der Enterprise zu wiederholen droht. Bei der Untersuchung eines von den Iconianern stammenden Kontrollraums auf einem Planeten können Picard und seine Crew den Computervirus schließlich eliminieren und die Zerstörungsgefahr bannen."
 					}
@@ -1853,6 +2027,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
+						"name": "Tracy Tormé"
+					},
+					"abstract": {
+						"en": "Riker, Worf, and Data investigate a structure on the surface of an icy gas giant, which appears to be a hotel from 20th-century Earth. When they try to leave, they are prevented from doing so, and are forced to stay."
 					},
 					"description": {
 						"de": "Bei der Untersuchung einer geheimnisvollen Energiequelle auf einem unbewohnten Planeten wird das aus Riker, Data und Worf bestehende Außenteam in einem Gebäude gefangen, dessen Inneres dem eines amerikanischen Hotels aus dem 21. Jahrhundert gleicht. Darin finden sie die Leiche eines Astronauten, dem einst Außerirdische durch das Schaffen dieser Umgebung zum Führen eines menschenwürdigen Lebens verhalfen. Dazu orientierten sie sich an dem Roman „Hotel Royale“, dessen Handlung sich das Außenteam schließlich anpassen muss, um zu entkommen."
@@ -1897,6 +2079,22 @@
 						"@id": "https://bittersmann.de/startrek/people#JosephLScanlan",
 						"name": "Joseph L. Scanlan"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+						"name": "Maurice Hurley"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KurtMichaelBensmiller",
+							"name": "Kurt Michael Bensmiller"
+						}
+					},
+					"abstract": {
+						"en": "Captain Jean-Luc Picard encounters his unconscious future self when the Enterprise becomes caught in a time loop where the Enterprise is destroyed by a space anomaly."
+					},
 					"description": {
 						"de": "Die Enterprise nimmt eines ihrer Shuttleschiffe mitsamt einem zweiten Picard an Bord, die beide sechs Stunden aus der Zukunft stammen. Untersuchungen ergeben, dass Picard die Enterprise in der Zukunft verließ, bevor sie in einer Raumanomalie zerstört wurde. Als sich die Enterprise eben jener Anomalie nähert, beginnen sich diese Ereignisse abzuspielen. Zur Vermeidung der Zerstörung der Enterprise erschießt Picard seinen Doppelgänger aus der Zukunft, wodurch die Anomalie verschwindet und die Gefahr für die Enterprise gebannt wird."
 					}
@@ -1939,6 +2137,29 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertIscove",
 						"name": "Robert Iscove"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAssael",
+							"name": "David Assael"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertMcCullough",
+							"name": "Robert McCullough"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAssael",
+							"name": "David Assael"
+						}
+					},
+					"abstract": {
+						"en": "Riker’s estranged father, Kyle, visits to brief him on a starship command he’s been offered, and Worf’s friends discover he is about to miss an important Klingon rite of passage."
 					},
 					"description": {
 						"de": "Riker wird das Kommando über ein Föderationsraumschiff angeboten. Vorgeblich, um ihn auf diese Rolle vorzubereiten, kommt sein Vater, ein Militärstratege, an Bord. Rikers Entscheidungsfindung gerät in den Hintergrund, als beide mit der Bewältigung ihrer schwierigen Vergangenheit konfrontiert sind. Riker lehnt das Angebot schließlich ab. Währenddessen unternimmt Wesley Anstrengungen, Worf an dessen zehnten Jahrestag der Initiation aufzuheitern, und überrascht ihn zusammen mit Worfs Kollegen im Holodeck mit einem klingonischen Ritual."
@@ -1983,6 +2204,22 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MelindaMSnodgrass",
+						"name": "Melinda M. Snodgrass"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HannahLouiseShearer",
+							"name": "Hannah Louise Shearer"
+						}
+					},
+					"abstract": {
+						"en": "The Prime Directive is threatened when Data befriends the child of a pre-warp planet that is suffering from devastating volcanic activity."
+					},
 					"description": {
 						"de": "Von den Brückenoffizieren mit der Leitung von Untersuchungen geologischer Ereignisse im Selcundi-Drema-Planetensystem betraut, erhält Wesley in Sachen Führungsqualität Ratschläge durch Riker. Währenddessen hat Data Kontakt mit einem Mädchen auf einem der untersuchten Planeten, das durch die dortige vulkanische Aktivität zu sterben droht, und rettet es auf die Enterprise. Nachdem Wesleys Team dafür gesorgt hat, dass die vulkanische Aktivität den Planeten nicht mehr zu zerstören droht, bringt Data das Mädchen zurück auf den Planeten und Pulaski löscht deren Erinnerungen an ihre Zeit auf der Enterprise aus, damit die Oberste Direktive gewahrt bleibt."
 					}
@@ -2026,7 +2263,13 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+						"name": "Maurice Hurley"
+					},
 					"abstract": {
+						"en": "Q flings the Enterprise 7,000 light years beyond Federation space and into a confrontation with the deadly Borg.",
 						"de": "Damit sich die Enterprise-Crew auf kommende Gefahren vorbereitet, versetzt Q das Schiff gegen Picards Willen an einen weit entfernten Teil des Alls, wo es mit den feindlichen Borg konfrontiert wird."
 					},
 					"review": {
@@ -2083,6 +2326,14 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertMcCullough",
+						"name": "Robert McCullough"
+					},
+					"abstract": {
+						"en": "A group of seemingly dimwitted aliens, the Pakleds, kidnap Lt. La Forge to “make their ship go”. Picard undergoes surgery at a starbase."
+					},
 					"description": {
 						"de": "Wesley ist mit einem Shuttleschiff unterwegs zur Sternenbasis 515, um an Tests zur Aufnahme in die Sternenflottenakademie teilzunehmen, und wird von Picard begleitet, der sich dort einer Herztransplantation unterziehen möchte. Unterdessen ist die Enterprise mit den Paklets konfrontiert, deren Raumschiff reparaturbedürftig scheint. Während La Forge im Schiff der Paklets gefangengehalten wird, stellt sich heraus, dass die Paklets zugunsten ihres technologischen Fortschritts fremde Technologie übernehmen möchten. Durch eine List der Enterprise-Crew kann La Forge befreit werden. Nach Komplikationen bei Picards Operation kann ihn schließlich Pulaski retten."
 					}
@@ -2125,6 +2376,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MelindaMSnodgrass",
+						"name": "Melinda M. Snodgrass"
+					},
+					"abstract": {
+						"en": "Captain Picard must find a way to rescue two radically incompatible cultures, one a primitive Irish farming colony threatened by solar flares, and the other a colony of clones facing inevitable genetic degeneration."
 					},
 					"description": {
 						"de": "Die Enterprise rettet eine Gruppe Kolonisten der Bringloidi von deren von Zerstörung bedrohter Heimatwelt und lässt sie mitsamt Tieren und Hausrat in einem Frachtraum einquartieren. Die Crew der Enterprise erfährt, dass die Gruppe eine von zweien war, die in diesem Sonnensystem siedelten. Als sie die andere Gruppe, die Mariposaner, warnen, stellt sich heraus, dass diese ihr Fortbestehen bislang nur durch Klonen gesichert haben und nun wegen drohendem genetischem Verlust Pulaski und Riker klonen möchten. Die Enterprise-Crew kann schließlich die Bringloidi davon überzeugen, sich mit den Mariposanern zu paaren, um deren Fortpflanzungsproblem zu lösen, und ihnen gleichfalls eine neue Heimat zu geben."
@@ -2169,6 +2428,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
+						"name": "Tracy Tormé"
+					},
+					"abstract": {
+						"en": "Troi’s mother Lwaxana is in the market for a new husband, and she has set her sights on Captain Picard."
+					},
 					"description": {
 						"de": "Trois Mutter Lwaxana kommt an Bord, vorgeblich zur Passage zu einer Konferenz. Es stellt sich aber heraus, dass sich Lwaxana in einem besonderen Lebensabschnitt befindet, in dem sie eine stark erhöhte Libido besitzt. Deshalb möchte sie alsbald Picard ehelichen. Dieser jedoch sträubt sich davor und flieht in das Holodeck, wo er sich in einem Programm des Detektivs Dixon Hill die Zeit vertreibt. Kurz vor ihrer Abreise kann die enttäuschte Lwaxana noch die zwei ebenfalls mitgereisten, fischköpfigen Antedianer als mutmaßliche Bombenattentäter entlarven."
 					}
@@ -2211,6 +2478,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardManning",
+							"name": "Richard Manning"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
+					"abstract": {
+						"en": "Worf’s former lover comes aboard the Enterprise to help deal with a ship full of Klingons in stasis and unaware they are no longer at war with the Federation."
 					},
 					"description": {
 						"de": "Die Enterprise erhält den Auftrag, ein klingonisches Raumschiff abzufangen, dessen Besatzung sich seit Jahrhunderten im Kälteschlaf befindet. Ziel ist es zu vermeiden, dass die Klingonen, die in ihrer ursprünglichen Zeit noch im Krieg gegen die Föderation standen, nun zu einer Gefahr für Föderationskolonien werden. Zur Durchführung des Auftrags kommt die Halbklingonin K’Ehleyr an Bord, eine frühere Geliebte Worfs. Sie findet Gefallen an Worfs holografischem Kampfprogramm und tauscht mit ihm Zärtlichkeiten aus, woraufhin Worf sie heiraten möchte, von ihr aber Ablehnung erfährt. Schließlich können die beiden die Mission durchführen, indem sie sich den anderen Klingonen gegenüber als Kommandanten der Enterprise ausgeben."
@@ -2255,6 +2537,14 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidKemper",
+						"name": "David Kemper"
+					},
+					"abstract": {
+						"en": "The Enterprise and USS Hathaway face off in simulated combat maneuvers. Data fails to beat a humanoid at a game of Strategema and exhibits self-doubt."
+					},
 					"description": {
 						"de": "Der zakdornianische Stratege Kolrami kommt an Bord der Enterprise, um eine geplante Manöverübung zu überwachen, bei der Riker als Captain des veralteten Raumschiffes USS Hathaway simulativ gegen die Enterprise kämpfen soll. Während der Übung taucht plötzlich ein Raumschiff der Ferengi auf, die eine vermutete geheime Waffe der Hathaway einfordern. Das Ferengi-Schiff schießt die Enterprise kampfunfähig und droht die Hathaway mitsamt Besatzung zu zerstören. Mit einer gemeinsamen List gelingt es Picard und Riker, die Ferengi in die Flucht zu schlagen. Unterdessen gerät Data nach seiner Niederlage in dem Spiel Strategema gegen Kolrami in Selbstzweifel, kann ihn schließlich aber doch noch besiegen."
 					}
@@ -2297,6 +2587,34 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobBowman",
 						"name": "Rob Bowman"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardManning",
+							"name": "Richard Manning"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						}
+					},
+					"abstract": {
+						"en": "Commander Riker is poisoned into a coma in which he relives various moments of his service aboard the Enterprise."
 					},
 					"description": {
 						"de": "Während einer Außenmission durch einen gefährlichen Krankheitserreger infiziert, droht Riker alsbald zu sterben. Während Pulaskis Behandlung mittels einer Gehirnwellenstimulation durchlebt er in Träumen Erlebnisse, die in früheren Episoden zu sehen waren. Schließlich gelingt es Pulaski, die Infektion zu besiegen."
