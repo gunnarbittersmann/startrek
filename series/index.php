@@ -618,10 +618,7 @@ EOT;
 													title="<?= htmlSpecialChars($data['review']['name']) ?>"
 												<?php endif; ?>
 											>
-												<?php if ($data['review']['name']): ?>
-													<span class="visually-hidden" property="name"><?= htmlSpecialChars($data['review']['name']) ?></span>
-													<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['name'][0]) ?></abbr>
-												<?php elseif ($data['review']['creator'] && $data['review']['creator']['name']): ?>
+												<?php if ($data['review']['creator'] && $data['review']['creator']['name']): ?>
 													<span property="creator" typeof="<?= htmlSpecialChars($data['review']['creator']['@type']) ?>">
 														<span class="visually-hidden" property="name">
 															<?= htmlSpecialChars($data['review']['creator']['name']) ?>
@@ -659,10 +656,7 @@ EOT;
 																title="<?= htmlSpecialChars($review['name']) ?>"
 															<?php endif; ?>
 														>
-															<?php if ($review['name']): ?>
-																<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																<abbr aria-hidden="true"><?= htmlSpecialChars($review['name'][0]) ?></abbr>
-															<?php elseif ($review['creator'] && $review['creator']['name']): ?>
+															<?php if ($review['creator'] && $review['creator']['name']): ?>
 																<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																	<span class="visually-hidden" property="name">
 																		<?= htmlSpecialChars($review['creator']['name']) ?>
