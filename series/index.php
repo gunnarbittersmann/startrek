@@ -281,6 +281,37 @@ EOT;
 																</dd>
 															<?php endif; // ($episode['author']['name']) ?>
 														</div>
+														<?php if ($episode['isBasedOn'] && $episode['isBasedOn']['author']): ?>
+															<div property="isBasedOn" typeof="<?= htmlSpecialChars($episode['isBasedOn']['type']) ?>">
+																<dt>
+																	<abbr aria-hidden="true" title="based on material by">B:</abbr>
+																	<span class="visually-hidden">based on material by</span>
+																</dt>
+																<?php if ($episode['isBasedOn']['author']['name']): ?>
+																	<dd
+																		property="author"
+																		typeof="<?= htmlSpecialChars($episode['isBasedOn']['author']['@type']) ?>"
+																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['isBasedOn']['author']['@id']) ?>"
+																	>
+																		<span property="name"><?= htmlSpecialChars($episode['isBasedOn']['author']['name']) ?></span>
+																	</dd>
+																<?php else: ?>
+																	<dd>
+																		<ul>
+																			<?php foreach ($episode['isBasedOn']['author'] as $author): ?>
+																				<li
+																					property="author"
+																					typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																					resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																				>
+																					<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																				</li>
+																			<?php endforeach; ?>
+																		</ul>
+																	</dd>
+																<?php endif; // ($episode['isBasedOn']['author']['name']): ?>
+															</div>
+														<?php endif; // ($episode['isBasedOn'] && $episode['isBasedOn']['author']) ?>
 													</dl>
 												</td>
 											<?php else: ?>
