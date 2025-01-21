@@ -133,7 +133,7 @@
 								<?php endif; ?>
 								<?php if (IS_AUTHOR_VISIBLE): ?>
 									<?php if ($movie['author']): ?>
-										<?php if ($movie['isBasedOn'] && $movie['isBasedOn']['author']): ?>
+										<?php if ($movie['contributor']): ?>
 											<td>
 												<dl>
 													<div>
@@ -162,26 +162,26 @@
 															</dd>
 														<?php endif; ?>
 													</div>
-													<div property="isBasedOn" typeof="<?= htmlSpecialChars($movie['isBasedOn']['@type']) ?>">
+													<div>
 														<dt>story by:</dt>
-														<?php if ($movie['isBasedOn']['author']['name']): ?>
+														<?php if ($movie['contributor']['name']): ?>
 															<dd
 																property="author"
-																typeof="<?= htmlSpecialChars($movie['isBasedOn']['author']['@type']) ?>"
-																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
+																typeof="<?= htmlSpecialChars($movie['contributor']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
 															>
-																<span property="name"><?= htmlSpecialChars($movie['isBasedOn']['author']['name']) ?></span>
+																<span property="name"><?= htmlSpecialChars($movie['contributor']['name']) ?></span>
 															</dd>
 														<?php else: ?>
 															<dd>
 																<ul>
-																	<?php foreach ($movie['isBasedOn']['author'] as $author): ?>
+																	<?php foreach ($movie['contributor'] as $contributor): ?>
 																		<li
-																			property="author"
-																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																			property="contributor"
+																			typeof="<?= htmlSpecialChars($contributor['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($contributor['@id']) ?>"
 																		>
-																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																			<span property="name"><?= htmlSpecialChars($contributor['name']) ?></span>
 																		</li>
 																	<?php endforeach; ?>
 																</ul>

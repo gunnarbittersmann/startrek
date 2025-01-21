@@ -143,21 +143,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JackBSowards",
 						"name": "Jack B. Sowards"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#HarveBennett",
-								"name": "Harve Bennett"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JackBSowards",
-								"name": "Jack B. Sowards"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JackBSowards",
+							"name": "Jack B. Sowards"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -329,21 +326,18 @@
 							"name": "Harve Bennett"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#HarveBennett",
-								"name": "Harve Bennett"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
-								"name": "Leonard Nimoy"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+							"name": "Leonard Nimoy"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -436,26 +430,23 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLoughery",
 						"name": "David Loughery"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
-								"name": "William Shatner"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#HarveBennett",
-								"name": "Harve Bennett"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DavidLoughery",
-								"name": "David Loughery"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
+							"name": "William Shatner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidLoughery",
+							"name": "David Loughery"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -555,26 +546,23 @@
 							"name": "Denny Martin Flinn"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
-								"name": "Leonard Nimoy"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LawrenceKonner",
-								"name": "Lawrence Konner"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MarkRosenthal",
-								"name": "Mark Rosenthal"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+							"name": "Leonard Nimoy"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LawrenceKonner",
+							"name": "Lawrence Konner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MarkRosenthal",
+							"name": "Mark Rosenthal"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -680,26 +668,23 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
-								"name": "Ronald D. Moore"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -767,26 +752,23 @@
 							"name": "Ronald D. Moore"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
-								"name": "Ronald D. Moore"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -847,21 +829,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -938,26 +917,23 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnLogan",
 						"name": "John Logan"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JohnLogan",
-								"name": "John Logan"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrentSpiner",
-								"name": "Brent Spiner"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnLogan",
+							"name": "John Logan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrentSpiner",
+							"name": "Brent Spiner"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",

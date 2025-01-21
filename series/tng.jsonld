@@ -257,21 +257,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DCFontana",
 						"name": "D. C. Fontana"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
-								"name": "John D. F. Black"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DCFontana",
-								"name": "D. C. Fontana"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
+							"name": "John D. F. Black"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						}
+					],
 					"abstract": {
 						"en": "The crew of the Enterprise find the crew of a scientific vessel dead. They soon fall prey to a mysterious, communicable contaminant causing the crew to experience symptoms similar to alcohol intoxication, threatening the lives of all aboard the ship."
 					},
@@ -395,13 +392,10 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbertWright",
 						"name": "Herbert Wright"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RichardKrzmeien",
-							"name": "Richard Krzmeien"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RichardKrzmeien",
+						"name": "Richard Krzmeien"
 					},
 					"abstract": {
 						"en": "An unknown force immobilizes the Enterprise during the Federation’s first encounter with a new alien threat—the Ferengi."
@@ -512,13 +506,10 @@
 						"@id": "https://bittersmann.de/startrek/people#DCFontana",
 						"name": "D. C. Fontana"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MichaelHalperin",
-							"name": "Michael Halperin"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelHalperin",
+						"name": "Michael Halperin"
 					},
 					"abstract": {
 						"en": "An alien entity possesses Dr. Crusher, Worf, and Picard while the Enterprise is transporting delegates from two feuding planets."
@@ -571,21 +562,18 @@
 						"@id": "https://bittersmann.de/startrek/people#WorleyThorne",
 						"name": "Worley Thorne"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
-								"name": "John D. F. Black"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#WorleyThorne",
-								"name": "Worley Thorne"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
+							"name": "John D. F. Black"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WorleyThorne",
+							"name": "Worley Thorne"
+						}
+					],
 					"abstract": {
 						"en": "Wesley breaks an idyllic world’s trivial law by accidentally stepping on flowers and faces a death sentence."
 					},
@@ -637,13 +625,10 @@
 						"@id": "https://bittersmann.de/startrek/people#HerbertWright",
 						"name": "Herbert Wright"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#LarryForrester",
-							"name": "Larry Forrester"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryForrester",
+						"name": "Larry Forrester"
 					},
 					"abstract": {
 						"en": "A Ferengi captain returns the abandoned Stargazer to its former captain, Jean-Luc Picard. Picard, who experiences severe headaches, begins to relive the “Battle of Maxia” in which he lost the ship."
@@ -703,13 +688,10 @@
 							"name": "Gene Roddenberry"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-							"name": "Maurice Hurley"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+						"name": "Maurice Hurley"
 					},
 					"abstract": {
 						"en": "Q returns to the Enterprise to tempt Commander Riker into joining the Q Continuum with the lure of Q’s powers."
@@ -776,21 +758,18 @@
 						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
 						"name": "Tracy Tormé"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TracyTorme",
-								"name": "Tracy Tormé"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LanOKun",
-								"name": "Lan O’Kun"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TracyTorme",
+							"name": "Tracy Tormé"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LanOKun",
+							"name": "Lan O’Kun"
+						}
+					],
 					"abstract": {
 						"en": "Lwaxana Troi visits her daughter, Counselor Troi, and prepares her for an arranged marriage."
 					},
@@ -914,21 +893,18 @@
 							"name": "Gene Roddenberry"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RobertLewin",
-								"name": "Robert Lewin"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-								"name": "Maurice Hurley"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertLewin",
+							"name": "Robert Lewin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise crew finds a disassembled android identical to Data at the site of the Omicron Theta colony—where Data was found—which was destroyed by a life form dubbed “the Crystalline Entity.” The reassembled android, Lore, brings the Crystalline Entity to the Enterprise."
 					},
@@ -1096,13 +1072,10 @@
 							"name": "D. C. Fontana"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MichaelMichaelian",
-							"name": "Michael Michaelian"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelMichaelian",
+						"name": "Michael Michaelian"
 					},
 					"abstract": {
 						"en": "The Enterprise transports a legendary elderly admiral who must once again negotiate a hostage situation involving a man from decades earlier in his career. The admiral however, is mysteriously growing younger the farther along their mission progresses."
@@ -1206,26 +1179,23 @@
 						"@id": "https://bittersmann.de/startrek/people#Robert Sabaroff",
 						"name": "Robert Sabaroff"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#Karl Geurs",
-								"name": "Karl Geurs"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RalphSanchez",
-								"name": "Ralph Sanchez"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#Robert Sabaroff",
-								"name": "Robert Sabaroff"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#Karl Geurs",
+							"name": "Karl Geurs"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RalphSanchez",
+							"name": "Ralph Sanchez"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#Robert Sabaroff",
+							"name": "Robert Sabaroff"
+						}
+					],
 					"abstract": {
 						"en": "The crew of the Enterprise discovers a crystalline lifeform with murderous intelligence that has been killing the scientists on a terraforming project."
 					},
@@ -1328,26 +1298,23 @@
 						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
 						"name": "Maurice Hurley"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-								"name": "Maurice Hurley"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#HerbertWright",
-								"name": "Herbert Wright"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DCFontana",
-								"name": "D. C. Fontana"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HerbertWright",
+							"name": "Herbert Wright"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						}
+					],
 					"abstract": {
 						"en": "Fugitive Klingons seeking battle attempt to hijack the Enterprise, and ask Worf to join them."
 					},
@@ -1406,21 +1373,18 @@
 							"name": "Hans Beimler"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-								"name": "Maurice Hurley"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RobertLewin",
-								"name": "Robert Lewin"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertLewin",
+							"name": "Robert Lewin"
+						}
+					],
 					"abstract": {
 						"en": "Trapped on the surface of an abandoned planet, an away team becomes unwitting participants in the demonstration of an advanced weapons system."
 					},
@@ -1484,13 +1448,10 @@
 							"name": "Hans Beimler"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RobertLewin",
-							"name": "Robert Lewin"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertLewin",
+						"name": "Robert Lewin"
 					},
 					"abstract": {
 						"en": "Picard tries to mediate a trade dispute between two neighboring planets, one of which is the sole supplier of a drug to treat the other’s apparently fatal disease."
@@ -1564,13 +1525,10 @@
 							"name": "Hannah Louise Shearer"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JosephStefano",
-							"name": "Joseph Stefano"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephStefano",
+						"name": "Joseph Stefano"
 					},
 					"abstract": {
 						"en": "An evil, tar-like creature holds Troi hostage on an alien world. During the rescue mission, one of the Enterprise’s senior staff is killed."
@@ -1681,13 +1639,10 @@
 						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
 						"name": "Tracy Tormé"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RobertSabaroff",
-							"name": "Robert Sabaroff"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertSabaroff",
+						"name": "Robert Sabaroff"
 					},
 					"abstract": {
 						"en": "The strange behavior of high-ranking officers—which earlier prompted the investigation of the crew (in “Coming of Age”)—leads Picard to uncover a conspiracy within Starfleet."
@@ -1755,21 +1710,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
 						"name": "Maurice Hurley"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DeborahMcIntyre",
-								"name": "Deborah McIntyre"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MonaClee",
-								"name": "Mona Clee"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DeborahMcIntyre",
+							"name": "Deborah McIntyre"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MonaClee",
+							"name": "Mona Clee"
+						}
+					],
 					"abstract": {
 						"en": "A derelict satellite is found containing cryonically frozen humans from the 21st century as the Enterprise is sent to investigate the destruction of outposts near Romulan space."
 					},
@@ -2042,26 +1994,23 @@
 						"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
 						"name": "Burton Armus"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LesMenchen",
-								"name": "Les Menchen"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LanceDickson",
-								"name": "Lance Dickson"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DavidLandsberg",
-								"name": "David Landsberg"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LesMenchen",
+							"name": "Les Menchen"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LanceDickson",
+							"name": "Lance Dickson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidLandsberg",
+							"name": "David Landsberg"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise is caught up in the schemes of a flamboyant space rogue on the run, while Data explores humor with the help of a holodeck comedian."
 					},
@@ -2164,21 +2113,18 @@
 						"@id": "https://bittersmann.de/startrek/people#TracyTorme",
 						"name": "Tracy Tormé"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RichardManning",
-								"name": "Richard Manning"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#HansBeimler",
-								"name": "Hans Beimler"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardManning",
+							"name": "Richard Manning"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
 						"en": "Scientist Dr. Ira Graves cheats death by uploading his memories and personality into Lt. Commander Data."
 					},
@@ -2288,26 +2234,23 @@
 						"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
 						"name": "Burton Armus"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#WandaMHaight",
-								"name": "Wanda M. Haight"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GregoryAmos",
-								"name": "Gregory Amos"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
-								"name": "Burton Armus"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WandaMHaight",
+							"name": "Wanda M. Haight"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GregoryAmos",
+							"name": "Gregory Amos"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BurtonArmus",
+							"name": "Burton Armus"
+						}
+					],
 					"abstract": {
 						"en": "Commander William Riker is assigned to a Klingon vessel via an officer exchange program between the Federation and the Klingon Empire. However, the Klingon Captain is full of mistrust and wants Riker to fire on the Enterprise."
 					},
@@ -2575,13 +2518,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
 						"name": "Maurice Hurley"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#KurtMichaelBensmiller",
-							"name": "Kurt Michael Bensmiller"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KurtMichaelBensmiller",
+						"name": "Kurt Michael Bensmiller"
 					},
 					"abstract": {
 						"en": "Captain Jean-Luc Picard encounters his unconscious future self when the Enterprise becomes caught in a time loop where the Enterprise is destroyed by a space anomaly."
@@ -2641,13 +2581,10 @@
 							"name": "Robert McCullough"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DavidAssael",
-							"name": "David Assael"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidAssael",
+						"name": "David Assael"
 					},
 					"abstract": {
 						"en": "Riker’s estranged father, Kyle, visits to brief him on a starship command he’s been offered, and Worf’s friends discover he is about to miss an important Klingon rite of passage."
@@ -2700,13 +2637,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MelindaMSnodgrass",
 						"name": "Melinda M. Snodgrass"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HannahLouiseShearer",
-							"name": "Hannah Louise Shearer"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HannahLouiseShearer",
+						"name": "Hannah Louise Shearer"
 					},
 					"abstract": {
 						"en": "The Prime Directive is threatened when Data befriends the child of a pre-warp planet that is suffering from devastating volcanic activity."
@@ -3096,13 +3030,10 @@
 							"name": "Hans Beimler"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-							"name": "Maurice Hurley"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+						"name": "Maurice Hurley"
 					},
 					"abstract": {
 						"en": "Commander Riker is poisoned into a coma in which he relives various moments of his service aboard the Enterprise."
@@ -3183,21 +3114,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelWagner",
-								"name": "Michael Wagner"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelWagner",
+							"name": "Michael Wagner"
+						}
+					],
 					"abstract": {
 						"en": "Nanites escape Wesley Crusher’s lab and form a collective intelligence, threatening the Enterprise."
 					},
@@ -3486,21 +3414,18 @@
 							"name": "Richard Danus"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelWagner",
-								"name": "Michael Wagner"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonRoman",
-								"name": "Ron Roman"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelWagner",
+							"name": "Michael Wagner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonRoman",
+							"name": "Ron Roman"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise falls victim to an ancient booby trap set to snare starships and drain their power supply. While in an effort to find an escape, Lt. Geordi La Forge finds himself falling for the holodeck’s representation of an accomplished Federation engineer Dr. Leah Brahms."
 					},
@@ -4013,21 +3938,18 @@
 							"name": "Ronald D. Moore"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TrentChristopherGanino",
-								"name": "Trent Christopher Ganino"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#EricAStillwell",
-								"name": "Eric A. Stillwell"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrentChristopherGanino",
+							"name": "Trent Christopher Ganino"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EricAStillwell",
+							"name": "Eric A. Stillwell"
+						}
+					],
 					"abstract": {
 						"en": "The USS Enterprise-C arrives from the past causing a shift in reality and the return of the deceased Tasha Yar.",
 						"de": "Die Enterprise-D muss – in einen anderen Zeitstrahl versetzt – dafür sorgen, dass die aus einer Raumanomalie erschienene Enterprise-C wieder an ihren Herkunftsort zurückkehrt, damit sich der normale Zeitstrahl wieder einstellt."
@@ -4150,13 +4072,10 @@
 							"name": "W. Reed Moran"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DrewDeighan",
-							"name": "Drew Deighan"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DrewDeighan",
+						"name": "Drew Deighan"
 					},
 					"abstract": {
 						"en": "Lt. Worf tries to prove his father’s innocence after the Klingon High Council declares that his long-dead father was a traitor and had betrayed a Klingon outpost to the Romulans."
@@ -4925,13 +4844,10 @@
 							"name": "Jeri Taylor"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RalphPhillips",
-							"name": "Ralph Phillips"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphPhillips",
+						"name": "Ralph Phillips"
 					},
 					"abstract": {
 						"en": "Picard must help a human boy, raised by aliens, to decide his fate."
@@ -5131,26 +5047,23 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DrewDeighan",
-								"name": "Drew Deighan"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ThomasPerry",
-								"name": "Thomas Perry"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JoPerry",
-								"name": "Jo Perry"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DrewDeighan",
+							"name": "Drew Deighan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ThomasPerry",
+							"name": "Thomas Perry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoPerry",
+							"name": "Jo Perry"
+						}
+					],
 					"abstract": {
 						"en": "Worf’s former lover returns, and along with Picard, the two mediate a Klingon power dispute. Worf discovers more family."
 					},
@@ -5267,13 +5180,10 @@
 							"name": "Jeri Taylor"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#KaceyArnoldInce",
-							"name": "Kacey Arnold-Ince"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KaceyArnoldInce",
+						"name": "Kacey Arnold-Ince"
 					},
 					"abstract": {
 						"en": "Wesley sets off on his final mission with the Enterprise accompanied by Picard. They become stranded on a desert planet."
@@ -5338,13 +5248,10 @@
 							"name": "Vanessa Greene"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
-							"name": "Hilary J. Bader"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
 					},
 					"abstract": {
 						"en": "An unknown force captures the Enterprise and causes Deanna to lose her empathic powers."
@@ -5404,13 +5311,10 @@
 							"name": "Ronald D. Moore"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HaroldApter",
-							"name": "Harold Apter"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HaroldApter",
+						"name": "Harold Apter"
 					},
 					"abstract": {
 						"en": "Data gets dancing lessons from Dr. Crusher in preparation of Chief O’Brien’s wedding as the Enterprise brings Ambassador T’Pel to the Romulans for negotiations."
@@ -5463,26 +5367,23 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#StuartCharno",
-								"name": "Stuart Charno"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SaraCharno",
-								"name": "Sara Charno"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#CyChermak",
-								"name": "Cy Chermak"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StuartCharno",
+							"name": "Stuart Charno"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SaraCharno",
+							"name": "Sara Charno"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CyChermak",
+							"name": "Cy Chermak"
+						}
+					],
 					"abstract": {
 						"en": "A rogue Starfleet Captain jeopardizes the Cardassian peace treaty."
 					},
@@ -5534,21 +5435,18 @@
 						"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
 						"name": "Philip LaZebnik"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
-								"name": "Philip LaZebnik"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#WilliamDouglasLansford",
-								"name": "William Douglas Lansford"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
+							"name": "Philip LaZebnik"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WilliamDouglasLansford",
+							"name": "William Douglas Lansford"
+						}
+					],
 					"abstract": {
 						"en": "A powerful mythic figure from a millennium ago returns to enslave a planet in accordance with a contract. However, Picard is convinced she is an opportunistic charlatan."
 					},
@@ -5607,13 +5505,10 @@
 							"name": "Joe Menosky"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BruceDArthurs",
-							"name": "Bruce D. Arthurs"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BruceDArthurs",
+						"name": "Bruce D. Arthurs"
 					},
 					"abstract": {
 						"en": "The crew, with the exception of Data, is rendered unconscious for 30 seconds after going through a localized wormhole. However, various clues suggest they were unconscious for an entire day."
@@ -5688,13 +5583,10 @@
 							"name": "Michael Piller"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MarcScottZicree",
-							"name": "Marc Scott Zicree"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcScottZicree",
+						"name": "Marc Scott Zicree"
 					},
 					"abstract": {
 						"en": "Riker is hospitalized during a botched pre-first contact mission. Xenophobia results in increasing hostility toward his presence."
@@ -5747,13 +5639,10 @@
 						"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
 						"name": "Maurice Hurley"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#ThomasKartozian",
-							"name": "Thomas Kartozian"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ThomasKartozian",
+						"name": "Thomas Kartozian"
 					},
 					"abstract": {
 						"en": "The Enterprise accidentally kills a space creature, and the crew rush to save its unborn offspring. Meanwhile, Geordi meets the engineer he fell in love with and finds to his shock that she is nothing like the woman he encountered on the holodeck."
@@ -5813,13 +5702,10 @@
 							"name": "Jeri Taylor"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#ShariGoodhartz",
-							"name": "Shari Goodhartz"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ShariGoodhartz",
+						"name": "Shari Goodhartz"
 					},
 					"abstract": {
 						"en": "The Enterprise is trapped in a rift, the crew succumbs to REM sleep deprivation, and Deanna has a recurring nightmare."
@@ -5872,13 +5758,10 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#TimothyDeHaas",
-							"name": "Timothy DeHaas"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TimothyDeHaas",
+						"name": "Timothy DeHaas"
 					},
 					"abstract": {
 						"en": "Geordi transforms into an alien creature with a strong instinct to return to its planet of origin."
@@ -5982,21 +5865,18 @@
 						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
 						"name": "Ira Steven Behr"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RandeeRussell",
-								"name": "Randee Russell"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
-								"name": "Ira Steven Behr"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RandeeRussell",
+							"name": "Randee Russell"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
 						"en": "Q returns to test Picard’s love for an old flame."
 					},
@@ -6113,21 +5993,18 @@
 						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
 						"name": "Peter Allan Fields"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TedRoberts",
-								"name": "Ted Roberts"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
-								"name": "Peter Allan Fields"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TedRoberts",
+							"name": "Ted Roberts"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+							"name": "Peter Allan Fields"
+						}
+					],
 					"abstract": {
 						"en": "Lwaxana Troi finally finds love but discovers her man must undergo a ritualistic suicide."
 					},
@@ -6230,21 +6107,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#KenSchafer",
-								"name": "Ken Schafer"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
-								"name": "René Echevarria"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KenSchafer",
+							"name": "Ken Schafer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						}
+					],
 					"abstract": {
 						"en": "The Romulans brainwash Geordi to carry out a covert mission."
 					},
@@ -6484,21 +6358,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
-								"name": "Philip LaZebnik"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
-								"name": "Joe Menosky"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
+							"name": "Philip LaZebnik"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						}
+					],
 					"abstract": {
 						"en": "Picard must learn to communicate with an alien captain who speaks in metaphors before a dangerous beast kills them both.",
 						"de": "Ein Captain einer nur mit Metaphern kommunizierenden Spezies versucht auf einem Planeten, Picard zur Teilnahme an einem gemeinsamen Kampf gegen ein Monster zu bewegen."
@@ -6548,21 +6419,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
 						"en": "After an attack on a Federation outpost, Picard is sent to locate a Bajoran terrorist with the help of Ensign Ro Laren."
 					},
@@ -6614,13 +6482,10 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#LawrenceVConley",
-							"name": "Lawrence V. Conley"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LawrenceVConley",
+						"name": "Lawrence V. Conley"
 					},
 					"abstract": {
 						"en": "With the help of a scientist whose son lived on Data’s homeworld, the crew attempt to communicate with the Crystalline Entity."
@@ -6673,21 +6538,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonJarvis",
-								"name": "Ron Jarvis"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PhilipAScorza",
-								"name": "Philip A. Scorza"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonJarvis",
+							"name": "Ron Jarvis"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PhilipAScorza",
+							"name": "Philip A. Scorza"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise is heavily damaged after being hit by a space anomaly, trapping Picard in a turbolift with three children and others in various locations. Command of the bridge falls to Counselor Troi who feels ill-prepared, more so when the threat of a warp core breach endangers the Enterprise."
 					},
@@ -6739,26 +6601,23 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SusanSackett",
-								"name": "Susan Sackett"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#FredBronson",
-								"name": "Fred Bronson"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SusanSackett",
+							"name": "Susan Sackett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FredBronson",
+							"name": "Fred Bronson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Wesley visits the Enterprise and finds the crew addicted to a mind-altering computer game."
 					},
@@ -6810,21 +6669,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
 						"en": "Spock is reported to have defected to the Romulans. Picard and Data travel to Romulus in a cloaked Klingon vessel to investigate."
 					},
@@ -6876,21 +6732,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
 						"en": "Spock attempts to unify the Vulcans and Romulans in peace but falls into a Romulan trap."
 					},
@@ -7011,21 +6864,18 @@
 						"@id": "https://bittersmann.de/startrek/people#GrantRosenberg",
 						"name": "Grant Rosenberg"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SaraCharno",
-								"name": "Sara Charno"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#StuartCharno",
-								"name": "Stuart Charno"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SaraCharno",
+							"name": "Sara Charno"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StuartCharno",
+							"name": "Stuart Charno"
+						}
+					],
 					"abstract": {
 						"en": "Worf tries to be a father to his son, Alexander, while the Enterprise helps to test a new propulsion technology."
 					},
@@ -7077,13 +6927,10 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
-							"name": "Hilary J. Bader"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
 					},
 					"abstract": {
 						"en": "Data saves the life of an orphaned boy who begins to emulate him."
@@ -7143,26 +6990,23 @@
 							"name": "Jeri Taylor"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ShariGoodhartz",
-								"name": "Shari Goodhartz"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TMichael",
-								"name": "T. Michael"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PamelaGray",
-								"name": "Pamela Gray"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShariGoodhartz",
+							"name": "Shari Goodhartz"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TMichael",
+							"name": "T. Michael"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PamelaGray",
+							"name": "Pamela Gray"
+						}
+					],
 					"abstract": {
 						"en": "A telepathic alien traveling aboard the Enterprise telepathically assaults Troi and invades the minds of Beverly Crusher and William Riker."
 					},
@@ -7221,21 +7065,18 @@
 							"name": "Michael Piller"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JamesKahn",
-								"name": "James Kahn"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AdamBelanoff",
-								"name": "Adam Belanoff"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+							"name": "James Kahn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AdamBelanoff",
+							"name": "Adam Belanoff"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise helps a far-flung eugenic human colony avoid destruction but upsets its delicate balance by ending 200 years of isolation."
 					},
@@ -7287,13 +7128,10 @@
 						"@id": "https://bittersmann.de/startrek/people#BarrySchkolnick",
 						"name": "Barry Schkolnick"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#PaulSchiffer",
-							"name": "Paul Schiffer"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulSchiffer",
+						"name": "Paul Schiffer"
 					},
 					"abstract": {
 						"en": "The crew’s memories are mysteriously erased. They soon discover that they are being manipulated into taking part in a war."
@@ -7358,21 +7196,18 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PaulRuben",
-								"name": "Paul Ruben"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
-								"name": "Maurice Hurley"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PaulRuben",
+							"name": "Paul Ruben"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+							"name": "Maurice Hurley"
+						}
+					],
 					"abstract": {
 						"en": "Troi, O’Brien, and Data are possessed by entities who want control of the ship."
 					},
@@ -7424,21 +7259,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SaraCharno",
-								"name": "Sara Charno"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#StuartCharno",
-								"name": "Stuart Charno"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SaraCharno",
+							"name": "Sara Charno"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StuartCharno",
+							"name": "Stuart Charno"
+						}
+					],
 					"abstract": {
 						"en": "Worf becomes paralyzed, possibly for life, and asks Riker to assist him in the Hegh,bat ceremony, a Klingon suicide ritual. Dr. Crusher consults a risk-taking researcher to save his life."
 					},
@@ -7706,21 +7538,18 @@
 							"name": "Michael Piller"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
-								"name": "René Echevarria"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GaryPerconte",
-								"name": "Gary Perconte"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GaryPerconte",
+							"name": "Gary Perconte"
+						}
+					],
 					"abstract": {
 						"en": "Picard forces himself to resist the charms of a female empathic metamorph who is sent to marry an alien leader as a peace offering."
 					},
@@ -7779,26 +7608,23 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
-								"name": "Jean Louise Matthias"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
-								"name": "Ronald Wilkerson"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RichardFliegel",
-								"name": "Richard Fliegel"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
+							"name": "Jean Louise Matthias"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+							"name": "Ronald Wilkerson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardFliegel",
+							"name": "Richard Fliegel"
+						}
+					],
 					"abstract": {
 						"en": "A child’s imaginary playmate takes on a physical form and threatens the well-being of the Enterprise."
 					},
@@ -7973,13 +7799,10 @@
 							"name": "Peter Allan Fields"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MorganGendel",
-							"name": "Morgan Gendel"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MorganGendel",
+						"name": "Morgan Gendel"
 					},
 					"abstract": {
 						"en": "A space probe creates a telepathic tether to Picard and causes him to experience, in twenty-five minutes, a lifetime as a married man on a world that was destroyed a millennium ago.",
@@ -8037,13 +7860,10 @@
 							"name": "Michael Piller"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
-							"name": "Joe Menosky"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "A 500-year-old artifact is uncovered on Earth: Data’s severed head. The Enterprise investigates alien involvement in Earth’s past and Data fulfills his destiny."
@@ -8124,13 +7944,10 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
-							"name": "Joe Menosky"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "The Enterprise crew follow Data to San Francisco of the 1890s. The crew deals with Samuel Clemens and runs into Jack London while trying to find a way to prevent aliens from interfering with 19th century Earth."
@@ -8368,21 +8185,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
-								"name": "Jean Louise Matthias"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
-								"name": "Ronald Wilkerson"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
+							"name": "Jean Louise Matthias"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+							"name": "Ronald Wilkerson"
+						}
+					],
 					"abstract": {
 						"en": "Several members of the crew are abducted and experimented on while they sleep, including Riker, Worf, La Forge and Data, and become sleep deprived."
 					},
@@ -8499,26 +8313,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AllisonHock",
 						"name": "Allison Hock"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#WardBotsford",
-								"name": "Ward Botsford"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DianaDruBotsford",
-								"name": "Diana Dru Botsford"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
-								"name": "Michael Piller"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WardBotsford",
+							"name": "Ward Botsford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DianaDruBotsford",
+							"name": "Diana Dru Botsford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
 						"en": "A transporter malfunction turns Picard, Keiko, Ro and Guinan into children who become the ship’s only hope when they are left aboard while the adult crew are forced to perform dangerous labor by Ferengi pirates."
 					},
@@ -8577,13 +8388,10 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
-							"name": "Robert Hewitt Wolfe"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
 					},
 					"abstract": {
 						"en": "Data’s mind is connected to the ship’s computer, which creates unforeseen effects on the holodeck."
@@ -8701,13 +8509,10 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#FrankAbatemarco",
-							"name": "Frank Abatemarco"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FrankAbatemarco",
+						"name": "Frank Abatemarco"
 					},
 					"abstract": {
 						"en": "Captain Jellico is assigned command of the Enterprise while Picard is sent on a covert mission into Cardassian territory."
@@ -8907,13 +8712,10 @@
 							"name": "Ronald D. Moore"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
-							"name": "Jeri Taylor"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Geordi falls for an alien Starfleet officer who is suspected of murder. Guest star Renée Jones as Aquiel Uhnari."
@@ -8966,13 +8768,10 @@
 						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
 						"name": "Naren Shankar"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
-							"name": "René Echevarria"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
 					},
 					"abstract": {
 						"en": "Deanna is involuntarily recruited to assist in the transport of Romulan defectors across the border."
@@ -9301,21 +9100,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
-								"name": "Ronald D. Moore"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
-								"name": "Joe Menosky"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+							"name": "Joe Menosky"
+						}
+					],
 					"abstract": {
 						"en": "Picard tries to solve an ancient genetic mystery uncovered by his archaeological mentor and faces stiff competition."
 					},
@@ -9490,13 +9286,10 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JamesEBrooks",
-							"name": "James E. Brooks"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesEBrooks",
+						"name": "James E. Brooks"
 					},
 					"abstract": {
 						"en": "Worf experiences a crisis of faith and travels to a Klingon holy site where the mythic figure Kahless returns to lead the Klingon people."
@@ -9549,13 +9342,10 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MichaelAMedlock",
-							"name": "Michael A. Medlock"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelAMedlock",
+						"name": "Michael A. Medlock"
 					},
 					"abstract": {
 						"en": "Riker encounters a duplicate of himself, Thomas Riker, created by a transporter malfunction. Thomas vies for Deanna’s affections."
@@ -9659,13 +9449,10 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
-							"name": "Jeri Taylor"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "The crew encounter a group of Borg acting individually and Data briefly experiences emotions. Professor Stephen Hawking makes a guest appearance."
@@ -9822,21 +9609,18 @@
 							"name": "Lisa Rich"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RogerEschbacher",
-								"name": "Roger Eschbacher"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JaqGreenspon",
-								"name": "Jaq Greenspon"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RogerEschbacher",
+							"name": "Roger Eschbacher"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JaqGreenspon",
+							"name": "Jaq Greenspon"
+						}
+					],
 					"abstract": {
 						"en": "Worf and Troi reluctantly play host to two Iyaaran ambassadors while Picard crashes in a shuttle with another Iyaaran. He is rescued by a human female who exhibits strange behavior."
 					},
@@ -9939,21 +9723,18 @@
 						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
 						"name": "Naren Shankar"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#NarenShankar",
-								"name": "Naren Shankar"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ChristopherHatton",
-								"name": "Christopher Hatton"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+							"name": "Naren Shankar"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChristopherHatton",
+							"name": "Christopher Hatton"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise crew investigate the apparent murder of Captain Picard during an archaeological trip. Riker is kidnapped by mercenaries and finds Picard working as part of their crew."
 					},
@@ -10005,13 +9786,10 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#NarenShankar",
-							"name": "Naren Shankar"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+						"name": "Naren Shankar"
 					},
 					"abstract": {
 						"en": "Picard and Riker help mercenaries collect archaeological artifacts to prevent an ancient Vulcan weapon from falling into the wrong hands."
@@ -10275,13 +10053,10 @@
 							"name": "René Echevarria"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanKoeppel",
-							"name": "Dan Koeppel"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanKoeppel",
+						"name": "Dan Koeppel"
 					},
 					"abstract": {
 						"en": "Data encounters a woman claiming to be his “mother” while the Enterprise assists an alien planet in re-stabilizing their planet’s core."
@@ -10436,13 +10211,10 @@
 						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
 						"name": "Naren Shankar"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SpikeSteingasser",
-							"name": "Spike Steingasser"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SpikeSteingasser",
+						"name": "Spike Steingasser"
 					},
 					"abstract": {
 						"en": "A civilization doomed to extinction is saved by a Federation observer – Worf’s human foster brother – in violation of the Prime Directive, forcing the Enterprise crew to actively determine their fate."
@@ -10495,13 +10267,10 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
-							"name": "Jeri Taylor"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Dr. Crusher attends her grandmother’s funeral and finds that the house is inhabited by a spirit who is 800 years old, and was her grandmother’s lover."
@@ -10568,21 +10337,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
-								"name": "Ronald Wilkerson"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
-								"name": "Jean Louise Matthias"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+							"name": "Ronald Wilkerson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
+							"name": "Jean Louise Matthias"
+						}
+					],
 					"abstract": {
 						"en": "Junior officers buck for promotion as one of them is assigned the dangerous task of helping a Cardassian spy."
 					},
@@ -10634,13 +10400,10 @@
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#ChristopherHatton",
-							"name": "Christopher Hatton"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChristopherHatton",
+						"name": "Christopher Hatton"
 					},
 					"abstract": {
 						"en": "Data loses his memory after retrieving radioactive fragments on a planet’s surface and endangers the humanoid settlement he encounters, while Deanna studies to become a bridge officer."
@@ -10744,13 +10507,10 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-							"name": "Brannon Braga"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Deanna investigates the suicide of a crewman and uncovers a murder that took place during construction of the Enterprise."
@@ -10905,13 +10665,10 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#MarkKalbfeld",
-							"name": "Mark Kalbfeld"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkKalbfeld",
+						"name": "Mark Kalbfeld"
 					},
 					"abstract": {
 						"en": "Worf attempts to convince his son Alexander to embrace his warrior heritage."
@@ -11015,13 +10772,10 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-							"name": "Brannon Braga"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Enterprise becomes an emergent intelligence. It is discovered that the ship is creating a new life form via the holodeck characters."
@@ -11074,13 +10828,10 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
 						"name": "René Echevarria"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#NarenShankar",
-							"name": "Naren Shankar"
-						}
+					"contributtor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+						"name": "Naren Shankar"
 					},
 					"abstract": {
 						"en": "Lieutenant Ro graduates from advanced tactical training and is sent by Picard to lure Maquis terrorists into a trap."
