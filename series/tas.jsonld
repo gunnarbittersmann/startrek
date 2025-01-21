@@ -883,6 +883,14 @@
 						"@id": "https://bittersmann.de/startrek/people#LarryNiven",
 						"name": "Larry Niven"
 					},
+					"isBasedOn": {
+						"@type": "ShortStory",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LarryNiven",
+							"name": "Larry Niven"
+						}
+					},
 					"abstract": {
 						"en": "In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
 					}
