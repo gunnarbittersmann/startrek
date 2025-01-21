@@ -1533,21 +1533,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DCFontana",
 						"name": "D. C. Fontana"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JerrySohl",
-								"name": "Jerry Sohl"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DCFontana",
-								"name": "D. C. Fontana"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+							"name": "Jerry Sohl"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						}
+					],
 					"abstract": {
 						"en": "Despite exposure to fatal radiation, the Federation colony on Omicron Ceti III appears to be thriving. A landing party from the Enterprise investigates, finding the colony’s population to be healthy beyond explanation. Leila Kalomi, an old friend of Mr. Spock’s, shows the landing party strange flowers that seem to impose a state of pure bliss and perfect health on all exposed to its spores (even Spock), but at the cost of ambition and self-discipline."
 					},
@@ -3262,21 +3259,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ArtWallace",
 						"name": "Art Wallace"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
-								"name": "Gene Roddenberry"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ArtWallace",
-								"name": "Art Wallace"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+							"name": "Art Wallace"
+						}
+					],
 					"description": {
 						"en": "During a historical research mission in 1968, the Enterprise encounters Gary Seven, a human from the future who appears to be attempting to alter history. The Enterprise is on its mission to observe the Earth in 1968 when it beams aboard a mysterious man named Gary Seven. Gary wants to get back to the Earth’s surface, but the Enterprise command crew are unable to decide how to proceed. Seven tricks the guards and escapes, leading Kirk and Spock to beam down to the Earth’s surface. History suggests that on this day, a crucial spacecraft launch failed in the US that changed the course of history. But Kirk and Spock fail to realize that Seven is trying to help the events take place and not stop them. Using his secret portal, Seven is able to reach the launch site and install the device that will cause the mission to fail. The Enterprise can safely return to its present time.",
 						"de": "Die Enterprise ist zu Forschungszwecken in die Nähe der Erde des Jahres 1968 gereist. Plötzlich beamt sich der Agent 194 mit dem Codenamen Felix Seven Rock an Bord und behauptet, von einem außerirdischen Planeten zu kommen und in wichtiger Mission zur Rettung der Erde unterwegs zu sein. Kirk misstraut ihm und lässt ihn in Arrest stecken, aus dem er aber bald wieder flieht und sich in ein Büro in New York City beamt. Er will verhindern, dass auf der Erde ein Atomkrieg ausbricht, und versucht dazu mit zwei bereits dafür eingeteilten Agenten Kontakt aufzunehmen, die jedoch bei einem Autounfall sterben. Seven Rock beamt sich zur McKinley-Raketenbasis, auf dem die Amerikaner in Kürze eine Atomrakete starten lassen. Kurz bevor der Startcountdown abläuft, kann Seven Rock die Rakete insgeheim manipulieren. Kirk und Spock verfolgen Seven Rock bis in die Raketenbasis, wo beide aber verhaftet werden. Die für die zwei gestorbenen Agenten eingeteilte Frau Roberta beamt Seven Rock zu sich ins Büro und verhindert damit, dass Scotty in der Enterprise Seven Rock zu sich beamt. Kirk und Spock können ihrer Haft entkommen und lassen sich durch Scotty ebenfalls in das Büro beamen. Dort gibt Kirk erst in letzter Sekunde sein Misstrauen gegenüber Seven Rock auf, indem er ihn mit dessen Spezialcomputer die Rakete detonieren lässt, kurz bevor sie auf der Erde Schaden angerichtet hätte."
@@ -4071,21 +4065,18 @@
 						"@id": "https://bittersmann.de/startrek/people#LeeErwin",
 						"name": "Lee Erwin"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#LeeErwin",
-								"name": "Lee Erwin"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JerrySohl",
-								"name": "Jerry Sohl"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeeErwin",
+							"name": "Lee Erwin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+							"name": "Jerry Sohl"
+						}
+					],
 					"abstract": {
 						"en": "Captain Kirk visits a mental health facility and confronts an insane starship captain who believes he is destined to control the universe."
 					},
@@ -4430,21 +4421,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
 						"name": "Arthur Heinemann"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DCFontana",
-								"name": "D. C. Fontana"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
-								"name": "Arthur Heinemann"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+							"name": "Arthur Heinemann"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise is hijacked by a criminal doctor and his loyal, hippie-like followers who are attempting to find paradise."
 					},
@@ -4496,21 +4484,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
 						"name": "Margaret Armen"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
-								"name": "David Gerrold"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
-								"name": "Oliver Crawford"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+							"name": "David Gerrold"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+							"name": "Oliver Crawford"
+						}
+					],
 					"abstract": {
 						"en": "Kirk races against time to acquire plague-fighting minerals from a world in the midst of a civil uprising."
 					},

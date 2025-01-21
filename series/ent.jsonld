@@ -234,21 +234,18 @@
 							"name": "Phyllis Strong"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "A storm traps an away team in a cave on an alien world, and pollen spores cause them to experience psychosis."
 					},
@@ -334,21 +331,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AntoinetteStella",
 						"name": "Antoinette Stella"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Enterprise is sent to learn what happened to an early Human colony called Terra Nova."
 					},
@@ -388,26 +382,23 @@
 						"@id": "https://bittersmann.de/startrek/people#FredDekker",
 						"name": "Fred Dekker"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#FredDekker",
-								"name": "Fred Dekker"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FredDekker",
+							"name": "Fred Dekker"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer, Commander Tucker, and Sub-Commander T’Pol are taken hostage by Andorians in a Vulcan monastery called P’Jem."
 					},
@@ -769,21 +760,18 @@
 							"name": "Phyllis Strong"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Sub-Commander T’Pol is recalled to Vulcan. During her final away mission, she and Captain Archer are kidnapped, leading to another confrontation between Vulcans and Andorians."
 					},
@@ -890,21 +878,18 @@
 							"name": "Mike Sussman"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Enterprise encounters a crew of emotional Vulcans; Sub-Commander T’Pol experiences an illicit mind meld, with unsettling results."
 					},
@@ -944,26 +929,23 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
 						"name": "Chris Black"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
-								"name": "Chris Black"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						}
+					],
 					"abstract": {
 						"en": "While exploring an uncharted planet, Enterprise crew members encounter a group of aliens who are hunting down indigenous creatures (Wraiths) for sport. Stephanie Niznik guest stars as the wraith alien."
 					},
@@ -1010,21 +992,18 @@
 							"name": "Andre Jacquemetton"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "A group of Ferengi hijack Enterprise, but Commander Tucker, Captain Archer and Sub-Commander T’Pol resist the pirates in order to win back their ship."
 					},
@@ -1064,26 +1043,23 @@
 						"@id": "https://bittersmann.de/startrek/people#StephenBeck",
 						"name": "Stephen Beck"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#StephenBeck",
-								"name": "Stephen Beck"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StephenBeck",
+							"name": "Stephen Beck"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer and an away team find a mysterious crew apparently alive on a ship that crash-landed years ago."
 					},
@@ -1130,21 +1106,18 @@
 							"name": "Mike Sussman"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer and Ensign Mayweather find themselves imprisoned in a Suliban internment camp run by the Tandarans."
 					},
@@ -1190,26 +1163,23 @@
 						"@id": "https://bittersmann.de/startrek/people#FredDekker",
 						"name": "Fred Dekker"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#FredDekker",
-								"name": "Fred Dekker"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FredDekker",
+							"name": "Fred Dekker"
+						}
+					],
 					"abstract": {
 						"en": " A strange, symbiotic alien creature boards Enterprise and starts kidnapping members of the crew."
 					},
@@ -1249,26 +1219,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AlanCross",
 						"name": "Alan Cross"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
-								"name": "Chris Black"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
+							"name": "Chris Black"
+						}
+					],
 					"abstract": {
 						"en": " Enterprise finds itself under attack while transporting a controversial Vulcan ambassador."
 					},
@@ -1308,26 +1275,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
 						"name": "André Bormanis"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
-								"name": "André Bormanis"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						}
+					],
 					"abstract": {
 						"en": "Commander Tucker and Captain Archer are invited to a desert planet by a man named Zobral, only to discover that he has ulterior motives."
 					},
@@ -1367,21 +1331,18 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
 						"name": "Chris Black"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Enterprise finally arrives for shore leave on Risa. While there, the crew experience more than they are later willing to admit."
 					},
@@ -1541,26 +1502,23 @@
 						"@id": "https://bittersmann.de/startrek/people#ChrisBlack",
 						"name": "Chris Black"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DanOShannon",
-								"name": "Dan O’Shannon"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanOShannon",
+							"name": "Dan O’Shannon"
+						}
+					],
 					"abstract": {
 						"en": "Sub-Commander T’Pol relates the tale of a Vulcan crew stranded on Earth in the 1950s."
 					},
@@ -1745,21 +1703,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidWilcox",
 						"name": "David Wilcox"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer barters for deuterium from a mining colony plagued by Klingon marauders, who are seeking deuterium as well."
 					},
@@ -1845,21 +1800,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
 						"name": "André Bormanis"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "After an away mission, Lieutenant Reed discovers that his communicator was lost on a pre-warp planet; he and Captain Archer are then captured trying to retrieve it."
 					},
@@ -1984,21 +1936,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
 						"name": "David A. Goodman"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "While answering a distress call, Commander Tucker is kidnapped along with a demanding alien princess."
 					},
@@ -2300,26 +2249,23 @@
 							"name": "Brannon Braga"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
-								"name": "André Bormanis"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						}
+					],
 					"abstract": {
 						"en": "Incorporeal aliens attempt to take over Enterprise."
 					},
@@ -2359,21 +2305,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
 						"name": "David A. Goodman"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TaylorElmore",
-								"name": "Taylor Elmore"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
-								"name": "David A. Goodman"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TaylorElmore",
+							"name": "Taylor Elmore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAGoodman",
+							"name": "David A. Goodman"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer is arrested and imprisoned by the Klingons for allegedly conspiring against the Empire."
 					},
@@ -2684,21 +2627,18 @@
 							"name": "Phyllis Strong"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "A Tellarite captures Captain Archer in order to collect a reward from the Klingons who have been searching for him since the events of “Judgment”."
 					},
@@ -2953,21 +2893,18 @@
 							"name": "Chris Black"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#PaulBrown",
-								"name": "Paul Brown"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrentVFriedman",
-								"name": "Brent V. Friedman"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PaulBrown",
+							"name": "Paul Brown"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrentVFriedman",
+							"name": "Brent V. Friedman"
+						}
+					],
 					"abstract": {
 						"en": "A slave girl Archer rescues from an alien bazaar seeks refuge aboard Enterprise but betrays the crew instead."
 					},
@@ -3007,21 +2944,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFernandez",
 						"name": "Jonathan Fernandez"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JonathanFernandez",
-								"name": "Jonathan Fernandez"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
-								"name": "Terry Matalas"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JonathanFernandez",
+							"name": "Jonathan Fernandez"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+							"name": "Terry Matalas"
+						}
+					],
 					"abstract": {
 						"en": "Enterprise encounters a Vulcan ship whose crew has become unstable due to Trellium-D exposure. Sub-Commander T’Pol soon begins to exhibit the same symptoms."
 					},
@@ -3460,21 +3394,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "Enterprise encounters a dying alien, one of the Sphere Builders, for the first time."
 					},
@@ -3553,21 +3484,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
 						"name": "André Bormanis"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
-								"name": "André Bormanis"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MikeSussman",
-								"name": "Mike Sussman"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+							"name": "Mike Sussman"
+						}
+					],
 					"abstract": {
 						"en": "Captain Archer becomes overly protective of an Insectoid hatchery, to the point of endangering their mission."
 					},
@@ -3621,26 +3549,23 @@
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#RickBerman",
-								"name": "Rick Berman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-								"name": "Brannon Braga"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-								"name": "Manny Coto"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+							"name": "Manny Coto"
+						}
+					],
 					"abstract": {
 						"en": "Finding the superweapon on Azati Prime, Captain Archer embarks on a suicide mission to destroy it, and Enterprise suffers a devastating attack by the Xindi."
 					},
@@ -4847,26 +4772,23 @@
 							"name": "Manny Coto"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
-								"name": "Garfield Reeves-Stevens"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
-								"name": "Judith Reeves-Stevens"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
-								"name": "André Bormanis"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GarfieldReevesStevens",
+							"name": "Garfield Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudithReevesStevens",
+							"name": "Judith Reeves-Stevens"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+							"name": "André Bormanis"
+						}
+					],
 					"abstract": {
 						"en": "A human isolationist leader threatens to destroy Starfleet Command unless all aliens leave Earth immediately. His bargaining tool: a baby cloned from DNA belonging to Trip and T’Pol."
 					},

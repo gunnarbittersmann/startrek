@@ -133,21 +133,18 @@
 							"name": "Bryan Fuller"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BryanFuller",
-								"name": "Bryan Fuller"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
-								"name": "Alex Kurtzman"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+							"name": "Bryan Fuller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+							"name": "Alex Kurtzman"
+						}
+					],
 					"description": {
 						"en": "Investigating a damaged satellite near a binary star system on the edge of Federation space, the crew of the Starfleet starship USS Shenzhou discover an object obscured from their sensors. When First Officer Michael Burnham volunteers to investigate the object, she finds an ancient, carved vessel. She is attacked by a Klingon, and when trying to escape, she accidentally kills him. A group of Klingons mourn the death of their soldier, dubbed the “Torchbearer”, before an outcast Klingon named Voq volunteers to take his place. The Klingons, led by T’Kuvma, reveal themselves to be in a cloakable ship. T’Kuvma preaches to his followers about the Federation’s attempts to usurp the individuality of the Klingons and their culture, and plans to fulfill an ancient prophecy by uniting the 24 great Klingon houses as was once done by the legendary Kahless. Voq activates a beacon that summons all the Klingon leaders. Burnham, desperate to prevent a war, defies the wishes of Captain Philippa Georgiou and attempts to fire on the Klingons first. She is arrested for mutiny.",
 						"de": "Die Handlung setzt im Mai 2256 ein. Das Sternenflottenraumschiff U.S.S. Shenzhou, kommandiert von Captain Philippa Georgiou, stößt am Rande des Territoriums der Föderation auf ein unbekanntes Gebilde im All. Da man zwecks Erforschung des Objekts wegen eines Streufeldes mit dem Schiff nicht nahe genug herankommt, untersucht die erste Offizierin Michael Burnham das Gebilde in einem Raumanzug allein aus der Nähe. Dort tötet sie im Affekt einen plötzlich erschienenen Klingonen, zu dessen als kriegerisch bekannter Spezies die Föderation nun schon seit über 100 Jahren keinen Kontakt mehr hatte, und entgeht bei dem Einsatz nur knapp dem Tod. Das Gebilde erweist sich als klingonisches Kampfschiff und damit als Bedrohung für die Shenzhou. An Bord jenes Schiffs plädiert der Klingone T’Kuvma dafür, dass die 24 untereinander zerstrittenen klingonischen Häuser sich miteinander zu vereinen hätten, um erfolgreich gegen die Sternenflotte zu kämpfen, von der sie sich wegen vermeintlicher Expansionsbestrebungen bedroht fühlen. Burnham, vor sieben Jahren nach vulkanischer Ausbildung an Bord der Shenzhou gekommen, erhält von ihrem vulkanischen Mentor Sarek den Rat, mit einem sog. „Vulkanischen Hallo“ zu reagieren, das heißt, die Klingonen zuerst anzugreifen. Davon beeinflusst, hintergeht Burnham, deren Eltern einst von Klingonen getötet wurden, die Anordnungen ihres Captains und reißt das Kommando an sich. Indes erscheinen weitere klingonische Raumschiffe, die sich der Shenzhou entgegenstellen."
@@ -264,26 +261,23 @@
 							"name": "Craig Sweeny"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BryanFuller",
-								"name": "Bryan Fuller"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
-								"name": "Gretchen J. Berg"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
-								"name": "Aaron Harberts"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+							"name": "Bryan Fuller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						}
+					],
 					"description": {
 						"en": "Six months into her sentence, Burnham is on an unexpected prison transfer when an emergency forces her shuttle to be rescued by the USS Discovery. Spending several days on the starship, Burnham is ordered by its captain, the mysterious Gabriel Lorca, to assist with a scientific assignment. Burnham overhears Lieutenant Paul Stamets, an astromycologist who is leading the assignment, discuss an upcoming experiment with a colleague serving on another starship; Lorca is soon informed of an incident on the Discovery’s sister ship, the USS Glenn, that has killed the entire crew. Stamets leads a boarding party to investigate and finds the dead crew hideously twisted and malformed, as well as a group of Klingons killed by an unknown creature. Lorca later asks Burnham to work for him, despite her sentence, explaining that he organized the circumstances that led her to him so she could help develop a new spore-based propulsion system on Discovery. He believes this “spore drive” could win the war that Burnham started by killing T’Kuvma. He also secretly has the creature transported to the Discovery.",
 						"de": "Sechs Monate nach ihrer Verurteilung ist Burnham als Teil eines Häftlingstransports in einem Shuttle unterwegs. Als es in einem Sturm in Gefahr gerät, wird es vom Sternenflottenraumschiff U.S.S. Discovery gerettet und an Bord geholt. Wegen Burnhams Fähigkeiten als Quantenphysikerin setzt Captain Lorca sie als Hilfswissenschaftlerin ein. Sie ist auch Teil eines Außenteams um Lt. Stamets, das die im All driftende U.S.S. Glen untersucht, das Schwesterschiff der Discovery. Dabei schützt Burnham ihre Kollegen vor den gewalttätigen Angriffen eines dort sein Unwesen treibenden, reptilienähnlichen Wesens. Zurück auf der Discovery, erkennt Burnham, dass Lorca sie absichtlich auf die Discovery geholt hat und er sie einer Prüfung ihrer Fähigkeiten unterziehen wollte. Lorca erklärt ihr, dass auf der Discovery ein experimentelles biologisches, auf Sporen basierendes Antriebssystem entwickelt wird, welches der Föderation helfen soll, den Krieg gegen die Klingonen zu gewinnen. Der Antrieb ermöglicht sekundenschnelle Raumsprünge über viele Lichtjahre hinweg und wurde auf der Glen erfolgreich getestet, ehe ein Experiment fehlschlug. Weil Lorca das Verhalten Burnhams während der Schlacht im Doppelsternsystem als taktisch klug beurteilt, überzeugt er sie davon, dauerhaft an Bord zu bleiben und in den Sternenflottendienst zurückzukehren."
@@ -383,26 +377,23 @@
 						"@id": "https://bittersmann.de/startrek/people#KempPowers",
 						"name": "Kemp Powers"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
-								"name": "Gretchen J. Berg"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
-								"name": "Aaron Harberts"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#KempPowers",
-								"name": "Kemp Powers"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KempPowers",
+							"name": "Kemp Powers"
+						}
+					],
 					"description": {
 						"en": "After a month of successful operations, Lorca is ordered to protect the spore drive until it can be replicated for other Starfleet ships. As he returns to the Discovery, Lorca is taken captive by a group of Klingons led by L’Rell. Burnham has grown concerned by the toll that the drive has taken on Ripper. Along with Stamets’ partner, medical officer Hugh Culber, Burnham convinces Stamets to find an alternative to run the drive. Lorca is imprisoned with captured Starfleet officer Ash Tyler and human criminal Harry Mudd, and in discussions Lorca reveals that he killed his entire crew during an earlier battle to spare them from the Klingons’ torture, but escaped himself. Lorca is tortured by L’Rell, who wants to learn the secret behind Discovery’s new form of travel, but Lorca and Tyler escape before the Klingons can learn anything about it. For the final jump needed to escape the Klingons, with Lorca and Tyler onboard, Stamets connects to the spore drive himself using Ripper’s DNA. Later, Burnham frees Ripper while Stamets’ reflection in a mirror does not walk away when he does.",
 						"de": "Lorcas Vorgesetzte in der Sternenflotte möchten zum einen, dass auch andere Sternenflottenschiffe mit dem Sporenantrieb ausgerüstet werden, und zum anderen, dass die Discovery den Sporenantrieb bis auf weiteres nicht mehr einsetzt, damit die Klingonen nicht auf ihn aufmerksam werden. Während des Fluges mit einem Shuttle wird Lorca von Klingonen entführt. Auf einem klingonischen Raumschiff ist er zusammen mit dem Sternenflottenmann Ash Tyler und dem Glücksritter Harry Mudd gefangen. Lorca und Tyler werden von den Klingonen gefoltert und lassen Mudd bei ihrer gewaltsamen Flucht aus dem Gefängnis zurück, weil er sie durch geheime Informationsweitergabe an die Klingonen hintergangen hat. Indes entdeckt Burnham auf der Discovery, dass der Sporenantrieb, wenn er unter Zuhilfenahme des Tardigrade eingesetzt wird, zu einer deutlichen Verschlechterung der physischen Kondition des Tardigrade führt. Indem sich die Discovery mit Hilfe des Sporenantriebs in die Nähe von Lorcas Gefangenschaftsort transloziert, schrumpft bzw. dehydriert der Tardigrade erheblich. Die Discovery rettet die beiden Geflüchteten. Um den Tardigrade zu schonen, injiziert sich Stamets etwas von seiner DNS, wodurch er seinen eigenen Körper für den Betrieb des Sporenantriebs nutzen kann und damit die Flucht der Discovery vor den Klingonen ermöglicht. Um den Tardigrade zu retten, entlassen Burnham und Stamets ihn ins All und damit ins Myzeliennetzwerk."
@@ -856,26 +847,23 @@
 							"name": "Aaron Harberts"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
-								"name": "Akiva Goldsman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
-								"name": "Gretchen J. Berg"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
-								"name": "Aaron Harberts"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						}
+					],
 					"description": {
 						"en": "Tyler suggests that a drone enter Qo’noS’s underground, dormant volcanic system to covertly search the planet for targets. Discovery jumps to a cave near the system’s entrance, and a party of Georgiou, Burnham, Tilly, and Tyler pose as traders visiting an Orion outpost on the planet. Tilly discovers that the volcanic system they are targeting is active, and that the “drone” Georgiou has is a hydro-bomb. Burnham confronts Cornwell, who admits that detonating the bomb in the active volcano will annihilate all life on Qo’noS and win the war for the Federation. Burnham insists that Starfleet not commit genocide, and convinces Georgiou to give up the detonator in exchange for her freedom. They give the detonator to L’Rell, who uses the threat of mass destruction to unite the Klingon houses under her leadership and end the war. The Discovery crew are hailed as heroes, and Burnham is issued a full pardon and restored to the rank of commander. Tyler chooses to remain with L’Rell. As Discovery warps to Vulcan to pick up its new captain, the crew receive a distress call from Captain Pike of the USS Enterprise.",
 						"de": "Tyler teilt mit, dass zum Kartografieren und zum Ermitteln von Angriffszielen eine Drohne in das ruhende Vulkansystem unter der Planetenoberfläche von Qo’noS eindringen sollte. Die Discovery springt mit dem Sporenantrieb zu einer nahen Höhle, und ein Außenteam, bestehend aus Georgiou, Burnham, Tilly und Tyler, gibt sich als Händler aus. Tilly entdeckt, dass das vulkanische System aktiv ist und dass die Drohne, die Georgiou dabei hat, in Wirklichkeit eine Wasserstoffbombe ist. Mit dieser Erkenntnis konfrontiert Burnham Admiral Cornwell, welche zugibt, dass die Detonation der Bombe in dem aktiven Vulkan sämtliches Leben auf Qo’noS auslöschen soll, damit die Föderation so den Krieg gewinnt. Burnham insistiert darauf, dass die Sternenflotte keinen Genozid anrichten sollte und zwingt Georgiou dazu, die Bombe im Tausch für ihre Freiheit zurückzugeben. Jedoch überreichen sie die Bombe an die Klingonin L’Rell, die die Bedrohung mit der Massenvernichtungswaffe dazu nutzt, unter ihrer Führerschaft die klingonischen Häuser zu vereinen und den Krieg zu beenden. Die Mitglieder der Discovery-Besatzung werden als Helden gefeiert. Burnham erhält offiziell eine Rehabilitation und ihren früheren Rang eines Commanders zurück. Tyler beschließt, bei L’Rell zu bleiben. Als die Discovery mit Warpgeschwindigkeit zum Planeten Vulkan fliegt, empfängt sie einen Notruf von der U.S.S. Enterprise."
@@ -1022,21 +1010,18 @@
 							"name": "Sean Cochran"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
-								"name": "Akiva Goldsman"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SeanCochran",
-								"name": "Sean Cochran"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+							"name": "Sean Cochran"
+						}
+					],
 					"description": {
 						"en": "Confronted with the log entry, Pike reveals Spock committed himself to a psychiatric unit one week after taking leave and requested Starfleet inform neither Burnham nor their parents. Discovery detects another signal and uses its experimental spore drive to travel to it, finding a planet with a previously unknown human population. A looped transmission suggests the population departed Earth during World War III. Pike and Burnham lead an away team to the surface, finding a primitive society with a religion combining multiple faiths. As the investigation continues, an anomaly produces an extinction-level radiation shower. Ensign Sylvia Tilly, acting on a fellow ensign’s advice, uses a sample from the asteroid’s non-baryonic matter to avert the catastrophe. Tilly later recognizes the ensign as May Ahearn, a high school classmate who died five years earlier. Pike reviews footage from a helmet camera belonging to a founding member of the society, which shows the Red Angel bringing the population to Terralysium from Earth.",
 						"de": "Burnham entdeckt in Spocks Habseligkeiten bestimmte Computerdaten, die darauf hindeuten, dass er schon seit längerem etwas über die sieben Signale weiß. Daraufhin enthüllt ihr Pike, dass Spock seit einiger Zeit und auf eigenen Wunsch hin in psychiatrischer Therapie ist. Stamets glaubt, Culber kürzlich im Myzeliennetzwerk gesehen zu haben. Zur Erforschung des zweiten Signals springt die Discovery mit dem Sporenantrieb bis in die Nähe eines Planeten im Beta-Quadranten, von dem ein menschlicher Notruf ausgeht, der seit ca. 200 Jahren gesendet wird und damit aus einer Prä-Warp-Zeit stammt. Das Außenteam um Burnham und Pike erfährt, dass die Personen auf dem Planeten die Nachfahren von Menschen sind, die 2053 vor dem Dritten Weltkrieg hierher flohen und die Kolonie „New Eden“ nannten. Die Menschen glauben an eine Vermischung aller großen Weltreligionen und dass die Erde nicht mehr existiert. Die Discovery-Brückencrew entdeckt indes die von den radioaktiven Planetenringen ausgehende Gefahr, dass die Planetenoberfläche in Kürze in einen nuklearen Winter verfällt, und beseitigt die Gefahr in letzter Minute durch das Aussetzen des beim ersten Signal sichergestellten Asteroidenteils und dessen Gravitationskraft. Nach der Rückkehr des Außenteams auf die Discovery enthüllt Burnham gegenüber Pike, dass ihr auf dem Planeten die gleiche Engel-ähnliche Gestalt erschienen ist wie zuvor auf dem Asteroiden. Die gleiche Gestalt sieht Pike auf einem Video, das er von dem Planeten geholt hat, und das zum Grund für den Glauben der dortigen Bewohner wurde."
@@ -1124,26 +1109,23 @@
 							"name": "Andrew Colville"
 						}
 					],
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JordonNardino",
-								"name": "Jordon Nardino"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
-								"name": "Gretchen J. Berg"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
-								"name": "Aaron Harberts"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JordonNardino",
+							"name": "Jordon Nardino"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+							"name": "Gretchen J. Berg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+							"name": "Aaron Harberts"
+						}
+					],
 					"description": {
 						"en": "A living, intelligent, planetoid-sized Sphere pulls Discovery out of warp and immobilizes it. The crew surmises that the Sphere is well-intentioned and has gathered huge amounts of data from all over the galaxy that it does not want to be lost before it dies. However, the Sphere’s hold on Discovery triggers the Vahar’ai in Commander Saru, a fatal condition to his species, the Kelpiens. The Sphere transmits its information to the crew and dies, releasing Discovery so that it will not be caught in the ensuing explosion. Saru asks Burnham to help him prepare for his death by removing his threat ganglia, which sense danger. However, they fall out on their own and leave Saru healthy and living without the overwhelming fear his species is known for. Meanwhile, the parasite attaches itself to Tilly again, once again accessing her memories to communicate as a hallucination of May. The parasite claims Discovery has nearly destroyed its ecosystem by using its species’ mycelial network to jump through space with the spore drive. It then consumes Tilly, leaving no trace of her.",
 						"de": "Pike erhält von der ersten Offizierin der Enterprise Informationen über die Flugroute Spocks. Als die Discovery dieser Route folgt, reißt eine lebende, intelligente und planetoidengroße Sphäre das Schiff aus der Warpgeschwindigkeit und macht es bewegungsunfähig. Die Crew vermutet, dass die Sphäre gute Absichten hegt und riesige Mengen an Daten aus der ganzen Galaxis gesammelt hat, die sie nicht verlieren möchte, bevor sie stirbt. Die Gefangenschaft der Discovery bei der Sphäre löst in Saru das Vahar’ai aus, einen gewöhnlich tödlich endenden Lebensabschnitt in seiner Spezies, den Kelpianern. Die Sphäre übermittelt ihre Informationen an die Crew und stirbt, aber nicht ohne die Discovery freizugeben, damit sie nicht von der anschließenden Explosion betroffen ist. Saru bittet Burnham um Hilfe bei der Vorbereitung für seinen Tod, indem sie seine Nervenknoten entfernt, die bei ihm für das Gefühl von Gefahr sorgen. Allerdings fallen diese von selbst aus und lassen Saru gesund und ohne überwältigende Angst weiterleben. Währenddessen ergreift der Parasit von Tilly erneut Besitz, und zwar einmal mehr, indem er auf ihre Erinnerungen zugreift, um als eine Halluzination ihrer einstigen Schulfreundin May zu kommunizieren. Der Parasit behauptet, dass die Discovery beinahe sein Ökosystem zerstört hat, indem sie das Myzeliennetzwerk seiner Spezies für Raumsprünge mit dem Sporenantrieb benutzt hat. Anschließend zehrt er Tilly komplett auf, ohne eine Spur von ihr zu hinterlassen."
@@ -1271,21 +1253,18 @@
 						"@id": "https://bittersmann.de/startrek/people#TedSullivan",
 						"name": "Ted Sullivan"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TedSullivan",
-								"name": "Ted Sullivan"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#VaunWilmott",
-								"name": "Vaun Wilmott"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TedSullivan",
+							"name": "Ted Sullivan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#VaunWilmott",
+							"name": "Vaun Wilmott"
+						}
+					],
 					"description": {
 						"en": "Discovery is confronted by a time anomaly while researching the Red Angel’s signal over Kaminar. Pike and Tyler investigate the anomaly in a shuttlecraft, sending a probe into it. That same probe soon returns through the anomaly having been upgraded with future technology. It attacks the shuttle, and secretly infects Airiam’s augmentations using the shuttle’s computer system. Pike and Tyler destroy the probe with Stamets’ help, as his exposure to the mycelial network allows him to ignore the time discrepancies in the anomaly. Meanwhile, Burnham visits Vulcan as she continues to search for Spock. Confronting Grayson, Burnham learns that their mother has been hiding Spock, who is in psychological distress and is repeating phrases and a series of numbers. Their father Sarek instructs Burnham to trust Starfleet and take Spock to Section 31 to fix his mind. Section 31’s doctors claim that they can help him, but Georgiou warns her that Spock will not survive the memory extractor that Section 31 plans to use on him. Georgiou helps Burnham stage an attack that allows Burnham and Spock to escape the ship.",
 						"de": "Die Discovery trifft auf eine Zeitanomalie, während sie ein Signal des Roten Engels beim Planeten Kaminar untersucht. Pike und Tyler untersuchen die Anomalie in einem Shuttle und schießen eine Sonde hinein. Bald darauf werden sie von derselben Sonde angegriffen, die nunmehr mit einer Technologie aus der Zukunft aufgerüstet ist, die das Computersystem des Shuttles nutzt, um insgeheim Airiam zu infizieren. Sie können das Shuttle und die Sonde mit der Hilfe von Stamets zerstören, dessen Verbindung zum Myzeliennetzwerk es ihm erlaubt, die zeitlichen Diskrepanzen in der Anomalie zu ignorieren. Währenddessen besucht Burnham auf der Suche nach Spock den Planeten Vulkan. Indem sie Amanda Grayson zur Rede stellt, erfährt sie, dass diese Spock versteckt hält, welcher sich in psychologischer Not befindet und verschiedene Sätze und eine Reihe von Zahlen wiederholt. Spocks Vater Sarek weist Burnham an, der Sternenflotte zu glauben und Spock zur Sektion 31 zu bringen, um Hilfe bei der Heilung seines Gehirns zu erhalten. Die Ärzte der Sektion behaupten, dass sie ihm helfen können, aber Georgiou warnt sie, dass Spock den von der Sektion geplanten Einsatz des Erinnerungsextraktors nicht überleben wird. Georgiou erlaubt Burnham, sie anzugreifen und so eine Flucht zu inszenieren, bei der Burnham und Spock von dem Schiff entkommen."
@@ -2034,21 +2013,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanCochran",
 						"name": "Sean Cochran"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JamesDuff",
-								"name": "James Duff"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SeanCochran",
-								"name": "Sean Cochran"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesDuff",
+							"name": "James Duff"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SeanCochran",
+							"name": "Sean Cochran"
+						}
+					],
 					"description": {
 						"en": "Using Senna’s memories, Adira guides Discovery to Starfleet headquarters. Starfleet Commander-in-Chief Charles Vance asks for Burnham, Saru, and Adira to beam over to the base, where Adira is taken away for medical testing. Vance informs Saru and Burnham that the crew will be interrogated and reassigned while their ship is studied, which Saru agrees to in hopes of earning the trust of Starfleet. Realizing that Starfleet is dealing with a health crisis that could be solved through the seed archives aboard the USS Tikhov, Burnham receives approval from Vance to take the Discovery crew there with the spore drive and retrieve the seeds. They find the occupants of the Tikhov dead except for a man who is fatally injured. He is the same species as security officer Nhan, who decides to remain with the Tikhov to ensure he and his family receive a proper burial. Discovery returns to Starfleet with the seeds, and an antidote for the health crisis is synthesized. Due to this success, Vance agrees that the Discovery crew may remain together but insists that they answer to him.",
 						"de": "Mithilfe von Sennas Erinnerungen führt Adira die Discovery zum Hauptquartier der Sternenflotte. Der aktuelle Oberbefehlshaber der Sternenflotte, Charles Vance, lässt Burnham, Saru und Adira zur Zentrale beamen, wo Adira für medizinische Tests abgeholt wird. Vance teilt Saru und Burnham mit, dass die Besatzung verhört und neu eingeteilt, sowie ihr Schiff untersucht wird. Saru gibt hierzu sein Einverständnis, um das Vertrauen der Sternenflotte zu gewinnen. Burnham erkennt, dass die Sternenflotte mit einer Gesundheitskrise zu kämpfen hat, die durch die Samenarchive an Bord der USS Tikhov gelöst werden könnte. Sie erwirkt von Vance die Erlaubnis, die Crew der Discovery mit dem Sporenantrieb dorthin zu bringen und die Samen zu bergen. Sie finden die Insassen der Tikhov tot vor bis auf einen Mann, der nur noch kurze Zeit leben kann. Er gehört der gleichen Spezies an wie die Sicherheitsoffizierin Nhan, die beschließt, bei der Tikhov zu bleiben, um sicherzustellen, dass die Samenarchive erhalten bleiben, und um ihren Heimatplaneten wiederzusehen. Die Discovery kehrt mit den Samen zur Sternenflotte zurück, und es wird ein Gegenmittel für die Gesundheitskrise synthetisiert. Vance stimmt zu, dass die Besatzung der Discovery zusammenbleiben darf, aber sie habe sich streng an seine Anweisungen zu halten."
@@ -2290,26 +2266,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
 						"name": "Alan McElroy"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
-								"name": "Bo Yeon Kim"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
-								"name": "Erika Lippoldt"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
-								"name": "Alan McElroy"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
+							"name": "Bo Yeon Kim"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
+							"name": "Erika Lippoldt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
+							"name": "Alan McElroy"
+						}
+					],
 					"description": {
 						"en": "After studying Georgiou’s condition, Culber is visited by Dr. Kovich, a mysterious Starfleet operative, who explains that since Georgiou has both traveled through time and from a different universe, her molecules have moved too far from their origin and she is now likely to die. Consulting with Discovery’s computer, which has been augmented with the intelligent Sphere data, Culber believes that Georgiou could be saved by traveling to an uninhabited planet, Dannus V. Stamets and Adira use the SB-19 data to trace the source of the Burn to the Verubin Nebula, and discover a distress signal from a Kelpien starship. On Dannus V, Georgiou and Burnham encounter a strange being named Carl who directs Georgiou to a door. On the other side, she finds herself back in the Mirror Universe during the time she was Emperor. Georgiou finds that her time with Discovery has made her a better person than she was then, and she decides to use her knowledge of the past to alter certain events, including rescuing the slave Saru and sparing the life of the treacherous Michael Burnham.",
 						"de": "Culber wird von Kovich, einem mysteriösen Sternenflottenmitarbeiter, aufgesucht. Dieser erklärt, dass Georgiou sowohl durch die Zeit gereist ist als auch aus einem anderen Universum, dem Spiegeluniversum, stammt und sich ihre Moleküle zu weit von ihrem Ursprung entfernt haben, so dass sie nun wahrscheinlich sterben wird. Nach Rücksprache mit dem Computer der Discovery, der mit den Daten der intelligenten Sphäre erweitert wurde, glaubt Culber, dass Georgiou gerettet werden könnte, indem sie zu einem unbewohnten Planeten, Dannus V, reist. Stamets und Adira verwenden die SB-19-Daten, um die Quelle des Brandes zum Verubin-Nebel zurückzuverfolgen und entdecken ein Notsignal von einem Kelpianer-Raumschiff. Auf Dannus V treffen Georgiou und Burnham auf ein seltsames Wesen namens Carl, das Georgiou zu einer Tür führt. Auf der anderen Seite findet sie sich im Spiegeluniversum wieder, in der Zeit als sie Imperatorin des Terranischen Reiches war. Georgiou stellt fest, dass ihre Zeit bei der Discovery sie verändert hat und sie nutzt ihr Wissen über die Vergangenheit, um bestimmte Ereignisse zu verändern, darunter die Rettung des Sklaven Saru und die Verschonung des Lebens der verräterischen Michael Burnham."
@@ -2376,26 +2349,23 @@
 						"@id": "https://bittersmann.de/startrek/people#KalindaVazquez",
 						"name": "Kalinda Vazquez"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": [
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
-								"name": "Bo Yeon Kim"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
-								"name": "Erika Lippoldt"
-							},
-							{
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
-								"name": "Alan McElroy"
-							}
-						]
-					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
+							"name": "Bo Yeon Kim"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
+							"name": "Erika Lippoldt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanMcElroy",
+							"name": "Alan McElroy"
+						}
+					],
 					"description": {
 						"en": "Georgiou hopes to lead an improved Terran Empire with Burnham by her side, and has the latter tortured until she pledges her allegiance. Georgiou reveals to Saru that the Kelpien biological change known as Vahar’ai does not mean it is time for him to be culled; rather, it is a natural process that will make him stronger if he allows it to happen. Burnham and Georgiou work together to hunt Burnham’s former lover Gabriel Lorca, but this is a ruse and Burnham soon turns on Georgiou. After a fight, Georgiou kills Burnham before dying herself in Saru’s arms. She then returns to Dannus V, where Carl reveals himself to be the Guardian of Forever. He explains that he can send Georgiou to another time and place where she will survive, but he had to test her first and was happy to see her attempt to change the fate of the Terran Empire. Georgiou says goodbye to Burnham before traveling through the Guardian’s portal. On Discovery, Book wishes to prove his worth to the crew and uses Emerald Chain technology to help them connect to the computer systems of the Kelpien starship in the Verubin Nebula.",
 						"de": "Georgiou hofft, mit Burnham an ihrer Seite ein verbessertes terranisches Imperium anführen zu können, und lässt sie foltern, bis sie ihr die Treue schwört. Georgiou offenbart Saru, dass die biologische Veränderung der Kelpianer, die als Vahar’ai bekannt ist, nicht bedeutet, dass es für ihn an der Zeit ist, getötet zu werden, sondern dass es sich um einen natürlichen Prozess handelt, der ihn stärker macht, wenn er es zulässt. Burnham und Georgiou arbeiten zusammen, um Burnhams ehemaligen Liebhaber Gabriel Lorca zu jagen, aber das ist eine List Burnhams, die sich gegen Georgiou richtet. Nach einem Kampf tötet Georgiou Burnham, bevor sie selbst in den Armen von Saru stirbt. Sie kehrt nach Dannus V zurück, wo Carl sich als der Wächter der Ewigkeit zu erkennen gibt. Er erklärt, dass er Georgiou in eine andere Zeit und an einen anderen Ort schicken kann, wo sie überleben wird, aber er musste sie erst testen und war froh, als sie versuchte, das Schicksal des Terranischen Reiches zu ändern. Georgiou verabschiedet sich von Burnham, bevor sie durch das Portal des Wächters reist. Auf der Discovery will Book seinen Wert beweisen und nutzt Smaragdkettentechnologie, um der Besatzung zu helfen, sich mit den Systemen des Kelpianer-Raumschiffs zu verbinden."
