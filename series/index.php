@@ -236,7 +236,7 @@ EOT;
 																		<ul>
 																			<?php foreach ($episode['contributor'] as $contributor): ?>
 																				<li
-																					property="author"
+																					property="contributor"
 																					typeof="<?= htmlSpecialChars($contributor['@type']) ?>"
 																					resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($contributor['@id']) ?>"
 																				>

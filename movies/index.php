@@ -166,7 +166,7 @@
 														<dt>story by:</dt>
 														<?php if ($movie['contributor']['name']): ?>
 															<dd
-																property="author"
+																property="contributor"
 																typeof="<?= htmlSpecialChars($movie['contributor']['@type']) ?>"
 																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
 															>
