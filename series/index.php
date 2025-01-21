@@ -215,9 +215,9 @@ EOT;
 										<?php endif; ?>
 										<?php if (IS_AUTHOR_VISIBLE): ?>
 											<?php if ($episode['author']): ?>
-												<?php if ($episode['contributor']): ?>
-													<td>
-														<dl>
+												<td>
+													<dl>
+														<?php if ($episode['contributor']): ?>
 															<div>
 																<dt>
 																	<abbr aria-hidden="true" title="story by">S:</abbr>
@@ -245,68 +245,48 @@ EOT;
 																			<?php endforeach; ?>
 																		</ul>
 																	</dd>
-																<?php endif; ?>
+																<?php endif; // ($episode['contributor']['name']) ?>
 															</div>
-															<div>
-																<dt>
+														<?php endif; // ($episode['contributor'])?>
+														<div>
+															<dt>
+																<?php if ($episode['contributor']): ?>
 																	<abbr aria-hidden="true" title="teleplay by">T:</abbr>
 																	<span class="visually-hidden">teleplay by</span>
-																</dt>
-																<?php if ($episode['author']['name']): ?>
-																	<dd
-																		property="author"
-																		typeof="<?= htmlSpecialChars($episode['author']['@type']) ?>"
-																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['author']['@id']) ?>"
-																	>
-																		<span property="name"><?= htmlSpecialChars($episode['author']['name']) ?></span>
-																	</dd>
 																<?php else: ?>
-																	<dd>
-																		<ul>
-																			<?php foreach ($episode['author'] as $author): ?>
-																				<li
-																					property="author"
-																					typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																					resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
-																				>
-																					<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
-																				</li>
-																			<?php endforeach; ?>
-																		</ul>
-																	</dd>
+																	<span class="visually-hidden">written by</span>
 																<?php endif; ?>
-															</div>
-														</dl>
-													</td>
-												<?php else: ?>
-													<?php if ($episode['author']['name']): ?>
-														<td
-															property="author"
-															typeof="<?= htmlSpecialChars($episode['author']['@type']) ?>"
-															resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['author']['@id']) ?>"
-														>
-															<span property="name"><?= htmlSpecialChars($episode['author']['name']) ?></span>
-														</td>
-													<?php else: ?>
-														<td>
-															<ul>
-																<?php foreach ($episode['author'] as $author): ?>
-																	<li
-																		property="author"
-																		typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
-																	>
-																		<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
-																	</li>
-																<?php endforeach; ?>
-															</ul>
-														</td>
-													<?php endif; ?>
-												<?php endif; ?>
+															</dt>
+															<?php if ($episode['author']['name']): ?>
+																<dd
+																	property="author"
+																	typeof="<?= htmlSpecialChars($episode['author']['@type']) ?>"
+																	resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['author']['@id']) ?>"
+																>
+																	<span property="name"><?= htmlSpecialChars($episode['author']['name']) ?></span>
+																</dd>
+															<?php else: ?>
+																<dd>
+																	<ul>
+																		<?php foreach ($episode['author'] as $author): ?>
+																			<li
+																				property="author"
+																				typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																				resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																			>
+																				<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																			</li>
+																		<?php endforeach; ?>
+																	</ul>
+																</dd>
+															<?php endif; // ($episode['author']['name']) ?>
+														</div>
+													</dl>
+												</td>
 											<?php else: ?>
 												<td></td>
-											<?php endif; ?>
-										<?php endif; ?>
+											<?php endif; // ($episode['author']) ?>
+										<?php endif; // (IS_AUTHOR_VISIBLE) ?>
 										<?php if ($episode['description'] || $episode['abstract'] || $episode['subjectOf']): ?>
 											<?php
 												$hasPlot = ($episode['description'] || $episode['abstract']);
