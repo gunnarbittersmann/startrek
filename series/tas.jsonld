@@ -885,6 +885,7 @@
 					},
 					"isBasedOn": {
 						"@type": "ShortStory",
+						"name": "The Soft Weapon" ,
 						"author": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#LarryNiven",
