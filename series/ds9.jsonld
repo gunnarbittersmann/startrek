@@ -425,7 +425,18 @@
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HannahLouiseShearer",
+						"name": "Hannah Louise Shearer"
+					},
 					"abstract": {
+						"en": "Q and Vash arrive on Deep Space Nine. However, Vash has grown annoyed by Q,s attention and wants him to leave her alone.",
 						"de": "Bei einer Expedition in den Gamma-Quadranten stößt Dax auf Picards Freundin Vash. Nach der Rückkehr zur Station verliert DS9 zunehmend Energie, fliegt auf das Wurmloch zu und droht dabei zerstört zu werden. O’Brien entdeckt den allmächtigen Q auf der Station, der versucht Vash davon zu überzeugen wieder mit ihm durch den Weltraum zu reisen. O’Brien vermutet, dass er hinter den Problemen steckt."
 					},
 					"review": {
@@ -482,7 +493,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+							"name": "Peter Allan Fields"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Jadzia Dax is arrested for a murder allegedly committed by Curzon Dax, a previous host of her symbiont. An extradition hearing is held to determine whether Jadzia can be held liable for Curzon’s actions.",
 						"de": "Dax soll von der Station entführt werden, da man ihr einen Mord vorwirft und sie vor Gericht gestellt werden soll. Die Entführung kann jedoch verhindert werden und Sisko weigert sich Dax auszuliefern, da DS9 eine bajoranische Station ist und somit kein Auslieferungsabkommen besteht. Eine Gerichtsverhandlung soll den Fall jetzt klären."
 					}
 				},
@@ -525,7 +554,30 @@
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MorganGendel",
+							"name": "Morgan Gendel"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MorganGendel",
+						"name": "Morgan Gendel"
+					},
 					"abstract": {
+						"en": "A sinister criminal cheats death to hide his consciousness in the mind of someone on Deep Space Nine.",
 						"de": "Bashir und Kira stoßen auf ein stark beschädigtes Schiff, auf dem der Verbrecher Vantika transportiert wird. Obwohl der Gefangene stirbt, ist Kajada, die ihn bewachte, sehr misstrauisch und vermutet, dass Vantika noch lebt. In der Folge kommt es zu Zwischenfällen auf der Station, die vermuten lassen, dass Kajada recht hat."
 					}
 				},
@@ -568,7 +620,30 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FrederickRappaport",
+							"name": "Frederick Rappaport"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaRich",
+							"name": "Lisa Rich"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanneCarriganFauci",
+							"name": "Jeanne Carrigan-Fauci"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
+						"en": "Quark plays a board game with the Wadi, a newly encountered species from the Gamma Quadrant, and the lives of the crew seemingly depend on the outcome.",
 						"de": "Bei einem Erstkontakt, empfängt die Besatzung von DS9 die Wadi, ein Volk aus dem Gamma-Quadrant, das Spiele über alles liebt. Als Quark versucht sie zu betrügen fordern die Wadi ihn zu einem ihrer Spiel heraus. Sisko, Kira, Dax und Bashir sind daraufhin verschwunden und finden sich in einer surrealen Umgebung wieder wo man sie auffordert zum Ziel zu gehen."
 					}
 				},
@@ -611,7 +686,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
+						"name": "David Livingston"
+					},
 					"abstract": {
+						"en": "Quark is named as the head of the Ferengi Alliance by Grand Nagus Zek, but he is now surrounded by enemies.",
 						"de": "Der höchste Ferengi, der Große Nagus Zek, kommt auf die Station und ernennt Quark zu seinem Nachfolger."
 					}
 				},
@@ -654,7 +740,13 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SamRolfe",
+						"name": "Sam Rolfe"
+					},
 					"abstract": {
+						"en": "Odo discovers he might not be the only one of his kind when a visitor from the Gamma Quadrant claims he can contact Odo’s people.",
 						"de": "Bei einem illegalen Geschäft kommt es zu einem Kampf, bei dem Ro-Kel, ein Zwillingsmiradone von Croden erschossen wird. Sein Bruder Ah-kel schwört nun Rache am Mörder seines Bruders. Odo nimmt Croden, der behauptet mehr über Formwandler zu wissen, in Gewahrsam."
 					}
 				},
@@ -697,7 +789,25 @@
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardDanus",
+							"name": "Richard Danus"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+							"name": "Evan Carlos Somers"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
+					},
 					"abstract": {
+						"en": "The spiritual leader of Bajor, Kai Opaka, travels with Sisko, Bashir and Kira on a trip to the Gamma Quadrant, but is stranded on a world where the dead are resurrected.",
 						"de": "Bei einer Reise in den Gamma-Quadranten stirbt Kai Opaka, die religiöse Führerin der Bajoraner, als das Runabout auf einem Mond abstürzt. Dort tobt seit Jahrhunderten ein Krieg zwischen zwei verfeindeten Gruppen in den nun auch die Besatzung von DS9 hineingezogen wird. Allerdings wird Opaka wieder zum Leben erweckt, jedoch kann sie den Planeten nicht mehr verlassen."
 					}
 				},
@@ -740,7 +850,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KurtMichaelBensmiller",
+							"name": "Kurt Michael Bensmiller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KurtMichaelBensmiller",
+						"name": "Kurt Michael Bensmiller"
+					},
 					"abstract": {
+						"en": "O’Brien is recruited to save a Bajoran village from destruction by a mysterious cloud creature.",
 						"de": "O’Brien und Bashir werden in einem Dorf auf Bajor von der Bevölkerung auserwählt um gegen ein mächtiges Energiewesen, das Dal’Rok, zu kämpfen. Derweilen laufen auf DS9 Verhandlungen zwischen rivalisierenden bajoranischen Völkergruppen."
 					}
 				},
@@ -783,7 +911,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Kira has to deal with a stubborn farmer who refuses to leave his home even though it is slated for demolition.",
 						"de": "Ein Mond soll zur Energiegewinnung genutzt werden und muss daher evakuiert werden. Kira trifft auf Mullibok, der seine Heimat nicht verlassen will."
 					}
 				},
