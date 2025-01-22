@@ -2402,7 +2402,7 @@
 							"name": "John Shiban"
 						}
 					],
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanielMcCarthy",
 						"name": "Daniel McCarthy"
@@ -3350,7 +3350,7 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
 						"name": "Terry Matalas"
@@ -4421,7 +4421,7 @@
 							"name": "Judith Reeves-Stevens"
 						}
 					],
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
@@ -4465,7 +4465,7 @@
 						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
 						"name": "André Bormanis"
 					},
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
@@ -4509,7 +4509,7 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
@@ -4677,7 +4677,7 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
-					"contributtor": {
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MannyCoto",
 						"name": "Manny Coto"
