@@ -87,41 +87,83 @@
 					"description": {
 						"de": "Nach einer verlustreichen Mission auf dem Planeten Rigel VII folgt die Enterprise unter dem Kommando von Captain Christopher Pike einem Notruf auf den Planeten Talos IV. Das von Pike geführte Landeteam findet dort eine Gruppe Überlebender des seit 18 Jahren verschollenen Forschungsschiffes Columbia. Unter den Überlebenden ist die attraktive Vina. Von Vina abgelenkt, wird Pike von den Talosianern gefangen genommen, einer hochentwickelten, Telepathie beherrschende Spezies. Es stellt sich heraus, dass der Notruf von den Talosianern fingiert wurde und auch die Überlebenden, mit Ausnahme von Vina, nur eine Illusion waren, mit der die Enterprise zu dem Planeten gelockt werden sollte. Pike wird in einen Käfig interniert und die Talosianer versuchen, seinen Geist zu manipulieren, ihm Vina nahe zu bringen, aber Pike widersteht. Er erkennt, dass die Talosianer ihn nach Talos IV gelockt haben, um mit ihm und Vina eine neue Menschenrasse zu züchten, um sie zu versklaven. Als ein weiteres Landeteam zur Bergung des Captains auf den Planeten gebeamt wird, geraten auch Nummer Eins und Fähnrich Colt in die Gewalt der Talosianer. Sie werden zu Pike in den Käfig gesperrt, in der Hoffnung, dass Pike sich zu ihnen hingezogen fühlt. Schließlich kann Pike einen Wärter überwältigen und die Gefangenen können auf die vor Jahrhunderten atomar zerstörte Planetenoberfläche entkommen. Als die Landegruppe dort von den Talosianern gestellt wird, droht Nummer Eins, alle durch eine Explosion ihres Phasers zu töten, da sie lieber sterben wolle als in Gefangenschaft zu leben. Daraufhin lassen die Talosianer Nummer Eins und Fähnrich Colt gehen. Pike offenbaren sie, dass Vina die einzige Überlebende des Absturzes der Columbia war. Sie hatte das Unglück schwer entstellt überlebt und um ihr zu helfen, schufen sie ihr die Illusion eines unversehrten Äußeren. Pike bittet die Talosianer, ihr diese Illusion nicht zu nehmen, woraufhin sie ihr die Illusion eines Pike an die Seite stellen, während Captain Pike auf sein Schiff zurückkehrt."
 					},
-					"review": [
+					"review":{
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/tos#0.2",
+					"episodeNumber": "0.2",
+					"name": "Where No Man Has Gone Before",
+					"subjectOf": [
 						{
-							"@type": "Review",
+							"@type": "Webpage",
 							"inLanguage": "en",
-							"name": "Ups & Downs",
-							"creator": {
+							"publisher": {
 								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-								"name": "TrekCulture"
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
 							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
-							}
+							"url": "https://en.wikipedia.org/wiki/Where_No_Man_Has_Gone_Before"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
-							"@type": "Review",
-							"inLanguage": "en",
-							"name": "Retro Review | First Episodes",
-							"creator": {
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SteveShives",
-								"name": "Steve Shives"
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
 							},
-							"itemReviewed": [
-								{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
-								{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
-							],
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
-							}
+							"url": "https://de.wikipedia.org/wiki/Die_Spitze_des_Eisberges"
 						}
-					]
+					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
+						"name": "James Goldstone"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SamuelAPeeples",
+						"name": "Samuel A. Peeples"
+					},
+					"abstract": {
+						"en": "After the Enterprise attempts to cross the Great Barrier at the edge of the galaxy, crew members Gary Mitchell and Elizabeth Dehner develop “godlike” psychic powers, which threaten the safety of the crew."
+					},
+					"description": {
+						"de": "Auf einen Notruf reagierend, nimmt die Enterprise eine vor 200 Jahren von dem Raumschiff Valiant ausgesetzte Unfallboje an Bord. Deren Untersuchung ergibt, dass die Valiant, bevor sie die Selbstzerstörungssequenz auslöste, im Schiffscomputer nach Informationen über außersinnliche Wahrnehmung suchte. Die Enterprise durchfliegt – ebenso wie einst die Valiant – eine seltsame Raumbarriere, wodurch neun Crewmitglieder sterben und Enterprise-Navigator Gary Mitchell übernatürliche Kräfte entwickelt, die ständig stärker werden. Dadurch und durch Spocks Erkenntnis, dass Ähnliches auch auf der Valiant geschah und dies letztlich zu ihrer Zerstörung führte, stellt Mitchell eine zunehmende Gefahr für die Enterprise dar. Kirk fasst deshalb den Entschluss, ihn auf einem verlassenen Planeten zwangsweise auszusetzen. Als das Außenteam Mitchell dort zurücklassen will, überwältigt er es. Dr. Elizabeth Dehner, die offenbar auch beim Durchflug der Barriere beeinflusst worden war, hat nun ähnliche Kräfte wie Mitchell. Dieser spielt sich zu einem gottgleichen Wesen auf. Dehner widersteht dessen Einfluss und hilft Kirk dabei, Mitchell zu überwältigen. Dabei kommen Mitchell und Dehner zu Tode."
+					},
+					"review": {
+						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | First Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
+						}
+					}
 				}
 			]
 		},
@@ -291,6 +333,10 @@
 					"episodeNumber": "1.3",
 					"name": "Where No Man Has Gone Before",
 					"datePublished": "1966-09-22",
+					"isBasedOn" : {
+						"@type": "TVEpisode",
+						"@id": "https://bittersmann.de/startrek/series/tos#0.2"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
