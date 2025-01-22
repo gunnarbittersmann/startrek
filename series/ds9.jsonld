@@ -960,7 +960,37 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertLegato",
 						"name": "Robert Legato"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NellMcCueCrawford",
+							"name": "Nell McCue Crawford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WilliamLCrawford",
+							"name": "William L. Crawford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NellMcCueCrawford",
+							"name": "Nell McCue Crawford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WilliamLCrawford",
+							"name": "William L. Crawford"
+						}
+					],
 					"abstract": {
+						"en": "Deep Space Nine is put in jeopardy when the crew’s thoughts manifest themselves, and such figures as Rumpelstiltskin appear.",
 						"de": "Auf DS9 erscheinen lebendig gewordene Phantasiewesen. Die Station droht außerdem von einem Subraumphänomen zerstört zu werden."
 					}
 				},
@@ -1003,7 +1033,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DonCarlosDunaway",
+							"name": "Don Carlos Dunaway"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+						"name": "Jim Trombetta"
+					},
 					"abstract": {
+						"en": "The Federation ambassador from Betazed, Lwaxana Troi, visits the station, and develops an affection for Odo. Meanwhile, data from a mysterious Gamma Quadrant probe causes system failures on DS9.",
 						"de": "Zahlreiche Botschafter der Föderation treffen sich auf DS9 um das Wurmloch zu besichtigen, unter ihnen auch Lwaxana Troi. Die Station wird außerdem von einer außerirdischen Sonde bedroht."
 					}
 				},
@@ -1049,7 +1097,13 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
+						"en": "Tensions rise between the DS9 crew members after they are telepathically imprinted with the memories of participants in an alien power struggle.",
 						"de": "Nachdem ein klingonisches Schiff, das aus dem Gamma-Quadranten zurückgekehrt ist, explodierte und ein Besatzungsmitglied nur noch tot zur Station gebeamt werden konnte, beginnen die Crewmitglieder von DS9 gegeneinander zu intrigieren."
 					}
 				},
@@ -1092,7 +1146,25 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaRich",
+							"name": "Lisa Rich"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanneCarriganFauci",
+							"name": "Jeanne Carrigan-Fauci"
+						}
+					],
 					"abstract": {
+						"en": "A visiting Cardassian, Marritza, may in fact be the notorious war criminal Gul Darhe’el, butcher of Gallitep labor camp, and Kira is determined to bring him down.",
 						"de": "Der Cardassianer Marritza kommt auf die Station. In ihm erkennt Kira einen gesuchten Kriegsverbrecher. Es stellt sich aber heraus, dass er diese Rolle nur vorgetäuscht hat, um das cardassianische Volk dazu zu zwingen, dessen Schuld für die cardassianischen Gräueltaten während der Besatzung Bajors einzugestehen. Schließlich wird Marritza durch einen Bajoraner getötet. Als Grund gibt er an, dass Marritza Cardassianer war und dies Grund genug sei."
 					}
 				},
@@ -1135,7 +1207,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
 					"abstract": {
+						"en": "A conniving Bajoran cleric, Vedek Winn, protests Keiko O’Brien’s school on Deep Space Nine when she discovers Keiko is teaching her students that the inhabitants of the wormhole are aliens, not gods.",
 						"de": "Das sich auf Bajor vergrößernde Machtvakuum ausnutzend, versucht die intrigante, orthodoxe Bajoranerin Vedek Winn, mit einem Mordanschlag einen ihrer Konkurrenten um die Nachfolge als religiöses Oberhaupt zu beseitigen. Sisko kann den Anschlag aber in letzter Sekunde vereiteln."
 					}
 				}
