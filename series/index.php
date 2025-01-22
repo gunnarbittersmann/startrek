@@ -282,7 +282,7 @@ EOT;
 															<?php endif; // ($episode['author']['name']) ?>
 														</div>
 														<?php if ($episode['isBasedOn'] && $episode['isBasedOn']['author']): ?>
-															<div property="isBasedOn" typeof="<?= htmlSpecialChars($episode['isBasedOn']['type']) ?>">
+															<div property="isBasedOn" typeof="<?= htmlSpecialChars($episode['isBasedOn']['@type']) ?>">
 																<dt>
 																	<abbr aria-hidden="true" title="based on material by">B:</abbr>
 																	<span class="visually-hidden">based on material by</span>
