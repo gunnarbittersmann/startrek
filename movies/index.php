@@ -133,40 +133,14 @@
 								<?php endif; ?>
 								<?php if (IS_AUTHOR_VISIBLE): ?>
 									<?php if ($movie['author']): ?>
-										<?php if ($movie['contributor']): ?>
-											<td>
-												<dl>
+										<td>
+											<dl>
+												<?php if ($movie['contributor']): ?>
 													<div>
-														<dt>screenplay by:</dt>
-														<?php if ($movie['author']['name']): ?>
-															<dd
-																property="author"
-																typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
-																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
-															>
-																<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
-															</dd>
-														<?php else: ?>
-															<dd>
-																<ul>
-																	<?php foreach ($movie['author'] as $author): ?>
-																		<li
-																			property="author"
-																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
-																		>
-																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
-																		</li>
-																	<?php endforeach; ?>
-																</ul>
-															</dd>
-														<?php endif; ?>
-													</div>
-													<div>
-														<dt>story by:</dt>
+														<dt>story by</dt>
 														<?php if ($movie['contributor']['name']): ?>
 															<dd
-																property="author"
+																property="contributor"
 																typeof="<?= htmlSpecialChars($movie['contributor']['@type']) ?>"
 																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
 															>
@@ -186,37 +160,75 @@
 																	<?php endforeach; ?>
 																</ul>
 															</dd>
-														<?php endif; ?>
+														<?php endif; // ($movie['contributor']['name']) ?>
 													</div>
-												</dl>
-											</td>
-										<?php else: ?>
-											<?php if ($movie['author']['name']): ?>
-												<td
-													property="author"
-													typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
-													resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
-												>
-													<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
-												</td>
-											<?php else: ?>
-												<td>
-													<ul>
-														<?php foreach ($movie['author'] as $author): ?>
-															<li
+												<?php endif; // ($movie['contributor'])?>
+												<div>
+													<dt>
+														<?php if ($movie['contributor']): ?>
+															screenplay by
+														<?php else: ?>
+															<span class="visually-hidden">written by</span>
+														<?php endif; ?>
+													</dt>
+													<?php if ($movie['author']['name']): ?>
+														<dd
+															property="author"
+															typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
+															resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
+														>
+															<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
+														</dd>
+													<?php else: ?>
+														<dd>
+															<ul>
+																<?php foreach ($movie['author'] as $author): ?>
+																	<li
+																		property="author"
+																		typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																	>
+																		<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																	</li>
+																<?php endforeach; ?>
+															</ul>
+														</dd>
+													<?php endif; // ($movie['author']['name']) ?>
+												</div>
+												<?php if ($movie['isBasedOn'] && $movie['isBasedOn']['author']): ?>
+													<div property="isBasedOn" typeof="<?= htmlSpecialChars($movie['isBasedOn']['@type']) ?>">
+														<dt>based on material by</dt>
+														<?php if ($movie['isBasedOn']['author']['name']): ?>
+															<dd
 																property="author"
-																typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																typeof="<?= htmlSpecialChars($movie['isBasedOn']['author']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
 															>
-																<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
-															</li>
-														<?php endforeach; ?>
-													</ul>
-												</td>
-											<?php endif; ?>
-										<?php endif; ?>
-									<?php endif; ?>
-								<?php endif; ?>
+																<span property="name"><?= htmlSpecialChars($movie['isBasedOn']['author']['name']) ?></span>
+															</dd>
+														<?php else: ?>
+															<dd>
+																<ul>
+																	<?php foreach ($movie['isBasedOn']['author'] as $author): ?>
+																		<li
+																			property="author"
+																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																		>
+																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																		</li>
+																	<?php endforeach; ?>
+																</ul>
+															</dd>
+														<?php endif; // ($movie['isBasedOn']['author']['name']): ?>
+													</div>
+												<?php endif; // ($movie['isBasedOn'] && $movie['isBasedOn']['author']) ?>
+											</dl>
+										</td>
+									<?php else: ?>
+										<td></td>
+									<?php endif; // ($movie['author']) ?>
+								<?php endif; // (IS_AUTHOR_VISIBLE) ?>
 								<?php if ($movie['description'] || $movie['abstract'] || $movie['subjectOf']): ?>
 									<?php
 										$hasPlot = ($movie['description'] || $movie['abstract']);

@@ -44,13 +44,10 @@
 						"@id": "https://bittersmann.de/startrek/people#HaroldLivingston",
 						"name": "Harold Livingston"
 					},
-					"isBasedOn": {
-						"@type": "CreativeWork",
-						"author": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#AlanDeanFoster",
-							"name": "Alan Dean Foster"							
-						}
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanDeanFoster",
+						"name": "Alan Dean Foster"							
 					},
 					"workTranslation": {
 						"@type": "Movie",

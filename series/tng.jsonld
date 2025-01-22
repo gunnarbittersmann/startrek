@@ -2916,6 +2916,14 @@
 							"name": "Hans Beimler"
 						}
 					],
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+				 			"@id": "https://bittersmann.de/startrek/people#ThomasHCalder",
+				 			"name": "Thomas H. Calder"
+						}
+					},
 					"abstract": {
 						"en": "Worf’s former lover comes aboard the Enterprise to help deal with a ship full of Klingons in stasis and unaware they are no longer at war with the Federation."
 					},
@@ -8444,6 +8452,14 @@
 						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
 						"name": "Naren Shankar"
 					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+				 			"@id": "https://bittersmann.de/startrek/people#LJScott",
+				 			"name": "L. J. Scott"
+						}
+					},
 					"abstract": {
 						"en": "Data observes that mining tools have become sentient beings and fights for their preservation."
 					},
@@ -10216,6 +10232,14 @@
 						"@id": "https://bittersmann.de/startrek/people#SpikeSteingasser",
 						"name": "Spike Steingasser"
 					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+				 			"@id": "https://bittersmann.de/startrek/people#WilliamNStape",
+				 			"name": "William N. Stape"
+						}
+					},
 					"abstract": {
 						"en": "A civilization doomed to extinction is saved by a Federation observer – Worf’s human foster brother – in violation of the Prime Directive, forcing the Enterprise crew to actively determine their fate."
 					},
@@ -10271,6 +10295,14 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": {
+							"@type": "Person",
+				 			"@id": "https://bittersmann.de/startrek/people#JeannaFGallo",
+				 			"name": "Jeanna F. Gallo"
+						}
 					},
 					"abstract": {
 						"en": "Dr. Crusher attends her grandmother’s funeral and finds that the house is inhabited by a spirit who is 800 years old, and was her grandmother’s lover."
@@ -10613,6 +10645,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
 						"name": "Ronald D. Moore"
+					},
+					"isBasedOn": {
+						"@type": "CreativeWork",
+						"author": [
+							{
+								"@type": "Person",
+					 			"@id": "https://bittersmann.de/startrek/people#ShawnPiller",
+					 			"name": "Shawn Piller"
+							},
+							{
+								"@type": "Person",
+					 			"@id": "https://bittersmann.de/startrek/people#AntoniaNapoli",
+					 			"name": "Antonia Napoli"
+							}
+						]
 					},
 					"abstract": {
 						"en": "Wesley considers his future as the Enterprise is ordered to remove Native Americans from a planet that is about to fall under Cardassian jurisdiction."
