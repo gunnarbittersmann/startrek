@@ -93,6 +93,26 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"abstract": {
+						"en": "A new joint Federation/Bajoran crew is assigned to a former Cardassian space station: Deep Space Nine. Benjamin Sisko, the new station commander, is declared the Emissary of the Prophets by a Bajoran priest, and discovers a stable wormhole connecting Bajor to the Gamma Quadrant on the other side of the galaxy."
+					},
 					"description": {
 						"de": "Im Jahr 2369 endet die Okkupation der Cardassianer über die Bajoraner, auch als Folge andauernden bajoranischen Widerstands. Dabei ziehen sich die bisherigen Besatzer von der im Orbit von Bajor gelegenen Raumstation Deep Space Nine zurück, auf der sie zuvor unter Einsatz bajoranischer Zwangsarbeiter Erzaufbereitung betrieben. Um politische Stabilität in dieser Gegend des Universums zu sichern und den Bajoranern bei der Schaffung der Voraussetzungen für den Beitritt zur Föderation zu helfen, übernimmt die Vereinte Föderation der Planeten, unterstützt von Bajoranern, den Betrieb der Station. Das Kommando erhält der Sternenflottenoffizier Benjamin Sisko. Weil sich das untereinander zerstrittene bajoranische Volk von Sisko erhofft, die Bajoraner miteinander zu vereinigen, wird er von den „Propheten“, den Göttern der Bajoraner, dazu auserkoren, entsprechend einer lange währenden bajoranischen Prophezeiung als „Abgesandter“ den „Himmelstempel“ zu entdecken. Wenig später entdeckt Sisko mit Hilfe seiner Crew in der Nähe von Bajor ein künstliches, stabiles Wurmloch, das zeitsparendes Reisen in eine 70.000 Lichtjahre entfernte Gegend des bislang kaum erforschten Gamma-Quadranten ermöglicht. Um die eigenen Ansprüche an der Nutzung des Wurmlochs zu sichern und denen der Cardassianer zuvorzukommen, verlegen Föderation und Bajoraner die Station direkt vor den Eingang des Wurmlochs. Das Wurmloch beziehungsweise der Himmelstempel wird von Wesen bewohnt, die abseits räumlicher und zeitlicher Existenz leben und die die Bajoraner als die Propheten verehren. Gemäß dem bajoranischen Glauben bestimmen diese die Geschicke Bajors. Nachdem Sisko die Wesen im Wurmloch davon überzeugt hat, dass die Föderation keine bösen Absichten hat, gewähren sie allen Raumschiffen freies Geleit durch das Wurmloch."
 					},
@@ -166,7 +186,13 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KatharynPowers",
+						"name": "Katharyn Powers"
+					},
 					"abstract": {
+						"en": "A Bajoran terrorist with ties to Kira arrives on Deep Space Nine and is pursued by the Cardassians. Garak, a mysterious Cardassian tailor who lives on the station, assists in uncovering what he is up to.",
 						"de": "Der Bajoraner Tahna versucht als Mitglied der Terroristengruppe Khon-Ma, das Wurmloch zu zerstören, um Bajor dadurch unattraktiver sowohl für die Cardassianer als auch für die Föderation zu machen. Kira kann Tahnas Plan in letzter Sekunde durchkreuzen und ihn stoppen."
 					}
 				},
@@ -209,7 +235,25 @@
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeraldSanford",
+							"name": "Gerald Sanford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
+						"en": "Odo is accused of the murder of a Bajoran smuggler.",
 						"de": "Nach dem Mord an dem Bajoraner Ibudan ist Odo der Hauptverdächtige. Es stellt sich heraus, dass Ibudan einen Klon von sich angefertigt und diesen anschließend getötet hat, um Odo den Mord anzuhängen."
 					}
 				},
@@ -252,7 +296,32 @@
 						"@id": "https://bittersmann.de/startrek/people#PaulLynch",
 						"name": "Paul Lynch"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelMcGreevey ",
+							"name": "Michael McGreevey "
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+							"name": "Naren Shankar"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SallyCaves",
+							"name": "Sally Caves"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "A mysterious virus plagues the station, causing first aphasia and eventually death.",
 						"de": "O’Brien setzt versehentlich eine Sabotageeinrichtung der Bajoraner aus der Besatzungszeit in Gang. Dadurch wird ein Virus freigesetzt, das das Sprachvermögen beeinträchtigt und schließlich zum Tod führt."
 					}
 				},
@@ -295,7 +364,25 @@
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
 						"name": "Corey Allen"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JillShermanDonner",
+							"name": "Jill Sherman Donner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JillShermanDonner",
+						"name": "Jill Sherman Donner"
+					},
 					"abstract": {
+						"en": "O’Brien befriends an alien from the Gamma Quadrant who is being hunted.",
 						"de": "Nach der Entdeckung des Wurmlochs kommt es beiderseits der Passage zunehmend zu Kontakten der Stationsbesatzung mit Vertretern bislang fremder Spezies aus dem Gamma-Quadranten. Dazu gehört auch Tosk von der gleichnamigen Spezies, der nur existiert, um gejagt zu werden."
 					}
 				},
