@@ -1274,7 +1274,25 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "Quark gives Kira a Bajoran earring he claims was sent as a message from a Cardassian mining planet.",
 						"de": "Kira befreit aus einem cardassianischen Arbeitslager den bajoranischen Helden Li Nalas. Daraufhin wird sie von Minister Jaro von ihren Pflichten entbunden und Li Nalas übernimmt ihre Position als Verbindungsoffizier auf DS9."
 					}
 				},
@@ -1317,7 +1335,13 @@
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
 						"name": "Corey Allen"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "The Circle attempts to topple the Bajoran government, but there is more to the situation than meets the eye.",
 						"de": "Die politische Krise auf Bajor spitzt sich zu. „Der Kreis“ eine Gruppe bajoranischer Fundamentalisten plant die Macht zu übernehmen. Mit Hilfe der machtbesessenen Vedek Win gelingt es den Bajoranern die Föderation von DS9 zu vertreiben. Die Bajoraner wissen nicht, dass sie von den Cardassianern die Waffen für diesen Staatsstreich erhalten haben."
 					}
 				},
@@ -1360,7 +1384,13 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
+						"en": "Sisko and Li Nalas help stop Deep Space Nine from being commandeered by the Bajorans, while Kira and Dax try to put an end to the Circle by presenting evidence that Minister Jaro is being backed by the Cardassians.",
 						"de": "Obwohl Sisko die Station evakuieren lässt, gelingt es ihm die Station mit einigen Freiwilligen zu sabotieren und die Stellung zu halten. Kira und Dax schaffen es auf Bajor die Regierung von der Einmischung der Cardassianer zu überzeugen und den „Kreis“, dessen Anführer der Regierungschef ist, zu besiegen."
 					}
 				},
