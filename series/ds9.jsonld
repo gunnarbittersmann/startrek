@@ -4655,7 +4655,20 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Sisko and Odo are brought to Earth when it’s suspected Changelings are infiltrating Starfleet.",
 						"de": "Der Aufenthalt von Formwandlern auf der Erde verursacht unter der Erdbevölkerung Angst vor einem baldigen Angriff des Dominion. Diese Angst schürend, möchte ein Sternenflottenadmiral zwecks besserer Verteidigungsmöglichkeiten die demokratische Erdregierung durch eine Militärherrschaft ablösen."
 					}
 				},
