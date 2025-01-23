@@ -7567,7 +7567,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
 						"name": "Alexander Siddig"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Quark helps out when Zek’s status as the Ferengi Grand Nagus is put in jeopardy by proposing equal rights for Ferengi females.",
 						"de": "Als Ishka einen Herzinfarkt erleidet, muss sie Quark in Verhandlungen mit der Ferengi-Handelsbehörde ersetzen, wofür sich Quark zeitweise in eine Ferengi-Weibliche umwandeln lässt."
 					},
 					"review": {
@@ -7613,7 +7626,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
+						"en": "Molly O’Brien disappears in a vortex and reappears as an 18-year-old woman, but she is now feral, bringing great difficulty for her parents.",
 						"de": "Bei einem Ausflug auf Bajor passiert O’Briens Tochter Molly ein Zeitportal und erscheint als wesentlich ältere, völlig entfremdete Person, weswegen die Stationsoffiziere dazu gezwungen sind, an einer Lösung des Problems zu arbeiten."
 					}
 				},
@@ -7644,7 +7675,18 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PamPietroforte",
+						"name": "Pam Pietroforte"
+					},
 					"abstract": {
+						"en": "The Defiant picks up a distress call from Captain Lisa Cusak, whose escape pod has crashed on a remote planet following the destruction of her ship, the Olympia.",
 						"de": "Die Crew der Defiant empfängt den Notruf einer Sternenflottenoffizierin, die, auf einem Planeten notgelandet, zu sterben droht, falls es der Defiant nicht gelingen sollte, rechtzeitig bei ihr zu sein. Bei der Ankunft der Defiant stellt deren Besatzung aber fest, dass die Frau schon seit Jahren tot ist."
 					}
 				},
