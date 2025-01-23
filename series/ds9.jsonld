@@ -6056,6 +6056,21 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"abstract": {
+						"en": "Gul Dukat aligns the Cardassians with the Dominion. The station must deal with a Changeling infiltrator."
+					},
 					"description": {
 						"de": "Eine Flotte aus Jem’Hadar-Raumschiffen dringt durch das Wurmloch in den Alpha-Quadranten ein und fliegt nach Cardassia. Zeitgleich enthüllt der Cardassianer Gul Dukat, ehemaliger Kommandant von DS9, dass Cardassia dem Dominion beigetreten ist, um sein Reich, geschwächt durch Angriffe der Klingonen und des Maquis, zurück zu alter Stärke zu führen. Er selbst ist der neue Herrscher von Cardassia und erwartet nun, dass die Föderation auch dem Dominion beitritt; Sisko lehnt jedoch ab. Da sich das klingonische Reich durch das Bündnis zwischen Cardassia und dem Dominion ebenfalls bedroht sieht, stellt es nicht nur den Friedensvertrag mit der Föderation wieder her, sondern wird auch zu deren Alliiertem. Unterdessen versuchen Dr. Bashir, Worf, Garak und General Martok aus dem Jem’Hadar-Gefängnis zu fliehen. Derweilen versucht ein Wechselbalg auf DS9, der sich seit Wochen als Dr. Bashir tarnt, die Station und Bajor zu zerstören, indem er die bajoranische Sonne in eine Supernova verwandelt. Die Defiant kann ihn gerade noch stoppen."
 					}
