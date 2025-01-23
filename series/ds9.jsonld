@@ -5729,7 +5729,20 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "Worf and Dax vacation on the pleasure planet, Risa, and encounter unexpected dangers.",
 						"de": "Bei ihrem Urlaub auf dem Ferienplaneten Risa erkennen Worf und Dax ihre zunächst unterschiedlichen Auffassungen vom Führen einer Beziehung, weswegen sich Worf von Jadzia abwendet und sich vorübergehend einer Gruppe politischer Fundamentalisten anschließt."
 					}
 				},
@@ -5760,7 +5773,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
+						"en": "Sisko, Odo, Dax and Garak are found unconscious. While Bashir attempts to revive their bodies, the four wake up during the Cardassian occupation of Bajor several years earlier.",
 						"de": "Sisko, Odo, Dax und Garak finden sich nach einem Shuttle-Unfall in der Vergangenheit wieder. DS9 heißt noch Terok Nor und ist noch von Cardassianern besetzt. Dort werden sie für bajoranische Terroristen gehalten, denen die Todesstrafe droht. Odo, der schon damals für die Sicherheit verantwortlich war, scheint in die Ereignisse verstrickt gewesen zu sein und versucht einen damaligen Fehler zu korrigieren."
 					}
 				},
