@@ -5085,7 +5085,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "",
 						"de": "Sisko ist gezwungen, in das Spiegeluniversum zu beamen und dort den Rebellen dabei zu helfen, eine neue Defiant zu bauen."
 					}
 				},
@@ -5178,7 +5191,20 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Sisko and the Defiant crew join forces with the Jem'Hadar to stop a group of Jem'Hadar renegades from gaining power using an Iconian Gateway discovered in the Gamma Quadrant.",
 						"de": "DS9 wird von einer Gruppe abtrünniger Jem’Hadar-Soldaten angegriffen und schwer beschädigt, sodass Siskos Crew mit der Defiant die Angreifer zu finden versucht, wobei sie auch mit einigen loyalen Jem’Hadar zusammenarbeiten muss."
 					}
 				},
