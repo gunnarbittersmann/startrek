@@ -6102,7 +6102,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimmyDiggs",
+						"name": "Jimmy Diggs"
+					},
 					"abstract": {
+						"en": "Julian Bashir is selected to become the model for a Long-term Medical Hologram, until a family secret is revealed. Rom has great difficulty in telling Leeta something.",
 						"de": "Durch Indiskretion wird auf DS9 bekannt, dass Dr. Bashir im Kindesalter auf Veranlassung seiner Eltern genetisch aufgewertet wurde, auch, um einen höheren Intellekt zu erlangen. Da das Verfahren verboten ist, droht Bashir das Ende seiner Karriere."
 					}
 				},
@@ -6133,7 +6144,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnTKretchmer",
 						"name": "John T. Kretchmer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Odo falls in love with a woman, Arissa, involved in the Orion Syndicate.",
 						"de": "Odo erhält Besuch von einer jungen Frau, die dem verbrecherischen Orion-Syndikat angehört und auf der Flucht vor Jägern ist, vor denen sie Odo zunächst beschützt."
 					}
 				},
@@ -6164,7 +6181,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSiddig",
 						"name": "Siddig El Fadil"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						}
+					],
 					"abstract": {
+						"en": "Quark’s cousin Gaila, knowing Quark is desperate for funds, takes him on as a junior partner in his highly lucrative arms dealing business. With his mother Keiko away dealing with a plague on Bajor, Yoshi O’Brien will only stop crying when Miles holds him, making things difficult.",
 						"de": "Quark ist über die Möglichkeit, durch illegale Waffenlieferungen viel Geld zu verdienen, zunächst begeistert, gerät aber in ein moralisches Dilemma, als der Käufer eine Massenvernichtungswaffe erwerben möchte."
 					}
 				},
@@ -6195,7 +6225,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EdmundNewton",
+							"name": "Edmund Newton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobbinLSlocum",
+							"name": "Robbin L. Slocum"
+						}
+					],
 					"abstract": {
+						"en": "Tekeny Ghemor (“Second Skin”) arrives on Deep Space Nine and reveals that he is dying.",
 						"de": "Als der Cardassianer Tekeny Ghemor, der Kira als seine Tochter betrachtet, zum Sterben auf die Station kommt, muss Kira, als sie von früheren Kriegsverbrechen Ghemors erfährt, seine Verbrechen emotional verkraften."
 					}
 				},
