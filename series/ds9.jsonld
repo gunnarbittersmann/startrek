@@ -8573,8 +8573,20 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
-						"en": "The war reaches a crucial turning point when the Dominion retakes the Chin’Toka system, the only Allied foothold in enemy space. Meanwhile, Winn learns that Dukat plans to release the Pah-Wraiths, and Damar leads a revolt against the Dominion."
+						"en": "The war reaches a crucial turning point when the Dominion retakes the Chin’Toka system, the only Allied foothold in enemy space. Winn learns that Dukat plans to release the Pah-Wraiths. Damar begins a revolt against the Dominion."
 					}
 				},
 				{
@@ -8604,8 +8616,25 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"name": "Michael Dorn"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SpikeSteingasser",
+							"name": "Spike Steingasser"
+						}
+					],
 					"abstract": {
-						"en": "Sisko orders Kira, Garak and Odo to Cardassia to assist Cardassians in resistance tactics as Damar’s rebellion gains ground; meanwhile, Bashir makes a shocking discovery about the disease that is ravaging the Founders."
+						"en": "Sisko orders Kira, Garak and Odo to Cardassia to assist Cardassians in resistance tactics as Damar’s rebellion gains ground. Bashir makes a shocking discovery about the disease that is ravaging the Founders. Dukat’s cover has been blown by Sobor. Gowron arrives on DS9."
 					}
 				},
 				{
@@ -8635,8 +8664,13 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
-						"en": "Kira masterminds a plot to steal the Breen energy-dampening weapon and Worf instigates a power shift in the Klingon Empire."
+						"en": "Kira masterminds a plot to steal a Breen energy-dampening weapon. Gowron’s political vendetta against Martok is endangering the war effort and prompts Worf to instigate a power shift in the Klingon Empire."
 					}
 				},
 				{
@@ -8666,6 +8700,18 @@
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
 						"name": "Steve Posey"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
 					"abstract": {
 						"en": "As Odo falls gravely ill to the shape-shifter disease, Bashir and O’Brien must get inside the mind of Luther Sloan, who holds Odo’s cure."
 					}
@@ -8697,8 +8743,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
-						"en": "Sisko takes command of a new ship; Kira and Garak face a Dominion ambush on Cardassia. Grand Nagus Zek has an announcement to make, as well as the Siskos."
+						"en": "Sisko takes command of a new ship. Kira, Damar, and Garak stumble into a Dominion ambush on Cardassia; they also discover the entire resistance organization has been destroyed. Ezri and Julian finally clear the air with each other. Grand Nagus Zek has an announcement to make, as does Kasidy Sisko."
 					}
 				},
 				{
