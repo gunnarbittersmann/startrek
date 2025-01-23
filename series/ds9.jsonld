@@ -6274,7 +6274,20 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "At the end of his rope, Quark returns home and discovers Moogie has a secret lover.",
 						"de": "Auf Ferenginar wird Quark, der seine Geschäftslizenz verloren hatte, die Möglichkeit geboten, diese wieder zurückzuerhalten. Dazu muss er jedoch seine Mutter enttarnen, die als Geliebte des Ferengi-Herrschers trotz Verbotes die finanziellen Geschicke des Planeten lenkt."
 					}
 				},
@@ -6305,7 +6318,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Martok, Worf and Dax go on a mission aboard a Klingon ship to search for a missing Klingon vessel. However, Martok’s uneasiness about battle, a result of his captivity, affects his crew’s morale.",
 						"de": "Bei der Suchaktion, die Martok, begleitet von Worf, als Raumschiffkommandant durchführt, werden Worfs Fähigkeiten als Krieger in Frage gestellt."
 					}
 				},
@@ -6336,7 +6355,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GaryHolland",
+							"name": "Gary Holland"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EthanHCalk",
+							"name": "Ethan H. Calk"
+						}
+					],
 					"abstract": {
+						"en": "An accident causes the crew to meet their own descendants — and presents them with an ethical dilemma.",
 						"de": "Die Crew der in der Atmosphäre eines Planeten im Gamma-Quadranten gefangenen Defiant trifft auf dem Planeten ihre eigenen, zukünftigen Nachkommen und versucht nun, den Planeten wieder zu verlassen."
 					},
 					"review": {
