@@ -3906,7 +3906,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertLederman",
+							"name": "Robert Lederman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidRLong",
+							"name": "David R. Long"
+						}
+					],
 					"abstract": {
+						"en": "Garak’s tailor shop is bombed, forcing Odo to investigate who is trying to kill the Cardassian exile – and why.",
 						"de": "Nachdem Garaks Geschäft explodiert ist, stoßen Odo und Garak bei den Untersuchungen auf eine große Flotte romulanischer und cardassianischer Schiffe. Es stellt sich heraus, dass es Schiffe der Geheimdienste beider Welten sind, die die Heimatwelt der Gründer angreifen wollen, um dadurch das Dominion zu vernichten."
 					}
 				},
@@ -3937,7 +3955,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Garak reluctantly tortures Odo for information to prove his loyalty to his former mentor, Enabran Tain, as a joint Tal Shiar/Obsidian Order attack on the Founders in the Omarian Nebula is underway.",
 						"de": "Das Vorhaben des romulanischen und des cardassianischen Geheimdienstes misslingt und stellt sich als eine Falle des Dominion mit dem Zweck heraus, Romulaner und Cardassianer militärisch zu schwächen."
 					}
 				},
@@ -3968,7 +3992,18 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
+					},
 					"abstract": {
+						"en": "Sisko builds a replica of an ancient Bajoran space vessel and with Jake attempts to prove that the Bajorans developed interstellar travel before Cardassians. Bashir frets over the impending visit of the classmate who graduated first in his class at Starfleet Medical Academy.",
 						"de": "Sisko baut nach sehr alten Konstruktionsplänen, die er auf Bajor in einer Bibliothek gefunden hat, ein primitives, mit Solarsegeln betriebenes Raumschiff, um zu beweisen, dass die alten Bajoraner, gemäß ihrer Legenden, mit solchen Schiffen weit gereist sind, etwa bis nach Cardassia. Trotz einiger Schwierigkeiten gelingt Sisko und Jake die Reise dorthin, wo sie von Gul Dukat freundlich empfangen werden."
 					}
 				},
@@ -3999,7 +4034,20 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Quark returns to his home planet to confront his mother (Moogie) after hearing from the Ferengi Commerce Authority that she broke the law by earning profit. Sisko meets Captain Kasidy Yates as a romantic interest, which Sisko has discovered his son has told most of the station about.",
 						"de": "Quarks Mutter wird verdächtigt, Profit gemacht zu haben. Da es Frauen der Ferengi verboten ist, sich wirtschaftlich zu betätigen, bekommt Quark Besuch von der Ferengi-Handelsbehörde, die ihn auffordert, seine Mutter zur Vernunft zu bringen. Quarks Mutter erweist sich aber als stur und kann erst durch Quarks Bruder Rom zu einem Kompromiss bewegt werden."
 					}
 				},
@@ -4030,7 +4078,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GordonDawson",
+						"name": "Gordon Dawson"
+					},
 					"abstract": {
+						"en": "Kai Winn needs Kira to convince the former resistance leader Shakaar, now a farmer on Bajor, to return soil reclamators needed elsewhere in Rakantha, which used to be Bajor’s most productive agricultural region.",
 						"de": "Nach dem plötzlichen Tod des bajoranischen Premierministers wird Kai Winn auch noch Regierungschefin von Bajor. Zur Festigung ihrer Macht riskiert sie einen Bürgerkrieg. Aus Furcht vor dem Publikwerden ihres Verhaltens tritt sie am Ende jedoch nicht bei den Neuwahlen an, die schließlich der Farmer Shakaar für sich entscheidet."
 					}
 				},
@@ -4061,7 +4115,13 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Jadzia Dax deals with feelings of inferiority as she encounters past hosts in a Trill Zhian’tara ceremony, which is able to transfer the memories of former hosts into another recipient, and Odo takes on the role of Curzon Dax during the experience.",
 						"en": "Jadzia Dax deals with feelings of inferiority as she encounters past hosts in a Trill Zhian’tara ceremony which is able to transfer the memories of former hosts into another recipient, and Odo takes on the role of Curzon Dax during the experience."
 					}
 				},
@@ -4092,7 +4152,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Ambassador Krajensky informs newly promoted Captain Sisko that there has been a coup on Tzenketh. He orders Sisko to take the Defiant to the nearby Federation colonies to “show the flag” and keep the Tzenkethi quiet. A Changeling hides on board the Defiant and sabotages the ship.",
 						"de": "Nachdem er zum Captain befördert wurde, startet Sisko mit der Defiant, um einen Putsch auf der Heimatwelt der Tzenkethi zu untersuchen. Es stellt sich heraus, dass ihr Auftraggeber Admiral Krajensky ein Formwandler ist, der die Defiant auf diese Mission geschickt hat, um einen Krieg zu provozieren. Sisko und seine Mannschaft können das jedoch in letzter Minute verhindern."
 					}
 				}
@@ -4140,6 +4213,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"abstract": {
+						"en": "A Klingon fleet arrives on its way to expand the Klingon Empire at the expense of the Cardassians in the face of the Dominion threat, and Worf is brought to DS9 to negotiate."
 					},
 					"description": {
 						"de": "Die Klingonen gehen davon aus, dass die cardassianische Regierung von Formwandlern infiltriert wurde um den Alpha-Quadrant zu erobern. Sie planen daher Cardassia zu überfallen und die dortige Regierung zu beseitigen. Da die Föderation, vertreten durch Sisko, zur Vermeidung eines Krieges diesen Plan verhindern will, kündigen die Klingonen ihren Friedensvertrag mit der Föderation auf. Außerdem greifen sie Deep Space Nine mit einer Raumschiffflotte an und entern die Station. Die Stationsbesatzung kann den Angriff jedoch abwehren und die Klingonen ziehen sich wieder zurück. Zwecks Verhandlungen zwischen Sternenflotte und klingonischem Reich holt Sisko auch den einst auf der Enterprise-D eingesetzten Sternenflottenoffizier Worf auf die Station. Er wird fortan neuer Offizier für strategische Operationen. Wegen seiner Weigerung, die klingonische Strategie zu unterstützen, wird Worf aber von seinem Volk geächtet."
