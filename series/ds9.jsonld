@@ -4699,7 +4699,25 @@
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
 						"name": "Reza Badiyi"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "As Sisko and Odo prepare for a Dominion invasion, they discover a plot to place the Federation under military control.",
 						"de": "Weil der Putschversuch des Admirals die Absicht des Dominion unterstützt, die Föderation zu destabilisieren, stoppen Sisko und seine Mannschaft den Admiral bei der Umsetzung von dessen Plan."
 					}
 				},
@@ -4729,6 +4747,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
 					},
 					"abstract": {
 						"en": "Odo’s hidden feelings for Kira surface when the visiting Bajoran First Minister, Shakaar Edon, begins to court her."
@@ -4761,7 +4784,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TomBenko",
+						"name": "Tom Benko"
+					},
 					"abstract": {
+						"en": "Dukat seeks Kira’s help in regaining his rank in the Cardassian Union.",
 						"de": "Durch das Publikwerden seiner Vaterschaft gesellschaftlich und beruflich ruiniert, möchte Dukat die Anerkennung seines Volkes zurückgewinnen, während er sich mit Kira auf einer Rettungsmission mit einem alten Frachtraumschiff befindet und dabei den Kampf mit den Klingonen sucht."
 					}
 				},
@@ -4792,7 +4826,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Cast out of Klingon society because of Worf’s dishonor, his brother, Kurn, asks Worf to kill him. Kira and O’Brien investigate a mysterious high-energy discharge just outside Bajoran space.",
 						"de": "Worf hilft seinem Halbbruder Kurn dabei, dessen verloren gegangene Ehre wiederherzustellen, dabei zerstören sie auch ein Minenfeld, das Klingonen am Wurmloch errichtet hatten."
 					}
 				},
@@ -4823,7 +4863,32 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BarbaraJLee",
+							"name": "Barbara J. Lee"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeniferALee",
+							"name": "Jenifer A. Lee"
+						}
+					],
 					"abstract": {
+						"en": "After he nearly dies because his contract kept him from seeking medical help, Rom organizes the Guild of Restaurant and Casino employees, a union for Quark’s downtrodden staff, and they go on strike when their demands for fairer treatment are rejected.",
 						"de": "Quarks Bruder Rom, durch die harten Arbeitsbedingungen in Quarks Bar gesundheitlich angeschlagen, gründet eine Gewerkschaft und organisiert einen Streik, wodurch er schließlich – zu Ungunsten Quarks – eine Verbesserung seiner Lage erreicht. Außerdem wird er Mitglied der bajoranischen Stationsbesatzung und Techniker."
 					},
 					"review": [
@@ -4885,7 +4950,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JaneEspenson",
+						"name": "Jane Espenson"
+					},
 					"abstract": {
+						"en": "A famous Bajoran poet, Akorem Laan, who disappeared over 200 years ago, appears from the wormhole and convinces Sisko that he is the true Emissary, but when he announces a return to the pre-occupation caste system, Sisko points out it would disqualify Bajor for membership in The Federation. O’Brien is less than enthusiastic when Keiko announces she’s expecting.",
 						"de": "Ein aus dem Wurmloch erschienener alter Bajoraner behauptet, der Abgesandte zu sein, jedoch kann sich Sisko nach einem Kontakt zu den Propheten von seiner Rolle, der wahre Abgesandte zu sein, überzeugen."
 					}
 				},
@@ -4916,7 +4987,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
 					"abstract": {
+						"en": "Worf accidentally destroys a civilian ship during battle and faces a hearing to determine whether he should be extradited to the Klingon Empire.",
 						"de": "Worf wird durch einen klingonischen Anwalt angeklagt, ein Raumschiff mit Zivilisten an Bord zerstört zu haben. Sisko kann jedoch letztlich die Unschuld Worfs beweisen."
 					}
 				},
@@ -4947,7 +5036,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanielKeysMoran",
+							"name": "Daniel Keys Moran"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LynnBarker",
+							"name": "Lynn Barker"
+						}
+					],
 					"abstract": {
+						"en": "O’Brien’s mind has been altered to create memories of being incarcerated for twenty years on an alien world on charges of espionage and sedition.",
 						"de": "Chief O’Brien wird durch fremde Wesen die Erinnerungen an einen 20-jährigen Gefängnisaufenthalt eingepflanzt und droht sich aufgrund des dadurch empfundenen Traumas von seinen Mitmenschen zu entfremden."
 					}
 				},
