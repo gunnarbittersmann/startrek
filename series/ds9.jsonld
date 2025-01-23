@@ -6806,7 +6806,20 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Learning of thousands of Dominion reinforcements gathering in the Gamma Quadrant, Sisko initiates a plan to retake Deep Space Nine and secure the wormhole before the minefield is detonated.",
 						"de": "Als die Föderation den Krieg zu verlieren droht und die Gefahr besteht, dass das verminte Wurmloch wieder geöffnet wird, setzt die Sternenflotte Siskos Plan zur Rückeroberung von Deep Space Nine um und führt dabei mit hunderten Raumschiffen eine – trotz deutlicher gegnerischer Übermacht – beiderseits verlustreiche Schlacht mit dem Dominion."
 					}
 				},
