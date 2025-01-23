@@ -5263,7 +5263,13 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+						"name": "Naren Shankar"
+					},
 					"abstract": {
+						"en": "Bashir tries to free the population of a Gamma Quadrant world in the Teplan system of an engineered disease left by the Dominion 200 years previously.",
 						"de": "Auf einem Planeten im Gamma-Quadranten hilft Bashir den Bewohnern dabei, sie von ihrer bislang tödlich verlaufenden Krankheit zu heilen, mit der sie einst durch das Dominion infiziert wurden."
 					}
 				},
@@ -5294,7 +5300,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LouisPDeSantis",
+							"name": "Louis P. DeSantis"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertJBolivar",
+							"name": "Robert J. Bolivar"
+						}
+					],
 					"abstract": {
+						"en": "Quark is diagnosed with a terminal disease, Dorek’s Syndrome, and given a week to live. Due to an unavoidable accident on the runabout Volga, Miles and Keiko’s unborn baby is transferred to Major Kira by Dr. Bashir.",
 						"de": "Nachdem bei Quark eine tödlich verlaufende Krankheit diagnostiziert wurde, verkauft er seine Körperteile höchstbietend, kann aber nicht liefern, als sich die Ankündigung seines Todes als falsch herausstellt. Nachdem O’Briens Frau Keiko bei einem Shuttle-Unfall verletzt wurde, muss Bashir ihr ungeborenes Baby in Kiras Körper transplantieren."
 					}
 				},
