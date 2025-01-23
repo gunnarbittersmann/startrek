@@ -4260,7 +4260,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
+						"en": "An elderly Jake Sisko relates the story of how he lost his father to a temporal displacement accident.",
 						"de": "Als sich auf der Defiant ein Unfall ereignet, gerät Captain Sisko in den Subraum, wo er durch die Zeit reist und auch seinem stark gealterten Sohn begegnet; dieser hilft ihm schließlich dabei, in seine Zeit zurückzukehren."
 					},
 					"review": {
@@ -4305,7 +4311,25 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NicholasCorea",
+							"name": "Nicholas Corea"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+							"name": "Lisa Klink"
+						}
+					],
 					"abstract": {
+						"en": "Bashir is captured, with Chief O’Brien, by a rogue group of Jem’Hadar who are attempting to overcome their genetic addiction to Ketracel White. Their leader, Goran’Agar, is able to survive without it and forces Bashir to find out why. Worf is finding it difficult to leave security matters to Security Chief Odo.",
 						"de": "O’Brien und Bashir treffen auf einem Planeten im Gamma-Quadranten auf gestrandete Jem’Hadar-Soldaten, deren Vorrat an ihrer Droge Ketracel White zur Neige geht und die nun von Bashir das Herstellen eines Ersatzmittels fordern."
 					}
 				},
@@ -4336,7 +4360,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NicholasCorea",
+						"name": "Nicholas Corea"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ToniMarberry",
+							"name": "Toni Marberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JackTrevino",
+							"name": "Jack Treviño"
+						}
+					],
 					"abstract": {
+						"en": "Forced to bring along Dukat on a personal mission to investigate the fate of the Cardassian prison ship Ravinok, which disappeared six years ago, Kira discovers the real reason her old enemy wants to accompany her. Sisko appears to have reservations about Kasidy Yates’ coming to live on the station.",
 						"de": "Bei der Suche nach einem vor langer Zeit verschollenen Transporter, auf dem sich bajoranische Gefangene und Cardassianer befanden, finden Kira und Dukat die je zur Hälfte bajoranische und cardassianische, uneheliche Tochter Dukats, Tora Ziyal."
 					}
 				},
