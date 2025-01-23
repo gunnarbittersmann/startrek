@@ -6644,7 +6644,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Three months into the war, DS9 is still under Dominion control. Sisko and his crew are given a mission to destroy a vital Ketracel White facility deep in Dominion space using a captured Jem’Hadar ship. Jake is working for the Federation News Service. Odo is head of Terok Nor’s security supported by the Vorta Weyoun.",
 						"de": "Im Alpha-Quadranten entbrennt ein interstellarer Krieg zwischen dem Dominion und den Alliierten der Föderation. Bei dem Versuch, das Dominion zurückzuschlagen verlieren die Sternenflotte und die Klingonen mehrere Dutzend Raumschiffe und DS9 ist in der Hand des Dominion. Sisko und seine Crew sollen die Ketracel-White-Vorräte zerstören, die die Jem’Hadar zum Überleben brauchen, um den Krieg zu ihren Gunsten zu drehen. Dazu fliegen sie mit dem Jem’Hadar-Schiff, das sie vor einem Jahr erbeuten konnten, in den Raum des Dominion."
 					}
 				},
@@ -6675,7 +6688,13 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Sisko and his tired crew crash on a planet where they encounter a band of Jem’Hadar.",
 						"de": "Auf dem Weg in feindliches Gebiet wurde das von Sisko und seiner Crew benutzte Jem’Hadar-Schiff so stark beschädigt, dass sie damit auf einem Planeten abstürzen. Dort werden sie  mit einer Gruppe Jem’Hadar konfrontiert, deren Vorta krank ist und die Hilfe Bashirs benötigt."
 					}
 				},
@@ -6706,7 +6725,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						}
+					],
 					"abstract": {
+						"en": "While on General Martok’s ship Worf is reunited with his estranged son, Alexander.",
 						"de": "Worf wird an Bord der von Martok befehligten Rotarran versetzt und trifft dort auf seinen Sohn, der sich von ihm entfremdet hat."
 					}
 				},
@@ -6737,7 +6769,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Sisko creates a risky plan to disable a critical Dominion sensor array able to see five sectors out, while on Terok Nor, Kira, Jake, Rom and Odo seek to undermine the Cardassian/Dominion Alliance.",
 						"de": "Die Defiant erhält den Auftrag, eine Sensorstation, die sich in der Hand des Dominion befindet zu zerstören. Unterdessen haben auf Deep Space Nine verbliebene bajoranische Militärangehörige, unter ihnen Kira, Odo, Jake, Rom und Quark, eine Widerstandszelle gegründet, um den Kriegsverlauf zu Ungunsten des Dominion zu beeinflussen, etwa indem sie Zwietracht zwischen Cardassianern und Jem’Hadar sähen."
 					}
 				},
