@@ -8266,7 +8266,20 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Quark and Rom cross into the alternate universe to rescue Grand Nagus Zek.",
 						"de": "Nachdem der Große Nagus Zek in das Spiegeluniversum entführt wurde und dort exekutiert werden soll, beamen sich Quark und Rom in die Parallelwelt, um Zek gegen eine Tarnvorrichtung einzutauschen, die die Allianz benötigt."
 					}
 				},
@@ -8297,7 +8310,13 @@
 						"@id": "https://bittersmann.de/startrek/people#TonyDow",
 						"name": "Tony Dow"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
 					"abstract": {
+						"en": "Ezri summons Joran, a homicidal Dax incarnation from her past, for help in understanding the mind of a serial killer loose on the station.",
 						"de": "Ezri erhält vom Bewusstsein einer ihrer früheren Wirte Unterstützung bei der Suche nach einem Mörder, der unter Verwendung einer experimentellen Waffe sein Unwesen auf der Station treibt."
 					}
 				},
@@ -8328,7 +8347,13 @@
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
 						"name": "Steve Posey"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "A Changeling, Laas, asks Odo to leave the station and join his search for other shapeshifters.",
 						"de": "Odo begegnet während eines Shuttle-Fluges ein anderer Formwandler, der einst ebenso wie Odo zur Erforschung der Galaxis ausgesetzt wurde und nun von Odo mehr über sein Volk erfährt."
 					}
 				},
