@@ -6568,7 +6568,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Faced with the realization that the Dominion are taking over the Alpha Quadrant, Sisko decides to mine the entrance to the wormhole with self-replicating cloaked mines, thus beginning the Dominion War.",
 						"de": "Nachdem die Romulaner und andere Völker des Alpha-Quadranten Nichtangriffspakte mit dem Dominion abschließen, lässt die Sternenflotte das Wurmloch verminen, um ein weiteres Aufrüsten des Dominion und ein Anwachsen der von ihm ausgehenden Bedrohung zu verhindern. Wohlwissend, dass die Blockade des Wurmlochs einen Krieg provoziert, veranlasst Sisko die bajoranische Regierung zum Abschluss eines Nichtangriffspaktes mit dem Dominion. Wenig später greift eine Flotte von Cardassianern und Jem’Hadar die mittlerweile fast vollständig evakuierte und von der Sternenflotte verlassene Station an und nimmt sie trotz hoher eigener Verluste ein."
 					},
 					"review": {
