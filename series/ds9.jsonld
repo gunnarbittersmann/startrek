@@ -7430,7 +7430,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Bashir shows off a new Holosuite program of a martini lounge with a 1960s Vegas singer named Vic Fontaine who is very perceptive; and gives advice to Odo when Kira visits her ex-lover Shakaar.",
 						"de": "Als Odo von einem neuen Holosuite-Programm erfährt, in dem der Sänger Vic Fontaine in einem Nachtclub der 1960er Jahre auftritt, okkupiert er das Programm für sich allein und lässt sich von Fontaine dabei helfen, Kiras Liebe zu gewinnen."
 					}
 				},
@@ -7461,7 +7474,32 @@
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarryMWerksman",
+							"name": "Harry M. Werksman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GabrielleStanton",
+							"name": "Gabrielle Stanton"
+						}
+					],
 					"abstract": {
+						"en": "Sisko is called to Bajor when an ancient tablet addressing the Emissary is discovered at B’hala.",
 						"de": "Kai Winn, ihre religiöse Führungsrolle im Falle des Eintretens einer bajoranischen Prophezeiung schützend, vereitelt die Vollendung des Kampfes zwischen einem Propheten und einem Pah-Geist, bevor letzterer bei dem Kampf vernichtet worden wäre."
 					}
 				},
@@ -7492,7 +7530,13 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Jake and Nog come under attack by the Jem’Hadar and are rescued by a rogue Defiant class starship, the Valiant, under the command of Starfleet Red Squadron cadets.",
 						"de": "Nachdem Jake und Nog in ihrem Shuttle durch Jem’Hadar-Raumschiffe beschossen wurden, rettet sie das Sternenflottenschiff Valiant, das von lauter elitären Sternenflottenkadetten geführt wird, die voller Selbstbewusstsein die letztlich tödlich endende Konfrontation mit dem Dominion suchen."
 					}
 				},
