@@ -5644,7 +5644,47 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"isBasedOn": {
+						"@type": "TVEpisode",
+						"@id": "https://bittersmann.de/startrek/series/tos#2.15",
+						"name": "The Trouble with Tribbles",
+						"author": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+							"name": "David Gerrold"
+						}
+					},
 					"abstract": {
+						"en": "Darvin, a disgraced Klingon spy, travels back in time. The DS9 crew must prevent him from altering the timeline.",
 						"de": "Durch einen Drehkörper wird die Defiant in die Zeit Captain Kirks zurückversetzt. Sie trifft auf die USS Enterprise NCC-1701, die die Raumstation K7 umkreist. Sisko und seine Mannschaft finden heraus, dass der Mensch, den sie auf Cardassia an Bord genommen haben, in Wirklichkeit ein klingonischer Spion ist, der sich an Captain Kirk rächen will und dadurch die Zeitlinie gefährdet. Es gelingt der Crew der Defiant den Mord zu verhindern und in ihre eigene Zeit zurückzukehren."
 					},
 					"review": {
