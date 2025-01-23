@@ -6012,7 +6012,20 @@
 						"@id": "https://bittersmann.de/startrek/people#GabrielleBeaumont",
 						"name": "Gabrielle Beaumont"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "Worf and Garak journey to the Gamma Quadrant to investigate a coded Cardassian message.",
 						"de": "Worf und Garak fliegen in den Gamma-Quadranten nachdem man eine Notruf des totgeglaubten Enabran Tain, dem ehemaligen Chef des cardassianischen Geheimdienstes, empfangen hat. Die beiden geraten in Gefangenschaft der Jem’Hadar und treffen dort unter anderem auf Dr. Bashir, der bereits vor Wochen entführt wurde. Sie treffen auch auf den schwer kranken Enabran Tain."
 					}
 				},
