@@ -5460,7 +5460,25 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PamWigginton",
+							"name": "Pam Wigginton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickCason",
+							"name": "Rick Cason"
+						}
+					],
 					"abstract": {
+						"en": "While exploring in the Gamma Quadrant, Sisko, Dax, Worf and O’Brien see a Jem’Hadar warship crash on a planet’s surface. Odo arrests Dr. Bashir and Quark.",
 						"de": "Auf einem Planeten im Gamma-Quadranten finden Sisko und seine Crew ein abgestürztes Raumschiff der Jem’Hadar. Als sich ein weiteres Schiff nähert, müssen sich Sisko und seine Crew in dem Wrack verschanzen. Sie finden heraus, dass die Jem’Hadar das Schiff nicht entern, weil sich ein Gründer auf dem Schiff versteckt und versuchen zurück nach DS9 zu kommen."
 					}
 				},
@@ -5491,7 +5509,13 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewJRobinson",
 						"name": "Andrew J. Robinson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Worf finds himself attracted to Grilka, Quark’s ex wife (episode 3.3), when she visits the station.",
 						"de": "Quark erhält Besuch von seiner klingonischen Ex-Frau Grilka und versucht dabei, auch mit der Hilfe von Worf und Dax, Grilkas Herz zu erobern."
 					}
 				},
@@ -5522,7 +5546,18 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BriceRParker",
+						"name": "Brice R. Parker"
+					},
 					"abstract": {
+						"en": "Dr. Bashir has been away at a conference and Jake Sisko has accompanied him to research a profile he is writing about the doctor. Returning in a runabout, they get a distress call from a Federation colony under Klingon attack.",
 						"de": "Die Klingonen setzen ihre Angriffe gegen die Föderation fort. Das erfährt Jake Sisko am eigenen Leib als er und Bashir durch einen Notruf zu einer Föderationskolonie gerufen werden, die von Klingonen angegriffen wird. Als Sanitäter erfährt Jake die Schrecken des Krieges."
 					}
 				},
@@ -5553,7 +5588,32 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#",
+							"name": ""
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#",
+							"name": ""
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidRLong",
+							"name": "David R. Long"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertLederman",
+							"name": "Robert Lederman"
+						}
+					],
 					"abstract": {
+						"en": "Keiko returns from a journey and informs O’Brien that she is really an entity that has taken possession of his wife’s body.",
 						"de": "Es gelingt einem sogenannten Pah-Geist, sich des Körpers von O’Briens Frau Keiko zu bemächtigen. Die Pah-Geister, so erzählt es eine bajoranische Legende, waren einstmals selbst Wurmlochbewohner, wurden von den Propheten aber aus dem Wurmloch verstoßen und streben seitdem danach, ihren früheren Platz wieder einzunehmen. Mit Hilfe von Keiko versuchen sie ihr Ziel nun in die Tat umzusetzen, können aber daran gehindert werden."
 					}
 				},
