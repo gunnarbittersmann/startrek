@@ -7867,7 +7867,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Everyone who knew Jadzia Dax reacts strongly to Ezri Dax’s presence, particularly Worf. Garak suffers from bad attacks of claustrophobia.",
 						"de": "Ezri Dax, neu auf der Station eingetroffen, hat zunächst Anpassungsschwierigkeiten sowohl in ihrer Rolle als Counselor als auch als Vertraute Worfs."
 					}
 				},
@@ -7898,7 +7904,13 @@
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
 						"name": "Chip Chalmers"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Sisko must train his staff to play baseball when the Vulcan Captain Solok, an old rival of his, challenges Sisko to a game while his ship is being repaired.",
 						"de": "Der vulkanische Sternenflottencaptain Solok fordert Sisko und seine Crew zu einem Baseball-Wettkampf in der Holosuite heraus."
 					},
 					"review": {
@@ -7943,7 +7955,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Bashir falls for a genetically enhanced patient, Sarina Douglas, that he brought out of a catatonic state using an experimental medical procedure.",
 						"de": "Bashir hilft der autistischen, genetisch aufgewerteten Sarina dabei, die Fähigkeit zu Sprechen zurückzugewinnen."
 					}
 				},
@@ -7974,7 +7992,25 @@
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
 						"name": "Steve Posey"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhilipKim",
+						"name": "Philip Kim"
+					},
 					"abstract": {
+						"en": "A Vorta defector, Weyoun-6, gives Odo valuable information in exchange for asylum. Weyoun-7, the next clone in the series, pursues them. Nog engages in a series of barters to get a Graviton Stabilizer for Miles.",
 						"de": "Als ein Klon des Vortas Weyoun zur Föderation überlaufen möchte, erfährt Odo von ihm, dass die Gründer an einer Krankheit leiden, die ihre Körper degenerieren lässt."
 					}
 				},
@@ -8005,7 +8041,13 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Kor (Ep 2.19, “Blood Oath” & 4.9, “The Sword of Kahless”), an aging Klingon hero, asks Worf to find him a battle assignment. Martok plans a “cavalry raid” of five birds of prey, hitting several key targets behind enemy lines to throw them off balance.",
 						"de": "Damit er ehrenvoll sterben kann, möchte der gealterte Klingone Kor das Kommando über ein Raumschiff erhalten, stößt mit diesem Wunsch aber bei Martok zunächst auf Widerstand und erhält schließlich Unterstützung durch Worf."
 					}
 				},
