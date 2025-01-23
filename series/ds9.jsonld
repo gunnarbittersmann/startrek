@@ -7010,7 +7010,20 @@
 						"@id": "https://bittersmann.de/startrek/people#ChipChalmers",
 						"name": "Chip Chalmers"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Quark mounts a rescue mission when his mother, Ishka, is captured by the Dominion and Grand Nagus Zek offers a reward for her return.",
 						"de": "Als Quarks und Roms Mutter Ishka durch das Dominion gefangengenommen wird, organisieren die beiden eine Rettungsmission und tauschen einen gefangenen Vorta gegen Ishka ein."
 					}
 				},
@@ -7041,7 +7054,13 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "An attack on the Starfleet ship carrying Gul Dukat to a hearing for war crimes, as well as Captain Sisko who is to testify at the hearing, leaves the two of them stranded on a deserted planet together.",
 						"de": "Durch den Tod seiner Tochter schwer traumatisiert, befindet sich Dukat in Kriegsgefangenschaft der Sternenflotte. Damar wird neuer Herrscher Cardassias. Dukat verfällt in der Gefangenschaft in Wahnvorstellungen, in deren Folge er beschließt, aufgrund des von ihm empfundenen, tiefen Hasses alle Bajoraner zu töten, wenn er aus der Gefangenschaft der Föderation entkommt."
 					}
 				},
@@ -7072,7 +7091,13 @@
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGehredOConnell",
+						"name": "Mark Gehred-O’Connell"
+					},
 					"abstract": {
+						"en": "Morn is killed in an ion storm and Sisko informs Quark that Morn left his entire estate to him. But Quark has a little competition.",
 						"de": "Als sich die angebliche Nachricht verbreitet, Quarks Stammgast Morn sei gestorben und habe Quark als Erben ausgewählt, unternimmt Quark mehrere Schritte, um an sein Erbe zu gelangen."
 					}
 				},
