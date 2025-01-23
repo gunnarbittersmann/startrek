@@ -5098,7 +5098,7 @@
 						}
 					],
 					"abstract": {
-						"en": "",
+						"en": "Sisko attempts to rescue Jake after he is lured into the war-torn Mirror Universe by his mother’s living counterpart.",
 						"de": "Sisko ist gezwungen, in das Spiegeluniversum zu beamen und dort den Rebellen dabei zu helfen, eine neue Defiant zu bauen."
 					}
 				},
@@ -5129,6 +5129,23 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MajelBarrett",
+							"name": "Majel Barrett-Roddenberry"
+						}
+					],
 					"abstract": {
 						"en": "While Odo assists a pregnant Lwaxana Troi, Jake falls under the spell of a mysterious woman, Onaya."
 					}
@@ -5160,7 +5177,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGehredOConnell",
+						"name": "Mark Gehred-O’Connell"
+					},
 					"abstract": {
+						"en": "Sisko learns that his girlfriend Kasidy might be a Maquis smuggler. Garak has taken interest in Gul Dukat’s half Bajoran daughter, Tora Ziyal.",
 						"de": "Dem Maquis schließt sich der Sternenflottenoffizier Michael Eddington an, der bislang auf DS9 stationiert war; dabei werden auch Kassidy Yates’ Verwicklungen in Aktivitäten des Maquis offenbar und Sisko entwickelt eine harsche Rachsucht gegen Eddington. Ziyal und Garak verlieben sich ineinander."
 					}
 				},
@@ -5204,7 +5232,7 @@
 						}
 					],
 					"abstract": {
-						"en": "Sisko and the Defiant crew join forces with the Jem'Hadar to stop a group of Jem'Hadar renegades from gaining power using an Iconian Gateway discovered in the Gamma Quadrant.",
+						"en": "Sisko and the Defiant crew join forces with the Jem’Hadar to stop a group of Jem’Hadar renegades from gaining power using an Iconian Gateway discovered in the Gamma Quadrant.",
 						"de": "DS9 wird von einer Gruppe abtrünniger Jem’Hadar-Soldaten angegriffen und schwer beschädigt, sodass Siskos Crew mit der Defiant die Angreifer zu finden versucht, wobei sie auch mit einigen loyalen Jem’Hadar zusammenarbeiten muss."
 					}
 				},
