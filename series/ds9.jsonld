@@ -5349,7 +5349,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeorgeABrozak",
+						"name": "George A. Brozak"
+					},
 					"abstract": {
+						"en": "Odo collapses and is taken to the infirmary. Bashir discovers Odo is losing his ability to maintain solid form.",
 						"de": "Odo erkrankt schwer und kann kaum noch seine menschliche Form halten. Da er zu sterben droht, bringt ihn die Defiant in den Gamma-Quadranten zu seinem Volk, den Gründern. Es stellt sich heraus, dass Odo dort für den Mord an einem Artgenossen verurteilt werden soll."
 					}
 				}
