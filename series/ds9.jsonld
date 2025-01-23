@@ -1433,7 +1433,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnWhelpley",
+							"name": "John Whelpley"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnWhelpley",
+						"name": "John Whelpley"
+					},
 					"abstract": {
+						"en": "A plasma storm leads to the evacuation of most of the station, but a Trill refugee has his own plans.",
 						"de": "Da die Station durch einen Plasmasturm bedroht wird, wurde sie evakuiert und nur die Führungsoffiziere bleiben auf ihren Posten. Die Gelegenheit wird von dem Trill Verad genutzt um Jadzia zu zwingen ihm den Symbionten Dax zu überlassen. Jadzia kann allerdings ohne den Symbionten nicht überleben."
 					}
 				},
@@ -1476,7 +1494,25 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+						"name": "James Crocker"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneWolande",
+							"name": "Gene Wolande"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnWright",
+							"name": "John Wright"
+						}
+					],
 					"abstract": {
+						"en": "Garak investigates the identity of a Cardassian boy, Rugal, abandoned on Bajor, who has been raised by a Bajoran.",
 						"de": "Ein junger Cardassianer, während des Krieges zum Waisen geworden und von Bajoranern aufgezogen, kommt auf die Station und greift Garak, den letzten Cardassianer auf der Station, an. Bashir entdeckt bei seinen Nachforschungen, dass es noch zahlreiche cardassianische Waisen auf Bajor gibt, die in politischen Ränkelspielen auf Cardassia eine große Rolle spielen."
 					},
 					"review": {
@@ -1533,7 +1569,35 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+							"name": "Evan Carlos Somers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StevenBaum",
+							"name": "Steven Baum"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+							"name": "James Crocker"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+						"name": "Evan Carlos Somers"
+					},
 					"abstract": {
+						"en": "Bashir tries to help Ensign Melora Pazlar, the first Elaysian to join Starfleet, adjust to “normal” gravity.",
 						"de": "Fähnrich Melora Pazlar kommt nach DS9. Sie stammt von einem Planeten mit geringer Schwerkraft und kann sich auf der Station nur mit Hilfe eines Rollstuhls bewegen."
 					}
 				},
@@ -1576,7 +1640,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
+					},
 					"abstract": {
+						"en": "Quark represents Grand Nagus Zek in a plot to establish a Ferengi business presence in the Gamma Quadrant. Pel, a young Ferengi, teams up with Quark and they learn that to do business in the Gamma Quadrant they must contact the Keremma, a member race of the Dominion.",
 						"de": "Der Große Nagus Zek, der oberste Ferengi, macht Quark zum Teilhaber an Geschäften der Ferengi mit den Dosi, einer Rasse im Gamma-Quadranten, die zum Dominion gehört."
 					}
 				},
@@ -1619,7 +1694,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "When Quark is shot, Odo re-opens a five-year-old murder case of a Bajoran, Mr. Vaatrik, who was a Cardassian collaborator.",
 						"de": "In Rückblenden werden Odos Ermittlungen in einem Mordfall geschildert, der sich fünf Jahre zuvor, während der cardassianischen Besatzung der Station, ereignete und in den auch Kira involviert war."
 					}
 				},
@@ -1662,7 +1743,30 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MarkGehredOConnell",
+							"name": "Mark Gehred-O’Connell"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGehredOConnell",
+						"name": "Mark Gehred-O’Connell"
+					},
 					"abstract": {
+						"en": "A mysterious woman, Fenna, catches Sisko’s eye during their fleeting meetings. Meanwhile, an extremely egotistical scientist is working on a project to re-ignite a dead star.",
 						"de": "Sisko begegnet auf der Station einer Frau, in die er sich verliebt, die aber ständig verschwindet. Als er an Bord der USS Prometheus auf die Frau von Professor Seyetik trifft, erkennt er in ihr diese Frau. Sie kann sich allerdings an nichts erinnern."
 					}
 				},
@@ -1705,7 +1809,25 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FrederickRappaport",
+						"name": "Frederick Rappaport"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GabeEssoe",
+							"name": "Gabe Essoe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KelleyMiles",
+							"name": "Kelley Miles"
+						}
+					],
 					"abstract": {
+						"en": "The Skrreea, displaced humanoid farmers from the Gamma Quadrant, claim Bajor as Kentanna, their legendary homeland.",
 						"de": "Die Skrreea kommen durch das Wurmloch auf die Station. Es handelt sich um eine Rasse, die aus ihrer Heimat vertrieben wurde und nun glaubt in Bajor die prophezeite Heimat gefunden zu haben. Doch die Bajoraner lehnen eine Ansiedlung der tausenden Fremden ab."
 					}
 				},
@@ -1748,7 +1870,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+							"name": "Jim Trombetta"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"abstract": {
+						"en": "Quark feels threatened when a charming swindler, Martus Mazur, opens a competing bar, known as Club Martus.",
 						"de": "Nachdem der Glücksritter Martus auf die Station gekommen ist, kommt es zu zahlreichen unwahrscheinlichen Ereignissen auf DS9."
 					}
 				},
@@ -1791,7 +1931,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillDial",
+						"name": "Bill Dial"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+							"name": "Jim Trombetta"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillDial",
+							"name": "Bill Dial"
+						}
+					],
 					"abstract": {
+						"en": "A scientist, Dr. Mora Pol of the Bajoran Science Institute, finds a life-form in the Gamma Quadrant that may be related to Odo.",
 						"de": "Odo erhält zu seiner Enttäuschung Besuch von Dr. Mora Pol, dem bajoranischen Wissenschaftler, der mit ihm einst in Experimenten das Formwandeln übte. Pol hilft bei den Ermittlungen zur Aufklärung rätselhafter Vorfälle, als deren Verantwortlicher sich schließlich Odo herausstellt."
 					}
 				},
@@ -1834,7 +1992,13 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MorganGendel",
+						"name": "Morgan Gendel"
+					},
 					"abstract": {
+						"en": "O’Brien and Bashir help two warring races, the Kellerun and T’lani, erase all knowledge of a deadly biological weapon, but are not trusted to keep what they have learned a secret.",
 						"de": "Bashir und O’Brien sollen auf T’Lani Prime eine Waffe, die Harvester, unschädlich machen. Das gelingt auch, doch werden die Forscher nach dem Ende der Prozedur von Soldaten überfallen. Den beiden gelingt zwar die Flucht aber O’Brien hat sich mit Harvestern infiziert und droht zu sterben. Außerdem wurde von den T’Lani nach DS9 gemeldet, dass O’Brien und Bashir bei einem Unfall getötet worden seien."
 					}
 				},
@@ -1877,7 +2041,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulRobertCoyle",
+						"name": "Paul Robert Coyle"
+					},
 					"abstract": {
+						"en": "While preparing the station for upcoming peace talks, O’Brien discovers that the crew have been hiding information from him and giving orders behind his back. O’Brien begins to suspect everyone on the station is gradually being altered or replaced by an unknown force.",
 						"de": "Als Miles O’Brien von den Paradas zurückkehrt, für deren Sicherheit er bei einer Konferenz auf DS9 sorgen soll, verhalten sich alle ihm gegenüber sehr merkwürdig. O’Brien vermutet eine Konspiration und fliegt zurück ins Parada System."
 					}
 				},
@@ -1920,7 +2090,37 @@
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
 						"name": "Corey Allen"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeffKing",
+							"name": "Jeff King"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichardManning",
+							"name": "Richard Manning"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+							"name": "Jim Trombetta"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+							"name": "James Crocker"
+						}
+					],
 					"abstract": {
+						"en": "Commander Sisko and Chief O’Brien are stranded on a planet, Aurelius, where their leader, Alixus, rejects technology, even when it means the death of others.",
 						"de": "Sisko und O’Brien stranden auf einem Planeten, wo sie auf eine Gemeinschaft stoßen, die sich dem einfachen Leben ohne Technik verschrieben hat und von der Anführerin Alixus beinah diktatorisch geführt wird. Sisko und O’Brien verstoßen durch ihre Bemühungen zurück auf ihr Schiff zu gelangen schnell gegen die Regeln und werden drakonisch bestraft. O’Brien erkennt jedoch schnell, dass es kein natürliches Phänomen ist, dass sie an der Rückkehr zum Schiff hindert."
 					},
 					"review": {
@@ -1978,7 +2178,13 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
 					"abstract": {
+						"en": "Odo and Dax investigate why a village’s residents are disappearing.",
 						"de": "Auf einem Planeten im Gamma-Quadranten entdecken Dax und Odo ein Dorf, dessen Bewohner nach und nach verschwinden. Sie finden heraus, dass das Dorf nur ein Hologramm ist, geschaffen vom Dorfältesten, um sein vom Dominion einst vernichtetes Heimatdorf zu ersetzen."
 					}
 				},
@@ -2021,7 +2227,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+							"name": "Jim Trombetta"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+						"name": "Jim Trombetta"
+					},
 					"abstract": {
+						"en": "Dax is supervising Arjin, a Trill candidate for joining, and she helps him find his voice and discover what he wants from life and from joining. Meanwhile, a proto-universe threatens to destroy the station and Bajor.",
 						"de": "Arjin, ein junger Trill, kommt auf die Station. Dax soll testen, ob er bereit ist einen Symbionten zu empfangen."
 					}
 				},
