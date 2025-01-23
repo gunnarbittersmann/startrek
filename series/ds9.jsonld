@@ -4409,6 +4409,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
 						"en": "Dax is reunited with Lenara Kahn, whose previous host was the wife of one of Dax’s former hosts, Torias Dax, and the two struggle with their feelings for one another."
 					}
@@ -4440,7 +4457,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAlanMack",
+							"name": "David Alan Mack"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnJOrdover",
+							"name": "John J. Ordover"
+						}
+					],
 					"abstract": {
+						"en": "The USS Defiant becomes trapped in the atmosphere of a gas giant while battling with the Jem'Hadar.",
 						"de": "Bei einem Handelstreffen mit den Karemma wird die Defiant von Jem’Hadar-Raumschiffen angegriffen, gejagt und dabei so schwer beschädigt, dass sie und ihre Besatzung eine Zeitlang in der Atmosphäre eines Gasplaneten gefangen sind."
 					}
 				},
