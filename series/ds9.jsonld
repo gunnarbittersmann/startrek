@@ -2288,6 +2288,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertWiemer",
 						"name": "Robert Wiemer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#FlipKobler",
+							"name": "Flip Kobler"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CindyMarcus",
+							"name": "Cindy Marcus"
+						}
+					],
 					"abstract": {
 						"en": "Quark is reunited with his former Cardassian lover, Natima Lang, but she is engaged in dangerous political intrigue with her students Rekela and Hogue: they want to reduce the political power of the Cardassian military."
 					}
@@ -2331,7 +2343,13 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Jadzia Dax honors an oath made by Curzon Dax to three Klingons (Kor, Koloth, and Kang), and goes with them on a crusade against their sworn enemy “the Albino” who murdered their firstborn children as revenge for stopping his raid on a Klingon colony.",
 						"de": "Dax löst mit Unterstützung der drei Klingonen Kang, Koloss und Kor einen Blutschwur ein, den einer von Dax’ früheren Wirten einst geleistet hatte. Zusammen besiegen sie einen für frühere Morde verantwortlichen klingonischen Albino."
 					}
 				},
