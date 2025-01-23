@@ -2822,7 +2822,25 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Sisko takes the new USS Defiant into the Gamma Quadrant to find the mysterious leaders of the Dominion and avert a war, while Odo is drawn by instinct towards his home planet in the Omarion Nebula.",
 						"de": "Um die Gründer, die das Dominion anführen, zu suchen und davon zu überzeugen, dass die Föderation keine Gefahr für sie darstellt, erhält Sisko das Kommando über das Kriegsraumschiff Defiant, das mit einer Tarnvorrichtung ausgestattet ist."
 					}
 				},
@@ -2865,7 +2883,25 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Odo begins to connect with his fellow Changelings as Sisko attempts to negotiate peace with the Dominion.",
 						"de": "Die von Sisko und seiner Mannschaft durchgeführte Suche im Gamma-Quadranten ergibt, dass es sich bei den Gründern um Formwandler handelt, auch Wechselbälger genannt. Dabei erfährt Odo auch von seiner Herkunft. Um ihre ungefährdete Existenz zu sichern und um Ordnung in den Weltraum zu bringen, begannen die Gründer einst, die anderen Völker ihres Teils des Alls zu unterwerfen. Ein von den Gründern durchgeführtes Gedankenexperiment mit Siskos Mannschaft ergibt, dass die Föderation aus der Sicht der Gründer eine Bedrohung darstellt."
 					}
 				},
@@ -2908,7 +2944,18 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TomBenko",
+						"name": "Tom Benko"
+					},
 					"abstract": {
+						"en": "Quark brags falsely about killing a Klingon, Kozak, and is then forced to marry the widow, Grilka, founding his own ‘House of Quark’.",
 						"de": "Um seine Gäste zu beeindrucken, erzählt Quark, dass er einen Klingonen, der in Wirklichkeit betrunken in sein eigenes Messer gestürzt ist, im Kampf getötet habe. Grilka, die Frau des Klingonen, kommt nach DS9, um ihre Familienehre wiederherzustellen und Quark als neues Familienoberhaupt zu heiraten."
 					}
 				},
@@ -2950,6 +2997,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChristopherTeague",
+						"name": "Christopher Teague"
 					},
 					"abstract": {
 						"en": "A secret from Dax’s past could mean the end of the current host’s life."
@@ -2994,7 +3051,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
 					"abstract": {
+						"en": "Kira is kidnapped by Cardassians, surgically altered to look Cardassian and told she is actually an undercover Cardassian agent.",
 						"de": "Kira erwacht in der Gestalt einer Cardassianerin im Haus von Tekeny Ghemor, der ihr erklärt, ihr Vater zu sein. Es stellt sich jedoch heraus, dass Kira in Wirklichkeit doch Bajoranerin ist und vom Obsidianischen Orden, dem cardassianischen Geheimdienst, entführt und chirurgisch verändert wurde, um Tekeny Ghemor, einen Dissidenten zu diskreditieren. Durch die Bemühungen der Stationscrew und Garaks kann Kira aber gerettet werden."
 					}
 				},
