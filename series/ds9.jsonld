@@ -4501,7 +4501,32 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ToniMarberry",
+							"name": "Toni Marberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JackTrevino",
+							"name": "Jack Treviño"
+						}
+					],
 					"abstract": {
+						"en": "Quark, Rom, Nog and Odo are accidentally thrust back in time to Roswell, New Mexico, Earth, in 1947.",
 						"de": "Als Quark Rom und dessen Sohn Nog mit einem geschenkten Raumschiff zur Sternenflottenakademie auf der Erde bringt, werden die drei wegen technischer Probleme in das Jahr 1947 versetzt und in einer nordamerikanischen Militärbasis inhaftiert, von wo sie schließlich mit der Hilfe des heimlich mitgereisten Odo wieder fliehen und in ihre Zeit zurückkehren können."
 					}
 				},
@@ -4532,7 +4557,18 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RichardDanus",
+						"name": "Richard Danus"
+					},
 					"abstract": {
+						"en": "Worf, Dax and a revered Klingon Dahar master, Kor, search for the Sword of Kahless to unite the Klingon Empire.",
 						"de": "Worf und Dax helfen dem Klingonen Kor dabei, ein altes, sagenumwobenes Schwert zu suchen, und geraten dabei in Lebensgefahr als sie von Dieben angegriffen werden."
 					}
 				},
@@ -4563,7 +4599,18 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertGillan",
+						"name": "Robert Gillan"
+					},
 					"abstract": {
+						"en": "Bashir plays a 1960s secret agent in a holosuite, when Garak unexpectedly intrudes, but his help is needed when the DS9 computer uses the holosuite to store the patterns of other crew members during a transporter accident.",
 						"de": "Einige Besatzungsmitglieder werden durch einen Defekt beim Beamen in einer Holosuite gefangen, wo sie in Lebensgefahr geraten, als sie in ein Holoprogramm geraten, in dem Dr. Bashir als Geheimagent seine Freizeit verbringt."
 					},
 					"review": {
