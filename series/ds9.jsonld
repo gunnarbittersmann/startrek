@@ -8384,7 +8384,20 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "The crew attempt to help Vic Fontaine when Vic’s hotel is bought by mobsters Frankie Eyes and Carl Zeemo.",
 						"de": "Vic Fontaines holografischem Casino droht von Gangstern übernommen zu werden und dadurch Fontaines Programmspeicher gelöscht zu werden. Siskos und seine Offiziere müssen die Gangster besiegen, um ihn zu retten."
 					}
 				},
@@ -8408,7 +8421,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "While attending a diplomatic conference on Romulus, Bashir becomes an unwilling pawn of Section 31.",
 						"de": "Bashir lässt sich vorgeblich auf die Anfrage des Agenten Sloan von der Sektion 31 ein, die romulanische Regierung auszuspionieren, um so mehr über die Hintermänner der Sektion zu erfahren."
 					}
 				},
@@ -8438,6 +8457,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#StevePosey",
 						"name": "Steve Posey"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
 					},
 					"abstract": {
 						"en": "Ezri searches for a missing Worf; Sisko makes plans to marry Kasidy Yates."
@@ -8470,8 +8494,20 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						}
+					],
 					"abstract": {
-						"en": "Captured by the Breen, Ezri and Worf undergo mental torture. Sisko agonizes over his broken engagement."
+						"en": "Captured by the Breen, Ezri and Worf undergo mental torture. Sisko agonizes over his broken engagement. Kai Winn receives her first vision; she learns a messenger will be sent to her. It is a simple Bajoran farmer, who is actually Gul Dukat in disguise."
 					}
 				},
 				{
@@ -8501,8 +8537,13 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
-						"en": "An alliance is born between the Dominion and the Breen which will prove devastating for the Federation. Ezri and Worf are sentenced to death on Cardassia."
+						"en": "An alliance is born between the Dominion and the Breen which will prove devastating for the Federation. Ezri and Worf are sentenced to death on Cardassia. Initially horrified, Kai Winn eventually accepts her visions are from the Pah Wraiths."
 					}
 				},
 				{
