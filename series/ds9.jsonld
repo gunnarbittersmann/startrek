@@ -2413,6 +2413,11 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 							"name": "Jeri Taylor"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+							"name": "James Crocker"
 						}
 					],
 					"abstract": {
@@ -5591,13 +5596,13 @@
 					"author": [
 						{
 							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#",
-							"name": ""
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
 						},
 						{
 							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#",
-							"name": ""
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
 						}
 					],
 					"contributor": [
