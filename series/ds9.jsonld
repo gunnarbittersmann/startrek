@@ -7300,7 +7300,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "When Dukat tells Kira that her mother, Kira Meru, did not die when Nerys was three, but was actually Dukat’s lover, Kira goes into the past using the Bajoran Orb of Time to find the truth.",
 						"de": "Nachdem Dukat Kira eröffnet hat, dass er ihre Mutter einst innig geliebt hat, reist Kira zurück in die Zeit der cardassianischen Besatzung, um Dukats Mitteilung zu überprüfen."
 					}
 				},
@@ -7331,7 +7344,20 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"name": "Michael Dorn"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						}
+					],
 					"abstract": {
+						"en": "Dr Bashir is busy wrapping up unfinished tasks prior to departing DS9 to attend a medical conference. Just prior to his departure, an Internal Affairs unit under the command of an individual named Sloan, arrive and announce they will be interviewing all the senior staff. Things take a worrying turn for the good doctor when he realises that he is the subject of the investigation and Sloan accuses him of spying for the Dominion.",
 						"de": "Nachdem Bashir verdächtigt wird, ein Spion des Dominion zu sein, erkennt er, dass er durch den Sternenflottengeheimdienst Sektion 31 nur getäuscht wurde, um seine Eignung als Agent der Sektion zu testen und ihn für diese anzuwerben."
 					}
 				},
@@ -7362,7 +7388,18 @@
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Weary of posting yet another weekly casualty list, Captain Sisko becomes determined to get the Romulans to join the war against the Dominion. He seeks the shady expertise of Garak to help achieve his objective. But the bloody reality of the phrase “whatever it takes”, soon finds Sisko’s ethics being compromised to breaking point in pursuit of his goal.",
 						"de": "Einige Monate später gelingt es Sisko, einen diesen Schritt beinhaltenden Plan umzusetzen, indem er einen eigenen, streng geheimen Plan umsetzt, der mehrere rechtlich und moralisch fragwürdige Schritte beinhaltet, darunter die Weitergabe von biowaffenfähigem Material."
 					}
 				},
