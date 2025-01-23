@@ -6419,7 +6419,20 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "An act of desperation by the Maquis could plunge the Federation into war: The Maquis have thirty cloaked missiles heading to Cardassia.",
 						"de": "Die Information über ein geplantes Attentat des Maquis gegen die Cardassianer stellt sich als Bluff heraus, der nur deshalb verbreitet wurde, um Anhänger von Eddington zu befreien. Dabei erfährt Sisko auch, dass der Maquis nach anhaltenden Kämpfen mit den Jem’Hadar weitgehend vernichtet wurde und keine Gefahr für Föderation oder Cardassianer mehr darstellt."
 					}
 				},
@@ -6450,7 +6463,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
+						"en": "O’Brien, Garak, Nog and an engineering team go to Deep Space Nine’s abandoned sister space station, Empok Nor, to salvage components. The away team soon discover that all is not as it seems.",
 						"de": "Um sich Ersatzteile zu besorgen fliegen O’Brien, Nog, Garak und einige Techniker zur verlassenen Raumstation Empok Nor, da diese baugleich zu DS9 ist. Dort angekommen werden sie von Cardassianern gejagt, die in Stasekammern zurückgelassen wurden, um die Station zu verteidigen und durch eine Droge zu blutrünstigen Killern geworden sind. Die nur für Cardassianer wirksame Droge beginnt auch auf Garak zu wirken, der nun Jagd auf den Rest des Teams macht."
 					}
 				},
@@ -6481,7 +6505,25 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelDorn",
 						"name": "Michael Dorn"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrulyBarrClark",
+							"name": "Truly Barr Clark"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ScottJNeal",
+							"name": "Scott J. Neal"
+						}
+					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Jake wants to give his father a present to cheer him up, a 1951 Willie Mays baseball card. He enlists Nog to help him obtain it, but they run into complications with a mysterious geneticist, Dr. Giger. Kai Winn, worried over the prospect of a Federation/Dominion war and its effects on Bajor, meets with Dominion representative Weyoun.",
 						"de": "Um seinem Vater eine alte Baseballkarte zu beschaffen, erledigt Jake zusammen mit Nog einige Anschaffungen für den Karteneigentümer und wird dabei auch mit dem Dominion konfrontiert."
 					},
 					"review": {
