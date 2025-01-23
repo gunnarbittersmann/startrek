@@ -6850,7 +6850,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Sisko commands the Defiant and 600 Federation ships against a Dominion/Cardassian armada to retake Deep Space Nine. Damar has Kira, Jake and Leeta arrested.",
 						"de": "Auch wenn es Sisko gelingt mit der Defiant bis nach DS9 vorzudringen, kann er die Zerstörung der Minen nicht verhindern. Als das Wurmloch wieder geöffnet ist, droht eine riesige Armada des Dominion in den Alpha-Quadranten einzudringen. Als Abgesandter der Propheten kann Sisko die Wurmlochwesen überzeugen, in seinem Sinn in den Kriegsverlauf einzugreifen. Das Dominion kann dadurch vorerst zurückgedrängt werden."
 					}
 				},
@@ -6881,7 +6894,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Worf’s plans for a traditional Klingon wedding hinge on Martok’s demanding wife, Sirella, accepting Dax into their family.",
 						"de": "Kurz nach der Rückkehr der Mannschaft auf die Station heiraten Worf und Jadzia. Bei der Vorbereitung der Trauungszeremonie müssen ihre engsten Freunde einige klingonische Rituale überstehen."
 					}
 				},
@@ -6912,7 +6931,13 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
+						"en": "The Mirror Universe counterpart of Kira’s dead love, Vedek Bareil, takes her hostage on Deep Space Nine as he is running from the evil Alliance of his universe.",
 						"de": "Kira erhält zu ihrer Überraschung Besuch von Bareil aus dem Spiegeluniversum und beginnt mit ihm eine Liebesbeziehung, muss aber erkennen, dass sie von ihm und er durch die Intendantin nur benutzt wurde, um einen Diebstahl zu ermöglichen."
 					}
 				},
@@ -6943,7 +6968,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PamPietroforte",
+						"name": "Pam Pietroforte"
+					},
 					"abstract": {
+						"en": "Bashir attempts to reintegrate genetically engineered misfits into society, but they are asked by Starfleet to become a think tank when they provide insightful analysis of upcoming Dominion peace talks.",
 						"de": "Eine durch Bashir zeitweise auf DS9 untersuchte, 4-köpfige Gruppe einst gentechnisch aufgewerteter Menschen empfiehlt der Führung der Sternenflotte strategische Maßnahmen, die den Kriegsverlauf für die Föderation positiv beeinflussen können, darunter den Schritt, das romulanische Imperium als Alliierte zu gewinnen."
 					}
 				},
