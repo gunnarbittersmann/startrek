@@ -3100,7 +3100,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DThomasMaio",
+							"name": "D. Thomas Maio"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveWarnek",
+							"name": "Steve Warnek"
+						}
+					],
 					"abstract": {
+						"en": "Quark purchases a salvaged ship from the Gamma Quadrant and discovers an infant on board. Sisko invites Mardah, the dabo woman Jake is interested in, to dinner. Odo officially gets quarters aboard DS9.",
 						"de": "Auf DS9 wird ein Jem’Hadar-Baby entdeckt, das in rasender Geschwindigkeit heranwächst und sich, wie von den Gründern vorgesehen, zu einem Krieger entwickelt. Aufgrund der vor allem von Odo empfundenen Aussichtslosigkeit, den Jem’Hadar zu etwas anderem als einer Killermaschine umzuerziehen, bringt er ihn zu dessen Artgenossen."
 					},
 					"review": {
@@ -3157,7 +3170,13 @@
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
 						"name": "Reza Badiyi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeKrohn",
+						"name": "Mike Krohn"
+					},
 					"abstract": {
+						"en": "Deep Space Nine is progressively locked down after O’Brien, Jake and Sisko accidentally activate an automated Cardassian security program. The program’s counter-insurgency measures keep escalating until it initiates an auto-destruct. Gul Dukat beams on board, but is unable to stop the self-destruct sequence.",
 						"de": "Auf der Station wird versehentlich ein altes cardassianisches Computerprogramm aktiviert, das noch davon ausgeht, die Station stünde unter cardassianischer Herrschaft und es müsse – etwa durch den Einsatz von Nervengas – ein gerade stattfindender Aufstand bajoranischer Zwangsarbeiter beendet werden. Unterstützt von Garak und Dukat gelingt es der Mannschaft aber letztlich, die Selbstzerstörung der Station zu verhindern und die Ausführung des Programms zu beenden."
 					},
 					"review": {
@@ -3214,7 +3233,25 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGehredOConnell",
+						"name": "Mark Gehred-O’Connell"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+							"name": "Hilary J. Bader"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+							"name": "Evan Carlos Somers"
+						}
+					],
 					"abstract": {
+						"en": "Dax falls in love with Deral, who will soon disappear because he is a member of Meridian, a planet that phases between dimensions every 60 years.",
 						"de": "Die Defiant entdeckt einen Planeten, der nur alle 60 Jahre für kurze Zeit in festem Zustand existiert. Die Bewohner können sich daher nicht mehr fortpflanzen und versuchen diese Dimensionswechsel in Zukunft zu verhindern. Dax verliebt sich bei der Suche nach einer Lösung in den Anführer Deral und möchte deshalb auf Meridian bleiben."
 					},
 					"review": {
@@ -3271,7 +3308,13 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "Commander William Riker shows up unannounced and Kira shows him the Defiant, where his real identity and his true motives for coming to Deep Space Nine are revealed.",
 						"de": "Thomas Riker, ein Mitglied des Maquis, entführt die Defiant, um damit eine geheime Schiffswerft des cardassianischen Geheimdienstes aufzuspüren. Kira und Sisko schaffen es aber, Rikers Plan zu durchkreuzen und ihn zu verhaften."
 					},
 					"review": {
@@ -3328,6 +3371,23 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhilipLaZebnik",
+						"name": "Philip LaZebnik"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+							"name": "James Crocker"
+						}
+					],
 					"abstract": {
 						"en": "Lwaxana Troi pursues Odo during the Bajoran Gratitude Festival as members of the crew suddenly become infatuated with one another."
 					}
@@ -3371,7 +3431,25 @@
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
 						"name": "Reza Badiyi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "A transporter accident sends Sisko, Bashir, and Dax three centuries into Earth’s dark past to a time just before the 2024 Bell riots, a violent civil disturbance in opposition to Sanctuaries which are controlled ghettos for the dispossessed.",
 						"de": "Durch eine Fehlfunktion beim Beamen geraten Sisko, Dax und Bashir in das San Francisco des 21. Jahrhunderts und mitten in ein städtisches Elendsviertel. Als der Anführer eines Aufstandes der Slumbewohner ermordet wird, droht die Zeitlinie einen abweichenden Verlauf zu nehmen und die Rückkehr der drei in ihre Zeit zu vereiteln."
 					}
 				},
@@ -3414,7 +3492,32 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+							"name": "René Echevarria"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Sisko assumes the role of a pivotal historical figure, Gabriel Bell, in order to restore the timeline.",
 						"de": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
 					},
 					"review": {
@@ -3475,7 +3578,25 @@
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
 						"name": "Reza Badiyi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChristianFord",
+							"name": "Christian Ford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RogerSoffer",
+							"name": "Roger Soffer"
+						}
+					],
 					"abstract": {
+						"en": "Bashir’s ethics are put to the test as he keeps Vedek Bareil alive long enough to help Kai Winn complete negotiations for a peace treaty with Cardassia.",
 						"de": "Es gelingt Vedek Bareil, die cardassianische Regierung zu einem Friedensvertrag mit Bajor zu bewegen. Da er jedoch schwer verletzt wurde, bezahlt er den Erfolg mit dem Leben."
 					}
 				},
@@ -3518,7 +3639,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "When Kira’s life is put in jeopardy, Odo expresses the depth of his feelings for her. Meanwhile, back on the station, Nog requests a letter of recommendation to Starfleet.",
 						"de": "Odo und Kira geraten bei der Verfolgung eines Maquis-Piloten in eine Höhle. Dort gerät Kiras Fuß in einen Kristall, aus dem sie sich nicht mehr befreien kann. Da der Kristall zu wachsen beginnt, droht Kira in wenigen Stunden der Tod."
 					}
 				},
@@ -3549,7 +3683,20 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidSCohen",
+							"name": "David S. Cohen"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MartinAWiner",
+							"name": "Martin A. Winer"
+						}
+					],
 					"abstract": {
+						"en": "Despite Trakor’s Bajoran prophecy of destruction, Sisko assists in a joint scientific venture with the Cardassians to open communications through the Bajoran wormhole. Sisko is forced to face his status as Emissary seriously in the face of the prophecy.",
 						"de": "In alten bajoranischen Texten ist die Prophezeiung von Trekor überliefert. Kira befürchtet nun, dass drei Cardassianer, die gemeinsam mit der Besatzung versuchen, Kommunikation durch das Wurmloch zu ermöglichen, die drei in diesem Text erwähnten Vipern sind, die das als Tempel der Propheten verehrte Wurmloch zerstören werden."
 					}
 				},
@@ -3580,7 +3727,20 @@
 						"@id": "https://bittersmann.de/startrek/people#ReneAuberjonois",
 						"name": "René Auberjonois"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Quark discovers that Grand Nagus Zek has written a new virtuous and benevolent set of the Rules of Acquisition, which would put an end to traditional Ferengi ways. Bashir is oddly disturbed when he is nominated for a highly prestigious medical award.",
 						"de": "Der große Nagus, der Anführer der Ferengi, kommt nach DS9 und ist merkwürdig verändert. Er zeigt sich auf einmal wohltätig und gibt neue „Regeln des Erwerbs“ heraus, in denen die Ferengie aufgefordert werden, dem grenzenlosen Profitstreben abzuschwören. Quark und Rom entdecken, dass er vor Kurzem bei den Wurmlochwesen, den Propheten, war und versuchen nun, ihren alten Nagus zurückzubekommen, indem sie mit ihnen Kontakt aufnehmen."
 					}
 				},
@@ -3611,7 +3771,18 @@
 						"@id": "https://bittersmann.de/startrek/people#RezaBadiyi",
 						"name": "Reza Badiyi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnShirley",
+						"name": "John Shirley"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EthanHCalk",
+						"name": "Ethan H. Calk"
+					},
 					"abstract": {
+						"en": "Exposure to radiation causes O’Brien to jump five hours into the future for brief periods, including one that shows Deep Space Nine’s destruction, while the station hosts Romulan and Klingon delegations.",
 						"de": "Die Romulaner sehen sich der Gefahr eines Angriffes durch das Dominion ausgesetzt. Den Plan der Romulaner, das Wurmloch zu zerstören, um das Dominion daran zu hindern, in ihren Raum einzudringen, kann aber verhindert werden, da O’Brien durch einen Unfall durch die Zeit reist."
 					}
 				},
@@ -3642,7 +3813,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
+						"en": "Approaching his 30th birthday, Julian Bashir is subjected to a telepathic attack by an alien seeking a restricted substance. He wakes up to find the station almost deserted and that he is aging rapidly.",
 						"de": "Bashir wird von einem Letheaner angegriffen und findet sich auf einer merkwürdig veränderten Station wieder. Er muss versuchen, den Letheaner zu überwältigen, von dem er immer wieder angegriffen wird. Da er aber schnell zu altern beginnt, bleibt ihm nicht viel Zeit und seine Kräfte schwinden. In Wirklichkeit ist Bashir nach dem Angriff aber ins Koma gefallen und ringt mit dem Tod."
 					}
 				},
@@ -3673,7 +3862,20 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Sisko is convinced by “Smiley” O’Brien from the Mirror Universe to assume the role of the dead Captain Sisko.",
 						"de": "Sisko wird in das Spiegeluniversum entführt. Mit seiner Hilfe gelingt es, das Ebenbild von Siskos verstorbener Frau Jennifer, die im Spiegeluniversum noch lebt und als Wissenschaftlerin der die Allianz dient, zu überreden, doch für die Rebellen zu arbeiten."
 					}
 				},
