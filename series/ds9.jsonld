@@ -8078,7 +8078,20 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Sisko and crew relieve Starfleet troops under siege by Jem’Hadar at a key communications outpost, AR-558, the largest Dominion communications array in the sector.",
 						"de": "Der Krieg fordert weiterhin Tausende Opfer auf Seiten der Föderation. Bei der Verteidigung einer Kommunikationsanlage des Dominion durch die Sternenflotte werden zahlreiche Sternenflottenangehörige verletzt oder getötet, Nog wird angeschossen und schwer verletzt."
 					}
 				},
@@ -8109,7 +8122,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"name": "John Kretchmer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "Dukat, now a religious leader of a Bajoran Pah-Wraith cult, holds Kira hostage. Mika, one of Dukat’s followers, gives birth to a half-Cardassian child.",
 						"de": "Kira erfährt, dass sich Dukat zum Führer einer bajoranischen Sekte aufgeschwungen hat, die die Pah-Geister als die wahren Götter Bajors verehrt. Als die Sektenmitglieder aber – auch durch die Ermittlungen Kiras – erfahren, dass sie von Dukat betrogen wurden, flieht dieser."
 					}
 				},
@@ -8140,7 +8159,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidAlanMack",
+							"name": "David Alan Mack"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnJOrdover",
+							"name": "John J. Ordover"
+						}
+					],
 					"abstract": {
+						"en": "Nog struggles with PTSD from the traumatic battle of AR-558 where he lost his leg. So, he begins living with Vic Fontaine.",
 						"de": "Durch den Verlust seines Beines traumatisiert, zieht sich Nog in das Holosuite-Programm zurück, das den Sänger Vic Fontaine beinhaltet."
 					},
 					"review": {
@@ -8185,7 +8222,20 @@
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
 					"abstract": {
+						"en": "Ezri goes to New Sydney to find O’Brien and uncovers some disturbing family secrets. Miles goes in search of the widow of Liam Bilby, Morica Bilby, whom he befriended in an undercover operation.",
 						"de": "Als sie ihre Familie auf dem Planeten New Sidney besucht, erfährt Ezri, dass Mitglieder ihrer Familie in Aktivitäten des verbrecherischen Orion-Syndikats verwickelt sind."
 					}
 				},
