@@ -2393,7 +2393,30 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesCrocker",
+						"name": "James Crocker"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
 					"abstract": {
+						"en": "Federation colonists reject a treaty with Cardassia and take matters into their own hands, forming a terrorist group called ‘The Maquis’.",
 						"de": "Der Friedensschluss zwischen der Föderation und Cardassia gerät durch terroristische Aktionen des Maquis in Gefahr. Diese, teils aus abtrünnigen Föderationsmitgliedern bestehende und von Siedlern getragene Widerstandsbewegung richtet sich gegen die cardassianische Herrschaft über Föderationskolonien im Grenzstreifen – der sogenannten entmilitarisierten Zone. Deswegen kämpft sie sowohl gegen die Föderation als auch gegen Cardassia."
 					}
 				},
@@ -2436,7 +2459,35 @@
 						"@id": "https://bittersmann.de/startrek/people#CoreyAllen",
 						"name": "Corey Allen"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						}
+					],
 					"abstract": {
+						"en": "Federation colonists reject a treaty with Cardassia and take matters into their own hands by planning to destroy a weapons depot at the Cardassian Bryma colony.",
 						"de": "Sisko spürt den Marquis in den Badlands, einer abgeschiedenen Region des Weltraums, auf. Er muss sich nicht nur mit der Gruppe auseinandersetzen und verhindern, dass sie die Cardassianer angreifen und damit einen Krieg provozieren, sondern auch mit seinem alten Freund Cal Hudson, der Mitglied des Marquis ist."
 					}
 				},
@@ -2479,7 +2530,13 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+						"name": "Robert Hewitt Wolfe"
+					},
 					"abstract": {
+						"en": "In order to save Garak’s life, Bashir must unravel some of the secrets in the Cardassian’s past.",
 						"de": "Über den cardassianischen Schneider Garak wird bekannt, dass er einst vom cardassianischen Geheimdienst, dem Obsidianischen Kommando ein Schädelimplantat erhielt, das ihn bei Folterungen widerstandsfähiger machen sollte. Als das Implantat aufgrund von Fehlfunktionen Garak zu töten droht, verstrickt er sich gegenüber Bashir in Widersprüche betreffs seiner eigenen Vergangenheit."
 					}
 				},
@@ -2522,7 +2579,25 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+							"name": "Peter Allan Fields"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Kira and Bashir accidentally cross into the Mirror Universe, where a Klingon-Cardassian alliance rules and Terrans are slaves on the station. A century before, James T. Kirk had made a similar crossover, affecting human and galactic history.",
 						"de": "Kira und Bashir landen aufgrund technischer Probleme in dem schon von Kirk und Spock besuchten Paralleluniversum, in dem die Station durch Kiras Pendant, die sadistische Intendantin, geleitet wird. Mit der Hilfe des dort inhaftierten zweiten O’Briens gelingt ihnen aber schließlich die Rückkehr in ihre Welt."
 					}
 				},
@@ -2565,7 +2640,30 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GaryHolland",
+							"name": "Gary Holland"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GaryHolland",
+						"name": "Gary Holland"
+					},
 					"abstract": {
+						"en": "A Bajoran secretary named Kubus, who aided the Cardassian occupation forces, wants to return home from exile. Vedek Winn engages in a power play against Vedek Bareil to become Kai.",
 						"de": "Vedek Bareil hat die größten Chancen zum neuen religiösen Oberhaupt der Bajoraner gewählt zu werden. Vedek Winn, die das Amt selbst anstrebt, versucht Bareil um jeden Preis in Misskredit zu bringen und enthüllt, dass Bareil in der Zeit der Besatzung für den Tod zahlreicher Bajoraner mitverantwortlich war. Bareil verzichtet daraufhin auf das Amt und Winn wird zur Kai gewählt. Kira findet jedoch heraus, dass Bareil gar nicht verantwortlich war."
 					}
 				},
@@ -2608,7 +2706,13 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillDial",
+						"name": "Bill Dial"
+					},
 					"abstract": {
+						"en": "O’Brien is declared guilty of an unspecified crime and later “tried” at a tribunal held on Cardassia Prime.",
 						"de": "O’Brien wird von den Cardassianern entführt, die mit ihm als Angeklagtem einen Schauprozess inszenieren, bei dem sein Todesurteil schon von vornherein feststeht. Durch die Ermittlungen der Stationscrew ergibt sich, dass der Prozess nur dazu dient, die Föderation dazu zu veranlassen, Schritte gegen Maquis-Kolonisten im cardassianischen Grenzgebiet einzuleiten."
 					}
 				},
@@ -2651,7 +2755,13 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+						"name": "Ira Steven Behr"
+					},
 					"abstract": {
+						"en": "Sisko, Jake, Nog, and Quark go camping on a Gamma Quadrant world. Sisko and Quark are captured by mysterious soldiers called the Jem’Hadar and meet a force, the Dominion, who rival the Federation.",
 						"de": "Sisko trifft im Gamma-Quadranten auf Mitglieder des Dominion. Das Dominion, zu dem auch die Jem’Hadar-Soldaten gehören, betrachtet das Eindringen in sein Territorium als kriegerischen Akt. Es vernichtet schließlich sogar ein Raumschiff der Sternenflotte."
 					}
 				}
