@@ -5416,7 +5416,20 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Starfleet assigns Sisko to expose the Changeling infiltrator in the Klingon Empire.",
 						"de": "Mit der Absicht, Kanzler Gowron vor der klingonischen Regierung als Formwandler zu enttarnen, reisen Worf sowie Sisko, O’Brien und Odo, die chirurgisch in Klingonen verwandelt wurden, zum klingonischen Heimatplaneten, wo sie, zur Überraschung aller, nicht Gowron, sondern dessen Adjutanten General Martok als Formwandler entlarven."
 					}
 				},
