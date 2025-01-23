@@ -7717,7 +7717,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "Starfleet Command begins an offensive against the Dominion, and Sisko is chosen to lead the invasion of Cardassia, but the Cardassian/Dominion Alliance has secretly reinforced their borders with unmanned orbital weapons platforms.",
 						"de": "Sisko, durch die Sternenflottenführung zum Planen der Invasion von Cardassia auserkoren, führt eine aus Sternenflotte, Klingonen und Romulanern bestehende Kriegsraumschiffflotte in eine Schlacht gegen das Dominion, die allerdings beiderseits verlustreich endet. Nach der dabei gelungenen Einnahme des im Dominion-Territorium gelegenen Chin’toka-Planetensystems dringt die Föderation tatsächlich bis nach Cardassia vor. Dukat lässt einen Pah-Geist von sich Besitz ergreifen, der den Eingang zum Wurmloch versiegelt, um so den Bajoranern und Sisko ihre Verbindung zu den Propheten zu entziehen und die Föderation militärisch zu schwächen. Weil ihm dabei Jadzia Dax im Wege ist, ermordet er sie."
 					}
 				}
@@ -7766,7 +7779,20 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "With the Bajoran wormhole collapsed, Sisko struggles for a way to contact the Bajoran Prophets. The Romulans receive permission from the Bajorans to open a military hospital on the moon Derna. General Martok offers Worf an opportunity to gain admission to Sto’Vo’Kor for Jadzia.",
 						"de": "Sisko hat sich auf die Erde in das Restaurant seines Vaters zurückgezogen und erlebt eine Vision, durch die er zu der Erkenntnis gelangt, dass er der Abgesandte der Propheten ist und dass sie es waren, die einst seine Geburt veranlassten. Daraufhin macht er sich auf die Suche nach dem Drehkörper des Abgesandten, der ihm den Kontakt zu den Propheten, die mitsamt dem Wurmloch verschwunden sind, ermöglicht. Währenddessen errichten die neuen romulanischen Verbündeten auf einem bajoranischen Mond ein Waffenlager."
 					}
 				},
@@ -7797,7 +7823,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
 					"abstract": {
+						"en": "A new Dax appears on the scene. Sisko’s quest leads him to the truth about his existence. The discovery that the Romulan hospital is heavily armed leads Colonel Kira to set up a blockade of Derna. Bashir, O’Brien and, surprisingly, Quark join Worf and Martok on a dangerous mission to destroy the Dominion shipyard.",
 						"de": "Nachdem er den Drehkörper geöffnet hat, vertreiben die Propheten den Pah-Geist aus dem Wurmloch und öffnen dessen Eingang wieder. Da es gegen die Souveränitätsrechte Bajors verstößt, veranlasst Kira, ein Gefecht riskierend, eine Blockade des Versorgungsweges zu dem Mond."
 					}
 				},
