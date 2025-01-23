@@ -5810,7 +5810,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHewittWolfe",
+							"name": "Robert Hewitt Wolfe"
+						}
+					],
 					"abstract": {
+						"en": "Forced to crash-land on a desolate planet, Odo and Quark must climb a mountain to transmit a distress signal. Jake and Nog (temporarily back at DS9) find sharing quarters isn’t as enjoyable as they thought it would be.",
 						"de": "Durch die Explosion einer Bombe an Bord ihres Shuttles stranden Odo und Quark auf einem unwirtlichen Planeten. Sie sind dazu gezwungen, sich zusammenzuraufen, um die Station über ihren Aufenthaltsort zu informieren und gerettet zu werden."
 					}
 				},
@@ -5841,7 +5854,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanWest",
 						"name": "Jonathan West"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+						"name": "Hans Beimler"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LJStrom",
+						"name": "L.J. Strom"
+					},
 					"abstract": {
+						"en": "An accident causes Sisko to have prophetic visions. When he finds an ancient Bajoran city, lost for 20,000 years, Kai Winn reconsiders her attitude towards him.",
 						"de": "Als Sisko Visionen hat, in denen er auch eine Gefahr für die Existenz von Bajor aufkommen sieht, verschiebt die bajoranische Regierung auf Siskos Drängen hin den Beitritt ihres Volks zur Föderation, den diese bereits bewilligt hatte."
 					}
 				},
@@ -5872,7 +5896,18 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
+						"en": "Someone is killing former members of Kira’s resistance cell and she might be next.",
 						"de": "Nachdem der Reihe nach Mitglieder aus Kiras früherer Widerstandszelle ermordet werden, ermittelt sie zusammen mit Odo die möglichen Täter und gerät, als sie den Mörder gefunden hat, auch selbst in Lebensgefahr."
 					}
 				},
@@ -5903,7 +5938,13 @@
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
 					"abstract": {
+						"en": "When Quark discovers an infant Changeling, it has a profound effect on Odo. Meanwhile, Kira goes into labor.",
 						"de": "Nachdem auf der Station ein Wechselbalg-Baby gefunden wurde, erhält Odo seine Fähigkeit, formzuwandeln, wieder zurück. Kira bringt das Baby der O’Briens gesund zur Welt."
 					}
 				},
@@ -5934,7 +5975,13 @@
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PeterAllanFields",
+						"name": "Peter Allan Fields"
+					},
 					"abstract": {
+						"en": "Michael Eddington returns and Sisko becomes obsessed with catching him.",
 						"de": "Der Maquis-Anführer und frühere Stationsoffizier Eddington will biogenetische Waffen gegen cardassianische Kolonien in der entmilitarisierten Zone einsetzen. Sisko, getrieben von Rache, versucht mit allen Mitteln den ehemaligen Sternenflotten-Offizier zur Strecke zu bringen und schreckt auch nicht davor zurück einen ganzen Planeten zu vergiften."
 					}
 				},
