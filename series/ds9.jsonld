@@ -7128,7 +7128,25 @@
 						"@id": "https://bittersmann.de/startrek/people#AveryBrooks",
 						"name": "Avery Brooks"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+							"name": "Ira Steven Behr"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
+							"name": "Hans Beimler"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcScottZicree",
+						"name": "Marc Scott Zicree"
+					},
 					"abstract": {
+						"en": "As Sisko considers leaving Starfleet due to the destruction of Captain Swofford’s ship, the Cortez, he has a vision of himself as a science fiction writer in the 1950s.",
 						"de": "Sisko träumt von sich als Benny Russell, einem Science-fiction-Schriftsteller, der in den 1950er Jahren versucht, seine von einer Raumstation in ferner Zukunft handelnde Geschichte zu veröffentlichen. Weil sein Titelheld wie Russell selbst ein Afroamerikaner ist, wird er mit Rassismus konfrontiert und hat zahlreiche Widerstände zu überwinden."
 					}
 				},
@@ -7159,7 +7177,20 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidWeddle",
+							"name": "David Weddle"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BradleyThompson",
+							"name": "Bradley Thompson"
+						}
+					],
 					"abstract": {
+						"en": "Dax, O’Brien and Bashir board a runabout, which is shrunken to four inches long as they investigate a rare subspace compression phenomenon.",
 						"de": "Als die Defiant durch Jem’Hadar-Soldaten erobert wird, muss die zuvor in einem Experiment stark geschrumpfte Besatzung mit ihrem Shuttle dabei helfen, die Angreifer zu bekämpfen."
 					}
 				},
@@ -7190,7 +7221,18 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"name": "Allan Eastman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ReneEchevarria",
+						"name": "René Echevarria"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhilipKim",
+						"name": "Philip Kim"
+					},
 					"abstract": {
+						"en": "Starfleet Intelligence recruits Chief O’Brien to infiltrate the Orion Syndicate to find a Starfleet informant.",
 						"de": "Chief O’Brien ermittelt verdeckt im verbrecherischen Orion-Syndikat, um herauszufinden, wer das Syndikat mit Informationen über die Sternenflotte versorgt; dabei erfährt er auch, dass das Syndikat mit dem Dominion zusammenarbeitet."
 					}
 				},
@@ -7221,7 +7263,13 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
+						"en": "When Jadzia Dax is critically injured on an away mission, Worf must choose between saving his wife or completing their assignment. O’Brien becomes obsessed with beating Quark at Tongo.",
 						"de": "Später sind Worf und Jadzia unterwegs zu einem Treffen mit einem Cardassianer, der möglicherweise kriegsentscheidende Informationen besitzt, wobei Jadzia schwer verletzt wird."
 					}
 				},
