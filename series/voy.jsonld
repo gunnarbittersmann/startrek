@@ -7175,6 +7175,11 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+						"name": "Larry Nemecek"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
