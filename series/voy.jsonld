@@ -901,16 +901,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
-						"name": "Jeri Taylor"
-					},
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-						"name": "Brannon Braga"
-					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
 					"abstract": {
 						"en": "A group of humans from the 1930s are found in stasis on a seemingly abandoned planet, including the lost Amelia Earhart."
 					},
