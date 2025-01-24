@@ -3424,6 +3424,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Seven of Nine experiences Borg flashbacks as she attempts to become more human."
 					},
@@ -4398,6 +4403,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "The Doctor’s mobile emitter is damaged while beaming back from an away mission, merging with Seven of Nine’s Borg nanoprobes and the DNA of a male Ensign to create a 29th century Borg."
 					},
@@ -4829,6 +4839,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Paris’ latest holodeck adventure The Adventures of Captain Proton takes an unexpected turn."
 					},
@@ -4880,6 +4895,11 @@
 						"name": "Nick Sagan"
 					},
 					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
@@ -5099,6 +5119,11 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#NickSagan",
 						"name": "Nick Sagan"
 					},
@@ -5229,6 +5254,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "The crew responds to a distress call from Malon escape pods contaminated with radiation."
@@ -5628,6 +5658,11 @@
 						"name": "Mike Vejar"
 					},
 					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
@@ -6998,6 +7033,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Voyager’s hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic “prey” more cunning, enabling the hologram characters to rebel against their new masters."
 					},
@@ -7036,6 +7076,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "Voyager’s hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic “prey” more cunning, enabling the hologram characters to rebel against their new masters."
@@ -7339,6 +7384,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "Chakotay and Neelix take jobs on the new planet, and try to rescue their amnesiac crewmates – who don’t want to leave."
