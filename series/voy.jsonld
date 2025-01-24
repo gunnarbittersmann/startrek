@@ -182,6 +182,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager is trapped in a quantum singularity’s event horizon, and Captain Janeway must decide between Lt. Carey and former Maquis B’Elanna Torres to be the new chief engineer."
 					},
@@ -287,6 +292,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "An organ-harvesting species known as the Vidiians steal Neelix’s lungs, leaving him to die."
@@ -475,6 +485,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Harry Kim is transported to an alien world at the same time as a dead woman’s body arrives on Voyager."
 					},
@@ -658,6 +673,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "A shuttlecraft with Chakotay and Tuvok aboard is attacked; Chakotay is left brain-dead, while Tuvok begins acting strangely. An unknown force begins controlling crew members."
@@ -849,6 +869,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A group of humans from the 1930s are found in stasis on a seemingly abandoned planet, including the lost Amelia Earhart."
 					},
@@ -916,6 +941,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Doctor becomes delusional after an accident, causing him to believe that he is a flesh-and-blood person and his time on USS Voyager is a holodeck program. This episode also features Reginald Barclay."
@@ -987,6 +1017,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Harry Kim wakes up in 24th century San Francisco with no record of him on Voyager."
@@ -1155,6 +1190,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "An Ocampan helps Kes with her mental abilities as the crew encounter a being who appears to be the Caretaker’s female counterpart."
@@ -1338,6 +1378,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Tom Paris breaks the transwarp barrier in the Shuttlecraft Cochrane, designed to reach warp 10, but he begins to evolve."
@@ -1586,6 +1631,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Attempting to evade the Vidiians, a duplicate Voyager is created after it passes through a spatial scission."
@@ -1855,6 +1905,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Tuvok experiences brain-damaging flashbacks to his service on the USS Excelsior. He and the captain attempt to find the reason for the flashbacks, believed to be a suppressed memory, through a joint mindmeld."
 					},
@@ -2070,6 +2125,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A 29th century timeship causes a time paradox when it accidentally sends itself and Voyager to two different periods in 20th century Earth."
 					},
@@ -2103,6 +2163,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway must prevent the destruction of the solar system by a 20th-century entrepreneur who has acquired the timeship."
@@ -2237,6 +2302,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Voyager answers help from a mining colony about a viral outbreak that manages to sneak onto Voyager through the transporter, leaving only Janeway and the Doctor to stop it."
@@ -2487,6 +2557,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager helps a planet with asteroid problems. Tuvok and Neelix crash-land on the planet and attempt to fix a maglev space elevator."
 					},
@@ -2634,6 +2709,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A reptilian scientist trying to prove his heretical theories kidnaps Chakotay and draws the entire crew in conflict between his race’s doctrine and the startling truth about its origin."
 					},
@@ -2750,6 +2830,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager must pass through Borg space, only to discover a new alien race that is even deadlier than the Borg."
 					},
@@ -2801,6 +2886,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway and Tuvok work with the Borg and meet Seven of Nine as they collaborate on developing a weapon against Species 8472 in exchange for safe passage through Borg space."
@@ -3072,6 +3162,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager creates a new Astrometrics lab, which maps a new course that brings them into contact with a Krenim temporal ship that can erase things from history."
 					},
@@ -3105,6 +3200,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "A badly damaged Voyager hides in a nebula as a skeleton crew attempts repairs; meanwhile the Krenim commander proposes a compromise to Chakotay and Tom Paris."
@@ -3363,6 +3463,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"name": "Allan Eastman"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager rescues a Hirogen survivor who tells them a new kind of prey is on the loose."
 					},
@@ -3431,6 +3536,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "The Hirogen implant devices into the crew making them believe they are characters within the holodecks being used for hunts, all set in World War II Europe."
 					},
@@ -3464,6 +3574,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Hirogen implant devices into the crew making them believe they are characters within the holodecks being used for hunts, all set in World War II Europe."
@@ -3601,6 +3716,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TimRuss",
 						"name": "Tim Russ"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A Kyrian museum curator 700 years in the future hopes a Voyager relic containing a copy of the Doctor can confirm their version of history."
 					},
@@ -3703,6 +3823,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Paris and Neelix return from a mission with a passenger named Arturis who knows more than 4,000 languages. He manages to decode a message from Starfleet that could lead to a way home."
 					},
@@ -3755,6 +3880,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager loses power traversing a dark region of space containing theta radiation."
 					},
@@ -3788,6 +3918,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Doctor’s mobile emitter is damaged while beaming back from an away mission, merging with Seven of Nine’s Borg nanoprobes and the DNA of a male Ensign to create a 29th century Borg."
@@ -3932,6 +4067,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Fifteen years in the future, Chakotay and Harry Kim attempt to prevent the Voyager from crash-landing on an ice planet."
@@ -4247,6 +4387,11 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Janeway plans to steal a transwarp coil from a disabled Borg ship to shorten their journey home. Seven of Nine experiences memories of her past just before she and her parents are assimilated and plans to re-join the Borg collective. The Borg Queen tells Seven of Nine that she will leave her individuality intact so the Borg can study her memories and use her to help them assimilate humanity."
 					}
@@ -4277,6 +4422,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway plans to steal a transwarp coil from a disabled Borg ship to shorten their journey home. Seven of Nine experiences memories of her past just before she and her parents are assimilated and plans to re-join the Borg collective. The Borg Queen tells Seven of Nine that she will leave her individuality intact so the Borg can study her memories and use her to help them assimilate humanity."
@@ -4621,6 +4771,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager finds another Federation ship, the USS Equinox, under attack from flying nucleogenic lifeforms."
 					}
@@ -4669,6 +4824,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The crew of the USS Equinox attempts to elude the USS Voyager in order to exploit the nucleogenic lifeforms in a bid to return home."
@@ -4873,6 +5033,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Voyager discovers a network of subspace passageways, but is forced to land on a planet after being attacked."
@@ -5480,6 +5645,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "The Doctor’s creator, Lewis Zimmerman, is dying in the Alpha Quadrant from a disease similar to the Vidiian phage. The Doctor’s compressed matrix is transferred to Zimmerman’s lab on the Jupiter station, to assist Mr. Barclay and Counselor Troi in attempting to treat the illness."
 					},
@@ -5548,6 +5718,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Janeway, B’Elanna and Tuvok infiltrate a Borg Cube in an attempt to save Borg drones who are trying to develop individuality."
 					},
@@ -5599,6 +5774,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway, B’Elanna and Tuvok are assimilated by the Borg while attempting to save the group of drones who have developed individuality."
@@ -6227,6 +6407,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Seven practices her social skills on the holodeck."
