@@ -6190,6 +6190,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RoxannDawson",
 						"name": "Roxann Dawson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"abstract": {
 						"en": "Returning from a diplomatic mission, Tuvok is attacked by a cloaked intruder and suffers neurological damage."
 					},
@@ -6556,6 +6561,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"abstract": {
 						"en": "Seven of Nine and Tuvok are kidnapped while on shore leave, and Seven is forced to fight in a gladiatorial contest to the death. (Guest stars Dwayne Johnson.)"
 					},
@@ -6681,6 +6691,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
 					},
 					"abstract": {
 						"en": "A deceased crew member resurfaces, claiming to have been resurrected by an alien race who have since adopted her."
@@ -6932,6 +6947,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
@@ -7167,6 +7187,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"abstract": {
 						"en": "When her cortical implant malfunctions, Seven of Nine needs a life-saving transplant."
 					},
@@ -7298,6 +7323,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"abstract": {
 						"en": "The Doctor’s program is stolen and he is forced to work in an alien hospital, where he skillfully manipulates the system to provide ethical medical care."
 					},
@@ -7331,6 +7361,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
 					},
 					"abstract": {
 						"en": "A hologram of Reginald Barclay is sent to Voyager, supposedly to implement a dangerous plan to bring them home; but the hologram has been tampered with by some Ferengi, who are trying to steal valuable Borg nanoprobes from Seven of Nine."
@@ -7620,10 +7655,20 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
 					},
 					"abstract": {
 						"en": "Prisoners are brought onto Voyager from a damaged alien vessel, and the crew must deliver them to their destination – for execution. Seven’s nanoprobes are used to help heal a prisoner."
@@ -7912,6 +7957,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
@@ -8194,6 +8244,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
 					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RickBerman",
@@ -8247,6 +8302,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
 					},
 					"contributor": {
 						"@type": "Person",
