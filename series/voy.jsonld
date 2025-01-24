@@ -5163,6 +5163,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Chakotay lies in sickbay as he attempts to communicate with aliens through hallucinations."
 					}
@@ -5833,6 +5838,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Voyager discovers a network of subspace passageways, but is forced to land on a planet after being attacked."
 					},
@@ -6027,6 +6037,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "Voyager is trapped in orbit about a planet with a spacetime differential such that, while its inhabitants live through years, Voyager experiences mere minutes."
@@ -6960,6 +6975,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "During an emergency on a mission, The Doctor is forced to upload his program into Seven of Nine’s Borg implants, allowing him to experience real sensations for the first time."
 					},
@@ -7125,6 +7145,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "Voyager is fractured into several time periods by an accident, and only Chakotay is able to move between them, in the process meeting old friends and old foes from the previous six seasons."
