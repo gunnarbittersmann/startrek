@@ -6195,6 +6195,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
 						"name": "Robert Doherty"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
 					"abstract": {
 						"en": "Returning from a diplomatic mission, Tuvok is attacked by a cloaked intruder and suffers neurological damage."
 					},
@@ -6285,6 +6290,16 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeWollaeger",
+						"name": "Mike Wollaeger"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessicaScott",
+						"name": "Jessica Scott"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
@@ -6292,6 +6307,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeWollaeger",
+						"name": "Mike Wollaeger"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessicaScott",
+						"name": "Jessica Scott"
 					},
 					"abstract": {
 						"en": "Voyager is nearly hit by a mysterious subspace mass and the crew theorize that the debris of an ancient Earth–Mars ship is inside."
@@ -6368,8 +6393,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidZabel",
+						"name": "David Zabel"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidZabel",
+						"name": "David Zabel"
 					},
 					"abstract": {
 						"en": "Barclay gets over-involved with holographic recreations of the Voyager crew in his attempts to contact them. This episode also features Deanna Troi."
@@ -6404,6 +6439,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobinBernheim",
+						"name": "Robin Bernheim"
 					},
 					"abstract": {
 						"en": "The crew enjoys a respite inside a holodeck creation designed by Tom Paris, while Voyager faces the threat of an oncoming storm in space."
@@ -6485,8 +6525,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
 					},
 					"abstract": {
 						"en": "Visiting aliens who have never before encountered music become fascinated with the Doctor’s Opera singing, and ask him to leave Voyager and join their society."
@@ -6521,6 +6571,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobinBernheim",
+						"name": "Robin Bernheim"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -6566,6 +6621,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
 						"name": "Robert Doherty"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GannonKenney",
+						"name": "Gannon Kenney"
+					},
 					"abstract": {
 						"en": "Seven of Nine and Tuvok are kidnapped while on shore leave, and Seven is forced to fight in a gladiatorial contest to the death. (Guest stars Dwayne Johnson.)"
 					},
@@ -6604,6 +6664,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewShepardPrice",
+						"name": "Andrew Shepard Price"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGaberman",
+						"name": "Mark Gaberman"
 					},
 					"abstract": {
 						"en": "Chakotay, Kim, Paris, and Neelix are taken hostage when the Delta Flyer is captured by Borg children in a derelict Cube."
@@ -6697,6 +6767,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
 						"name": "Robert Doherty"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+						"name": "Ronald Wilkerson"
+					},
 					"abstract": {
 						"en": "A deceased crew member resurfaces, claiming to have been resurrected by an alien race who have since adopted her."
 					},
@@ -6730,6 +6805,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulBrown",
+						"name": "Paul Brown"
 					},
 					"abstract": {
 						"en": "The family of Icheb, one of the Borg children, is found, but he is reluctant to rejoin them. Seven, too, is reluctant for him to leave the ship; and his parents are concealing the real reason for desiring his return."
@@ -6781,8 +6866,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiannaGitto",
+						"name": "Dianna Gitto"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiannaGitto",
+						"name": "Dianna Gitto"
 					},
 					"abstract": {
 						"en": "Three crew members who are under-performing are taken on a mission by Janeway."
@@ -6817,6 +6912,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobinBernheim",
+						"name": "Robin Bernheim"
 					},
 					"abstract": {
 						"en": "Con artists impersonate Janeway and Tuvok."
@@ -6952,9 +7052,26 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnBruno",
+							"name": "John Bruno"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
+							"name": "Robert Picardo"
+						}
+					],
 					"abstract": {
 						"en": "The Doctor’s creator, Lewis Zimmerman, is dying in the Alpha Quadrant from a disease similar to the Vidiian phage. The Doctor’s compressed matrix is transferred to Zimmerman’s lab on the Jupiter station, to assist Mr. Barclay and Counselor Troi in attempting to treat the illness."
 					},
