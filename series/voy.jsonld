@@ -7306,8 +7306,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CarletonEastlake",
+						"name": "Carleton Eastlake"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
 						"name": "Robert Doherty"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
 					},
 					"abstract": {
 						"en": "When her cortical implant malfunctions, Seven of Nine needs a life-saving transplant."
@@ -7396,6 +7406,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkHaskellSmith",
+						"name": "Mark Haskell Smith"
+					},
 					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
@@ -7434,6 +7449,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+						"name": "James Kahn"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -7520,6 +7540,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EricAMorris",
+						"name": "Eric A. Morris"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
 						"name": "Phyllis Strong"
 					},
@@ -7567,6 +7592,23 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertLederman",
+							"name": "Robert Lederman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DaveLong",
+							"name": "Dave Long"
+						}
+					],
 					"abstract": {
 						"en": "Harry Kim takes command of an alien ship that has lost its officers in an attack."
 					},
@@ -7608,8 +7650,18 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JackMonaco",
+						"name": "Jack Monaco"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
 					},
 					"abstract": {
 						"en": "Voyager’s hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic “prey” more cunning, enabling the hologram characters to rebel against their new masters."
@@ -7647,6 +7699,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
@@ -7654,6 +7711,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
 					},
 					"abstract": {
 						"en": "Voyager’s hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic “prey” more cunning, enabling the hologram characters to rebel against their new masters."
@@ -7737,6 +7799,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#PeterLauritson",
 						"name": "Peter Lauritson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+						"name": "James Kahn"
 					},
 					"abstract": {
 						"en": "Now married to Tom Paris, B’Elanna Torres discovers she is pregnant. The Doctor tells her to expect a daughter; but B’Elanna’s unresolved fear of the childhood traumas, which she suffered as a part-Klingon girl growing up among humans, makes her determined to remove her child’s Klingon DNA."
@@ -7838,6 +7905,16 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JKelleyBurke",
+						"name": "J. Kelley Burke"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
@@ -7874,6 +7951,21 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+						"name": "James Kahn"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -8034,6 +8126,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -8239,10 +8341,20 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+						"name": "James Kahn"
+					},
 					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKahn",
+						"name": "James Kahn"
 					},
 					"abstract": {
 						"en": "While visiting the planet Ledos, Seven and Chakotay crash through an energy barrier. The two are stranded in the jungle with primitive humanoids, who take the pair in and care for Chakotay’s injuries. To rejoin Voyager, he and Seven have to disable the energy barrier."
@@ -8277,6 +8389,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RafGreen",
+						"name": "Raf Green"
 					},
 					"abstract": {
 						"en": "Voyager encounters a Talaxian settlement leaving Neelix with the difficult decision of whether to leave the crew."
@@ -8321,6 +8438,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewShepardPrice",
+						"name": "Andrew Shepard Price"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGaberman",
+						"name": "Mark Gaberman"
 					},
 					"abstract": {
 						"en": "The Doctor is forced to help aliens steal Voyager’s warp core."
