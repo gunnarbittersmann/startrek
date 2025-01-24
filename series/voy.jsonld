@@ -797,6 +797,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "B’Elanna Torres is split into her human and Klingon halves by the Vidiians."
 					},
@@ -5051,6 +5056,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "Kim finds love when the crew encounters a Varro generational ship that needs assistance repairing its warp drive."
 					}
@@ -6778,6 +6788,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "Ex-Maquis crew members are attacked after a data stream arrives from Starfleet."
 					},
@@ -6811,6 +6826,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
 					},
 					"abstract": {
 						"en": "The Doctor’s program is stolen and he is forced to work in an alien hospital, where he skillfully manipulates the system to provide ethical medical care."
@@ -7153,6 +7173,11 @@
 						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
 						"name": "Phyllis Strong"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "Voyager encounters an ancient Klingon battlecruiser. The Klingons aboard it had set out long ago to find their savior, and they believe it to be Tom and B’Elanna’s unborn child."
 					},
@@ -7186,6 +7211,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
 					},
 					"abstract": {
 						"en": "Voyager is pulled into a void, where the ships that have become trapped attack each other for food and resources."
@@ -7275,6 +7305,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "Chakotay and Neelix take jobs on the new planet, and try to rescue their amnesiac crewmates – who don’t want to leave."
 					},
@@ -7332,6 +7367,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "Seven practices her social skills on the holodeck."
 					},
@@ -7365,6 +7405,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
 					},
 					"abstract": {
 						"en": "Q leaves his son (Q2) on Voyager to learn from the crew."
@@ -7521,6 +7566,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
 					"abstract": {
 						"en": "While visiting the planet Ledos, Seven and Chakotay crash through an energy barrier. The two are stranded in the jungle with primitive humanoids, who take the pair in and care for Chakotay’s injuries. To rejoin Voyager, he and Seven have to disable the energy barrier."
 					},
@@ -7645,6 +7695,11 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
@@ -7691,6 +7746,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RickBerman",
 						"name": "Rick Berman"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
 					},
 					"contributor": {
 						"@type": "Person",
