@@ -4774,6 +4774,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
+					},
 					"abstract": {
 						"en": "Tuvok and Paris crash on a planet stuck in a pocket of subspace, where they meet a female named Noss."
 					}
@@ -4973,6 +4978,11 @@
 						"name": "Anson Williams"
 					},
 					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
+					},
+					"contributor": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#NickSagan",
 						"name": "Nick Sagan"
@@ -5212,6 +5222,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
 					},
 					"abstract": {
 						"en": "Captain Braxton recruits Seven of Nine to stop Voyager being sabotaged."
