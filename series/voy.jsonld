@@ -1185,6 +1185,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JimmyDiggs",
+							"name": "Jimmy Diggs"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveJKay",
+							"name": "Steve J. Kay"
+						}
+					],
 					"abstract": {
 						"en": "Space-dwelling life-forms cause Kes to enter the Ocampan fertile phase called Elogium, putting pressure on her relationship with Neelix when she wants to have his child."
 					},
@@ -1266,6 +1278,18 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArnoldRudnick",
+							"name": "Arnold Rudnick"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RichHosek",
+							"name": "Rich Hosek"
+						}
+					],
 					"abstract": {
 						"en": "A region of space distorts the interior of Voyager."
 					},
@@ -1299,6 +1323,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TomSzollosi",
+						"name": "Tom Szollosi"
 					},
 					"abstract": {
 						"en": "Neelix and Tom Paris fight over Kes, but are sent on an away mission together.",
@@ -1376,6 +1405,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryBrody",
+						"name": "Larry Brody"
+					},
 					"abstract": {
 						"en": "Chakotay encounters non-humans who have the same tattoo on their foreheads that he has."
 					},
@@ -1414,6 +1448,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnthonyWilliams",
+						"name": "Anthony Williams"
 					},
 					"abstract": {
 						"en": "An Ocampan helps Kes with her mental abilities as the crew encounter a being who appears to be the Caretaker’s female counterpart."
@@ -1493,6 +1532,18 @@
 						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
 						"name": "Lisa Klink"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelJanFriedman",
+							"name": "Michael Jan Friedman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinJRyan",
+							"name": "Kevin J. Ryan"
+						}
+					],
 					"abstract": {
 						"en": "A mission to acquire Telerium goes wrong causing Tuvok and B’Elanna to be captured and believed to be with the resistance.",
 						"de": "Auf der Suche nach Tellerium, das zum Antrieb des Schiffes benötigt wird, beamen sich Captain Janeway, Tuvok, Torres und Neelix in eine Stadt der Alsaurianer, die von den feindlichen Mokras besetzt ist. Die Mokra-Soldaten nehmen Tuvok und Torres gefangen. Während eines Aufruhrs wird Janeway von Caylem, einem Einwohner, versteckt gehalten. Dieser sieht in ihr seine längst verstorbene Tochter."
@@ -1539,6 +1590,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NicholasCorea",
+						"name": "Nicholas Corea"
 					},
 					"abstract": {
 						"en": "The crew finds and reactivates a robot’s body which was adrift in space only to find themselves in the middle of a war when B’Elanna is abducted."
@@ -1617,6 +1673,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelDeLuca",
+						"name": "Michael De Luca"
 					},
 					"abstract": {
 						"en": "Tom Paris breaks the transwarp barrier in the Shuttlecraft Cochrane, designed to reach warp 10, but he begins to evolve."
@@ -1726,6 +1787,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GaryHolland",
+						"name": "Gary Holland"
+					},
 					"abstract": {
 						"en": "A highly advanced Cardassian AI missile that had been reprogrammed by B’Elanna Torres is found in the Delta Quadrant, and its damaged programming could destroy Voyager and a planet."
 					},
@@ -1764,6 +1830,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ShawnPiller",
+						"name": "Shawn Piller"
 					},
 					"abstract": {
 						"en": "The crew encounter a member of the Q Continuum seeking to end his immortal life."
@@ -1857,6 +1928,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeffSchnaufer",
+							"name": "Jeff Schnaufer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EdBond",
+							"name": "Ed Bond"
+						}
+					],
 					"abstract": {
 						"en": "Neelix tries to flush out the traitor on board who has been colluding with the Kazon Nistrim."
 					},
@@ -1935,6 +2018,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
 						"name": "Lisa Klink"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnthonyWilliams",
+						"name": "Anthony Williams"
+					},
 					"abstract": {
 						"en": "Tuvok crash-lands on a moon and finds children who have been abandoned."
 					},
@@ -1973,6 +2061,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RichardGadas",
+						"name": "Richard Gadas"
 					},
 					"abstract": {
 						"en": "The crew finds aliens mentally connected to a computer that has created a being that feeds on their fear.",
@@ -2025,6 +2118,18 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AndrewShepardPrice",
+							"name": "Andrew Shepard Price"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MarkGaberman",
+							"name": "Mark Gaberman"
+						}
+					],
 					"abstract": {
 						"en": "A transporter accident merges Tuvok and Neelix into a new person."
 					},
