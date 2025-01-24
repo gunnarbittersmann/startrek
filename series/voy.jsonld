@@ -6502,6 +6502,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
@@ -6752,6 +6757,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
 					},
 					"abstract": {
 						"en": "Voyager encounters an ancient Klingon battlecruiser. The Klingons aboard it had set out long ago to find their savior, and they believe it to be Tom and B’Elanna’s unborn child."
@@ -7006,6 +7016,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
@@ -7158,6 +7173,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PhyllisStrong",
+						"name": "Phyllis Strong"
 					},
 					"author": {
 						"@type": "Person",
