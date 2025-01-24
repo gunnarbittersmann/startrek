@@ -361,6 +361,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
 						"en": "The crew enter a nebula to collect samples before realizing it is a living organism, but not before injuring it."
 					},
@@ -455,6 +460,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
 					},
 					"abstract": {
 						"en": "Tom Paris is convicted of murder on an alien world, and his punishment is to witness the murder from the victim’s perspective every 14 hours."
@@ -1174,6 +1184,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
 						"en": "Chakotay encounters non-humans who have the same tattoo on their foreheads that he has."
 					},
@@ -1465,6 +1480,11 @@
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
 						"en": "Crewman Lon Suder murders an Engineering crewman for no apparent reason. Tuvok mind melds with him to ascertain his motive, but it causes him to become aggressive."
 					},
@@ -1532,6 +1552,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
 					},
 					"abstract": {
 						"en": "The crew encounter a member of the Q Continuum seeking to end his immortal life."
@@ -1836,6 +1861,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
 					"abstract": {
 						"en": "Seska and the Kazon-Nistrim take control of Voyager and maroon its crew on a primitive planet."
 					},
@@ -1887,6 +1917,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
 					},
 					"abstract": {
 						"en": "The crew must learn to survive on the inhospitable planet as the Doctor, Crewman Suder and Paris attempt to regain control of the ship."
