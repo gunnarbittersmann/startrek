@@ -412,6 +412,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
 					"abstract": {
 						"en": "A micro-wormhole is discovered that leads to the Alpha Quadrant, and the crew make contact with a Romulan ship on the other side."
 					},
@@ -898,6 +903,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
@@ -1007,6 +1017,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Space-dwelling life-forms cause Kes to enter the Ocampan fertile phase called Elogium, putting pressure on her relationship with Neelix when she wants to have his child."
@@ -1149,6 +1164,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "The crew experiences hallucinations brought on by an alien that put them into a trance-like state."
@@ -1376,6 +1396,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Janeway attempts to form an alliance with the Kazon to improve Voyager’s standing in the Delta Quadrant."
@@ -1640,6 +1665,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
 					"abstract": {
 						"en": "Neelix tries to flush out the traitor on board who has been colluding with the Kazon Nistrim."
 					},
@@ -1826,6 +1856,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Janeway and Chakotay must adapt to life quarantined on a planet after they contract an incurable disease. Meanwhile, the Voyager crew risk their lives to seek out a possible cure from the Vidiians."
@@ -2462,6 +2497,11 @@
 						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"name": "Nancy Malone"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
 					"abstract": {
 						"en": "Janeway appears to be trapped in a time-loop with different events, but all ending in her death."
 					},
@@ -2712,6 +2752,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "The Doctor creates a family on the holodeck."
@@ -3029,6 +3074,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "B’Elanna tries to observe the Klingon Day of Honor after the warp core is lost."
@@ -3481,6 +3531,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
+					},
 					"abstract": {
 						"en": "Letters from home and Starfleet Command get held up at a Hirogen relay station and Janeway sets course to retrieve it."
 					},
@@ -3840,6 +3895,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "Seven of Nine is left alone on Voyager when a nebula’s deadly radiation forces the rest of the crew to stay in stasis and the Doctor’s holographic program is disrupted."
@@ -4204,6 +4264,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Jeri Taylor"
 					},
 					"abstract": {
 						"en": "A wounded alien is brought on board from a stranded vessel and attaches itself to B’Elanna Torres."
