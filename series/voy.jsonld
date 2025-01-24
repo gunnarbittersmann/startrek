@@ -1348,6 +1348,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "A mission to acquire Telerium goes wrong causing Tuvok and B’Elanna to be captured and believed to be with the resistance.",
 						"de": "Auf der Suche nach Tellerium, das zum Antrieb des Schiffes benötigt wird, beamen sich Captain Janeway, Tuvok, Torres und Neelix in eine Stadt der Alsaurianer, die von den feindlichen Mokras besetzt ist. Die Mokra-Soldaten nehmen Tuvok und Torres gefangen. Während eines Aufruhrs wird Janeway von Caylem, einem Einwohner, versteckt gehalten. Dieser sieht in ihr seine längst verstorbene Tochter."
@@ -1780,6 +1785,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JamesLConway",
 						"name": "James L. Conway"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "Tuvok crash-lands on a moon and finds children who have been abandoned."
 					},
@@ -2204,6 +2214,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "B’Elanna experiences vivid dreams."
 					},
@@ -2237,6 +2252,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "Kes is left comatose after contacting an energy field around a rock."
@@ -2374,6 +2394,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "Kes is controlled by an alien warlord named Tieran."
@@ -2613,6 +2638,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewRobinson",
 						"name": "Andrew Robinson"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "Vulcan crewmember Vorik passes on the Pon farr to B’Elanna. Meanwhile, seemingly uninhabited planet Sakari is explored. After ruins are discovered, and a few survivors are found underground by the crew, it becomes obvious that local culture was destroyed by invaders. Remains of one of the invaders are found and identified - they were Borg."
 					}
@@ -2774,6 +2804,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MarvinVRush",
 						"name": "Marvin V. Rush"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "Harry Kim is drawn to a planet that is nearly all women."
@@ -2941,6 +2976,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "Crew members are replaced one-by-one with aliens from an unknown race."
@@ -3270,6 +3310,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "A hologram contacts Voyager and the Doctor is excited to meet another hologram."
 					},
@@ -3351,6 +3396,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "The crew have unexplained illnesses as they are closely observed by unseen intruders."
@@ -3639,6 +3689,11 @@
 						"@id": "https://bittersmann.de/startrek/people#NancyMalone",
 						"name": "Nancy Malone"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
+					},
 					"abstract": {
 						"en": "The Doctor’s program is sent to an advanced Starfleet vessel via a vast ancient communications network, but he soon discovers that only he and the ship’s own EMH remain to fight against Romulans who have taken over the ship and are attempting to return to Romulan space with it."
 					},
@@ -3750,6 +3805,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "After experiencing unsettling hallucinations, Seven of Nine is hypnotized by the Doctor whose analysis reveals a trader might have extracted Borg technology from Seven without her consent."
@@ -3906,6 +3966,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#VictorLobl",
 						"name": "Victor Lobl"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
+						"name": "Lisa Klink"
 					},
 					"abstract": {
 						"en": "Janeway undertakes the Omega Directive, an order to destroy Omega molecules, even if it means violating the Prime Directive."
