@@ -440,7 +440,17 @@
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+						"name": "Bill Dial"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HilaryJBader",
+						"name": "Hilary J. Bader"
 					},
 					"abstract": {
 						"en": "A micro-wormhole is discovered that leads to the Alpha Quadrant, and the crew make contact with a Romulan ship on the other side."
@@ -495,6 +505,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+						"name": "Evan Carlos Somers"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EvanCarlosSomers",
+						"name": "Evan Carlos Somers"
 					},
 					"abstract": {
 						"en": "Tom Paris is convicted of murder on an alien world, and his punishment is to witness the murder from the victim’s perspective every 14 hours."
@@ -593,6 +613,30 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPerricone",
+							"name": "Michael Perricone"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GregElliot",
+							"name": "GregElliot"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidRGeorgeIII",
+							"name": "David R. George III"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#EricAStillwell",
+							"name": "Eric A. Stillwell"
+						}
+					],
 					"abstract": {
 						"en": "A species that could shorten Voyager’s journey with a transportation device will not share its technology."
 					},
@@ -639,6 +683,16 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertScheerer",
 						"name": "Robert Scheerer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisAbbott",
+						"name": "Chris Abbott"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulRobertCoyle",
+						"name": "Paul Robert Coyle"
+					},
 					"abstract": {
 						"en": "Janeway and the other senior officers attempt to flush out a spy who is sending information to the Kazon."
 					},
@@ -684,6 +738,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NarenShankar",
+						"name": "Naren Shankar"
 					},
 					"abstract": {
 						"en": "The holographic doctor must rescue crew members who were turned to light energy in a Holodeck simulation of Beowulf."
@@ -799,6 +858,11 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanGlassner",
+						"name": "Jonathan Glassner"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
@@ -848,11 +912,35 @@
 						"@id": "https://bittersmann.de/startrek/people#KimFriedman",
 						"name": "Kim Friedman"
 					},
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
-						"name": "Kenneth Biller"
-					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JackKlein",
+							"name": "Jack Klein"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KarenKlein",
+							"name": "Karen Klein"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+							"name": "Kenneth Biller"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JamesThomton",
+							"name": "James Thomton"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ScottNimerfro",
+							"name": "Scott Nimerfro"
+						}
+					],
 					"abstract": {
 						"en": "A member of the Haakonians, a race warring with the Talaxians, arrives on Voyager, much to the dismay of Neelix, whose family was killed by a weapon of mass destruction this particular individual devised."
 					},
@@ -899,6 +987,18 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+							"name": "Ronald Wilkerson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
+							"name": "Jean Louise Matthias"
+						}
+					],
 					"abstract": {
 						"en": "Tuvok trains several Maquis members who have not fully integrated into the Voyager crew."
 					},
