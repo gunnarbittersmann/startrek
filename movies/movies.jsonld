@@ -1237,6 +1237,18 @@
 						"@id": "https://bittersmann.de/startrek/people#CraigSweeny",
 						"name": "Craig Sweeny"
 					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
+							"name": "Bo Yeon Kim"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
+							"name": "Erika Lippoldt"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
