@@ -4431,6 +4431,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"name": "John Kretchmer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Neelix looks after Naomi Wildman when her mother is injured on an away mission."
 					}
@@ -4624,6 +4629,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "While passing through Devore space, Voyager is routinely searched for telepaths."
 					}
@@ -4698,6 +4708,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "Paris’ latest holodeck adventure The Adventures of Captain Proton takes an unexpected turn."
@@ -4911,6 +4926,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Kim finds love when the crew encounters a Varro generational ship that needs assistance repairing its warp drive."
 					}
@@ -5009,6 +5029,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TerrenceOHara",
 						"name": "Terrence O’Hara"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Voyager is being chased by the Hazari when a think tank offers assistance."
 					}
@@ -5080,6 +5105,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "Seven of Nine explores dating with some help from the Doctor."
@@ -5158,6 +5188,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Captain Braxton recruits Seven of Nine to stop Voyager being sabotaged."
 					},
@@ -5203,6 +5238,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnKretchmer",
 						"name": "John Kretchmer"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "The crew rescues a device with artificial intelligence embedded in rock, that then proceeds to take control of The Doctor and reveals itself to be a weapon of mass destruction."
@@ -5455,6 +5495,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Tom Paris becomes obsessed with a salvaged alien shuttlecraft, which appears to have a mind of its own."
 					},
@@ -5525,6 +5570,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
@@ -5571,6 +5621,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "Voyager is nearly hit by a mysterious subspace mass and the crew theorize that the debris of an ancient Earth–Mars ship is inside."
@@ -5864,6 +5919,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllisonLiddi",
 						"name": "Allison Liddi"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Chakotay, Kim, Paris, and Neelix are taken hostage when the Delta Flyer is captured by Borg children in a derelict Cube."
 					},
@@ -6149,6 +6209,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"abstract": {
 						"en": "A much older and more powerful Kes returns to Voyager, and attempts to travel back in time to change her history."
@@ -6444,6 +6509,11 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "The crew of Voyager enters the Delta Flyer in a sub-warp race, crewed by Tom Paris and B’Elanna Torres, and events conspire to encourage Tom to propose to her."
 					},
@@ -6736,6 +6806,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Voyager is fractured into several time periods by an accident, and only Chakotay is able to move between them, in the process meeting old friends and old foes from the previous six seasons."
 					},
@@ -6965,6 +7040,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
+					},
 					"abstract": {
 						"en": "Chakotay and Neelix take jobs on the new planet, and try to rescue their amnesiac crewmates – who don’t want to leave."
 					},
@@ -7161,6 +7241,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
+						"name": "Michael Taylor"
 					},
 					"author": {
 						"@type": "Person",
