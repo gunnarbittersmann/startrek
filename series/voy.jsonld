@@ -2357,6 +2357,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ClayvonCHarris",
+						"name": "Clayvon C. Harris"
+					},
 					"abstract": {
 						"en": "Tom Paris and Harry Kim wrongfully accused, convicted and incarcerated in unguarded Akritirian prison. Tom gets stabbed trying to protect Kim, leaving him to try to find an escape plan alone. Meanwhile, Voyager is trying to find a way to prove their innocence."
 					},
@@ -2434,6 +2439,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeorgeBrozak",
+						"name": "George Brozak"
 					},
 					"abstract": {
 						"en": "The crew encounters the Delta Quadrant terminus of the Barzan wormhole...and the two Ferengi from the Star Trek: The Next Generation episode “The Price” now posing as gods on a nearby planet."
@@ -2522,6 +2532,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
 						"name": "Lisa Klink"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeoCameron",
+						"name": "Geo Cameron"
 					},
 					"abstract": {
 						"en": "Kes is left comatose after contacting an energy field around a rock."
@@ -2665,6 +2680,16 @@
 						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
 						"name": "Lisa Klink"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewShepardPrice",
+						"name": "Andrew Shepard Price"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarkGaberman",
+						"name": "Mark Gaberman"
+					},
 					"abstract": {
 						"en": "Kes is controlled by an alien warlord named Tieran."
 					},
@@ -2703,6 +2728,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ShawnPiller",
+						"name": "Shawn Piller"
 					},
 					"abstract": {
 						"en": "Q visits Voyager with a proposal for Janeway as civil war breaks out in the Q Continuum."
@@ -2791,6 +2821,23 @@
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndreBormanis",
+						"name": "André Bormanis"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldWilkerson",
+							"name": "Ronald Wilkerson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeanLouiseMatthias",
+							"name": "Jean Louise Matthias"
+						}
+					],
 					"abstract": {
 						"en": "Voyager approaches the edge of Neelix’s knowledge and a trading station."
 					},
@@ -3046,6 +3093,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimmyDiggs",
+						"name": "Jimmy Diggs"
+					},
 					"abstract": {
 						"en": "Voyager helps a planet with asteroid problems. Tuvok and Neelix crash-land on the planet and attempt to fix a maglev space elevator."
 					},
@@ -3159,6 +3211,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
 						"name": "Jeri Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HarryKloor",
+						"name": "Harry Kloor"
 					},
 					"abstract": {
 						"en": "The Doctor creates a family on the holodeck."
