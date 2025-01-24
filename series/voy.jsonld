@@ -187,6 +187,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimTrombetta",
+						"name": "Jim Trombetta"
+					},
 					"abstract": {
 						"en": "Voyager is trapped in a quantum singularity’s event horizon, and Captain Janeway must decide between Lt. Carey and former Maquis B’Elanna Torres to be the new chief engineer."
 					},
@@ -312,8 +317,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SkyeDent",
+						"name": "Skye Dent"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TimothyDeHaas",
+						"name": "Timothy DeHaas"
 					},
 					"abstract": {
 						"en": "An organ-harvesting species known as the Vidiians steal Neelix’s lungs, leaving him to die."
@@ -363,8 +378,18 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TomSzollosi",
+						"name": "Tom Szollosi"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The crew enter a nebula to collect samples before realizing it is a living organism, but not before injuring it."
