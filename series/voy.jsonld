@@ -247,6 +247,23 @@
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidKemper",
+							"name": "David Kemper"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidKemper",
+						"name": "David Kemper"
+					},
 					"abstract": {
 						"en": "Investigating a planet just devastated by a polaric explosion, Janeway and Paris are engulfed by a subspace fracture and transported in time to before the accident."
 					},
