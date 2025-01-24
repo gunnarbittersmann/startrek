@@ -2141,6 +2141,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AlexanderSinger",
 						"name": "Alexander Singer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "Voyager encounters a swarm of ships while trying to take a shortcut through a space belonging to a hostile species, while the Doctor begins to experience memory loss."
 					},
@@ -6145,6 +6150,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
@@ -6490,6 +6500,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertDuncanMcNeill",
 						"name": "Robert Duncan McNeill"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "During an emergency on a mission, The Doctor is forced to upload his program into Seven of Nine’s Borg implants, allowing him to experience real sensations for the first time."
 					},
@@ -6732,6 +6747,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
 					},
 					"abstract": {
 						"en": "Voyager encounters an ancient Klingon battlecruiser. The Klingons aboard it had set out long ago to find their savior, and they believe it to be Tom and B’Elanna’s unborn child."
@@ -6984,6 +7004,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "The Doctor writes a holo-novel to be published in the Alpha Quadrant, featuring characters who closely resemble – but do not flatter – the crew."
 					},
@@ -7133,6 +7158,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
 					},
 					"abstract": {
 						"en": "The Doctor is forced to help aliens steal Voyager’s warp core."
