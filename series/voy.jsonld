@@ -1547,6 +1547,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
 						"name": "Michael Piller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "Crewman Lon Suder murders an Engineering crewman for no apparent reason. Tuvok mind melds with him to ascertain his motive, but it causes him to become aggressive."
 					},
@@ -3354,6 +3359,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LeVarBurton",
 						"name": "LeVar Burton"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Seven of Nine experiences Borg flashbacks as she attempts to become more human."
 					},
@@ -3626,6 +3636,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Neelix dies in an attempt to sample proto-matter from a nebula. Seven of Nine helps resuscitate him using Borg nanoprobes, but Neelix, having no memory of an afterlife of any kind, experiences a spiritual crisis."
 					},
@@ -3810,6 +3825,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JesusSalvadorTrevino",
 						"name": "Jesús Salvador Treviño"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"author": {
 						"@type": "Person",
@@ -4047,6 +4067,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
@@ -4272,6 +4297,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LesLandau",
 						"name": "Les Landau"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"author": {
 						"@type": "Person",
@@ -4664,6 +4694,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Paris’ latest holodeck adventure The Adventures of Captain Proton takes an unexpected turn."
 					},
@@ -4708,6 +4743,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "Tuvok and Paris crash on a planet stuck in a pocket of subspace, where they meet a female named Noss."
@@ -5002,6 +5042,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
@@ -5102,6 +5147,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AllanEastman",
 						"name": "Allan Eastman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"author": {
 						"@type": "Person",
@@ -5322,6 +5372,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "B’Elanna’s shuttle is hit by an ion storm and she awakens to find herself among Klingons in the Barge of the Dead, on the way to Klingon Hell."
 					},
@@ -5394,6 +5449,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "Tom Paris becomes obsessed with a salvaged alien shuttlecraft, which appears to have a mind of its own."
@@ -5506,6 +5566,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RobertPicardo",
 						"name": "Robert Picardo"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "Voyager is nearly hit by a mysterious subspace mass and the crew theorize that the debris of an ancient Earth–Mars ship is inside."
@@ -5847,6 +5912,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Problems arise from running the holographic Irish village of Fair Haven non-stop, when a malfunction leads the holographic characters to become self-aware."
 					},
@@ -6075,6 +6145,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JohnBruno",
 						"name": "John Bruno"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "A much older and more powerful Kes returns to Voyager, and attempts to travel back in time to change her history."
 					},
@@ -6157,6 +6232,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "As Voyager travels through a nebula, all ship’s power is turned off, giving Neelix an opportunity to tell the Borg children a ghost story."
@@ -6578,6 +6658,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "Voyager’s hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic “prey” more cunning, enabling the hologram characters to rebel against their new masters."
 					},
@@ -6836,6 +6921,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
+					},
 					"abstract": {
 						"en": "The Voyager crew is brainwashed into taking new jobs on an industrialized planet that has a severe labor shortage, leaving only Chakotay, Kim and Neelix (who were on an away mission) and the Doctor (who, in the absence of the crew, has become the Emergency Command Hologram) to save them."
 					},
@@ -7071,6 +7161,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+						"name": "Bryan Fuller"
 					},
 					"abstract": {
 						"en": "The crew is sent on its first mission by Starfleet in nearly seven years: to find a lost probe sent by Earth in the 21st century that has ended up in the Delta Quadrant."
