@@ -5185,11 +5185,6 @@
 					},
 					"author": {
 						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
-						"name": "Kenneth Biller"
-					},
-					"author": {
-						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
@@ -5243,6 +5238,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
+						"name": "Kenneth Biller"
 					},
 					"abstract": {
 						"en": "The crew rescues a device with artificial intelligence embedded in rock, that then proceeds to take control of The Doctor and reveals itself to be a weapon of mass destruction."
