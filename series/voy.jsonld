@@ -736,6 +736,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A shuttlecraft with Chakotay and Tuvok aboard is attacked; Chakotay is left brain-dead, while Tuvok begins acting strangely. An unknown force begins controlling crew members."
 					},
@@ -2254,6 +2259,11 @@
 						"@id": "https://bittersmann.de/startrek/people#LisaKlink",
 						"name": "Lisa Klink"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "B’Elanna experiences vivid dreams."
 					},
@@ -2766,6 +2776,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Doctor’s attempt to graft other personalities into his program causes him to develop an evil alternate personality."
@@ -4105,6 +4120,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A Kyrian museum curator 700 years in the future hopes a Voyager relic containing a copy of the Doctor can confirm their version of history."
 					},
@@ -4226,6 +4246,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Paris and Neelix return from a mission with a passenger named Arturis who knows more than 4,000 languages. He manages to decode a message from Starfleet that could lead to a way home."
@@ -4507,6 +4532,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Fifteen years in the future, Chakotay and Harry Kim attempt to prevent the Voyager from crash-landing on an ice planet."
 					},
@@ -4699,6 +4729,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The Doctor finds out that some of his memories have been blocked."
@@ -5084,6 +5119,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Voyager is being chased by the Hazari when a think tank offers assistance."
 					}
@@ -5166,6 +5206,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Seven of Nine explores dating with some help from the Doctor."
 					}
@@ -5201,6 +5246,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway reminisces about one of her ancestors, Shannon O’Donnell from Indiana."
@@ -5309,6 +5359,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "The crew rescues a device with artificial intelligence embedded in rock, that then proceeds to take control of The Doctor and reveals itself to be a weapon of mass destruction."
 					}
@@ -5349,6 +5404,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Voyager finds another Federation ship, the USS Equinox, under attack from flying nucleogenic lifeforms."
@@ -5408,6 +5468,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "The crew of the USS Equinox attempts to elude the USS Voyager in order to exploit the nucleogenic lifeforms in a bid to return home."
@@ -5916,6 +5981,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
 						"name": "Allan Kroeker"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "Chakotay, Tom Paris, Harry Kim, and Neelix begin to experience horrific flashbacks after an away mission."
 					},
@@ -6280,6 +6350,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "A much older and more powerful Kes returns to Voyager, and attempts to travel back in time to change her history."
 					},
@@ -6473,6 +6548,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "Janeway, B’Elanna and Tuvok are assimilated by the Borg while attempting to save the group of drones who have developed individuality."
@@ -7259,6 +7339,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
 						"name": "Mike Sussman"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "The Doctor writes a holo-novel to be published in the Alpha Quadrant, featuring characters who closely resemble – but do not flatter – the crew."
 					},
@@ -7468,6 +7553,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
+					},
 					"abstract": {
 						"en": "In the future where it took Voyager 23 years to get home, Admiral Janeway devises a plan to alter history. As the crew enters a final showdown with the Borg, the two Janeways implement a risky plan to take out one of the six Borg Transwarp Hubs in the galaxy and simultaneously cross the transwarp threshold to get home."
 					},
@@ -7506,6 +7596,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+						"name": "Brannon Braga"
 					},
 					"abstract": {
 						"en": "In the future where it took Voyager 23 years to get home, Admiral Janeway devises a plan to alter history. As the crew enters a final showdown with the Borg, the two Janeways implement a risky plan to take out one of the six Borg Transwarp Hubs in the galaxy and simultaneously cross the transwarp threshold to get home."
