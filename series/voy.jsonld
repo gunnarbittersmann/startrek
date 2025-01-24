@@ -6533,6 +6533,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "As Voyager travels through a nebula, all ship’s power is turned off, giving Neelix an opportunity to tell the Borg children a ghost story."
 					},
@@ -6576,6 +6581,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
 					},
 					"abstract": {
 						"en": "Janeway, B’Elanna and Tuvok infiltrate a Borg Cube in an attempt to save Borg drones who are trying to develop individuality."
@@ -6638,6 +6648,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -7061,6 +7076,11 @@
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
+					},
 					"abstract": {
 						"en": "Voyager is fractured into several time periods by an accident, and only Chakotay is able to move between them, in the process meeting old friends and old foes from the previous six seasons."
 					},
@@ -7128,6 +7148,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MikeVejar",
 						"name": "Mike Vejar"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MikeSussman",
+						"name": "Mike Sussman"
 					},
 					"abstract": {
 						"en": "Prisoners are brought onto Voyager from a damaged alien vessel, and the crew must deliver them to their destination – for execution. Seven’s nanoprobes are used to help heal a prisoner."
