@@ -6009,6 +6009,11 @@
 						"@id": "https://bittersmann.de/startrek/people#TerryWindell",
 						"name": "Terry Windell"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
+					},
 					"abstract": {
 						"en": "Three Borg from Seven’s past appear, and ask to be completely separated from the Collective."
 					},
@@ -6047,6 +6052,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+						"name": "Ronald D. Moore"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -6092,6 +6102,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillVallely",
+						"name": "Bill Vallely"
+					},
 					"abstract": {
 						"en": "The Doctor adds daydreaming to his program, imagining himself as the Emergency Command Hologram (ECH) aboard Voyager; but aliens, tapping into his perceptions to observe the crew, prepare an attack when they believe that what they are seeing in the daydreams is real."
 					},
@@ -6135,6 +6150,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MichaelTaylor",
 						"name": "Michael Taylor"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JuliannDeLayne",
+						"name": "Juliann deLayne"
 					},
 					"abstract": {
 						"en": "Tom Paris becomes obsessed with a salvaged alien shuttlecraft, which appears to have a mind of its own."
