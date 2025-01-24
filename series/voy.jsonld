@@ -93,6 +93,35 @@
 						"@id": "https://bittersmann.de/startrek/people#WinrichKolbe",
 						"name": "Winrich Kolbe"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+							"name": "Jeri Taylor"
+						}
+					],
 					"abstract": {
 						"en": "While searching for a missing Maquis ship with a Starfleet spy aboard, USS Voyager is swept away to the Delta Quadrant, more than 70,000 light-years from home, by an incredibly powerful being known as the “Caretaker.”"
 					},
