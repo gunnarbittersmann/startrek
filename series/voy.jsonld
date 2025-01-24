@@ -4400,6 +4400,11 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
+					},
 					"abstract": {
 						"en": "The ship encounters a training facility for an alien invasion of Earth."
 					}
@@ -4761,6 +4766,11 @@
 					},
 					"author": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
+					},
+					"author": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
@@ -4962,6 +4972,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AnsonWilliams",
 						"name": "Anson Williams"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
+					},
 					"abstract": {
 						"en": "After Torres and Paris get married, subspace radiation causes the crew and their ship to disintegrate."
 					}
@@ -5069,6 +5084,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
 					},
 					"author": {
 						"@type": "Person",
@@ -5182,6 +5202,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NickSagan",
+						"name": "Nick Sagan"
 					},
 					"author": {
 						"@type": "Person",
