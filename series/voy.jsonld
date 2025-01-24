@@ -741,6 +741,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "A shuttlecraft with Chakotay and Tuvok aboard is attacked; Chakotay is left brain-dead, while Tuvok begins acting strangely. An unknown force begins controlling crew members."
 					},
@@ -2264,6 +2269,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "B’Elanna experiences vivid dreams."
 					},
@@ -2781,6 +2791,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "The Doctor’s attempt to graft other personalities into his program causes him to develop an evil alternate personality."
@@ -3642,6 +3657,11 @@
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "Aliens steal several key components of Voyager, which are retrieved with assistance from a holographic Leonardo da Vinci."
 					},
@@ -4252,6 +4272,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "Paris and Neelix return from a mission with a passenger named Arturis who knows more than 4,000 languages. He manages to decode a message from Starfleet that could lead to a way home."
 					},
@@ -4537,6 +4562,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "Fifteen years in the future, Chakotay and Harry Kim attempt to prevent the Voyager from crash-landing on an ice planet."
 					},
@@ -4734,6 +4764,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "The Doctor finds out that some of his memories have been blocked."
@@ -5252,6 +5287,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "Janeway reminisces about one of her ancestors, Shannon O’Donnell from Indiana."
 					}
@@ -5410,6 +5450,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
+					},
 					"abstract": {
 						"en": "Voyager finds another Federation ship, the USS Equinox, under attack from flying nucleogenic lifeforms."
 					}
@@ -5473,6 +5518,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "The crew of the USS Equinox attempts to elude the USS Voyager in order to exploit the nucleogenic lifeforms in a bid to return home."
@@ -6553,6 +6603,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
 						"name": "Brannon Braga"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
+						"name": "Joe Menosky"
 					},
 					"abstract": {
 						"en": "Janeway, B’Elanna and Tuvok are assimilated by the Borg while attempting to save the group of drones who have developed individuality."
