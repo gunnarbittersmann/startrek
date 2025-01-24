@@ -4744,6 +4744,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HarryKloor",
+						"name": "Harry Kloor"
+					},
 					"abstract": {
 						"en": "The Doctor’s mobile emitter is damaged while beaming back from an away mission, merging with Seven of Nine’s Borg nanoprobes and the DNA of a male Ensign to create a 29th century Borg."
 					},
@@ -4977,6 +4982,21 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidLivingston",
 						"name": "David Livingston"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimmyDiggs",
+						"name": "Jimmy Diggs"
+					},
 					"abstract": {
 						"en": "When Voyager brings aboard an advanced piece of Borg technology from a salvaged Borg cube, Seven of Nine begins to take on the personalities of the people assimilated by the cube."
 					}
@@ -5049,6 +5069,11 @@
 						"@id": "https://bittersmann.de/startrek/people#KennethBiller",
 						"name": "Kenneth Biller"
 					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ScottMiller",
+						"name": "Scott Miller"
+					},
 					"abstract": {
 						"en": "Tom Paris disregards orders by helping an aquatic world and is demoted to Ensign."
 					}
@@ -5120,6 +5145,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JoeMenosky",
 						"name": "Joe Menosky"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EileenConnors",
+						"name": "Eileen Connors"
 					},
 					"contributor": {
 						"@type": "Person",
@@ -5237,6 +5267,11 @@
 					},
 					"contributor": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JimmyDiggs",
+						"name": "Jimmy Diggs"
+					},
+					"contributor": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BryanFuller",
 						"name": "Bryan Fuller"
 					},
@@ -5275,6 +5310,16 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#CliffBole",
 						"name": "Cliff Bole"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertDoherty",
+						"name": "Robert Doherty"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillPrady",
+						"name": "Bill Prady"
 					},
 					"abstract": {
 						"en": "A large organism telepathically deceives the Voyager crew into flying into its digestive chamber."
