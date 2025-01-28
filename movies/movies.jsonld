@@ -1324,6 +1324,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/GtlAXfzloEw"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/v=evBkj2pg_Eg"
+							}
 						}
 					]
 				}
