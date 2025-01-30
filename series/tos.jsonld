@@ -1322,6 +1322,21 @@
 					},
 					"description": {
 						"de": "Durch einen Ionensturm wurde die Enterprise kürzlich schwer beschädigt, dabei kam der Computeroffizier Lt. Finney zu Tode. Auf Raumbasis 11 wird die Enterprise repariert und bzgl. des Todesfalls gegen Kirk wegen möglichen Meineides und Fahrlässigkeit mit Todesfolge ermittelt. Im Gerichtsverfahren geht es um die Frage, ob Kirk den Schutzschirm gemäß seiner eidesstattlichen Behauptung bei rotem Alarm oder entsprechend dem Computerprotokoll noch beim vorherigen gelben Alarm ausgelöst hat. Spock behauptet im Zeugenstand, dass die Computeraufzeichnung falsch sein müsse und Kirk sich nicht irre. Die Anklägerin Shaw beweist per Videoaufzeichnung, dass Kirk den Schirm noch bei gelbem Alarm abgeworfen hat. Spock findet heraus, dass der Enterprise-Computer manipuliert wurde. Kirks Verteidiger Cogley schlussfolgert daraus, dass die Videoaufzeichnung fehlerhaft ist, Finney gar nicht tot ist und den Computer manipuliert hatte. Durch Hörbarmachung aller Herztöne der auf dem Schiff befindlichen Personen beweist Cogley, dass Finney noch lebt. Kirk findet ihn versteckt im Maschinenraum. Er gibt zu, Sabotage begangen zu haben, um sich damit an Kirk zu rächen, der einst eine Disziplinarstrafe verhängte, die Finneys Beförderung vereitelte. Kirk vereitelt die Vollendung von Finneys Plan, die Enterprise zu zerstören."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-01-30",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/A8uuJz2csuQ"
+						}
 					}
 				},
 				{
