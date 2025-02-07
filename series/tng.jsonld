@@ -2305,6 +2305,21 @@
 					"abstract": {
 						"en": "After Lt. Commander Data refuses an order from Starfleet to be dismantled for research purposes, a hearing is convened to determine if he is a legal citizen or property of the Federation.",
 						"de": "Um sich Experimenten des Kybernetikers Maddox zu entziehen, tritt Data aus der Sternenflotte aus. Es folgt ein Gerichtsprozess über die Frage, ob Data Sternenflotteneigentum ist."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-02-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ccvxKFI4szI"
+						}
 					}
 				},
 				{
