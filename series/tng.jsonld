@@ -40,6 +40,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -1733,6 +1734,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -3069,6 +3071,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
@@ -3092,6 +3095,25 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Ersteindruck",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+					"name": "Nerdzika"
+				},
+				"datePublished": "2025-02-12",
+				"itemReviewed": [
+					{ "@id": "https://bittersmann.de/startrek/series/tng#2" },
+					{ "@id": "https://bittersmann.de/startrek/series/tng#3" }
+				],
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/_bmMGZFD6qs"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -4603,6 +4625,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#4",
 			"seasonNumber": 4,
 			"subjectOf": [
 				{
@@ -6262,6 +6285,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#5",
 			"seasonNumber": 5,
 			"subjectOf": [
 				{
@@ -7899,6 +7923,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#6",
 			"seasonNumber": 6,
 			"subjectOf": [
 				{
@@ -9496,6 +9521,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tng#7",
 			"seasonNumber": 7,
 			"subjectOf": [
 				{
