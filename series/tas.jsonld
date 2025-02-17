@@ -55,6 +55,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tas#1",
 			"seasonNumber": 1,
 			"numberOfEpisodes": 16,
 			"episode": [
@@ -1005,6 +1006,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tas#2",
 			"seasonNumber": 2,
 			"numberOfEpisodes": 6,
 			"episode": [

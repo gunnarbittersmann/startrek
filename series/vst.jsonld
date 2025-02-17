@@ -30,6 +30,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/vst#1",
 			"review": {
 				"@type": "Review",
 				"inLanguage": "en",

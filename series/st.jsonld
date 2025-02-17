@@ -54,6 +54,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/st#1",
 			"seasonNumber": 1,
 			"review": {
 				"@type": "Review",
@@ -221,6 +222,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/st#2",
 			"seasonNumber": 2,
 			"numberOfEpisodes": 6,
 			"episode": [

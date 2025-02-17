@@ -40,6 +40,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/pic#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -789,6 +790,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/pic#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -1634,6 +1636,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/pic#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{

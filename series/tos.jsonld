@@ -39,6 +39,8 @@
 	"numberOfSeasons": 3,
 	"containsSeason": [
 		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#0",
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -169,6 +171,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -1884,6 +1887,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -3341,6 +3345,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
