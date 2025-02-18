@@ -359,10 +359,6 @@ summary {
 	white-space: nowrap;
 }
 
-:where(summary) {
-	outline: none;
-}
-
 .review-range,
 .review-lang {
 	font-size: 0.8em;
