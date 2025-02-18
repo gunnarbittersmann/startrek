@@ -355,11 +355,8 @@ img {
 }
 
 summary {
-	min-width: 1.5em;
-}
-
-:where(summary) {
-	outline: none;
+	width: fit-content;
+	white-space: nowrap;
 }
 
 .review-range,
