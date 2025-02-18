@@ -355,7 +355,8 @@ img {
 }
 
 summary {
-	min-width: 1.5em;
+	width: fit-content;
+	white-space: nowrap;
 }
 
 :where(summary) {
