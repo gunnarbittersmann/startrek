@@ -514,6 +514,21 @@
 					"abstract": {
 						"en": "Jadzia Dax is arrested for a murder allegedly committed by Curzon Dax, a previous host of her symbiont. An extradition hearing is held to determine whether Jadzia can be held liable for Curzon’s actions.",
 						"de": "Dax soll von der Station entführt werden, da man ihr einen Mord vorwirft und sie vor Gericht gestellt werden soll. Die Entführung kann jedoch verhindert werden und Sisko weigert sich Dax auszuliefern, da DS9 eine bajoranische Station ist und somit kein Auslieferungsabkommen besteht. Eine Gerichtsverhandlung soll den Fall jetzt klären."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-02-20",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/zuMEfw18WV8"
+						}
 					}
 				},
 				{
