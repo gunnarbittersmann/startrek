@@ -55,6 +55,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -1037,6 +1038,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -2248,6 +2250,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
@@ -3465,6 +3468,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#4",
 			"seasonNumber": 4,
 			"subjectOf": [
 				{
@@ -4708,6 +4712,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#5",
 			"seasonNumber": 5,
 			"subjectOf": [
 				{
@@ -6018,6 +6023,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#6",
 			"seasonNumber": 6,
 			"subjectOf": [
 				{
@@ -7327,6 +7333,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/voy#7",
 			"seasonNumber": 7,
 			"subjectOf": [
 				{

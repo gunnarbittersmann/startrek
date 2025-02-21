@@ -55,6 +55,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/dsc#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -891,6 +892,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/dsc#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -1669,6 +1671,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/dsc#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
@@ -2572,6 +2575,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/dsc#4",
 			"seasonNumber": 4,
 			"subjectOf": [
 				{
@@ -3565,6 +3569,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/dsc#5",
 			"seasonNumber": 5,
 			"subjectOf": [
 				{

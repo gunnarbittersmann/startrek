@@ -40,6 +40,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/ld#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -666,6 +667,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/ld#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -1298,6 +1300,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/ld#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
@@ -1900,6 +1903,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/ld#4",
 			"seasonNumber": 4,
 			"subjectOf": [
 				{
@@ -2626,6 +2630,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/ld#5",
 			"seasonNumber": 5,
 			"subjectOf": [
 				{

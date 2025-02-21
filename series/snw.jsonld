@@ -39,6 +39,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -860,6 +861,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -1817,6 +1819,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#3",
 			"seasonNumber": 3,
 			"numberOfEpisodes": 10,
 			"subjectOf": {
