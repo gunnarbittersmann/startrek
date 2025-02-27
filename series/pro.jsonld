@@ -14,6 +14,30 @@
 	"name": "Star Trek: Prodigy",
 	"identifier": "PRO",
 	"inLanguage": "en",
+	"creator": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+			"name": "Kevin Hageman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DanHageman",
+			"name": "Dan Hageman"
+		}
+	],
+	"maintainer": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+			"name": "Kevin Hageman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DanHageman",
+			"name": "Dan Hageman"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
