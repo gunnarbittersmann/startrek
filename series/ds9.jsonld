@@ -5063,6 +5063,21 @@
 					"abstract": {
 						"en": "Worf accidentally destroys a civilian ship during battle and faces a hearing to determine whether he should be extradited to the Klingon Empire.",
 						"de": "Worf wird durch einen klingonischen Anwalt angeklagt, ein Raumschiff mit Zivilisten an Bord zerstört zu haben. Sisko kann jedoch letztlich die Unschuld Worfs beweisen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-02-28",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/iQVWoO4grRg"
+						}
 					}
 				},
 				{
