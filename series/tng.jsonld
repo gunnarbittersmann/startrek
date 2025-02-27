@@ -14,6 +14,43 @@
 	"name": "Star Trek: The Next Generation",
 	"identifier": "TNG",
 	"inLanguage": "en",
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+		"name": "Gene Roddenberry"
+	},
+	"maintainer": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#MauriceHurley",
+			"name": "Maurice Hurley"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#MichaelWagner",
+			"name": "Michael Wagner"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#RickBerman",
+			"name": "Rick Berman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+			"name": "Michael Piller"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#JeriTaylor",
+			"name": "Jeri Taylor"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",

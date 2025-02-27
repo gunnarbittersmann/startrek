@@ -14,6 +14,18 @@
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",
+	"creator": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#RickBerman",
+			"name": "Rick Berman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+			"name": "Michael Piller"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -42,6 +54,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#1",
 			"seasonNumber": 1,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+				"name": "Michael Piller"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1239,6 +1256,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#2",
 			"seasonNumber": 2,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+				"name": "Michael Piller"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -2793,6 +2815,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#3",
 			"seasonNumber": 3,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+				"name": "Michael Piller"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -4198,6 +4225,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#4",
 			"seasonNumber": 4,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+				"name": "Ira Steven Behr"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -5401,6 +5433,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#5",
 			"seasonNumber": 5,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+				"name": "Ira Steven Behr"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -6630,6 +6667,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#6",
 			"seasonNumber": 6,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+				"name": "Ira Steven Behr"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -7766,6 +7808,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ds9#7",
 			"seasonNumber": 7,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
+				"name": "Ira Steven Behr"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
