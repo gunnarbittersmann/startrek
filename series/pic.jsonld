@@ -14,6 +14,28 @@
 	"name": "Star Trek: Picard",
 	"identifier": "PIC",
 	"inLanguage": "en",
+	"creator": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+			"name": "Akiva Goldsman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#MichaelChabon",
+			"name": "Michael Chabon"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+			"name": "Kirsten Beyer"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+			"name": "Alex Kurtzman"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -42,6 +64,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/pic#1",
 			"seasonNumber": 1,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#MichaelChabon",
+				"name": "Michael Chabon"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -792,6 +819,18 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/pic#2",
 			"seasonNumber": 2,
+			"maintainer": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+					"name": "Akiva Goldsman"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+					"name": "Terry Matalas"
+				}
+			],
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1638,6 +1677,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/pic#3",
 			"seasonNumber": 3,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#TerryMatalas",
+				"name": "Terry Matalas"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",

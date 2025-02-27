@@ -14,6 +14,11 @@
 	"name": "Star Trek: very Short Treks",
 	"identifier": "VST",
 	"inLanguage": "en",
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#CasperKelly",
+		"name": "Casper Kelly"
+	},
 	"subjectOf": [
 		{
 			"@type": "Webpage",

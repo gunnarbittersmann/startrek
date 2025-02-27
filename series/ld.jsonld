@@ -14,6 +14,16 @@
 	"name": "Star Trek: Lower Decks",
 	"identifier": "LD",
 	"inLanguage": "en",
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+		"name": "Mike McMahan"
+	},
+	"maintainer": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
+		"name": "Mike McMahan"
+	},
 	"subjectOf": [
 		{
 			"@type": "Webpage",

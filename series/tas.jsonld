@@ -14,6 +14,23 @@
 	"name": "Star Trek: The Animated Series",
 	"identifier": "TAS",
 	"inLanguage": "en",
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+		"name": "Gene Roddenberry"
+	},
+	"maintainer": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DCFontana",
+			"name": "D. C. Fontana"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
