@@ -14,6 +14,18 @@
 	"name": "Star Trek: Discovery",
 	"identifier": "DSC",
 	"inLanguage": "en",
+	"creator": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#BryanFuller",
+			"name": "Bryan Fuller"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+			"name": "Alex Kurtzman"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -57,6 +69,18 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/dsc#1",
 			"seasonNumber": 1,
+			"maintainer": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#GretchenJBerg",
+					"name": "Gretchen J. Berg"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#AaronHarberts",
+					"name": "Aaron Harberts"
+				}
+			],
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -894,6 +918,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/dsc#2",
 			"seasonNumber": 2,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+				"name": "Alex Kurtzman"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1673,6 +1702,18 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/dsc#3",
 			"seasonNumber": 3,
+			"maintainer": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+					"name": "Alex Kurtzman"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#MichelleParadise",
+					"name": "Michelle Paradise"
+				}
+			],
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -2577,6 +2618,18 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/dsc#4",
 			"seasonNumber": 4,
+			"maintainer": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+					"name": "Alex Kurtzman"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#MichelleParadise",
+					"name": "Michelle Paradise"
+				}
+			],
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -3571,6 +3624,18 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/dsc#5",
 			"seasonNumber": 5,
+			"maintainer": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+					"name": "Alex Kurtzman"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#MichelleParadise",
+					"name": "Michelle Paradise"
+				}
+			],
 			"subjectOf": [
 				{
 					"@type": "Webpage",
