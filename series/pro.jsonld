@@ -1656,11 +1656,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2024-07-02",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/z08zO28bO-c"
@@ -1669,11 +1671,13 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2024-10-07",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3X3g6lURfpQ"
