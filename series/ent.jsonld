@@ -2348,6 +2348,21 @@
 					},
 					"description": {
 						"de": "Archer ist vor einem klingonischen Tribunal der Verschwörung mit Rebellen angeklagt und soll daher als Staatsfeind exekutiert werden. Im folgenden Gerichtsprozess lässt der Ankläger Orak den Kommandanten des klingonischen Schiffes als Zeugen aussagen, das von der Enterprise die Herausgabe einiger Flüchtlinge forderte und dafür von der Enterprise beschossen wurde. Seine Erinnerungen sind jedoch insofern falsch, als dass sie Archer als Kriegstreiber darstellen. Archer kann daraufhin Koloth, seinen Verteidiger, davon überzeugen, entgegen dem gegenwärtigen Brauch Archer als Zeugen zu vernehmen, wodurch Archer seine – wahre – Version der Geschichte darlegen kann, in der es ihm lediglich darum ging, die Flüchtlinge vor dem Verhungern zu retten. Trotzdem wird Archer der Gesetzesverletzung für schuldig befunden, wegen der von Koloth vorgetragenen früheren Verdienste Archers um das klingonische Reich wird seine Todesstrafe jedoch umgewandelt in lebenslangen Aufenthalt in einer Strafkolonie auf einem Eisplaneten. Dort eingetroffen, wird er, nachdem T’Pol einige Klingonen bestochen hat, von der Enterprise befreit. Der wegen Einspruches ebenfalls dort gelandete Koloth verbleibt auf eigenen Wunsch hin dort, da er außerhalb ohnehin nicht mehr als ehrenvoller Bürger anerkannt würde."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-03-06",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/sc3NLHLHPa0"
+						}
 					}
 				},
 				{
