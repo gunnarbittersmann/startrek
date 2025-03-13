@@ -1158,6 +1158,21 @@
 					},
 					"description": {
 						"de": "Bei der Passage eines unbekannten Planeten verschwinden plötzlich Kirk und Sulu. Ein Außenteam findet die Vermissten auf dem Planeten wieder, und zwar in der Gefangenschaft des menschlich erscheinenden Wesens Trelaine, das übermenschliche Kräfte hat, und wird zunächst auch von Trelaine gefangengehalten. Nachdem die Enterprise ihre Crewmitglieder gegen Trelaines Willen wieder an Bord gebeamt hat, transferiert dieser die Brückencrew wieder auf den Planeten, den er Gothos nennt. Trelaine gibt sich amüsiert und interessiert am gesellschaftlichen Umgang mit den Crewmitgliedern, ohne seine Ziele preiszugeben, und scheut keinen Konflikt. Er kann Dinge und Personen bewusstseinsgesteuert verschwinden lassen und transferieren. Kirk nutzt einen Vorwand, um zu beweisen, dass Trelaines Kräfte computergestützt erzeugt werden, und entlarvt ihn damit, sodass Trelaine verschwindet. Als die Enterprise von Trelaine am Weiterflug gehindert wird, kehrt Kirk auf Gothos zurück, um ihn zu bekämpfen. Dieser will Kirks Tod. Kirk erkennt, dass Trelaine spielen will, hält ihn aber für einen einfallslosen Feigling und spielt mit ihm ein originelleres Spiel. Als Trelaine zu feige ist, um Kirk zu töten, wird er von seinen Eltern abgeholt, die ebenfalls übermenschliche Energiewesen und von Trelaine enttäuscht sind. Sie entschuldigen sich bei Kirk, ohne ihre Identität preiszugeben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Gods and Monsters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-03-13",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/EK1cyb9xEUg"
+						}
 					}
 				},
 				{
