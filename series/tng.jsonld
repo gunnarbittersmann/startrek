@@ -7906,6 +7906,20 @@
 					"abstract": {
 						"en": "A space probe creates a telepathic tether to Picard and causes him to experience, in twenty-five minutes, a lifetime as a married man on a world that was destroyed a millennium ago.",
 						"de": "Captain Picard durchlebt unter dem Einfluss einer fremden Sonde innerhalb von weniger als einer halben Stunde mehrere Jahrzehnte des Lebens eines Mannes, der zu einer untergehenden Kultur gehört."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2025-03-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/lZpZfJC21lM"
+						}
 					}
 				},
 				{
