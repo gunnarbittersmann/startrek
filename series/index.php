@@ -51,6 +51,19 @@
 			</head>
 EOT;
 	}
+
+	function initial($name) {
+		if (str_starts_with($name, 'The ')) {
+			return $name[4];
+		}
+		if (str_starts_with($name, 'An ')) {
+			return $name[3];
+		}
+		if (str_starts_with($name, 'A ')) {
+			return $name[2];
+		}
+		return $name[0];
+	}
 ?>
 <!DOCTYPE html>
 <?php if ($data): ?>
@@ -417,7 +430,7 @@ EOT;
 																	<span class="visually-hidden" property="name">
 																		<?= htmlSpecialChars($episode['review']['creator']['name']) ?>
 																	</span>
-																	<abbr aria-hidden="true"><?= htmlSpecialChars($episode['review']['creator']['name'][0]) ?></abbr>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars(initial($episode['review']['creator']['name'])) ?></abbr>
 																</span>
 															<?php endif; ?>
 															<?php if ($episode['review']['itemReviewed']): ?>
@@ -468,7 +481,7 @@ EOT;
 																				<span class="visually-hidden" property="name">
 																					<?= htmlSpecialChars($review['creator']['name']) ?>
 																				</span>
-																				<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																				<abbr aria-hidden="true"><?= htmlSpecialChars(initial($review['creator']['name'])) ?></abbr>
 																			</span>
 																		<?php endif; ?>
 																		<?php if ($review['itemReviewed']): ?>
@@ -524,7 +537,7 @@ EOT;
 																	<span class="visually-hidden" property="name">
 																		<?= htmlSpecialChars($season['review']['creator']['name']) ?>
 																	</span>
-																	<abbr aria-hidden="true"><?= htmlSpecialChars($season['review']['creator']['name'][0]) ?></abbr>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars(initial($season['review']['creator']['name'])) ?></abbr>
 																</span>
 															<?php elseif (is_array($season['review']['creator'])): ?>
 																<?php foreach ($season['review']['creator'] as $creator): ?>
@@ -532,7 +545,7 @@ EOT;
 																		<span class="visually-hidden" property="name">
 																			<?= htmlSpecialChars($creator['name']) ?>
 																		</span>
-																		<abbr aria-hidden="true"><?= htmlSpecialChars($creator['name'][0]) ?></abbr>
+																		<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
 																	</span>
 																<?php endforeach; ?>
 															<?php endif; ?>
@@ -584,7 +597,7 @@ EOT;
 																				<span class="visually-hidden" property="name">
 																					<?= htmlSpecialChars($review['creator']['name']) ?>
 																				</span>
-																				<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																				<abbr aria-hidden="true"><?= htmlSpecialChars(initial($review['creator']['name'])) ?></abbr>
 																			</span>
 																		<?php elseif (is_array($review['creator'])): ?>
 																			<?php foreach ($review['creator'] as $creator): ?>
@@ -592,7 +605,7 @@ EOT;
 																					<span class="visually-hidden" property="name">
 																						<?= htmlSpecialChars($creator['name']) ?>
 																					</span>
-																					<abbr aria-hidden="true"><?= htmlSpecialChars($creator['name'][0]) ?></abbr>
+																					<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
 																				</span>
 																			<?php endforeach; ?>
 																		<?php endif; ?>
@@ -650,7 +663,7 @@ EOT;
 														<span class="visually-hidden" property="name">
 															<?= htmlSpecialChars($data['review']['creator']['name']) ?>
 														</span>
-														<abbr aria-hidden="true"><?= htmlSpecialChars($data['review']['creator']['name'][0]) ?></abbr>
+														<abbr aria-hidden="true"><?= htmlSpecialChars(initial($data['review']['creator']['name'])) ?></abbr>
 													</span>
 												<?php endif; ?>
 											</summary>
@@ -688,7 +701,7 @@ EOT;
 																	<span class="visually-hidden" property="name">
 																		<?= htmlSpecialChars($review['creator']['name']) ?>
 																	</span>
-																	<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars(initial($review['creator']['name'])) ?></abbr>
 																</span>
 															<?php endif; ?>
 														</summary>
