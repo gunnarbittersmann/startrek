@@ -563,6 +563,21 @@
 					},
 					"abstract": {
 						"en": "While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship’s systems and takes the crew to explore his planet, Megas-Tu."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Gods and Monsters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-03-20",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_rp2RGkFaPA"
+						}
 					}
 				},
 				{
