@@ -1795,6 +1795,21 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Trek, Actually",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#SteveShives",
+					"name": "Steve Shives"
+				},
+				"datePublished": "2025-03-19",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/voe1_-rdVmQ"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
