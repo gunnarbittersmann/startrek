@@ -5014,6 +5014,21 @@
 					"abstract": {
 						"en": "A famous Bajoran poet, Akorem Laan, who disappeared over 200 years ago, appears from the wormhole and convinces Sisko that he is the true Emissary, but when he announces a return to the pre-occupation caste system, Sisko points out it would disqualify Bajor for membership in The Federation. O’Brien is less than enthusiastic when Keiko announces she’s expecting.",
 						"de": "Ein aus dem Wurmloch erschienener alter Bajoraner behauptet, der Abgesandte zu sein, jedoch kann sich Sisko nach einem Kontakt zu den Propheten von seiner Rolle, der wahre Abgesandte zu sein, überzeugen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Gods and Monsters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-04-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/II7XZPmwvE0"
+						}
 					}
 				},
 				{
