@@ -1688,21 +1688,38 @@
 					"description": {
 						"de": "Nachdem Picards alter Freund, Captain Keel, ihn vor einer Verschwörung in der Sternenflotte warnt und kurz darauf durch die Implosion seines Raumschiffs ums Leben kommt, findet Data heraus, dass das Sternenflottenkommando nach einem geheimen Muster eine Reihe mysteriöser Personalentscheidungen gefällt hat, durch die die Föderation bedroht wird. Auf der Erde angelangt und von Admirälen zum Essen eingeladen, stellen Picard und Riker alsbald fest, dass die Vorgänge durch eine parasitäre Lebensform kontrolliert wurden, die sich in den Körpern der Admiräle eingenistet hat."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Trek, Actually",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-03-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/JtvszistwD8"
+							}
 						},
-						"datePublished": "2023-03-29",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/JtvszistwD8"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Starfleet Gone Bad",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-04-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KhIp9ego774"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
