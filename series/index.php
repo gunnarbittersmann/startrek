@@ -457,6 +457,9 @@ EOT;
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 														>
 														</iframe>
+														<?php if ($episode['review']['name']): ?>
+															<p><?= htmlSpecialChars($episode['review']['name']) ?></p>
+														<?php endif; ?>
 													</details>
 												</td>
 											<?php else: ?>
@@ -506,6 +509,9 @@ EOT;
 																		aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																	>
 																	</iframe>
+																	<?php if ($review['name']): ?>
+																		<p><?= htmlSpecialChars($review['name']) ?></p>
+																	<?php endif; ?>
 																</details>
 															</li>
 														<?php endforeach; ?>
@@ -572,6 +578,9 @@ EOT;
 														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 													>
 													</iframe>
+													<?php if ($season['review']['name']): ?>
+														<p><?= htmlSpecialChars($season['review']['name']) ?></p>
+													<?php endif; ?>
 												</details>
 											</td>
 										<?php else: ?>
@@ -632,6 +641,9 @@ EOT;
 																	aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 																>
 																</iframe>
+																<?php if ($review['name']): ?>
+																	<p><?= htmlSpecialChars($review['name']) ?></p>
+																<?php endif; ?>
 															</details>
 														</li>
 													<?php endforeach; ?>
@@ -677,6 +689,9 @@ EOT;
 												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 											>
 											</iframe>
+											<?php if ($data['review']['name']): ?>
+												<p><?= htmlSpecialChars($data['review']['name']) ?></p>
+											<?php endif; ?>
 										</details>
 									</td>
 								<?php else: ?>
@@ -715,6 +730,9 @@ EOT;
 															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 														>
 														</iframe>
+														<?php if ($review['name']): ?>
+															<p><?= htmlSpecialChars($review['name']) ?></p>
+														<?php endif; ?>
 													</details>
 												</li>
 											<?php endforeach; ?>
