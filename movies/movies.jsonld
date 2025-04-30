@@ -924,6 +924,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-04-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xN3fXU5jQl4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
