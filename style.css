@@ -222,6 +222,10 @@ td:empty {
 	width: 2em;
 }
 
+tr:last-of-type [property="episodeNumber"] {
+	padding-right: 0;
+}
+
 td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
