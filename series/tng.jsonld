@@ -5519,6 +5519,21 @@
 					},
 					"description": {
 						"de": "Das Föderationsraumschiff USS Phoenix unter dem Kommando von Chief O’Briens ehemaligem Vorgesetzten Captain Maxwell befindet sich offensichtlich auf einem Feldzug zur Vernichtung cardassianischer Raumschiffe. Weil dies den jungen Frieden zwischen cardassianischem Imperium und Föderation gefährdet, versucht Picard mit der Enterprise, Maxwell zu stoppen. Dabei wird er vom Cardassianer Gul Macet begleitet und überwacht. Zusammen erleben sie, wie die Langstreckensensoren die Vernichtung zweier weiterer cardassianischer Raumschiffe durch die Phoenix vermelden. Nachdem die Enterprise bei der Phoenix angekommen ist, teilt Maxwell gegenüber Picard mit, dass er Beweise für Aufrüstungsbemühungen der Cardassianer hätte. Von Maxwells Vorhaben, aus diesem Grund ein weiteres cardassianisches Schiff zu zerstören, kann ihn Picard nicht abbringen, wohl aber Chief O’Brien in einem persönlichen Gespräch. Picard teilt Macet schließlich mit, dass Maxwells Verdacht nicht aus der Luft gegriffen war."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-01",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MxtGzRj3eLk"
+						}
 					}
 				},
 				{
