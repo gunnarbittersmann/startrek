@@ -105,8 +105,8 @@
 										</td>
 									<?php else: ?>
 										<td></td>
-									<?php endif; ?>
-								<?php endif; ?>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 								<?php if (IS_DIRECTOR_VISIBLE): ?>
 									<?php if ($movie['director']): ?>
 										<?php if ($movie['director']['name']): ?>
