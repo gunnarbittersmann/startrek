@@ -1,8 +1,9 @@
 <?php
 	const PREFERRED_LANG = 'de';
+	const IS_WORKTRANSLATION_NAME_VISIBLE = TRUE;
+	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 	const IS_DIRECTOR_VISIBLE = FALSE;
 	const IS_AUTHOR_VISIBLE = FALSE;
-	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
@@ -69,25 +70,27 @@
 								>
 									<?= htmlSpecialChars($movie['name']['@value'] ?? $movie['name']) ?>
 								</td>
-								<?php if ($translation): ?>
-									<td
-										property="workTranslation"
-										typeof="<?= htmlSpecialChars($translation['@type']) ?>"
-										lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
-										resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-										id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-									>
-										<span property="name"
-											<?php if (is_array($translation['name'])): ?>
-												lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
-											<?php endif; ?>
+								<?php if (IS_WORKTRANSLATION_NAME_VISIBLE): ?>
+									<?php if ($translation): ?>
+										<td
+											property="workTranslation"
+											typeof="<?= htmlSpecialChars($translation['@type']) ?>"
+											lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
+											resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+											id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
 										>
-											<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
-										</span>
-									</td>
-								<?php else: ?>
-									<td></td>
-								<?php endif; ?>
+											<span property="name"
+												<?php if (is_array($translation['name'])): ?>
+													lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
+												<?php endif; ?>
+											>
+												<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
+											</span>
+										</td>
+									<?php else: ?>
+										<td></td>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_NAME_VISIBLE) ?>
 								<td>
 									<time property="datePublished"><?= htmlSpecialChars($movie['datePublished']) ?></time>
 								</td>
@@ -102,8 +105,8 @@
 										</td>
 									<?php else: ?>
 										<td></td>
-									<?php endif; ?>
-								<?php endif; ?>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 								<?php if (IS_DIRECTOR_VISIBLE): ?>
 									<?php if ($movie['director']): ?>
 										<?php if ($movie['director']['name']): ?>
