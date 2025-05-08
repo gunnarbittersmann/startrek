@@ -201,8 +201,8 @@ EOT;
 												</td>
 											<?php else: ?>
 												<td></td>
-											<?php endif; ?>
-										<?php endif; ?>
+											<?php endif; // ($translation) ?>
+										<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 										<?php if (IS_DIRECTOR_VISIBLE): ?>
 											<?php if ($episode['director']): ?>
 												<?php if ($episode['director']['name']): ?>
