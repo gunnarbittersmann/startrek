@@ -7457,6 +7457,21 @@
 					"abstract": {
 						"en": "Dr Bashir is busy wrapping up unfinished tasks prior to departing DS9 to attend a medical conference. Just prior to his departure, an Internal Affairs unit under the command of an individual named Sloan, arrive and announce they will be interviewing all the senior staff. Things take a worrying turn for the good doctor when he realises that he is the subject of the investigation and Sloan accuses him of spying for the Dominion.",
 						"de": "Nachdem Bashir verdächtigt wird, ein Spion des Dominion zu sein, erkennt er, dass er durch den Sternenflottengeheimdienst Sektion 31 nur getäuscht wurde, um seine Eignung als Agent der Sektion zu testen und ihn für diese anzuwerben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/uNuB2116Zjw"
+						}
 					}
 				},
 				{
