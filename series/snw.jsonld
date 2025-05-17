@@ -1850,7 +1850,6 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/snw#3",
 			"seasonNumber": 3,
-			"numberOfEpisodes": 10,
 			"subjectOf": {
 				"@type": "Webpage",
 				"inLanguage": "en",
@@ -1860,7 +1859,223 @@
 					"name": "Wikipedia"
 				},
 				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3"
-			}
+			},
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.1",
+					"episodeNumber": "3.1",
+					"datePublished": "2025-07-17",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+						"name": "Davy Perez"
+					},
+					"contibutor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.2",
+					"episodeNumber": "3.2",
+					"datePublished": "2025-07-17",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+							"name": "Kirsten Beyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
+					"episodeNumber": "3.3",
+					"datePublished": "2025-07-24",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.4",
+					"episodeNumber": "3.4",
+					"datePublished": "2025-07-31",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"name": "Jonathan Frakes"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
+					"episodeNumber": "3.5",
+					"datePublished": "2025-08-07",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
+					"episodeNumber": "3.6",
+					"datePublished": "2025-08-14",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.7",
+					"episodeNumber": "3.7",
+					"datePublished": "2025-08-21",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
+						"name": "Sharon Lewis"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.8",
+					"episodeNumber": "3.8",
+					"datePublished": "2025-08-28",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.9",
+					"episodeNumber": "3.9",
+					"datePublished": "2025-09-04",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
+						"name": "Andrew Coutts"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.10",
+					"episodeNumber": "3.10",
+					"datePublished": "2025-09-11",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"name": "Maja Vrvilo"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
+				}
+			]
 		}
 	]
 }
