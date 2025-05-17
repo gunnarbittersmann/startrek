@@ -1866,6 +1866,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.1",
 					"episodeNumber": "3.1",
+					"datePublished": "2025-07-17",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -1893,6 +1894,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.2",
 					"episodeNumber": "3.2",
+					"datePublished": "2025-07-17",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -1915,6 +1917,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
 					"episodeNumber": "3.3",
+					"datePublished": "2025-07-24",
 					"author": [
 						{
 							"@type": "Person",
@@ -1932,6 +1935,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.4",
 					"episodeNumber": "3.4",
+					"datePublished": "2025-07-31",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -1954,6 +1958,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
 					"episodeNumber": "3.5",
+					"datePublished": "2025-08-07",
 					"author": [
 						{
 							"@type": "Person",
@@ -1971,6 +1976,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
 					"episodeNumber": "3.6",
+					"datePublished": "2025-08-14",
 					"author": [
 						{
 							"@type": "Person",
@@ -1988,6 +1994,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.7",
 					"episodeNumber": "3.7",
+					"datePublished": "2025-08-21",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
@@ -2010,6 +2017,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.8",
 					"episodeNumber": "3.8",
+					"datePublished": "2025-08-28",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -2032,6 +2040,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.9",
 					"episodeNumber": "3.9",
+					"datePublished": "2025-09-04",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
@@ -2047,6 +2056,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.10",
 					"episodeNumber": "3.10",
+					"datePublished": "2025-09-11",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
