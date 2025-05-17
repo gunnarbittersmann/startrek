@@ -14,6 +14,30 @@
 	"name": "Star Trek: Prodigy",
 	"identifier": "PRO",
 	"inLanguage": "en",
+	"creator": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+			"name": "Kevin Hageman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DanHageman",
+			"name": "Dan Hageman"
+		}
+	],
+	"maintainer": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+			"name": "Kevin Hageman"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#DanHageman",
+			"name": "Dan Hageman"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -36,9 +60,11 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy"
 		}
 	],
+	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/pro#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -62,18 +88,36 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#JessieGender",
-					"name": "Jessie Gender"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
+					}
 				},
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/hcxCHSTUW8Y"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2023-01-04",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/hGj0SBjhbBg"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 20,
 			"episode": [
 				{
@@ -87,6 +131,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -100,6 +156,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -113,6 +170,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -125,6 +183,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -138,6 +197,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -162,6 +222,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+						"name": "Chad Quandt"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -174,6 +239,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -187,6 +253,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -217,6 +284,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+						"name": "Lisa Schultz Boyd"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -232,6 +304,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -245,6 +318,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -257,6 +331,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -292,6 +367,18 @@
 							"name": "Olga Ulanova"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -307,6 +394,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -320,6 +408,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -343,6 +432,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AlanWan",
 						"name": "Alan Wan"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -358,6 +452,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -370,6 +465,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -405,6 +501,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -420,6 +521,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -432,6 +534,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -463,6 +566,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+						"name": "Nikhil S. Jayaram"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -478,6 +586,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -490,6 +599,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -514,10 +624,57 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Rückkehr nach Tars Lamora, Teil I",
+						"name": "Rückkehr nach Tars Lamora, Teil 1",
 						"datePublished": "2022-04-28"
 					},
 					"abstract": {
@@ -528,6 +685,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -550,10 +708,57 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Rückkehr nach Tars Lamora, Teil II",
+						"name": "Rückkehr nach Tars Lamora, Teil 2",
 						"datePublished": "2022-04-29"
 					},
 					"abstract": {
@@ -565,6 +770,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -585,6 +791,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -597,6 +804,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -632,6 +840,18 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -647,6 +867,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -660,6 +881,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -672,6 +894,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -703,6 +926,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -718,6 +946,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -731,6 +960,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -743,6 +973,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -767,6 +998,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew L. Schmidt"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -782,6 +1018,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -795,6 +1032,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -807,6 +1045,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -838,6 +1077,11 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+						"name": "Lisa Schultz Boyd"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -852,6 +1096,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -865,6 +1110,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -877,6 +1123,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -901,6 +1148,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+						"name": "Nikhil S. Jayaram"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -914,6 +1166,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -927,6 +1180,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -939,6 +1193,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -970,6 +1225,53 @@
 							"name": "Sung Shin"
 						}
 					],
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NikhilSJayaram",
+							"name": "Nikhil S. Jayaram"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+							"name": "Chad Quandt"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LisaSchultzBoyd",
+							"name": "Lisa Schultz Boyd"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -984,6 +1286,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -997,6 +1300,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1009,6 +1313,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -1033,6 +1338,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChadQuandt",
+						"name": "Chad Quandt"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1047,6 +1357,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1060,6 +1371,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1072,6 +1384,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -1096,6 +1409,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JulieBenson",
+							"name": "Julie Benson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShawnaBenson",
+							"name": "Shawna Benson"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1109,6 +1434,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1122,6 +1448,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1134,6 +1461,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -1158,6 +1486,11 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewLSchmidt",
 						"name": "Andrew Schmidt"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1171,6 +1504,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1184,6 +1518,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1196,6 +1531,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -1220,6 +1556,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1233,6 +1581,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1246,6 +1595,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1258,6 +1608,21 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_gSw_oYp6cE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Cadet Alice & Dr. Trek",
 							"creator": {
 								"@type": "Person",
@@ -1275,6 +1640,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/pro#2",
 			"seasonNumber": 2,
 			"subjectOf": {
 				"@type": "Webpage",
@@ -1289,11 +1655,14 @@
 			"review": [
 				{
 					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2024-07-02",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/z08zO28bO-c"
@@ -1301,11 +1670,14 @@
 				},
 				{
 					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SteveShives",
 						"name": "Steve Shives"
 					},
+					"datePublished": "2024-10-07",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3X3g6lURfpQ"
@@ -1325,6 +1697,18 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1350,6 +1734,11 @@
 							"name": "Patrick Krebs"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1370,6 +1759,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1392,6 +1786,11 @@
 						"@id": "https://bittersmann.de/startrek/people#BenHibon",
 						"name": "Ben Hibon"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1403,6 +1802,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Second Opinion with Dr. Trek",
 						"creator": {
 							"@type": "Person",
@@ -1439,6 +1839,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1451,6 +1856,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1471,6 +1877,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1501,6 +1908,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1529,6 +1941,11 @@
 							"name": "Sean Bishop"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1557,6 +1974,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1568,6 +1990,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Second Opinion with Dr. Trek",
 						"creator": {
 							"@type": "Person",
@@ -1597,6 +2020,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1618,6 +2046,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+						"name": "Aaron J. Waltke"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1630,6 +2063,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1650,6 +2084,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -1687,6 +2122,11 @@
 							"name": "Andrew L. Schmidt"
 						}
 					],
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1708,6 +2148,18 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlexHanson",
+							"name": "Alex Hanson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1728,6 +2180,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+						"name": "Keith Sweet II"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1750,6 +2207,11 @@
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+						"name": "Erin McNamara"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1771,6 +2233,33 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErinMcNamara",
+							"name": "Erin McNamara"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+							"name": "Jennifer Muro"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+							"name": "Diandra Pendleton-Thompson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KeithSweetII",
+							"name": "Keith Sweet II"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1782,6 +2271,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Ups & Downs",
 						"creator": {
 							"@type": "Organization",
@@ -1812,6 +2302,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexHanson",
+						"name": "Alex Hanson"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1832,6 +2327,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DiandraPendletonThompson",
+						"name": "Diandra Pendleton-Thompson"
 					},
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1854,6 +2354,11 @@
 						"@id": "https://bittersmann.de/startrek/people#SungShin",
 						"name": "Sung Shin"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JenniferMuro",
+						"name": "Jennifer Muro"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1875,6 +2380,23 @@
 						"@id": "https://bittersmann.de/startrek/people#SeanBishop",
 						"name": "Sean Bishop"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1896,6 +2418,23 @@
 						"@id": "https://bittersmann.de/startrek/people#RuolinLi",
 						"name": "Ruolin Li"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KevinHageman",
+							"name": "Kevin Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanHageman",
+							"name": "Dan Hageman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AaronJWaltke",
+							"name": "Aaron J. Waltke"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -1908,6 +2447,7 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Ups & Downs",
 							"creator": {
 								"@type": "Organization",
@@ -1928,6 +2468,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",

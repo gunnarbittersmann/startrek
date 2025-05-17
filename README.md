@@ -2,7 +2,7 @@
 
 - data about all episodes of all series of the *Star Trek* franchise in JSON-LD format, Schema.org vocabulary
 - conversion to HTML keeping Schema.org semantics as RDFa
-- on the web: <https://bittersmann.de/startrek/series>
+- on the web: <https://bittersmann.de/startrek/>
 
 Review playlists:
 
@@ -12,3 +12,8 @@ Review playlists:
 - [Star Trek Retro Reviews (Steve Shives)](https://www.youtube.com/playlist?list=PL0-LSnSBNIncf0tkpjOHAorxjsAhLYSW3)
 - [Star Trek Movie Reviews (Steve Shives)](https://www.youtube.com/playlist?list=PLB8P2CLMCbNH-EW7UPMFJN7rG5nQcEUIP)
 - [Second Opinion with Dr. Trek (Larry Nemecek)](https://www.youtube.com/playlist?list=PL3BUa5EzsGhZ-znmUEI4El7OB0heSy5oj)
+- [Star Trek (Nerdzika)](https://www.youtube.com/playlist?list=PLai-cuOYqaxXUAUhOiz8n9yWdFCzdCzt3)
+
+Timelines
+
+- [Trek on the Tube on X](https://x.com/search?q=from%3Atrekonthetube%20Timelines&f=live)

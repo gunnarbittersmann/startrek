@@ -1,7 +1,9 @@
 <?php
 	const PREFERRED_LANG = 'de';
-	const IS_DIRECTOR_VISIBLE = TRUE;
-	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = TRUE;
+	const IS_WORKTRANSLATION_NAME_VISIBLE = TRUE;
+	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
+	const IS_DIRECTOR_VISIBLE = FALSE;
+	const IS_AUTHOR_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
@@ -68,25 +70,27 @@
 								>
 									<?= htmlSpecialChars($movie['name']['@value'] ?? $movie['name']) ?>
 								</td>
-								<?php if ($translation): ?>
-									<td
-										property="workTranslation"
-										typeof="<?= htmlSpecialChars($translation['@type']) ?>"
-										lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
-										resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-										id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-									>
-										<span property="name"
-											<?php if (is_array($translation['name'])): ?>
-												lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
-											<?php endif; ?>
+								<?php if (IS_WORKTRANSLATION_NAME_VISIBLE): ?>
+									<?php if ($translation): ?>
+										<td
+											property="workTranslation"
+											typeof="<?= htmlSpecialChars($translation['@type']) ?>"
+											lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
+											resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+											id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
 										>
-											<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
-										</span>
-									</td>
-								<?php else: ?>
-									<td></td>
-								<?php endif; ?>
+											<span property="name"
+												<?php if (is_array($translation['name'])): ?>
+													lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
+												<?php endif; ?>
+											>
+												<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
+											</span>
+										</td>
+									<?php else: ?>
+										<td></td>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_NAME_VISIBLE) ?>
 								<td>
 									<time property="datePublished"><?= htmlSpecialChars($movie['datePublished']) ?></time>
 								</td>
@@ -101,8 +105,8 @@
 										</td>
 									<?php else: ?>
 										<td></td>
-									<?php endif; ?>
-								<?php endif; ?>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 								<?php if (IS_DIRECTOR_VISIBLE): ?>
 									<?php if ($movie['director']): ?>
 										<?php if ($movie['director']['name']): ?>
@@ -130,33 +134,163 @@
 										<?php endif; ?>
 									<?php endif; ?>
 								<?php endif; ?>
-								<?php if ($movie['description'] || $movie['abstract']): ?>
+								<?php if (IS_AUTHOR_VISIBLE): ?>
+									<?php if ($movie['author']): ?>
+										<td>
+											<dl>
+												<?php if ($movie['contributor']): ?>
+													<div>
+														<dt>story by</dt>
+														<?php if ($movie['contributor']['name']): ?>
+															<dd
+																property="contributor"
+																typeof="<?= htmlSpecialChars($movie['contributor']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
+															>
+																<span property="name"><?= htmlSpecialChars($movie['contributor']['name']) ?></span>
+															</dd>
+														<?php else: ?>
+															<dd>
+																<ul>
+																	<?php foreach ($movie['contributor'] as $contributor): ?>
+																		<li
+																			property="contributor"
+																			typeof="<?= htmlSpecialChars($contributor['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($contributor['@id']) ?>"
+																		>
+																			<span property="name"><?= htmlSpecialChars($contributor['name']) ?></span>
+																		</li>
+																	<?php endforeach; ?>
+																</ul>
+															</dd>
+														<?php endif; // ($movie['contributor']['name']) ?>
+													</div>
+												<?php endif; // ($movie['contributor'])?>
+												<div>
+													<dt>
+														<?php if ($movie['contributor']): ?>
+															screenplay by
+														<?php else: ?>
+															<span class="visually-hidden">written by</span>
+														<?php endif; ?>
+													</dt>
+													<?php if ($movie['author']['name']): ?>
+														<dd
+															property="author"
+															typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
+															resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
+														>
+															<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
+														</dd>
+													<?php else: ?>
+														<dd>
+															<ul>
+																<?php foreach ($movie['author'] as $author): ?>
+																	<li
+																		property="author"
+																		typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																	>
+																		<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																	</li>
+																<?php endforeach; ?>
+															</ul>
+														</dd>
+													<?php endif; // ($movie['author']['name']) ?>
+												</div>
+												<?php if ($movie['isBasedOn'] && $movie['isBasedOn']['author']): ?>
+													<div property="isBasedOn" typeof="<?= htmlSpecialChars($movie['isBasedOn']['@type']) ?>">
+														<dt>based on material by</dt>
+														<?php if ($movie['isBasedOn']['author']['name']): ?>
+															<dd
+																property="author"
+																typeof="<?= htmlSpecialChars($movie['isBasedOn']['author']['@type']) ?>"
+																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
+															>
+																<span property="name"><?= htmlSpecialChars($movie['isBasedOn']['author']['name']) ?></span>
+															</dd>
+														<?php else: ?>
+															<dd>
+																<ul>
+																	<?php foreach ($movie['isBasedOn']['author'] as $author): ?>
+																		<li
+																			property="author"
+																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
+																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																		>
+																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
+																		</li>
+																	<?php endforeach; ?>
+																</ul>
+															</dd>
+														<?php endif; // ($movie['isBasedOn']['author']['name']): ?>
+													</div>
+												<?php endif; // ($movie['isBasedOn'] && $movie['isBasedOn']['author']) ?>
+											</dl>
+										</td>
+									<?php else: ?>
+										<td></td>
+									<?php endif; // ($movie['author']) ?>
+								<?php endif; // (IS_AUTHOR_VISIBLE) ?>
+								<?php if ($movie['description'] || $movie['abstract'] || $movie['subjectOf']): ?>
 									<?php
-										$plotType = ($movie['description']) ? 'description' : 'abstract';
-										$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+										$hasPlot = ($movie['description'] || $movie['abstract']);
+										if ($hasPlot) {
+											$plotType = ($movie['description']) ? 'description' : 'abstract';
+											$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+										}
 									?>
 									<td>
 										<details lang="<?= htmlSpecialChars($plotLang) ?>">
 											<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>">
-												<?php if ($plotLang == 'de'): ?>
-													Handlung
+												<?php if ($hasPlot): ?>
+													<?php if ($plotLang == 'de'): ?>
+														Handlung
+													<?php else: ?>
+														Plot
+													<?php endif; ?>
 												<?php else: ?>
-													Plot
+													Links
 												<?php endif; ?>
 											</summary>
-											<p property="<?= htmlSpecialChars($plotType) ?>">
-												<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
-											</p>
-											<?php if ($movie['sameAs']): ?>
+											<?php if ($hasPlot): ?>
+												<p property="<?= htmlSpecialChars($plotType) ?>">
+													<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
+												</p>
+											<?php endif; ?>
+											<?php if ($movie['subjectOf']): ?>
 												<p>
 													<?php if ($plotLang == 'de'): ?>
-														mehr in der
+														siehe auch:
 													<?php else: ?>
-														see also
+														see also:
 													<?php endif; ?>
-													<a property="sameAs" href="<?= htmlSpecialChars($movie['sameAs']) ?>">
-														Wikipedia
-													</a>
+													<?php if ($movie['subjectOf']['url']): ?>
+														<span property="subjectOf" typeof="Webpage">
+															<a
+																property="url"
+																href="<?= htmlSpecialChars($movie['subjectOf']['url']) ?>"
+															>
+																<?= htmlSpecialChars($movie['subjectOf']['publisher']['name']) ?>
+																(<?= htmlSpecialChars($movie['subjectOf']['inLanguage']) ?>)
+															</a>
+														</span>
+													<?php else: ?>
+														<?php foreach ($movie['subjectOf'] as $index => $source): ?>
+															<?php if ($index): ?>
+																&amp;
+															<?php endif; ?>
+															<span property="subjectOf" typeof="Webpage">
+																<a
+																	property="url"
+																	href="<?= htmlSpecialChars($source['url']) ?>"
+																>
+																	<?= htmlSpecialChars($source['publisher']['name']) ?>
+																	(<?= htmlSpecialChars($source['inLanguage']) ?>)
+																</a>
+															</span>
+														<?php endforeach; ?>
+													<?php endif; ?>
 												</p>
 											<?php endif; ?>
 										</details>
@@ -167,13 +301,21 @@
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
-											<details lang="en" property="video" typeof="VideoObject">
-												<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
+												<summary
+													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
+													<?php if ($movie['review']['name']): ?>
+														title="<?= htmlSpecialChars($movie['review']['name']) ?>"
+													<?php endif; ?>
+												>
 													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
 														<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
 															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
 															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
 														</span>
+													<?php endif; ?>
+													<?php if ($movie['review']['inLanguage'] && $movie['review']['inLanguage'] != 'en'): ?>
+														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
 												<meta
@@ -192,13 +334,26 @@
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
 													<li property="review" typeof="Review">
-														<details lang="en" property="video" typeof="VideoObject" name="review-<?= htmlSpecialChars($movie['@identifier']) ?>">
-															<summary aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+														<details
+															lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
+															property="video"
+															typeof="VideoObject"
+															name="review-<?= htmlSpecialChars($movie['@identifier']) ?>"
+														>
+															<summary
+																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
+																<?php if ($review['name']): ?>
+																	title="<?= htmlSpecialChars($review['name']) ?>"
+																<?php endif; ?>
+															>
 																<?php if ($review['creator'] && $review['creator']['name']): ?>
 																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
 																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
 																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
 																	</span>
+																<?php endif; ?>
+																<?php if ($review['inLanguage'] != 'en'): ?>
+																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
 															<meta
