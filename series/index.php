@@ -205,7 +205,7 @@ EOT;
 										<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 										<?php if (IS_DIRECTOR_VISIBLE): ?>
 											<?php if ($episode['director']): ?>
-												<?php if ($episode['director']['name']): ?>
+												<?php if (IS_DIRECTOR_VISIBLE): ?>
 													<td
 														property="director"
 														typeof="<?= htmlSpecialChars($episode['director']['@type']) ?>"
@@ -227,9 +227,11 @@ EOT;
 															<?php endforeach; ?>
 														</ul>
 													</td>
-												<?php endif; ?>
-											<?php endif; ?>
-										<?php endif; ?>
+												<?php endif; // ($episode['director']['name']) ?>
+											<?php else: ?>
+												<td></td>
+											<?php endif; // ($episode['director']) ?>
+										<?php endif; // (IS_DIRECTOR_VISIBLE) ?>
 										<?php if (IS_AUTHOR_VISIBLE): ?>
 											<?php if ($episode['author']): ?>
 												<td>
