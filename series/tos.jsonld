@@ -2558,6 +2558,21 @@
 					"description": {
 						"en": "Strange radiation exposes the command crew of the Enterprise to the effects of rapid aging. A landing party of Chekov, Kirk, Spock, Bones, Scotty, and Lieutenant Galway divide into small teams to find the planet Gamma Hydra Four’s colonists. Chekov enters a building and is shocked to see a dead man and calls others. The landing party meets two other people who are old in appearance but young in age. Bones concludes the analysis and says the two other people have only a few days to live because their bodily functions are aging about 30 years a day. The same thing begins to happen to the landing party upon getting back to the Enterprise. Scotty, Bones, Spock, Kirk and Galway start to get old, but Chekov does not. The aging inhibits the decision-making abilities of Captain Kirk and Spock. A Commodore Stocker who is a passenger aboard the Enterprise takes command of the ship. He makes a bad decision taking the Enterprise into the Neutral Zone and into a deadly attack by the Romulans. From an idea Bones has about why Chekov was immune, Spock and Dr. Janet Wallace (who is also a passenger aboard) devise a vaccine containing adrenaline that Kirk readily tests. It works and Kirk immediately resumes command of the Enterprise and tricks the Romulans, saving the Enterprise.",
 						"de": "Ein Außenteam der Enterprise findet die Bewohner einer Forschungsstation auf dem Planeten Gamma Hydra IV rapide gealtert vor. Der eine Teil der Personen ist schon an Altersschwäche gestorben, der andere Teil stirbt wenig später ebenfalls daran. Alsbald beginnen auch die Mitglieder des Außenteams rapide zu altern und drohen deshalb in wenigen Tagen zu sterben. Chekov bleibt merkwürdigerweise davon verschont, Spock altert langsamer. Spock ermittelt als Ursache die von einem Kometen ausgehende Strahlung als Ursache für die Krankheit. Commodore Stocker lässt Spock angesichts der wegen zunehmender Senilität eingeschränkten Führungskraft Kirks Dienstbefähigung prüfen. Kirk weigert sich trotz seiner zunehmenden Vergreisung einzugestehen, dass er dienstunfähig ist. Die Anhörung ergibt, dass Stocker das Kommando von Kirk übernimmt. Daraufhin lässt Stocker die Enterprise zu einer Raumstation Kurs setzen und dabei fahrlässig durch die Neutrale Zone fliegen, in der Gefahr durch die Romulaner droht. Basierend auf Chekovs Verhalten auf dem Planeten erkennen Spock, Kirk und McCoy, dass Adrenalin wirksam gegen die Verstrahlung und somit gegen die Vergreisungserkrankung ist. Diese wird daraufhin bei den noch nicht gestorbenen Erkrankten geheilt. Kirk kann somit das Kommando wieder übernehmen und mit einer gewagten List die von den Romulanern ausgehende Gefahr bannen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/d_1YHVfLbMo"
+						}
 					}
 				},
 				{
