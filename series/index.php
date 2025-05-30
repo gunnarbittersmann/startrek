@@ -457,6 +457,9 @@ EOT;
 															<meta
 																property="datePublished"
 																content="<?= htmlSpecialChars($episode['review']['datePublished']) ?>"
+																<?php if ($episode['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
 															/>
 														<?php endif; ?>
 														<meta
