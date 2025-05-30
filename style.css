@@ -24,6 +24,8 @@ html {
 	--link-color: var(--text-color);
 	--disabled-color: gray;
 	--rule-color: silver;
+	--new-marker-text-color: var(--text-color);
+	--new-marker-background-color: hsl(10deg 90% 50%);
 	--table-margin: 2em;
 	scroll-padding-top: var(--header-height);
 	overflow: auto;
@@ -37,6 +39,7 @@ html {
 		--text-color: white;
 		--disabled-color: darkgray;
 		--rule-color: gray;
+		--new-marker-background-color: hsl(10deg 100% 40%);
 	}
 }
 
@@ -249,7 +252,7 @@ details p {
 }
 
 details p:not([property]):only-of-type {
-    text-align: end;
+		text-align: end;
 }
 
 dl {
@@ -349,7 +352,7 @@ li:nth-last-of-type(2) > span::after {
 }
 
 abbr[title] {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 img {
@@ -361,6 +364,12 @@ img {
 summary {
 	width: fit-content;
 	white-space: nowrap;
+}
+
+details:has(.new) summary {
+	color: var(--new-marker-text-color);
+	background: var(--new-marker-background-color);
+	outline: 0.4em solid var(--new-marker-background-color);
 }
 
 .review-range,
@@ -390,7 +399,7 @@ body:has(> .players) {
 }
 
 figure {
-  margin: 0;
+	margin: 0;
 }
 
 .players {
