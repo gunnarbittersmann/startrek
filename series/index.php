@@ -511,6 +511,15 @@ EOT;
 																			<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																		<?php endif; ?>
 																	</summary>
+																	<?php if ($review['datePublished']): ?>
+																		<meta
+																			property="datePublished"
+																			content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																				class="new"
+																			<?php endif; ?>
+																		/>
+																	<?php endif; ?>
 																	<meta
 																		property="embedUrl"
 																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -577,6 +586,15 @@ EOT;
 															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
 														<?php endif; ?>
 													</summary>
+													<?php if ($season['review']['datePublished']): ?>
+														<meta
+															property="datePublished"
+															content="<?= htmlSpecialChars($season['review']['datePublished']) ?>"
+															<?php if ($season['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																class="new"
+															<?php endif; ?>
+														/>
+													<?php endif; ?>
 													<meta
 														property="embedUrl"
 														content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
@@ -637,6 +655,15 @@ EOT;
 																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																	<?php endif; ?>
 																</summary>
+																<?php if ($review['datePublished']): ?>
+																	<meta
+																		property="datePublished"
+																		content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																		<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																			class="new"
+																		<?php endif; ?>
+																	/>
+																<?php endif; ?>
 																<meta
 																	property="embedUrl"
 																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -682,6 +709,15 @@ EOT;
 													</span>
 												<?php endif; ?>
 											</summary>
+											<?php if ($data['review']['datePublished']): ?>
+												<meta
+													property="datePublished"
+													content="<?= htmlSpecialChars($data['review']['datePublished']) ?>"
+													<?php if ($data['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+														class="new"
+													<?php endif; ?>
+												/>
+											<?php endif; ?>
 											<meta
 												property="embedUrl"
 												content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
@@ -720,6 +756,15 @@ EOT;
 																</span>
 															<?php endif; ?>
 														</summary>
+														<?php if ($review['datePublished']): ?>
+															<meta
+																property="datePublished"
+																content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															/>
+														<?php endif; ?>
 														<meta
 															property="embedUrl"
 															content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
