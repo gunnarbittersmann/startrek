@@ -453,6 +453,12 @@ EOT;
 																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
 															<?php endif; ?>
 														</summary>
+														<?php if ($episode['review']['datePublished']): ?>
+															<meta
+																property="datePublished"
+																content="<?= htmlSpecialChars($episode['review']['datePublished']) ?>"
+															/>
+														<?php endif; ?>
 														<meta
 															property="embedUrl"
 															content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
