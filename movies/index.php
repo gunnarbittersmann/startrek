@@ -8,7 +8,7 @@
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2022-10-12T13:13Z';
+	const STYLESHEET = '../style.css?date=2025-05-30T13:24Z';
 	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('movies.jsonld');
@@ -318,6 +318,15 @@
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
+												<?php if ($movie['review']['datePublished']): ?>
+													<meta
+														property="datePublished"
+														content="<?= htmlSpecialChars($movie['review']['datePublished']) ?>"
+														<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+															class="new"
+														<?php endif; ?>
+													/>
+												<?php endif; ?>
 												<meta
 													property="embedUrl"
 													content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
@@ -356,6 +365,15 @@
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
+															<?php if ($review['datePublished']): ?>
+																<meta
+																	property="datePublished"
+																	content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																	<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																		class="new"
+																	<?php endif; ?>
+																/>
+															<?php endif; ?>
 															<meta
 																property="embedUrl"
 																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
