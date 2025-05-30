@@ -29,7 +29,7 @@ for (let videoDetailsElement of document.querySelectorAll('details[property="vid
 	videoDetailsElement.addEventListener('toggle', event => {
 		const iframeElement = event.target.querySelector('iframe');
 		if (!iframeElement.src) {
-			iframeElement.src = event.target.querySelector('meta').getAttribute('content');
+			iframeElement.src = event.target.querySelector('meta[property="embedUrl"]').getAttribute('content');
 		}
 	});
 	
