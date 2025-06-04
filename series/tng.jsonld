@@ -6549,6 +6549,20 @@
 					"abstract": {
 						"en": "Picard must learn to communicate with an alien captain who speaks in metaphors before a dangerous beast kills them both.",
 						"de": "Ein Captain einer nur mit Metaphern kommunizierenden Spezies versucht auf einem Planeten, Picard zur Teilnahme an einem gemeinsamen Kampf gegen ein Monster zu bewegen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2025-06-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6i0GNbQYPB0"
+						}
 					}
 				},
 				{
