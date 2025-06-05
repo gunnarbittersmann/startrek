@@ -2259,6 +2259,21 @@
 					},
 					"description": {
 						"de": "Als die Enterprise ein Sternenflottenschiff findet, dessen Besatzung an Altersschwäche gestorben ist, stellt die Crew fest, dass sich auf der Forschungsstation Darwin dasselbe rapide Altern zu ereignen scheint. Als sie nach der Ursache und dem Übertragungsweg für die Infektion sucht, infiziert sich Dr. Pulaski versehentlich ebenfalls und altert zusehends. Einer Idee Picards folgend, schafft es die Crew der Enterprise aber, mit Hilfe von Pulaskis DNS und einem modifizierten Transporterstrahl, Pulaski in den Zustand vor ihrer Erkrankung zu verwandeln."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ItH0hvx6Nc0"
+						}
 					}
 				},
 				{
