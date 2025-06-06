@@ -1866,6 +1866,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.1",
 					"episodeNumber": "3.1",
+					"name": "Hegemony, Part II",
 					"datePublished": "2025-07-17",
 					"director": {
 						"@type": "Person",
@@ -1894,6 +1895,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.2",
 					"episodeNumber": "3.2",
+					"name": "Wedding Bell Blues",
 					"datePublished": "2025-07-17",
 					"director": {
 						"@type": "Person",
@@ -1917,6 +1919,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
 					"episodeNumber": "3.3",
+					"name": "Shuttle to Kenfori",
 					"datePublished": "2025-07-24",
 					"author": [
 						{
@@ -1935,6 +1938,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.4",
 					"episodeNumber": "3.4",
+					"name": "A Space Adventure Hour",
 					"datePublished": "2025-07-31",
 					"director": {
 						"@type": "Person",
@@ -1958,6 +1962,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
 					"episodeNumber": "3.5",
+					"name": "Through the Lens of Time",
 					"datePublished": "2025-08-07",
 					"author": [
 						{
@@ -1976,6 +1981,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
 					"episodeNumber": "3.6",
+					"name": "The Sehlat Who Ate Its Tail",
 					"datePublished": "2025-08-14",
 					"author": [
 						{
@@ -1994,6 +2000,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.7",
 					"episodeNumber": "3.7",
+					"name": "What Is Starfleet?",
 					"datePublished": "2025-08-21",
 					"director": {
 						"@type": "Person",
@@ -2017,6 +2024,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.8",
 					"episodeNumber": "3.8",
+					"name": "Four-and-a-Half Vulcans",
 					"datePublished": "2025-08-28",
 					"director": {
 						"@type": "Person",
@@ -2040,6 +2048,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.9",
 					"episodeNumber": "3.9",
+					"name": "Terrarium",
 					"datePublished": "2025-09-04",
 					"director": {
 						"@type": "Person",
@@ -2056,6 +2065,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#3.10",
 					"episodeNumber": "3.10",
+					"name": "New Life and New Civilizations",
 					"datePublished": "2025-09-11",
 					"director": {
 						"@type": "Person",
