@@ -1975,7 +1975,28 @@
 							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
 							"name": "Davy Perez"
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"datePublished": "2025-06-15",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.3" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.4" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#3.5" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Y29UiyMsYaE"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
