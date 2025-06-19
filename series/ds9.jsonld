@@ -3883,6 +3883,21 @@
 					"abstract": {
 						"en": "Approaching his 30th birthday, Julian Bashir is subjected to a telepathic attack by an alien seeking a restricted substance. He wakes up to find the station almost deserted and that he is aging rapidly.",
 						"de": "Bashir wird von einem Letheaner angegriffen und findet sich auf einer merkwürdig veränderten Station wieder. Er muss versuchen, den Letheaner zu überwältigen, von dem er immer wieder angegriffen wird. Da er aber schnell zu altern beginnt, bleibt ihm nicht viel Zeit und seine Kräfte schwinden. In Wirklichkeit ist Bashir nach dem Angriff aber ins Koma gefallen und ringt mit dem Tod."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Ee48hHWhm6Y"
+						}
 					}
 				},
 				{
