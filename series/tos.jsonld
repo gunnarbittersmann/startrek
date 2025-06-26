@@ -4266,6 +4266,21 @@
 					},
 					"description": {
 						"de": "Die Enterprise ist auf dem Weg, den Planeten Ariannus zu entseuchen. Unterwegs begegnet ihr eine von Raumbasis 4 als gestohlen gemeldete Raumfähre der Föderation. Die Fähre wird an Bord geholt. Aus ihr steigt auf dem Hangardeck ein Humanoid, dessen linke Körperseite schwarz und die rechte weiß ist. Der geschwächte Fremde namens Lokai vom Planeten Cheron wird auf die Krankenstation gebracht und soll sich als Dieb vor dem Raumflottenkommando verantworten. Lokai sagt aus, aus einer Notlage heraus gehandelt zu haben. Es kommt zur Begegnung mit einem weiteren Raumschiff, dessen einziger Passagier sich vor dessen Zerstörung auf die Brücke der Enterprise beamt. Es ist Kommissar Bele vom Planeten Cheron. Er ist genau umgekehrt gefärbt wie Lokai und befindet sich auf der Jagd nach ihm, da dieser ein entflohener Verräter sei. Bele bringt die Enterprise auf den Kurs nach Cheron, um Lokai dorthin zu bringen. Kirk, Spock und Scott starten die Selbstzerstörungs-Sequenz. Bele gibt sich sieben Sekunden vor der Zerstörung geschlagen und Kirk bricht die Sequenz ab. Die Enterprise wird wieder auf Kurs nach Ariannus gebracht. Nach erfolgreichem Abschluss der Dekontamination von Ariannus lässt Kirk direkten Kurs auf die Raumbasis 4 setzen. Bele sabotiert die Selbstzerstörung und bringt die Enterprise erneut auf Kurs nach Cheron. Spock stellt dort fest, dass die gesamte Bevölkerung ausgelöscht wurde. Bele gibt dennoch nicht auf. Er jagt Lokai durch das Schiff auf den verlassenen Planeten, wo ihnen nun nichts mehr außer ihrem Hass verbleibt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-25",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4vdSC1c6ZDE"
+						}
 					}
 				},
 				{
