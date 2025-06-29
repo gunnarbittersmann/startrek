@@ -101,6 +101,9 @@
 						<li>
 							<a href="music/subspace-rhapsody">Subspace Rhapsody</a>
 						</li>
+						<li>
+							<a href="music/collection">Collection</a>
+						</li>
 					</ul>
 				</li>
 				<li>
