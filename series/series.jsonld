@@ -20,7 +20,7 @@
 			"identifier": "TAS",
 			"startDate": "1973-09-08",
 			"endDate": "1974-10-12",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Star_Trek_TAS_logo.svg"
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Star_Trek_-_The_Animated_Series_logo.svg"
 		},
 		{
 			"@type": "TVSeries",
@@ -83,6 +83,7 @@
 			"name": "Star Trek: Lower Decks",
 			"identifier": "LD",
 			"startDate": "2020-08-06",
+			"endDate": "2024-12-19",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Star_Trek_LD_logo.svg"
 		},
 		{
@@ -90,6 +91,7 @@
 			"name": "Star Trek: Prodigy",
 			"identifier": "PRO",
 			"startDate": "2021-10-28",
+			"endDate": "2024-07-01",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Star_Trek_Prod_logo.svg"
 		},
 		{
@@ -106,6 +108,12 @@
 			"startDate": "2023-09-08",
 			"endDate": "2023-10-04",
 			"image": "https://upload.wikimedia.org/wikipedia/en/0/05/Star_Trek_-_Very_Short_Treks_logo.png"
+		},
+		{
+			"@type": "TVSeries",
+			"name": "Star Trek: Starfleet Academy",
+			"identifier": "SFA",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Star_Trek_SFA_logo.svg"
 		}
 	]
 }

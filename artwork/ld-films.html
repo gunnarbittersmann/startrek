@@ -1,24 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Lower Decks and film posters</title>
-    <link rel="icon" href="../starfleet.svg"/>
-    <link rel="mask-icon" href="../starfleet.svg"/>
-    <link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
-    <link rel="stylesheet" href="../style.css"/>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Lower Decks and film posters</title>
+		<link rel="icon" href="../starfleet.svg"/>
+		<link rel="mask-icon" href="../starfleet.svg"/>
+		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
+		<link rel="stylesheet" href="../style.css"/>
 		<style>
+			@media (width > 40em) {
+				body {
+					padding-bottom: 0 !important;
+				}
+
+				main {
+					display: flex;
+					gap: 2em;
+				
+					> * {
+						margin: 0;
+					}
+					
+					h1 {
+						writing-mode: vertical-rl;
+						text-align: end;
+						scale: -1;
+						max-height: calc(100vh - var(--header-height, 0) - 1em);
+					}
+				}
+			}
+			
 			main ol {
 				list-style: none;
 				padding: 0;
 				display: grid;
 				grid-template-columns: auto auto;
-				gap: 1em;
-				width: fit-content;
+				max-width: 100%;
+				max-height: calc(100vh - var(--header-height, 0) - 1em);
+				gap: 0.5em;
 	
-				@media (width > 575px) {
-					max-width: 130vh;
+				@media (width > 40em) {
+					max-width: 160vh;
 					grid-template-columns: revert;
 					grid-auto-flow: column;
 					grid-template-rows: auto auto;
@@ -36,22 +59,25 @@
 		</style>
 	</head>
 	<body>
-    <header>
-      <nav>
-        <ol>
-          <li>
-            <a
-              title="Star Trek"
-              aria-label="Star Trek"
-              href="/startrek"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="378 148 70 120" width="14" height="24">
-                <path fill="currentColor" d="M424.03 231.79c4.01,4.36 11.34,15.79 21.99,34.29 -1.14,-45.83 -11.56,-84.64 -31.28,-116.43 -20.64,29.62 -33.03,68.12 -37.16,115.5 20.86,-20.05 34.48,-31.27 40.87,-33.67 2.69,-1.13 4.54,-1.03 5.58,0.31z"/>
-              </svg>
-            </a>
-          </li>
+		<header>
+			<nav>
+				<ol>
+					<li>
+						<a
+							title="Star Trek"
+							aria-label="Star Trek"
+							href="/startrek"
+						>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="378 148 70 120" width="14" height="24">
+								<path fill="currentColor" d="M424.03 231.79c4.01,4.36 11.34,15.79 21.99,34.29 -1.14,-45.83 -11.56,-84.64 -31.28,-116.43 -20.64,29.62 -33.03,68.12 -37.16,115.5 20.86,-20.05 34.48,-31.27 40.87,-33.67 2.69,-1.13 4.54,-1.03 5.58,0.31z"/>
+							</svg>
+						</a>
+					</li>
 					<li>
 						<a>Artwork</a>:
+					</li>
+					<li>
+						<a href="all-intros">all intros</a>
 					</li>
 					<li>
 						<a href="discovery-opening-titles">DSC seasons</a>
@@ -65,30 +91,34 @@
 					<li>
 						<a href="#main" aria-current="page">LD and film posters</a>
 					</li>
-        </ol>
-      </nav>
-    </header>
-    <main id="main">
+				</ol>
+			</nav>
+		</header>
+		<main id="main">
 			<h1>Lower Decks and film posters</h1>
-	    <ol>
-	      <li>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Star_Trek_Lower_Decks_season_1_poster.jpeg" alt=""/>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png" alt=""/>
-	      </li>
-	      <li>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Star_Trek_Lower_Decks_season_2_poster.jpeg" alt=""/>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Star_Trek_II_The_Wrath_of_Khan.png" alt=""/>
-	      </li>
-	      <li>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_Trek_Lower_Decks_season_3_poster.jpeg" alt=""/>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Star_Trek_III_The_Search_for_Spock.png" alt=""/>
-	      </li>
-	      <li>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Trek_Lower_Decks_season_4_poster.jpeg" alt=""/>
-	        <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Star_Trek_IV_The_Voyage_Home.png" alt=""/>
-	      </li>
-	    </ol>
+			<ol>
+				<li>
+					<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Star_Trek_Lower_Decks_season_1_poster.jpeg" alt="Lower Decks season 1 poster"/>
+					<img src="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png" alt="Star Trek The Motion Picture poster"/>
+				</li>
+				<li>
+					<img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Star_Trek_Lower_Decks_season_2_poster.jpeg" alt="Lower Decks season 2 poster"/>
+					<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Star_Trek_II_The_Wrath_of_Khan.png" alt="Star Trek II The Wrath of Khan poster"/>
+				</li>
+				<li>
+					<img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_Trek_Lower_Decks_season_3_poster.jpeg" alt="Lower Decks season 3 poster"/>
+					<img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Star_Trek_III_The_Search_for_Spock.png" alt="Star Trek III The Search for Spock poster"/>
+				</li>
+				<li>
+					<img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Trek_Lower_Decks_season_4_poster.jpeg" alt="Lower Decks season 4 poster"/>
+					<img src="https://upload.wikimedia.org/wikipedia/en/6/68/Star_Trek_IV_The_Voyage_Home.png" alt="Star Trek IV The Voyage Home poster"/>
+				</li>
+				<li>
+					<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Star_Trek_Lower_Decks_season_5_poster.jpg" alt="Lower Decks season 5 poster"/>
+					<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Star_Trek_V_The_Final_Frontier.png" alt="Star Trek V The Final Frontier poster"/>
+				</li>
+			</ol>
 		</main>
-    <script src="../script.js"></script>
+		<script src="../script.js"></script>
 	</body>
 </html>

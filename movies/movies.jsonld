@@ -39,6 +39,16 @@
 						"@id": "https://bittersmann.de/startrek/people#RobertWise",
 						"name": "Robert Wise"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HaroldLivingston",
+						"name": "Harold Livingston"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanDeanFoster",
+						"name": "Alan Dean Foster"							
+					},
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -73,12 +83,14 @@
 					"review": [
 						{
 							"@type": "Review",
-							"name": "Ups & Downs",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 								"name": "TrekCulture"
 							},
+							"datePublished": "2022-05-23",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/cvtpnm4113g"
@@ -86,6 +98,23 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-02-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BQODZRJfDpg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -94,6 +123,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pbR779ClQ3E"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vtSAstQfB2o"
 							}
 						}
 					]
@@ -107,6 +151,23 @@
 						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"name": "Nicholas Meyer"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JackBSowards",
+						"name": "Jack B. Sowards"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JackBSowards",
+							"name": "Jack B. Sowards"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -138,18 +199,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_II:_Der_Zorn_des_Khan"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-02-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ZHlRBFAuRv4"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ONmh2mga-tY"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -159,6 +254,11 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"name": "Leonard Nimoy"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+						"name": "Harve Bennett"
 					},
 					"workTranslation": {
 						"@type": "Movie",
@@ -191,18 +291,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_III:_Auf_der_Suche_nach_Mr._Spock"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-03-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/V5K_Dqnd3HE"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/V3cFcbBV3hM"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -213,6 +347,40 @@
 						"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
 						"name": "Leonard Nimoy"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveMeerson",
+							"name": "Steve Meerson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#PeterKrikes",
+							"name": "Peter Krikes"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+							"name": "Nicholas Meyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+							"name": "Leonard Nimoy"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -244,18 +412,67 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_IV:_Zur%C3%BCck_in_die_Gegenwart"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-03-22",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0Fy4aHpe06A"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-12-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7_TvyvUnZEE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hZ6ChePDvj8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -266,6 +483,28 @@
 						"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
 						"name": "William Shatner"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidLoughery",
+						"name": "David Loughery"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#WilliamShatner",
+							"name": "William Shatner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HarveBennett",
+							"name": "Harve Bennett"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidLoughery",
+							"name": "David Loughery"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -297,18 +536,67 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_V:_Am_Rande_des_Universums"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-03-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Ure06nn2h_k"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ydOOisUr4NQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/rw2kEOubwF8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -319,6 +607,35 @@
 						"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 						"name": "Nicholas Meyer"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+							"name": "Nicholas Meyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DennyMartinFlinn",
+							"name": "Denny Martin Flinn"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeonardNimoy",
+							"name": "Leonard Nimoy"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LawrenceKonner",
+							"name": "Lawrence Konner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MarkRosenthal",
+							"name": "Mark Rosenthal"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -353,6 +670,23 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-04-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/553Tzkazerw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -365,14 +699,32 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2023-06-21",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/PyM0gxCv2yc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-10-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Wr3Jt7GYHyE"
 							}
 						}
 					]
@@ -392,6 +744,35 @@
 						"@id": "https://bittersmann.de/startrek/people#DavidCarson",
 						"name": "David Carson"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -423,18 +804,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Treffen_der_Generationen"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-04-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/2czMdDyZGck"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/pvr6Y49PxOs"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pvr6Y49PxOs"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-03-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NDI01bVEwo8"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -445,6 +860,35 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+							"name": "Brannon Braga"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RonaldDMoore",
+							"name": "Ronald D. Moore"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -476,18 +920,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Der_erste_Kontakt"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-04-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xN3fXU5jQl4"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/DhYtymDSuVU"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/DhYtymDSuVU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-03-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YSMRzwYhp4U"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -498,6 +976,23 @@
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+						"name": "Michael Piller"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MichaelPiller",
+							"name": "Michael Piller"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -532,6 +1027,23 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-05-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1F99-2mBAPs"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -544,6 +1056,8 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -552,6 +1066,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Km6PD3ueZao"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-04-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/IzyNTOReHHM"
 							}
 						}
 					]
@@ -565,6 +1094,28 @@
 						"@id": "https://bittersmann.de/startrek/people#StuartBaird",
 						"name": "Stuart Baird"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnLogan",
+						"name": "John Logan"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JohnLogan",
+							"name": "John Logan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RickBerman",
+							"name": "Rick Berman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BrentSpiner",
+							"name": "Brent Spiner"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -596,18 +1147,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Nemesis"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cAUs-jy70rU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-05-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OIlFK0_egpQ"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -624,6 +1209,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"name": "J. J. Abrams"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertoOrci",
+							"name": "Roberto Orci"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+							"name": "Alex Kurtzman"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -642,7 +1239,7 @@
 								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
 								"name": "Wikipedia"
 							},
-							"url": "https://en.wikipedia.org/wiki/Star_Trek_(film)"
+							"url": "https://en.wikipedia.org/wiki/Star_Trek_(2009_film)"
 						},
 						{
 							"@type": "Webpage",
@@ -658,6 +1255,22 @@
 					"review": [
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yiFU2oM1pNk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -670,6 +1283,7 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -682,6 +1296,8 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
@@ -703,6 +1319,23 @@
 						"@id": "https://bittersmann.de/startrek/people#JJAbrams",
 						"name": "J. J. Abrams"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertoOrci",
+							"name": "Roberto Orci"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+							"name": "Alex Kurtzman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DamonLindelof",
+							"name": "Damon Lindelof"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -734,18 +1367,37 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_Into_Darkness"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Kc8_X5kprU0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -756,6 +1408,18 @@
 						"@id": "https://bittersmann.de/startrek/people#JustinLin",
 						"name": "Justin Lin"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SimonPegg",
+							"name": "Simon Pegg"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DougJung",
+							"name": "Doug Jung"
+						}
+					],
 					"workTranslation": {
 						"@type": "Movie",
 						"inLanguage": "de",
@@ -789,14 +1453,17 @@
 					],
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Movie Review",
 						"creator": {
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
+						"datePublished": "2016-07-23",
 						"video": {
 							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/v=UX3CmLy3nhs"
+							"embedUrl": "https://www.youtube-nocookie.com/embed/UX3CmLy3nhs"
 						}
 					}
 				}
@@ -809,10 +1476,37 @@
 				{
 					"@type": "Movie",
 					"name": "Star Trek: Section 31",
+					"datePublished": "2025-01-24",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
 						"name": "Olatunde Osunsanmi"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CraigSweeny",
+						"name": "Craig Sweeny"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BoYeonKim",
+							"name": "Bo Yeon Kim"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ErikaLippoldt",
+							"name": "Erika Lippoldt"
+						}
+					],
+					"workTranslation": {
+						"@type": "Movie",
+						"inLanguage": "de",
+						"name": "Star Trek: Sektion 31",
+						"datePublished": "2025-01-24"
+					},
+					"abstract": {
+						"en": "Former emperor Philippa Georgiou from the Mirror Universe rejoins Section 31, a secret division of Starfleet tasked with protecting the United Federation of Planets through unsanctioned tactics, and must face the sins of her past."
 					},
 					"subjectOf": [
 						{
@@ -824,6 +1518,92 @@
 								"name": "Wikipedia"
 							},
 							"url": "https://en.wikipedia.org/wiki/Star_Trek:_Section_31"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Sektion_31"
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-01-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/s8Y1D92vx88"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-01-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1pMFJ37T08E"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-01-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GtlAXfzloEw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2024-09-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/nm694Z9YOdw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2024-09-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/evBkj2pg_Eg"
+							}
 						}
 					]
 				}

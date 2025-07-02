@@ -14,6 +14,23 @@
 	"name": "Star Trek: The Original Series",
 	"identifier": "TOS",
 	"inLanguage": "en",
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+		"name": "Gene Roddenberry"
+	},
+	"maintainer": [
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		},
+		{
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#FredFreiberger",
+			"name": "Fred Freiberger"
+		}
+	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -39,10 +56,13 @@
 	"numberOfSeasons": 3,
 	"containsSeason": [
 		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#0",
 			"episode": [
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#0.1",
+					"episodeNumber": "0.1",
 					"name": "The Cage",
 					"datePublished": "1988-12-24",
 					"workTranslation": {
@@ -51,52 +71,124 @@
 						"name": "Der Käfig",
 						"datePublished": "1993-10-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Cage_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_K%C3%A4fig_(1965)"
+						}
+					],
 					"director": {
-						"@id": "RobertButler",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertButler",
 						"name": "Robert Butler"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"description": {
 						"de": "Nach einer verlustreichen Mission auf dem Planeten Rigel VII folgt die Enterprise unter dem Kommando von Captain Christopher Pike einem Notruf auf den Planeten Talos IV. Das von Pike geführte Landeteam findet dort eine Gruppe Überlebender des seit 18 Jahren verschollenen Forschungsschiffes Columbia. Unter den Überlebenden ist die attraktive Vina. Von Vina abgelenkt, wird Pike von den Talosianern gefangen genommen, einer hochentwickelten, Telepathie beherrschende Spezies. Es stellt sich heraus, dass der Notruf von den Talosianern fingiert wurde und auch die Überlebenden, mit Ausnahme von Vina, nur eine Illusion waren, mit der die Enterprise zu dem Planeten gelockt werden sollte. Pike wird in einen Käfig interniert und die Talosianer versuchen, seinen Geist zu manipulieren, ihm Vina nahe zu bringen, aber Pike widersteht. Er erkennt, dass die Talosianer ihn nach Talos IV gelockt haben, um mit ihm und Vina eine neue Menschenrasse zu züchten, um sie zu versklaven. Als ein weiteres Landeteam zur Bergung des Captains auf den Planeten gebeamt wird, geraten auch Nummer Eins und Fähnrich Colt in die Gewalt der Talosianer. Sie werden zu Pike in den Käfig gesperrt, in der Hoffnung, dass Pike sich zu ihnen hingezogen fühlt. Schließlich kann Pike einen Wärter überwältigen und die Gefangenen können auf die vor Jahrhunderten atomar zerstörte Planetenoberfläche entkommen. Als die Landegruppe dort von den Talosianern gestellt wird, droht Nummer Eins, alle durch eine Explosion ihres Phasers zu töten, da sie lieber sterben wolle als in Gefangenschaft zu leben. Daraufhin lassen die Talosianer Nummer Eins und Fähnrich Colt gehen. Pike offenbaren sie, dass Vina die einzige Überlebende des Absturzes der Columbia war. Sie hatte das Unglück schwer entstellt überlebt und um ihr zu helfen, schufen sie ihr die Illusion eines unversehrten Äußeren. Pike bittet die Talosianer, ihr diese Illusion nicht zu nehmen, woraufhin sie ihr die Illusion eines Pike an die Seite stellen, während Captain Pike auf sein Schiff zurückkehrt."
 					},
-					"review": [
+					"review":{
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/tos#0.2",
+					"episodeNumber": "0.2",
+					"name": "Where No Man Has Gone Before",
+					"subjectOf": [
 						{
-							"@type": "Review",
-							"name": "Ups & Downs",
-							"creator": {
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
 								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-								"name": "TrekCulture"
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
 							},
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
-							}
+							"url": "https://en.wikipedia.org/wiki/Where_No_Man_Has_Gone_Before"
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
-							"@type": "Review",
-							"name": "Retro Review | First Episodes",
-							"creator": {
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#SteveShives",
-								"name": "Steve Shives"
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
 							},
-							"itemReviewed": [
-								{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
-								{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
-							],
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
-							}
+							"url": "https://de.wikipedia.org/wiki/Die_Spitze_des_Eisberges"
 						}
-					]
+					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
+						"name": "James Goldstone"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SamuelAPeeples",
+						"name": "Samuel A. Peeples"
+					},
+					"abstract": {
+						"en": "After the Enterprise attempts to cross the Great Barrier at the edge of the galaxy, crew members Gary Mitchell and Elizabeth Dehner develop “godlike” psychic powers, which threaten the safety of the crew."
+					},
+					"description": {
+						"de": "Auf einen Notruf reagierend, nimmt die Enterprise eine vor 200 Jahren von dem Raumschiff Valiant ausgesetzte Unfallboje an Bord. Deren Untersuchung ergibt, dass die Valiant, bevor sie die Selbstzerstörungssequenz auslöste, im Schiffscomputer nach Informationen über außersinnliche Wahrnehmung suchte. Die Enterprise durchfliegt – ebenso wie einst die Valiant – eine seltsame Raumbarriere, wodurch neun Crewmitglieder sterben und Enterprise-Navigator Gary Mitchell übernatürliche Kräfte entwickelt, die ständig stärker werden. Dadurch und durch Spocks Erkenntnis, dass Ähnliches auch auf der Valiant geschah und dies letztlich zu ihrer Zerstörung führte, stellt Mitchell eine zunehmende Gefahr für die Enterprise dar. Kirk fasst deshalb den Entschluss, ihn auf einem verlassenen Planeten zwangsweise auszusetzen. Als das Außenteam Mitchell dort zurücklassen will, überwältigt er es. Dr. Elizabeth Dehner, die offenbar auch beim Durchflug der Barriere beeinflusst worden war, hat nun ähnliche Kräfte wie Mitchell. Dieser spielt sich zu einem gottgleichen Wesen auf. Dehner widersteht dessen Einfluss und hilft Kirk dabei, Mitchell zu überwältigen. Dabei kommen Mitchell und Dehner zu Tode."
+					},
+					"review": {
+						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | First Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
+						}
+					}
 				}
 			]
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#1",
 			"seasonNumber": 1,
 			"subjectOf": [
 				{
@@ -120,6 +212,21 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Ersteindruck",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+					"name": "Nerdzika"
+				},
+				"datePublished": "2024-10-30",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/7Q3IAUoRelU"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -133,16 +240,42 @@
 						"name": "Das Letzte seiner Art",
 						"datePublished": "1987-09-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Man_Trap"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Letzte_seiner_Art"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#George Clayton Johnson",
+						"name": "George Clayton Johnson"
 					},
 					"abstract": {
 						"en": "The Enterprise visits planet M-113 for routine medical examinations of the husband-and-wife archaeological team stationed there, but the woman has been replaced by a shape-shifting creature, forced to survive by extracting the salt from the bodies of the members of the crew, killing them.",
 						"de": "Die Enterprise-Crew ist bei dem Planeten, auf dem das Ehepaar Crater lebt. Nachdem mehrere Crew-Mitglieder an Salzmangel gestorben sind, stellt sich heraus, dass Frau Crater durch ein gestaltwandelndes Wesen ersetzt wurde."
-					},
-					"sameAs": "https://de.wikipedia.org/wiki/Das_Letzte_seiner_Art"
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -156,16 +289,62 @@
 						"name": "Der Fall Charlie",
 						"datePublished": "1974-02-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Charlie_X"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Fall_Charlie"
+						}
+					],
 					"director": {
-						"@id": "LawrenceDobkin",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LawrenceDobkin",
 						"name": "Lawrence Dobkin"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "The Enterprise picks up Charlie Evans, an unstable 17-year-old boy, who spent 14 years alone on a deserted planet and lacks the training and restraint to handle his superhuman mental powers wisely."
 					},
 					"description": {
 						"de": "Die Enterprise übernimmt den 17-jährigen Jungen Charlie vom Raumschiff Antares, um ihn zu einer Kolonie zu bringen. Charlie wurde kürzlich auf dem Planeten Thasus als einziger Überlebender des 14 Jahre zurückliegenden Absturzes eines Raumschiffs gefunden. Auf der Enterprise trifft Charlie mit Janice Rand erstmals ein Mädchen. Bei seinen Versuchen, sie als Liebhaberin zu gewinnen, zeigt sich, dass er keinen Spaß versteht und Niederlagen nicht verkraften kann. Als die Antares die Enterprise per Funk vor etwas warnen möchte, explodiert die Antares plötzlich, woraufhin Charlie die Antares als Fehlkonstruktion bezeichnet und so das Misstrauen Kirks und Spocks gegenüber ihm erweckt bzw. verstärkt. Später, als er per Willenskraft wiederholt Dinge verändert und Personen verschwinden lässt, zeigt sich, dass Charlie übermenschliche Kräfte ähnlich derer der Thasianer besitzt. Charlie reißt die Gewalt über die Enterprise an sich. Ein thasianisches Raumschiff erscheint bei der Enterprise. Ein von dort auf die Enterprise gebeamter Thasianer erklärt, dass sein Volk dem Jungen vor 14 Jahren die übermenschlichen Kräfte zwecks Überlebens auf dem Planeten gegeben hatte. Jedoch hätte es die Abholung des Jungen durch die Antares verpasst. Die Thasianer nehmen Charlie mit, um zu vermeiden, dass er seine Kräfte gegen die Zivilisation einsetzt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Orphans!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bS3vM6XKIWs"
+						}
 					}
 				},
 				{
@@ -174,16 +353,47 @@
 					"episodeNumber": "1.3",
 					"name": "Where No Man Has Gone Before",
 					"datePublished": "1966-09-22",
+					"isBasedOn" : {
+						"@type": "TVEpisode",
+						"@id": "https://bittersmann.de/startrek/series/tos#0.2"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Die Spitze des Eisberges",
 						"datePublished": "1973-10-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Where_No_Man_Has_Gone_Before"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Spitze_des_Eisberges"
+						}
+					],
 					"director": {
-						"@id": "JamesGoldstone",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
 						"name": "James Goldstone"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SamuelAPeeples",
+						"name": "Samuel A. Peeples"
 					},
 					"abstract": {
 						"en": "After the Enterprise attempts to cross the Great Barrier at the edge of the galaxy, crew members Gary Mitchell and Elizabeth Dehner develop “godlike” psychic powers, which threaten the safety of the crew."
@@ -194,6 +404,7 @@
 					"review": {
 						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
 							"@type": "Person",
@@ -222,10 +433,37 @@
 						"name": "Implosion in der Spirale",
 						"datePublished": "1987-10-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Naked_Time"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Implosion_in_der_Spirale"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnDFBlack",
+						"name": "John D. F. Black"
 					},
 					"abstract": {
 						"en": "A strange, intoxicating infection, which lowers the crew’s emotional inhibitions, spreads throughout the Enterprise. As the madness spreads, the entire ship is endangered."
@@ -233,8 +471,9 @@
 					"description": {
 						"de": "Die Enterprise trifft bei einem Planeten ein, der bald auseinanderbrechen wird, und will dort sechs Wissenschaftler abholen. Das Außenteam findet die Wissenschaftler alle erfroren vor. Joe, ein Mitglied des Außenteams, schleppt von dem Planeten unbewusst eine durch Körperkontakt übertragene Seuche mit auf die Enterprise ein. An der Seuche leiden bald auch andere Crew-Mitglieder. Daran erkrankt, bringen sie auch lange unterdrückte Sehnsüchte zum Ausdruck. Zu den Symptomen gehört auch unvorhersehbares, vergnügungssüchtiges Verhalten, ähnlich wie beim Betrunkensein. Auch das Crewmitglied Riley erkrankt daran. Er verschanzt sich allein im Maschinenraum und blockiert die Kontrolle über den Antrieb. Indes ändert sich die Gravitation des Planeten, sodass die Enterprise in einen spiralförmigen Sturzflug gerissen wird und wegen der fehlenden Steuerkontrolle in 20 Minuten abzustürzen droht. Als Scotty den Maschinenraum wieder unter seiner Kontrolle hat, kann er den Antrieb nicht schnell genug neu starten. Deshalb lassen Kirk und Spock eine hochgefährliche, unerprobte Implosion im Antrieb einleiten, bei der Zeit und Antimaterie reagieren. Diese ist erfolgreich, sodass der Sturzflug abgebrochen werden kann, und bewirkt, dass sich die Enterprise 70 Stunden rückwärts durch Zeit und Raum bewegt. McCoy konnte ein Antiserum entwickeln und die infizierten Crewmitglieder heilen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Bottle Episodes",
 						"creator": {
 							"@type": "Person",
@@ -259,10 +498,37 @@
 						"name": "Kirk : 2 = ?",
 						"datePublished": "1972-07-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Enemy_Within_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kirk_:_2_%3D_%3F"
+						}
+					],
 					"director": {
-						"@id": "LeoPenn",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeoPenn",
 						"name": "Leo Penn"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RichardMatheson",
+						"name": "Richard Matheson"
 					},
 					"abstract": {
 						"en": "While beaming up from planet Alpha 177, a transporter accident splits Captain Kirk into two beings: one “good”, who is weak and indecisive, and one “evil”, who is overly aggressive and domineering."
@@ -283,10 +549,42 @@
 						"name": "Die Frauen des Mr. Mudd",
 						"datePublished": "1987-09-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Mudd%27s_Women"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Frauen_des_Mr._Mudd"
+						}
+					],
 					"director": {
-						"@id": "HarveyHart",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HarveyHart",
 						"name": "Harvey Hart"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "The Enterprise pursues a vessel and rescues its occupants; Harry Mudd, an interstellar con man, is transporting three mysteriously beautiful women to become the wives of dilithium miners."
@@ -307,10 +605,37 @@
 						"name": "Der alte Traum",
 						"datePublished": "1987-10-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/What_Are_Little_Girls_Made_Of%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_alte_Traum"
+						}
+					],
 					"director": {
-						"@id": "JamesGoldstone",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesGoldstone",
 						"name": "James Goldstone"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"name": "Robert Bloch"
 					},
 					"abstract": {
 						"en": "In search of Nurse Chapel’s fiancé, renowned exobiologist Roger Korby, the Enterprise visits the icy planet Exo III, where Korby has discovered an ancient machine that allows him to duplicate any living person with an android replacement. Korby plans to use the machine to spread controlled androids throughout the Federation, and replaces Captain Kirk with such a duplicate in an effort to take over the Enterprise."
@@ -331,10 +656,37 @@
 						"name": "Miri, ein Kleinling",
 						"datePublished": "1987-11-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Miri_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Miri,_ein_Kleinling"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AdrianSpies",
+						"name": "Adrian Spies"
 					},
 					"abstract": {
 						"en": "After discovering what appears to be a duplicate of the planet Earth, Captain Kirk and his away team find a population ravaged by a strange disease, which only children appear to have survived."
@@ -342,8 +694,9 @@
 					"description": {
 						"de": "Auf einen automatischen Notruf reagierend, beamt ein Enterprise-Außenteam auf einen erdähnlichen Planeten. In einer heruntergekommenen Stadt, ähnlich der USA in den 1960er Jahren, greift das Team das Mädchen Miri auf, eines von lauter Kindern, die sich in der Stadt vor Erwachsenen verstecken. Die meisten Erwachsenen starben vor vielen Jahren an einer Seuche, die nun auch das Außenteam befällt und zu deren Symptomen blaue Hautgeschwüre und zunehmende Verrücktheit gehören. Wie das Team aus Aufzeichnungen der Planetenbewohner erfährt, schlug auf dem Planeten einst ein lebensverlängerndes Forschungsvorhaben dergestalt fehl, dass die Menschen nach Beginn der Pubertät an der Seuche starben. Den Kindern, die in Wirklichkeit schon über 300 Jahre alt sind, steht dasselbe Schicksal bevor. Aus Angst vor Erwachsenen stehlen sie dem Außenteam, das nun mit Ausnahme Spocks noch wenige Tage zu leben hat, die Funkgeräte. Ohne diese kann McCoy das von ihm entwickelte Gegenserum nicht testen. Während Kirk das Vertrauen der Kinder zu erhalten versucht und an sie appelliert, die Funkgeräte wieder herauszugeben, ist McCoy so verzweifelt, dass er das Gegenserum an sich selbst ausprobiert. Da es korrekt wirkt, können es auch die anderen Teammitglieder und die Kinder einnehmen. Die Enterprise verlässt den Planeten und will den Kindern Hilfe schicken."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -360,7 +713,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.9",
 					"episodeNumber": "1.9",
-					"name": "Dagger Of The Mind",
+					"name": "Dagger of the Mind",
 					"datePublished": "1966-11-03",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -368,10 +721,37 @@
 						"name": "Der Zentralnervensystem­manipulator",
 						"datePublished": "1987-10-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Dagger_of_the_Mind"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Zentralnervensystem­manipulator"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ShimonWincelberg",
+						"name": "Shimon Wincelberg"
 					},
 					"abstract": {
 						"en": "While the Enterprise is on a resupply mission to a rehabilitation colony for the criminally insane, a former doctor — now insane — sneaks on board the ship. Beaming down to the planet, Kirk and a female crew member discover that the chief doctor has been using a device that destroys the human mind. Spock performs a mind meld for the first time in this episode."
@@ -392,10 +772,37 @@
 						"name": "Pokerspiele",
 						"datePublished": "1972-10-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Corbomite_Maneuver"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Pokerspiele"
+						}
+					],
 					"director": {
-						"@id": "JosephSargent",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephSargent",
 						"name": "Joseph Sargent"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+						"name": "Jerry Sohl"
 					},
 					"abstract": {
 						"en": "The Enterprise is menaced by a gigantic alien ship whose commander condemns the crew to death. The alien ship appears all-powerful, and the alien commander refuses all attempts at negotiation, forcing Kirk to employ an unorthodox strategy to save the ship."
@@ -408,18 +815,45 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.11",
 					"episodeNumber": "1.11",
-					"name": "The Menagerie – Part I",
+					"name": "The Menagerie, Part I",
 					"datePublished": "1966-11-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Talos IV – Tabu – Teil 1",
+						"name": "Talos IV – Tabu, Teil I",
 						"datePublished": "1987-11-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Menagerie_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Talos_IV_%E2%80%93_Tabu"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "Spock hijacks the Enterprise to take his crippled former captain, Christopher Pike, to the forbidden world of Talos IV. He then demands a court martial, where he uses the events of “The Cage” to tell the tale of Pike’s captivity on the planet years earlier."
@@ -432,18 +866,45 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.12",
 					"episodeNumber": "1.12",
-					"name": "The Menagerie – Part II",
+					"name": "The Menagerie, Part II",
 					"datePublished": "1966-11-24",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Talos IV – Tabu – Teil 2",
+						"name": "Talos IV – Tabu, Teil II",
 						"datePublished": "1987-11-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Menagerie_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Talos_IV_%E2%80%93_Tabu"
+						}
+					],
 					"director": {
-						"@id": "RobertButler",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertButler",
 						"name": "Robert Butler"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "After witnessing the Talosians’ capabilities of mental illusion, Kirk realizes that Spock intends to return Pike to the planet to live a life of illusion, unencumbered by his crippled condition."
@@ -456,7 +917,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.13",
 					"episodeNumber": "1.13",
-					"name": "The Conscience Of The King",
+					"name": "The Conscience of the King",
 					"datePublished": "1966-12-08",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -464,10 +925,37 @@
 						"name": "Kodos, der Henker",
 						"datePublished": "1987-11-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Conscience_of_the_King"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kodos,_der_Henker"
+						}
+					],
 					"director": {
-						"@id": "GerdOswald",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
 						"name": "Gerd Oswald"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BarryTrivers",
+						"name": "Barry Trivers"
 					},
 					"abstract": {
 						"en": "While visiting an old friend, Kirk suspects a Shakespearean actor may actually be the murderous former governor of Tarsus IV, where Kirk grew up. Kirk invites the acting troupe aboard the Enterprise to investigate, but soon, assassination attempts are made on Kirk and another crewman, who was an eyewitness to the murders."
@@ -480,7 +968,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.14",
 					"episodeNumber": "1.14",
-					"name": "Balance Of Terror",
+					"name": "Balance of Terror",
 					"datePublished": "1966-12-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -488,10 +976,37 @@
 						"name": "Spock unter Verdacht",
 						"datePublished": "1987-10-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Balance_of_Terror"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spock_unter_Verdacht"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulSchneider",
+						"name": "Paul Schneider"
 					},
 					"abstract": {
 						"en": "While investigating a series of destroyed outposts, the Enterprise discovers a lone Romulan vessel with a cloaking device. The Romulans, having never been seen by humans, are revealed to visually resemble Vulcans, casting doubt on Mr. Spock’s loyalty, as the two ships become locked in a cat-and-mouse battle through space."
@@ -513,10 +1028,37 @@
 						"inLanguage": "de",
 						"datePublished": "1987-11-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Shore_Leave_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Landeurlaub"
+						}
+					],
 					"director": {
-						"@id": "RobertSparr",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertSparr",
 						"name": "Robert Sparr"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TheodoreSturgeon",
+						"name": "Theodore Sturgeon"
 					},
 					"abstract": {
 						"en": "Captain Kirk orders shore leave for the Enterprise crew on a seemingly uninhabited planet in the Omicron Delta system. The landing parties begin to see strange sights, such as a White Rabbit a la “Alice in Wonderland”, Don Juan, and a sword-wielding samurai. Also, Kirk sees (and fights) an image of Finnegan, a rival from his Starfleet Academy days. Spock discovers that the planet seems to be drawing a large amount of energy from the ship’s engines, placing the Enterprise in danger."
@@ -539,9 +1081,26 @@
 						"datePublished": "1972-10-14"
 					},
 					"director": {
-						"@id": "RobertGist",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertGist",
 						"name": "Robert Gist"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+							"name": "Oliver Crawford"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShimonWincelberg",
+							"name": "Shimon Wincelberg"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+						"name": "Oliver Crawford"
 					},
 					"abstract": {
 						"en": "Spock and a scientific party are sent to study the Murasaki 312 quasar aboard the shuttle Galileo. During the survey, the Galileo is forced to make an emergency landing on the planet Taurus II, where the crew fights the planet’s dangerous inhabitants. As the crew begins to make repairs, Scotty determines that the shuttle does not have enough fuel to reach orbit carrying all seven passengers, and Spock must contemplate leaving some of his fellow crew behind."
@@ -554,7 +1113,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.17",
 					"episodeNumber": "1.17",
-					"name": "The Squire Of Gothos",
+					"name": "The Squire of Gothos",
 					"datePublished": "1967-01-12",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -562,16 +1121,58 @@
 						"name": "Tödliche Spiele auf Gothos",
 						"datePublished": "1974-03-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Squire_of_Gothos"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/T%C3%B6dliche_Spiele_auf_Gothos"
+						}
+					],
 					"director": {
-						"@id": "DonMcDougall",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DonMcDougall",
 						"name": "Don McDougall"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#PaulSchneider",
+						"name": "Paul Schneider"
 					},
 					"abstract": {
 						"en": "The Enterprise discovers a rogue planet drifting through space, inhabited by an eccentric being named Trelane, who uses his apparently unlimited power over matter and form to manipulate the crew."
 					},
 					"description": {
 						"de": "Bei der Passage eines unbekannten Planeten verschwinden plötzlich Kirk und Sulu. Ein Außenteam findet die Vermissten auf dem Planeten wieder, und zwar in der Gefangenschaft des menschlich erscheinenden Wesens Trelaine, das übermenschliche Kräfte hat, und wird zunächst auch von Trelaine gefangengehalten. Nachdem die Enterprise ihre Crewmitglieder gegen Trelaines Willen wieder an Bord gebeamt hat, transferiert dieser die Brückencrew wieder auf den Planeten, den er Gothos nennt. Trelaine gibt sich amüsiert und interessiert am gesellschaftlichen Umgang mit den Crewmitgliedern, ohne seine Ziele preiszugeben, und scheut keinen Konflikt. Er kann Dinge und Personen bewusstseinsgesteuert verschwinden lassen und transferieren. Kirk nutzt einen Vorwand, um zu beweisen, dass Trelaines Kräfte computergestützt erzeugt werden, und entlarvt ihn damit, sodass Trelaine verschwindet. Als die Enterprise von Trelaine am Weiterflug gehindert wird, kehrt Kirk auf Gothos zurück, um ihn zu bekämpfen. Dieser will Kirks Tod. Kirk erkennt, dass Trelaine spielen will, hält ihn aber für einen einfallslosen Feigling und spielt mit ihm ein originelleres Spiel. Als Trelaine zu feige ist, um Kirk zu töten, wird er von seinen Eltern abgeholt, die ebenfalls übermenschliche Energiewesen und von Trelaine enttäuscht sind. Sie entschuldigen sich bei Kirk, ohne ihre Identität preiszugeben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Gods and Monsters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-03-13",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/EK1cyb9xEUg"
+						}
 					}
 				},
 				{
@@ -586,10 +1187,42 @@
 						"name": "Ganz neue Dimensionen",
 						"datePublished": "1987-12-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Arena_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ganz_neue_Dimensionen"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#FredricBrown",
+						"name": "Fredric Brown"
 					},
 					"abstract": {
 						"en": "The Enterprise comes under attack by unknown aliens while investigating the near-destruction of the Cestus III colony. While chasing the aliens into unexplored space, both ships are captured by the powerful Metrons, who force Kirk and the alien captain (later identified as a member of the Gorn race) to trial by combat; the winner’s vessel will be set free, while the loser’s ship will be destroyed."
@@ -610,10 +1243,37 @@
 						"name": "Morgen ist gestern",
 						"datePublished": "1972-05-27"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Tomorrow_Is_Yesterday"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Morgen_ist_gestern"
+						}
+					],
 					"director": {
-						"@id": "MichaelOHerlihy",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MichaelOHerlihy",
 						"name": "Michael O’Herlihy"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"abstract": {
 						"en": "After accidentally traveling back in time to 1969, the Enterprise rescues USAF Captain John Christopher from his crippled fighter jet. The crew struggles to return to their own time, while simultaneously returning Christopher to the Air Force, removing his knowledge of the future and all record of contact with the Enterprise."
@@ -621,8 +1281,9 @@
 					"description": {
 						"de": "Die Enterprise wird durch einen Unfall ca. 300 Jahre in die Vergangenheit versetzt und findet sich im Erdorbit wieder. Dort wird die Enterprise von der U.S. Air Force als UFO bemerkt und von einem Kampfflugzeug verfolgt, dessen Piloten Captain Christopher sie an Bord beamt. Die Crew will nun erreichen, dass der Zeitstrahl durch den Vorfall nicht beschädigt wird. Christopher muss dennoch auf die Erde zurückkehren, damit er seinen Sohn zeugen kann, der später als erster Mensch zum Jupiter reist. Damit Christophers Geschichte auf der Erde als unglaubhaft beurteilt wird, vernichtet ein Außenteam die Tonbandaufzeichnungen des Kontakts der Air Force mit der Enterprise. Dabei gelangt ungeplant ein weiterer Mensch, ein Sergeant, von der Erde auf die Enterprise. Der Captain und der Sergeant kehren auf die Erde zurück, kurz bevor die Enterprise schließlich mit einem speziellen Flug um die Sonne herum in ihre ursprüngliche Zeit zurückkehrt."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -647,23 +1308,77 @@
 						"name": "Kirk unter Anklage",
 						"datePublished": "1972-06-10"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Court_Martial_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kirk_unter_Anklage"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DonMMankiewicz",
+							"name": "Don M. Mankiewicz"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StevenWCarabatsos",
+							"name": "Steven W. Carabatsos"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DonMMankiewicz",
+						"name": "Don M. Mankiewicz"
 					},
 					"abstract": {
 						"en": "Captain Kirk is placed on trial for negligence after a crewman is killed during a severe ion storm. Kirk maintains that his actions were proper and should not have led to the officer’s death, but the evidence seems strong against him."
 					},
 					"description": {
 						"de": "Durch einen Ionensturm wurde die Enterprise kürzlich schwer beschädigt, dabei kam der Computeroffizier Lt. Finney zu Tode. Auf Raumbasis 11 wird die Enterprise repariert und bzgl. des Todesfalls gegen Kirk wegen möglichen Meineides und Fahrlässigkeit mit Todesfolge ermittelt. Im Gerichtsverfahren geht es um die Frage, ob Kirk den Schutzschirm gemäß seiner eidesstattlichen Behauptung bei rotem Alarm oder entsprechend dem Computerprotokoll noch beim vorherigen gelben Alarm ausgelöst hat. Spock behauptet im Zeugenstand, dass die Computeraufzeichnung falsch sein müsse und Kirk sich nicht irre. Die Anklägerin Shaw beweist per Videoaufzeichnung, dass Kirk den Schirm noch bei gelbem Alarm abgeworfen hat. Spock findet heraus, dass der Enterprise-Computer manipuliert wurde. Kirks Verteidiger Cogley schlussfolgert daraus, dass die Videoaufzeichnung fehlerhaft ist, Finney gar nicht tot ist und den Computer manipuliert hatte. Durch Hörbarmachung aller Herztöne der auf dem Schiff befindlichen Personen beweist Cogley, dass Finney noch lebt. Kirk findet ihn versteckt im Maschinenraum. Er gibt zu, Sabotage begangen zu haben, um sich damit an Kirk zu rächen, der einst eine Disziplinarstrafe verhängte, die Finneys Beförderung vereitelte. Kirk vereitelt die Vollendung von Finneys Plan, die Enterprise zu zerstören."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Courtroom Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-01-30",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/A8uuJz2csuQ"
+						}
 					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.21",
 					"episodeNumber": "1.21",
-					"name": "The Return Of The Archons",
+					"name": "The Return of the Archons",
 					"datePublished": "1967-02-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -671,10 +1386,42 @@
 						"name": "Landru und die Ewigkeit",
 						"datePublished": "1987-12-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Return_of_the_Archons"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Landru_und_die_Ewigkeit"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BorisSobelman",
+						"name": "Boris Sobelman"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "The Enterprise discovers a planetary population controlled by a powerful being called Landru. While investigating, Captain Kirk and his landing party are taken captive, and discover that the Enterprise crew will be the next to be “absorbed” into Landru’s control."
@@ -682,8 +1429,9 @@
 					"description": {
 						"de": "Sulu kehrt von dem Planeten Beta-3 in einem Hypnose-ähnlichen Zustand auf die Enterprise zurück, sein Kollege O’Neal bleibt verschollen. Ein Außenteam um Kirk, Spock und McCoy sucht daraufhin auf der menschlich besiedelten Planetenoberfläche nach dem Grund dafür und erkennt rasch, dass die Bewohner unter dem Einfluss eines gewissen Landru stehen. Dieser kann die Bewohner per Paralyse dazu veranlassen, sich plötzlich in Anarchie zu versetzen oder das Außenteam anzugreifen. Nach kurzer Flucht vor den Angreifern wird das Außenteam per Schallwellen überwältigt und eingesperrt. McCoy wird, wie indes schon O’Neal, von Landrus Handlangern ebenfalls in dessen seelenlose Gemeinschaft absorbiert, deren Mitglieder permanent Frieden und Freude predigen. Der Rest des Außenteams bleibt davon verschont, da ihnen ein Untergrundkämpfer hilft. Dieser führt Kirk und Spock zu Landru, der nur als Projektion erscheint und ihnen wegen unberechtigten Eindringens ihren baldigen Tod ankündigt. Landru stellt sich als ein Computer heraus, der vor Jahrtausenden an die Stelle des realen Heilsbringers Landru trat. Er führt dessen Ziel weiter, für das harmonische Fortbestehen der Gesellschaft zu sorgen. Da er aber ohne Weisheit, Seele und Kreativität programmiert wurde, zerstört Kirk ihn, woraufhin die Hypnose der Bewohner endet und die Enterprise freigegeben wird."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -708,23 +1456,77 @@
 						"name": "Der schlafende Tiger",
 						"datePublished": "1972-10-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Space_Seed"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_schlafende_Tiger"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#CareyWilber",
+							"name": "Carey Wilber"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CareyWilber",
+						"name": "Carey Wilber"
 					},
 					"abstract": {
 						"en": "The Enterprise discovers an ancient sleeper ship, the SS Botany Bay, which escaped from Earth’s Eugenics Wars in the late 20th century. The genetically engineered passengers, led by war criminal Khan Noonien Singh, seize control of the Enterprise and attempt to destroy the ship. (This episode serves as the backstory to the second Star Trek film.)"
 					},
 					"description": {
 						"de": "Die Enterprise findet das bislang unbekannte, aus dem späten 21. Jahrhundert stammende Raumschiff Botany Bay treibend im All. Darauf befinden sich über 70 Menschen in Lebenserhaltungskammern im Tiefschlaf. Man nimmt das Schiff in Schlepp und lässt den indischstämmigen Kommandanten Khan auf der Enterprise wiedererwachen. Kirk und Spock finden heraus, dass es sich bei den Fremden um gentechnisch erzeugte, körperlich und geistig ertüchtigte Menschen handelt, die gegen Ende der Eugenischen Kriege verschwanden, und dass Khan damals Anführer einer Bewegung war, die über ein Viertel der Erdbevölkerung herrschte. Khan sagt, dass er und seine Genossen die damalige Welt heilen wollten, die sie als krank empfanden. Er gewinnt die Enterprise-Historikerin Marla McGyvers als Geliebte, sodass sie ihm bei der gewaltsamen Übernahme der Enterprise hilft. Er erweckt die anderen Menschen der Botany Bay aus dem Tiefschlaf und unterbricht die Lebenserhaltung auf der Enterprise-Brücke, um Kirk damit zur Abgabe des Kommandos an ihn zu zwingen. Nachdem er damit gedroht hat, zusätzlich zu Kirk auch Spock zu töten, sieht Marla ihr Verhalten als falsch ein und hilft Kirk und Spock, sodass diese die Übermenschen unschädlich machen können. Kirk entscheidet, dass Khan und Gefolgschaft zur Strafe auf einem einsamen Planeten ausgesetzt werden."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | The Augments",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-01-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/2_4JsUvBxno"
+						}
 					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.23",
 					"episodeNumber": "1.23",
-					"name": "A Taste Of Armageddon",
+					"name": "A Taste of Armageddon",
 					"datePublished": "1967-02-23",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -732,10 +1534,49 @@
 						"name": "Krieg der Computer",
 						"datePublished": "1987-12-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Taste_of_Armageddon"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Krieg_der_Computer"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobertHamner",
+							"name": "Robert Hamner"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertHamner",
+						"name": "Robert Hamner"
 					},
 					"abstract": {
 						"en": "On Eminiar VII, the Enterprise finds a civilization at war with its planetary neighbor. Unable to discern any signs of battle from orbit, Captain Kirk leads a landing party to the surface, where he discovers the entire war is fought by computer. Though the war is simulated, citizens who are listed as virtual casualties still report to termination booths to be killed for real. After the Enterprise is destroyed in an attack simulation, Kirk must fight to keep his crew from death."
@@ -748,7 +1589,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.24",
 					"episodeNumber": "1.24",
-					"name": "This Side Of Paradise",
+					"name": "This Side of Paradise",
 					"datePublished": "1967-03-02",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -756,11 +1597,50 @@
 						"name": "Falsche Paradiese",
 						"datePublished": "1988-01-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/This_Side_of_Paradise_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Falsche_Paradiese"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+							"name": "Jerry Sohl"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						}
+					],
 					"abstract": {
 						"en": "Despite exposure to fatal radiation, the Federation colony on Omicron Ceti III appears to be thriving. A landing party from the Enterprise investigates, finding the colony’s population to be healthy beyond explanation. Leila Kalomi, an old friend of Mr. Spock’s, shows the landing party strange flowers that seem to impose a state of pure bliss and perfect health on all exposed to its spores (even Spock), but at the cost of ambition and self-discipline."
 					},
@@ -772,7 +1652,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.25",
 					"episodeNumber": "1.25",
-					"name": "The Devil In The Dark",
+					"name": "The Devil in the Dark",
 					"datePublished": "1967-03-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -780,10 +1660,37 @@
 						"name": "Horta rettet ihre Kinder",
 						"datePublished": "1988-01-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Devil_in_the_Dark"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Horta_rettet_ihre_Kinder"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "Dispatched to the mining colony on Janus VI, the Enterprise is to investigate rumors of a strange, subterranean creature responsible for destruction of equipment and the deaths of 50 miners. Kirk and Spock discover a silicon-based life form, a Horta, which lives in the surrounding rock. After Kirk and Spock find the strange creature, Spock performs a mind meld, discovering the reason behind the Horta’s attacks."
@@ -796,7 +1703,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#1.26",
 					"episodeNumber": "1.26",
-					"name": "Errand Of Mercy",
+					"name": "Errand of Mercy",
 					"datePublished": "1967-03-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -804,10 +1711,37 @@
 						"name": "Kampf um Organia",
 						"datePublished": "1973-12-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Errand_of_Mercy"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kampf_um_Organia"
+						}
+					],
 					"director": {
-						"@id": "JohnNewland",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnNewland",
 						"name": "John Newland"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "Peace negotiations have collapsed between the Federation and the warlike Klingon Empire. The Enterprise is ordered to protect Organia, a peaceful planet located near the Klingon border. Kirk and Spock beam to the surface to warn the Organians about the Klingons, but a Klingon fleet soon arrives, forcing the Enterprise to abandon the duo on the planet. The natives protect Kirk and Spock, even as Kor, the new Klingon governor, orders mass executions of the Organian people. As both Federation and Klingon fleets converge above the planet, Kirk and Spock execute a daring raid on the Klingon headquarters in an effort to destabilize their control over the planet."
@@ -828,10 +1762,37 @@
 						"name": "Auf Messers Schneide",
 						"datePublished": "1987-12-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Alternative_Factor"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Auf_Messers_Schneide"
+						}
+					],
 					"director": {
-						"@id": "GerdOswald",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GerdOswald",
 						"name": "Gerd Oswald"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DonIngalls",
+						"name": "Don Ingalls"
 					},
 					"abstract": {
 						"en": "While orbiting an apparently dead planet, the Enterprise seems to experience a strange moment of “nonexistence”. Captain Kirk discovers a man named Lazarus on the planet below, who claims the effect was caused by his “enemy”, later revealed to be an insane version of Lazarus from an alternate dimension. The sane version of Lazarus asks for Kirk’s help in defeating his counterpart."
@@ -852,18 +1813,45 @@
 						"name": "Griff in die Geschichte",
 						"datePublished": "1988-01-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte"
+						}
+					],
 					"director": {
-						"@id": "Joseph Pevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HarlanEllison",
+						"name": "Harlan Ellison"
 					},
 					"abstract": {
 						"en": "After accidentally overdosing on a powerful stimulant, Dr. McCoy becomes unbalanced and disappears through the Guardian of Forever, a newly discovered time portal on a remote planet. Kirk and Spock follow after learning that McCoy somehow changed history, removing everything they once knew, including the Enterprise. Arriving in the 1930s, the duo meets Edith Keeler, a New York social worker, who gives them a place to stay. As the days pass, and McCoy is nowhere to be seen, Kirk finds himself falling in love with Keeler, but Spock discovers that Keeler must die to restore the timeline.",
 						"de": "Kirk und Spock folgen McCoy durch ein Zeitportal, um den deshalb veränderten Geschichtsablauf auf der Erde zu korrigieren."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Griff_in_die_Geschichte",
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Time Travel Episodes",
 						"creator": {
 							"@type": "Person",
@@ -888,10 +1876,37 @@
 						"name": "Spock außer Kontrolle",
 						"datePublished": "1988-01-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Operation_--_Annihilate!"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spock_au%C3%9Fer_Kontrolle"
+						}
+					],
 					"director": {
-						"@id": "HerschelDaugherty",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"name": "Herschel Daugherty"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StevenWCarabatsos",
+						"name": "Steven W. Carabatsos"
 					},
 					"abstract": {
 						"en": "The Enterprise arrives at Deneva - the home of Captain Kirk’s brother, Sam, and his family - and discovers that the entire planet has been infested with large, amoeba-like aliens that have attacked and killed much of the human population. One of these aliens attaches itself to Spock, who volunteers to become a subject in Dr. McCoy’s medical tests. McCoy and Kirk find a cure in time to save Spock and the remainder of the Denevan population."
@@ -904,6 +1919,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#2",
 			"seasonNumber": 2,
 			"subjectOf": [
 				{
@@ -940,17 +1956,45 @@
 						"name": "Weltraumfieber",
 						"datePublished": "1974-01-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Amok_Time"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Weltraumfieber"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TheodoreSturgeon",
+						"name": "Theodore Sturgeon"
 					},
 					"description": {
 						"en": "When Mr. Spock begins behaving aggressively, Kirk discovers his first officer must return home to Vulcan to be married or die. Kirk disobeys his orders from Starfleet Command to visit Altair 6 and decides to save Spock. Spock, Kirk, and McCoy land on Vulcan where Spock takes them to his family land to begin pon farr. They meet T’Pau and T’Pring only to find that T’Pring wants a duel and chooses Kirk as a challenger. Kirk accepts the challenge thinking to let Spock win but is later told by T’Pau that it is a challenge to the death. During the fight, McCoy gives Kirk a neuro-tranquilizer to fake his death. Upon victory, Spock asks T’Pring to explain her decision and decides not to marry her. After beaming back to the Enterprise, Spock is overjoyed to see Kirk alive.",
 						"de": "Spock verhält sich merkwürdig und emotional, ohne den ihm bekannten Grund dafür preiszugeben, und ersucht deshalb bei Kirk um Urlaub auf seinem Heimatplaneten Vulkan. Kirk kann ihm den Urlaub zunächst nicht gewähren, da die Enterprise einen wichtigen diplomatischen Termin auf Altea VI wahrnehmen muss. Erst als McCoy erkennt, dass Spocks Verhalten tödlich enden könne, genehmigt Kirk den Flug nach Vulkan. Spock vertraut Kirk nun an, dass er sich im Pon Farr befindet, der vulkanischen Brunft. Obwohl das Sternenflottenkommando darauf besteht, dass die Enterprise zunächst nach Altea VI fliegt, lässt Kirk nach Vulkan Kurs setzen. Dort in Begleitung von Kirk und McCoy angekommen, wird Spock von seiner ihm schon vor Jahren versprochenen Frau T’Pring erwartet. Um T’Pring endgültig für sich zu gewinnen, muss Spock sich im Rahmen vulkanischer Tradition noch duellieren. T’Pring erwählt Kirk als seinen Gegner. Das auf Leben und Tod geführte Duell in einer Arena gewinnt Spock. Danach gibt T’Pring zu, dass sie nur deshalb Kirk als Spocks Gegner gewählt hat, um damit den ursprünglich dafür vorgesehenen Vulkanier Spong zu verschonen, in den sie in Wirklichkeit verliebt ist. Kirk indes ist nicht wirklich gestorben, sondern hat mit Hilfe einer Injektion McCoys überlebt. Nach dem Kampf ist Spocks Pon Farr beendet."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Steve’s Favorite Episodes",
 						"creator": {
 							"@type": "Person",
@@ -967,7 +2011,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.2",
 					"episodeNumber": "2.2",
-					"name": "Who Mourns For Adonais?",
+					"name": "Who Mourns for Adonais?",
 					"datePublished": "1967-09-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -975,10 +2019,37 @@
 						"name": "Der Tempel des Apoll",
 						"datePublished": "1972-11-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Who_Mourns_for_Adonais%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Tempel_des_Apoll"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GilbertRalston",
+						"name": "Gilbert Ralston"
 					},
 					"description": {
 						"en": "The Enterprise is held captive within an energy field which is controlled by an alien who claims to be the Greek god Apollo. Apollo commands Kirk to meet him on the planet’s surface. Bones, Chekov, Scotty, and Lieutenant Carolyn Palamas accompany Kirk. Apollo demands the crew worship him as a god at his temple, captivating Carolyn and attacking Scotty when he disobeys. Spock finds a way to get through the energy field and helps Kirk to take down the temple that was its power source.",
@@ -997,10 +2068,37 @@
 						"name": "Ich heiße Nomad",
 						"datePublished": "1972-07-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Changeling_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ich_hei%C3%9Fe_Nomad"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
 					},
 					"description": {
 						"en": "The crew of the Enterprise deals with Nomad — an indestructible, planet-destroying space probe that thinks Kirk is its creator. The space probe is beamed up and after completing an analysis, Mr. Spock reveals that its real creator is Jackson Roykirk, a scientist from the twentieth century. Spock enters the mind of Nomad and finds out the original space probe was destroyed when another alien probe somehow united with it, deleting its memory banks and resulting in a new machine with a new objective: sterilize all units which are imperfect. When Nomad takes control of the Enterprise, Kirk tells Nomad the truth making it realize that Nomad itself is flawed and must destroy itself. Star Trek: The Motion Picture was in part an expansion of this episode.",
@@ -1019,10 +2117,37 @@
 						"name": "Ein Parallel-Universum",
 						"datePublished": "1988-02-22"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Mirror,_Mirror_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_Parallel-Universum"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
 					},
 					"description": {
 						"en": "A transporter mishap slips Captain Kirk and his companions into a parallel universe, where the Enterprise serves a barbaric Empire instead of the Federation. Kirk, Bones, Scotty, and Uhura try to act appropriately for their new environment while figuring out how to get back to their universe where their Empire equivalents beamed. In this mirror universe, Mr. Chekov tried to kill Captain Kirk to succeed as Captain but failed and was sent to the torture booth. The Empire Spock receives a command from Starfleet base to execute Captain Kirk if he does not annihilate the planet Halkan by dawn, which he tells Kirk. Bones and Scotty reprogram the transporter to beam them back but are encountered by Spock in Sick Bay. Spock attacks them but is defeated and about to die. Kirk allows Bones to treat him while the others go to the transporter room. Mirror Spock learns the truth about the twin universes and brings Bones to the transporter room where he helps them transport back to our universe where Spock is waiting for them. This episode spun off several plotlines in Deep Space Nine, Enterprise and Discovery.",
@@ -1041,10 +2166,49 @@
 						"name": "Die Stunde der Erkenntnis",
 						"datePublished": "1988-02-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Apple_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Stunde_der_Erkenntnis"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#MaxEhrlich",
+							"name": "Max Ehrlich"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MaxEhrlich",
+						"name": "Max Ehrlich"
 					},
 					"description": {
 						"en": "The crew of the Enterprise visits a mysterious and deadly paradise planet which they discover is controlled by a machine called Vaal. The landing party, which includes Kirk, Spock, Bones and Sulu, are enchanted by the planet but encounter a strange flower that kills two members of the party. A mysterious bolt of lightning hurts Spock and disrupts the transporter room of the Enterprise. The surviving landing party finds a group of men and women who are controlled by Vaal. Vaal restricts their knowledge of human interactions such as sexual intercourse and has the island’s inhabitants feed it an explosive mineral found on the island in order to fuel itself. Vaal orders the inhabitants to kill the landing party by morning when it becomes clear that they represent a threat to the inhabitants’ current way of life. Scotty finds a way to route all the power to the ship’s phasers while Kirk and Bones prevent Vaal from being fed any more explosive mineral. Vaal loses strength as a result and becomes vulnerable which allows the Enterprise to destroy Vaal and free the inhabitants.",
@@ -1063,10 +2227,37 @@
 						"name": "Planeten-Killer",
 						"datePublished": "1972-06-24"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Doomsday_Machine_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Planeten-Killer"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#NormanSpinrad",
+						"name": "Norman Spinrad"
 					},
 					"abstract": {
 						"en": "After losing his entire crew to a planet-eating alien machine from another galaxy, Commodore Matt Decker pulls rank on Kirk in order to play a game of cat-and-mouse with the mechanical adversary. His efforts to destroy the menace place the Enterprise in grave danger."
@@ -1087,10 +2278,37 @@
 						"name": "Das Spukschloss im Weltall",
 						"datePublished": "1973-12-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Catspaw_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Spukschloss_im_Weltall"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"name": "Robert Bloch"
 					},
 					"description": {
 						"en": "Two powerful aliens threaten the well-being of the Enterprise and her crew with their magical powers. Scotty, Sulu, and Jackson from the landing party go missing on a planet known to be uninhabited. Upon returning Jackson dies, giving Kirk a warning to leave the system. Kirk, Spock and Bones beam down to find a mysterious castle. A man and a woman, Korob and Sylvia, meet them and they find that Korob and Sylvia are not from this system but have moved here with the intention of learning more about the humans. Korob has good intentions, but Sylvia is determined to learn about humans and captures Sulu, Scotty, and Bones completely by mind control. Kirk uses seductive tricks on Sylvia to get the truth and destroys their ’transmuter’ power source to free the entire landing party and end the illusions.",
@@ -1109,10 +2327,37 @@
 						"name": "Der dressierte Herrscher",
 						"datePublished": "1972-08-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/I,_Mudd"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_dressierte_Herrscher"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#StephenKandel",
+						"name": "Stephen Kandel"
 					},
 					"description": {
 						"en": "Captain Kirk and the crew have a second run-in with the con man, Harry Mudd, this time finding him as the king of a planet of androids. The Enterprise is captured by an android which takes the entire crew to an uncharted planet in the galaxy. Kirk, Spock, Bones, Uhura, Scotty, and Chekov land with the android on the planet to find Harry Mudd as the King of the planet and about 200,000 androids to serve him. He reveals that the androids want to learn about and serve humans and demanded more specimens. Harry Mudd plans to leave the entire crew of the Enterprise behind and take the starship. By unraveling the weak points of the androids, the crew of the Enterprise damage the main control unit ‘Norman’, reprogram the androids to serve their original purpose of settling the planet, gain control of the Enterprise and leave Harry Mudd behind to live with the humorous androids.",
@@ -1131,10 +2376,37 @@
 						"name": "Metamorphose",
 						"datePublished": "1973-11-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Metamorphosis_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Metamorphose"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"description": {
 						"en": "A shuttle crew from the Enterprise encounters a castaway who appears to be Zefram Cochrane, the inventor of warp drive, and his mysterious alien Companion. Kirk, Bones, Spock and a disease-stricken officer are brought down on a planet surface en route to the Enterprise where they meet Zefram Cochrane, who is recorded to be dead for 150 years. Cochrane explains that the Companion, a mysterious energy field, keeps him alive and well, but recently decided that he needed a companion. After investigating and challenging the alien Companion, Kirk realizes that the Companion has feelings for Cochrane and finds a way to get back to the Enterprise in a surprisingly romantic episode.",
@@ -1145,7 +2417,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.10",
 					"episodeNumber": "2.10",
-					"name": "Journey To Babel",
+					"name": "Journey to Babel",
 					"datePublished": "1967-11-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1153,10 +2425,37 @@
 						"name": "Reise nach Babel",
 						"datePublished": "1972-09-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Journey_to_Babel"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Reise_nach_Babel"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"description": {
 						"en": "While transporting dignitaries to an important peace conference on the planet Babel, the Enterprise is pursued by a mysterious vessel and, after a quarrel between the Vulcan ambassador, Sarek (Spock’s father), and the Tellarite ambassador, the latter is killed, with Sarek as the main suspect. Kirk is then attacked and badly injured by the assassin, exonerating Sarek but requiring that Spock take charge of the Enterprise. An ethical dilemma arises when Sarek falls ill and needs Spock’s blood for a risky life-saving operation. To his mother’s distress Spock puts his duty ahead of his father’s life. Kirk and Bones find a way to allow Spock to assist in the operation, while a still-injured Kirk tries to uncover the assassin’s plan and engages the attacking starship.",
@@ -1175,14 +2474,41 @@
 						"name": "Im Namen des jungen Tiru",
 						"datePublished": "1988-02-01"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Friday%27s_Child_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Im_Namen_des_jungen_Tiru"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"description": {
 						"en": "The crew of the Enterprise become entangled in a planet’s tribal power struggle. Upon landing and seeing a Klingon, one crew member is killed by the tribe. In a problematic turn of events, the leader of the 10 tribes is killed and Maab, who supports the Klingons, is the one who takes charge. The woman Eleen along with the landing party of Kirk, Spock, and Bones manage to escape but cannot contact the Enterprise which has been tricked into leaving the planet’s orbit to follow a distress signal. Eleen and the others manage to hide out. Maab realizes the Klingons’ true intention and the Enterprise manages to return in time to help the landing party and get the deal with the tribespeople.",
-						"de": "Ein Außenteam mit Kirk, Spock und McCoy ist auf dem Planeten Capella IV, um mit den dortigen Capellanern über Schürfrechte für ein wichtiges Mineral zu verhandeln. Die Gesprächsatmosphäre ist angespannt, weil auch ein klingonischer Unterhändler namens Kras um Schürfrechte ersucht und deswegen ein viertes Teammitglied von den Capellanern getötet wird. Der Capellaner Maab sympathisiert mit Kras und reißt die Herrschaft über die capellanischen Stämme mit Waffengewalt an sich. Dabei tötet er den bisherigen Anführer Akaar und wird somit selbst Anführer, d.&nbsp;h. Tiru. Kirk vereitelt, dass Maab Akaars Frau Eleen ermordet, die mit dem als künftigen Tiru vorbestimmten Kind hochschwanger ist. Das Außenteam flüchtet mit ihr vor Maab und dessen Gefolgschaft. Ein Teil der Verfolger wird bei einem Felssturz außer Gefecht gesetzt, den Kirk und Spock zielgerichtet verursachen. Die Enterprise unter Scotts Kommando ist indes durch einen gefälschten Notruf unpässlich. Eleen bringt ihr Kind, das sie allerdings aus Tradition nunmehr ablehnt, mit McCoys Hilfe zur Welt und verlässt es kurz darauf, um sich ihrem baldigen Tod zu ergeben. Kirk und Spock erwehren sich, auch mit der späteren Hilfe der Enterprise, den Angriffen von Kras und Maabs Kämpfern. Dabei stirbt Maab. Daraufhin übernimmt Eleen so lange die capellanische Anführerschaft, bis ihr neugeborener Sohn alt genug dazu sein wird."
+						"de": "Ein Außenteam mit Kirk, Spock und McCoy ist auf dem Planeten Capella IV, um mit den dortigen Capellanern über Schürfrechte für ein wichtiges Mineral zu verhandeln. Die Gesprächsatmosphäre ist angespannt, weil auch ein klingonischer Unterhändler namens Kras um Schürfrechte ersucht und deswegen ein viertes Teammitglied von den Capellanern getötet wird. Der Capellaner Maab sympathisiert mit Kras und reißt die Herrschaft über die capellanischen Stämme mit Waffengewalt an sich. Dabei tötet er den bisherigen Anführer Akaar und wird somit selbst Anführer, d. h. Tiru. Kirk vereitelt, dass Maab Akaars Frau Eleen ermordet, die mit dem als künftigen Tiru vorbestimmten Kind hochschwanger ist. Das Außenteam flüchtet mit ihr vor Maab und dessen Gefolgschaft. Ein Teil der Verfolger wird bei einem Felssturz außer Gefecht gesetzt, den Kirk und Spock zielgerichtet verursachen. Die Enterprise unter Scotts Kommando ist indes durch einen gefälschten Notruf unpässlich. Eleen bringt ihr Kind, das sie allerdings aus Tradition nunmehr ablehnt, mit McCoys Hilfe zur Welt und verlässt es kurz darauf, um sich ihrem baldigen Tod zu ergeben. Kirk und Spock erwehren sich, auch mit der späteren Hilfe der Enterprise, den Angriffen von Kras und Maabs Kämpfern. Dabei stirbt Maab. Daraufhin übernimmt Eleen so lange die capellanische Anführerschaft, bis ihr neugeborener Sohn alt genug dazu sein wird."
 					}
 				},
 				{
@@ -1197,14 +2523,56 @@
 						"name": "Wie schnell die Zeit vergeht",
 						"datePublished": "1988-02-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Deadly_Years"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wie_schnell_die_Zeit_vergeht"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+						"name": "David P. Harmon"
 					},
 					"description": {
 						"en": "Strange radiation exposes the command crew of the Enterprise to the effects of rapid aging. A landing party of Chekov, Kirk, Spock, Bones, Scotty, and Lieutenant Galway divide into small teams to find the planet Gamma Hydra Four’s colonists. Chekov enters a building and is shocked to see a dead man and calls others. The landing party meets two other people who are old in appearance but young in age. Bones concludes the analysis and says the two other people have only a few days to live because their bodily functions are aging about 30 years a day. The same thing begins to happen to the landing party upon getting back to the Enterprise. Scotty, Bones, Spock, Kirk and Galway start to get old, but Chekov does not. The aging inhibits the decision-making abilities of Captain Kirk and Spock. A Commodore Stocker who is a passenger aboard the Enterprise takes command of the ship. He makes a bad decision taking the Enterprise into the Neutral Zone and into a deadly attack by the Romulans. From an idea Bones has about why Chekov was immune, Spock and Dr. Janet Wallace (who is also a passenger aboard) devise a vaccine containing adrenaline that Kirk readily tests. It works and Kirk immediately resumes command of the Enterprise and tricks the Romulans, saving the Enterprise.",
 						"de": "Ein Außenteam der Enterprise findet die Bewohner einer Forschungsstation auf dem Planeten Gamma Hydra IV rapide gealtert vor. Der eine Teil der Personen ist schon an Altersschwäche gestorben, der andere Teil stirbt wenig später ebenfalls daran. Alsbald beginnen auch die Mitglieder des Außenteams rapide zu altern und drohen deshalb in wenigen Tagen zu sterben. Chekov bleibt merkwürdigerweise davon verschont, Spock altert langsamer. Spock ermittelt als Ursache die von einem Kometen ausgehende Strahlung als Ursache für die Krankheit. Commodore Stocker lässt Spock angesichts der wegen zunehmender Senilität eingeschränkten Führungskraft Kirks Dienstbefähigung prüfen. Kirk weigert sich trotz seiner zunehmenden Vergreisung einzugestehen, dass er dienstunfähig ist. Die Anhörung ergibt, dass Stocker das Kommando von Kirk übernimmt. Daraufhin lässt Stocker die Enterprise zu einer Raumstation Kurs setzen und dabei fahrlässig durch die Neutrale Zone fliegen, in der Gefahr durch die Romulaner droht. Basierend auf Chekovs Verhalten auf dem Planeten erkennen Spock, Kirk und McCoy, dass Adrenalin wirksam gegen die Verstrahlung und somit gegen die Vergreisungserkrankung ist. Diese wird daraufhin bei den noch nicht gestorbenen Erkrankten geheilt. Kirk kann somit das Kommando wieder übernehmen und mit einer gewagten List die von den Romulanern ausgehende Gefahr bannen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/d_1YHVfLbMo"
+						}
 					}
 				},
 				{
@@ -1219,10 +2587,37 @@
 						"name": "Tödliche Wolken",
 						"datePublished": "1972-07-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Obsession_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/T%C3%B6dliche_Wolken"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+						"name": "Art Wallace"
 					},
 					"description": {
 						"en": "Captain Kirk becomes obsessed with destroying a murderous entity that killed many of the crew of his old ship. After finding a mysterious cloud that quickly kills three crew members, Captain Kirk is determined to find a way to understand it and destroy it, stopping it from spreading to more planetary systems. Kirk recalls his past experience with this cloud a few years earlier in a different planetary system on the other side of the galaxy. His obsession with this cloud starts to interfere with his decision-making skills as the commander of the starship prompting a medical record from Bones and Spock. Soon, Spock and Bones realize why Kirk is obsessed with this cloud. The Enterprise begins attacking the cloud only to realize that the cloud is not running away and manages to enter the air circulation system of the Enterprise. Kirk, Spock and Bones finally devise a way to destroy the cloud.",
@@ -1233,7 +2628,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.14",
 					"episodeNumber": "2.14",
-					"name": "Wolf In The Fold",
+					"name": "Wolf in the Fold",
 					"datePublished": "1967-12-22",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1241,10 +2636,37 @@
 						"name": "Der Wolf im Schafspelz",
 						"datePublished": "1988-02-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Wolf_in_the_Fold"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Wolf_im_Schafspelz"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertBloch",
+						"name": "Robert Bloch"
 					},
 					"description": {
 						"en": "Mr. Scott is implicated in a series of bizarre murders. On planet Argelius during a planned break, Scotty, Kirk and Bones encounter a series of events where Scotty is blamed for murdering three women, two local to the planet, and one crew member aboard the Enterprise, Lt. Tracy. The Prefect wants to investigate the murder on the planet but all methods seem futile. Once aboard the Enterprise, the computer, fed with all medical records of Scotty, begins analyzing Scotty’s responses to all the questions. The committee realizes that Scotty is not lying and indeed someone/something else is responsible for the murder. The committee finds that the thing resembles Jack the Ripper, who has been rumored to exist throughout the 19th, 20th and 21st centuries on all systems between Earth and Argelius. Upon further analysis, Hengist, security adviser to the Prefect, is found to be possessed by the creature which causes fear in humanoids and kills them. It takes control of the Enterprise and threatens to kill them all. Spock overrides the controls, setting them to manual, overloads the computer banks by getting it to calculate the last digit of pi, impairing the thing for a few hours while Bones tranquilizes the entire crew aboard. The thing is captured inside Hengist finally and transported to the furthermost regions of the galaxy in thousands of small pieces.",
@@ -1255,7 +2677,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.15",
 					"episodeNumber": "2.15",
-					"name": "The Trouble With Tribbles",
+					"name": "The Trouble with Tribbles",
 					"datePublished": "1967-12-29",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1263,21 +2685,48 @@
 						"name": "Kennen Sie Tribbles?",
 						"datePublished": "1972-09-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Trouble_with_Tribbles"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kennen_Sie_Tribbles%3F"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+						"name": "David Gerrold"
 					},
 					"abstract": {
 						"de": "Auf der Enterprise und der Raumstation K-7 vermehren sich die kleinen Pelztiere „Tribbles“ rasend schnell."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Kennen_Sie_Tribbles%3F",
 					"description": {
 						"en": "Tribbles – purring, fluffy, and fertile creatures – disrupt the exploitation of a disputed planet between the Klingon Empire and the Federation. The Enterprise responds to a priority 1 distress signal from Space Station K7 on the edge of the Neutral Zone and close to Sherman’s Planet. Mr. Baris asks Kirk to provide protection to the storage facility on the space station to preserve an improved grain that will help the Federation to gain control of Sherman’s Planet and prevent the Klingons from capturing it. Kirk sanctions the security guard and also gives shore leave to the crew aboard the Enterprise. Uhura and Chekov find an interesting creature called a tribble on the station and bring it aboard the Enterprise. Tribbles begin to reproduce exponentially and spread everywhere on the Enterprise. A Klingon ship also reaches the K7 facility for shore leave and Kirk allows it under the Enterprise’s protection. Tribbles begin to enter the vent systems of the Enterprise and Space Station K7, destroying the crop. Later it is revealed that the crop was poisoned by a Klingon spy aboard the space station. The poison also killed the Tribbles that ate the grain. Kirk finds the spy and Scotty finds a way to get rid of the tribbles from the Enterprise."
 					},
 					"review": {
 						"@type": "Review",
-						"name": "Ups & Downs",
+						"inLanguage": "en",
+						"name": "Retro Ups & Downs",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
@@ -1293,7 +2742,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.16",
 					"episodeNumber": "2.16",
-					"name": "The Gamesters Of Triskelion",
+					"name": "The Gamesters of Triskelion",
 					"datePublished": "1968-01-05",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1301,10 +2750,37 @@
 						"name": "Meister der Sklaven",
 						"datePublished": "1988-03-14"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Gamesters_of_Triskelion"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Meister_der_Sklaven"
+						}
+					],
 					"director": {
-						"@id": "GeneNelson",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneNelson",
 						"name": "Gene Nelson"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
 					},
 					"description": {
 						"en": "Captain Kirk, Chekov and Uhura are kidnapped by powerful disembodied aliens and forced to fight in gladiatorial contests for the aliens’ gambling entertainment. While trying to beam down to planet Gamma 2, Kirk, Uhura and Chekov are transported to a mysterious planet, Triskelion, that has never been mapped by the Federation. There, the three of them are captured and trained in fighting skills by trainers called Thralls. Any act of disobedience is met with pain through collars around their necks. The Enterprise, now commanded by Spock, leaves the Gamma 2 system and finds a hydrogen cloud with mysterious energy fields. On Triskelion, Kirk manages to impress the Providers and bonds with his Thrall to learn more about the Providers. While trying to run away, the Providers show their true selves and wager a deal with Kirk for one last fight between Kirk and three Thralls. Kirk manages to defeat them, setting all the Thralls free and making the Providers teach the Thralls using all the knowledge they possess.",
@@ -1315,7 +2791,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.17",
 					"episodeNumber": "2.17",
-					"name": "A Piece Of The Action",
+					"name": "A Piece of the Action",
 					"datePublished": "1968-01-12",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1323,17 +2799,57 @@
 						"name": "Epigonen",
 						"datePublished": "1972-07-08"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Piece_of_the_Action_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Epigonen"
+						}
+					],
 					"director": {
-						"@id": "JamesKomack",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesKomack",
 						"name": "James Komack"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+							"name": "David P. Harmon"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidPHarmon",
+						"name": "David P. Harmon"
 					},
 					"description": {
 						"en": "The Enterprise visits a planet with a violent culture based on America’s 1920s Prohibition era. After receiving a 100-year-late report from an old starship, Kirk, Bones, and Spock decide to beam down to the Iotian planet to learn about their way of life and are surprised that the entire society is based on 1920s-era Chicago mob culture. Realizing that the Enterprise must help rectify this situation, Kirk decides to collect all the bosses in one place and form a syndicate but runs into trouble with the two biggest bosses, Bela and Krako. Kirk captures Bela and transports Krako to the Enterprise before tricking the rest of the bosses into gathering together. Using Starfleet Command as the oversight body, Kirk forms the syndicate, to be headed by Bela with Krako as his lieutenant. Kirk hopes that they can teach a new style of living to these people under the surveillance of the Federation.",
 						"de": "Vor vielen Jahren besuchte das Föderationsraumschiff Horizon den Planeten Jota, auf dem damals eine vorindustrielle einheimische Zivilisation lebte, und ließ dabei ein Buch über die Chicagoer Unterwelt der 1920er Jahre zurück. In der Folge entwickelte sich die dortige Zivilisation zu einer Gesellschaft entsprechend der in dem Buch dargestellten, die von Kriminalität und Waffengewalt geprägt ist und deshalb in Anarchie zu versinken droht. Kirks Mission im Auftrag der Föderation ist es, den Schaden für die Einheimischen zu beheben. Nachdem Kirk mit Spock und McCoy auf den Planeten gebeamt ist, werden sie von dem Gangsterboss Bela Okmyx eingesperrt, weil Kirk sich weigert, ihm zur Bekämpfung seiner Konkurrenten Waffen von der Enterprise zu liefern. Auch Belas Konkurrent Jojo Krako scheitert mit dieser Forderung an Kirk. Kirk, Spock und McCoy können sich befreien und machen sich daran, Krako und Bela gegeneinander auszuspielen. Dabei gibt sich Kirk als konkurrierender Gangsterboss aus, der für das Syndikat namens Föderation arbeitet. Mit der Hilfe der Enterprise kann er den Jotaniern die Macht der Föderation demonstrieren. Damit und mit der Ankündigung, die Enterprise werde jährliche Kontrollen vornehmen, kann Kirk die Jotanier dazu veranlassen, das Buch nicht mehr zu verwenden, und somit das gegenseitige Bekämpfen stoppen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1358,10 +2874,37 @@
 						"name": "Das Loch im Weltraum",
 						"datePublished": "1972-06-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Immunity_Syndrome_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Loch_im_Weltraum"
+						}
+					],
 					"director": {
-						"@id": "JosephPevney",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JosephPevney",
 						"name": "Joseph Pevney"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobertSabaroff",
+						"name": "Robert Sabaroff"
 					},
 					"description": {
 						"en": "The crew of the Enterprise encounters an energy-draining space creature. On their way to Starfleet Command base 6, the Enterprise receives orders to check on Starship Intrepid in Gamma 7 solar system. They find a black space covering the path to the system with no stars visible through it. Upon crossing into the space, the Enterprise begins to lose energy and is pulled towards a single-celled organism that is massive in size. After losing two probes to investigate the organism and failing in an attempt to pull away, Kirk chooses Spock to take the shuttlecraft into the organism membrane, investigate it and find a way to destroy it. Spock finds that the organism is about to reproduce and has a nucleus that can be attacked with a full charge of antimatter energy. Kirk manages to send a probe with the help of Scotty equipped with a timed bomb of antimatter energy and the Enterprise begins to drift out of the membrane tugging the shuttlecraft. Finally, the organism is destroyed and the galaxy is saved.",
@@ -1380,10 +2923,42 @@
 						"name": "Der erste Krieg",
 						"datePublished": "1988-03-07"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/A_Private_Little_War"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_erste_Krieg"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DonIngalls",
+						"name": "Don Ingalls"
 					},
 					"description": {
 						"en": "Captain Kirk must decide how to save a primitive people from the technological interference of the Klingons. Upon landing on the planet with a humanoid population, Kirk finds that half of the population, led by his old friend Tyree, is still primitive while the other half has firearms. Spock is shot and is beamed back to the ship to recover. Kirk and McCoy begin an investigation and Kirk is poisoned by a wild beast. With the Enterprise unavailable to help, Tyree’s wife, Nona, heals Kirk, but she also attempts to control both Kirk and Tyree. After recovering, Kirk takes Nona away from the camp but is attacked by her. She steals his phaser and runs to the enemy camp but is killed in the ambush. Tyree agrees to use weapons to fight to protect his people. Kirk asks Mr. Scott to make firearms for the primitive people, to maintain a balance of power between the two camps.",
@@ -1394,7 +2969,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.20",
 					"episodeNumber": "2.20",
-					"name": "Return To Tomorrow",
+					"name": "Return to Tomorrow",
 					"datePublished": "1968-02-09",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1402,10 +2977,37 @@
 						"name": "Geist sucht Körper",
 						"datePublished": "1973-12-29"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Return_to_Tomorrow"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Geist_sucht_K%C3%B6rper"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnTDugan",
+						"name": "John T. Dugan"
 					},
 					"description": {
 						"en": "Telepathic aliens take control of Kirk and Spock’s bodies with the intention to build new, mechanized bodies for themselves. After receiving a distress signal from a planet deep in the galaxy and far from the last charted area, the Enterprise is contacted by a life form of pure energy that wishes Kirk, Spock, Dr. Mulhall and Bones to beam down. They meet Sargon, a conscious mind trapped in a machine. Sargon explains that their civilization travelled space just like Kirk centuries ago and left people in various star systems to colonize. But this planet suffered a war where all but a few people destroyed themselves. Sargon, his wife and another remain alive like this and wish to take control of Kirk, Spock and Dr. Mulhall’s bodies to make android bodies for themselves. The Enterprise accepts their offer after deliberation and Sargon begins work. To allow the body to sustain this transformation, Henock, the third alien, makes a potion to help but has other plans. Sargon devizes a plan to destroy him, apologizes to the Enterprise and accepts their fate thereby ceasing to exist.",
@@ -1416,7 +3018,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.21",
 					"episodeNumber": "2.21",
-					"name": "Patterns Of Force",
+					"name": "Patterns of Force",
 					"datePublished": "1968-02-16",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1424,20 +3026,47 @@
 						"name": "Schablonen der Gewalt",
 						"datePublished": "1999-07-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Patterns_of_Force_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Schablonen_der_Gewalt"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
 					},
 					"abstract": {
 						"de": "Kirk und Spock infiltrieren auf der Suche nach einem Vermissten einen außerirdischen Planeten, auf dem Zustände wie in Nazideutschland herrschen."
 					},
-					"sameAs": "https://de.wikipedia.org/wiki/Schablonen_der_Gewalt",
 					"description": {
 						"en": "The crew of the Enterprise visits a planet dominated by a Nazi culture and at war with its planetary neighbor. The Enterprise is visiting the planet of Ekos that is surrounded by system Zeon inhabitants. Ekosians are violent and Zeons are peaceful people. Enterprise wants to contact a Professor John from Earth who came here to research without interaction but the planet turned into a Nazi-type colony hating the Zeons. Apparently, John becomes the leader of Ekos and hatches a plot to eliminate the Zeons. Spock and Kirk beam down and try to contact John but run into trouble and are captured. They scheme to get out of the jail with one of the Zeons and arrange to meet John but realize that John is drugged and Malekon is controlling the entire process. Bones is beamed down and gives a stimulant that finally works on John, who explains to Kirk what went wrong with his observation mission and saves the day by giving an eye-opening speech to the people of Ekos restoring the peace."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1462,10 +3091,49 @@
 						"name": "Stein und Staub",
 						"datePublished": "1972-11-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/By_Any_Other_Name"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Stein_und_Staub"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+							"name": "Jerome Bixby"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
 					},
 					"description": {
 						"en": "Beings from the Andromeda Galaxy steal the Enterprise, technologically modify it, and attempt to return home. Kirk, Spock, Bones, and some crew members beam down to a planet’s surface and find a group of people who demand Kirk surrender the ship by paralyzing everyone except Kirk. These people are the inhabitants of the planet Kelvan in the Andromeda galaxy. They crossed the intergalactic boundaries and intergalactic space to the Milky Way to find a sustainable system for their people on a journey spanning over 300 years. Soon, Rojan controls the Enterprise and, along with his people, immobilizes the entire crew aboard and begins the journey for Andromeda. Upon reaching the intergalactic boundary, Spock and Scotty make a plan to blow up the Enterprise to defeat the Kelvans’ mission, but Spock says no. Later, Kirk and Spock realize that these people, though they have taken human form, are unable to handle the flow of emotions. Spock, Kirk, Bones, and Scotty begin challenging those emotions to distract the Kelvans and regain control of the Enterprise. They help the Kelvans realize that with the help of the United Federation of Planets, the Kelvans can peacefully make their journey into the Milky Way and live in harmony with other civilizations.",
@@ -1484,17 +3152,45 @@
 						"name": "Das Jahr des roten Vogels",
 						"datePublished": "1988-03-21"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Omega_Glory"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Jahr_des_roten_Vogels"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"description": {
 						"en": "Captain Kirk must battle a deadly virus and a treacherous fellow starship captain to stop a meaningless intertribal war. The Enterprise responds to a signal received from the USS Exeter, which is orbiting a planet but not responding to any communications. Upon boarding the ship, Kirk, Bones, and Spock finds that the crew has disappeared and have left behind clothes and a mysterious salt rich in potassium and carbon. Bones realizes that this could be the remains if the crew’s bodies lost all their water. Spock plays the last log from the Exeter and finds a message that says everyone is affected by a virus and should not go back to their ship but beam down to the planet’s surface. Upon landing, they find Captain Tracey of the Exeter, but he is fighting a war with the inhabitants on the side of the Yangs. The landing party is imprisoned and Bones is instructed to find the cure for the disease so that they can go back to the ship. Kirk, Spock, and Bones realize that the human body develops antibodies for the disease within a few hours if they remain on the surface and then beam back to the Enterprise; the antibodies are natural for the local Yangs and Kohms. Finally, the Yangs realize Kirk follows the same book as them (the American Constitution and flag), but in order to decide who is right, they makes Kirk and Captain Tracey fight in a trial by combat. Spock manages to allure one of the Yangs and trick her into giving back his communicator. Three security personnel beam down and take control of the situation. Finally, Kirk tells the Yangs that their Constitution is for everyone, including Kohms, and they should try to live peacefully here.",
 						"de": "Die Enterprise entdeckt im Orbit des Planeten Gamma-IV das Sternenflottenraumschiff Exeter. Ein Außenteam mit Kirk, Spock, McCoy erkennt, dass die Crew durch Kristallisation starb. Einem Logbucheintrag des Schiffsarztes folgend, beamt das Team auf den Planeten und kommt dort in Kontakt mit Captain Tracey, dem letzten Überlebenden der Exeter. Er wie auch das Team können den Planeten nicht mehr verlassen, weil sie nur durch den Planeten vor dem Ausbruch der Krankheit geschützt sind, die zur tödlichen Kristallisation führt. Tracey lässt von McCoy die Besonderheit der Einheimischen erforschen, durch den Zyklus des sog. „Jahres des roten Vogels“ sehr langlebig zu sein. Tracey hat sich entgegen der obersten Direktive auf dem Planeten auf Seiten der sog. Kohms geschlagen, die ihre Feinde, die sog. Yangs versklaven. Er lässt Kirk und Spock mit zwei Yangs einsperren, sie können sich jedoch befreien. Von McCoy erfahren sie, dass die Einheimischen infolge eines früheren Krieges so langlebig wurden und auch eine Immunität gegen die Krankheit entwickelten. Immun, aber nicht langlebig, werden alle Besucher des Planeten, sodass sie ihn gefahrlos verlassen können. Schließlich erfahren sie, dass die Yangs und die Kohms einst einen Kalten Krieg gegeneinander führten, ähnlich dem auf der Erde. Kirk versichert ihnen, dass die Gesetze der Demokratie für beide Seiten gelten."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1519,10 +3215,42 @@
 						"name": "Computer M5",
 						"datePublished": "1972-07-15"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Ultimate_Computer"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Computer_M5"
+						}
+					],
 					"director": {
-						"@id": "JohnMeredythLucas",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
+					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LaurenceNWolfe",
+						"name": "Laurence N. Wolfe"
 					},
 					"description": {
 						"en": "A new computer system causes havoc while being tested aboard the Enterprise. With most of the Enterprise crew deboarded, a new M5 multitronic system is installed to test if it can control the Enterprise and manage operations aboard. Dr. Richard Daystrom has built this M5 unit and will oversee the test. Everything goes as planned as the M5 unit completes the demonstration tasks, but somehow the machine begins gaining too much control of the Enterprise, which starts to worry Spock and Kirk. When Kirk says he wants the M5 to let go of some of the controls the machine begins to see that as a threat and starts locking out all manual controls. This becomes a problem because the next task is a mock battle with three starships, which the M5 thinks are actual attacks. The M5 loads the torpedoes, destroys the USS Excalibur and seriously damages the USS Lexington. Dr. Daystrom tries to talk to the M5 but becomes mentally unstable, so Spock puts him to rest. Then Kirk talks to the M5 and makes it understand that it was designed not to harm humans, a rule the M5 has broken by attacking the USS Lexington and Excalibur. The M5 realizes that its understanding is still weak and destroys itself. Kirk, Spock, Uhura, Scotty and Chekov retake control of the ship and return safely to base.",
@@ -1533,7 +3261,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#2.25",
 					"episodeNumber": "2.25",
-					"name": "Bread And Circuses",
+					"name": "Bread and Circuses",
 					"datePublished": "1968-03-15",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1541,17 +3269,52 @@
 						"name": "Brot und Spiele",
 						"datePublished": "1974-01-26"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Bread_and_Circuses_(Star_Trek:_The_Original_Series)"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Brot_und_Spiele"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+							"name": "Gene L. Coon"
+						}
+					],
 					"description": {
 						"en": "Captain Kirk and his companions are forced to fight in gladiatorial games on a planet with a civilization similar to the Roman Empire. Kirk, Spock and Bones beam down to a planet to find out why its people live like the ancient Roman Empire where slaves are subjected to fighting in gladiatorial combat. They ask refugees who escaped slavery to help them get into the empire where they meet a former starship captain. All three of them are captured. Spock and Bones are forced to fight and later all three of them are sentenced to the death penalty. However, Kirk, Spock and Bones manage to get back their transponders, and Scotty immediately beams them up.",
 						"de": "Die Enterprise findet im All Trümmer des lange vermissten Raumschiffs Beagle und ortet auf einem nahen, der Erde des 20. Jahrhunderts ähnelnden Planeten Lebenszeichen, die möglicherweise von der Crew der Beagle stammen. Kirk, Spock und McCoy, auf der Suche nach ihnen auf den Planeten gebeamt, treffen dort auf Stadtbewohner, die unter der Macht des Prokonsuls Claudius Marcus leben. Dessen Adjutant ist Merrick, der ehemalige Captain der Beagle. In deren Gefangenschaft kommen die Drei zusammen mit dem entflohenen Sklaven Flavius. Merrick und seine Crew untersuchten einst den Planeten und durften ihn zur Vermeidung ihrer Ermordung durch die Einheimischen nicht mehr verlassen. Diejenigen, die sich den Einheimischen widersetzten, starben und die anderen leben nun in einer Gesellschaft nach Vorbild des Römischen Reichs, in der Gladiatorenkämpfe üblich sind. Der Prokonsul versucht Kirk dazu zu zwingen, der restlichen Enterprise-Crew den Befehl zum Herunterbeamen zu geben. Da Kirk sich weigert, möchte Claudius Marcus ihn öffentlich exekutieren lassen. Jedoch kann er mit Spock und McCoy rechtzeitig auf die Enterprise beamen. Bei der Flucht hilft ihnen sowohl Flavius als auch Merrick, der Claudius Marcus indes überdrüssig geworden ist, als auch die Enterprise, die Kirk zuvor insgeheim instruiert hatte."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1576,11 +3339,50 @@
 						"name": "Ein Planet, genannt Erde",
 						"datePublished": "1972-09-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Assignment:_Earth"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Ein_Planet,_genannt_Erde"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+						"name": "Art Wallace"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArtWallace",
+							"name": "Art Wallace"
+						}
+					],
 					"description": {
 						"en": "During a historical research mission in 1968, the Enterprise encounters Gary Seven, a human from the future who appears to be attempting to alter history. The Enterprise is on its mission to observe the Earth in 1968 when it beams aboard a mysterious man named Gary Seven. Gary wants to get back to the Earth’s surface, but the Enterprise command crew are unable to decide how to proceed. Seven tricks the guards and escapes, leading Kirk and Spock to beam down to the Earth’s surface. History suggests that on this day, a crucial spacecraft launch failed in the US that changed the course of history. But Kirk and Spock fail to realize that Seven is trying to help the events take place and not stop them. Using his secret portal, Seven is able to reach the launch site and install the device that will cause the mission to fail. The Enterprise can safely return to its present time.",
 						"de": "Die Enterprise ist zu Forschungszwecken in die Nähe der Erde des Jahres 1968 gereist. Plötzlich beamt sich der Agent 194 mit dem Codenamen Felix Seven Rock an Bord und behauptet, von einem außerirdischen Planeten zu kommen und in wichtiger Mission zur Rettung der Erde unterwegs zu sein. Kirk misstraut ihm und lässt ihn in Arrest stecken, aus dem er aber bald wieder flieht und sich in ein Büro in New York City beamt. Er will verhindern, dass auf der Erde ein Atomkrieg ausbricht, und versucht dazu mit zwei bereits dafür eingeteilten Agenten Kontakt aufzunehmen, die jedoch bei einem Autounfall sterben. Seven Rock beamt sich zur McKinley-Raketenbasis, auf dem die Amerikaner in Kürze eine Atomrakete starten lassen. Kurz bevor der Startcountdown abläuft, kann Seven Rock die Rakete insgeheim manipulieren. Kirk und Spock verfolgen Seven Rock bis in die Raketenbasis, wo beide aber verhaftet werden. Die für die zwei gestorbenen Agenten eingeteilte Frau Roberta beamt Seven Rock zu sich ins Büro und verhindert damit, dass Scotty in der Enterprise Seven Rock zu sich beamt. Kirk und Spock können ihrer Haft entkommen und lassen sich durch Scotty ebenfalls in das Büro beamen. Dort gibt Kirk erst in letzter Sekunde sein Misstrauen gegenüber Seven Rock auf, indem er ihn mit dessen Spezialcomputer die Rakete detonieren lässt, kurz bevor sie auf der Erde Schaden angerichtet hätte."
@@ -1590,6 +3392,7 @@
 		},
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/tos#3",
 			"seasonNumber": 3,
 			"subjectOf": [
 				{
@@ -1626,10 +3429,37 @@
 						"name": "Spocks Gehirn",
 						"datePublished": "1988-04-04"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Spock%27s_Brain"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Spocks_Gehirn"
+						}
+					],
 					"director": {
-						"@id": "MarcDaniels",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarcDaniels",
 						"name": "Marc Daniels"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "Captain Kirk pursues aliens who have stolen Spock’s brain."
@@ -1639,6 +3469,7 @@
 					},
 					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Worst Episodes Ever",
 						"creator": {
 							"@type": "Person",
@@ -1663,10 +3494,37 @@
 						"name": "Die unsichtbare Falle",
 						"datePublished": "1972-08-12"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Enterprise_Incident"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_unsichtbare_Falle"
+						}
+					],
 					"director": {
-						"@id": "JohnMeredythLucas",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise attempts to steal a Romulan cloaking device."
@@ -1687,10 +3545,37 @@
 						"name": "Der Obelisk",
 						"datePublished": "1972-11-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Paradise_Syndrome"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Obelisk"
+						}
+					],
 					"director": {
-						"@id": "JudTaylor",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
 					},
 					"abstract": {
 						"en": "A mysterious alien device on a planet with a predominantly American Indian culture erases Captain Kirk’s memory, and he begins a life with them as a member of their tribe."
@@ -1698,8 +3583,9 @@
 					"description": {
 						"de": "Die Enterprise entdeckt, dass der Planet Amerind durch einen Asteroiden zerstört werden wird. Dort finden Captain Kirk, Mr. Spock und Dr. McCoy einen Obelisken mit fremden Schriftzeichen. Kirk kontaktiert die Enterprise und fällt daraufhin durch eine sich öffnende Falltür in das Bauwerk. Durch einen aktivierten Abwehrmechanismus verliert er sein Gedächtnis. Die Enterprise verlässt den Planeten, um den Asteroiden rechtzeitig abzufangen. Kirk gelingt es, den Obelisken zu verlassen und trifft auf Miramanee und ihre Magd, die Kirk zu ihrem Stamm bringen. Die Menschen dort leben und kleiden sich wie die Ureinwohner Nordamerikas und sehen in Kirk ihren göttlichen Retter. Häuptling Goro macht ihn zu dem neuen Medizinmann. Währenddessen muss Spock eine Geschwindigkeit anordnen, die zu einem Ausfall der Sol-Triebwerke führt. Durch deren fehlende Energie scheitert der Versuch, den Asteroiden abzulenken oder ihn mithilfe der Phaser zu zerkleinern. Die Enterprise kann nur noch mit Impulsenergie zum Planeten zurückfliegen. Kirk erfährt, dass die Indianer von den Erbauern des Obelisken auf den Planeten gebracht wurden. Er heiratet Miramanee. Der vorherige Medizinmann Salish versucht erfolglos, dies zu verhindern. Bei einem Gewitter soll Kirk die Indianer retten. Er begibt sich zum Obelisken, kann dort aber nichts erreichen. Er und Miramanee werden von den wütenden Indianern gesteinigt. Spock kann Kirk mit einer Gedankenverschmelzung sein Gedächtnis wiedergeben. Sie entdecken, wie der Obelisk geöffnet werden kann. Im Obelisk aktiviert Spock einen Energiestrahl, der den Asteroiden ablenkt. Miramanee hat zu starke innere Verletzungen und stirbt in Kirks Armen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1716,7 +3602,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.4",
 					"episodeNumber": "3.4",
-					"name": "And The Children Shall Lead",
+					"name": "And the Children Shall Lead",
 					"datePublished": "1968-10-11",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1724,10 +3610,37 @@
 						"name": "Kurs auf Markus 12",
 						"datePublished": "1974-02-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/And_the_Children_Shall_Lead"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Kurs_auf_Markus_12"
+						}
+					],
 					"director": {
-						"@id": "MarvinJChomsky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#EdwardJLakso",
+						"name": "Edward J. Lakso"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise rescues a group of children stranded on a planet, along with their evil “imaginary” friend."
@@ -1740,7 +3653,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.5",
 					"episodeNumber": "3.5",
-					"name": "Is There In Truth No Beauty?",
+					"name": "Is There in Truth No Beauty?",
 					"datePublished": "1968-10-18",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1748,10 +3661,37 @@
 						"name": "Die fremde Materie",
 						"datePublished": "1972-09-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Is_There_in_Truth_No_Beauty%3F"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_fremde_Materie"
+						}
+					],
 					"director": {
-						"@id": "RalphSenensky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RalphSenensky",
 						"name": "Ralph Senensky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeanLisetteAroeste",
+						"name": "Jean Lisette Aroeste"
 					},
 					"abstract": {
 						"en": "The Enterprise travels with an alien ambassador who must travel inside a special case because his appearance causes insanity."
@@ -1764,7 +3704,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.6",
 					"episodeNumber": "3.6",
-					"name": "Spectre Of The Gun",
+					"name": "Spectre of the Gun",
 					"datePublished": "1968-10-25",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1772,10 +3712,37 @@
 						"name": "Wildwest im Weltraum",
 						"datePublished": "1988-03-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Spectre_of_the_Gun"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wildwest_im_Weltraum"
+						}
+					],
 					"director": {
-						"@id": "VincentMcEveety",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#VincentMcEveety",
 						"name": "Vincent McEveety"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "For trespassing on an alien world, Captain Kirk and his companions are forced to re-enact the famous shoot-out at the O.K. Corral with themselves cast as the losing side."
@@ -1783,8 +3750,9 @@
 					"description": {
 						"de": "Die Enterprise trifft auf eine Sonde, die über Telepathie eine eindeutige Warnung an die gesamte Besatzung ausspricht, den Planeten Melkot zu betreten. Trotz der Warnung wird der Kurs beibehalten und Captain Kirk beamt mit einem Landetrupp auf den Planeten. Dort treffen sie auf einen Melkotianer, der das Team für die verbotene Landung auf dem Planeten mit dem Tod bestrafen will. Einen Moment später finden sie sich im Jahr 1881 in Tombstone, Arizona wieder. In diesem Jahr kämpften die Clanton-Bande und die Earp Brüder um die Vorherrschaft in der Stadt. Wie sie bald herausfinden, übernehmen sie die Rolle der Clanton-Bande, die am Ende sterben wird. Nach einem Streit um das Mädchen Sylvia mit einem der Earp-Brüder wird Chekov erschossen. Bald findet Spock heraus, dass Billy, dessen Rolle Chekov eingenommen hatte, 1881 als einziger den Kampf am O. K. Corral überlebte und somit der Lauf der realen Geschichte nicht eingehalten wird. Sie produzieren ein Gift, das die feindliche Bande beim entscheidenden Kampf unschädlich machen soll. Da das Gift nicht wirkt, erkennen sie, dass alles um sie herum nicht real ist. Vor der entscheidenden Schießerei nimmt Spock eine Gedankenverschmelzung vor, damit auch die anderen fest davon überzeugt sind, dass alles um sie herum irreal ist. Die feindlichen Kugeln können ihnen nicht das Geringste anhaben. Mit Selbstverteidigung setzen sie die Gegner außer Gefecht, ohne sie dabei ernsthaft zu verletzen. Dieser Verzicht auf Gewalt imponiert den Melkotianern. Sie schicken alle Mitglieder des Landetrupps wohlbehalten auf die Enterprise zurück und stimmen zu, mit der Föderation Kontakt aufzunehmen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Other Earths",
 						"creator": {
 							"@type": "Person",
@@ -1801,7 +3769,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.7",
 					"episodeNumber": "3.7",
-					"name": "Day Of The Dove",
+					"name": "Day of the Dove",
 					"datePublished": "1968-11-01",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1809,10 +3777,37 @@
 						"name": "Das Gleichgewicht der Kräfte",
 						"datePublished": "1988-04-18"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Day_of_the_Dove"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Gleichgewicht_der_Kr%C3%A4fte"
+						}
+					],
 					"director": {
-						"@id": "MarvinJChomsky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
 					},
 					"abstract": {
 						"en": "An alien energy-based life form that feeds on negative emotions (such as fear, anger, hatred) drives the crew of the Enterprise into brutal conflict with the Klingons."
@@ -1825,7 +3820,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.8",
 					"episodeNumber": "3.8",
-					"name": "For The World Is Hollow And I Have Touched The Sky",
+					"name": "For the World Is Hollow and I Have Touched the Sky",
 					"datePublished": "1968-11-08",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1833,10 +3828,37 @@
 						"name": "Der verirrte Planet",
 						"datePublished": "1972-10-28"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/For_the_World_Is_Hollow_and_I_Have_Touched_the_Sky"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_verirrte_Planet"
+						}
+					],
 					"director": {
-						"@id": "TonyLeader",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TonyLeader",
 						"name": "Tony Leader"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HendrikVollaerts",
+						"name": "Hendrik Vollaerts"
 					},
 					"abstract": {
 						"en": "As McCoy discovers he is dying of an incurable disease, the crew of the Enterprise rush to stop an asteroid from colliding with a Federation world, only to discover that the asteroid is, in fact, a disguised alien vessel. They find an entire civilization living in the ship who believe they are actually on a planet and a dictatorial “Oracle” who forbids any attempt to discover the truth."
@@ -1857,11 +3879,45 @@
 						"name": "Das Spinnennetz",
 						"datePublished": "1972-06-17"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Tholian_Web"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Das_Spinnennetz"
+						}
+					],
 					"director": {
-						"@id": "HerbWallerstein",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JudyBurns",
+							"name": "Judy Burns"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ChetRichards",
+							"name": "Chet Richards"
+						}
+					],
 					"abstract": {
 						"en": "Captain Kirk is caught between dimensions while the Enterprise is trapped by an energy draining web spun by mysterious aliens. The two-part Enterprise episode “In a Mirror, Darkly” serves as a sequel to this episode."
 					},
@@ -1881,10 +3937,37 @@
 						"name": "Platons Stiefkinder",
 						"datePublished": "1988-04-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Plato%27s_Stepchildren"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Platons_Stiefkinder"
+						}
+					],
 					"director": {
-						"@id": "DavidAlexander",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"name": "David Alexander"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeyerDolinsky",
+						"name": "Meyer Dolinsky"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise encounters an ageless and mischievous race of psychic humanoids who claim to have organized their society around Ancient Greek ideals."
@@ -1897,7 +3980,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.11",
 					"episodeNumber": "3.11",
-					"name": "Wink Of An Eye",
+					"name": "Wink of an Eye",
 					"datePublished": "1968-11-29",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1905,10 +3988,42 @@
 						"name": "Was summt denn da?",
 						"datePublished": "1973-11-03"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Wink_of_an_Eye"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Was_summt_denn_da%3F"
+						}
+					],
 					"director": {
-						"@id": "JudTaylor",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+						"name": "Arthur Heinemann"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "Invisible “time-accelerated” aliens take over the Enterprise and attempt to abduct the crew for use as “genetic stock”."
@@ -1929,10 +4044,37 @@
 						"name": "Der Plan der Vianer",
 						"datePublished": "1988-04-11"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Empath"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Der_Plan_der_Vianer"
+						}
+					],
 					"director": {
-						"@id": "JohnErman",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnErman",
 						"name": "John Erman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JoyceMuskat",
+						"name": "Joyce Muskat"
 					},
 					"abstract": {
 						"en": "While visiting a doomed planet, the landing party is subject to torturous experiments to test an empathic race."
@@ -1945,7 +4087,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.13",
 					"episodeNumber": "3.13",
-					"name": "Elaan Of Troyius",
+					"name": "Elaan of Troyius",
 					"datePublished": "1968-12-20",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -1953,9 +4095,36 @@
 						"name": "Brautschiff Enterprise",
 						"datePublished": "1973-10-20"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Elaan_of_Troyius"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Brautschiff_Enterprise"
+						}
+					],
 					"director": {
-						"@id": "JohnMeredythLucas",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
 						"name": "John Meredyth Lucas"
 					},
 					"abstract": {
@@ -1977,16 +4146,70 @@
 						"name": "Wen die Götter zerstören",
 						"datePublished": "1988-05-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Whom_Gods_Destroy"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Wen_die_G%C3%B6tter_zerst%C3%B6ren"
+						}
+					],
 					"director": {
-						"@id": "HerbWallerstein",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LeeErwin",
+						"name": "Lee Erwin"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#LeeErwin",
+							"name": "Lee Erwin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JerrySohl",
+							"name": "Jerry Sohl"
+						}
+					],
 					"abstract": {
 						"en": "Captain Kirk visits a mental health facility and confronts an insane starship captain who believes he is destined to control the universe."
 					},
 					"description": {
 						"de": "Die Enterprise bringt ein neues Medikament zu einer Heilanstalt für geisteskranke Kriminelle auf dem Planeten Elba II. Die Föderation hofft, mit dieser Medizin alle Geisteskrankheiten für immer heilen zu können. Kaum dort angekommen, geraten Mr. Spock und Captain Kirk in eine Falle, die ihnen der neu eingelieferte Patient, der ehemalige Sternenflottenkommandant Garth von Izar, gestellt hat. Dieser hat nicht nur die Anstalt in seine Gewalt gebracht, sondern sich auf Antos IV auch eine Technik angeeignet, die es ihm ermöglicht, jede beliebige Form anzunehmen. Er verlangt Lord Garth genannt zu werden und will Herrscher der Galaxis werden. Sein Plan die Enterprise zu übernehmen scheitert jedoch mehrfach, da er zwar die Gestalt von Kirk annehmen kann, aber Scott die Antwort auf einen Code in Form von Schachzügen nicht geben kann. Die korrekte Antwort von Kirk zu erhalten, gelingt trotz verschiedener Versuche nicht. Unter anderem foltert er den eigentlichen Direktor der Anstalt und tötet seine Gefährtin, die Orionerin Marta. Garth krönt sich selbst zum Imperator. Er verwandelt sich wieder in Kirk. Spock erkennt jedoch den richtigen Kirk und betäubt Garth. Mit einem Sicherheitsteam der Enterprise kann der eigentliche Direktor Corey wieder die Kontrolle über die Heilanstalt übernehmen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-04-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kJTs8Nvc-2Y"
+						}
 					}
 				},
 				{
@@ -2001,23 +4224,70 @@
 						"name": "Bele jagt Lokai",
 						"datePublished": "1988-05-02"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Let_That_Be_Your_Last_Battlefield"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Bele_jagt_Lokai"
+						}
+					],
 					"director": {
-						"@id": "JudTaylor",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
+					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+						"name": "Oliver Crawford"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneLCoon",
+						"name": "Gene L. Coon"
 					},
 					"abstract": {
 						"en": "The Enterprise picks up the last two survivors of a war-torn planet who are still committed to destroying each other aboard the ship."
 					},
 					"description": {
 						"de": "Die Enterprise ist auf dem Weg, den Planeten Ariannus zu entseuchen. Unterwegs begegnet ihr eine von Raumbasis 4 als gestohlen gemeldete Raumfähre der Föderation. Die Fähre wird an Bord geholt. Aus ihr steigt auf dem Hangardeck ein Humanoid, dessen linke Körperseite schwarz und die rechte weiß ist. Der geschwächte Fremde namens Lokai vom Planeten Cheron wird auf die Krankenstation gebracht und soll sich als Dieb vor dem Raumflottenkommando verantworten. Lokai sagt aus, aus einer Notlage heraus gehandelt zu haben. Es kommt zur Begegnung mit einem weiteren Raumschiff, dessen einziger Passagier sich vor dessen Zerstörung auf die Brücke der Enterprise beamt. Es ist Kommissar Bele vom Planeten Cheron. Er ist genau umgekehrt gefärbt wie Lokai und befindet sich auf der Jagd nach ihm, da dieser ein entflohener Verräter sei. Bele bringt die Enterprise auf den Kurs nach Cheron, um Lokai dorthin zu bringen. Kirk, Spock und Scott starten die Selbstzerstörungs-Sequenz. Bele gibt sich sieben Sekunden vor der Zerstörung geschlagen und Kirk bricht die Sequenz ab. Die Enterprise wird wieder auf Kurs nach Ariannus gebracht. Nach erfolgreichem Abschluss der Dekontamination von Ariannus lässt Kirk direkten Kurs auf die Raumbasis 4 setzen. Bele sabotiert die Selbstzerstörung und bringt die Enterprise erneut auf Kurs nach Cheron. Spock stellt dort fest, dass die gesamte Bevölkerung ausgelöscht wurde. Bele gibt dennoch nicht auf. Er jagt Lokai durch das Schiff auf den verlassenen Planeten, wo ihnen nun nichts mehr außer ihrem Hass verbleibt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-25",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4vdSC1c6ZDE"
+						}
 					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.16",
 					"episodeNumber": "3.16",
-					"name": "The Mark Of Gideon",
+					"name": "The Mark of Gideon",
 					"datePublished": "1969-01-17",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2025,16 +4295,64 @@
 						"name": "Fast unsterblich",
 						"datePublished": "1988-05-16"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Mark_of_Gideon"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Fast_unsterblich"
+						}
+					],
 					"director": {
-						"@id": "JudTaylor",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeorgeFSlavin",
+							"name": "George F. Slavin"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#StanleyAdams",
+							"name": "Stanley Adams"
+						}
+					],
 					"abstract": {
 						"en": "An overpopulated race of aliens abduct Kirk to solve their problem."
 					},
 					"description": {
 						"de": "Captain Kirk soll von der Enterprise in diplomatischer Mission auf den Planeten Gideon gebeamt werden, der bisher noch nicht Mitglied der Föderation ist. Kirk soll allein mit dem Botschafter Hodin verhandeln. Kirk wird zu den vereinbarten Koordinaten gebeamt und findet sich scheinbar auf der Enterprise wieder. Diese ist jedoch menschenleer. Der Botschafter leugnet gegenüber Spock, dass Kirk auf Gideon angekommen ist. Dieser kann nichts unternehmen, da Gideon keine Ermittler zulässt und gegen Sensoren abgeschirmt ist. Kirk trifft auf eine junge blonde Frau namens Odona an Bord, die sagt, dass sie von einem extrem überbevölkerten Planeten kommt und sich nichts sehnlicher wünscht als die Einsamkeit. Die Gideoner lassen sich auf einen Transporter-Test ein. Ratsmitglied Krodak wird ohne Probleme aufs Schiff und wieder zurück gebeamt, ohne dass dabei Probleme auftreten. Odona wird von Kirk mit der Veganischen Choriomeningitis infiziert. Dies war von vornherein ihre Absicht. Sie bittet ihn, bei ihr zu bleiben, um noch andere mit der tödlichen Krankheit zu infizieren. Spock erkennt, dass die Beamkoordinaten für Kirk und die für den Test einen Zahlendreher haben. Er beamt sich auf eigene Verantwortung auf die Koordinaten wie Kirk zuvor. Beide erfahren, dass die Bevölkerung Gideons quasi unsterblich ist und sich deshalb ins Unermessliche vermehrt hat. Ziel der Gideons ist es, den Tod wieder in ihre überbevölkerte und keimfreie Gesellschaft zu bringen. Entgegen Odonas Wunsch wird sie mit Kirk auf die echte Enterprise gebeamt und dort geheilt. Sie ist nun genau wie Kirk nicht mehr krank, aber weiterhin ansteckend. Sie beamt nach Gideon zurück, um die Seuche zu verbreiten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Grab Bag",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/na1Vs8sR23I"
+						}
 					}
 				},
 				{
@@ -2049,10 +4367,42 @@
 						"name": "Gefährliche Planetengirls",
 						"datePublished": "1972-08-19"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/That_Which_Survives"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Planetengirls"
+						}
+					],
 					"director": {
-						"@id": "HerbWallerstein",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
+					},
+					"author":{
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnMeredythLucas",
+						"name": "John Meredyth Lucas"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DCFontana",
+						"name": "D. C. Fontana"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise visits an abandoned outpost guarded by a mysterious computer."
@@ -2065,7 +4415,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.18",
 					"episodeNumber": "3.18",
-					"name": "The Lights Of Zetar",
+					"name": "The Lights of Zetar",
 					"datePublished": "1969-01-31",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2073,11 +4423,45 @@
 						"name": "Strahlen greifen an",
 						"datePublished": "1972-08-05"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Lights_of_Zetar"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Strahlen_greifen_an"
+						}
+					],
 					"director": {
-						"@id": "HerbKenwith",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerbKenwith",
 						"name": "Herb Kenwith"
 					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JeremyTarcher",
+							"name": "Jeremy Tarcher"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ShariLewis",
+							"name": "Shari Lewis"
+						}
+					],
 					"abstract": {
 						"en": "Strange, energy-based alien life forms threaten the Memory Alpha station and the Enterprise crew."
 					},
@@ -2089,7 +4473,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.19",
 					"episodeNumber": "3.19",
-					"name": "Requiem For Methuselah",
+					"name": "Requiem for Methuselah",
 					"datePublished": "1969-02-14",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2097,23 +4481,65 @@
 						"name": "Planet der Unsterblichen",
 						"datePublished": "1974-03-09"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Requiem_for_Methuselah"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Planet_der_Unsterblichen"
+						}
+					],
 					"director": {
-						"@id": "MurrayGolden",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MurrayGolden",
 						"name": "Murray Golden"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeromeBixby",
+						"name": "Jerome Bixby"
 					},
 					"abstract": {
 						"en": "The crew of the Enterprise encounters an immortal human who lives as a recluse on his own planet."
 					},
 					"description": {
-						"de": "Das rigelianische Fieber hat die Enterprise befallen und bereits einigen Besatzungsmitgliedern den Tod gebracht. Es wird zur Heilung Ryetalyn benötigt, das auf dem Planeten Holberg 917G im Omega-System entdeckt wird. Der Landetrupp trifft auf den schwebenden Roboter M-4 und einen Mann mit dem Namen Flint. In Flints Schloss sind Kirk, Spock und McCoy von der umfangreichen Sammlung von unschätzbar wertvollen originaler Kunstschätzen beeindruckt, darunter unbekannte Werke von Leonardo da Vinci und Johannes Brahms sowie eine originale Gutenberg-Bibel. Nach anfänglichen Schwierigkeiten willigt Flint ein, sie bei der Gewinnung des Ryetalyns zu unterstützen. Es stellt sich heraus, dass Flint als Akharin 3854 v.&nbsp;Chr. in Mesopotamien geboren wurde und selbst da Vinci, Brahms und viele andere Persönlichkeiten der Weltgeschichte war. Er stellt dem Landetrupp Rayna Kapac vor. Kirk verliebt sich in sie, und Flint wird deshalb eifersüchtig. Er demonstriert seine Macht, indem er die Enterprise aus dem Orbit im Modellformat in sein Schloss beamt. Rayna ist ein hochentwickelter von Flint erschaffener Android, der menschliche Züge und Emotionen entwickelt. Sie ist von der Liebe zu Kirk und Flint so hin und her gerissen, dass sie an dem Widerspruch der unbekannten Gefühle in ihr stirbt. Zurück an Bord der Enterprise hilft Spock dem unter Raynas Tod leidenden Kirk mit einer Gedankenverschmelzung, das Geschehene zu vergessen. Die Besatzung der Enterprise kann mit dem Ryetalyn geheilt werden. Flint altert und will seine verbleibende Zeit in den Dienst der Menschheit stellen."
+						"de": "Das rigelianische Fieber hat die Enterprise befallen und bereits einigen Besatzungsmitgliedern den Tod gebracht. Es wird zur Heilung Ryetalyn benötigt, das auf dem Planeten Holberg 917G im Omega-System entdeckt wird. Der Landetrupp trifft auf den schwebenden Roboter M-4 und einen Mann mit dem Namen Flint. In Flints Schloss sind Kirk, Spock und McCoy von der umfangreichen Sammlung von unschätzbar wertvollen originaler Kunstschätzen beeindruckt, darunter unbekannte Werke von Leonardo da Vinci und Johannes Brahms sowie eine originale Gutenberg-Bibel. Nach anfänglichen Schwierigkeiten willigt Flint ein, sie bei der Gewinnung des Ryetalyns zu unterstützen. Es stellt sich heraus, dass Flint als Akharin 3854 v. Chr. in Mesopotamien geboren wurde und selbst da Vinci, Brahms und viele andere Persönlichkeiten der Weltgeschichte war. Er stellt dem Landetrupp Rayna Kapac vor. Kirk verliebt sich in sie, und Flint wird deshalb eifersüchtig. Er demonstriert seine Macht, indem er die Enterprise aus dem Orbit im Modellformat in sein Schloss beamt. Rayna ist ein hochentwickelter von Flint erschaffener Android, der menschliche Züge und Emotionen entwickelt. Sie ist von der Liebe zu Kirk und Flint so hin und her gerissen, dass sie an dem Widerspruch der unbekannten Gefühle in ihr stirbt. Zurück an Bord der Enterprise hilft Spock dem unter Raynas Tod leidenden Kirk mit einer Gedankenverschmelzung, das Geschehene zu vergessen. Die Besatzung der Enterprise kann mit dem Ryetalyn geheilt werden. Flint altert und will seine verbleibende Zeit in den Dienst der Menschheit stellen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-30",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ugy4x_PNaNQ"
+						}
 					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/tos#3.20",
 					"episodeNumber": "3.20",
-					"name": "The Way To Eden",
+					"name": "The Way to Eden",
 					"datePublished": "1969-02-21",
 					"workTranslation": {
 						"@type": "TVEpisode",
@@ -2121,11 +4547,50 @@
 						"name": "Die Reise nach Eden",
 						"datePublished": "1988-05-30"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Way_to_Eden"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Reise_nach_Eden"
+						}
+					],
 					"director": {
-						"@id": "DavidAlexander",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidAlexander",
 						"name": "David Alexander"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+						"name": "Arthur Heinemann"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DCFontana",
+							"name": "D. C. Fontana"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+							"name": "Arthur Heinemann"
+						}
+					],
 					"abstract": {
 						"en": "The Enterprise is hijacked by a criminal doctor and his loyal, hippie-like followers who are attempting to find paradise."
 					},
@@ -2145,19 +4610,59 @@
 						"name": "Die Wolkenstadt",
 						"datePublished": "1988-05-23"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Cloud_Minders"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Die_Wolkenstadt"
+						}
+					],
 					"director": {
-						"@id": "JudTaylor",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JudTaylor",
 						"name": "Jud Taylor"
 					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MargaretArmen",
+						"name": "Margaret Armen"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidGerrold",
+							"name": "David Gerrold"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OliverCrawford",
+							"name": "Oliver Crawford"
+						}
+					],
 					"abstract": {
 						"en": "Kirk races against time to acquire plague-fighting minerals from a world in the midst of a civil uprising."
 					},
 					"description": {
 						"de": "Eine Pflanzenseuche bedroht den Planeten Merak II. Die Enterprise wird zum Planeten Ardana geschickt, um von dort Zenit zu beschaffen, das das Pflanzensterben aufhalten kann. Captain Kirk und Mr. Spock wollen die Lieferung auf der Planetenoberfläche übernehmen. Stattdessen werden sie von rebellischen Minenarbeiter, den Troglyten, angegriffen. Ein Eingreifen des Hohen Rats des Planeten Plasus mit seinen Sicherheitskräften beendet die Attacke. Kirk und Spock werden in die fliegende Wolkenstadt Stratos gebracht, um dort die Angelegenheit mit der herrschenden Klasse zu besprechen. Spock unterhält sich mit Droxine, der Tochter von Plasus. Kirk wird in seinem Zimmer von einer Dienerin angegriffen. Es handelt sich um Vanna, die Anführerin der Troglyten. Plasus behauptet, dass die Troglyten weniger intelligent sind als die Bewohner der Wolkenstadt. Dr. McCoy findet heraus, dass Rohzenit beim Abbau ein schädliches Gas freisetzt, das die Troglyten dadurch geschädigt werden. Atemfilter könnten diesen Effekt verhindern. Kirk sucht die gefangene Vanna auf und bietet ihr diese Filter an. Sie geht zum Schein darauf ein und entführt Kirk in die Zenit-Stollen. Plasus wird auf Befehl von Kirk von der Enterprise in den zuvor von Kirk blockierten Stollen gebeamt. Die beiden Männer werden durch das Zenitgas aggressiv und kämpfen miteinander. Als Vanna die Wirkung des Gases erkennt, kontaktiert sie die Enterprise. Alle werden dorthin gebeamt. Dort wird eine Übereinkunft erzielt, mit Hilfe der Filter die Aufteilung in zwei Kasten von Planeten- und Bewohnern der Himmelsstadt aufzuheben. Die Enterprise erhält das Zenit und kann es nach Merak II bringen."
 					},
-					"review":	{
+					"review": {
 						"@type": "Review",
+						"inLanguage": "en",
 						"name": "Retro Review | Labor Episodes",
 						"creator": {
 							"@type": "Person",
@@ -2182,10 +4687,49 @@
 						"name": "Seit es Menschen gibt",
 						"datePublished": "1972-11-25"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/The_Savage_Curtain"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Seit_es_Menschen_gibt"
+						}
+					],
 					"director": {
-						"@id": "HerschelDaugherty",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerschelDaugherty",
 						"name": "Herschel Daugherty"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+							"name": "Gene Roddenberry"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#ArthurHeinemann",
+							"name": "Arthur Heinemann"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "Aliens force Kirk and Spock to battle illusionary villains in a test of good versus evil."
@@ -2206,10 +4750,37 @@
 						"name": "Portal in die Vergangenheit",
 						"datePublished": "1988-06-06"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/All_Our_Yesterdays"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Portal_in_die_Vergangenheit"
+						}
+					],
 					"director": {
-						"@id": "MarvinJChomsky",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MarvinJChomsky",
 						"name": "Marvin J. Chomsky"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JeanLisetteAroeste",
+						"name": "Jean Lisette Aroeste"
 					},
 					"abstract": {
 						"en": "Kirk, Spock, and McCoy are trapped in the past on a world threatened by a nova."
@@ -2230,10 +4801,42 @@
 						"name": "Gefährlicher Tausch",
 						"datePublished": "1988-06-13"
 					},
+					"subjectOf": [
+						{
+							"@type": "Webpage",
+							"inLanguage": "en",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://en.wikipedia.org/wiki/Turnabout_Intruder"
+						},
+						{
+							"@type": "Webpage",
+							"inLanguage": "de",
+							"publisher": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+								"name": "Wikipedia"
+							},
+							"url": "https://de.wikipedia.org/wiki/Gef%C3%A4hrlicher_Tausch"
+						}
+					],
 					"director": {
-						"@id": "HerbWallerstein",
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#HerbWallerstein",
 						"name": "Herb Wallerstein"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ArthurSinger",
+						"name": "Arthur Singer"
+					},
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+						"name": "Gene Roddenberry"
 					},
 					"abstract": {
 						"en": "Kirk’s consciousness becomes trapped in the body of a woman bent on killing him and taking over his command while inhabiting his body."

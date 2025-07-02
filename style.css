@@ -24,6 +24,8 @@ html {
 	--link-color: var(--text-color);
 	--disabled-color: gray;
 	--rule-color: silver;
+	--new-marker-text-color: var(--text-color);
+	--new-marker-background-color: hsl(10deg 90% 50%);
 	--table-margin: 2em;
 	scroll-padding-top: var(--header-height);
 	overflow: auto;
@@ -37,6 +39,7 @@ html {
 		--text-color: white;
 		--disabled-color: darkgray;
 		--rule-color: gray;
+		--new-marker-background-color: hsl(10deg 100% 40%);
 	}
 }
 
@@ -223,10 +226,16 @@ td:empty {
 	width: 2em;
 }
 
+tr:last-of-type [property="episodeNumber"] {
+	padding-right: 0;
+}
+
 td[property="name"],
 td[property="workTranslation"],
 td[property="creator"],
 td[property="director"],
+td[property="author"],
+td:has([property="author"]),
 td[property="review"],
 td:has([property="video"]) {
 	width: 18em;
@@ -242,6 +251,19 @@ details p {
 	line-height: 1.4;
 	-webkit-hyphens: auto;
 	hyphens: auto;
+}
+
+details p:not([property]):only-of-type {
+		text-align: end;
+}
+
+dl {
+	margin: 0;
+}
+
+dt, dd, dd ul {
+	display: inline;
+	margin: 0;
 }
 
 ul:has(details) {
@@ -266,6 +288,13 @@ ul:has(details) iframe {
 }
 
 @media (width > 40em) {
+	[property="abstract"], [property="description"] {
+		margin-top: 0.5em;
+		padding-top: 0.25em;
+		background: var(--background-color);
+		scale: 1;
+	}
+
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]):last-child,
 	tr:not(:last-of-type) :is([property="abstract"], [property="description"]) ~ :last-child {
 		padding-bottom: 0.5em;
@@ -324,6 +353,10 @@ li:nth-last-of-type(2) > span::after {
 	content: ' & ';
 }
 
+abbr[title] {
+	text-decoration: none;
+}
+
 img {
 	display: block;
 	margin: auto;
@@ -331,14 +364,18 @@ img {
 }
 
 summary {
-	min-width: 1.5em;
+	width: fit-content;
+	white-space: nowrap;
 }
 
-:where(summary) {
-	outline: none;
+details:has(.new) summary {
+	color: var(--new-marker-text-color);
+	background: var(--new-marker-background-color);
+	outline: 0.4em solid var(--new-marker-background-color);
 }
 
-.review-range {
+.review-range,
+.review-lang {
 	font-size: 0.8em;
 }
 
@@ -363,6 +400,10 @@ body:has(> .players) {
 	padding-bottom: 0 !important;
 }
 
+figure {
+	margin: 0;
+}
+
 .players {
 	--columns: 2;
 	--rows: 1;
@@ -372,22 +413,22 @@ body:has(> .players) {
 	display: grid;
 	gap: 0.5em;
 	
-	&:has(iframe:nth-of-type(2)) {
+	&:has(:is(iframe, figure):nth-of-type(2)) {
 		--rows: 2;
 	}
 	
-	&:has(iframe:nth-of-type(4)) {
+	&:has(:is(iframe, figure):nth-of-type(4)) {
 		--columns: 3;
 	}
 	
-	&:has(iframe:nth-of-type(6)) {
+	&:has(:is(iframe, figure):nth-of-type(6)) {
 		--rows: 3;
 	}
 
 	@media (width >= 36em) {
 		grid-template-columns: repeat(var(--columns), 1fr);
 		
-		&:has(iframe:last-of-type:nth-of-type(even)) {
+		&:has(:is(iframe, figure):last-of-type:nth-of-type(even)) {
 		
 			> :first-child {
 				grid-row: 1 / span var(--rows);

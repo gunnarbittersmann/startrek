@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Subspace Rhapsody</title>
+		<link rel="icon" href="../starfleet.svg"/>
+		<link rel="mask-icon" href="../starfleet.svg"/>
+		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
+		<link rel="stylesheet" href="../style.css"/>
+		<style>
+			.tracklist {
+				padding-inline-start: 3ch;
+			}
+			
+			.tracklist li {
+				display: revert;
+				margin-block: 1em;
+				text-wrap: balance;
+			}
+			
+			.tracklist a {
+				text-underline-position: revert;
+			}
+			
+			iframe {
+				height: auto;
+			}
+			
+			iframe:focus-visible {
+				outline: revert;
+			}
+
+			@media (width > 32em) {
+				main {
+					display: grid;
+					grid-template:
+						"heading heading"   auto
+						"songs   tracklist" auto
+						"writers tracklist" 1fr
+					/ min(38%, 20em) 1fr;
+					column-gap: 2em;
+				}
+				
+				h1 {
+					grid-column: 1/-1;
+				}
+				
+				.tracklist {
+					margin-top: 0;
+				}
+			}
+			
+			div {
+				grid-area: tracklist;
+			}
+			
+			figure {
+				margin: 0;
+				grid-area: writers;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ol>
+					<li>
+						<a
+							title="Star Trek"
+							aria-label="Star Trek"
+							href="/startrek"
+						>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="378 148 70 120" width="14" height="24">
+								<path fill="currentColor" d="M424.03 231.79c4.01,4.36 11.34,15.79 21.99,34.29 -1.14,-45.83 -11.56,-84.64 -31.28,-116.43 -20.64,29.62 -33.03,68.12 -37.16,115.5 20.86,-20.05 34.48,-31.27 40.87,-33.67 2.69,-1.13 4.54,-1.03 5.58,0.31z"/>
+							</svg>
+						</a>
+					</li>
+					<li>
+						<a>Artwork</a>:
+					</li>
+					<li>
+						<a href="#main" aria-current="page">all intros</a>
+					</li>
+					<li>
+						<a href="discovery-opening-titles">DSC seasons</a>
+					</li>
+					<li>
+						<a href="dsc-universes-opening-titles">DSC universes</a>
+					</li>
+					<li>
+						<a href="snw-real-flat-opening-titles">SNW real/flat</a>
+					</li>
+					<li>
+						<a href="ld-films">LD and film posters</a>
+					</li>
+				</ol>
+			</nav>
+		</header>
+		<main id="main">
+			<h1>All intros</h1>
+			<iframe src="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?enablejsapi=1&amp;origin=https://bittersmann.de" allowfullscreen="" id="youtubePlayer" name="youtubePlayer" width="800" height="450"></iframe>
+			<div>
+				<ol class="tracklist">
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=18&amp;autoplay=1"><i>Star Trek</i> Pilot (February 1965)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=75&amp;autoplay=1"><i>Star Trek</i> (1966–1969)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=140&amp;autoplay=1"><i>Star Trek: The Animated Series</i> (1973–1974)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=205&amp;autoplay=1"><i>Star Trek: The Next Generation</i> (1987–1988)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=310&amp;autoplay=1"><i>Star Trek: The Next Generation</i> (1989–1991, 1992–1994)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=424&amp;autoplay=1"><i>Star Trek: The Next Generation</i> (1991–1992)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=530&amp;autoplay=1"><i>Star Trek: Deep Space Nine</i> (1993–1995)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=650&amp;autoplay=1"><i>Star Trek: Deep Space Nine</i> (1995–1999)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=765&amp;autoplay=1"><i>Star Trek: Voyager</i> (1995–2001)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=875&amp;autoplay=1"><i>Enterprise</i> (2001–2003)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=960&amp;autoplay=1"><i>Star Trek: Enterprise</i> Alternate Intro (April 2005)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1045&amp;autoplay=1"><i>Star Trek: Enterprise</i> (2004–2005)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1125&amp;autoplay=1"><i>Star Trek: Discovery</i> (2017–2019)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1220&amp;autoplay=1"><i>Star Trek: Discovery</i> (2020–2024)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1315&amp;autoplay=1"><i>Star Trek: Picard</i> (2020)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1415&amp;autoplay=1"><i>Star Trek: Picard</i> (2022)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1535&amp;autoplay=1"><i>Star Trek: Picard</i> (2023)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1566&amp;autoplay=1"><i>Star Trek: Lower Decks</i> (2020–2024)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1635&amp;autoplay=1"><i>Star Trek: Prodigy</i> (2021–2022)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1730&amp;autoplay=1"><i>Star Trek: Strange New Worlds</i> (2022–present)</a></li>
+					<li><a target="youtubePlayer" href="https://www.youtube-nocookie.com/embed/zxl6WwvotKk?start=1842&amp;autoplay=1"><i>Star Trek: Picard</i> End Credits (2023)</a></li>
+				</ol>
+			</div>
+		</main>
+		<script src="../script.js"></script>
+		<script src="https://www.youtube.com/iframe_api" async=""></script>
+		<script>
+function onYouTubeIframeAPIReady() {
+	const player = new YT.Player('youtubePlayer');
+	document.documentElement.addEventListener('click', event => {
+		const link = event.target.closest('.tracklist a');
+		if (link) {
+			event.preventDefault();
+			const result = /\?.*start=([\d.]+)/.exec(link.href);
+			if (result) {
+				const seconds = parseFloat(result[1]);
+				player.seekTo(seconds);
+			}
+		}
+	});
+}
+		</script>
+	</body>
+</html>

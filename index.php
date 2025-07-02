@@ -45,7 +45,7 @@
 				flex-wrap: wrap;
 				gap: 1em 2em;
 				padding-inline: 0;
-				max-width: 60em;
+				max-width: 70em;
 			}
 			
 			#presentation-list img {
@@ -94,6 +94,9 @@
 					<a>Music</a>
 					<ul>
 						<li>
+							<a href="music/ds9-main-title">DS9 main title</a>
+						</li>
+						<li>
 							<a href="music/dsc-ost">Discovery OST</a>
 						</li>
 						<li>
@@ -104,6 +107,9 @@
 				<li>
 					<a>Artwork</a>
 					<ul>
+						<li>
+							<a href="artwork/all-intros">all intros</a>
+						</li>
 						<li>
 							<a href="artwork/discovery-opening-titles">Discovery seasons opening titles</a>
 						</li>
