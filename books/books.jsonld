@@ -480,6 +480,55 @@
 		},
 		{
 			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/snw",
+				"name": "Star Trek: Strange New Worlds",
+				"identifier": "SNW",
+				"url": "https://bittersmann.de/startrek/series/snw"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Toward the Night",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
+						"name": "James Swallow",
+						"givenName": "James",
+						"familyName": "Swallow"
+					},
+					"datePublished": "2025-04-29",
+					"description": {
+						"en": "While patrolling the borders of the Klingon Empire, Captain Christopher Pike and the crew of the USS Enterprise record a series of subspace echoes from a planet orbiting a volatile flare star—and when Lieutenant Spock and Commander Una Chin-Riley lead a landing party to learn more, they discover the ruins of a dead civilization and evidence of starship-grade metals…quite possibly a crash site. As they continue to investigate the strange signals, Spock and Una find shocking signs of dangerous alien life and remnants of what can only be Federation hardware. The trail soon leads Pike and Enterprise’s helmswoman Lieutenant Erica Ortegas deep into the mystery of a lost Starfleet vessel, missing in action for over ninety years—and to a terrible dilemma that will challenge the crew to question their past...and their future."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Strange-New-Worlds-Toward-the-Night/James-Swallow/Star-Trek-Strange-New-Worlds/9781668074565",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668074565/star-trek-strange-new-worlds-toward-the-night-9781668074565_lg.jpg",
+					"isbn": "9781668074565",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-nf_8P6b1cA"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
 			"name": "Star Trek: Coda",
 			"hasPart": [
 				{
