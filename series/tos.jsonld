@@ -11,6 +11,7 @@
 		}
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/tos",
 	"name": "Star Trek: The Original Series",
 	"identifier": "TOS",
 	"inLanguage": "en",
