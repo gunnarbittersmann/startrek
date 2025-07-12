@@ -427,8 +427,8 @@ EOT;
 													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 														<summary
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-															<?php if ($episode['review']['name']): ?>
-																title="<?= htmlSpecialChars($episode['review']['name']) ?>"
+															<?php if ($episode['review']['name'] || $episode['review']['datePublished']): ?>
+																title="<?= htmlSpecialChars($episode['review']['name']) ?> <?= htmlSpecialChars($episode['review']['datePublished']) ?>"
 															<?php endif; ?>
 														>
 															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
