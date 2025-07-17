@@ -74,7 +74,7 @@ fetch(`books.jsonld`)
 					${book.review?.video ? `
 						<td property="review" typeof="Review">
 							<details lang="en" property="video" typeof="VideoObject">
-								<summary>J</summary>
+								<summary title="${book.review.datePublished ?? ''}">J</summary>
 								<meta
 									property="embedUrl"
 									content="${book.review.video.embedUrl}"
