@@ -427,8 +427,8 @@ EOT;
 													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 														<summary
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-															<?php if ($episode['review']['name']): ?>
-																title="<?= htmlSpecialChars($episode['review']['name']) ?>"
+															<?php if ($episode['review']['name'] || $episode['review']['datePublished']): ?>
+																title="<?= htmlSpecialChars($episode['review']['name']) ?> <?= htmlSpecialChars($episode['review']['datePublished']) ?>"
 															<?php endif; ?>
 														>
 															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
@@ -487,8 +487,8 @@ EOT;
 																>
 																	<summary
 																		aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-																		<?php if ($review['name']): ?>
-																			title="<?= htmlSpecialChars($review['name']) ?>"
+																		<?php if ($review['name'] || $review['datePublished']): ?>
+																			title="<?= htmlSpecialChars($review['name']) ?>  <?= htmlSpecialChars($review['datePublished']) ?>"
 																		<?php endif; ?>
 																	>
 																		<?php if ($review['creator'] && $review['creator']['name']): ?>
@@ -551,8 +551,8 @@ EOT;
 												<details lang="<?= htmlspecialchars($season['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 													<summary
 														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
-														<?php if ($season['review']['name']): ?>
-															title="<?= htmlSpecialChars($season['review']['name']) ?>"
+														<?php if ($season['review']['name'] || $season['review']['datePublished']): ?>
+															title="<?= htmlSpecialChars($season['review']['name']) ?>  <?= htmlSpecialChars($season['review']['datePublished']) ?>"
 														<?php endif; ?>
 													>
 														<?php if ($season['review']['creator']): ?>
@@ -620,8 +620,8 @@ EOT;
 															>
 																<summary
 																	aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
-																	<?php if ($review['name']): ?>
-																		title="<?= htmlSpecialChars($review['name']) ?>"
+																	<?php if ($review['name'] || $review['datePublished']): ?>
+																		title="<?= htmlSpecialChars($review['name']) ?>  <?= htmlSpecialChars($review['datePublished']) ?>"
 																	<?php endif; ?>
 																>
 																	<?php if ($review['creator']): ?>
@@ -696,8 +696,8 @@ EOT;
 										<details lang="en" property="video" typeof="VideoObject">
 											<summary
 												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
-												<?php if ($data['review']['name']): ?>
-													title="<?= htmlSpecialChars($data['review']['name']) ?>"
+												<?php if ($data['review']['name'] || $data['review']['datePublished']): ?>
+													title="<?= htmlSpecialChars($data['review']['name']) ?>  <?= htmlSpecialChars($data['review']['datePublished']) ?>"
 												<?php endif; ?>
 											>
 												<?php if ($data['review']['creator'] && $data['review']['creator']['name']): ?>
@@ -743,8 +743,8 @@ EOT;
 													>
 														<summary
 															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
-															<?php if ($review['name']): ?>
-																title="<?= htmlSpecialChars($review['name']) ?>"
+															<?php if ($review['name'] || $review['datePublished']): ?>
+																title="<?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?>"
 															<?php endif; ?>
 														>
 															<?php if ($review['creator'] && $review['creator']['name']): ?>

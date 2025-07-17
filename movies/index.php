@@ -304,8 +304,8 @@
 											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
-													<?php if ($movie['review']['name']): ?>
-														title="<?= htmlSpecialChars($movie['review']['name']) ?>"
+													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
+														title="<?= htmlSpecialChars($movie['review']['name']) ?> <?= htmlSpecialChars($movie['review']['datePublished']) ?>"
 													<?php endif; ?>
 												>
 													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
@@ -351,8 +351,8 @@
 														>
 															<summary
 																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
-																<?php if ($review['name']): ?>
-																	title="<?= htmlSpecialChars($review['name']) ?>"
+																<?php if ($review['name'] || $review['datePublished']): ?>
+																	title="<?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?>"
 																<?php endif; ?>
 															>
 																<?php if ($review['creator'] && $review['creator']['name']): ?>
