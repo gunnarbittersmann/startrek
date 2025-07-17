@@ -1504,6 +1504,21 @@
 					"abstract": {
 						"en": "A plasma storm leads to the evacuation of most of the station, but a Trill refugee has his own plans.",
 						"de": "Da die Station durch einen Plasmasturm bedroht wird, wurde sie evakuiert und nur die Führungsoffiziere bleiben auf ihren Posten. Die Gelegenheit wird von dem Trill Verad genutzt um Jadzia zu zwingen ihm den Symbionten Dax zu überlassen. Jadzia kann allerdings ohne den Symbionten nicht überleben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/zwoZoneHv3I"
+						}
 					}
 				},
 				{
