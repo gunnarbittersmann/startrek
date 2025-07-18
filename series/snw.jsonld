@@ -1992,6 +1992,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oLdQZ1MbIKI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
