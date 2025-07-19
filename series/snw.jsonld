@@ -2036,6 +2036,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/KjN0_CpTryM"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-07-19",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yrSNZsLomaI"
+							}
 						}
 					]
 				},
