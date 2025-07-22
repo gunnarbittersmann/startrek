@@ -2039,6 +2039,25 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2025-07-21",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kP-mJeVKSO0"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Ersteindruck",
 							"creator": {
