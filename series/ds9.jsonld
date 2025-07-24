@@ -7332,6 +7332,21 @@
 					"abstract": {
 						"en": "Dax, O’Brien and Bashir board a runabout, which is shrunken to four inches long as they investigate a rare subspace compression phenomenon.",
 						"de": "Als die Defiant durch Jem’Hadar-Soldaten erobert wird, muss die zuvor in einem Experiment stark geschrumpfte Besatzung mit ihrem Shuttle dabei helfen, die Angreifer zu bekämpfen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/dlYVp01KFJA"
+						}
 					}
 				},
 				{
