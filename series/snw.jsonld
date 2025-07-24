@@ -2085,6 +2085,11 @@
 					"episodeNumber": "3.3",
 					"name": "Shuttle to Kenfori",
 					"datePublished": "2025-07-24",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"name": "Dan Liu"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -2096,7 +2101,13 @@
 							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 							"name": "Bill Wolkoff"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Shuttle nach Kenfori",
+						"datePublished": "2025-07-24"
+					}
 				},
 				{
 					"@type": "TVEpisode",
