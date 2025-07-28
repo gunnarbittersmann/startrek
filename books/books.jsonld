@@ -25,7 +25,7 @@
 				{
 					"@type": "Book",
 					"name": "Agents of Influence",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
 						"name": "Dayton Ward",
@@ -66,7 +66,7 @@
 				{
 					"@type": "Book",
 					"name": "Living Memory",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChristopherLBennett",
 						"name": "Christopher L. Bennett",
@@ -108,7 +108,7 @@
 				{
 					"@type": "Book",
 					"name": "Lost to Eternity",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GregCox",
 						"name": "Greg Cox",
@@ -162,7 +162,7 @@
 				{
 					"@type": "Book",
 					"name": "Pliable Truth",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
 						"name": "Dayton Ward",
@@ -218,7 +218,7 @@
 				{
 					"@type": "Book",
 					"name": "Enigma Tales",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
 						"name": "Una McCormack",
@@ -274,7 +274,7 @@
 				{
 					"@type": "Book",
 					"name": "Wonderlands",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
 						"name": "Una McCormack",
@@ -315,7 +315,7 @@
 				{
 					"@type": "Book",
 					"name": "Somewhere To Belong",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
 						"name": "Dayton Ward",
@@ -368,7 +368,7 @@
 				{
 					"@type": "Book",
 					"name": "Rogue Elements",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JohnJacksonMiller",
 						"name": "John Jackson Miller",
@@ -410,7 +410,7 @@
 				{
 					"@type": "Book",
 					"name": "Second Self",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
 						"name": "Una McCormack",
@@ -438,7 +438,7 @@
 				{
 					"@type": "Book",
 					"name": "Firewall",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidMack",
 						"name": "David Mack",
@@ -491,7 +491,7 @@
 				{
 					"@type": "Book",
 					"name": "Toward the Night",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
 						"name": "James Swallow",
@@ -535,7 +535,7 @@
 				{
 					"@type": "Book",
 					"name": "Moments Asunder",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
 						"name": "Dayton Ward",
@@ -575,7 +575,7 @@
 				{
 					"@type": "Book",
 					"name": "The Ashes of Tomorrow",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
 						"name": "James Swallow",
@@ -615,7 +615,7 @@
 				{
 					"@type": "Book",
 					"name": "Oblivion’s Gate",
-					"creator": {
+					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DavidMack",
 						"name": "David Mack",

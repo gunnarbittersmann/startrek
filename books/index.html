@@ -61,7 +61,7 @@ fetch(`books.jsonld`)
 						<span property="name" class="visually-hidden">${bookSeries.isBasedOn?.name ?? ''}</span>
 					</td>
 					<td property="name">${book.name ?? ''}</td>
-					<td property="creator" typeof="${book.creator?.['@type'] ?? ''}"><span property="name">${book.creator?.name ?? ''}</span></td>
+					<td property="author" typeof="${book.author?.['@type'] ?? ''}"><span property="name">${book.author?.name ?? ''}</span></td>
 					<td property="datePublished">${book.datePublished ?? ''}</td>
 					<td>
 						${book.description.en ? `
