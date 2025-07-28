@@ -90,8 +90,12 @@ fetch(`books.jsonld`)
 			`);
 		});
 	});
+})
+.then(() => {
+	scriptElement = document.createElement('script');
+	scriptElement.src = '../script.js';
+	document.body.appendChild(scriptElement);
 });
 			</script>
-			<script src="../script.js"></script>
 	</body>
 </html>
