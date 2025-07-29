@@ -276,9 +276,20 @@ ul:has(details) {
     margin-left: 1.5em;
   }
   
-  iframe {
+  details > div {
     order: 1;
     width: 100%;
+    margin-bottom: 1em;
+    
+    iframe {
+      margin-bottom: 0;
+    }
+    
+    p {
+      /* TODO: refactor */
+      margin: 0 !important; 
+      text-align: left !important;
+    }
   }
 }
 
