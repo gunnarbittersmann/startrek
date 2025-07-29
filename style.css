@@ -265,24 +265,21 @@ dt, dd, dd ul {
 }
 
 ul:has(details) {
-	position: relative;
 	display: flex;
-	gap: 0 1.5em;
 	flex-wrap: wrap;
-}
-
-ul:has(details[open])::after {
-	content: '';
-	display: block;
-	margin: 1em 0;
-	width: 100%;
-	height: auto;
-	aspect-ratio: 16/9;
-}
-
-ul:has(details) iframe {
-	position: absolute;
-	inset: auto 0 0;
+  
+  li, details {
+    display: contents;
+  }
+  
+  li:not(:first-of-type) summary {
+    margin-left: 1.5em;
+  }
+  
+  iframe {
+    order: 1;
+    width: 100%;
+  }
 }
 
 @media (width > 40em) {
