@@ -11,6 +11,7 @@
 		}
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/tos",
 	"name": "Star Trek: The Original Series",
 	"identifier": "TOS",
 	"inLanguage": "en",
@@ -2558,6 +2559,21 @@
 					"description": {
 						"en": "Strange radiation exposes the command crew of the Enterprise to the effects of rapid aging. A landing party of Chekov, Kirk, Spock, Bones, Scotty, and Lieutenant Galway divide into small teams to find the planet Gamma Hydra Four’s colonists. Chekov enters a building and is shocked to see a dead man and calls others. The landing party meets two other people who are old in appearance but young in age. Bones concludes the analysis and says the two other people have only a few days to live because their bodily functions are aging about 30 years a day. The same thing begins to happen to the landing party upon getting back to the Enterprise. Scotty, Bones, Spock, Kirk and Galway start to get old, but Chekov does not. The aging inhibits the decision-making abilities of Captain Kirk and Spock. A Commodore Stocker who is a passenger aboard the Enterprise takes command of the ship. He makes a bad decision taking the Enterprise into the Neutral Zone and into a deadly attack by the Romulans. From an idea Bones has about why Chekov was immune, Spock and Dr. Janet Wallace (who is also a passenger aboard) devise a vaccine containing adrenaline that Kirk readily tests. It works and Kirk immediately resumes command of the Enterprise and tricks the Romulans, saving the Enterprise.",
 						"de": "Ein Außenteam der Enterprise findet die Bewohner einer Forschungsstation auf dem Planeten Gamma Hydra IV rapide gealtert vor. Der eine Teil der Personen ist schon an Altersschwäche gestorben, der andere Teil stirbt wenig später ebenfalls daran. Alsbald beginnen auch die Mitglieder des Außenteams rapide zu altern und drohen deshalb in wenigen Tagen zu sterben. Chekov bleibt merkwürdigerweise davon verschont, Spock altert langsamer. Spock ermittelt als Ursache die von einem Kometen ausgehende Strahlung als Ursache für die Krankheit. Commodore Stocker lässt Spock angesichts der wegen zunehmender Senilität eingeschränkten Führungskraft Kirks Dienstbefähigung prüfen. Kirk weigert sich trotz seiner zunehmenden Vergreisung einzugestehen, dass er dienstunfähig ist. Die Anhörung ergibt, dass Stocker das Kommando von Kirk übernimmt. Daraufhin lässt Stocker die Enterprise zu einer Raumstation Kurs setzen und dabei fahrlässig durch die Neutrale Zone fliegen, in der Gefahr durch die Romulaner droht. Basierend auf Chekovs Verhalten auf dem Planeten erkennen Spock, Kirk und McCoy, dass Adrenalin wirksam gegen die Verstrahlung und somit gegen die Vergreisungserkrankung ist. Diese wird daraufhin bei den noch nicht gestorbenen Erkrankten geheilt. Kirk kann somit das Kommando wieder übernehmen und mit einer gewagten List die von den Romulanern ausgehende Gefahr bannen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/d_1YHVfLbMo"
+						}
 					}
 				},
 				{
@@ -3123,6 +3139,21 @@
 					"description": {
 						"en": "Beings from the Andromeda Galaxy steal the Enterprise, technologically modify it, and attempt to return home. Kirk, Spock, Bones, and some crew members beam down to a planet’s surface and find a group of people who demand Kirk surrender the ship by paralyzing everyone except Kirk. These people are the inhabitants of the planet Kelvan in the Andromeda galaxy. They crossed the intergalactic boundaries and intergalactic space to the Milky Way to find a sustainable system for their people on a journey spanning over 300 years. Soon, Rojan controls the Enterprise and, along with his people, immobilizes the entire crew aboard and begins the journey for Andromeda. Upon reaching the intergalactic boundary, Spock and Scotty make a plan to blow up the Enterprise to defeat the Kelvans’ mission, but Spock says no. Later, Kirk and Spock realize that these people, though they have taken human form, are unable to handle the flow of emotions. Spock, Kirk, Bones, and Scotty begin challenging those emotions to distract the Kelvans and regain control of the Enterprise. They help the Kelvans realize that with the help of the United Federation of Planets, the Kelvans can peacefully make their journey into the Milky Way and live in harmony with other civilizations.",
 						"de": "Einem Notruf folgend, ist die Enterprise beim Planeten Kelva. Der Notruf stellt sich für die Crew als Falle heraus, da die Kelvaner die Enterprise gewaltsam übernehmen und für die baldige Entführung vorbereiten. Die Kelvaner wollen, da ihr eigenes Raumschiff zerstört wurde, mit der Enterprise zurück in ihre Heimat, die benachbarte Andromedagalaxie fliegen. Als das auf dem Planeten eingesperrte Außenteam um Kirk und Spock fliehen will, lässt der kelvanische Anführer Rojan zur Strafe ein Redshirt exekutieren. Nachdem die Enterprise, auf die das Außenteam nun zurückgeholt wurde, unter Einsatz von kelvanischer Technik die intergalaktische Energiebarriere zwischen Milchstraße und Andromedagalaxie durchbrochen hat, lässt Rojan die Enterprise-Crewmitglieder in etwa faustgroße Polyeder verwandeln, weil er sie nicht mehr benötigt. Ausnahme davon bilden nur Kirk, Spock, McCoy und Scotty. Da die Kelvaner an Bord der Enterprise ihrer übersinnlichen Fähigkeiten nicht mehr mächtig sind, versuchen die Vier, ihre Schwächen auszunutzen, und können ihnen damit das Menschsein nahebringen. Kirk macht Rojan verständlich, dass er und seine Artgenossen, wenn sie in 300 Jahren in ihrer Heimat ankommen, ihren Verwandten längst fremd geworden sein werden, und bewegt ihn so dazu, mit der Enterprise umzukehren und den Kelvanern im Föderationsgebiet eine Heimat zu bieten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/TYPDH6RTJBw"
+						}
 					}
 				},
 				{
@@ -4251,6 +4282,21 @@
 					},
 					"description": {
 						"de": "Die Enterprise ist auf dem Weg, den Planeten Ariannus zu entseuchen. Unterwegs begegnet ihr eine von Raumbasis 4 als gestohlen gemeldete Raumfähre der Föderation. Die Fähre wird an Bord geholt. Aus ihr steigt auf dem Hangardeck ein Humanoid, dessen linke Körperseite schwarz und die rechte weiß ist. Der geschwächte Fremde namens Lokai vom Planeten Cheron wird auf die Krankenstation gebracht und soll sich als Dieb vor dem Raumflottenkommando verantworten. Lokai sagt aus, aus einer Notlage heraus gehandelt zu haben. Es kommt zur Begegnung mit einem weiteren Raumschiff, dessen einziger Passagier sich vor dessen Zerstörung auf die Brücke der Enterprise beamt. Es ist Kommissar Bele vom Planeten Cheron. Er ist genau umgekehrt gefärbt wie Lokai und befindet sich auf der Jagd nach ihm, da dieser ein entflohener Verräter sei. Bele bringt die Enterprise auf den Kurs nach Cheron, um Lokai dorthin zu bringen. Kirk, Spock und Scott starten die Selbstzerstörungs-Sequenz. Bele gibt sich sieben Sekunden vor der Zerstörung geschlagen und Kirk bricht die Sequenz ab. Die Enterprise wird wieder auf Kurs nach Ariannus gebracht. Nach erfolgreichem Abschluss der Dekontamination von Ariannus lässt Kirk direkten Kurs auf die Raumbasis 4 setzen. Bele sabotiert die Selbstzerstörung und bringt die Enterprise erneut auf Kurs nach Cheron. Spock stellt dort fest, dass die gesamte Bevölkerung ausgelöscht wurde. Bele gibt dennoch nicht auf. Er jagt Lokai durch das Schiff auf den verlassenen Planeten, wo ihnen nun nichts mehr außer ihrem Hass verbleibt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-25",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4vdSC1c6ZDE"
+						}
 					}
 				},
 				{
@@ -4487,7 +4533,22 @@
 						"en": "The crew of the Enterprise encounters an immortal human who lives as a recluse on his own planet."
 					},
 					"description": {
-						"de": "Das rigelianische Fieber hat die Enterprise befallen und bereits einigen Besatzungsmitgliedern den Tod gebracht. Es wird zur Heilung Ryetalyn benötigt, das auf dem Planeten Holberg 917G im Omega-System entdeckt wird. Der Landetrupp trifft auf den schwebenden Roboter M-4 und einen Mann mit dem Namen Flint. In Flints Schloss sind Kirk, Spock und McCoy von der umfangreichen Sammlung von unschätzbar wertvollen originaler Kunstschätzen beeindruckt, darunter unbekannte Werke von Leonardo da Vinci und Johannes Brahms sowie eine originale Gutenberg-Bibel. Nach anfänglichen Schwierigkeiten willigt Flint ein, sie bei der Gewinnung des Ryetalyns zu unterstützen. Es stellt sich heraus, dass Flint als Akharin 3854 v.&nbsp;Chr. in Mesopotamien geboren wurde und selbst da Vinci, Brahms und viele andere Persönlichkeiten der Weltgeschichte war. Er stellt dem Landetrupp Rayna Kapac vor. Kirk verliebt sich in sie, und Flint wird deshalb eifersüchtig. Er demonstriert seine Macht, indem er die Enterprise aus dem Orbit im Modellformat in sein Schloss beamt. Rayna ist ein hochentwickelter von Flint erschaffener Android, der menschliche Züge und Emotionen entwickelt. Sie ist von der Liebe zu Kirk und Flint so hin und her gerissen, dass sie an dem Widerspruch der unbekannten Gefühle in ihr stirbt. Zurück an Bord der Enterprise hilft Spock dem unter Raynas Tod leidenden Kirk mit einer Gedankenverschmelzung, das Geschehene zu vergessen. Die Besatzung der Enterprise kann mit dem Ryetalyn geheilt werden. Flint altert und will seine verbleibende Zeit in den Dienst der Menschheit stellen."
+						"de": "Das rigelianische Fieber hat die Enterprise befallen und bereits einigen Besatzungsmitgliedern den Tod gebracht. Es wird zur Heilung Ryetalyn benötigt, das auf dem Planeten Holberg 917G im Omega-System entdeckt wird. Der Landetrupp trifft auf den schwebenden Roboter M-4 und einen Mann mit dem Namen Flint. In Flints Schloss sind Kirk, Spock und McCoy von der umfangreichen Sammlung von unschätzbar wertvollen originaler Kunstschätzen beeindruckt, darunter unbekannte Werke von Leonardo da Vinci und Johannes Brahms sowie eine originale Gutenberg-Bibel. Nach anfänglichen Schwierigkeiten willigt Flint ein, sie bei der Gewinnung des Ryetalyns zu unterstützen. Es stellt sich heraus, dass Flint als Akharin 3854 v. Chr. in Mesopotamien geboren wurde und selbst da Vinci, Brahms und viele andere Persönlichkeiten der Weltgeschichte war. Er stellt dem Landetrupp Rayna Kapac vor. Kirk verliebt sich in sie, und Flint wird deshalb eifersüchtig. Er demonstriert seine Macht, indem er die Enterprise aus dem Orbit im Modellformat in sein Schloss beamt. Rayna ist ein hochentwickelter von Flint erschaffener Android, der menschliche Züge und Emotionen entwickelt. Sie ist von der Liebe zu Kirk und Flint so hin und her gerissen, dass sie an dem Widerspruch der unbekannten Gefühle in ihr stirbt. Zurück an Bord der Enterprise hilft Spock dem unter Raynas Tod leidenden Kirk mit einer Gedankenverschmelzung, das Geschehene zu vergessen. Die Besatzung der Enterprise kann mit dem Ryetalyn geheilt werden. Flint altert und will seine verbleibende Zeit in den Dienst der Menschheit stellen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-30",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ugy4x_PNaNQ"
+						}
 					}
 				},
 				{

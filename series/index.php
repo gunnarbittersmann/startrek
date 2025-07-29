@@ -1,14 +1,15 @@
 <?php
 	const PREFERRED_LANG = 'de';
 	const IS_LOGO_VISIBLE = FALSE;
+	const IS_WORKTRANSLATION_NAME_VISIBLE = TRUE;
+	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 	const IS_DIRECTOR_VISIBLE = FALSE;
 	const IS_AUTHOR_VISIBLE = FALSE;
-	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2024-10-29T13:07Z';
+	const STYLESHEET = '../style.css?date=2025-05-30T13:24Z';
 	const SCRIPT = '../script.js';
 
 	$files = scandir('.');
@@ -109,7 +110,8 @@ EOT;
 				<h1 property="name"><?= htmlSpecialChars($data['name']) ?></h1>
 				<table>
 					<?php
-						$columnsBeforeReview = 5;
+						$columnsBeforeReview = 4;
+						if (IS_WORKTRANSLATION_NAME_VISIBLE) { $columnsBeforeReview++; }
 						if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) { $columnsBeforeReview++; }
 						if (IS_DIRECTOR_VISIBLE) { $columnsBeforeReview++; }
 						if (IS_AUTHOR_VISIBLE) { $columnsBeforeReview++; }
@@ -145,46 +147,48 @@ EOT;
 										<?php else: ?>
 											<td></td>
 										<?php endif; ?>
-										<?php if ($translation): ?>
-											<td
-												property="workTranslation"
-												typeof="<?= htmlSpecialChars($translation['@type']) ?>"
-												lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
-												resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-												id="<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-											>
-												<?php if ($translation['alternateName']): ?>
-													<?php if ($data['identifier'] == 'TOS'): ?>
-														<s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
-													<?php else: ?>
-														<span property="name"><?= htmlSpecialChars($translation['name']) ?></span>
-													<?php endif; ?>
-													<?php if (is_array($translation['alternateName'])): ?>
-														<?php foreach ($translation['alternateName'] as $alternateName): ?>
+										<?php if (IS_WORKTRANSLATION_NAME_VISIBLE): ?>
+											<?php if ($translation): ?>
+												<td
+													property="workTranslation"
+													typeof="<?= htmlSpecialChars($translation['@type']) ?>"
+													lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
+													resource="_:<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+													id="<?= htmlSpecialChars($episode['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+												>
+													<?php if ($translation['alternateName']): ?>
+														<?php if ($data['identifier'] == 'TOS'): ?>
+															<s property="name"><?= htmlSpecialChars($translation['name']) ?></s>
+														<?php else: ?>
+															<span property="name"><?= htmlSpecialChars($translation['name']) ?></span>
+														<?php endif; ?>
+														<?php if (is_array($translation['alternateName'])): ?>
+															<?php foreach ($translation['alternateName'] as $alternateName): ?>
+																/
+																<span property="alternateName">
+																	<?= htmlSpecialChars($alternateName) ?>
+																</span>
+															<?php endforeach; ?>
+														<?php else: ?>
 															/
 															<span property="alternateName">
-																<?= htmlSpecialChars($alternateName) ?>
+																<?= htmlSpecialChars($translation['alternateName']) ?>
 															</span>
-														<?php endforeach; ?>
+														<?php endif; ?>
 													<?php else: ?>
-														/
-														<span property="alternateName">
-															<?= htmlSpecialChars($translation['alternateName']) ?>
+														<span property="name"
+															<?php if (is_array($translation['name'])): ?>
+																lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
+															<?php endif; ?>
+														>
+															<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
 														</span>
 													<?php endif; ?>
-												<?php else: ?>
-													<span property="name"
-														<?php if (is_array($translation['name'])): ?>
-															lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
-														<?php endif; ?>
-													>
-														<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
-													</span>
-												<?php endif; ?>
-											</td>
-										<?php else: ?>
-											<td></td>
-										<?php endif; ?>
+												</td>
+											<?php else: ?>
+												<td></td>
+											<?php endif; // ($translation) ?>
+										<?php endif; // (IS_WORKTRANSLATION_NAME_VISIBLE) ?>
 										<td>
 											<time property="datePublished"><?= htmlSpecialChars($episode['datePublished']) ?></time>
 										</td>
@@ -197,11 +201,11 @@ EOT;
 												</td>
 											<?php else: ?>
 												<td></td>
-											<?php endif; ?>
-										<?php endif; ?>
+											<?php endif; // ($translation) ?>
+										<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 										<?php if (IS_DIRECTOR_VISIBLE): ?>
 											<?php if ($episode['director']): ?>
-												<?php if ($episode['director']['name']): ?>
+												<?php if (IS_DIRECTOR_VISIBLE): ?>
 													<td
 														property="director"
 														typeof="<?= htmlSpecialChars($episode['director']['@type']) ?>"
@@ -223,9 +227,11 @@ EOT;
 															<?php endforeach; ?>
 														</ul>
 													</td>
-												<?php endif; ?>
-											<?php endif; ?>
-										<?php endif; ?>
+												<?php endif; // ($episode['director']['name']) ?>
+											<?php else: ?>
+												<td></td>
+											<?php endif; // ($episode['director']) ?>
+										<?php endif; // (IS_DIRECTOR_VISIBLE) ?>
 										<?php if (IS_AUTHOR_VISIBLE): ?>
 											<?php if ($episode['author']): ?>
 												<td>
@@ -421,8 +427,8 @@ EOT;
 													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 														<summary
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-															<?php if ($episode['review']['name']): ?>
-																title="<?= htmlSpecialChars($episode['review']['name']) ?>"
+															<?php if ($episode['review']['name'] || $episode['review']['datePublished']): ?>
+																title="<?= htmlSpecialChars($episode['review']['name']) ?> <?= htmlSpecialChars($episode['review']['datePublished']) ?>"
 															<?php endif; ?>
 														>
 															<?php if ($episode['review']['creator'] && $episode['review']['creator']['name']): ?>
@@ -447,6 +453,15 @@ EOT;
 																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
 															<?php endif; ?>
 														</summary>
+														<?php if ($episode['review']['datePublished']): ?>
+															<meta
+																property="datePublished"
+																content="<?= htmlSpecialChars($episode['review']['datePublished']) ?>"
+																<?php if ($episode['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															/>
+														<?php endif; ?>
 														<meta
 															property="embedUrl"
 															content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
@@ -475,8 +490,8 @@ EOT;
 																>
 																	<summary
 																		aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
-																		<?php if ($review['name']): ?>
-																			title="<?= htmlSpecialChars($review['name']) ?>"
+																		<?php if ($review['name'] || $review['datePublished']): ?>
+																			title="<?= htmlSpecialChars($review['name']) ?>  <?= htmlSpecialChars($review['datePublished']) ?>"
 																		<?php endif; ?>
 																	>
 																		<?php if ($review['creator'] && $review['creator']['name']): ?>
@@ -499,6 +514,15 @@ EOT;
 																			<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																		<?php endif; ?>
 																	</summary>
+																	<?php if ($review['datePublished']): ?>
+																		<meta
+																			property="datePublished"
+																			content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																				class="new"
+																			<?php endif; ?>
+																		/>
+																	<?php endif; ?>
 																	<meta
 																		property="embedUrl"
 																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -533,8 +557,8 @@ EOT;
 												<details lang="<?= htmlspecialchars($season['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 													<summary
 														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
-														<?php if ($season['review']['name']): ?>
-															title="<?= htmlSpecialChars($season['review']['name']) ?>"
+														<?php if ($season['review']['name'] || $season['review']['datePublished']): ?>
+															title="<?= htmlSpecialChars($season['review']['name']) ?>  <?= htmlSpecialChars($season['review']['datePublished']) ?>"
 														<?php endif; ?>
 													>
 														<?php if ($season['review']['creator']): ?>
@@ -568,6 +592,15 @@ EOT;
 															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
 														<?php endif; ?>
 													</summary>
+													<?php if ($season['review']['datePublished']): ?>
+														<meta
+															property="datePublished"
+															content="<?= htmlSpecialChars($season['review']['datePublished']) ?>"
+															<?php if ($season['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																class="new"
+															<?php endif; ?>
+														/>
+													<?php endif; ?>
 													<meta
 														property="embedUrl"
 														content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
@@ -596,8 +629,8 @@ EOT;
 															>
 																<summary
 																	aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
-																	<?php if ($review['name']): ?>
-																		title="<?= htmlSpecialChars($review['name']) ?>"
+																	<?php if ($review['name'] || $review['datePublished']): ?>
+																		title="<?= htmlSpecialChars($review['name']) ?>  <?= htmlSpecialChars($review['datePublished']) ?>"
 																	<?php endif; ?>
 																>
 																	<?php if ($review['creator']): ?>
@@ -631,6 +664,15 @@ EOT;
 																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																	<?php endif; ?>
 																</summary>
+																<?php if ($review['datePublished']): ?>
+																	<meta
+																		property="datePublished"
+																		content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																		<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																			class="new"
+																		<?php endif; ?>
+																	/>
+																<?php endif; ?>
 																<meta
 																	property="embedUrl"
 																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -666,8 +708,8 @@ EOT;
 										<details lang="en" property="video" typeof="VideoObject">
 											<summary
 												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
-												<?php if ($data['review']['name']): ?>
-													title="<?= htmlSpecialChars($data['review']['name']) ?>"
+												<?php if ($data['review']['name'] || $data['review']['datePublished']): ?>
+													title="<?= htmlSpecialChars($data['review']['name']) ?>  <?= htmlSpecialChars($data['review']['datePublished']) ?>"
 												<?php endif; ?>
 											>
 												<?php if ($data['review']['creator'] && $data['review']['creator']['name']): ?>
@@ -679,6 +721,15 @@ EOT;
 													</span>
 												<?php endif; ?>
 											</summary>
+											<?php if ($data['review']['datePublished']): ?>
+												<meta
+													property="datePublished"
+													content="<?= htmlSpecialChars($data['review']['datePublished']) ?>"
+													<?php if ($data['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+														class="new"
+													<?php endif; ?>
+												/>
+											<?php endif; ?>
 											<meta
 												property="embedUrl"
 												content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
@@ -707,8 +758,8 @@ EOT;
 													>
 														<summary
 															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
-															<?php if ($review['name']): ?>
-																title="<?= htmlSpecialChars($review['name']) ?>"
+															<?php if ($review['name'] || $review['datePublished']): ?>
+																title="<?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?>"
 															<?php endif; ?>
 														>
 															<?php if ($review['creator'] && $review['creator']['name']): ?>
@@ -720,6 +771,15 @@ EOT;
 																</span>
 															<?php endif; ?>
 														</summary>
+														<?php if ($review['datePublished']): ?>
+															<meta
+																property="datePublished"
+																content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															/>
+														<?php endif; ?>
 														<meta
 															property="embedUrl"
 															content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"

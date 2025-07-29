@@ -14,6 +14,18 @@
 	"name": "Star Trek: The Next Generation",
 	"identifier": "TNG",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"creator": {
 		"@type": "Person",
 		"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
@@ -2259,6 +2271,21 @@
 					},
 					"description": {
 						"de": "Als die Enterprise ein Sternenflottenschiff findet, dessen Besatzung an Altersschwäche gestorben ist, stellt die Crew fest, dass sich auf der Forschungsstation Darwin dasselbe rapide Altern zu ereignen scheint. Als sie nach der Ursache und dem Übertragungsweg für die Infektion sucht, infiziert sich Dr. Pulaski versehentlich ebenfalls und altert zusehends. Einer Idee Picards folgend, schafft es die Crew der Enterprise aber, mit Hilfe von Pulaskis DNS und einem modifizierten Transporterstrahl, Pulaski in den Zustand vor ihrer Erkrankung zu verwandeln."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ItH0hvx6Nc0"
+						}
 					}
 				},
 				{
@@ -4733,6 +4760,21 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_4"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Ersteindruck",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+					"name": "Nerdzika"
+				},
+				"datePublished": "2025-05-21",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/U7jDCPz1ujE"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -5519,6 +5561,21 @@
 					},
 					"description": {
 						"de": "Das Föderationsraumschiff USS Phoenix unter dem Kommando von Chief O’Briens ehemaligem Vorgesetzten Captain Maxwell befindet sich offensichtlich auf einem Feldzug zur Vernichtung cardassianischer Raumschiffe. Weil dies den jungen Frieden zwischen cardassianischem Imperium und Föderation gefährdet, versucht Picard mit der Enterprise, Maxwell zu stoppen. Dabei wird er vom Cardassianer Gul Macet begleitet und überwacht. Zusammen erleben sie, wie die Langstreckensensoren die Vernichtung zweier weiterer cardassianischer Raumschiffe durch die Phoenix vermelden. Nachdem die Enterprise bei der Phoenix angekommen ist, teilt Maxwell gegenüber Picard mit, dass er Beweise für Aufrüstungsbemühungen der Cardassianer hätte. Von Maxwells Vorhaben, aus diesem Grund ein weiteres cardassianisches Schiff zu zerstören, kann ihn Picard nicht abbringen, wohl aber Chief O’Brien in einem persönlichen Gespräch. Picard teilt Macet schließlich mit, dass Maxwells Verdacht nicht aus der Luft gegriffen war."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-01",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MxtGzRj3eLk"
+						}
 					}
 				},
 				{
@@ -6408,6 +6465,21 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_5"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Ersteindruck",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+					"name": "Nerdzika"
+				},
+				"datePublished": "2025-06-04",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/WO9S5cT7k_E"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -6519,6 +6591,20 @@
 					"abstract": {
 						"en": "Picard must learn to communicate with an alien captain who speaks in metaphors before a dangerous beast kills them both.",
 						"de": "Ein Captain einer nur mit Metaphern kommunizierenden Spezies versucht auf einem Planeten, Picard zur Teilnahme an einem gemeinsamen Kampf gegen ein Monster zu bewegen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2025-06-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6i0GNbQYPB0"
+						}
 					}
 				},
 				{
@@ -8496,6 +8582,21 @@
 					},
 					"description": {
 						"de": "Als Picard, Ro, Guinan und Keiko O’Brien mit einem Shuttle vom Landurlaub zur Enterprise zurückfliegen, gerät das Shuttle in ein Energiefeld. Ehe es dadurch zerstört wird, kann man die vier Insassen auf die Enterprise beamen, jedoch werden sie in den Körpern jugendlicher Kinder rematerialisiert. Ihre Intelligenz und Erfahrung bleiben unverändert. Während die vier versuchen, in ihren kleineren Körpern zurechtzukommen, entwickeln Crusher, La Forge und Data eine Möglichkeit, die vier Kinder unter Verwendung der Erwachsenen-Transportermuster und durch Beamen zurück in Erwachsene zu transformieren. Ehe man dies durchführen kann, wird die Enterprise durch abtrünnige Ferengi geentert. Riker kann den Hauptcomputer in letzter Sekunde sperren. Die Ferengi beamen alle erwachsenen Crewmitglieder außer Riker auf den Planeten Ligos VII, wo sie sie zum illegalen Mineralabbau einsetzen, und planen die Enterprise an die Romulaner zu verkaufen. Nachdem Picard und die anderen Kinder im Klassenzimmer eingesperrt wurden, arbeiten sie zusammen daran, die Ferengi zu bekämpfen. Indem sich Picard als Rikers Sohn ausgibt, kann er Riker dazu veranlassen, die Kommandofunktionen auf dem Kindercomputer im Klassenzimmer freizugeben, wodurch es den Kindern letztlich gelingt, die Ferengi gefangenzunehmen. Schließlich werden Picard, Ro, Guinan und Keiko durch Beamen in Erwachsene zurückverwandelt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/m0Hpyo84UK0"
+						}
 					}
 				},
 				{
@@ -9165,6 +9266,21 @@
 					},
 					"description": {
 						"de": "Die Enterprise ist an der Remler-Raumstation angedockt, um routinemäßig von Baryonen gesäubert zu werden, und zu dem Zweck vollständig evakuiert worden. Kurz vor Beginn der Säuberungsaktion kehrt Picard auf die Enterprise zurück, um seinen Reitsattel zu holen, und überwältigt dabei ein Mitglied der Stationscrew, das er kriminellen Verhaltens verdächtigt. Da schiffsweit die Energie abgestellt wird, kann er sich nicht wieder vom Schiff beamen. Er gerät in die Gefangenschaft von Dieben, die im Maschinenraum Trilitiumharz stehlen, um es profitorientiert zu verkaufen. Als er aus der Gefangenschaft flieht, zerstört er das Gerät, mit dem sich die Diebe vor dem tödlich wirkenden Säuberungsstrahl schützen. Dadurch und durch den näher kommenden Strahl sind alle gezwungen, in Richtung Zehn-Vorne zu fliehen, das der Strahl als letzte Stelle erreicht. Bei der Flucht wird Picard erneut gefangengenommen. Er führt die Diebe zum Zehn-Vorne und dabei in eine selbst gelegte Falle. Dennoch kann er nicht verhindern, dass sich eine Diebin mit einem Behälter Trilitiumharz von Bord beamt. Unterdessen wurden Troi, Riker, Data, La Forge und Crusher von Komplizen der Diebe auf dem Planeten, in dessen Nähe die Station liegt, als Geiseln gefangen genommen. Sie können die Geiselnehmer aber bald austricksen und überwältigen. Dadurch kann Data, kurz bevor Picard durch den Säuberungsstrahl getötet worden wäre, den Strahl deaktivieren. Da sich Picard des Steuerelements des Trilitiumharz-Behälters bemächtigen konnte, kann er das gewöhnlich sehr instabile Harz mitsamt dem Shuttle zur Explosion bringen, in dem die Diebin flieht."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-10",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/sO09tMDJAik"
+						}
 					}
 				},
 				{
@@ -11051,7 +11167,7 @@
 						"@type": "TVEpisode",
 						"inLanguage": "de",
 						"name": "Gestern, heute, morgen",
-						"datePublished": "1994-07-26/1994-07-26"
+						"datePublished": "1994-07-26/1994-07-27"
 					},
 					"subjectOf": [
 						{

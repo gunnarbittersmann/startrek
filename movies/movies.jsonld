@@ -13,6 +13,18 @@
 	"@type": "MovieSeries",
 	"name": "Star Trek",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -924,6 +936,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-04-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xN3fXU5jQl4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
@@ -1010,6 +1037,21 @@
 						}
 					],
 					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-05-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1F99-2mBAPs"
+							}
+						},
 						{
 							"@type": "Review",
 							"inLanguage": "en",
@@ -1117,20 +1159,52 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek:_Nemesis"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Movie Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cAUs-jy70rU"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-05-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OIlFK0_egpQ"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -1177,7 +1251,7 @@
 								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
 								"name": "Wikipedia"
 							},
-							"url": "https://en.wikipedia.org/wiki/Star_Trek_(film)"
+							"url": "https://en.wikipedia.org/wiki/Star_Trek_(2009_film)"
 						},
 						{
 							"@type": "Webpage",
@@ -1191,6 +1265,21 @@
 						}
 					],
 					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yiFU2oM1pNk"
+							}
+						},
 						{
 							"@type": "Review",
 							"inLanguage": "en",
@@ -1290,20 +1379,37 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_Into_Darkness"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Movie Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-06-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Kc8_X5kprU0"
+							}
 						},
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "Movie",
@@ -1357,21 +1463,38 @@
 							"url": "https://de.wikipedia.org/wiki/Star_Trek_Beyond"
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Movie Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ICxQSCEVwRw"
+							}
 						},
-						"datePublished": "2016-07-23",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/UX3CmLy3nhs"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Movie Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2016-07-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/UX3CmLy3nhs"
+							}
 						}
-					}
+					]
 				}
 			]
 		},
@@ -1499,6 +1622,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "de",
+							"name": "Ersteindruck",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#Nerdzika",

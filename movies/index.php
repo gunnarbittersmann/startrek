@@ -1,13 +1,14 @@
 <?php
 	const PREFERRED_LANG = 'de';
+	const IS_WORKTRANSLATION_NAME_VISIBLE = TRUE;
+	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 	const IS_DIRECTOR_VISIBLE = FALSE;
 	const IS_AUTHOR_VISIBLE = FALSE;
-	const IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE = FALSE;
 
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2022-10-12T13:13Z';
+	const STYLESHEET = '../style.css?date=2025-05-30T13:24Z';
 	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('movies.jsonld');
@@ -69,25 +70,27 @@
 								>
 									<?= htmlSpecialChars($movie['name']['@value'] ?? $movie['name']) ?>
 								</td>
-								<?php if ($translation): ?>
-									<td
-										property="workTranslation"
-										typeof="<?= htmlSpecialChars($translation['@type']) ?>"
-										lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
-										resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-										id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
-									>
-										<span property="name"
-											<?php if (is_array($translation['name'])): ?>
-												lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
-											<?php endif; ?>
+								<?php if (IS_WORKTRANSLATION_NAME_VISIBLE): ?>
+									<?php if ($translation): ?>
+										<td
+											property="workTranslation"
+											typeof="<?= htmlSpecialChars($translation['@type']) ?>"
+											lang="<?= htmlSpecialChars($translation['inLanguage']) ?>"
+											resource="_:<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
+											id="<?= htmlSpecialChars($movie['@identifier']) ?><?= htmlSpecialChars($translation['inLanguage']) ?>"
 										>
-											<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
-										</span>
-									</td>
-								<?php else: ?>
-									<td></td>
-								<?php endif; ?>
+											<span property="name"
+												<?php if (is_array($translation['name'])): ?>
+													lang="<?= htmlSpecialChars($translation['name']['@language'] ?? 'und') ?>"
+												<?php endif; ?>
+											>
+												<?= htmlSpecialChars($translation['name']['@value'] ?? $translation['name']) ?>
+											</span>
+										</td>
+									<?php else: ?>
+										<td></td>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_NAME_VISIBLE) ?>
 								<td>
 									<time property="datePublished"><?= htmlSpecialChars($movie['datePublished']) ?></time>
 								</td>
@@ -102,8 +105,8 @@
 										</td>
 									<?php else: ?>
 										<td></td>
-									<?php endif; ?>
-								<?php endif; ?>
+									<?php endif; // ($translation) ?>
+								<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 								<?php if (IS_DIRECTOR_VISIBLE): ?>
 									<?php if ($movie['director']): ?>
 										<?php if ($movie['director']['name']): ?>
@@ -301,8 +304,8 @@
 											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
-													<?php if ($movie['review']['name']): ?>
-														title="<?= htmlSpecialChars($movie['review']['name']) ?>"
+													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
+														title="<?= htmlSpecialChars($movie['review']['name']) ?> <?= htmlSpecialChars($movie['review']['datePublished']) ?>"
 													<?php endif; ?>
 												>
 													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
@@ -315,6 +318,15 @@
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
+												<?php if ($movie['review']['datePublished']): ?>
+													<meta
+														property="datePublished"
+														content="<?= htmlSpecialChars($movie['review']['datePublished']) ?>"
+														<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+															class="new"
+														<?php endif; ?>
+													/>
+												<?php endif; ?>
 												<meta
 													property="embedUrl"
 													content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
@@ -339,8 +351,8 @@
 														>
 															<summary
 																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
-																<?php if ($review['name']): ?>
-																	title="<?= htmlSpecialChars($review['name']) ?>"
+																<?php if ($review['name'] || $review['datePublished']): ?>
+																	title="<?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?>"
 																<?php endif; ?>
 															>
 																<?php if ($review['creator'] && $review['creator']['name']): ?>
@@ -353,6 +365,15 @@
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
+															<?php if ($review['datePublished']): ?>
+																<meta
+																	property="datePublished"
+																	content="<?= htmlSpecialChars($review['datePublished']) ?>"
+																	<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																		class="new"
+																	<?php endif; ?>
+																/>
+															<?php endif; ?>
 															<meta
 																property="embedUrl"
 																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"

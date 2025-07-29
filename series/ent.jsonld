@@ -14,6 +14,18 @@
 	"name": "Star Trek: Enterprise",
 	"identifier": "ENT",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"creator": [
 		{
 			"@type": "Person",
@@ -3738,6 +3750,21 @@
 					},
 					"description": {
 						"de": "Die Enterprise-Crew trifft auf dem Flug zum Subraumkorridor auf eine deutlich älter aussehende Kopie ihres Schiffes. Zu ihrer Besatzung gehören auch Nachkommen der aktuellen Enterprise-Crew, darunter Lorian, der Commander, der Sohn von T’Pol und Tucker. Die zweite Enterprise wurde bedingt durch ein temporales Phänomen 117 Jahre in die Vergangenheit geschleudert, versuchte vergeblich, die erste Xindi-Waffe zu zerstören, und wartete seitdem in der Ausdehnung auf das Eintreffen der aktuellen Enterprise, um diese davon abzuhalten, sich in den Korridor zu begeben. T’Pol erhält Berechnungen ihres älteren Ichs, das mittlerweile Greisin ist. Ihnen zufolge kann die von Archer kommandierte Enterprise sich womöglich doch gefahrlos in den Korridor begeben. Da Lorian diese Einschätzung nicht teilt und stattdessen seinen Plan umsetzen will, benötigt er funktionierende Warpplasma-Injektoren für sein Schiff, die er von Archers Enterprise stiehlt. Um Lorians Enterprise am Abflug zu hindern, lässt Archer den Antrieb des anderen Schiffes zerstören und Ausrüstungsgegenstände herüberbeamen und zwingt Lorian so dazu, seinen Plan aufzugeben. Während Archer sein Schiff in den Korridor fliegen lässt, erhält er Waffenhilfe durch Lorians Enterprise, die die Angriffe dreier fremder Raumschiffe abwehrt. Nach dem Flug durch den Korridor ist Lorians Schiff verschwunden und Archers Enterprise trifft Degra an den vereinbarten Koordinaten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/VwYKUlt_mG0"
+						}
 					}
 				},
 				{

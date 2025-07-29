@@ -24,6 +24,8 @@ html {
 	--link-color: var(--text-color);
 	--disabled-color: gray;
 	--rule-color: silver;
+	--new-marker-text-color: var(--text-color);
+	--new-marker-background-color: hsl(10deg 90% 50%);
 	--table-margin: 2em;
 	scroll-padding-top: var(--header-height);
 	overflow: auto;
@@ -37,6 +39,7 @@ html {
 		--text-color: white;
 		--disabled-color: darkgray;
 		--rule-color: gray;
+		--new-marker-background-color: hsl(10deg 100% 40%);
 	}
 }
 
@@ -222,6 +225,10 @@ td:empty {
 	width: 2em;
 }
 
+tr:last-of-type [property="episodeNumber"] {
+	padding-right: 0;
+}
+
 td[property="name"],
 td[property="workTranslation"],
 td[property="director"],
@@ -245,7 +252,7 @@ details p {
 }
 
 details p:not([property]):only-of-type {
-    text-align: end;
+		text-align: end;
 }
 
 dl {
@@ -258,24 +265,21 @@ dt, dd, dd ul {
 }
 
 ul:has(details) {
-	position: relative;
 	display: flex;
-	gap: 0 1.5em;
 	flex-wrap: wrap;
-}
-
-ul:has(details[open])::after {
-	content: '';
-	display: block;
-	margin: 1em 0;
-	width: 100%;
-	height: auto;
-	aspect-ratio: 16/9;
-}
-
-ul:has(details) iframe {
-	position: absolute;
-	inset: auto 0 0;
+  
+  li, details {
+    display: contents;
+  }
+  
+  li:not(:first-of-type) summary {
+    margin-left: 1.5em;
+  }
+  
+  iframe {
+    order: 1;
+    width: 100%;
+  }
 }
 
 @media (width > 40em) {
@@ -345,7 +349,7 @@ li:nth-last-of-type(2) > span::after {
 }
 
 abbr[title] {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 img {
@@ -357,6 +361,12 @@ img {
 summary {
 	width: fit-content;
 	white-space: nowrap;
+}
+
+details:has(.new) summary {
+	color: var(--new-marker-text-color);
+	background: var(--new-marker-background-color);
+	outline: 0.4em solid var(--new-marker-background-color);
 }
 
 .review-range,
@@ -386,7 +396,7 @@ body:has(> .players) {
 }
 
 figure {
-  margin: 0;
+	margin: 0;
 }
 
 .players {

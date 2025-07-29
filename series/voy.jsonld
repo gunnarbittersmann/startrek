@@ -14,6 +14,18 @@
 	"name": "Star Trek: Voyager",
 	"identifier": "VOY",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"creator": [
 		{
 			"@type": "Person",
@@ -6160,6 +6172,25 @@
 					},
 					"description": {
 						"de": "Die Folge ist eine Fortsetzung von Equinox, Teil 1, aus der 5. Staffel. In Teil 1 trifft die Voyager auf ein weiteres Raumschiff der Föderation, die Equinox, die die Bioenergie von nukleogenetischen Wesen verwendet, um schneller reisen zu können. Seven und der Doktor wurden nach einem Konflikt zwischen Voyager und Equinox von der Equinox entführt. Seven hat die Zugriffscodes des Raumschiffes Equinox für die Kontrollen des Warpkerns verschlüsselt, um die Equinox daran zu hindern, weitere fremde Wesen für den schnellen Antrieb zu ermorden. Die Crew der Equinox entfernt daraufhin die ethischen Subroutinen des Doktors, um ihn zu zwingen, die Verschlüsselungscodes aus Sevens Gehirn gegen ihren Willen zu extrahieren. In der Zwischenzeit ergreift Janeway zu extremen Maßnahmen, um die Equinox zu stoppen, so ordnet sie an, Torpedos auf die Equinox zu feuern und droht einem gefangen genommenen Crewmitglied der Equinox mit einem schmerzhaften Tod, um Informationen über die Equinox zu erpressen. Chakotay, der Janeways Maßnahmen hinterfragt, wird von ihr vom Dienst suspendiert. Captain Ransom an Bord der Equinox bereut inzwischen seine Handlungen. Als er seine Crew anweist, zur Voyager zurückzukehren, meutert ein Teil, ein anderer hält aber noch zu Captain Ransom. Ransom gelingt es schließlich, dass der Doktor und Seven sowie der nicht meuternden Teil der Crew auf die Voyager gebeamt wird. Außerdem kann er die Schilde der Equinox deaktivieren, wodurch die Wesen den Warpkern angreifen und destabilisieren. Der meuternde Teil der Crew versucht, in ein Shuttle zu fliehen und wird von den fremden Wesen getötet. Ransom steuert die instabil gewordene Equinox von der Voyager weg, kurz darauf explodiert das Schiff. Auf der Voyager werden die überlebenden Equinox-Besatzungsmitglieder von Janeway aufgenommen, aber zu Crewmen degradiert und unter Beobachtung gestellt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-16",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#5.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#6.1" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6QZisiHfi_Y"
+						}
 					}
 				},
 				{

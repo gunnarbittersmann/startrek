@@ -14,6 +14,18 @@
 	"name": "Star Trek: Strange New Worlds",
 	"identifier": "SNW",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"creator": [
 		{
 			"@type": "Person",
@@ -310,7 +322,7 @@
 					},
 					"description": {
 						"en": "The Enterprise investigates the disappearance of a colony of Illyrians, who are banned by the Federation due to their genetic engineering. As an ion storm approaches, members of the away team return to the ship after unknowingly contracting a virus that makes them addicted to light. Number One is immune because she is an Illyrian, which she reveals so a cure can be synthesized from her blood. Trapped by the storm, Pike and Spock determine that the colonists were attempting to reverse their genetic modifications so they could join the Federation. They may have created the virus and transformed into plasma-like beings. The pair are protected from the storm by those beings and return to the Enterprise once everyone is cured. Number One attempts to resign, but Pike refuses. She wonders whether he would have shown more prejudice if she had not helped save the crew. Number One learns that the virus got through the ship’s filter because chief medical officer Dr. Joseph M’Benga is using an outdated transporter. This holds his daughter Rukiya in stasis until he can cure her rare disease.",
-						"de": "Die Enterprise untersucht das Verschwinden einer Kolonie von Illyrern, die aufgrund ihrer Gentechnik von der Föderation geächtet sind. Als sich ein Ionensturm nähert, beamen sich die Mitglieder des Außenteams zum Schiff zurück, nachdem sie sich unwissentlich mit einem Virus infiziert haben, der sie süchtig nach Licht macht. Im Sturm gefangen, stellen Pike und Spock fest, dass die Kolonisten versuchten, ihre genetischen Veränderungen rückgängig zu machen, um der Föderation beitreten zu können, als sie möglicherweise das Virus erzeugten und sich in plasmaähnliche Wesen verwandelten. Die beiden werden von diesen Wesen vor dem Sturm geschützt und kehren auf die Enterprise zurück, während alle Besatzungsmitglieder geheilt sind. Nummer Eins hatte verraten, dass sie Illyrianerin ist, um zu erklären, warum sie als Einzige gesund wurde. Zufällig wird durch einen Körperkontakt auch La’an Noonien-Singh geheilt, aus deren Blut dann ein Heilmittel synthetisiert wird. Nummer Eins versucht ihren Dienst zu quittieren, aber Pike weigert sich. Sie fragt sich, ob er mehr Vorurteile gezeigt hätte, wenn sie nicht geholfen hätte, die Besatzung zu retten. Nummer Eins erfährt, dass das Virus durch den automatischen Filter des Schiffes gelangt ist, weil der leitende medizinische Offizier Dr. Joseph M’Benga einen veralteten Transporter benutzt, um seine Tochter Rukiya in Stase zu halten, bis er ihre seltene und tödliche Krankheit heilen kann."
+						"de": "Die Enterprise untersucht das Verschwinden einer Kolonie von Illyrern, die aufgrund ihrer Gentechnik von der Föderation geächtet sind. Als sich ein Ionensturm nähert, beamen sich die Mitglieder des Außenteams zum Schiff zurück, nachdem sie sich unwissentlich mit einem Virus infiziert haben, der sie süchtig nach Licht macht. Im Sturm gefangen, stellen Pike und Spock fest, dass die Kolonisten versuchten, ihre genetischen Veränderungen rückgängig zu machen, um der Föderation beitreten zu können, als sie möglicherweise das Virus erzeugten und sich in plasmaähnliche Wesen verwandelten. Die beiden werden von diesen Wesen vor dem Sturm geschützt und kehren auf die Enterprise zurück, während alle Besatzungsmitglieder geheilt sind. Nummer Eins hatte verraten, dass sie Illyrianerin ist, um zu erklären, warum sie als Einzige gesund wurde. Zufällig wird durch einen Körperkontakt auch La’An Noonien-Singh geheilt, aus deren Blut dann ein Heilmittel synthetisiert wird. Nummer Eins versucht ihren Dienst zu quittieren, aber Pike weigert sich. Sie fragt sich, ob er mehr Vorurteile gezeigt hätte, wenn sie nicht geholfen hätte, die Besatzung zu retten. Nummer Eins erfährt, dass das Virus durch den automatischen Filter des Schiffes gelangt ist, weil der leitende medizinische Offizier Dr. Joseph M’Benga einen veralteten Transporter benutzt, um seine Tochter Rukiya in Stase zu halten, bis er ihre seltene und tödliche Krankheit heilen kann."
 					},
 					"review": [
 						{
@@ -391,8 +403,8 @@
 						"datePublished": "2022-12-15"
 					},
 					"description": {
-						"en": "The Enterprise attempts to deliver a nuclear-powered air filter to a Federation colony, but finds many of the colonists dead. Security chief La’an Noonien-Singh helps evacuate the survivors and recognizes the situation as a Gorn trap; she was the only survivor of a Gorn attack in her childhood. A Gorn ship attacks and does significant damage to the Enterprise. M’Benga and nurse Christine Chapel resort to 21st-century medicine to treat the wounded when their equipment goes offline. The crew lure the Gorn ship into the atmosphere of a brown dwarf near a black hole, where both ships’ sensors and shields are useless. Spock figures out a way to track the Gorn ship and they destroy it, but three more Gorn ships arrive. One is crushed by the pressure of the brown dwarf’s atmosphere. Spock mind melds with Noonien-Singh to learn about the Gorn’s communication system and they use this to trick one ship to fire on the other. Enterprise then warps around the black hole, temporarily disappearing, and ejects the destabilizing air filter which explodes and convinces the remaining Gorn ship that the Enterprise is destroyed.",
-						"de": "Die Enterprise versucht, einen nuklearbetriebenen Luftfilter zu einer Föderationskolonie zu bringen, findet dort aber viele der Kolonisten tot oder im Sterben vor. Die Sicherheitschefin La’an Noonien-Singh hilft bei der Evakuierung der Überlebenden und erkennt, dass es sich um eine Falle der Gorn handelt. Sie war die einzige Überlebende eines Gorn-Angriffs in ihrer Kindheit. Ein Gorn-Schiff greift an und fügt der Enterprise erheblichen Schaden zu. M’Benga und Krankenschwester Christine Chapel greifen auf die Medizin des 21. Jahrhunderts zurück, um die Verwundeten zu behandeln, als ihre Ausrüstung ausfällt. Die Besatzung lockt das Gorn-Schiff in die Atmosphäre eines braunen Zwergs in der Nähe eines schwarzen Lochs, wo die Sensoren und Schilde beider Schiffe nutzlos sind. Spock findet einen Weg, das Gorn-Schiff zu verfolgen, und sie zerstören es, aber drei weitere Gorn-Schiffe treffen ein. Eines wird durch den Druck der Atmosphäre des Braunen Zwergs zerquetscht. Spock führt eine Gedankenverschmelzung mit Noonien-Singh durch, um etwas über das Kommunikationssystem der Gorn zu erfahren, und sie nutzen dies, um ein Schiff dazu zu bringen, auf das andere zu feuern. Die Enterprise umkreist das Schwarze Loch, verschwindet vorübergehend und stößt den destabilisierenden Luftfilter aus, der explodiert und das verbleibende Gorn-Schiff davon überzeugt, dass die Enterprise zerstört ist."
+						"en": "The Enterprise attempts to deliver a nuclear-powered air filter to a Federation colony, but finds many of the colonists dead. Security chief La’An Noonien-Singh helps evacuate the survivors and recognizes the situation as a Gorn trap; she was the only survivor of a Gorn attack in her childhood. A Gorn ship attacks and does significant damage to the Enterprise. M’Benga and nurse Christine Chapel resort to 21st-century medicine to treat the wounded when their equipment goes offline. The crew lure the Gorn ship into the atmosphere of a brown dwarf near a black hole, where both ships’ sensors and shields are useless. Spock figures out a way to track the Gorn ship and they destroy it, but three more Gorn ships arrive. One is crushed by the pressure of the brown dwarf’s atmosphere. Spock mind melds with Noonien-Singh to learn about the Gorn’s communication system and they use this to trick one ship to fire on the other. Enterprise then warps around the black hole, temporarily disappearing, and ejects the destabilizing air filter which explodes and convinces the remaining Gorn ship that the Enterprise is destroyed.",
+						"de": "Die Enterprise versucht, einen nuklearbetriebenen Luftfilter zu einer Föderationskolonie zu bringen, findet dort aber viele der Kolonisten tot oder im Sterben vor. Die Sicherheitschefin La’An Noonien-Singh hilft bei der Evakuierung der Überlebenden und erkennt, dass es sich um eine Falle der Gorn handelt. Sie war die einzige Überlebende eines Gorn-Angriffs in ihrer Kindheit. Ein Gorn-Schiff greift an und fügt der Enterprise erheblichen Schaden zu. M’Benga und Krankenschwester Christine Chapel greifen auf die Medizin des 21. Jahrhunderts zurück, um die Verwundeten zu behandeln, als ihre Ausrüstung ausfällt. Die Besatzung lockt das Gorn-Schiff in die Atmosphäre eines braunen Zwergs in der Nähe eines schwarzen Lochs, wo die Sensoren und Schilde beider Schiffe nutzlos sind. Spock findet einen Weg, das Gorn-Schiff zu verfolgen, und sie zerstören es, aber drei weitere Gorn-Schiffe treffen ein. Eines wird durch den Druck der Atmosphäre des Braunen Zwergs zerquetscht. Spock führt eine Gedankenverschmelzung mit Noonien-Singh durch, um etwas über das Kommunikationssystem der Gorn zu erfahren, und sie nutzen dies, um ein Schiff dazu zu bringen, auf das andere zu feuern. Die Enterprise umkreist das Schwarze Loch, verschwindet vorübergehend und stößt den destabilisierenden Luftfilter aus, der explodiert und das verbleibende Gorn-Schiff davon überzeugt, dass die Enterprise zerstört ist."
 					},
 					"review": [
 						{
@@ -976,8 +988,8 @@
 						"datePublished": "2023-06-15"
 					},
 					"description": {
-						"en": "While undergoing upgrades under the supervision of long-lived engineer Pelia, the starship USS Enterprise receives a distress call from security chief La’an Noonien-Singh on the mining planet Cajitar IV. With first officer Una “Number One” Chin-Riley arrested and Captain Christopher Pike recruiting her defense counsel, Vulcan science officer Spock disobeys Admiral Robert April and steals the Enterprise. Spock and the crew find La’an on Cajitar IV and she explains that a cabal of ex-Starfleet and Klingon soldiers are plotting to restart the recently ended Klingon–Federation war. Dr. Joseph M’Benga and nurse Christine Chapel are captured and taken to a ship that has been cobbled together from Starfleet technology. The cabal plans to use it to fire on a Klingon ship and frame Starfleet. M’Benga and Chapel fight their way off the false flag ship just as Spock orders its destruction, saving the arriving Klingons. Spock bonds with the Klingon captain over drinks, impressing Pelia. April reprimands Spock, but is privately grateful that war with the Klingons was avoided considering the impending threat of the Gorn.",
-						"de": "Während Pike abwesend ist, um eine Anwältin für die inhaftierte Una zu kontaktieren, wird die Enterprise unter der Aufsicht der langlebigen Ingenieurin Pelia aufgerüstet. Während Spock das Kommando über das Schiff hat, geht ein Notruf von Sicherheitschefin La’an Noonien-Singh vom Bergbauplaneten Cajitar IV ein. Admiral Robert April untersagt ein Eingreifen, um den brüchigen Frieden mit den Klingonen nicht zu gefährden, aber Spock widersetzt sich und kapert die Enterprise. Als sie La’an finden, erklärt sie, dass eine Gruppe ehemaliger Sternenflotten- und klingonischer Soldaten plant, den Krieg erneut aufflammen zu lassen. M’Benga und Chapel werden gefangen genommen und auf ein Schiff gebracht, das aus Sternenflottentechnologie zusammengesetzt wurde. Die Gruppe plant, damit unter falscher Flagge ein klingonisches Schiff zu beschießen, um einen Konflikt zu provozieren. Spock ordnet die Zerstörung des vermeintlichen Sternenflottenschiffs an und rettet so die ankommenden Klingonen, während M’Benga und Chapel die Flucht knapp gelingt. Spock freundet sich bei einem Blutwein-Ritual mit dem klingonischen Captain an und beeindruckt damit Pelia. April tadelt Spock, ist aber insgeheim dankbar, dass ein Krieg mit den Klingonen angesichts der Bedrohung durch die Gorn vermieden wurde."
+						"en": "While undergoing upgrades under the supervision of long-lived engineer Pelia, the starship USS Enterprise receives a distress call from security chief La’An Noonien-Singh on the mining planet Cajitar IV. With first officer Una “Number One” Chin-Riley arrested and Captain Christopher Pike recruiting her defense counsel, Vulcan science officer Spock disobeys Admiral Robert April and steals the Enterprise. Spock and the crew find La’An on Cajitar IV and she explains that a cabal of ex-Starfleet and Klingon soldiers are plotting to restart the recently ended Klingon–Federation war. Dr. Joseph M’Benga and nurse Christine Chapel are captured and taken to a ship that has been cobbled together from Starfleet technology. The cabal plans to use it to fire on a Klingon ship and frame Starfleet. M’Benga and Chapel fight their way off the false flag ship just as Spock orders its destruction, saving the arriving Klingons. Spock bonds with the Klingon captain over drinks, impressing Pelia. April reprimands Spock, but is privately grateful that war with the Klingons was avoided considering the impending threat of the Gorn.",
+						"de": "Während Pike abwesend ist, um eine Anwältin für die inhaftierte Una zu kontaktieren, wird die Enterprise unter der Aufsicht der langlebigen Ingenieurin Pelia aufgerüstet. Während Spock das Kommando über das Schiff hat, geht ein Notruf von Sicherheitschefin La’An Noonien-Singh vom Bergbauplaneten Cajitar IV ein. Admiral Robert April untersagt ein Eingreifen, um den brüchigen Frieden mit den Klingonen nicht zu gefährden, aber Spock widersetzt sich und kapert die Enterprise. Als sie La’An finden, erklärt sie, dass eine Gruppe ehemaliger Sternenflotten- und klingonischer Soldaten plant, den Krieg erneut aufflammen zu lassen. M’Benga und Chapel werden gefangen genommen und auf ein Schiff gebracht, das aus Sternenflottentechnologie zusammengesetzt wurde. Die Gruppe plant, damit unter falscher Flagge ein klingonisches Schiff zu beschießen, um einen Konflikt zu provozieren. Spock ordnet die Zerstörung des vermeintlichen Sternenflottenschiffs an und rettet so die ankommenden Klingonen, während M’Benga und Chapel die Flucht knapp gelingt. Spock freundet sich bei einem Blutwein-Ritual mit dem klingonischen Captain an und beeindruckt damit Pelia. April tadelt Spock, ist aber insgeheim dankbar, dass ein Krieg mit den Klingonen angesichts der Bedrohung durch die Gorn vermieden wurde."
 					},
 					"review": [
 						{
@@ -1065,8 +1077,8 @@
 						"datePublished": "2023-06-22"
 					},
 					"description": {
-						"en": "Pike recruits Illyrian civil rights attorney Neera Ketoul as defense counsel for Number One. The prosecution, led by Pike’s girlfriend Captain Marie Batel, easily builds a case that Number One violated Starfleet’s anti–genetic modification laws by hiding her identity as a genetically modified Illyrian; Ketoul argues that the law is unjust and inconsistently applied, and points out that Admiral April has violated the Prime Directive when he believed it was the right thing to do. La’an—a descendant of the genetically modified warlord Khan Noonien Singh—investigates how Starfleet learned of Number One’s status, worried that the information was taken from her own personal logs. Number One testifies about the oppression and marginalization Illyrians faced in her childhood, explains that she joined Starfleet because she believed it celebrated diversity, and reveals that she provided her own genetic status to Starfleet once it was known to the crew. Ketoul argues that Number One can be construed to have been seeking asylum when she joined Starfleet; the judges accept this interpretation and acquit Number One.",
-						"de": "Captain Pike reist zu einem Planeten im Vaultera-Nebel, um dort Counselor Neera Ketoul davon zu überzeugen, die Verteidigung von Una Chin-Riley zu übernehmen. Neera und Una verbindet eine lange Freundschaft, die aber vor Jahren zerbrochen schien. Derweil wird Una im Hauptquartier ein Deal angeboten, den sie aber ablehnt. Captain Batel, die die Anklage vertritt, ist außer sich und steht nun unter genauer Beobachtung ihres Chefs Viceadmiral Pasalc, der nun ebenfalls an der Verhandlung teilnimmt. Als dieser auf Spock trifft, kommt es zu einer heftigen Konfrontation zwischen den beiden Vulkaniern. Während vor Gericht das Verfahren seinen Lauf nimmt, versucht La’an zu ergründen, wer der Verräter ist, der ihre Mentorin an die Sternenflotte verraten hat. Sie bittet Ensing Uhura, Unas persönliche Logbücher zu durchsuchen, um Hinweise auf den Maulwurf zu finden. Mit Hinweis auf geltende Vorschriften lehnt sie dieses aber ab. Die Führungsoffiziere bestätigen in ihren Zeugenaussagen Unas tadellosen Leumund, was letztlich aber nicht die Aussichten auf einen Freispruch verbessert. Neera ruft die Angeklagte selbst in den Zeugenstand, die dann sehr emotional von ihrer Kindheit berichtet. Nun mischt sich der Chef der Anklage in den Prozess ein und beschreibt die Aussage als völlig irrelevant. Er beschuldigt nun auch Captain Pike eines Komplotts, da er schon vier Monate zuvor von der genetischen Aufwertung Unas wusste. Counselor Ketoul lässt nun Captain Batel die Sternenflottenvorschrift 8514 zitieren, die das Asylrecht regelt. Am Ende wird von der Kammer beschlossen, dass diese in Commander Una Chin-Rileys Fall anzuwenden ist und Captain Pike korrekt gehandelt hat. Alle Anklagepunkte werden fallengelassen."
+						"en": "Pike recruits Illyrian civil rights attorney Neera Ketoul as defense counsel for Number One. The prosecution, led by Pike’s girlfriend Captain Marie Batel, easily builds a case that Number One violated Starfleet’s anti–genetic modification laws by hiding her identity as a genetically modified Illyrian; Ketoul argues that the law is unjust and inconsistently applied, and points out that Admiral April has violated the Prime Directive when he believed it was the right thing to do. La’An—a descendant of the genetically modified warlord Khan Noonien Singh—investigates how Starfleet learned of Number One’s status, worried that the information was taken from her own personal logs. Number One testifies about the oppression and marginalization Illyrians faced in her childhood, explains that she joined Starfleet because she believed it celebrated diversity, and reveals that she provided her own genetic status to Starfleet once it was known to the crew. Ketoul argues that Number One can be construed to have been seeking asylum when she joined Starfleet; the judges accept this interpretation and acquit Number One.",
+						"de": "Captain Pike reist zu einem Planeten im Vaultera-Nebel, um dort Counselor Neera Ketoul davon zu überzeugen, die Verteidigung von Una Chin-Riley zu übernehmen. Neera und Una verbindet eine lange Freundschaft, die aber vor Jahren zerbrochen schien. Derweil wird Una im Hauptquartier ein Deal angeboten, den sie aber ablehnt. Captain Batel, die die Anklage vertritt, ist außer sich und steht nun unter genauer Beobachtung ihres Chefs Viceadmiral Pasalc, der nun ebenfalls an der Verhandlung teilnimmt. Als dieser auf Spock trifft, kommt es zu einer heftigen Konfrontation zwischen den beiden Vulkaniern. Während vor Gericht das Verfahren seinen Lauf nimmt, versucht La’An zu ergründen, wer der Verräter ist, der ihre Mentorin an die Sternenflotte verraten hat. Sie bittet Ensing Uhura, Unas persönliche Logbücher zu durchsuchen, um Hinweise auf den Maulwurf zu finden. Mit Hinweis auf geltende Vorschriften lehnt sie dieses aber ab. Die Führungsoffiziere bestätigen in ihren Zeugenaussagen Unas tadellosen Leumund, was letztlich aber nicht die Aussichten auf einen Freispruch verbessert. Neera ruft die Angeklagte selbst in den Zeugenstand, die dann sehr emotional von ihrer Kindheit berichtet. Nun mischt sich der Chef der Anklage in den Prozess ein und beschreibt die Aussage als völlig irrelevant. Er beschuldigt nun auch Captain Pike eines Komplotts, da er schon vier Monate zuvor von der genetischen Aufwertung Unas wusste. Counselor Ketoul lässt nun Captain Batel die Sternenflottenvorschrift 8514 zitieren, die das Asylrecht regelt. Am Ende wird von der Kammer beschlossen, dass diese in Commander Una Chin-Rileys Fall anzuwenden ist und Captain Pike korrekt gehandelt hat. Alle Anklagepunkte werden fallengelassen."
 					},
 					"review": [
 						{
@@ -1148,8 +1160,8 @@
 						"datePublished": "2023-06-29"
 					},
 					"description": {
-						"en": "A mysterious wounded man appears on the Enterprise, gives a time travel device to La’an, and dies. La’an finds herself in an alternate timeline where Earth is ravaged by war and the Enterprise is captained by James T. Kirk. The device transports her and Kirk to 2020s Toronto, where the pair form a romantic bond. They search for the point of divergence that caused the alternate timeline with help from a younger Pelia, and find a eugenics lab where a young Khan Noonien Singh is being raised. A Romulan time traveler named Sera intends to change human history by killing Khan and preventing the Eugenics Wars, which would keep humanity from the path that led to unity and the Federation. Sera kills Kirk and fights La’an, who kills Sera and saves Khan. La’an returns to the Enterprise in her own timeline and is thanked by a time-traveling investigator from the future, a colleague of the mysterious man, who confiscates the time travel device and swears La’an to secrecy. La’an contacts her timeline’s Kirk, but he has no memory of her. She keeps a 20th-century watch that they used to find the eugenics lab.",
-						"de": "Ein verwundeter Zeitagent trifft La’an Noonien-Singh, gibt ihr ein Gerät und warnt sie, ein Anschlag dürfe nicht passieren. Als er stirbt, verändert sich die Zeitlinie. James Kirk ist Captain der Enterprise, es gibt keine Föderation und La’an Noonien-Singh scheint nie geboren zu sein. Mithilfe des Geräts des Zeitreisenden gelangt La’an in das 21. Jahrhundert, wobei sie durch ein Missgeschick auch Kirk mitnimmt. Sie erkennen immer mehr Unterschiede zwischen ihren Zeitlinien, auch wenn James lange zögert, seine Zeitlinie aufzugeben. James und La’an kommen sich näher. Es wird klar, dass eine Romulanerin in die Vergangenheit geschickt wurde, um Khan Noonien-Singh zu töten. Beim Versuch, Khans Leben zu retten, stirbt Kirk. La’an trifft auf ihren Urahn, der noch ein Kind ist und verschont ihn. Zurück in ihrer Zeitlinie wird sie wieder von einer Zeitagentin aufgesucht, die ihr für die erfolgreiche Mission dankt. La’an nimmt privaten Kontakt mit dem James Kirk ihrer Zeitlinie auf."
+						"en": "A mysterious wounded man appears on the Enterprise, gives a time travel device to La’An, and dies. La’An finds herself in an alternate timeline where Earth is ravaged by war and the Enterprise is captained by James T. Kirk. The device transports her and Kirk to 2020s Toronto, where the pair form a romantic bond. They search for the point of divergence that caused the alternate timeline with help from a younger Pelia, and find a eugenics lab where a young Khan Noonien Singh is being raised. A Romulan time traveler named Sera intends to change human history by killing Khan and preventing the Eugenics Wars, which would keep humanity from the path that led to unity and the Federation. Sera kills Kirk and fights La’An, who kills Sera and saves Khan. La’An returns to the Enterprise in her own timeline and is thanked by a time-traveling investigator from the future, a colleague of the mysterious man, who confiscates the time travel device and swears La’An to secrecy. La’An contacts her timeline’s Kirk, but he has no memory of her. She keeps a 20th-century watch that they used to find the eugenics lab.",
+						"de": "Ein verwundeter Zeitagent trifft La’An Noonien-Singh, gibt ihr ein Gerät und warnt sie, ein Anschlag dürfe nicht passieren. Als er stirbt, verändert sich die Zeitlinie. James Kirk ist Captain der Enterprise, es gibt keine Föderation und La’An Noonien-Singh scheint nie geboren zu sein. Mithilfe des Geräts des Zeitreisenden gelangt La’An in das 21. Jahrhundert, wobei sie durch ein Missgeschick auch Kirk mitnimmt. Sie erkennen immer mehr Unterschiede zwischen ihren Zeitlinien, auch wenn James lange zögert, seine Zeitlinie aufzugeben. James und La’An kommen sich näher. Es wird klar, dass eine Romulanerin in die Vergangenheit geschickt wurde, um Khan Noonien-Singh zu töten. Beim Versuch, Khans Leben zu retten, stirbt Kirk. La’An trifft auf ihren Urahn, der noch ein Kind ist und verschont ihn. Zurück in ihrer Zeitlinie wird sie wieder von einer Zeitagentin aufgesucht, die ihr für die erfolgreiche Mission dankt. La’An nimmt privaten Kontakt mit dem James Kirk ihrer Zeitlinie auf."
 					},
 					"review": [
 						{
@@ -1238,8 +1250,8 @@
 						"datePublished": "2023-07-06"
 					},
 					"description": {
-						"en": "Pike upsets Batel by suggesting that their relationship has harmed her career. The Enterprise is sent to the planet Rigel VII, the site of an earlier unsuccessful mission. Asteroids surrounding the planet emit radiation that makes people forget who they are. Pike, La’an, and M’Benga discover that Zac Nguyen, a yeoman presumed dead on the previous mission, has become a despotic ruler; he enforces a caste system where laborers lose their memories every night but he and his guards do not. The away team lose their memories and become laborers. Hearing a legend that their memories are stored in Nguyen’s castle, Pike fights his way inside, defeats Nguyen, and learns that the castle itself blocks the radiation. The crew on the Enterprise also lose their memories, but pilot Erica Ortegas learns what her job is from the ship’s computer and instinctively navigates away from the asteroids. The away team recover their memories and return to the Enterprise. They pull the main asteroid out of orbit, ridding Rigel VII of the radiation and restoring the laborers’ memories. Pike apologizes to Batel and they resume their relationship.",
-						"de": "Pike verärgert Batel, indem er andeutet, dass ihre Beziehung Batels Karriere geschadet hat. Die Enterprise wird zum Planeten Rigel VII geschickt, der von einem Asteroidenfeld umgeben ist, das eine Strahlung aussendet, wodurch man vergisst, wer man ist. Auf einer Außenmission entdecken Pike, La’an und M’Benga, dass Zac Nguyen – ein Besatzungsmitglied einer früheren, fehlgeschlagenen Mission, das für tot gehalten wurde – zum Alleinherrscher auf dem Planeten geworden ist. Er unterhält ein Zweiklassensystem, bei dem die Arbeiter jede Nacht ihre Erinnerungen verlieren, aber er selbst und seine Wachen nicht. Die Mitglieder des Außenteams vergessen ebenfalls ihre Identität und werden zu Arbeitern. Als Pike von einer Legende hört, der zufolge ihre Erinnerungen in der Burg des Herrschers aufbewahrt werden, erkämpft er sich einen Weg hinein, besiegt Nguyen und stellt fest, dass die Burg die Strahlung abschirmt, so dass sein Gedächtnis allmählich zurückkehrt. Währenddessen hat auch die Besatzung der Enterprise ihre Erinnerungen verloren, aber Erica Ortegas kann sich mit Hilfe des Schiffscomputers darauf besinnen, dass sie die Pilotin ist, und es gelingt ihr, das Schiff aus dem Asteroidenfeld herauszusteuern. Nun kehren auch die Erinnerungen der Besatzung zurück. Pike lässt den größten der Asteroiden aus der Umlaufbahn schleudern, so dass auch die Bewohner des Planeten nicht mehr von der Strahlung beeinträchtigt werden. Er entschuldigt sich bei Batel, und sie setzen ihre Beziehung fort."
+						"en": "Pike upsets Batel by suggesting that their relationship has harmed her career. The Enterprise is sent to the planet Rigel VII, the site of an earlier unsuccessful mission. Asteroids surrounding the planet emit radiation that makes people forget who they are. Pike, La’An, and M’Benga discover that Zac Nguyen, a yeoman presumed dead on the previous mission, has become a despotic ruler; he enforces a caste system where laborers lose their memories every night but he and his guards do not. The away team lose their memories and become laborers. Hearing a legend that their memories are stored in Nguyen’s castle, Pike fights his way inside, defeats Nguyen, and learns that the castle itself blocks the radiation. The crew on the Enterprise also lose their memories, but pilot Erica Ortegas learns what her job is from the ship’s computer and instinctively navigates away from the asteroids. The away team recover their memories and return to the Enterprise. They pull the main asteroid out of orbit, ridding Rigel VII of the radiation and restoring the laborers’ memories. Pike apologizes to Batel and they resume their relationship.",
+						"de": "Pike verärgert Batel, indem er andeutet, dass ihre Beziehung Batels Karriere geschadet hat. Die Enterprise wird zum Planeten Rigel VII geschickt, der von einem Asteroidenfeld umgeben ist, das eine Strahlung aussendet, wodurch man vergisst, wer man ist. Auf einer Außenmission entdecken Pike, La’An und M’Benga, dass Zac Nguyen – ein Besatzungsmitglied einer früheren, fehlgeschlagenen Mission, das für tot gehalten wurde – zum Alleinherrscher auf dem Planeten geworden ist. Er unterhält ein Zweiklassensystem, bei dem die Arbeiter jede Nacht ihre Erinnerungen verlieren, aber er selbst und seine Wachen nicht. Die Mitglieder des Außenteams vergessen ebenfalls ihre Identität und werden zu Arbeitern. Als Pike von einer Legende hört, der zufolge ihre Erinnerungen in der Burg des Herrschers aufbewahrt werden, erkämpft er sich einen Weg hinein, besiegt Nguyen und stellt fest, dass die Burg die Strahlung abschirmt, so dass sein Gedächtnis allmählich zurückkehrt. Währenddessen hat auch die Besatzung der Enterprise ihre Erinnerungen verloren, aber Erica Ortegas kann sich mit Hilfe des Schiffscomputers darauf besinnen, dass sie die Pilotin ist, und es gelingt ihr, das Schiff aus dem Asteroidenfeld herauszusteuern. Nun kehren auch die Erinnerungen der Besatzung zurück. Pike lässt den größten der Asteroiden aus der Umlaufbahn schleudern, so dass auch die Bewohner des Planeten nicht mehr von der Strahlung beeinträchtigt werden. Er entschuldigt sich bei Batel, und sie setzen ihre Beziehung fort."
 					},
 					"review": [
 						{
@@ -1701,8 +1713,8 @@
 						"url": "https://en.wikipedia.org/wiki/Subspace_Rhapsody"
 					},
 					"description": {
-						"en": "James Kirk, recently promoted to executive officer of the Farragut, visits the Enterprise to shadow Number One. While conducting communications experiments, Uhura broadcasts a recording of “Anything Goes” into a mysterious “subspace fold”. It produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. Pike has an argument with Batel, in song, in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes it over her relationship with Spock. La’an confesses her feelings for Kirk before the musical can force her to, but he is already in a relationship with Carol Marcus. An affected Klingon ship intends to blow up the fold, but experiments reveal that this will destroy all starships in the vicinity. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field before the Klingons arrive; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates.",
-						"de": "James Kirk, der auf der Farragut kürzlich befördert wurde, besucht die Enterprise zum Erfahrungsaustausch. Während Kommunikationsexperimenten sendet Uhura den Song Anything Goes aus dem gleichnamigen Musical in eine mysteriöse Subraum-Falte. Dadurch entsteht ein „Unwahrscheinlichkeitsfeld“, das die Besatzungsmitglieder der Enterprise dazu bringt, über ihre Gefühle zu singen wie Figuren in einem Musical. Pike hat vor der Brückencrew einen privaten Streit in Gesangsform mit Batel. Chapel gelingt es, ein prestigeträchtiges Forschungsstipendium zu erhalten, und enthüllt gesanglich, dass ihr dies wichtiger ist als ihre Beziehung mit Spock, was wiederum Spock dazu bringt, ein schmerzvolles Solo zum Besten zu geben. La’an gesteht Kirk freiwillig ihre Gefühle für ihn, bevor das Musical sie dazu zwingen würde, aber er erklärt ihr, dass er bereits in einer Beziehung mit Carol Marcus ist, die ein Kind erwartet. Ein ebenfalls betroffenes Klingonenschiff macht sich auf, um die Subraum-Falte in die Luft zu jagen, aber Simulationen zeigen, dass dadurch sämtliche Raumschiffe in der Umgebung zerstört würden. Uhura findet heraus, dass jeder Song ein bestimmtes Energieniveau trägt, und dass ein großes Finale soviel Energie aufbauen würde, dass sich das Unwahrscheinlichkeitsfeld auflöst, bevor die Klingonen eintreffen. Sie ermutigt daher die ganze Besatzung der Enterprise, in ein großes Finale einzustimmen, indem sie daran erinnert, wie großartig es ist, gemeinsam zu arbeiten und mit der Enterprise den Weltraum zu erforschen. Das Vorhaben gelingt."
+						"en": "James Kirk, recently promoted to executive officer of the Farragut, visits the Enterprise to shadow Number One. While conducting communications experiments, Uhura broadcasts a recording of “Anything Goes” into a mysterious “subspace fold”. It produces an “improbability field” that causes the Enterprise crew to begin singing about their feelings like characters in a musical film. Pike has an argument with Batel, in song, in front of the crew. Chapel wins a prestigious research fellowship and reveals in song that she prioritizes it over her relationship with Spock. La’An confesses her feelings for Kirk before the musical can force her to, but he is already in a relationship with Carol Marcus. An affected Klingon ship intends to blow up the fold, but experiments reveal that this will destroy all starships in the vicinity. Uhura determines that singing an upbeat grand finale will provide enough energy to close the improbability field before the Klingons arrive; she encourages the Enterprise crew to sing about the fulfillment they find in working together and exploring space, and when the song concludes the improbability field dissipates.",
+						"de": "James Kirk, der auf der Farragut kürzlich befördert wurde, besucht die Enterprise zum Erfahrungsaustausch. Während Kommunikationsexperimenten sendet Uhura den Song Anything Goes aus dem gleichnamigen Musical in eine mysteriöse Subraum-Falte. Dadurch entsteht ein „Unwahrscheinlichkeitsfeld“, das die Besatzungsmitglieder der Enterprise dazu bringt, über ihre Gefühle zu singen wie Figuren in einem Musical. Pike hat vor der Brückencrew einen privaten Streit in Gesangsform mit Batel. Chapel gelingt es, ein prestigeträchtiges Forschungsstipendium zu erhalten, und enthüllt gesanglich, dass ihr dies wichtiger ist als ihre Beziehung mit Spock, was wiederum Spock dazu bringt, ein schmerzvolles Solo zum Besten zu geben. La’An gesteht Kirk freiwillig ihre Gefühle für ihn, bevor das Musical sie dazu zwingen würde, aber er erklärt ihr, dass er bereits in einer Beziehung mit Carol Marcus ist, die ein Kind erwartet. Ein ebenfalls betroffenes Klingonenschiff macht sich auf, um die Subraum-Falte in die Luft zu jagen, aber Simulationen zeigen, dass dadurch sämtliche Raumschiffe in der Umgebung zerstört würden. Uhura findet heraus, dass jeder Song ein bestimmtes Energieniveau trägt, und dass ein großes Finale soviel Energie aufbauen würde, dass sich das Unwahrscheinlichkeitsfeld auflöst, bevor die Klingonen eintreffen. Sie ermutigt daher die ganze Besatzung der Enterprise, in ein großes Finale einzustimmen, indem sie daran erinnert, wie großartig es ist, gemeinsam zu arbeiten und mit der Enterprise den Weltraum zu erforschen. Das Vorhaben gelingt."
 					},
 					"review": [
 						{
@@ -1784,8 +1796,8 @@
 						"datePublished": "2023-08-10"
 					},
 					"description": {
-						"en": "Batel’s ship, the USS Cayuga, is ambushed by the Gorn while resupplying the human colony Parnassus Beta. Chapel is aboard the Cayuga, en route to her fellowship, and survives the attack. The Enterprise arrives to find the wreckage of the Cayuga and a Gorn device jamming communications and transporters. April orders them not to cross into Gorn-claimed space, but Pike secretly leads Ortegas, La’an, M’Benga, and Sam Kirk to the surface. They find Batel and other survivors, including Starfleet engineer Montgomery Scott who has built a cloaking device to hide from the Gorn. Pike learns that Batel has been infected with Gorn eggs. Following a strategy suggested by Uhura and Pelia, Spock installs rockets on the Cayuga’s wreckage so they can crash it into the jammer. He kills an attacking Gorn with help from Chapel. The jammer is destroyed, allowing the Enterprise to transport up Pike, Scott, and Batel who is taken straight to medical. The Gorn capture La’an, M’Benga, Ortegas, Sam, and the other survivors. Pike is forced to decide whether to follow orders and retreat or stay to rescue his captured crew.",
-						"de": "Batels Schiff, die USS Cayuga, gerät bei der Versorgung der menschlichen Kolonie Parnassus Beta in einen Hinterhalt der Gorn. Chapel ist an Bord der Cayuga und überlebt den Angriff. Als die Enterprise eintrifft, findet sie das Wrack der Cayuga und ein Gerät der Gorn, das die Kommunikation und die Transporter stört. April befiehlt ihnen, nicht in den von den Gorn beanspruchten Raum einzudringen, aber Pike führt Ortegas, La’an, M’Benga und Sam Kirk heimlich auf die Oberfläche. Sie finden Batel und andere Überlebende, darunter den Sternenflotteningenieur Montgomery Scott, der eine Tarnvorrichtung gebaut hat, um sich vor den Gorn zu verstecken. Pike erfährt, dass Batel mit Gorn-Eiern infiziert worden ist. Nach einer von Uhura und Pelia vorgeschlagenen Strategie bringt Spock Raketen am Wrack der Cayuga an, um es in den Störsender zu rammen. Er tötet einen angreifenden Gorn mit Hilfe von Chapel. Der Störsender wird zerstört, so dass die Enterprise Pike, Scott und Batel hochbeamen kann, die direkt zur Krankenstation gebracht wird. Die Gorn nehmen La’an, M’Benga, Ortegas, Sam und die anderen Überlebenden gefangen. Pike muss sich entscheiden, ob er den Befehlen folgen und sich zurückziehen oder bleiben soll, um seine gefangene Mannschaft zu retten."
+						"en": "Batel’s ship, the USS Cayuga, is ambushed by the Gorn while resupplying the human colony Parnassus Beta. Chapel is aboard the Cayuga, en route to her fellowship, and survives the attack. The Enterprise arrives to find the wreckage of the Cayuga and a Gorn device jamming communications and transporters. April orders them not to cross into Gorn-claimed space, but Pike secretly leads Ortegas, La’An, M’Benga, and Sam Kirk to the surface. They find Batel and other survivors, including Starfleet engineer Montgomery Scott who has built a cloaking device to hide from the Gorn. Pike learns that Batel has been infected with Gorn eggs. Following a strategy suggested by Uhura and Pelia, Spock installs rockets on the Cayuga’s wreckage so they can crash it into the jammer. He kills an attacking Gorn with help from Chapel. The jammer is destroyed, allowing the Enterprise to transport up Pike, Scott, and Batel who is taken straight to medical. The Gorn capture La’An, M’Benga, Ortegas, Sam, and the other survivors. Pike is forced to decide whether to follow orders and retreat or stay to rescue his captured crew.",
+						"de": "Batels Schiff, die USS Cayuga, gerät bei der Versorgung der menschlichen Kolonie Parnassus Beta in einen Hinterhalt der Gorn. Chapel ist an Bord der Cayuga und überlebt den Angriff. Als die Enterprise eintrifft, findet sie das Wrack der Cayuga und ein Gerät der Gorn, das die Kommunikation und die Transporter stört. April befiehlt ihnen, nicht in den von den Gorn beanspruchten Raum einzudringen, aber Pike führt Ortegas, La’An, M’Benga und Sam Kirk heimlich auf die Oberfläche. Sie finden Batel und andere Überlebende, darunter den Sternenflotteningenieur Montgomery Scott, der eine Tarnvorrichtung gebaut hat, um sich vor den Gorn zu verstecken. Pike erfährt, dass Batel mit Gorn-Eiern infiziert worden ist. Nach einer von Uhura und Pelia vorgeschlagenen Strategie bringt Spock Raketen am Wrack der Cayuga an, um es in den Störsender zu rammen. Er tötet einen angreifenden Gorn mit Hilfe von Chapel. Der Störsender wird zerstört, so dass die Enterprise Pike, Scott und Batel hochbeamen kann, die direkt zur Krankenstation gebracht wird. Die Gorn nehmen La’An, M’Benga, Ortegas, Sam und die anderen Überlebenden gefangen. Pike muss sich entscheiden, ob er den Befehlen folgen und sich zurückziehen oder bleiben soll, um seine gefangene Mannschaft zu retten."
 					},
 					"review": [
 						{
@@ -1850,17 +1862,491 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/snw#3",
 			"seasonNumber": 3,
-			"numberOfEpisodes": 10,
-			"subjectOf": {
-				"@type": "Webpage",
-				"inLanguage": "en",
-				"publisher": {
-					"@type": "Organization",
-					"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-					"name": "Wikipedia"
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3"
 				},
-				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3"
-			}
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_3"
+				}
+			],
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.1",
+					"episodeNumber": "3.1",
+					"name": "Hegemony, Part II",
+					"datePublished": "2025-07-17",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+						"name": "Davy Perez"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Hegemonie, Teil II",
+						"datePublished": "2025-07-17"
+					},
+					"description": {
+						"en": "Captain Christopher Pike and the crew of the USS Enterprise plant a tracker on the Gorn ship that has captured security chief La’An Noonien-Singh, Dr. Joseph M’Benga, pilot Erica Ortegas, xenoanthropologist Sam Kirk, and many human colonists. Despite orders from Starfleet to stay in Federation space, Admiral Robert April allows the Enterprise to follow the tracker. Using engineer Montgomery Scott’s Gorn transponder device to go undetected, they find an uncharted binary star system which hides the Gorn homeworld and a large invasion force. Due to the Gorn’s sensitivity to stellar activity, they trigger a long hibernation cycle by creating an artificial coronal mass ejection. La’An, M’Benga, Ortegas, and Sam escape with transporter codes for the colonists, enabling the Enterprise to rescue them. Ortegas is severely wounded during the escape, and the Enterprise suffers extensive damage. Meanwhile, Vulcan science officer Spock and nurse Christine Chapel neutralize the Gorn eggs inside Pike’s girlfriend, Captain Marie Batel, with the help of first officer Una Chin-Riley / Number One’s augmented Illyrian blood.",
+						"de": "Captain Christopher Pike und die Besatzung der USS Enterprise platzieren einen Peilsender auf dem Gorn-Schiff, das den Sicherheitschef La’An Noonien-Singh, Dr. Joseph M’Benga, die Pilotin Erica Ortegas, den Xenoanthropologen Sam Kirk und viele menschliche Kolonisten gefangen genommen hat. Trotz des Befehls der Sternenflotte, im Raum der Föderation zu bleiben, erlaubt Admiral Robert April der Enterprise, dem Peilsender zu folgen. Mit Hilfe des Gorn-Transponders von Ingenieur Montgomery Scott finden sie ein unbekanntes Doppelsternsystem, in dem sich die Heimatwelt der Gorn und eine große Invasionsstreitmacht verbergen. Da die Gorn empfindlich auf stellare Aktivitäten reagieren, lösen sie einen langen Winterschlaf aus, indem sie einen künstlichen koronalen Massenauswurf erzeugen. La’An, M’Benga, Ortegas und Sam entkommen mit Transportercodes für die Kolonisten, so dass die Enterprise sie retten kann. Ortegas wird bei der Flucht schwer verwundet, und die Enterprise erleidet schwere Schäden. In der Zwischenzeit neutralisieren der vulkanische Wissenschaftsoffizier Spock und die Krankenschwester Christine Chapel die Gorn-Eier in Pikes Freundin, Captain Marie Batel, mit Hilfe des Ersten Offiziers Una Chin-Riley / Number One’s augmentiertem illyrischem Blut."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/jSUXpseAehg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VtD4HeQxJM4"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.2",
+					"episodeNumber": "3.2",
+					"name": "Wedding Bell Blues",
+					"datePublished": "2025-07-17",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+							"name": "Kirsten Beyer"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Hochzeitsglocken-Blues",
+						"datePublished": "2025-07-17"
+					},
+					"description": {
+						"en": "Three months after the Gorn conflict, the Enterprise has been repaired at Starbase One and the crew prepare to celebrate the Federation’s 100th anniversary. Following her research fellowship with archaeologist Dr. Roger Korby, Chapel rejoins the crew and brings Korby as her new romantic partner, disappointing Spock who had hoped to rekindle his relationship with her. Spock is given a drink by an unfamiliar Vulcan bartender, and the next day he wakes up in a different reality where the crew are preparing to celebrate his and Chapel’s wedding. The same unfamiliar being now appears as an Andorian wedding planner. Korby is aware of the change and confronts Spock, who regains his memories after punching Korby. At the wedding ceremony, Chapel regains her memories after Spock recites a poem that Korby once read to her. They confront the wedding planner, who is revealed to be a child-like extra-dimensional being and is reprimanded by his father. The beings leave and reality returns to normal. The crew celebrate except for Ortegas, who is emotionally scarred from her experience with the Gorn.",
+						"de": "Drei Monate nach dem Gorn-Konflikt ist die Enterprise auf Sternenbasis Eins repariert worden und die Besatzung bereitet sich auf die Feierlichkeiten zum 100-jährigen Bestehen der Föderation vor. Nach ihrem Forschungsstipendium mit dem Archäologen Dr. Roger Korby kehrt Chapel zur Enterprise zurück und bringt Korby als ihren neuen Liebespartner mit. Spock ist davon enttäuscht, da er gehofft hatte, seine Beziehung zu ihr wieder aufleben zu lassen. Spock erhält von einem unbekannten vulkanischen Barkeeper einen Drink, und am nächsten Tag wacht er in einer anderen Realität auf, in der die Besatzung seine und Chapels Hochzeit feiern wollen. Das gleiche unbekannte Wesen erscheint nun als andorianischer Hochzeitsplaner. Korby ist sich der Veränderung bewusst und konfrontiert Spock, der seine Erinnerungen zurückerlangt, nachdem er Korby geschlagen hat. Bei der Hochzeitszeremonie erlangt Chapel ihre Erinnerungen zurück, nachdem Spock ein Gedicht rezitiert hat, das Korby ihr einst vorgelesen hat. Sie konfrontieren den Hochzeitsplaner, der sich als kindliches außerdimensionales Wesen entpuppt und von seinem Vater zurechtgewiesen wird. Die Wesen verschwinden und die Realität kehrt zur Normalität zurück. Die Besatzung feiert, bis auf Ortegas, die durch ihre Erfahrung mit den Gorn emotional gezeichnet ist."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oLdQZ1MbIKI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kkcysjN99eY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-07-17",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KjN0_CpTryM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2025-07-21",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/kP-mJeVKSO0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Ersteindruck",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2025-07-19",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yrSNZsLomaI"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.3",
+					"episodeNumber": "3.3",
+					"name": "Shuttle to Kenfori",
+					"datePublished": "2025-07-24",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"name": "Dan Liu"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Shuttle nach Kenfori",
+						"datePublished": "2025-07-24"
+					},
+					"description": {
+						"en": "The Gorn DNA in Batel’s body reactivates and her only chance of survival is a rare Chimera flower on the planet Kenfori, which is contested by the Federation and Klingons. Pike and M’Benga take a shuttle to the planet while the Enterprise hides nearby. They find the flower, which has transformed a group of scientists into zombies. When a Klingon ship arrives, Number One decides to approach the planet slowly to avoid detection. Ortegas disobeys orders, alerting the Klingons to their presence and forcing a riskier approach. Pike and M’Benga are tracked by Bytha, the daughter of Klingon ambassador Dak’Rah, who seeks to kill M’Benga to restore her family’s honor. M’Benga confesses to murdering Dak’Rah and defeats Bytha in a duel, but spares her life. She sacrifices herself to allow M’Benga and Pike to escape from the zombies. Later, Number One reprimands Ortegas for her insubordination and relieves her of duty for two weeks. Pike is horrified to learn that Batel and M’Benga plan to use the flower to turn Batel into a human-Gorn hybrid, which he reluctantly accepts is her decision."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/m5jSC4QyTtk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-07-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6tRqDAHH-2I"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-07-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uPfdh5UryHo"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2025-07-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/CfOjtd0la9Y"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.4",
+					"episodeNumber": "3.4",
+					"name": "A Space Adventure Hour",
+					"datePublished": "2025-07-31",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
+						"name": "Jonathan Frakes"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.5",
+					"episodeNumber": "3.5",
+					"name": "Through the Lens of Time",
+					"datePublished": "2025-08-07",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+							"name": "Onitra Johnson"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "First Impressions",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"datePublished": "2025-06-15",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.3" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#3.4" },
+							{ "@id": "https://bittersmann.de/startrek/series/tng#3.5" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Y29UiyMsYaE"
+						}
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.6",
+					"episodeNumber": "3.6",
+					"name": "The Sehlat Who Ate Its Tail",
+					"datePublished": "2025-08-14",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavidReed",
+							"name": "David Reed"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.7",
+					"episodeNumber": "3.7",
+					"name": "What Is Starfleet?",
+					"datePublished": "2025-08-21",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
+						"name": "Sharon Lewis"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+							"name": "Kathryn Lyn"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.8",
+					"episodeNumber": "3.8",
+					"name": "Four-and-a-Half Vulcans",
+					"datePublished": "2025-08-28",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.9",
+					"episodeNumber": "3.9",
+					"name": "Terrarium",
+					"datePublished": "2025-09-04",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
+						"name": "Andrew Coutts"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#3.10",
+					"episodeNumber": "3.10",
+					"name": "New Life and New Civilizations",
+					"datePublished": "2025-09-11",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
+						"name": "Maja Vrvilo"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
+							"name": "Davy Perez"
+						}
+					]
+				}
+			]
 		}
 	]
 }

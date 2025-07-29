@@ -14,6 +14,18 @@
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
 	"creator": [
 		{
 			"@type": "Person",
@@ -1492,6 +1504,21 @@
 					"abstract": {
 						"en": "A plasma storm leads to the evacuation of most of the station, but a Trill refugee has his own plans.",
 						"de": "Da die Station durch einen Plasmasturm bedroht wird, wurde sie evakuiert und nur die Führungsoffiziere bleiben auf ihren Posten. Die Gelegenheit wird von dem Trill Verad genutzt um Jadzia zu zwingen ihm den Symbionten Dax zu überlassen. Jadzia kann allerdings ohne den Symbionten nicht überleben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/zwoZoneHv3I"
+						}
 					}
 				},
 				{
@@ -3883,6 +3910,21 @@
 					"abstract": {
 						"en": "Approaching his 30th birthday, Julian Bashir is subjected to a telepathic attack by an alien seeking a restricted substance. He wakes up to find the station almost deserted and that he is aging rapidly.",
 						"de": "Bashir wird von einem Letheaner angegriffen und findet sich auf einer merkwürdig veränderten Station wieder. Er muss versuchen, den Letheaner zu überwältigen, von dem er immer wieder angegriffen wird. Da er aber schnell zu altern beginnt, bleibt ihm nicht viel Zeit und seine Kräfte schwinden. In Wirklichkeit ist Bashir nach dem Angriff aber ins Koma gefallen und ringt mit dem Tod."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | All ages",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-06-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Ee48hHWhm6Y"
+						}
 					}
 				},
 				{
@@ -7290,6 +7332,21 @@
 					"abstract": {
 						"en": "Dax, O’Brien and Bashir board a runabout, which is shrunken to four inches long as they investigate a rare subspace compression phenomenon.",
 						"de": "Als die Defiant durch Jem’Hadar-Soldaten erobert wird, muss die zuvor in einem Experiment stark geschrumpfte Besatzung mit ihrem Shuttle dabei helfen, die Angreifer zu bekämpfen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/dlYVp01KFJA"
+						}
 					}
 				},
 				{
@@ -7457,6 +7514,21 @@
 					"abstract": {
 						"en": "Dr Bashir is busy wrapping up unfinished tasks prior to departing DS9 to attend a medical conference. Just prior to his departure, an Internal Affairs unit under the command of an individual named Sloan, arrive and announce they will be interviewing all the senior staff. Things take a worrying turn for the good doctor when he realises that he is the subject of the investigation and Sloan accuses him of spying for the Dominion.",
 						"de": "Nachdem Bashir verdächtigt wird, ein Spion des Dominion zu sein, erkennt er, dass er durch den Sternenflottengeheimdienst Sektion 31 nur getäuscht wurde, um seine Eignung als Agent der Sektion zu testen und ihn für diese anzuwerben."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Starfleet Gone Bad",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-05-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/uNuB2116Zjw"
+						}
 					}
 				},
 				{
@@ -8870,58 +8942,15 @@
 				},
 				{
 					"@type": "TVEpisode",
-					"@id": "https://bittersmann.de/startrek/series/ds9#7.25",
-					"episodeNumber": "7.25",
-					"name": "What You Leave Behind (1)",
+					"@id": "https://bittersmann.de/startrek/series/ds9#7.25-7.26",
+					"episodeNumber": "7.25, 7.26",
+					"name": "What You Leave Behind",
 					"datePublished": "1999-06-02",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
-						"name": "Das, was du zurücklässt, Teil I",
-						"datePublished": "2000-03-18"
-					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
-						},
-						"url": "https://en.wikipedia.org/wiki/What_You_Leave_Behind"
-					},
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#AllanKroeker",
-						"name": "Allan Kroeker"
-					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#IraStevenBehr",
-							"name": "Ira Steven Behr"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HansBeimler",
-							"name": "Hans Beimler"
-						}
-					],
-					"abstract": {
-						"en": "Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the Cardassian homeworld, aided by Damar’s grassroots resistance campaign – and a surprise, last-minute ally. Dukat and Winn journey to the fire caves to release the Pah’Wraiths."
-					}
-				},
-				{
-					"@type": "TVEpisode",
-					"@id": "https://bittersmann.de/startrek/series/ds9#7.26",
-					"episodeNumber": "7.26",
-					"name": "What You Leave Behind (2)",
-					"datePublished": "1999-06-02",
-					"workTranslation": {
-						"@type": "TVEpisode",
-						"inLanguage": "de",
-						"name": "Das, was du zurücklässt, Teil II",
-						"datePublished": "2000-03-18"
+						"name": "Das, was du zurücklässt",
+						"datePublished": "2000-03-18/2000-03-25"
 					},
 					"subjectOf": {
 						"@type": "Webpage",
