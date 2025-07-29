@@ -280,18 +280,21 @@ ul:has(details) {
     order: 1;
     width: 100%;
     margin-bottom: 1em;
-    
-    iframe {
-      margin-bottom: 0;
-    }
-    
-    p {
-      /* TODO: refactor */
-      margin: 0 !important; 
-      text-align: left !important;
-    }
   }
 }
+
+/* TODO: refactor */
+details[property="video"] {
+    iframe {
+    margin-bottom: 0;
+  }
+
+  p {
+    margin: 0 !important; 
+    text-align: left !important;
+  }
+}
+
 
 @media (width > 40em) {
 	[property="abstract"], [property="description"] {
