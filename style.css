@@ -267,32 +267,32 @@ dt, dd, dd ul {
 ul:has(details) {
 	display: flex;
 	flex-wrap: wrap;
-  
-  li, details {
-    display: contents;
-  }
-  
-  li:not(:first-of-type) summary {
-    margin-left: 1.5em;
-  }
-  
-  details > div {
-    order: 1;
-    width: 100%;
-    margin-bottom: 1em;
-  }
+	
+	li, details {
+		display: contents;
+	}
+	
+	li:not(:first-of-type) summary {
+		margin-left: 1.5em;
+	}
+	
+	details > div {
+		order: 1;
+		width: 100%;
+		margin-bottom: 1em;
+	}
 }
 
 /* TODO: refactor */
 details[property="video"] {
-    iframe {
-    margin-bottom: 0;
-  }
+		iframe {
+		margin-bottom: 0;
+	}
 
-  p {
-    margin: 0 !important; 
-    text-align: left !important;
-  }
+	p {
+		margin: 0 !important; 
+		text-align: left !important;
+	}
 }
 
 
