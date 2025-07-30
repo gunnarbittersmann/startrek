@@ -319,15 +319,6 @@
 													<?php endif; ?>
 												</summary>
 												<div>
-													<?php if ($movie['review']['datePublished']): ?>
-														<meta
-															property="datePublished"
-															content="<?= htmlSpecialChars($movie['review']['datePublished']) ?>"
-															<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																class="new"
-															<?php endif; ?>
-														/>
-													<?php endif; ?>
 													<meta
 														property="embedUrl"
 														content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
@@ -338,7 +329,17 @@
 														aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
 													</iframe>
 													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
-														<p><?= htmlSpecialChars($movie['review']['name']) ?> <?= htmlSpecialChars($movie['review']['datePublished']) ?></p>
+														<p>
+															<?= htmlSpecialChars($movie['review']['name']) ?>
+															<time
+																property="datePublished"
+																<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															>
+																<?= htmlSpecialChars($movie['review']['datePublished']) ?>
+															</time>
+														</p>
 													<?php endif; ?>
 												</div>
 											</details>
@@ -371,15 +372,6 @@
 																<?php endif; ?>
 															</summary>
 															<div>
-																<?php if ($review['datePublished']): ?>
-																	<meta
-																		property="datePublished"
-																		content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																		<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																			class="new"
-																		<?php endif; ?>
-																	/>
-																<?php endif; ?>
 																<meta
 																	property="embedUrl"
 																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -390,7 +382,17 @@
 																	aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
 																</iframe>
 																<?php if ($review['name'] || $review['datePublished']): ?>
-																	<p><?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?></p>
+																	<p>
+																		<?= htmlSpecialChars($review['name']) ?>
+																		<time
+																			property="datePublished"
+																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																				class="new"
+																			<?php endif; ?>
+																		>
+																			<?= htmlSpecialChars($review['datePublished']) ?>
+																		</time>
+																	</p>
 																<?php endif; ?>
 															</div>
 														</details>
