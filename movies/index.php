@@ -337,6 +337,9 @@
 														aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
 														aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
 													</iframe>
+													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
+														<p><?= htmlSpecialChars($movie['review']['name']) ?> <?= htmlSpecialChars($movie['review']['datePublished']) ?></p>
+													<?php endif; ?>
 												</div>
 											</details>
 										</td>
@@ -386,6 +389,9 @@
 																	aria-label="<?= htmlSpecialChars($review['name']) ?>"
 																	aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
 																</iframe>
+																<?php if ($review['name'] || $review['datePublished']): ?>
+																	<p><?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?></p>
+																<?php endif; ?>
 															</div>
 														</details>
 													</li>
