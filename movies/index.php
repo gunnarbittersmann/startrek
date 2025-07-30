@@ -330,7 +330,7 @@
 													</iframe>
 													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
 														<p>
-															<?= htmlSpecialChars($movie['review']['name']) ?>
+															<span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
 															<time
 																property="datePublished"
 																<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
@@ -383,7 +383,7 @@
 																</iframe>
 																<?php if ($review['name'] || $review['datePublished']): ?>
 																	<p>
-																		<?= htmlSpecialChars($review['name']) ?>
+																		<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
 																		<time
 																			property="datePublished"
 																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
