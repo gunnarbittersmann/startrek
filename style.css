@@ -267,19 +267,19 @@ dt, dd, dd ul {
 ul:has(details) {
 	display: flex;
 	flex-wrap: wrap;
-  
-  li, details {
-    display: contents;
-  }
-  
-  li:not(:first-of-type) summary {
-    margin-left: 1.5em;
-  }
-  
-  iframe {
-    order: 1;
-    width: 100%;
-  }
+	
+	li, details {
+		display: contents;
+	}
+	
+	li:not(:first-of-type) summary {
+		margin-left: 1.5em;
+	}
+	
+	iframe {
+		order: 1;
+		width: 100%;
+	}
 }
 
 @media (width > 40em) {
