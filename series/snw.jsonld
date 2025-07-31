@@ -2195,7 +2195,13 @@
 							"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
 							"name": "Kathryn Lyn"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Weltraumabenteuerstunde",
+						"datePublished": "2025-07-31"
+					}
 				},
 				{
 					"@type": "TVEpisode",
