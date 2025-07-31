@@ -454,15 +454,6 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<div>
-															<?php if ($episode['review']['datePublished']): ?>
-																<meta
-																	property="datePublished"
-																	content="<?= htmlSpecialChars($episode['review']['datePublished']) ?>"
-																	<?php if ($episode['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																		class="new"
-																	<?php endif; ?>
-																/>
-															<?php endif; ?>
 															<meta
 																property="embedUrl"
 																content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
@@ -473,8 +464,18 @@ EOT;
 																aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 															>
 															</iframe>
-															<?php if ($episode['review']['name']): ?>
-																<p><?= htmlSpecialChars($episode['review']['name']) ?></p>
+															<?php if ($episode['review']['name'] || $episode['review']['datePublished']): ?>
+																<p>
+																	<span property="name"><?= htmlSpecialChars($episode['review']['name']) ?></span>
+																	<time
+																		property="datePublished"
+																		<?php if ($episode['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																			class="new"
+																		<?php endif; ?>
+																	>
+																		<?= htmlSpecialChars($episode['review']['datePublished']) ?>
+																	</time>
+																</p>
 															<?php endif; ?>
 														</div>
 													</details>
@@ -517,15 +518,6 @@ EOT;
 																		<?php endif; ?>
 																	</summary>
 																	<div>
-																		<?php if ($review['datePublished']): ?>
-																			<meta
-																				property="datePublished"
-																				content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																				<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																					class="new"
-																				<?php endif; ?>
-																			/>
-																		<?php endif; ?>
 																		<meta
 																			property="embedUrl"
 																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -536,8 +528,18 @@ EOT;
 																			aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																		>
 																		</iframe>
-																		<?php if ($review['name']): ?>
-																			<p><?= htmlSpecialChars($review['name']) ?></p>
+																		<?php if ($review['name'] || $review['datePublished']): ?>
+																			<p>
+																				<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																				<time
+																					property="datePublished"
+																					<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																						class="new"
+																					<?php endif; ?>
+																				>
+																					<?= htmlSpecialChars($review['datePublished']) ?>
+																				</time>
+																			</p>
 																		<?php endif; ?>
 																	</div>
 																</details>
@@ -597,15 +599,6 @@ EOT;
 														<?php endif; ?>
 													</summary>
 													<div>
-														<?php if ($season['review']['datePublished']): ?>
-															<meta
-																property="datePublished"
-																content="<?= htmlSpecialChars($season['review']['datePublished']) ?>"
-																<?php if ($season['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																	class="new"
-																<?php endif; ?>
-															/>
-														<?php endif; ?>
 														<meta
 															property="embedUrl"
 															content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
@@ -616,8 +609,18 @@ EOT;
 															aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 														>
 														</iframe>
-														<?php if ($season['review']['name']): ?>
-															<p><?= htmlSpecialChars($season['review']['name']) ?></p>
+														<?php if ($season['review']['name'] || $season['review']['datePublished']): ?>
+															<p>
+																<span property="name"><?= htmlSpecialChars($season['review']['name']) ?></span>
+																<time
+																	property="datePublished"
+																	<?php if ($season['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																		class="new"
+																	<?php endif; ?>
+																>
+																	<?= htmlSpecialChars($season['review']['datePublished']) ?>
+																</time>
+															</p>
 														<?php endif; ?>
 													</div>
 												</details>
@@ -671,15 +674,6 @@ EOT;
 																	<?php endif; ?>
 																</summary>
 																<div>
-																	<?php if ($review['datePublished']): ?>
-																		<meta
-																			property="datePublished"
-																			content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																				class="new"
-																			<?php endif; ?>
-																		/>
-																	<?php endif; ?>
 																	<meta
 																		property="embedUrl"
 																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -690,8 +684,18 @@ EOT;
 																		aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 																	>
 																	</iframe>
-																	<?php if ($review['name']): ?>
-																		<p><?= htmlSpecialChars($review['name']) ?></p>
+																	<?php if ($review['name'] || $review['datePublished']): ?>
+																		<p>
+																			<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																			<time
+																				property="datePublished"
+																				<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																					class="new"
+																				<?php endif; ?>
+																			>
+																				<?= htmlSpecialChars($review['datePublished']) ?>
+																			</time>
+																		</p>
 																	<?php endif; ?>
 																</div>
 															</details>
@@ -730,15 +734,6 @@ EOT;
 												<?php endif; ?>
 											</summary>
 											<div>
-												<?php if ($data['review']['datePublished']): ?>
-													<meta
-														property="datePublished"
-														content="<?= htmlSpecialChars($data['review']['datePublished']) ?>"
-														<?php if ($data['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-															class="new"
-														<?php endif; ?>
-													/>
-												<?php endif; ?>
 												<meta
 													property="embedUrl"
 													content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
@@ -749,8 +744,18 @@ EOT;
 													aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 												>
 												</iframe>
-												<?php if ($data['review']['name']): ?>
-													<p><?= htmlSpecialChars($data['review']['name']) ?></p>
+												<?php if ($data['review']['name'] || $data['review']['datePublished']): ?>
+													<p>
+														<span property="name"><?= htmlSpecialChars($data['review']['name']) ?></span>
+														<time
+															property="datePublished"
+															<?php if ($data['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																class="new"
+															<?php endif; ?>
+														>
+															<?= htmlSpecialChars($data['review']['datePublished']) ?>
+														</time>
+													</p>
 												<?php endif; ?>
 											</div>
 										</details>
@@ -782,15 +787,6 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<div>
-															<?php if ($review['datePublished']): ?>
-																<meta
-																	property="datePublished"
-																	content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																	<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																		class="new"
-																	<?php endif; ?>
-																/>
-															<?php endif; ?>
 															<meta
 																property="embedUrl"
 																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
@@ -801,8 +797,18 @@ EOT;
 																aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 															>
 															</iframe>
-															<?php if ($review['name']): ?>
-																<p><?= htmlSpecialChars($review['name']) ?></p>
+															<?php if ($review['name'] || $review['datePublished']): ?>
+																<p>
+																	<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																	<time
+																		property="datePublished"
+																		<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																			class="new"
+																		<?php endif; ?>
+																	>
+																		<?= htmlSpecialChars($review['datePublished']) ?>
+																	</time>
+																</p>
 															<?php endif; ?>
 														</div>
 													</details>
