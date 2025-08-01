@@ -280,6 +280,12 @@ ul:has(details) {
 		order: 1;
 		width: 100%;
 		margin-bottom: 1em;
+		
+		&:not(:has(p:last-child))::after {
+			content: '';
+			display: block;
+      height: 1lh;
+		}
 	}
 }
 
