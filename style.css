@@ -284,7 +284,7 @@ ul:has(details) {
 		&:not(:has(p:last-child))::after {
 			content: '';
 			display: block;
-      height: 1lh;
+			height: 1lh;
 		}
 	}
 }
