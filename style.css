@@ -290,8 +290,9 @@ details[property="video"] {
 
 	/* TODO: refactor: get rid off `!important` */
 	p {
-		margin: 0 !important; 
+		margin: 0 !important;
 		text-align: left !important;
+		font-size: 0.8em;
 	}
 }
 
