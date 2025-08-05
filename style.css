@@ -382,6 +382,14 @@ iframe {
 	aspect-ratio: 16/9;
 }
 
+figure {
+	margin: 1em 0;
+  
+  iframe {
+    margin: 0;
+  }
+}
+
 button {
 	font: inherit;
 	border-color: transparent;
@@ -393,10 +401,6 @@ button {
 
 body:has(> .players) {
 	padding-bottom: 0 !important;
-}
-
-figure {
-	margin: 0;
 }
 
 .players {
