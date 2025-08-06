@@ -2360,6 +2360,25 @@
 					},
 					"description": {
 						"de": "Der Doktor stellt fest, dass nicht Chakotay, sondern Cullah der Vater von Seskas Baby ist. Er beordert Suder zur Krankenstation. – Auf dem Planeten organisiert die Voyager-Crew Nahrung und einen Unterschlupf. Kes und Neelix werden von humanoiden Einheimischen, die wie Steinzeitmenschen leben, entführt. Ein Team unter Chakotays Führung befreit sie. Sie fliehen vor den Einheimischen in eine Höhle, werden aber von einem gefährlichen Tier vertrieben. Janeway kommt mit anderen zu Hilfe. Später rettet Chakotay eine Einheimische vor einem Vulkanausbruch, und ein Einheimischer versorgt das Baby von Fähnrich Wildman, das unter Atemnot leidet. – Suder, den Tuvok fast von seinen gewalttätigen Neigungen geheilt hatte, tötet widerwillig einen Kazon und erbeutet dessen Waffe. Um Seska von Suders Anwesenheit abzulenken, übernimmt der Doktor die Verantwortung für die Leiche und lässt sich von Seska deaktivieren. Die von Paris zu Hilfe gerufenen Talaxianer greifen mit diesem zusammen die Voyager an, wobei Paris die primären Phaserenergie-Kupplungen zerstört. Währenddessen tötet Suder die Kazon im Maschinenraum, sabotiert die Phaserenergie-Reservekupplungen und wird von einem Kazon erschossen. Paris beamt mit einem talaxianischen Kommando auf die Voyager und erobert sie zurück. Seska wird durch eine Überladung der Phaserenergie-Reservekupplungen getötet. Maj Cullah flieht mit dem Baby von der Voyager, die wieder von der Crew in Besitz genommen wird."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Hijacked!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-07-31",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#2.26" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#3.1" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-9gpIkIzGq4"
+						}
 					}
 				},
 				{
