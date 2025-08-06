@@ -384,10 +384,10 @@ iframe {
 
 figure {
 	margin: 1em 0;
-  
-  iframe {
-    margin: 0;
-  }
+	
+	iframe {
+		margin: 0;
+	}
 }
 
 button {
