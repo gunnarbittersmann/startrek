@@ -318,24 +318,30 @@
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
-												<?php if ($movie['review']['datePublished']): ?>
+												<div>
 													<meta
-														property="datePublished"
-														content="<?= htmlSpecialChars($movie['review']['datePublished']) ?>"
-														<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-															class="new"
-														<?php endif; ?>
+														property="embedUrl"
+														content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
 													/>
-												<?php endif; ?>
-												<meta
-													property="embedUrl"
-													content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
-												/>
-												<iframe
-													allowfullscreen=""
-													aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
-													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-												</iframe>
+													<iframe
+														allowfullscreen=""
+														aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
+														aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+													</iframe>
+													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
+														<p>
+															<span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
+															<time
+																property="datePublished"
+																<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															>
+																<?= htmlSpecialChars($movie['review']['datePublished']) ?>
+															</time>
+														</p>
+													<?php endif; ?>
+												</div>
 											</details>
 										</td>
 									<?php else: ?>
@@ -365,24 +371,30 @@
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
-															<?php if ($review['datePublished']): ?>
+															<div>
 																<meta
-																	property="datePublished"
-																	content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																	<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																		class="new"
-																	<?php endif; ?>
+																	property="embedUrl"
+																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
 																/>
-															<?php endif; ?>
-															<meta
-																property="embedUrl"
-																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-															/>
-															<iframe
-																allowfullscreen=""
-																aria-label="<?= htmlSpecialChars($review['name']) ?>"
-																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-															</iframe>
+																<iframe
+																	allowfullscreen=""
+																	aria-label="<?= htmlSpecialChars($review['name']) ?>"
+																	aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+																</iframe>
+																<?php if ($review['name'] || $review['datePublished']): ?>
+																	<p>
+																		<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																		<time
+																			property="datePublished"
+																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																				class="new"
+																			<?php endif; ?>
+																		>
+																			<?= htmlSpecialChars($review['datePublished']) ?>
+																		</time>
+																	</p>
+																<?php endif; ?>
+															</div>
 														</details>
 													</li>
 												<?php endforeach; ?>

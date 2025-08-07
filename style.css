@@ -276,11 +276,32 @@ ul:has(details) {
 		margin-left: 1.5em;
 	}
 	
-	iframe {
+	details > div {
 		order: 1;
 		width: 100%;
+		margin-bottom: 1em;
+		
+		&:not(:has(p:last-child))::after {
+			content: '';
+			display: block;
+			height: 1lh;
+		}
 	}
 }
+
+details[property="video"] {
+		iframe {
+		margin-bottom: 0;
+	}
+
+	/* TODO: refactor: get rid off `!important` */
+	p {
+		margin: 0 !important;
+		text-align: left !important;
+		font-size: 0.8em;
+	}
+}
+
 
 @media (width > 40em) {
 	[property="abstract"], [property="description"] {
