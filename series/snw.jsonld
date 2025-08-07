@@ -2274,6 +2274,11 @@
 					"episodeNumber": "3.5",
 					"name": "Through the Lens of Time",
 					"datePublished": "2025-08-07",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
 					"author": [
 						{
 							"@type": "Person",
