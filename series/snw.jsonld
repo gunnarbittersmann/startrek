@@ -2291,6 +2291,12 @@
 							"name": "Davy Perez"
 						}
 					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Durch die Linse der Zeit",
+						"datePublished": "2025-08-07"
+					},
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
