@@ -38,18 +38,6 @@
 			"name": "Brannon Braga"
 		}
 	],
-	"maintainer": [
-		{
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
-			"name": "Brannon Braga"
-		},
-		{
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#MannyCoto",
-			"name": "Manny Coto"
-		}
-	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -78,6 +66,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ent#1",
 			"seasonNumber": 1,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+				"name": "Brannon Braga"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1439,6 +1432,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ent#2",
 			"seasonNumber": 2,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+				"name": "Brannon Braga"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -2762,6 +2760,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ent#3",
 			"seasonNumber": 3,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#BrannonBraga",
+				"name": "Brannon Braga"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -3919,6 +3922,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/ent#4",
 			"seasonNumber": 4,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#MannyCoto",
+				"name": "Manny Coto"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
