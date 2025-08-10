@@ -2367,6 +2367,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/cl6mLjekDTA"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2025-08-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sdXOhCBxeeA"
+							}
 						}
 					]
 				},
