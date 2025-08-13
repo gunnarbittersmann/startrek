@@ -2391,6 +2391,11 @@
 					"episodeNumber": "3.6",
 					"name": "The Sehlat Who Ate Its Tail",
 					"datePublished": "2025-08-14",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
+						"name": "Valerie Weiss"
+					},
 					"author": [
 						{
 							"@type": "Person",
