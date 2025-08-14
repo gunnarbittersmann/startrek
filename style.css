@@ -252,7 +252,7 @@ details p {
 }
 
 details p:not([property]):only-of-type {
-		text-align: end;
+	text-align: end;
 }
 
 dl {
