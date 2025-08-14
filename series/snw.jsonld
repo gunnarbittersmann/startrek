@@ -2407,7 +2407,13 @@
 							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 							"name": "Bill Wolkoff"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Sehlat, der sich in den Schwanz biss",
+						"datePublished": "2025-08-14"
+					}
 				},
 				{
 					"@type": "TVEpisode",
