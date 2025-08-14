@@ -252,7 +252,7 @@ details p {
 }
 
 details p:not([property]):only-of-type {
-		text-align: end;
+	text-align: end;
 }
 
 dl {
@@ -264,6 +264,10 @@ dt, dd, dd ul {
 	margin: 0;
 }
 
+/*
+  tab-like styling taken from https://codepen.io/RYJASM/pen/eYoYeRg
+  see also https://codepen.io/gunnarbittersmann/pen/YPypeVx
+*/
 ul:has(details) {
 	display: flex;
 	flex-wrap: wrap;
@@ -276,11 +280,39 @@ ul:has(details) {
 		margin-left: 1.5em;
 	}
 	
-	iframe {
-		order: 1;
-		width: 100%;
+	details {
+		/* Safari 18.6 needs this */
+		&[open]::details-content {
+			display: contents;
+		}
+		
+		> div {
+			order: 1;
+			width: 100%;
+			margin-bottom: 1em;
+		
+			&:not(:has(p:last-child))::after {
+				content: '';
+				display: block;
+				height: 1lh;
+			}
+		}
 	}
 }
+
+details:has([property="video"]) {
+		iframe {
+		margin-bottom: 0;
+	}
+
+	/* TODO: refactor: get rid off `!important` */
+	p {
+		margin: 0 !important;
+		text-align: left !important;
+		font-size: 0.8em;
+	}
+}
+
 
 @media (width > 40em) {
 	[property="abstract"], [property="description"] {

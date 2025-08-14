@@ -8,7 +8,7 @@
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2025-05-30T13:24Z';
+	const STYLESHEET = '../style.css?date=2025-08-14T18:04Z';
 	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('movies.jsonld');
@@ -301,7 +301,7 @@
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
-											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
+											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
@@ -318,24 +318,32 @@
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
 													<?php endif; ?>
 												</summary>
-												<?php if ($movie['review']['datePublished']): ?>
-													<meta
-														property="datePublished"
-														content="<?= htmlSpecialChars($movie['review']['datePublished']) ?>"
-														<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-															class="new"
-														<?php endif; ?>
-													/>
-												<?php endif; ?>
-												<meta
-													property="embedUrl"
-													content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
-												/>
-												<iframe
-													allowfullscreen=""
-													aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
-													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-												</iframe>
+												<div>
+													<div property="video" typeof="VideoObject" hidden="">
+														<meta
+															property="embedUrl"
+															content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
+														/>
+													</div>
+													<iframe
+														allowfullscreen=""
+														aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
+														aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+													</iframe>
+													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
+														<p>
+															<span property="name"><?= htmlSpecialChars($movie['review']['name']) ?></span>
+															<time
+																property="datePublished"
+																<?php if ($movie['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																	class="new"
+																<?php endif; ?>
+															>
+																<?= htmlSpecialChars($movie['review']['datePublished']) ?>
+															</time>
+														</p>
+													<?php endif; ?>
+												</div>
 											</details>
 										</td>
 									<?php else: ?>
@@ -345,8 +353,6 @@
 													<li property="review" typeof="Review">
 														<details
 															lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
-															property="video"
-															typeof="VideoObject"
 															name="review-<?= htmlSpecialChars($movie['@identifier']) ?>"
 														>
 															<summary
@@ -365,24 +371,32 @@
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
 															</summary>
-															<?php if ($review['datePublished']): ?>
-																<meta
-																	property="datePublished"
-																	content="<?= htmlSpecialChars($review['datePublished']) ?>"
-																	<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																		class="new"
-																	<?php endif; ?>
-																/>
-															<?php endif; ?>
-															<meta
-																property="embedUrl"
-																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-															/>
-															<iframe
-																allowfullscreen=""
-																aria-label="<?= htmlSpecialChars($review['name']) ?>"
-																aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
-															</iframe>
+															<div>
+																<div property="video" typeof="VideoObject" hidden="">
+																	<meta
+																		property="embedUrl"
+																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																	/>
+																</div>
+																<iframe
+																	allowfullscreen=""
+																	aria-label="<?= htmlSpecialChars($review['name']) ?>"
+																	aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>">
+																</iframe>
+																<?php if ($review['name'] || $review['datePublished']): ?>
+																	<p>
+																		<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																		<time
+																			property="datePublished"
+																			<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																				class="new"
+																			<?php endif; ?>
+																		>
+																			<?= htmlSpecialChars($review['datePublished']) ?>
+																		</time>
+																	</p>
+																<?php endif; ?>
+															</div>
 														</details>
 													</li>
 												<?php endforeach; ?>
