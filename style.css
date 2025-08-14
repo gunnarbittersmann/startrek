@@ -264,6 +264,10 @@ dt, dd, dd ul {
 	margin: 0;
 }
 
+/*
+  tab-like styling taken from https://codepen.io/RYJASM/pen/eYoYeRg
+  see also https://codepen.io/gunnarbittersmann/pen/YPypeVx
+*/
 ul:has(details) {
 	display: flex;
 	flex-wrap: wrap;
