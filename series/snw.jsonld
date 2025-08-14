@@ -2413,7 +2413,38 @@
 						"inLanguage": "de",
 						"name": "Der Sehlat, der sich in den Schwanz biss",
 						"datePublished": "2025-08-14"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-08-14",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BeOdLHaqiV0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-08-14",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1iv71M7ucog"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
