@@ -301,7 +301,7 @@
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
-											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
+											<details lang="<?= htmlspecialchars($movie['review']['inLanguage'] ?? 'en') ?>">
 												<summary
 													aria-describedby="<?= htmlSpecialChars($movie['@identifier']) ?>"
 													<?php if ($movie['review']['name'] || $movie['review']['datePublished']): ?>
@@ -319,10 +319,12 @@
 													<?php endif; ?>
 												</summary>
 												<div>
-													<meta
-														property="embedUrl"
-														content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
-													/>
+													<div property="video" typeof="VideoObject" hidden="">
+														<meta
+															property="embedUrl"
+															content="<?= htmlSpecialChars($movie['review']['video']['embedUrl']) ?>"
+														/>
+													</div>
 													<iframe
 														allowfullscreen=""
 														aria-label="<?= htmlSpecialChars($movie['review']['name']) ?>"
@@ -351,8 +353,6 @@
 													<li property="review" typeof="Review">
 														<details
 															lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
-															property="video"
-															typeof="VideoObject"
 															name="review-<?= htmlSpecialChars($movie['@identifier']) ?>"
 														>
 															<summary
@@ -372,10 +372,12 @@
 																<?php endif; ?>
 															</summary>
 															<div>
-																<meta
-																	property="embedUrl"
-																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-																/>
+																<div property="video" typeof="VideoObject" hidden="">
+																	<meta
+																		property="embedUrl"
+																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																	/>
+																</div>
 																<iframe
 																	allowfullscreen=""
 																	aria-label="<?= htmlSpecialChars($review['name']) ?>"

@@ -25,7 +25,7 @@ const intersectionObserver = new IntersectionObserver(
 intersectionObserver.observe(document.head);
 
 
-for (let videoDetailsElement of document.querySelectorAll('details[property="video"]')) {
+for (let videoDetailsElement of document.querySelectorAll('details:has(meta[property="embedUrl"])')) {
 	videoDetailsElement.addEventListener('toggle', event => {
 		const iframeElement = event.target.querySelector('iframe');
 		if (!iframeElement.src) {

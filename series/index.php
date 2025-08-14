@@ -424,7 +424,7 @@ EOT;
 										<?php if ($episode['review']): ?>
 											<?php if ($episode['review']['video']): ?>
 												<td property="review" typeof="Review">
-													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
+													<details lang="<?= htmlspecialchars($episode['review']['inLanguage'] ?? 'en') ?>">
 														<summary
 															aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 															<?php if ($episode['review']['name'] || $episode['review']['datePublished']): ?>
@@ -454,10 +454,12 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<div>
-															<meta
-																property="embedUrl"
-																content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
-															/>
+															<div property="video" typeof="VideoObject" hidden="">
+																<meta
+																	property="embedUrl"
+																	content="<?= htmlSpecialChars($episode['review']['video']['embedUrl']) ?>"
+																/>
+															</div>
 															<iframe
 																allowfullscreen=""
 																aria-label="<?= htmlSpecialChars($episode['review']['name']) ?>"
@@ -487,8 +489,6 @@ EOT;
 															<li property="review" typeof="Review">
 																<details
 																	lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
-																	property="video"
-																	typeof="VideoObject"
 																	name="review-<?= htmlSpecialChars($episode['@identifier']) ?>"
 																>
 																	<summary
@@ -518,10 +518,12 @@ EOT;
 																		<?php endif; ?>
 																	</summary>
 																	<div>
-																		<meta
-																			property="embedUrl"
-																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-																		/>
+																		<div property="video" typeof="VideoObject" hidden="">
+																			<meta
+																				property="embedUrl"
+																				content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																			/>
+																		</div>
 																		<iframe
 																			allowfullscreen=""
 																			aria-label="<?= htmlSpecialChars($review['name']) ?>"
@@ -560,7 +562,7 @@ EOT;
 										</th>
 										<?php if ($season['review']['video']): ?>
 											<td property="review" typeof="Review">
-												<details lang="<?= htmlspecialchars($season['review']['inLanguage'] ?? 'en') ?>" property="video" typeof="VideoObject">
+												<details lang="<?= htmlspecialchars($season['review']['inLanguage'] ?? 'en') ?>">
 													<summary
 														aria-description="season <?= htmlSpecialChars($season['seasonNumber']) ?>"
 														<?php if ($season['review']['name'] || $season['review']['datePublished']): ?>
@@ -599,10 +601,12 @@ EOT;
 														<?php endif; ?>
 													</summary>
 													<div>
-														<meta
-															property="embedUrl"
-															content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
-														/>
+														<div property="video" typeof="VideoObject" hidden="">
+															<meta
+																property="embedUrl"
+																content="<?= htmlSpecialChars($season['review']['video']['embedUrl']) ?>"
+															/>
+														</div>
 														<iframe
 															allowfullscreen=""
 															aria-label="<?= htmlSpecialChars($season['review']['name']) ?>"
@@ -632,8 +636,6 @@ EOT;
 														<li property="review" typeof="Review">
 															<details
 																lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
-																property="video"
-																typeof="VideoObject"
 																name="review-season-<?= htmlSpecialChars($season['seasonNumber']) ?>"
 															>
 																<summary
@@ -674,10 +676,12 @@ EOT;
 																	<?php endif; ?>
 																</summary>
 																<div>
-																	<meta
-																		property="embedUrl"
-																		content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-																	/>
+																	<div property="video" typeof="VideoObject" hidden="">
+																		<meta
+																			property="embedUrl"
+																			content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																		/>
+																	</div>
 																	<iframe
 																		allowfullscreen=""
 																		aria-label="<?= htmlSpecialChars($review['name']) ?>"
@@ -717,7 +721,7 @@ EOT;
 								</th>
 								<?php if ($data['review']['video']): ?>
 									<td property="review" typeof="Review">
-										<details lang="en" property="video" typeof="VideoObject">
+										<details lang="en">
 											<summary
 												aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 												<?php if ($data['review']['name'] || $data['review']['datePublished']): ?>
@@ -734,10 +738,12 @@ EOT;
 												<?php endif; ?>
 											</summary>
 											<div>
-												<meta
-													property="embedUrl"
-													content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
-												/>
+												<div property="video" typeof="VideoObject" hidden="">
+													<meta
+														property="embedUrl"
+														content="<?= htmlSpecialChars($data['review']['video']['embedUrl']) ?>"
+													/>
+												</div>
 												<iframe
 													allowfullscreen=""
 													aria-label="<?= htmlSpecialChars($data['review']['name']) ?>"
@@ -765,12 +771,7 @@ EOT;
 										<ul>
 											<?php foreach ($data['review'] as $review): ?>
 												<li property="review" typeof="Review">
-													<details
-														lang="en"
-														property="video"
-														typeof="VideoObject"
-														name="review-season-<?= htmlSpecialChars($data['name']) ?>"
-													>
+													<details lang="en" name="review-season-<?= htmlSpecialChars($data['name']) ?>">
 														<summary
 															aria-description="season <?= htmlSpecialChars($data['name']) ?>"
 															<?php if ($review['name'] || $review['datePublished']): ?>
@@ -787,10 +788,12 @@ EOT;
 															<?php endif; ?>
 														</summary>
 														<div>
-															<meta
-																property="embedUrl"
-																content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
-															/>
+															<div property="video" typeof="VideoObject" hidden="">
+																<meta
+																	property="embedUrl"
+																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																/>
+															</div>
 															<iframe
 																allowfullscreen=""
 																aria-label="<?= htmlSpecialChars($review['name']) ?>"
