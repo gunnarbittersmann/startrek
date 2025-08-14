@@ -276,15 +276,22 @@ ul:has(details) {
 		margin-left: 1.5em;
 	}
 	
-	details > div {
-		order: 1;
-		width: 100%;
-		margin-bottom: 1em;
+	details {
+		/* Safari 18.6 needs this */
+		&[open]::details-content {
+			display: contents;
+		}
 		
-		&:not(:has(p:last-child))::after {
-			content: '';
-			display: block;
-			height: 1lh;
+		> div {
+			order: 1;
+			width: 100%;
+			margin-bottom: 1em;
+		
+			&:not(:has(p:last-child))::after {
+				content: '';
+				display: block;
+				height: 1lh;
+			}
 		}
 	}
 }

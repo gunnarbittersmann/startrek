@@ -9,7 +9,7 @@
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2025-08-04T10:36Z';
+	const STYLESHEET = '../style.css?date=2025-08-14T18:04Z';
 	const SCRIPT = '../script.js';
 
 	$files = scandir('.');
