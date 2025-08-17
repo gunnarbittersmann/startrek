@@ -818,6 +818,10 @@
 					"episodeNumber": "1.11",
 					"name": "The Menagerie, Part I",
 					"datePublished": "1966-11-17",
+					"isBasedOn" : {
+						"@type": "TVEpisode",
+						"@id": "https://bittersmann.de/startrek/series/tos#0.1"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -869,6 +873,10 @@
 					"episodeNumber": "1.12",
 					"name": "The Menagerie, Part II",
 					"datePublished": "1966-11-24",
+					"isBasedOn" : {
+						"@type": "TVEpisode",
+						"@id": "https://bittersmann.de/startrek/series/tos#0.1"
+					},
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
