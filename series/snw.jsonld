@@ -2502,7 +2502,13 @@
 							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 							"name": "Alan B. McElroy"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Was ist die Sternenflotte?",
+						"datePublished": "2025-08-21"
+					}
 				},
 				{
 					"@type": "TVEpisode",
