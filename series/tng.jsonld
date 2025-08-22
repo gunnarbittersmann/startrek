@@ -6855,6 +6855,20 @@
 					},
 					"description": {
 						"de": "Riker bringt ein Spiel mit auf die Enterprise, das er von der Außerirdischen Etana erhalten hat und bei dem der Spieler mit seiner Sinneskraft und einer durch ein Headset erzeugten Projektion eine Scheibe in einen Trichter befördern muss. Er verteilt es an die Mannschaft, die es bald wie besessen spielt, und deaktiviert mit Dr. Crushers Hilfe Data, damit dieser der Verbreitung des Spiels nicht im Wege steht. Der auf Urlaub auf der Enterprise weilende Wesley Crusher entdeckt zusammen mit der jungen Technikerin Robin Leffler, dass das Spiel eine psychotrope Wirkung besitzt und seine Spieler süchtig macht. Zusammen versuchen sie sich dem sich verstärkenden Druck der Crew zu entziehen, das Spiel ebenfalls zu spielen, und untersuchen Datas Deaktivierung. Als auch Leffler süchtig wird, kann sich Wesley in einem Katz- und Maus-Spiel zunächst dem Zugriff der süchtigen Crew entziehen, wird aber von dieser alsbald ebenfalls in die Spielsucht gezwungen. Dabei stellt sich aber heraus, dass Wesley nur ein Ablenkungsmanöver unternahm und der von ihm reaktivierte Data währenddessen die Crew durch Einsatz einer Signallampe von ihrer Sucht befreit. Picard lässt daraufhin die in einem Raumschiff hinzugekommene Etana arretieren, die die süchtige Crew zur weiteren Verbreitung des Spiels ausnutzen wollte."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2024-02-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/OvVF4aP8b50"
+						}
 					}
 				},
 				{
