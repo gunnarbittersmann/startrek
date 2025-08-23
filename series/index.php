@@ -205,7 +205,7 @@ EOT;
 										<?php endif; // (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) ?>
 										<?php if (IS_DIRECTOR_VISIBLE): ?>
 											<?php if ($episode['director']): ?>
-												<?php if (IS_DIRECTOR_VISIBLE): ?>
+												<?php if ($episode['director']['name']): ?>
 													<td
 														property="director"
 														typeof="<?= htmlSpecialChars($episode['director']['@type']) ?>"
