@@ -113,7 +113,7 @@
 											<td
 												property="director"
 												typeof="<?= htmlSpecialChars($movie['director']['@type']) ?>"
-												resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['director']['@id']) ?>"
+												resource="<?= htmlSpecialChars($movie['director']['@id']) ?>"
 											>
 												<span property="name"><?= htmlSpecialChars($movie['director']['name']) ?></span>
 											</td>
@@ -124,7 +124,7 @@
 														<li
 															property="director"
 															typeof="<?= htmlSpecialChars($director['@type']) ?>"
-															resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($director['@id']) ?>"
+															resource="<?= htmlSpecialChars($director['@id']) ?>"
 														>
 															<span property="name"><?= htmlSpecialChars($director['name']) ?></span>
 														</li>
@@ -145,7 +145,7 @@
 															<dd
 																property="contributor"
 																typeof="<?= htmlSpecialChars($movie['contributor']['@type']) ?>"
-																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
+																resource="<?= htmlSpecialChars($movie['contributor']['@id']) ?>"
 															>
 																<span property="name"><?= htmlSpecialChars($movie['contributor']['name']) ?></span>
 															</dd>
@@ -156,7 +156,7 @@
 																		<li
 																			property="contributor"
 																			typeof="<?= htmlSpecialChars($contributor['@type']) ?>"
-																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($contributor['@id']) ?>"
+																			resource="<?= htmlSpecialChars($contributor['@id']) ?>"
 																		>
 																			<span property="name"><?= htmlSpecialChars($contributor['name']) ?></span>
 																		</li>
@@ -178,7 +178,7 @@
 														<dd
 															property="author"
 															typeof="<?= htmlSpecialChars($movie['author']['@type']) ?>"
-															resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['author']['@id']) ?>"
+															resource="<?= htmlSpecialChars($movie['author']['@id']) ?>"
 														>
 															<span property="name"><?= htmlSpecialChars($movie['author']['name']) ?></span>
 														</dd>
@@ -189,7 +189,7 @@
 																	<li
 																		property="author"
 																		typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																		resource="<?= htmlSpecialChars($author['@id']) ?>"
 																	>
 																		<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
 																	</li>
@@ -205,7 +205,7 @@
 															<dd
 																property="author"
 																typeof="<?= htmlSpecialChars($movie['isBasedOn']['author']['@type']) ?>"
-																resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
+																resource="<?= htmlSpecialChars($movie['isBasedOn']['author']['@id']) ?>"
 															>
 																<span property="name"><?= htmlSpecialChars($movie['isBasedOn']['author']['name']) ?></span>
 															</dd>
@@ -216,7 +216,7 @@
 																		<li
 																			property="author"
 																			typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																			resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																			resource="<?= htmlSpecialChars($author['@id']) ?>"
 																		>
 																			<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
 																		</li>

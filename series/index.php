@@ -209,7 +209,7 @@ EOT;
 													<td
 														property="director"
 														typeof="<?= htmlSpecialChars($episode['director']['@type']) ?>"
-														resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['director']['@id']) ?>"
+														resource="<?= htmlSpecialChars($episode['director']['@id']) ?>"
 													>
 														<span property="name"><?= htmlSpecialChars($episode['director']['name']) ?></span>
 													</td>
@@ -220,7 +220,7 @@ EOT;
 																<li
 																	property="director"
 																	typeof="<?= htmlSpecialChars($director['@type']) ?>"
-																	resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($director['@id']) ?>"
+																	resource="<?= htmlSpecialChars($director['@id']) ?>"
 																>
 																	<span property="name"><?= htmlSpecialChars($director['name']) ?></span>
 																</li>
@@ -246,7 +246,7 @@ EOT;
 																	<dd
 																		property="contributor"
 																		typeof="<?= htmlSpecialChars($episode['contributor']['@type']) ?>"
-																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['contributor']['@id']) ?>"
+																		resource="<?= htmlSpecialChars($episode['contributor']['@id']) ?>"
 																	>
 																		<span property="name"><?= htmlSpecialChars($episode['contributor']['name']) ?></span>
 																	</dd>
@@ -257,7 +257,7 @@ EOT;
 																				<li
 																					property="contributor"
 																					typeof="<?= htmlSpecialChars($contributor['@type']) ?>"
-																					resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($contributor['@id']) ?>"
+																					resource="<?= htmlSpecialChars($contributor['@id']) ?>"
 																				>
 																					<span property="name"><?= htmlSpecialChars($contributor['name']) ?></span>
 																				</li>
@@ -280,7 +280,7 @@ EOT;
 																<dd
 																	property="author"
 																	typeof="<?= htmlSpecialChars($episode['author']['@type']) ?>"
-																	resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['author']['@id']) ?>"
+																	resource="<?= htmlSpecialChars($episode['author']['@id']) ?>"
 																>
 																	<span property="name"><?= htmlSpecialChars($episode['author']['name']) ?></span>
 																</dd>
@@ -291,7 +291,7 @@ EOT;
 																			<li
 																				property="author"
 																				typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																				resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																				resource="<?= htmlSpecialChars($author['@id']) ?>"
 																			>
 																				<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
 																			</li>
@@ -310,7 +310,7 @@ EOT;
 																	<dd
 																		property="author"
 																		typeof="<?= htmlSpecialChars($episode['isBasedOn']['author']['@type']) ?>"
-																		resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($episode['isBasedOn']['author']['@id']) ?>"
+																		resource="<?= htmlSpecialChars($episode['isBasedOn']['author']['@id']) ?>"
 																	>
 																		<span property="name"><?= htmlSpecialChars($episode['isBasedOn']['author']['name']) ?></span>
 																	</dd>
@@ -321,7 +321,7 @@ EOT;
 																				<li
 																					property="author"
 																					typeof="<?= htmlSpecialChars($author['@type']) ?>"
-																					resource="https://bittersmann.de/startrek/persons/<?= htmlSpecialChars($author['@id']) ?>"
+																					resource="<?= htmlSpecialChars($author['@id']) ?>"
 																				>
 																					<span property="name"><?= htmlSpecialChars($author['name']) ?></span>
 																				</li>
