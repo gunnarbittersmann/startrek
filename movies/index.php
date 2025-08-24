@@ -13,6 +13,19 @@
 
 	$json = file_get_contents('movies.jsonld');
 	$data = json_decode($json, TRUE);
+
+	function initial($name) {
+		if (str_starts_with($name, 'The ')) {
+			return $name[4];
+		}
+		if (str_starts_with($name, 'An ')) {
+			return $name[3];
+		}
+		if (str_starts_with($name, 'A ')) {
+			return $name[2];
+		}
+		return $name[0];
+	}
 ?>
 <!DOCTYPE html>
 <html
@@ -308,11 +321,24 @@
 														title="<?= htmlSpecialChars($movie['review']['name']) ?> <?= htmlSpecialChars($movie['review']['datePublished']) ?>"
 													<?php endif; ?>
 												>
-													<?php if ($movie['review']['creator'] && $movie['review']['creator']['name']): ?>
-														<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
-															<span class="visually-hidden" property="name"><?= htmlSpecialChars($movie['review']['creator']['name']) ?></span>
-															<abbr aria-hidden="true"><?= htmlSpecialChars($movie['review']['creator']['name'][0]) ?></abbr>
-														</span>
+													<?php if ($movie['review']['creator']): ?>
+														<?php if ($movie['review']['creator']['name']): ?>
+															<span property="creator" typeof="<?= htmlSpecialChars($movie['review']['creator']['@type']) ?>">
+																<span class="visually-hidden" property="name">
+																	<?= htmlSpecialChars($movie['review']['creator']['name']) ?>
+																</span>
+																<abbr aria-hidden="true"><?= htmlSpecialChars(initial($movie['review']['creator']['name'])) ?></abbr>
+															</span>
+														<?php elseif (is_array($movie['review']['creator'])): ?>
+															<?php foreach ($movie['review']['creator'] as $creator): ?>
+																<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																	<span class="visually-hidden" property="name">
+																		<?= htmlSpecialChars($creator['name']) ?>
+																	</span>
+																	<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
+																</span>
+															<?php endforeach; ?>
+														<?php endif; ?>
 													<?php endif; ?>
 													<?php if ($movie['review']['inLanguage'] && $movie['review']['inLanguage'] != 'en'): ?>
 														<span class="review-lang">(<?= htmlSpecialChars($movie['review']['inLanguage']) ?>)</span>
@@ -361,11 +387,24 @@
 																	title="<?= htmlSpecialChars($review['name']) ?> <?= htmlSpecialChars($review['datePublished']) ?>"
 																<?php endif; ?>
 															>
-																<?php if ($review['creator'] && $review['creator']['name']): ?>
-																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
-																		<span class="visually-hidden" property="name"><?= htmlSpecialChars($review['creator']['name']) ?></span>
-																		<abbr aria-hidden="true"><?= htmlSpecialChars($review['creator']['name'][0]) ?></abbr>
-																	</span>
+																<?php if ($review['creator']): ?>
+																	<?php if ($review['creator']['name']): ?>
+																		<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+																			<span class="visually-hidden" property="name">
+																				<?= htmlSpecialChars($review['creator']['name']) ?>
+																			</span>
+																			<abbr aria-hidden="true"><?= htmlSpecialChars(initial($review['creator']['name'])) ?></abbr>
+																		</span>
+																	<?php elseif (is_array($review['creator'])): ?>
+																		<?php foreach ($review['creator'] as $creator): ?>
+																			<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																				<span class="visually-hidden" property="name">
+																					<?= htmlSpecialChars($creator['name']) ?>
+																				</span>
+																				<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
+																			</span>
+																		<?php endforeach; ?>
+																	<?php endif; ?>
 																<?php endif; ?>
 																<?php if ($review['inLanguage'] != 'en'): ?>
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>

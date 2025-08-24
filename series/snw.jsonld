@@ -216,6 +216,28 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/sX__YyTvyxc"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Talkin’ Star Trek",
+							"creator": [
+								{
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								{
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#SteveShives",
+									"name": "Steve Shives"
+								}
+							],
+							"datePublished": "2022-05-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/5PDTfWECFZQ"
+							}
 						}
 					]
 				},
