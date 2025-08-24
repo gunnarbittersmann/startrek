@@ -234,6 +234,10 @@
 								}
 							],
 							"datePublished": "2022-05-06",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#1.1" }
+							],
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5PDTfWECFZQ"
@@ -2344,7 +2348,7 @@
 								{ "@id": "https://bittersmann.de/startrek/series/snw#3.2" },
 								{ "@id": "https://bittersmann.de/startrek/series/snw#3.3" },
 								{ "@id": "https://bittersmann.de/startrek/series/snw#3.4" },
-								{ "@id": "https://bittersmann.de/startrek/series/tng#3.5" }
+								{ "@id": "https://bittersmann.de/startrek/series/snw#3.5" }
 							],
 							"video": {
 								"@type": "VideoObject",
