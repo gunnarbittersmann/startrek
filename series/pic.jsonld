@@ -912,6 +912,10 @@
 						}
 					],
 					"datePublished": "2022-05-06",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/pic#2" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1.1" }
+					],
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/5PDTfWECFZQ"
