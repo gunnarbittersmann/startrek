@@ -451,14 +451,17 @@ EOT;
 																<?php endif; ?>
 															<?php endif; ?>
 															<?php if ($episode['review']['itemReviewed']): ?>
-																<span class="review-range">(<?=
-																	htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
-																?>–<?=
-																	htmlSpecialChars(parse_url(
-																		$episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'],
-																		PHP_URL_FRAGMENT,
-																	))
-																?>)</span>
+																<?php if (parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_PATH)
+																	== parse_url($episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+																	<span class="review-range">(<?=
+																		htmlSpecialChars(parse_url($episode['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																	?>–<?=
+																		htmlSpecialChars(parse_url(
+																			$episode['review']['itemReviewed'][count($episode['review']['itemReviewed']) - 1]['@id'],
+																			PHP_URL_FRAGMENT,
+																		))
+																	?>)</span>
+																<?php endif; ?>
 															<?php endif; ?>
 															<?php if ($episode['review']['inLanguage'] && $episode['review']['inLanguage'] != 'en'): ?>
 																<span class="review-lang">(<?= htmlSpecialChars($episode['review']['inLanguage']) ?>)</span>
@@ -528,12 +531,15 @@ EOT;
 																			<?php endif; ?>
 																		<?php endif; ?>
 																		<?php if ($review['itemReviewed']): ?>
-																			<span class="review-range">(<?=
-																				htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
-																			?>–<?=
-																				htmlSpecialChars(parse_url(
-																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
-																			?>)</span>
+																			<?php if (parse_url($review['itemReviewed'][0]['@id'], PHP_URL_PATH)
+																				== parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+																				<span class="review-range">(<?=
+																					htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																				?>–<?=
+																					htmlSpecialChars(parse_url(
+																						$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																				?>)</span>
+																			<?php endif; ?>
 																		<?php endif; ?>
 																		<?php if ($review['inLanguage'] != 'en'): ?>
 																			<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
@@ -611,12 +617,15 @@ EOT;
 															<?php endif; ?>
 														<?php endif; ?>
 														<?php if ($season['review']['itemReviewed']): ?>
-															<span class="review-range">(<?=
-																htmlSpecialChars(parse_url($season['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
-															?>–<?=
-																htmlSpecialChars(parse_url(
-																	$season['review']['itemReviewed'][count($season['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
-															?>)</span>
+															<?php if (parse_url($season['review']['itemReviewed'][0]['@id'], PHP_URL_PATH)
+																== parse_url($season['review']['itemReviewed'][count($season['review']['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+																<span class="review-range">(<?=
+																	htmlSpecialChars(parse_url($season['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																?>–<?=
+																	htmlSpecialChars(parse_url(
+																		$season['review']['itemReviewed'][count($season['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																?>)</span>
+															<?php endif; ?>
 														<?php endif; ?>
 														<?php if ($season['review']['inLanguage'] != 'en'): ?>
 															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
@@ -686,12 +695,15 @@ EOT;
 																		<?php endif; ?>
 																	<?php endif; ?>
 																	<?php if ($review['itemReviewed']): ?>
-																		<span class="review-range">(<?=
-																			htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
-																		?>–<?=
-																			htmlSpecialChars(parse_url(
-																				$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
-																		?>)</span>
+																		<?php if (parse_url($review['itemReviewed'][0]['@id'], PHP_URL_PATH)
+																			== parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+																			<span class="review-range">(<?=
+																				htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																			?>–<?=
+																				htmlSpecialChars(parse_url(
+																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																			?>)</span>
+																		<?php endif; ?>
 																	<?php endif; ?>
 																	<?php if ($review['inLanguage'] != 'en'): ?>
 																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
