@@ -4965,21 +4965,38 @@
 					"description": {
 						"de": "Etwa im Jahr 2370 lässt Commander Riker auf der Enterprise D ein Holodeckprogramm ablaufen, das die letzte Reise der Enterprise NX-01 zeigt. Das Programm dient Riker im Rahmen einer Konsultation bei Troi zur Entscheidungsfindung, ob er Captain Picard über den von Sternenflottenmitgliedern einst vertuschten Tod von 71 Crewmitgliedern des Raumschiffs Pegasus informieren sollte. Im Jahr 2161 ist die Enterprise unter Captain Archer unterwegs zur Erde, wo er bei der Gründungszeremonie der Vereinten Föderation der Planeten als wichtiger Redner vorgesehen ist. Archer kann dem mittlerweile als kriminell geltenden Shran die Erfüllung eines Gefallens nicht verwehren, der die Rettung seiner entführten jungen Tochter beinhaltet. Ein Außenteam um Shran und Archer rettet die Tochter aus der Hand der Entführer, jedoch betrügt Shran die Entführer, indem er mit einem gefälschten Edelstein bezahlt. Nachdem das Außenteam zur Enterprise NX-01 zurückgekehrt ist, entern die einstigen Entführer das Schiff, um sich an Shran zu rächen. Tucker vereitelt den Racheakt, indem er eine Explosion auslöst, die die Enterer und ihn selbst tötet. Damit verhindert er auch, dass Archer von den Enterern getötet wird, damit dieser wie geplant an der Zeremonie teilnehmen kann. Archer hält schließlich seine Rede und Riker entscheidet sich dafür, Picard zu informieren."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Trek, Actually",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2020-01-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VJixNgapo4s"
+							}
 						},
-						"datePublished": "2020-01-15",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/VJixNgapo4s"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-08-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sM5gQqFcrzk"
+							}
 						}
-					}
+					]
 				}
 			]
 		}
