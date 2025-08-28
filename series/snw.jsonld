@@ -2626,7 +2626,13 @@
 							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
 							"name": "Henry Alonso Myers"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Vier und ein halber Vulkanier",
+						"datePublished": "2025-08-28"
+					}
 				},
 				{
 					"@type": "TVEpisode",
