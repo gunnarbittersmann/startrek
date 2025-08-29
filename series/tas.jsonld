@@ -1,14 +1,6 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/",
-		"abstract": {
-			"@id": "https://schema.org/abstract",
-			"@container": "@language"
-		},
-		"description": {
-			"@id": "https://schema.org/description",
-			"@container": "@language"
-		}
+		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
 	"name": "Star Trek: The Animated Series",
@@ -142,7 +134,9 @@
 						"name": "Samuel A. Peeples"
 					},
 					"abstract": {
-						"en": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
 					},
 					"review": {
 						"@type": "Review",
@@ -213,7 +207,9 @@
 						"name": "D. C. Fontana"
 					},
 					"abstract": {
-						"en": "Spock must travel to the past to rescue his younger self from danger."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Spock must travel to the past to rescue his younger self from danger."
 					},
 					"review": {
 						"@type": "Review",
@@ -284,7 +280,9 @@
 						"name": "Marc Daniels"
 					},
 					"abstract": {
-						"en": "The Enterprise encounters a giant cloud creature that feeds on the energy of the planets that lie in its path. They determine it is heading for Mantilles, home to a Federation colony governed by former Starfleet officer Bob Wesley (featured in the TOS episode “The Ultimate Computer”)."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The Enterprise encounters a giant cloud creature that feeds on the energy of the planets that lie in its path. They determine it is heading for Mantilles, home to a Federation colony governed by former Starfleet officer Bob Wesley (featured in the TOS episode “The Ultimate Computer”)."
 					}
 				},
 				{
@@ -341,7 +339,9 @@
 						"name": "Margaret Armen"
 					},
 					"abstract": {
-						"en": "Investigating a sector of space where starships have disappeared every 27 years, the Enterprise finds a race of beautiful women living on the planet Taurus II."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Investigating a sector of space where starships have disappeared every 27 years, the Enterprise finds a race of beautiful women living on the planet Taurus II."
 					},
 					"review": {
 						"@type": "Review",
@@ -413,7 +413,9 @@
 						"name": "David Gerrold"
 					},
 					"abstract": {
-						"en": "While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman’s Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman’s Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
 					}
 				},
 				{
@@ -470,7 +472,9 @@
 						"name": "James Schmerer"
 					},
 					"abstract": {
-						"en": "Patrolling near the Romulan Neutral Zone, the USS Enterprise finds a ship carrying Carter Winston, a Federation citizen and philanthropist who has been missing for five years."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Patrolling near the Romulan Neutral Zone, the USS Enterprise finds a ship carrying Carter Winston, a Federation citizen and philanthropist who has been missing for five years."
 					}
 				},
 				{
@@ -527,7 +531,9 @@
 						"name": "Walter Koenig"
 					},
 					"abstract": {
-						"en": "While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu’s life, but kidnap Mr. Spock."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu’s life, but kidnap Mr. Spock."
 					},
 					"review": {
 						"@type": "Review",
@@ -589,7 +595,9 @@
 						"name": "Larry Brody"
 					},
 					"abstract": {
-						"en": "While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship’s systems and takes the crew to explore his planet, Megas-Tu."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship’s systems and takes the crew to explore his planet, Megas-Tu."
 					},
 					"review": {
 						"@type": "Review",
@@ -668,7 +676,9 @@
 						}
 					],
 					"abstract": {
-						"en": "The Enterprise crew revisits the “amusement park” planet first seen in the Classic Trek episode “Shore Leave” hoping for some rest and relaxation."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The Enterprise crew revisits the “amusement park” planet first seen in the Classic Trek episode “Shore Leave” hoping for some rest and relaxation."
 					}
 				},
 				{
@@ -725,7 +735,9 @@
 						"name": "Stephen Kandel"
 					},
 					"abstract": {
-						"en": "The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd, who is accused of selling fake love crystals. Intercepting Harry on the mining colony of Motherlode, they bring him aboard the Enterprise."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd, who is accused of selling fake love crystals. Intercepting Harry on the mining colony of Motherlode, they bring him aboard the Enterprise."
 					}
 				},
 				{
@@ -782,7 +794,9 @@
 						"name": "Paul Schneider"
 					},
 					"abstract": {
-						"en": "While observing a burnt-out supernova, the USS Enterprise picks up a strange message transmitted in a two-hundred-year-old code."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While observing a burnt-out supernova, the USS Enterprise picks up a strange message transmitted in a two-hundred-year-old code."
 					}
 				},
 				{
@@ -839,7 +853,9 @@
 						"name": "Joyce Perry"
 					},
 					"abstract": {
-						"en": "While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
 					}
 				},
 				{
@@ -896,7 +912,9 @@
 						"name": "Margaret Armen"
 					},
 					"abstract": {
-						"en": "While exploring the water planet Argo, Captain Kirk and Mr. Spock are transformed into water breathers by the planet’s undersea inhabitants, the Aquans. In order to return to their normal selves, they must enlist the help of the Aquans to capture a giant sur-snake, whose venom holds the antidote."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "While exploring the water planet Argo, Captain Kirk and Mr. Spock are transformed into water breathers by the planet’s undersea inhabitants, the Aquans. In order to return to their normal selves, they must enlist the help of the Aquans to capture a giant sur-snake, whose venom holds the antidote."
 					}
 				},
 				{
@@ -953,7 +971,9 @@
 						}
 					},
 					"abstract": {
-						"en": "In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
 					}
 				},
 				{
@@ -1010,7 +1030,9 @@
 						"name": "David P. Harmon"
 					},
 					"abstract": {
-						"en": "The disappearance of a scientific team lures the USS Enterprise to investigate near Lactra VII. The starship Ariel is located there, abandoned, with its captain having transported to the planet’s surface."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The disappearance of a scientific team lures the USS Enterprise to investigate near Lactra VII. The starship Ariel is located there, abandoned, with its captain having transported to the planet’s surface."
 					}
 				},
 				{
@@ -1058,7 +1080,9 @@
 						"name": "Stephen Kandel"
 					},
 					"abstract": {
-						"en": "The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr. Spock have been summoned to learn about a stolen religious artifact, the “Soul of the Skorr”, whose theft could ignite a galactic holy war."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr. Spock have been summoned to learn about a stolen religious artifact, the “Soul of the Skorr”, whose theft could ignite a galactic holy war."
 					}
 				}
 			]
@@ -1123,7 +1147,9 @@
 						"name": "Howard Weinstein"
 					},
 					"abstract": {
-						"en": "Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
 					},
 					"review": {
 						"@type": "Review",
@@ -1194,7 +1220,9 @@
 						"name": "David Gerrold"
 					},
 					"abstract": {
-						"en": "The Enterprise crew is taken captive by a race of primitives on a newly discovered planet."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "The Enterprise crew is taken captive by a race of primitives on a newly discovered planet."
 					}
 				},
 				{
@@ -1258,7 +1286,9 @@
 						}
 					],
 					"abstract": {
-						"en": "A strange energy field causes the Enterprise computer to play practical jokes on the crew, but the humor soon turns to danger."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "A strange energy field causes the Enterprise computer to play practical jokes on the crew, but the humor soon turns to danger."
 					},
 					"review": {
 						"@type": "Review",
@@ -1322,7 +1352,9 @@
 						"name": "Dario Finelli"
 					},
 					"abstract": {
-						"en": "Doctor McCoy is arrested for allegedly causing a deadly plague which once ravaged the planet Dramia."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Doctor McCoy is arrested for allegedly causing a deadly plague which once ravaged the planet Dramia."
 					}
 				},
 				{
@@ -1386,7 +1418,9 @@
 						}
 					],
 					"abstract": {
-						"en": "A mysterious being threatens to destroy the Enterprise if the crew is unable to solve an ancient puzzle."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "A mysterious being threatens to destroy the Enterprise if the crew is unable to solve an ancient puzzle."
 					},
 					"review": {
 						"@type": "Review",
@@ -1458,7 +1492,9 @@
 						"name": "John Culver"
 					},
 					"abstract": {
-						"en": "An unusual spaceship pulls the Enterprise into a “negative universe” where time seems to flow backwards."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "An unusual spaceship pulls the Enterprise into a “negative universe” where time seems to flow backwards."
 					}
 				}
 			]

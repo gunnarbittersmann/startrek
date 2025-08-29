@@ -1,14 +1,6 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/",
-		"abstract": {
-			"@id": "https://schema.org/abstract",
-			"@container": "@language"
-		},
-		"description": {
-			"@id": "https://schema.org/description",
-			"@container": "@language"
-		}
+		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
 	"name": "Star Trek: very Short Treks",
@@ -85,7 +77,9 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/2xD7QCSjkBc"
 					},
 					"abstract": {
-						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
 					},
 					"review": {
 						"@type": "Review",
@@ -122,7 +116,9 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/txQqpGr1qQw"
 					},
 					"abstract": {
-						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
 					},
 					"review": {
 						"@type": "Review",
@@ -159,7 +155,9 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/Bij0nWXBKHI"
 					},
 					"abstract": {
-						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
 					},
 					"review": {
 						"@type": "Review",
@@ -196,7 +194,9 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/LPCGkHjsK9M"
 					},
 					"abstract": {
-						"en": "Various interconnected holodecks simulations."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "Various interconnected holodecks simulations."
 					},
 					"review": {
 						"@type": "Review",
@@ -233,7 +233,9 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3sHSDkxivvo"
 					},
 					"abstract": {
-						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
+						"@type": "TextObject",
+						"inLanguage": "en",
+						"text": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
 					},
 					"review": {
 						"@type": "Review",
