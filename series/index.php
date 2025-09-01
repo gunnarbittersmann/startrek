@@ -54,6 +54,9 @@ EOT;
 	}
 
 	function initial($name) {
+		if ($name == 'Trek-a-Day') {
+			return 'D';
+		}
 		if (str_starts_with($name, 'The ')) {
 			return $name[4];
 		}
