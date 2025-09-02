@@ -1694,6 +1694,20 @@
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3X3g6lURfpQ"
 					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TrekADay",
+						"name": "Trek-a-Day"
+					},
+					"datePublished": "2024-08-02",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/9UZyIMQtuR0"
+					}
 				}
 			],
 			"numberOfEpisodes": 20,
@@ -1759,6 +1773,24 @@
 					},
 					"description": {
 						"en": "A year after the Protostar crew’s aversion of the destruction of Starfleet, Admiral Janeway recruits Dal, Rok Tahk, Jankom Pog, Murf, and Zero to join her aboard the newest incarnation of USS Voyager. At first excited, the recruits are disillusioned because as cadets, they are not allowed to work alongside Janeway, and are snubbed by Nova Squadron, an elite Starfleet fighter pilot squad, led by a young Vulcan named Maj’el. After some unauthorized spying, the cadets discover that Janeway is mounting a secret rescue mission to find Chakotay with a cloak-enabled ship called the Infinity. Janeway swears the cadets to secrecy, but Maj’el overhears Dal discussing this and tries to stop the cadets from moving the Infinity. During the melee, the craft is accidentally activated and sent into the wormhole prematurely. Meanwhile, Gwynn’s attempts to win the trust of the present-day Solum fail as she discovers that Ascencia has manipulated the leaders into believing that Gwyn is a threat, prompting them to order her capture. Gwyn escapes and reunites with Ilthuran, the Diviner’s younger uncorrupted self."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrekADay",
+							"name": "Trek-a-Day"
+						},
+						"datePublished": "2024-07-01",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.2" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/SoKrFHoMB8o"
+						}
 					}
 				},
 				{
@@ -1906,6 +1938,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/FmLhSX-XKiM"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2024-07-09",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.5" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vMWvVJTwUv0"
+							}
 						}
 					]
 				},
@@ -2000,26 +2051,47 @@
 					"description": {
 						"en": "Zero makes contact with another Medusan who offers to give Zero a new body. Gwyn convinces Dal to help Zero and the group detours to Ovidia IV, where the message came from. There, they discover that the resident Medusans and other non-corporeal beings have been using carbon-based matter from the planet’s surroundings to create physical bodies for themselves, providing them the senses of touch, smell, and taste. Since this also will allow Zero to interact directly with other corporeal beings without harming them, Zero agrees to the transfiguration. The operation is a success and Zero takes delight in experiencing newly given senses and participates in the Feast of Senses – a celebration and rite of passage on Ovidia IV. At first happy for their friend, Dal and Gwyn learn from the Medusan leader Ion that because their bodies degenerate outside Ovidia IV, no one wants to leave and give up their senses. Dal and Gwyn discover that Zero is participating in the “Running of the Nazamon”, in which participants experience the sense of fear while feeding and fleeing from the Nazamon, a manta ray-like creature. Dal, Gwyn and the others manage to find Zero and tell him the truth. When Dal is snatched up in the Nazamon’s gaping maw, Zero bravely jumps to Dal’s rescue. Trusting the Nazamon to use its senses and their friends down below, they ride the Nazamon to safety. By the time they reach the finish line, Zero thanks Zion for the experience and ultimately decides to risk leaving Ovidia IV with the Infinity crew as they had risked their lives to reveal the truth. Ion respects Zero’s choice and wishes them luck. Meanwhile, Janeway, The Doctor and Commander Tysses discover the holographic imposters and hunt down Gwyn’s hologram, who tells them about the possible message from Chakotay. The Doctor discovers that the ship’s computer log has been altered and holographic Gwyn tells of the clicking noises from the creature that tried to erase her. Fearing the worst, Janeway sets a new course to find the real Gwyn before the creatures do."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Second Opinion with Dr. Trek",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
-							"name": "Larry Nemecek"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.8" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1EM8k0xFrME"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/pro#2.5" },
-							{ "@id": "https://bittersmann.de/startrek/series/pro#2.6" },
-							{ "@id": "https://bittersmann.de/startrek/series/pro#2.7" },
-							{ "@id": "https://bittersmann.de/startrek/series/pro#2.8" }
-						],
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/1EM8k0xFrME"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2024-07-10",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.8" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6QRgOdpeqdk"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2113,6 +2185,24 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/zAWNaA1NaOs"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2024-07-14",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.10" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pBzYChBXAxg"
+							}
 						}
 					]
 				},
@@ -2180,6 +2270,24 @@
 					},
 					"description": {
 						"en": "Chakotay reveals that the ship needs deuterium from a maelstrom on the other side of the vapor ocean before they can restore power so the crew transforms the spaceship into a makeshift sailing vessel. While crossing the ocean, Dal clashes with Chakotay, before admitting that he’s questioning his purpose after seeing his future in Wesley’s machine. Chakotay offers Dal some advice based on his own experiences and Dal later saves Chakotay’s life after he falls into the ocean. Despite some difficulties, the crew successfully collects the deuterium, restoring power to the ship’s impulse engines and warp drive, allowing the Protostar to leave Ysida. However, Voyager is 3,000 light years away, meaning that they will need to build a new proto-core before the two ships can rendezvous."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrekADay",
+							"name": "Trek-a-Day"
+						},
+						"datePublished": "2024-07-16",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.12" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xjPUcYifmyY"
+						}
 					}
 				},
 				{
@@ -2232,6 +2340,24 @@
 					},
 					"description": {
 						"en": "The Protostar successfully proto-jumps to Voyager’s position, only to arrive in an alternate reality where Janeway and Noum died trying to rescue Chakotay and then in one where the Federation was destroyed by the living construct. The crew discovers that their jump has torn the weakened fabric of the universe and splintered Voyager into a number of different realities which also has a negative effect on Gwyn. While Rok and Zero get trapped on a Voyager commanded by Tuvix, the others – aside from Maj’el who is accidentally left behind – land in the Mirror Universe where they face off with Janeway and Chakotay’s evil counterparts. With the Loom threatening her universe, mirror Janeway reluctantly allows them to use her ship to emit a pulse that closes the rift. Arriving on the correct Voyager, Chakotay is finally reunited with Janeway."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrekADay",
+							"name": "Trek-a-Day"
+						},
+						"datePublished": "2024-07-17",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.13" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.14" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/tMiJnNHb660"
+						}
 					}
 				},
 				{
@@ -2379,6 +2505,26 @@
 					},
 					"description": {
 						"en": "The Doctor treats Wesley’s injuries, but his Traveler powers are put out of commission for the time being, leaving Wesley struggling to adapt before Janeway reminds him that he was a great Starfleet officer first. Janeway, Chakotay, The Doctor and Wesley launch a daring rescue for the Protostar crew as Asencia tries to feed them to a captured Loom. The rescue is successful, liberating both the crew and the creature. Ilthuran urges his people to rise up against Asencia’s tyranny, and Solum descends into civil war. Having been reminded that boldness isn’t only for the young, Janeway agrees to help save Solum from Asencia despite intervening in the civil war violating the Prime Directive."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TrekADay",
+							"name": "Trek-a-Day"
+						},
+						"datePublished": "2024-07-22",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.15" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.16" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.17" },
+							{ "@id": "https://bittersmann.de/startrek/series/pro#2.18" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/TB_xPGZ4jSk"
+						}
 					}
 				},
 				{
@@ -2501,6 +2647,24 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/OUWScm7b6Mg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2024-07-23",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.19" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#2.20" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/F9q8e-h6CD8"
 							}
 						}
 					]
