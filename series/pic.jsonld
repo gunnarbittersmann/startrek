@@ -1771,6 +1771,20 @@
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/05Bp1usR43c"
 					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TrekADay",
+						"name": "Trek-a-Day"
+					},
+					"datePublished": "2023-04-22",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/WceylDLs3Fc"
+					}
 				}
 			],
 			"numberOfEpisodes": 10,
