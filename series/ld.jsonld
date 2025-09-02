@@ -2085,6 +2085,24 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/G4U-KpePyAE"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-09-07",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ld#4.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/ld#4.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GTBE8ZFvUHM"
+							}
 						}
 					]
 				},
@@ -2295,6 +2313,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ttTzgMpMMD0"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-09-29",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ld#4.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/ld#4.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/ld#4.5" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VQ_9wZRRcgI"
+							}
 						}
 					]
 				},
@@ -2364,6 +2401,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/dDYOh-6kHqs"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-10-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7Hz2IDwgVfE"
 							}
 						}
 					]
@@ -2435,6 +2486,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/uhyZa2N0K0w"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-10-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/m4YkL1wzLjs"
+							}
 						}
 					]
 				},
@@ -2504,6 +2569,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/MT-VwpddfqA"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-10-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/k85qIybbndk"
 							}
 						}
 					]
@@ -2575,6 +2654,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5Wm3xr0vik8"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-10-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TXZ0d6Lbg_4"
+							}
 						}
 					]
 				},
@@ -2644,6 +2737,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/mXVgzhqA88o"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2023-11-03",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gAElM6O3aNY"
 							}
 						}
 					]
