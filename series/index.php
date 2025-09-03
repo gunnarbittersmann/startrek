@@ -71,11 +71,10 @@ EOT;
 	<html
 		id="<?= htmlSpecialChars($_GET['series']) ?>"
 		lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
-		typeof="<?= htmlSpecialChars($data['@type']) ?>"
 		vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 	>
 		<?php head($data['name'] . ' episode list'); ?>
-		<body>
+		<body typeof="<?= htmlSpecialChars($data['@type']) ?>">
 			<header>
 				<a href="#main" class="skip-link">skip navigation</a>
 				<nav>

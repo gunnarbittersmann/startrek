@@ -31,7 +31,6 @@
 <html
 	id="movies"
 	lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
-	typeof="<?= htmlSpecialChars($data['@type']) ?>"
 	vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 >
 	<head>
@@ -43,7 +42,7 @@
 		<link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
 		<link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
 	</head>
-	<body>
+	<body typeof="<?= htmlSpecialChars($data['@type']) ?>">
 		<header>
 			<nav>
 				<ol>
