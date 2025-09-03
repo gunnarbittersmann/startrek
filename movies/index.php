@@ -42,7 +42,7 @@
 		<link rel="apple-touch-icon" href="<?= htmlSpecialChars(APPLE_TOUCH_ICON) ?>"/>
 		<link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
 	</head>
-	<body typeof="<?= htmlSpecialChars($data['@type']) ?>">
+	<body>
 		<header>
 			<nav>
 				<ol>
@@ -61,7 +61,7 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main">
+		<main typeof="<?= htmlSpecialChars($data['@type']) ?>" id="main">
 			<h1>Movies</h1>
 			<table>
 				<?php foreach ($data['hasPart'] as $era): ?>
