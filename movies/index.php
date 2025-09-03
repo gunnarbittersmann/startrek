@@ -34,7 +34,6 @@
 <html
 	id="movies"
 	lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
-	typeof="<?= htmlSpecialChars($data['@type']) ?>"
 	vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 >
 	<head>
@@ -65,7 +64,7 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main">
+		<main typeof="<?= htmlSpecialChars($data['@type']) ?>" id="main">
 			<h1>Movies</h1>
 			<table>
 				<?php foreach ($data['hasPart'] as $era): ?>
