@@ -74,7 +74,7 @@ EOT;
 		vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 	>
 		<?php head($data['name'] . ' episode list'); ?>
-		<body typeof="<?= htmlSpecialChars($data['@type']) ?>">
+		<body>
 			<header>
 				<a href="#main" class="skip-link">skip navigation</a>
 				<nav>
@@ -105,7 +105,7 @@ EOT;
 					</ol>
 				</nav>
 			</header>
-			<main id="main">
+			<main typeof="<?= htmlSpecialChars($data['@type']) ?>" id="main">
 				<h1 property="name"><?= htmlSpecialChars($data['name']) ?></h1>
 				<table>
 					<?php
