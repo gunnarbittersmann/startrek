@@ -2714,6 +2714,12 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 						"name": "Alan B. McElroy"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Terrarium",
+						"datePublished": "2025-09-04"
 					}
 				},
 				{
