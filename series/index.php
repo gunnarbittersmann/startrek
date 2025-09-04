@@ -71,7 +71,6 @@ EOT;
 	<html
 		id="<?= htmlSpecialChars($_GET['series']) ?>"
 		lang="<?= htmlSpecialChars($data['inLanguage']) ?>"
-		typeof="<?= htmlSpecialChars($data['@type']) ?>"
 		vocab="<?= htmlSpecialChars($data['@context']['@vocab'] ?? $data['@context']) ?>"
 	>
 		<?php head($data['name'] . ' episode list'); ?>
@@ -106,7 +105,7 @@ EOT;
 					</ol>
 				</nav>
 			</header>
-			<main id="main">
+			<main typeof="<?= htmlSpecialChars($data['@type']) ?>" id="main">
 				<h1 property="name"><?= htmlSpecialChars($data['name']) ?></h1>
 				<table>
 					<?php
