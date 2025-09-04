@@ -2720,7 +2720,38 @@
 						"inLanguage": "de",
 						"name": "Terrarium",
 						"datePublished": "2025-09-04"
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-04",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-zW0JQbJdTI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-09-04",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OZRzmt_wU7o"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
