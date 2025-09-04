@@ -915,6 +915,21 @@
 					"abstract": {
 						"en": "O’Brien is recruited to save a Bajoran village from destruction by a mysterious cloud creature.",
 						"de": "O’Brien und Bashir werden in einem Dorf auf Bajor von der Bevölkerung auserwählt um gegen ein mächtiges Energiewesen, das Dal’Rok, zu kämpfen. Derweilen laufen auf DS9 Verhandlungen zwischen rivalisierenden bajoranischen Völkergruppen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Grab Bag II",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-09-04",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/z_bSoskP3ZI"
+						}
 					}
 				},
 				{
