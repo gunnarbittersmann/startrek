@@ -2970,7 +2970,62 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 						"name": "Alan B. McElroy"
-					}
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Terrarium",
+						"datePublished": "2025-09-04"
+					},
+					"description": {
+						"en": "While investigating an area of gravimetric distortions, Ortegas is suddenly pulled through a wormhole and crashes on a toxic moon in orbit of a gas giant where a strange light observes her from a distance. Ortegas quickly discovers that a female Gorn pilot is also stranded, but the Gorn saves and protects Ortegas from the moon’s dangers. Initially wary due to her traumatic experiences with the Gorn, Ortegas befriends the pilot and discovers that they are not so dissimilar. The two work together to find a way off of the moon. At the same time, the Enterprise must soon rendezvous with the Constellation, so Uhura lies about some data to get Pike to take the ship through the wormhole in search of Ortegas. Ortegas and the Gorn ignite the moon’s atmosphere, signaling the Enterprise, but La’An kills the Gorn, mistaking her for an enemy. A Metron appears to Ortegas, explaining that they had brought the two together to see if peace between humans and Gorn was possible. Because of La’An’s violent reaction, the Metron erases Ortegas’ memories of their meeting, planning to study the situation further in the future. Back on the ship, Ortegas mourns her new friend."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-04",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-zW0JQbJdTI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/9hVEP2vaCFI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-09-04",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/OZRzmt_wU7o"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
