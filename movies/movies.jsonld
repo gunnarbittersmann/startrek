@@ -1621,6 +1621,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekADay",
+								"name": "Trek-a-Day"
+							},
+							"datePublished": "2025-01-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1dv4Owq5aLg"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Ersteindruck",
 							"creator": {
