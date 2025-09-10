@@ -253,10 +253,15 @@
 												$plotValue = $movie[$plotType]['@value'];
 												$plotLang = $movie[$plotType]['@language'];
 											}
-											else {
-												$plot = $movie[$plotType][0];
-												$plotValue = $plot['@value'];
-												$plotLang = $plot['@language'];
+											elseif (is_array($movie[$plotType])) {
+												$plotArray = array_filter($movie[$plotType], function ($entry) {
+													return $entry['@language'] == PREFERRED_LANG;
+												});
+												if (!count($plotArray)) {
+													$plotArray = $movie[$plotType];
+												}
+												$plotValue = $plotArray[0]['@value'];
+												$plotLang = $plotArray[0]['@language'];
 											}
 										}
 									?>
