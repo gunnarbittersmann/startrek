@@ -249,7 +249,15 @@
 										$hasPlot = ($movie['description'] || $movie['abstract']);
 										if ($hasPlot) {
 											$plotType = ($movie['description']) ? 'description' : 'abstract';
-											$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+											if ($movie[$plotType]['@value']) {
+												$plotValue = $movie[$plotType]['@value'];
+												$plotLang = $movie[$plotType]['@language'];
+											}
+											else {
+												$plot = $movie[$plotType][0];
+												$plotValue = $plot['@value'];
+												$plotLang = $plot['@language'];
+											}
 										}
 									?>
 									<td>
@@ -267,7 +275,7 @@
 											</summary>
 											<?php if ($hasPlot): ?>
 												<p property="<?= htmlSpecialChars($plotType) ?>">
-													<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
+													<?= htmlSpecialChars($plotValue) ?>
 												</p>
 											<?php endif; ?>
 											<?php if ($movie['subjectOf']): ?>
