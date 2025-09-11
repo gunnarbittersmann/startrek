@@ -2808,7 +2808,13 @@
 							"@id": "https://bittersmann.de/startrek/people#DavyPerez",
 							"name": "Davy Perez"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Neues Leben und neue Zivilisationen",
+						"datePublished": "2025-09-11"
+					}
 				}
 			]
 		}
