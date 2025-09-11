@@ -1,0 +1,90 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "CreativeWorkSeries",
+	"name": "Star Trek: Khan",
+	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
+	"creator": {
+		"@type": "Person",
+		"@id": "https://bittersmann.de/startrek/people#CasperKelly",
+		"name": "Casper Kelly"
+	},
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks"
+		}
+	],
+	"episode": [
+		{
+			"@type": "CreativeWork",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#1",
+			"episodeNumber": "1",
+			"name": "Paradise",
+			"datePublished": "2025-09-08",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/UDOn6BBis_8"
+			},
+			"abstract": {
+				"@language": "en",
+				"@value": "Marooned by Captain James T. Kirk on Ceti Alpha V, Khan Noonien Singh and his followers begin building a new civilization, but this strange new world harbors a number of secrets."
+			},
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Organization",
+					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+					"name": "TrekCulture"
+				},
+				"datePublished": "2025-09-10",
+				"video": {
+					"@type": "AudioObject",
+					"embedUrl": "https://shows.acast.com/d5eda24e-db83-4d5f-a814-c968821c56bf/episodes/68c1915205de5daa22916262?"
+				}
+			}
+		}
+	]
+}
