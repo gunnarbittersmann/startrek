@@ -9114,16 +9114,6 @@
 					"description": {
 						"@language": "de",
 						"@value": "Von der Sternenflottenadmiralität, die wegen verstärkter cardassianischer militärischer Aktivität einen baldigen Krieg der Cardassianer gegen die Föderation befürchtet, werden Picard, Worf und Crusher ihrer auf der Enterprise wahrgenommenen Funktionen enthoben und auf eine geheime Mission geschickt. Das Kommando über die Enterprise erhält der mit den Cardassianern erfahrene Captain Edward Jellico, der alsbald – sehr zur Verunsicherung der Crew – schiffsweit zahlreiche organisatorisch-technische Änderungen durchsetzt und dabei – im Gegensatz zu Picards Stil – mit militärischer Strenge agiert. Jellico begibt sich mit der Enterprise zu einem Treffen mit dem cardassianischen Gul Levec, der bekräftigt, dass sein Volk die Gebiete am Rande des Föderationsgebietes beansprucht und dort nur militärische Übungen durchführen lässt. Zudem offenbart er, dass die Cardassianer von einer Geheimoperation der Föderation im Grenzgebiet wissen. In deren Rahmen haben sich Picard, Worf und Crusher indes auf den grenznahen Planeten Celtris Drei begeben, um dort die Existenz einer vom Sternenflottengeheimdienst vermuteten metagenetischen Waffe zu überprüfen, die ganze Ökosysteme vernichten kann. Bei ihrer Ankunft in dem vermuteten Standort der Waffe, einem unterirdischen Raum, stellt sich dieser aber als Falle heraus, als sie von Cardassianern überfallen und dabei getrennt werden. Während Worf und Crusher fliehen, droht Picard ein Verhör und der Tod. Die Cardassianer lassen die Enterprise indes vorgeblich glauben, dass die Geheimoperation erfolgreich gewesen sei."
-					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
-						},
-						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 					}
 				},
 				{
@@ -9147,7 +9137,7 @@
 								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
 								"name": "Wikipedia"
 							},
-							"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)"
+							"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 						},
 						{
 							"@type": "Webpage",
@@ -9177,16 +9167,6 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein cardassianischer Kommandant möchte von Picard die Verteidigungspläne für den zum Föderationsgebiet gehörigen, aber von den Cardassianern beanspruchten Planeten Minos Corva erfahren und foltert ihn dazu. Picard weigert sich bis zuletzt, dem Kommandanten die Anzahl der gesehenen Lichter mit fünf zu benennen, obwohl es nur vier sind, und so freigelassen zu werden. Zudem lässt er sich durch die cardassianische Lüge, statt ihm würde sonst Crusher verhört, zur Teilnahme am weiteren Verhör bewegen. Crusher und Worf jedoch sind mittlerweile über einen Treffpunkt längst zur Enterprise zurückgekehrt. Jellico möchte die geheime Kommandoaktion gegenüber Levec nicht bestätigen, sodass Picard durch die Cardassianer nicht als vor Folter zu schützender Kriegsgefangener, sondern als Terrorist behandelt werden kann. Da Riker gegen die Entscheidung protestiert, wird er von Jellico suspendiert. Nachdem die Führungsoffiziere ermittelt haben, dass die Cardassianer wahrscheinlich eine Invasion auf Minos Corva planen, lässt Jellico die Enterprise in die Nähe des Planeten fliegen und – auch mit Rikers Hilfe – den Weltraumnebel verminen, in dem sich die cardassianischen Schiffe befinden. Mit der Drohung, die fernzündbaren Minen an cardassianischen Schiffen zur Explosion zu bringen, lässt sich Levec dazu bewegen, seine Flotte aus dem Nebel wegzubeordern sowie Picard freizulassen. Nachdem dieser auf die Enterprise zurückgekehrt ist, überträgt ihm Jellico wieder das Kommando."
-					},
-					"subjectOf": {
-						"@type": "Webpage",
-						"inLanguage": "en",
-						"publisher": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-							"name": "Wikipedia"
-						},
-						"url": "https://en.wikipedia.org/wiki/Chain_of_Command_(Star_Trek:_The_Next_Generation)#Part_II"
 					},
 					"review": {
 						"@type": "Review",
@@ -11636,28 +11616,6 @@
 						{
 							"@language": "de",
 							"@value": "Picard bewegt sich vor- und rückwärts durch drei verschiedene Zeitperioden und erkennt bald in einer in allen Zeitperioden auftretenden Raumanomalie eine Erklärung dafür, weshalb er die Anomalie zu bekämpfen versucht. Währenddessen kommt er abermals in Kontakt mit Q, der ihn mit der Bewältigung dieser Aufgabe einer Prüfung zur Daseinsberechtigung der Menschheit unterzieht. Nachdem Picard erkannt hat, dass sein Verhalten in der Zukunft ursächlich für die sich rückwärts durch die Zeit bewegende und sich dabei vergrößernde Anomalie ist, erklärt Q den Test für bestanden."
-						}
-					],
-					"subjectOf": [
-						{
-							"@type": "Webpage",
-							"inLanguage": "en",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://en.wikipedia.org/wiki/All_Good_Things..._(Star_Trek:_The_Next_Generation)"
-						},
-						{
-							"@type": "Webpage",
-							"inLanguage": "de",
-							"publisher": {
-								"@type": "Organization",
-								"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-								"name": "Wikipedia"
-							},
-							"url": "https://de.wikipedia.org/wiki/Gestern,_heute,_morgen"
 						}
 					],
 					"review": {
