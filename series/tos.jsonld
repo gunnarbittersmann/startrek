@@ -20,18 +20,6 @@
 		"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
 		"name": "Gene Roddenberry"
 	},
-	"maintainer": [
-		{
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
-			"name": "Gene Roddenberry"
-		},
-		{
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#FredFreiberger",
-			"name": "Fred Freiberger"
-		}
-	],
 	"subjectOf": [
 		{
 			"@type": "Webpage",
@@ -59,6 +47,11 @@
 		{
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/tos#0",
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+				"name": "Gene Roddenberry"
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -191,6 +184,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/tos#1",
 			"seasonNumber": 1,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#GeneCoon",
+				"name": "Gene Coon"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -1930,6 +1928,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/tos#2",
 			"seasonNumber": 2,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#John MeredythLucas",
+				"name": "John Meredyth Lucas"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",
@@ -3418,6 +3421,11 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/tos#3",
 			"seasonNumber": 3,
+			"maintainer": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredFreiberger",
+				"name": "Fred Freiberger"
+			},
 			"subjectOf": [
 				{
 					"@type": "Webpage",

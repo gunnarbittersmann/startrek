@@ -3104,7 +3104,56 @@
 						"inLanguage": "de",
 						"name": "Neues Leben und neue Zivilisationen",
 						"datePublished": "2025-09-11"
-					}
+					},
+					"description": {
+						"en": "As Batel prepares to leave the Enterprise to take up her new role, the crew discover that the Vezda has escaped from the transporter pattern buffer in a reconstruction of Gamble’s body. Korby finds Gamble at a doorway to the Vezda prison and the Enterprise goes to rescue him. This is a trap to lure out M’Benga, as both he and Gamble need to be together to open the doorway. The crew learn that the unique combination of DNA inside Batel matches the biology of the Beholder statue that guards the prison. To open the doorway without M’Benga and Gamble, the crew devise a plan to simultaneously fire on it from the Enterprise and the Farragut; Spock performs a mind meld with Kirk so the two can perfectly sync their actions. Pike and Batel enter the prison and confront Gamble, who destroys the Beholder and frees the other Vezda. Using her emerging power, Batel creates an illusion in which she and Pike live a full and happy life together. She then traps all the Vezda in the prison and becomes the Beholder. Pike struggles to move on without Batel as the Enterprise sets out to explore uncharted planets."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/plTjXb_DO6g"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fOcv7oNqxx8"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2025-09-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/iEShCM5pfWc"
+							}
+						}
+					]
 				}
 			]
 		}
