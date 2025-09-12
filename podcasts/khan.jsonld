@@ -71,20 +71,37 @@
 				"@language": "en",
 				"@value": "Marooned by Captain James T. Kirk on Ceti Alpha V, Khan Noonien Singh and his followers begin building a new civilization, but this strange new world harbors a number of secrets."
 			},
-			"review": {
-				"@type": "Review",
-				"inLanguage": "en",
-				"creator": {
-					"@type": "Organization",
-					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-					"name": "TrekCulture"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2025-09-10",
+					"video": {
+						"@type": "AudioObject",
+						"embedUrl": "https://shows.acast.com/d5eda24e-db83-4d5f-a814-c968821c56bf/episodes/68c1915205de5daa22916262?"
+					}
 				},
-				"datePublished": "2025-09-10",
-				"video": {
-					"@type": "AudioObject",
-					"embedUrl": "https://shows.acast.com/d5eda24e-db83-4d5f-a814-c968821c56bf/episodes/68c1915205de5daa22916262?"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Second Opinion with Dr. Trek",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+						"name": "Larry Nemecek"
+					},
+					"datePublished": "2025-09-07",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/tkYv182puek"
+					}
 				}
-			}
+			]
 		}
 	]
 }
