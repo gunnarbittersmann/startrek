@@ -2873,7 +2873,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "On a shuttle mission, Ortegas is pulled through a wormhole and crashes on a barren moon orbiting a gas giant. She finds a Gorn pilot is also stranded there. Despite her mistrust of the Gorn due to her past traumatic experiences, the Gorn protects Ortegas from the moon’s dangers and feeds her, and Ortegas eventually befriends her and discovers that they are not so dissimilar. Meanwhile, the Enterprise has an urgent assignment that limits the time they can spend searching for Ortegas. Uhura proposes that Pike take the Enterprise through the wormhole to find her, and exaggerates the mission’s probability of success to convince him. Ortegas and the Gorn ignite the moon’s atmosphere to signal the Enterprise. Upon beaming down to rescue Ortegas, La’An kills the Gorn, mistaking her for an enemy. An enigmatic alien calling itself a “Metron” appears to Ortegas, explaining that the Metrons brought her and the Gorn together to see if peace between humans and Gorn was possible. Because of La’An’s violent reaction, the Metron erases Ortegas’ memories of their conversation, planning to study the situation further in the future. Back on the ship, Ortegas mourns her new friend."
+						"@value": "While flying a shuttle for a mission, Ortegas is pulled through a wormhole and crashes on a barren moon orbiting a gas giant. She is protected from the moon’s dangers by a stranded Gorn pilot and, despite Ortegas’s initial mistrust, the pair become friends as they survive together and bond over their similarities. The Enterprise has an urgent assignment to deliver vaccines to a colony, limiting the time they can spend searching for Ortegas. Uhura proposes they take the Enterprise partially into the wormhole to find her, and exaggerates the mission’s probability of success to convince Pike. Ortegas and the Gorn ignite the moon’s atmosphere to signal the Enterprise. Upon transporting down to rescue Ortegas, La’An mistakes the Gorn for an enemy and kills her. An enigmatic being called a Metron appears to Ortegas and explains that they brought her and the Gorn together to see if peace between humans and Gorn is possible. Because of La’An’s violent reaction, they believe further study is required. The Metron erases Ortegas’s memories of their conversation, but she remembers and mourns for her new friend."
 					},
 					"review": [
 						{
@@ -2968,7 +2968,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "As Batel prepares to leave the Enterprise to take up her new role, the crew discover that the Vezda has escaped from the transporter pattern buffer in a reconstruction of Gamble’s body. Korby finds Gamble at a doorway to the Vezda prison and the Enterprise goes to rescue him. This is a trap to lure out M’Benga, as both he and Gamble need to be together to open the doorway. The crew learn that the unique combination of DNA inside Batel matches the biology of the Beholder statue that guards the prison. To open the doorway without M’Benga and Gamble, the crew devise a plan to simultaneously fire on it from the Enterprise and the Farragut; Spock performs a mind meld with Kirk so the two can perfectly sync their actions. Pike and Batel enter the prison and confront Gamble, who destroys the Beholder and frees the other Vezda. Using her emerging power, Batel creates an illusion in which she and Pike live a full and happy life together. She then traps all the Vezda in the prison and becomes the Beholder. Pike struggles to move on without Batel as the Enterprise sets out to explore uncharted planets."
+						"@value": "As Batel prepares to leave the Enterprise to take up her new role, the crew discover that the Vezda has escaped from the transporter pattern buffer in a reconstruction of Gamble’s body. Korby finds Gamble at a doorway to the Vezda prison and the Enterprise goes to rescue him. This is a trap to lure out M’Benga, as he and Gamble need to be together to open the doorway. The crew learn that the unique combination of DNA inside Batel matches the biology of the Beholder statue that guards the prison. To open the doorway without M’Benga and Gamble, the crew devise a plan to simultaneously fire on it from the Enterprise and the Farragut; Spock performs a mind meld with James Kirk so the two can perfectly sync their actions. Pike and Batel enter the prison and confront Gamble, who destroys the Beholder and frees the other Vezda. Using her emerging power, Batel creates an illusion in which she and Pike live a full and happy life together. She then traps all the Vezda in the prison and becomes the Beholder. Pike struggles to move on without Batel as the Enterprise sets out to explore uncharted planets."
 					},
 					"review": [
 						{
@@ -2984,6 +2984,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/plTjXb_DO6g"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fOcv7oNqxx8"
 							}
 						},
 						{
