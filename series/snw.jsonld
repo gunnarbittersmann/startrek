@@ -1914,6 +1914,21 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_3"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Trek, Actually",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#SteveShives",
+					"name": "Steve Shives"
+				},
+				"datePublished": "2025-09-17",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/Lw8J-BCHWbU"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
