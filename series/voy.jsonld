@@ -5928,6 +5928,21 @@
 					],
 					"abstract": {
 						"en": "Janeway reminisces about one of her ancestors, Shannon O’Donnell from Indiana."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Grab Bag II",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-09-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/X3GCG-gGo5I"
+						}
 					}
 				},
 				{
