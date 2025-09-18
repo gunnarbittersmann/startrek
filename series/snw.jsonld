@@ -1914,21 +1914,38 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_3"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "en",
-				"name": "Trek, Actually",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#SteveShives",
-					"name": "Steve Shives"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "WTH Just Happened?",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2025-09-18",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/8aR-nTDFeNk"
+					}
 				},
-				"datePublished": "2025-09-17",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/Lw8J-BCHWbU"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2025-09-17",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/Lw8J-BCHWbU"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
