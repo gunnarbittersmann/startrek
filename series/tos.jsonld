@@ -275,7 +275,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise-Crew ist bei dem Planeten, auf dem das Ehepaar Crater lebt. Nachdem mehrere Crew-Mitglieder an Salzmangel gestorben sind, stellt sich heraus, dass Frau Crater durch ein gestaltwandelndes Wesen ersetzt wurde."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"datePublished": "2025-09-25",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/PLjmMq0Aud8"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -2194,7 +2209,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise wird von einer fremden Sonde angegriffen und heftig durchgeschüttelt. Die Brückencrew schafft es, mit ihr zu kommunizieren und sie an Bord zu beamen. Sie ist etwa einen Meter groß, kann sich schwebend im Schiff fortbewegen und stellt sich als Nomad vor. Nomad nennt es als seine Mission, biotische Fehlentwicklungen zu vernichten, und hat deshalb schon Millionen Lebewesen eines Planetensystems vernichtet. Offensichtlich ist Nomad Kirk nur deshalb wohlgesinnt, weil Nomad ihn wegen einer Beschädigung mit seinem Schöpfer verwechselt, den er deshalb – ebenso wie sich selbst – für vollkommen hält. Spock führt eine Gedankenverschmelzung nach Art der Vulkanier mit Nomad durch und erfährt dadurch, dass die Sonde Nomad, die einst von der Erde ausgesandt wurde, durch eine Kollision mit einer anderen Sonde im All beschädigt wurde und dadurch ihre Programmierung verändert wurde, sodass sie nun auf Zerstörung unvollkommenen Lebens zielt. Kirk teilt Nomad mit, dass er, Kirk, nicht sein Schöpfer sei. Nomad akzeptiert Kirk nun nicht mehr als Schöpfer und versucht zu seinem Ursprungsort Erde zurückzukehren und dort seine Mission fortzusetzen. Kirk sagt zu Nomad, dass dieser bezüglich seines Schöpfers im Irrtum und deshalb unvollkommen sei. Nomads Schaltkreise drohen dadurch überlastet zu werden, sodass die Crew ihn kurz vor seiner Explosion ins All beamt."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | A.I. Gone Awry",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-09-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/HS3jhfLQ0rE"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
