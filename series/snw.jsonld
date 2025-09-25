@@ -2026,6 +2026,53 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_3"
 				}
 			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "WTH Just Happened?",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2025-09-18",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/8aR-nTDFeNk"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Ups & Downs",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2025-09-20",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/h926Kq1Al2g"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2025-09-17",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/Lw8J-BCHWbU"
+					}
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -2065,7 +2112,7 @@
 					"description": [
 						{
 							"@language": "en",
-							"@value": "Captain Christopher Pike and the crew of the USS Enterprise plant a tracker on the Gorn ship that has captured security chief La’An Noonien-Singh, Dr. Joseph M’Benga, pilot Erica Ortegas, xenoanthropologist Sam Kirk, and many human colonists. Despite orders from Starfleet to stay in Federation space, Admiral Robert April allows the Enterprise to follow the tracker. Using engineer Montgomery “Scotty” Scott’s Gorn transponder device to go undetected, they find an uncharted binary star system which hides the Gorn homeworld and a large invasion force. Due to the Gorn’s sensitivity to stellar activity, they trigger a long hibernation cycle by creating an artificial coronal mass ejection. La’An, M’Benga, Ortegas, and Sam escape with transporter codes for the colonists, enabling the Enterprise to rescue them. Ortegas is severely wounded during the escape, and the Enterprise suffers extensive damage. Meanwhile, Vulcan science officer Spock and nurse Christine Chapel neutralize the Gorn eggs inside Pike’s girlfriend, Captain Marie Batel, with the help of first officer Una Chin-Riley / Number One’s augmented Illyrian blood."
+							"@value": "Captain Christopher Pike and the crew of the USS Enterprise plant a tracker on a Gorn ship that captured security chief La’An Noonien-Singh, Dr. Joseph M’Benga, pilot Erica Ortegas, xenoanthropologist Sam Kirk, and many human colonists. Despite orders from Starfleet to stay in Federation space, Admiral Robert April allows the Enterprise to follow the tracker. Using engineer Montgomery “Scotty” Scott’s Gorn transponder device to go undetected, they find an uncharted binary star system which hides the Gorn homeworld and a large invasion force. Using the Gorn’s sensitivity to stellar activity, they trigger a long hibernation cycle by creating an artificial coronal mass ejection. La’An, M’Benga, Ortegas, and Sam escape with transporter codes for the colonists, enabling the Enterprise to rescue them. Ortegas is wounded during the escape, and the Enterprise suffers extensive damage. Meanwhile, Vulcan science officer Spock and nurse Christine Chapel neutralize the Gorn eggs inside Pike’s girlfriend, Captain Marie Batel, with the help of first officer Una Chin-Riley / Number One’s augmented Illyrian blood."
 						},
 						{
 							"@language": "de",
@@ -2137,7 +2184,7 @@
 					"description": [
 						{
 							"@language": "en",
-							"@value": "Three months after the Gorn conflict, the Enterprise has been repaired at Starbase One and the crew prepare to celebrate the Federation’s 100th anniversary. Following her research fellowship with archaeologist Dr. Roger Korby, Chapel rejoins the crew and brings Korby as her new romantic partner, disappointing Spock who had hoped to rekindle his relationship with her. Spock is given a drink by an unfamiliar Vulcan bartender, and the next day he wakes up in a different reality where the crew are preparing to celebrate his and Chapel’s wedding. The same unfamiliar being now appears as an Andorian wedding planner. Korby is aware of the change and confronts Spock, who regains his memories after punching Korby. At the wedding ceremony, Chapel regains her memories after Spock recites a poem that Korby once read to her. They confront the wedding planner, who is revealed to be a child-like extra-dimensional being and is reprimanded by his father. The beings leave and reality returns to normal. The crew celebrate except for Ortegas, who is emotionally scarred from her experience with the Gorn."
+							"@value": "Three months after the Gorn conflict, the Enterprise has been repaired at Starbase One and the crew prepare to celebrate the Federation’s 100th anniversary. Following her research fellowship with archaeologist Dr. Roger Korby, Chapel rejoins the crew and brings Korby as her new romantic partner, disappointing Spock who hoped to rekindle his relationship with her. Spock is given a drink by an unfamiliar Vulcan bartender, and the next day he wakes up in a different reality where the crew are preparing to celebrate his and Chapel’s wedding. The same unfamiliar being now appears as an Andorian wedding planner. Korby is aware of the change and confronts Spock, who regains his memories after punching Korby. At the wedding ceremony, Chapel regains her memories after Spock recites a poem that Korby once read to her. They confront the wedding planner, who is revealed to be a child-like extradimensional being and is reprimanded by his father. The beings leave and reality returns to normal. The crew celebrate except for Ortegas, who is emotionally scarred from her experience with the Gorn."
 						},
 						{
 							"@language": "de",
@@ -3013,6 +3060,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/iEShCM5pfWc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2025-09-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/j0OSjFxcDCc"
 							}
 						}
 					]
