@@ -125,6 +125,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-03",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pbR779ClQ3E"
@@ -230,6 +231,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-04",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/spyXP68Z030"
@@ -323,6 +325,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-07",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/1rzGdGLFT1c"
@@ -445,6 +448,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-08",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/tdvsprPILnY"
@@ -570,6 +574,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-09",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/kjA5xIVamJo"
@@ -702,6 +707,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-10",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/q5q5uo_-fiI"
@@ -840,6 +846,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-11",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pvr6Y49PxOs"
@@ -957,6 +964,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-14",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/DhYtymDSuVU"
@@ -1062,6 +1070,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-15",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/rnPP7xkiKoo"
@@ -1076,6 +1085,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2019-07-17",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Km6PD3ueZao"
@@ -1186,6 +1196,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-16",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/oeavqQTIsSE"
@@ -1286,11 +1297,13 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retrospective",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
+							"datePublished": "2020-07-31",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/qONDmXoCO3A"
@@ -1299,11 +1312,13 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retrospective",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
+							"datePublished": "2020-08-07",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BUOCYVcDsK4"
@@ -1318,6 +1333,7 @@
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-17",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/3TfdgBPkjjs"
@@ -1402,12 +1418,28 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retrospective",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_VABWVSAob0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#SteveShives",
 								"name": "Steve Shives"
 							},
+							"datePublished": "2013-05-18",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/uIXPoKpiLwE"
@@ -1482,6 +1514,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ICxQSCEVwRw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retrospective",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-10-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WRk-v6vpKdc"
 							}
 						},
 						{
