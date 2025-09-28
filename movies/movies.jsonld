@@ -1283,11 +1283,13 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retrospective",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
+							"datePublished": "2020-07-31",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/qONDmXoCO3A"
@@ -1296,11 +1298,13 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retrospective",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
+							"datePublished": "2020-08-07",
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BUOCYVcDsK4"
