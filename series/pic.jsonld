@@ -1229,10 +1229,15 @@
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
-							"datePublished": "2022-03-17",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/pic#2.3" }
+							],
+							"datePublished": "2022-03-03",
 							"video": {
 								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/KeGcAg8ZJ_U"
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SC_aAd177q8"
 							}
 						},
 						{
@@ -1243,15 +1248,10 @@
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
 								"name": "Jessie Gender"
 							},
-							"itemReviewed": [
-								{ "@id": "https://bittersmann.de/startrek/series/pic#2.1" },
-								{ "@id": "https://bittersmann.de/startrek/series/pic#2.2" },
-								{ "@id": "https://bittersmann.de/startrek/series/pic#2.3" }
-							],
-							"datePublished": "2022-03-03",
+							"datePublished": "2022-03-17",
 							"video": {
 								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/SC_aAd177q8"
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KeGcAg8ZJ_U"
 							}
 						}
 					]
