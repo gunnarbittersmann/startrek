@@ -344,7 +344,20 @@ EOT;
 												$hasPlot = ($episode['description'] || $episode['abstract']);
 												if ($hasPlot) {
 													$plotType = ($episode['description']) ? 'description' : 'abstract';
-													$plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
+													if ($episode[$plotType]['@value']) {
+														$plotValue = $episode[$plotType]['@value'];
+														$plotLang = $episode[$plotType]['@language'];
+													}
+													elseif (is_array($episode[$plotType])) {
+														$plotArray = array_filter($episode[$plotType], function ($entry) {
+															return $entry['@language'] == PREFERRED_LANG;
+														});
+														if (!count($plotArray)) {
+															$plotArray = $episode[$plotType];
+														}
+														$plotValue = $plotArray[0]['@value'];
+														$plotLang = $plotArray[0]['@language'];
+													}
 												}
 											?>
 											<td>
@@ -364,7 +377,7 @@ EOT;
 													</summary>
 													<?php if ($hasPlot): ?>
 														<p property="<?= htmlSpecialChars($plotType) ?>">
-															<?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
+															<?= htmlSpecialChars($plotValue) ?>
 														</p>
 													<?php endif; ?>
 													<?php if ($episode['subjectOf']): ?>

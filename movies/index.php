@@ -252,7 +252,20 @@
 										$hasPlot = ($movie['description'] || $movie['abstract']);
 										if ($hasPlot) {
 											$plotType = ($movie['description']) ? 'description' : 'abstract';
-											$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+											if ($movie[$plotType]['@value']) {
+												$plotValue = $movie[$plotType]['@value'];
+												$plotLang = $movie[$plotType]['@language'];
+											}
+											elseif (is_array($movie[$plotType])) {
+												$plotArray = array_filter($movie[$plotType], function ($entry) {
+													return $entry['@language'] == PREFERRED_LANG;
+												});
+												if (!count($plotArray)) {
+													$plotArray = $movie[$plotType];
+												}
+												$plotValue = $plotArray[0]['@value'];
+												$plotLang = $plotArray[0]['@language'];
+											}
 										}
 									?>
 									<td>
@@ -270,7 +283,7 @@
 											</summary>
 											<?php if ($hasPlot): ?>
 												<p property="<?= htmlSpecialChars($plotType) ?>">
-													<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
+													<?= htmlSpecialChars($plotValue) ?>
 												</p>
 											<?php endif; ?>
 											<?php if ($movie['subjectOf']): ?>
