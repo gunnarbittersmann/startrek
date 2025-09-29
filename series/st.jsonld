@@ -1,14 +1,6 @@
 {
 	"@context": {
-		"@vocab": "https://schema.org/",
-		"abstract": {
-			"@id": "https://schema.org/abstract",
-			"@container": "@language"
-		},
-		"description": {
-			"@id": "https://schema.org/description",
-			"@container": "@language"
-		}
+		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
 	"name": "Star Trek: Short Treks",
@@ -133,10 +125,12 @@
 						}
 					],
 					"abstract": {
-						"de": "Sylvia Tilly entdeckt eine blinde Passagierin und findet heraus, dass diese eine flüchtige Königin ist."
+						"@language": "de",
+						"@value": "Sylvia Tilly entdeckt eine blinde Passagierin und findet heraus, dass diese eine flüchtige Königin ist."
 					},
 					"description": {
-						"en": "Following a discussion with her condescending mother, Sylvia Tilly encounters a young Xahean stowaway, Me Hani Ika Hali Ka Po. Tilly, who is accustomed to taking orders, decides to make her own decisions to help Po return home in time for her coronation."
+						"@language": "en",
+						"@value": "Following a discussion with her condescending mother, Sylvia Tilly encounters a young Xahean stowaway, Me Hani Ika Hali Ka Po. Tilly, who is accustomed to taking orders, decides to make her own decisions to help Po return home in time for her coronation."
 					}
 				},
 				{
@@ -174,10 +168,16 @@
 							"name": "Michael Chabon"
 						}
 					],
-					"description": {
-						"en": "The USS Discovery has held position in space for a thousand years, and its computer system Zora has become sentient. She retrieves a passing escape pod carrying a man named Craft. Zora keeps Craft aboard the ship and begins to fall in love with him, but eventually lets him take Discovery’s last shuttle to return to his family on Alcor IV.",
-						"de": "Der autonom weiterentwickelte Schiffscomputer der Discovery rettet den Soldaten Craft 1000 Jahre nach der Serie aus einer Rettungskapsel. Zora, die künstliche Intelligenz der Discovery, beginnt sich in Craft zu verlieben, lässt ihn am Ende jedoch zu seinem Heimatplaneten aufbrechen."
-					}
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The USS Discovery has held position in space for a thousand years, and its computer system Zora has become sentient. She retrieves a passing escape pod carrying a man named Craft. Zora keeps Craft aboard the ship and begins to fall in love with him, but eventually lets him take Discovery’s last shuttle to return to his family on Alcor IV."
+						},
+						{
+							"@language": "de",
+							"@value": "Der autonom weiterentwickelte Schiffscomputer der Discovery rettet den Soldaten Craft 1000 Jahre nach der Serie aus einer Rettungskapsel. Zora, die künstliche Intelligenz der Discovery, beginnt sich in Craft zu verlieben, lässt ihn am Ende jedoch zu seinem Heimatplaneten aufbrechen."
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -210,10 +210,12 @@
 						}
 					],
 					"abstract": {
-						"de": "Saru findet auf seiner Heimatwelt ein defektes Kommunikationsgerät und kann es reparieren. So kommt er als erster Kelpianer zur Föderation."
+						"@language": "de",
+						"@value": "Saru findet auf seiner Heimatwelt ein defektes Kommunikationsgerät und kann es reparieren. So kommt er als erster Kelpianer zur Föderation."
 					},
 					"description": {
-						"en": "On the planet Kaminar, Saru wants to learn about life outside the pre-warp society of his village, where his people are harvested as food by the predatory Ba’ul. Saru is able to send a distress signal into space that is answered by Lieutenant Philippa Georgiou, who takes Saru to join Starfleet."
+						"@language": "en",
+						"@value": "On the planet Kaminar, Saru wants to learn about life outside the pre-warp society of his village, where his people are harvested as food by the predatory Ba’ul. Saru is able to send a distress signal into space that is answered by Lieutenant Philippa Georgiou, who takes Saru to join Starfleet."
 					}
 				},
 				{
@@ -241,10 +243,12 @@
 						"name": "Michael McMahan"
 					},
 					"abstract": {
-						"de": "Harry Mudd ist einem Kopfgeldjäger in die Hände gefallen, der ihn an die Föderation ausliefern will."
+						"@language": "de",
+						"@value": "Harry Mudd ist einem Kopfgeldjäger in die Hände gefallen, der ihn an die Föderation ausliefern will."
 					},
 					"description": {
-						"en": "Harry Mudd is captured by a bounty hunter and taken to a Federation ship, but there the hunter finds multiple versions of Mudd already detained. Elsewhere, the real Mudd continues to create android replicas of himself, capitalizing on his own notoriety and confounding the authorities."
+						"@language": "en",
+						"@value": "Harry Mudd is captured by a bounty hunter and taken to a Federation ship, but there the hunter finds multiple versions of Mudd already detained. Elsewhere, the real Mudd continues to create android replicas of himself, capitalizing on his own notoriety and confounding the authorities."
 					}
 				}
 			]
@@ -279,10 +283,12 @@
 						"name": "Michael Chabon"
 					},
 					"abstract": {
-						"de": "Spock hat seinen ersten Tag auf der Enterprise. Er bleibt mit Nummer Eins im Turbolift stecken."
+						"@language": "de",
+						"@value": "Spock hat seinen ersten Tag auf der Enterprise. Er bleibt mit Nummer Eins im Turbolift stecken."
 					},
 					"description": {
-						"en": "On his first day aboard the USS Enterprise, Ensign Spock and his new superior officer Number One are trapped in a turbolift. While waiting for it to be repaired, Spock asks Number One numerous questions, and they bond over their similarities."
+						"@language": "en",
+						"@value": "On his first day aboard the USS Enterprise, Ensign Spock and his new superior officer Number One are trapped in a turbolift. While waiting for it to be repaired, Spock asks Number One numerous questions, and they bond over their similarities."
 					},
 					"review": {
 						"@type": "Review",
@@ -323,10 +329,12 @@
 						"name": "Graham Wagner"
 					},
 					"abstract": {
-						"de": "Lynne Lucero übernimmt ihr erstes Kommando. Dort trifft sie auf Edward Larkin."
+						"@language": "de",
+						"@value": "Lynne Lucero übernimmt ihr erstes Kommando. Dort trifft sie auf Edward Larkin."
 					},
 					"description": {
-						"en": "On the USS Cabot, science officer Edward Larkin tries to solve a planet’s food shortage by adding human DNA to tribbles, against his captain’s orders, creating a species that is born pregnant and reproduces at an exponential rate. The Cabot is overrun, and Larkin dies when he chooses to remain behind while the rest of the crew escapes."
+						"@language": "en",
+						"@value": "On the USS Cabot, science officer Edward Larkin tries to solve a planet’s food shortage by adding human DNA to tribbles, against his captain’s orders, creating a species that is born pregnant and reproduces at an exponential rate. The Cabot is overrun, and Larkin dies when he chooses to remain behind while the rest of the crew escapes."
 					},
 					"review": {
 						"@type": "Review",
@@ -366,10 +374,16 @@
 						"@id": "https://bittersmann.de/startrek/people#KalindaVazquez",
 						"name": "Kalinda Vazquez"
 					},
-					"description": {
-						"en": "When Starbase 28 is attacked, Cadet Thira Sidhu is given care of a mutinous prisoner: Captain Christopher Pike of the Enterprise. Pike tries to pressure Sidhu into releasing him, but she refuses. He then reveals it is a simulated test, and that by passing it, Sidhu is accepted as a part of the Enterprise crew.",
-						"de": "Als Sternenbasis 28 angegriffen wird, kümmert sich Kadett Thira Sidhu um einen meuternden Gefangenen: Kapitän Christopher Pike von der Enterprise. Pike versucht Sidhu unter Druck zu setzen, ihn freizulassen, aber sie lehnt ab. Pike enthüllt, dass dies ein simulierter Test ist, und bei Bestehen wird Sidhu als Teil der Enterprise-Crew akzeptiert."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "When Starbase 28 is attacked, Cadet Thira Sidhu is given care of a mutinous prisoner: Captain Christopher Pike of the Enterprise. Pike tries to pressure Sidhu into releasing him, but she refuses. He then reveals it is a simulated test, and that by passing it, Sidhu is accepted as a part of the Enterprise crew."
+						},
+						{
+							"@language": "de",
+							"@value": "Als Sternenbasis 28 angegriffen wird, kümmert sich Kadett Thira Sidhu um einen meuternden Gefangenen: Kapitän Christopher Pike von der Enterprise. Pike versucht Sidhu unter Druck zu setzen, ihn freizulassen, aber sie lehnt ab. Pike enthüllt, dass dies ein simulierter Test ist, und bei Bestehen wird Sidhu als Teil der Enterprise-Crew akzeptiert."
+						}
+					],
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
@@ -416,10 +430,12 @@
 						}
 					],
 					"abstract": {
-						"de": "Ein weibliches Bärtierchen, das nach einem Ort sucht, an dem es seine Eier ablegen kann, kreuzt den Weg der USS Enterprise und wird von einer Reparaturdrohne namens Dot angegriffen."
+						"@language": "de",
+						"@value": "Ein weibliches Bärtierchen, das nach einem Ort sucht, an dem es seine Eier ablegen kann, kreuzt den Weg der USS Enterprise und wird von einer Reparaturdrohne namens Dot angegriffen."
 					},
 					"description": {
-						"en": "A tardigrade looking for a place to lay her eggs crosses paths with the USS Enterprise and is attacked by a repair drone named Dot. When the Enterprise self-destructs, Dot helps save Ephraim’s eggs. When the eggs hatch, the pair travel with the baby tardigrades together."
+						"@language": "en",
+						"@value": "A tardigrade looking for a place to lay her eggs crosses paths with the USS Enterprise and is attacked by a repair drone named Dot. When the Enterprise self-destructs, Dot helps save Ephraim’s eggs. When the eggs hatch, the pair travel with the baby tardigrades together."
 					}
 				},
 				{
@@ -446,10 +462,12 @@
 						"name": "Brandon Schultz"
 					},
 					"abstract": {
-						"de": "Die kleine Michael Burnham wacht in der Nacht auf. Um sie zu beruhigen, erzählt ihr Vater ihr eine Geschichte eines afrikanischen Stammes."
+						"@language": "de",
+						"@value": "Die kleine Michael Burnham wacht in der Nacht auf. Um sie zu beruhigen, erzählt ihr Vater ihr eine Geschichte eines afrikanischen Stammes."
 					},
 					"description": {
-						"en": "Young Michael Burnham’s father eases her fear of the dark by telling her a story about a young African girl. In the story, the girl’s people fear the dark because of a predatory Night Beast, but she braves the night and discovers an alien that gifts her new light. The girl uses this to create the stars, and grows up to be a warrior queen."
+						"@language": "en",
+						"@value": "Young Michael Burnham’s father eases her fear of the dark by telling her a story about a young African girl. In the story, the girl’s people fear the dark because of a predatory Night Beast, but she braves the night and discovers an alien that gifts her new light. The girl uses this to create the stars, and grows up to be a warrior queen."
 					},
 					"review": {
 						"@type": "Review",
@@ -507,10 +525,12 @@
 						}
 					],
 					"abstract": {
-						"de": "Die Folge handelt von zwei Schülerinnen, deren Eltern auf dem Mars arbeiten. Die beiden drangsalieren sich, was in einer Prügelei endet. Kurz darauf erfahren alle Lehrer und Schüler von einem Angriff auf den Mars."
+						"@language": "de",
+						"@value": "Die Folge handelt von zwei Schülerinnen, deren Eltern auf dem Mars arbeiten. Die beiden drangsalieren sich, was in einer Prügelei endet. Kurz darauf erfahren alle Lehrer und Schüler von einem Angriff auf den Mars."
 					},
 					"description": {
-						"en": "Two schoolgirls on Earth develop a fierce rivalry, but are drawn together by a tragedy when they see news of Mars and its orbital facilities (where both girls have family working) attacked by rogue synthetics. During the news footage an image of Admiral Jean-Luc Picard appears, with the network reporting that Picard called the attack “devastating.”"
+						"@language": "en",
+						"@value": "Two schoolgirls on Earth develop a fierce rivalry, but are drawn together by a tragedy when they see news of Mars and its orbital facilities (where both girls have family working) attacked by rogue synthetics. During the news footage an image of Admiral Jean-Luc Picard appears, with the network reporting that Picard called the attack “devastating.”"
 					},
 					"review": {
 						"@type": "Review",
