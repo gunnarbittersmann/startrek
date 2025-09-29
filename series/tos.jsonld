@@ -351,21 +351,38 @@
 						"@language": "de",
 						"@value": "Die Enterprise übernimmt den 17-jährigen Jungen Charlie vom Raumschiff Antares, um ihn zu einer Kolonie zu bringen. Charlie wurde kürzlich auf dem Planeten Thasus als einziger Überlebender des 14 Jahre zurückliegenden Absturzes eines Raumschiffs gefunden. Auf der Enterprise trifft Charlie mit Janice Rand erstmals ein Mädchen. Bei seinen Versuchen, sie als Liebhaberin zu gewinnen, zeigt sich, dass er keinen Spaß versteht und Niederlagen nicht verkraften kann. Als die Antares die Enterprise per Funk vor etwas warnen möchte, explodiert die Antares plötzlich, woraufhin Charlie die Antares als Fehlkonstruktion bezeichnet und so das Misstrauen Kirks und Spocks gegenüber ihm erweckt bzw. verstärkt. Später, als er per Willenskraft wiederholt Dinge verändert und Personen verschwinden lässt, zeigt sich, dass Charlie übermenschliche Kräfte ähnlich derer der Thasianer besitzt. Charlie reißt die Gewalt über die Enterprise an sich. Ein thasianisches Raumschiff erscheint bei der Enterprise. Ein von dort auf die Enterprise gebeamter Thasianer erklärt, dass sein Volk dem Jungen vor 14 Jahren die übermenschlichen Kräfte zwecks Überlebens auf dem Planeten gegeben hatte. Jedoch hätte es die Abholung des Jungen durch die Antares verpasst. Die Thasianer nehmen Charlie mit, um zu vermeiden, dass er seine Kräfte gegen die Zivilisation einsetzt."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Orphans!",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2019-08-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MJJ8e846NEU"
+							}
 						},
-						"datePublished": "2024-07-26",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/bS3vM6XKIWs"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Orphans!",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-07-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bS3vM6XKIWs"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
