@@ -93,21 +93,38 @@
 						"@language": "de",
 						"@value": "Nach einer verlustreichen Mission auf dem Planeten Rigel VII folgt die Enterprise unter dem Kommando von Captain Christopher Pike einem Notruf auf den Planeten Talos IV. Das von Pike geführte Landeteam findet dort eine Gruppe Überlebender des seit 18 Jahren verschollenen Forschungsschiffes Columbia. Unter den Überlebenden ist die attraktive Vina. Von Vina abgelenkt, wird Pike von den Talosianern gefangen genommen, einer hochentwickelten, Telepathie beherrschende Spezies. Es stellt sich heraus, dass der Notruf von den Talosianern fingiert wurde und auch die Überlebenden, mit Ausnahme von Vina, nur eine Illusion waren, mit der die Enterprise zu dem Planeten gelockt werden sollte. Pike wird in einen Käfig interniert und die Talosianer versuchen, seinen Geist zu manipulieren, ihm Vina nahe zu bringen, aber Pike widersteht. Er erkennt, dass die Talosianer ihn nach Talos IV gelockt haben, um mit ihm und Vina eine neue Menschenrasse zu züchten, um sie zu versklaven. Als ein weiteres Landeteam zur Bergung des Captains auf den Planeten gebeamt wird, geraten auch Nummer Eins und Fähnrich Colt in die Gewalt der Talosianer. Sie werden zu Pike in den Käfig gesperrt, in der Hoffnung, dass Pike sich zu ihnen hingezogen fühlt. Schließlich kann Pike einen Wärter überwältigen und die Gefangenen können auf die vor Jahrhunderten atomar zerstörte Planetenoberfläche entkommen. Als die Landegruppe dort von den Talosianern gestellt wird, droht Nummer Eins, alle durch eine Explosion ihres Phasers zu töten, da sie lieber sterben wolle als in Gefangenschaft zu leben. Daraufhin lassen die Talosianer Nummer Eins und Fähnrich Colt gehen. Pike offenbaren sie, dass Vina die einzige Überlebende des Absturzes der Columbia war. Sie hatte das Unglück schwer entstellt überlebt und um ihr zu helfen, schufen sie ihr die Illusion eines unversehrten Äußeren. Pike bittet die Talosianer, ihr diese Illusion nicht zu nehmen, woraufhin sie ihr die Illusion eines Pike an die Seite stellen, während Captain Pike auf sein Schiff zurückkehrt."
 					},
-					"review":{
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2024-02-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
+							}
 						},
-						"datePublished": "2024-02-16",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/VnJsSCLSuXE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2019-05-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Wg0R08O0HhQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -278,21 +295,38 @@
 							"@value": "Die Enterprise-Crew ist bei dem Planeten, auf dem das Ehepaar Crater lebt. Nachdem mehrere Crew-Mitglieder an Salzmangel gestorben sind, stellt sich heraus, dass Frau Crater durch ein gestaltwandelndes Wesen ersetzt wurde."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-09-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PLjmMq0Aud8"
+							}
 						},
-						"datePublished": "2025-09-25",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/PLjmMq0Aud8"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2019-07-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1tHm3S1h4BY"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -440,26 +474,43 @@
 						"@language": "de",
 						"@value": "Auf einen Notruf reagierend, nimmt die Enterprise eine vor 200 Jahren von dem Raumschiff Valiant ausgesetzte Unfallboje an Bord. Deren Untersuchung ergibt, dass die Valiant, bevor sie die Selbstzerstörungssequenz auslöste, im Schiffscomputer nach Informationen über außersinnliche Wahrnehmung suchte. Die Enterprise durchfliegt – ebenso wie einst die Valiant – eine seltsame Raumbarriere, wodurch neun Crewmitglieder sterben und Enterprise-Navigator Gary Mitchell übernatürliche Kräfte entwickelt, die ständig stärker werden. Dadurch und durch Spocks Erkenntnis, dass Ähnliches auch auf der Valiant geschah und dies letztlich zu ihrer Zerstörung führte, stellt Mitchell eine zunehmende Gefahr für die Enterprise dar. Kirk fasst deshalb den Entschluss, ihn auf einem verlassenen Planeten zwangsweise auszusetzen. Als das Außenteam Mitchell dort zurücklassen will, überwältigt er es. Dr. Elizabeth Dehner, die offenbar auch beim Durchflug der Barriere beeinflusst worden war, hat nun ähnliche Kräfte wie Mitchell. Dieser spielt sich zu einem gottgleichen Wesen auf. Dehner widersteht dessen Einfluss und hilft Kirk dabei, Mitchell zu überwältigen. Dabei kommen Mitchell und Dehner zu Tode."
 					},
-					"review": {
-						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
+							],
+							"datePublished": "2023-01-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
-							{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
-						],
-						"datePublished": "2023-01-05",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-06-22",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gSAvaiFLows"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -513,21 +564,38 @@
 						"@language": "de",
 						"@value": "Die Enterprise trifft bei einem Planeten ein, der bald auseinanderbrechen wird, und will dort sechs Wissenschaftler abholen. Das Außenteam findet die Wissenschaftler alle erfroren vor. Joe, ein Mitglied des Außenteams, schleppt von dem Planeten unbewusst eine durch Körperkontakt übertragene Seuche mit auf die Enterprise ein. An der Seuche leiden bald auch andere Crew-Mitglieder. Daran erkrankt, bringen sie auch lange unterdrückte Sehnsüchte zum Ausdruck. Zu den Symptomen gehört auch unvorhersehbares, vergnügungssüchtiges Verhalten, ähnlich wie beim Betrunkensein. Auch das Crewmitglied Riley erkrankt daran. Er verschanzt sich allein im Maschinenraum und blockiert die Kontrolle über den Antrieb. Indes ändert sich die Gravitation des Planeten, sodass die Enterprise in einen spiralförmigen Sturzflug gerissen wird und wegen der fehlenden Steuerkontrolle in 20 Minuten abzustürzen droht. Als Scotty den Maschinenraum wieder unter seiner Kontrolle hat, kann er den Antrieb nicht schnell genug neu starten. Deshalb lassen Kirk und Spock eine hochgefährliche, unerprobte Implosion im Antrieb einleiten, bei der Zeit und Antimaterie reagieren. Diese ist erfolgreich, sodass der Sturzflug abgebrochen werden kann, und bewirkt, dass sich die Enterprise 70 Stunden rückwärts durch Zeit und Raum bewegt. McCoy konnte ein Antiserum entwickeln und die infizierten Crewmitglieder heilen."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Bottle Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2019-11-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/chktzsFjs_4"
+							}
 						},
-						"datePublished": "2024-01-18",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/GxBei1YazEs"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Bottle Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-01-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GxBei1YazEs"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -580,6 +648,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Kirk ist als Teil eines Außenteams auf einem Planeten, auf dem es zunehmend kälter wird. Als er auf die Enterprise zurückgebeamt wird, entsteht durch eine Fehlfunktion im Transportersystem ein bösartiger Doppelgänger von Kirk, der auf der Enterprise sein Unwesen treibt. Er misshandelt Janice Rand und wird etwas später in der Krankenstation fixiert. Die restlichen Mitglieder des Außenteams auf dem Planeten drohen zu erfrieren, da der Transporter nach wie vor gestört ist. Unterdessen stellt sich heraus, dass der originale Kirk zunehmend an Willenskraft und Entschlussfähigkeit und dadurch an Führungskraft verliert. Als Scotty und Spock glauben, das Problem mit dem Transporter beheben zu können, steht dieser Kirk vor der nun für ihn sehr schwierigen Wahl, ein lebensgefährliches Risiko einzugehen, um seine eigene Duplizierung rückgängig zu machen. Indem Spock ihm bei der Entscheidung hilft und an seine Intelligenz appelliert, wird Kirk davon überzeugt, das Risiko einzugehen. Dadurch kann die korrekte Funktionsfähigkeit des Transporters bewiesen und die Duplizierung Kirks rückgängig gemacht werden, das restliche Außenteam kann kurz vor dem Erfrieren gerettet werden."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2019-12-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/JPBfkEzBpMY"
+						}
 					}
 				},
 				{
@@ -638,6 +721,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise beamt vier Personen von einem unidentifizierbaren Raumschiff herunter, das mit hoher Geschwindigkeit flüchtet und schließlich an Asteroiden zerschellt. Bei den Personen handelt es sich um den vorbestraften Kriminellen Harry Mudd und drei äußerst hübsche junge Frauen, die Mudd an einsame Männer zu verkaufen plant und die auf viele Männer auf der Enterprise eine hohe Anziehungskraft ausüben. Die Frauen wirken nur deshalb so jung und hübsch, weil Mudd ihnen die illegale „Venusdroge“ verabreicht. Bei der Verfolgung von Mudds Schiff sind einige der zum Antrieb der Enterprise erforderlichen Dilithium­kristalle ausgefallen. Die Enterprise will deshalb am Erzabbauplaneten Rigel 12 Ersatzkristalle erwerben. Die Bergarbeiter wollen sie aber nur verkaufen, wenn sie dafür die Frauen erhalten – ein Geschäft, das ihnen Mudd indes heimlich vorgeschlagen hat. Während die Energie der Enterprise immer stärker zur Neige geht, verzögert sich der Abschluss des Geschäfts, da sich die Bergleute mit den Frauen vergnügen. Eve, eine von ihnen, ist dagegen, weiterhin mit der Droge ausgenutzt zu werden. Als bei ihr die Wirkung der Droge nachlässt und sie wieder älter und hässlicher aussieht, bewirkt Kirk, dass ihr bisheriger Liebhaber Ben von der Droge und ihrer Wirkung erfährt. Er erkennt daraufhin, dass nicht die äußeren, sondern die inneren Werte zählen. Die Enterprise erhält schließlich die Kristalle."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-02-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/jrXk3pMt7GA"
+						}
 					}
 				},
 				{
@@ -691,6 +789,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise will den Biologen Dr. Roger Korby auf dessen Bitte hin von einem Planeten abholen. Seine Verlobte Christine Chapel verließ den Planeten und Korby vor fünf Jahren, als er sich wegen der starken Abkühlung auf der Oberfläche in unterirdische Höhlen zurückzog. Nachdem Kirk und Christine hinuntergebeamt sind, lässt Korby die beiden zwecks Geheimhaltung seiner Forschung in den Höhlen gefangenhalten. In seiner Forschungsarbeit hat er mehrere Androiden erschaffen. Er fordert von Kirk, auf einen fremden Planeten gebracht zu werden, um in dessen Bevölkerung – von ihm „Rohmaterial“ genannt – Androiden auszusetzen, die er für vollkommen hält. Mit deren Einsatz glaubt er viele menschliche Probleme eliminieren zu können. Er erschafft im Nu auch einen Androiden, der genauso aussieht wie Kirk, und lässt ihn vorübergehend auf der Enterprise spionieren. Kirk ist gegen Korbys Plan und meint, dass man als Android von einem Menschen jederzeit vernichtet werden kann. Plötzlich erkennt Kirk, dass auch Korby ein Android ist. Dieser behauptet, der reale Korby habe einst, dem Tode nahe, keine andere Wahl gehabt, als einen Androiden mit seinen Eigenschaften zu schaffen. Als Andrea, ein vom Korby-Androiden geschaffener Android in Gestalt einer Frau, erkennt, dass sie außerstande sei zu lieben, erschießt sie sich und ihn. Kirk und Chapel werden von der Enterprise-Crew gerettet."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-05-01",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cCMwFx4DpF0"
+						}
 					}
 				},
 				{
@@ -745,21 +858,38 @@
 						"@language": "de",
 						"@value": "Auf einen automatischen Notruf reagierend, beamt ein Enterprise-Außenteam auf einen erdähnlichen Planeten. In einer heruntergekommenen Stadt, ähnlich der USA in den 1960er Jahren, greift das Team das Mädchen Miri auf, eines von lauter Kindern, die sich in der Stadt vor Erwachsenen verstecken. Die meisten Erwachsenen starben vor vielen Jahren an einer Seuche, die nun auch das Außenteam befällt und zu deren Symptomen blaue Hautgeschwüre und zunehmende Verrücktheit gehören. Wie das Team aus Aufzeichnungen der Planetenbewohner erfährt, schlug auf dem Planeten einst ein lebensverlängerndes Forschungsvorhaben dergestalt fehl, dass die Menschen nach Beginn der Pubertät an der Seuche starben. Den Kindern, die in Wirklichkeit schon über 300 Jahre alt sind, steht dasselbe Schicksal bevor. Aus Angst vor Erwachsenen stehlen sie dem Außenteam, das nun mit Ausnahme Spocks noch wenige Tage zu leben hat, die Funkgeräte. Ohne diese kann McCoy das von ihm entwickelte Gegenserum nicht testen. Während Kirk das Vertrauen der Kinder zu erhalten versucht und an sie appelliert, die Funkgeräte wieder herauszugeben, ist McCoy so verzweifelt, dass er das Gegenserum an sich selbst ausprobiert. Da es korrekt wirkt, können es auch die anderen Teammitglieder und die Kinder einnehmen. Die Enterprise verlässt den Planeten und will den Kindern Hilfe schicken."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Other Earths",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-05-01",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Tkdq1dMkpX8"
+							}
 						},
-						"datePublished": "2023-11-09",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/cuiN0BU28vQ"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Other Earths",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-11-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cuiN0BU28vQ"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -812,6 +942,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Als die Enterprise mit der planetaren Strafkolonie Tantalus einen Frachtaustausch durchführt, gelangt ungenehmigt Dr. van Gelder an Bord, der Assistent des renommierten Anstaltsleiters Dr. Adams. Er wird bald überwältigt und in der Krankenstation fixiert. Er erleidet seelische Qualen, die eigener Aussage zufolge durch eine Manipulation seines Gedächtnisses auf Tantalus entstanden sind. Deshalb warnt er die Crew auch davor, sich nach Tantalus zu begeben. Dort ist unterdessen Kirk mit der Schiffspsychiaterin Dr. Noel eingetroffen, um die Angelegenheit zu untersuchen. Sie entdecken, dass Dr. Adams ein Strahlen sendendes Gerät einsetzt, um Gefangene zu disziplinieren und ihr Gedächtnis zu manipulieren. Seine Mitarbeiter wirken seltsam emotionslos. Seiner Aussage nach habe van Gelder den Apparat an sich selbst auf unangemessene Weise und mit negativem Ergebnis ausprobiert. Nachdem Kirk den Apparat an sich selbst ausprobiert hat und daraufhin von Adams einer Gehirnwäsche unterzogen und gefangen genommen wurde, kann Noel ihm durch Sabotage der Stromversorgung zur Freiheit verhelfen. Dabei kommt der Anstaltsleiter zu Tode. Der Apparat wird zerstört und Dr. van Gelder kehrt als rechtmäßiger Anstaltsleiter in die Kolonie zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-05-29",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/fnbE3ar9ckw"
+						}
 					}
 				},
 				{
@@ -865,6 +1010,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein würfelförmiges Objekt im All blockiert den Flug der Enterprise. Als es sich der Enterprise bis auf wenige Meter genähert hat, zerstört sie es per Phaserbeschuss. Wenig später wird die Enterprise von einem deutlich größeren, diesmal kugelrunden Objekt blockiert. Ein Unbekannter namens Baylock an Bord des Objekts fühlt sich durch die Zerstörung des Würfels, der eine Warnboje war, bedroht und droht der Enterprise ultimativ mit Zerstörung. Steuermann Bailey verliert angesichts der aussichtslosen Lage die Beherrschung und wird deshalb auf Kirks Befehl hin abgelöst. Im Rahmen eines Bluffs droht Kirk dem Gegner mit Anwendung der fiktiven Substanz Korbomit, die jeden Gegner auslöscht, sollte die Enterprise angegriffen werden. Daraufhin lässt der Gegner das 10-minütige Ultimatum verstreichen und fordert einen Beweis für den Besitz von Korbomit. Auf Kirks Weigerung, den Beweis zu erbringen, reagierend, lässt Baylock die Enterprise mit einem separaten, kleineren Schiff zwangsweise abschleppen, um die Crew auf einem Planeten zu internieren. Die Enterprise kann sich zwar aus dem Schleppflug befreien, jedoch fällt ihr Antrieb aus. Als das Schleppschiff havariert, bringt die Enterprise es zum Mutterschiff. Auf dem Schleppschiff entdeckt ein Außenteam einen Kleinwüchsigen, der mit Baylock als seinem zweiten Ich das Hauptschiff steuert und die Enterprise einer Verhaltensprüfung unterzogen hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-07-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/L_GVj-MM9k4"
+						}
 					}
 				},
 				{
@@ -1032,6 +1192,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Kirks Freund Dr. Leighton lockt Kirk unter einem Vorwand zu sich auf den Planeten Q. Dort hatte es vor vielen Jahren eine Hungersnot gegeben, in deren Folge zwei um die Nahrungsmittel konkurrierende Gruppen entstanden. Kodos, der Anführer der einen Gruppe, sorgte dafür, dass die 4000 Mitglieder der anderen Gruppe ermordet wurden, sodass seine Gruppe genügend Nahrung erhielt. Bei seinem angeblichen Tod konnte seine Leiche nicht eindeutig identifiziert werden. Nun glaubt Leighton in dem Theaterschauspieler Anton Karidian Kodos erkannt zu haben und teilt das Kirk mit. Kurz darauf findet Kirk Leighton ermordet auf. Kirk geht nun an Bord der Enterprise, mit der er die Schauspieler ersatzweise transportiert, Leightons Verdacht nach. Kirk und Crewmitglied Riley sind mittlerweile die einzigen von ursprünglich neun Personen, die Kodos identifizieren können. Jemand verübt an Bord der Enterprise Mordanschläge auf sie. Als Kirk immer stärker zu der Überzeugung gelangt, dass Anton derselbe wie Kodos ist, hört er mit, wie Antons Tochter Lenore zugibt, die sieben Personen ermordet zu haben, um so ihren Vater zu schützen. Im Gegensatz zu ihr hat Anton seiner früheren Untat längst abgeschworen. Als er sie daran hindern will, mit einem Phaser zu entkommen, erschießt sie ihn."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2021-04-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/wgi7kbsyFhE"
+						}
 					}
 				},
 				{
@@ -1085,6 +1260,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Nahe der neutralen Zone, die den Raum der Föderation von dem des romulanischen Sternenimperiums trennt, werden mehrere Föderationsraumstationen zerstört. Dafür ist ein romulanisches, tarnfähiges Raumschiff verantwortlich, das unberechtigt die neutrale Zone durchquert hat. Zwischen beiden Mächten kam es einst zu einem Krieg, in dessen Folge der Grenzstreifen geschaffen wurde. Die Föderation wusste bislang nicht, wie Romulaner aussehen. Die Enterprise verfolgt das romulanische Schiff und erkennt durch heimliche Überwachung von dessen Brückencrew erstmals, dass die romulanische Physiologie der der Vulkanier stark ähnelt. Spock wird daraufhin durch den Enterprise-Steuermann Stiles der Spionage für die Romulaner verdächtigt. Beide Schiffe beobachten sich im Weltraum gegenseitig, ohne die genaue Position des anderen zu kennen. Dann passiert Spock ein Malheur beim Auswechseln einer Phaserspule, wodurch die Romulaner die Position der Enterprise erkennen und sie mit einem Nuklearsprengkopf zu zerstören versuchen. Die Enterprise wird aber lediglich beschädigt. Als die Enterprise der Zerstörung durch die Romulaner nahe ist, sorgt Spock für das Abfeuern der Phaser auf das romulanische Schiff. Der Captain des schwer beschädigten Schiffs will die Gefangennahme vermeiden und lässt sein Schiff daher selbst zerstören. Spock wird nicht länger als Spion verdächtigt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-10-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3Sz_LMgPPlo"
+						}
 					}
 				},
 				{
@@ -1139,6 +1329,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein Teil der Enterprise-Crew ist auf einen als unbewohnt angenommenen Planeten gebeamt, um dort einen Landurlaub zu machen. Auf der Oberfläche erleben die Crewmitglieder merkwürdige Dinge, ähnlich Tagträumen: McCoy sieht einen großen weißen Hasen und ein blondes Mädchen, wie in Alice im Wunderland, Sulu findet einen alten Polizeirevolver und Kirk begegnet Personen aus seiner Vergangenheit, darunter auch einem Mann, den er als Finnegan kennt. Während die Erlebnisse anhalten, werden sie immer mehr zur Bedrohung für die Crew und verhindert ein Kraftfeld zunehmend die Kommunikation mit der Enterprise. McCoy wird durch einen Ritter zu Pferd ermordet, woraufhin seine Leiche verschwindet. Finnegan, mit dem Kirk zuletzt vor 15 Jahren zu tun hatte, duelliert sich mit Kirk per Faustkampf. Kirk und Spock erkennen, dass jemand Dinge und Personen aus den Gedanken der Crewmitglieder plötzlich wahr werden lässt. Plötzlich erscheint ein Mann und erklärt, dass es sich um einen Vergnügungsplaneten und bei den Erlebnissen um Experimente der Planeteninhaber handelt. Es habe sich gezeigt, dass die menschliche Rasse noch nicht reif für diese Art von Vergnügung sei. Die Kommunikation mit dem Schiff ist nun wieder problemlos möglich. McCoy erscheint wieder lebend und die Crew kann auf die Enterprise zurückkehren."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2021-04-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Tyqt0RvR7b8"
+						}
 					}
 				},
 				{
@@ -1183,6 +1388,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise ist unterwegs, um Medikamente zu einer notleidenden Kolonie zu transportieren, und macht dabei einen Zwischenstopp zur Erforschung eines Quasars. Spock, McCoy, Scott und vier weitere Crewmitglieder fliegen mit dem Shuttle Galileo-Seven in die Nähe des Quasars, werden dabei aber ungeplant durch das Magnetfeld eines Planeten im Quasar zu Boden und so zur Notlandung gezwungen. Nach der Notlandung und während Spock die Vorbereitungen für den baldigen Rückflug vorantreiben lässt, sterben die zwei Crewmitglieder Latimer und Gaetano durch die Gewalt unbekannter, steinzeit-ähnlicher Wesen. Spock muss einsehen, dass das Verhalten der Fremden mit Logik weder genügend erklärbar noch voraussehbar ist, und damit der Kritik seiner Kollegen rechtgeben. Unterdessen ist Kirk auf der Enterprise auf Befehl eines Föderationsvertreters gezwungen, die Suche nach dem vermissten Shuttle abzubrechen, um die Medikamente fristgerecht auszuliefern. Kurz, nachdem die Shuttle-Crew zu fünft von dem Planeten gestartet ist, veranlasst Spock, dass der Treibstoff abgelassen und angezündet wird, und macht die Enterprise durch dieses Signal auf das Shuttle aufmerksam. Dadurch können die fünf kurz vor dem Verglühen des Shuttles auf die Enterprise gebeamt werden. Spock weigert sich einzusehen, er habe mit dem Ablassen des Treibstoffs emotional und unlogisch gehandelt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Sacred Treks",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-12-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/svbRs98yLJI"
+						}
 					}
 				},
 				{
