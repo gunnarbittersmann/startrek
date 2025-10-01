@@ -1731,6 +1731,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+								"name": "OrangeRiver"
+							},
+							"datePublished": "2025-02-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/44VSvg-Kau8"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Ersteindruck",
 							"creator": {
