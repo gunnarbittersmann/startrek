@@ -52,6 +52,20 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Enterprise"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+			"name": "OrangeRiver"
+		},
+		"datePublished": "2024-09-27",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/b4pjnAHLtEk"
+		}
+	},
 	"numberOfSeasons": 4,
 	"containsSeason": [
 		{
