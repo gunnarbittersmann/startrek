@@ -57,6 +57,7 @@
 					"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
 					"name": "TrekCulture"
 				},
+				"datePublished": "2023-10-13",
 				"video": {
 					"@type": "VideoObject",
 					"embedUrl": "https://www.youtube-nocookie.com/embed/HkfCEVnyRJc"
@@ -85,7 +86,8 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/2xD7QCSjkBc"
 					},
 					"abstract": {
-						"en": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
+						"@language": "en",
+						"@value": "Amidst a Klingon attack, the USS Enterprise’s captain keeps accidentally insulting his crew members by using figures of speech they find offensive."
 					},
 					"review": {
 						"@type": "Review",
@@ -95,6 +97,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2023-09-11",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/xDo26BbKtrE"
@@ -122,7 +125,8 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/txQqpGr1qQw"
 					},
 					"abstract": {
-						"en": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
+						"@language": "en",
+						"@value": "At a First Contact Day party on the USS Enterprise, Spock is in charge of entertainment and showcases what he calls a blooper reel, which disturbs the crew."
 					},
 					"review": {
 						"@type": "Review",
@@ -132,6 +136,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2023-09-18",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/f385MNWYCOE"
@@ -159,7 +164,8 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/Bij0nWXBKHI"
 					},
 					"abstract": {
-						"en": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
+						"@language": "en",
+						"@value": "William Riker and Beverly Crusher initiate first contact with a new alien species with particularly gross customs."
 					},
 					"review": {
 						"@type": "Review",
@@ -169,6 +175,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2023-09-26",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/6I5I1WAvmuw"
@@ -196,7 +203,8 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/LPCGkHjsK9M"
 					},
 					"abstract": {
-						"en": "Various interconnected holodecks simulations."
+						"@language": "en",
+						"@value": "Various interconnected holodecks simulations."
 					},
 					"review": {
 						"@type": "Review",
@@ -206,6 +214,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2023-10-03",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/3qvhb4Ceew0"
@@ -233,7 +242,8 @@
 						"embedUrl": "https://www.youtube-nocookie.com/embed/3sHSDkxivvo"
 					},
 					"abstract": {
-						"en": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
+						"@language": "en",
+						"@value": "D’Vana Tendi hosts a celebration of Star Trek: The Animated Series’ 50th anniversary, but it goes wrong real fast."
 					},
 					"review": {
 						"@type": "Review",
@@ -243,6 +253,7 @@
 							"@id": "https://bittersmann.de/startrek/people#JessieGender",
 							"name": "Jessie Gender"
 						},
+						"datePublished": "2023-10-10",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/S7_6gonqiIA"
