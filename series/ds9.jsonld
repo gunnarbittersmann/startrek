@@ -52,6 +52,20 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+			"name": "OrangeRiver"
+		},
+		"datePublished": "2024-07-19",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/4Z618t4mB9U"
+		}
+	},
 	"numberOfSeasons": 7,
 	"containsSeason": [
 		{
