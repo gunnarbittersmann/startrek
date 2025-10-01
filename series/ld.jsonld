@@ -2197,6 +2197,26 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_4"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"itemReviewed": [
+					{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/ld#2" },
+					{ "@id": "https://bittersmann.de/startrek/series/ld#3" },
+					{ "@id": "https://bittersmann.de/startrek/series/ld#4" }
+				],
+				"datePublished": "2024-04-19",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/GhJwcDMd0dM"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -3013,6 +3033,20 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Lower_Decks/Staffel_5"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2025-01-03",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/skZlRZ2hH-k"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
