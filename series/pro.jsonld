@@ -64,6 +64,20 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+			"name": "OrangeRiver"
+		},
+		"datePublished": "2024-11-22",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/EOZSm2H7-UE"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
