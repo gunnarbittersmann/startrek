@@ -119,6 +119,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-05-01",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Tkdq1dMkpX8"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Movie Review",
 							"creator": {
 								"@type": "Person",
