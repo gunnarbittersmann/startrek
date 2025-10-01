@@ -1267,6 +1267,20 @@
 		{
 			"@type": "MovieSeries",
 			"name": "Reboot (Kelvin Timeline)",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2025-06-20",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/2Wpvntf3Nzw"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
