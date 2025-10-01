@@ -33,6 +33,20 @@
 		{
 			"@type": "MovieSeries",
 			"name": "The Original Series",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2024-05-06",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/3eyshMOvHWQ"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
@@ -765,6 +779,20 @@
 		{
 			"@type": "MovieSeries",
 			"name": "The Next Generation",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2023-10-28",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/SHwMpothckY"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
