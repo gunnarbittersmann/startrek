@@ -57,21 +57,37 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager"
 		}
 	],
-	"review": {
-		"@type": "Review",
-		"inLanguage": "en",
-		"name": "Not Actually Trek, Actually",
-		"creator": {
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#SteveShives",
-			"name": "Steve Shives"
+	"review": [
+		{
+			"@type": "Review",
+			"inLanguage": "en",
+			"name": "Not Actually Trek, Actually",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#SteveShives",
+				"name": "Steve Shives"
+			},
+			"datePublished": "2018-07-04",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/6ACVGYdNQzQ"
+			}
 		},
-		"datePublished": "2018-07-04",
-		"video": {
-			"@type": "VideoObject",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/6ACVGYdNQzQ"
+		{
+			"@type": "Review",
+			"inLanguage": "en",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+				"name": "OrangeRiver"
+			},
+			"datePublished": "2025-05-16",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/2wN6xmPFjpA"
+			}
 		}
-	},
+	],
 	"numberOfSeasons": 7,
 	"containsSeason": [
 		{
