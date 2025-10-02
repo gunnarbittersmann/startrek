@@ -3771,7 +3771,22 @@
 							"@language": "de",
 							"@value": "Der Föderationsforscher Dr. Daystrom hat das Computersystem M5 entwickelt, welches dazu dient, ein Raumschiff ohne jegliche menschliche Hilfe zu kontrollieren. M5 wird auf der Enterprise einem Praxistest unterzogen, es verbleiben dort nur Daystrom und eine 20-köpfige Rumpfcrew, darunter Kirk. Während Spock von M5 fasziniert ist, hat Kirk Bedenken, ob M5 für seine Aufgabe geeignet ist. Der erste Test, dem M5 unterzogen wird, ist die Konfrontation mit einem sich nähernden feindlichen Raumschiff; diese verläuft mit Scheintreffern wie geplant. Als die Enterprise danach aber ungeplant auf einen Erzfrachter trifft, zerstört M5 diesen sofort per Photonentorpedo-Beschuss. Daran erkennt Daystrom, dass M5 einen Defekt hat. M5 lässt sich zunächst nicht abschalten und beschützt sich selbst, wobei M5 auch ein Redshirt tötet. Bald nähern sich der Enterprise vier Raumschiffe, darunter die Lexington, auf der auch Captain Wesley arbeitet, der den Praxistest von M5 angeordnet hat. M5 greift die Schiffe an, schießt sie teils manövrierunfähig, wobei dort auch Menschen sterben. Dadurch ist Wesley gezwungen, die Vernichtung der Enterprise anzuordnen. Kirk überzeugt den Computer M5, den Daystrom mit eigener Denkstruktur und Mentalität programmiert hat, von der Erkenntnis, dass Morden illegal ist. Dadurch schaltet sich M5 selbst ab, begeht Suizid. Dadurch ist die Gefahr für Enterprise und Wesleys Schiffe gebannt."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | A.I. Gone Awry",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/e9d7wisKeec"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
