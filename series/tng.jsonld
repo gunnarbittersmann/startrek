@@ -244,6 +244,25 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
+							],
+							"datePublished": "2025-10-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LjvzRG-CLH0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Sacred Treks",
 							"creator": {
 								"@type": "Person",
