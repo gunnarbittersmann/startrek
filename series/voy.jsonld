@@ -2240,21 +2240,38 @@
 							"@value": "Die Besatzung findet Außerirdische, die geistig mit einem Computer verbunden sind, den ein Wesen geschaffen hat, das sich von ihrer Angst ernährt."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Steve’s Favorite Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2021-10-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WX_ZPVmHZis"
+							}
 						},
-						"datePublished": "2023-03-09",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Zv8dFRdZQPU"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Steve’s Favorite Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-03-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Zv8dFRdZQPU"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

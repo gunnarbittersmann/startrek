@@ -240,25 +240,65 @@
 						"@language": "de",
 						"@value": "Als die Offiziere der Enterprise das Rätsel um Farpoint zu lösen versuchen, taucht im Orbit des Planeten – zunächst in Form eines Raumschiffes – ein Lebewesen auf, das wesentlich größer als die Enterprise ist und das die Stadt der Planetenbewohner beschießt. Sie finden heraus, dass die Bewohner des Planeten einst eine ähnliche, jedoch verletzte, Lebensform gefangen nahmen und deren Energie dazu verwendeten, die Station Farpoint zu errichten. Dem Wesen im Orbit gelingt es nun, auch mit der Hilfe der Enterprise, seinen Artgenossen zu befreien. Q teilt Picard mit, dass die Enterprise ihren ersten Test bestanden hätte, und deutet seine künftige Rückkehr an."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
+							],
+							"datePublished": "2025-10-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LjvzRG-CLH0"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
-							{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
-						],
-						"datePublished": "2023-01-12",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/LidTdqs2UFY"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Sacred Treks",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
+							],
+							"datePublished": "2020-03-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1n98a4y9n4w"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#1.2" }
+							],
+							"datePublished": "2023-01-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LidTdqs2UFY"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -2477,21 +2517,38 @@
 							"@value": "Um sich Experimenten des Kybernetikers Maddox zu entziehen, tritt Data aus der Sternenflotte aus. Es folgt ein Gerichtsprozess über die Frage, ob Data Sternenflotteneigentum ist."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Courtroom Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Captain Picard Day",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2020-01-22",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bvH0V5ZF9pw"
+							}
 						},
-						"datePublished": "2025-02-07",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ccvxKFI4szI"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Courtroom Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-02-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ccvxKFI4szI"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -3304,7 +3361,6 @@
 					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
 					"name": "Nerdzika"
 				},
-				"datePublished": "2025-02-12",
 				"itemReviewed": [
 					{ "@id": "https://bittersmann.de/startrek/series/tng#2" },
 					{ "@id": "https://bittersmann.de/startrek/series/tng#3" }
@@ -8706,21 +8762,38 @@
 						"@language": "de",
 						"@value": "Die Enterprise findet das vor 75 Jahren verschollene Föderationsforschungsraumschiff Jenolan abgestürzt auf der Hülle einer Dyson-Sphäre. Aus dessen Transporterpuffer beamt man Montgomery Scott zurück, der sich dorthin nach dem Absturz der Jenolan in Sicherheit gebracht hatte und sich seitdem darin befand. Auf der Enterprise bietet Scotty gegenüber La Forge seine Hilfe beim Erforschen der Sphäre an, erfährt von La Forge, der sich von ihm abgelenkt fühlt, jedoch Ablehnung. Um Scotty das Gefühl zu geben, gebraucht zu werden, lässt ihn Picard zusammen mit La Forge die Jenolan untersuchen. Unterdessen wird die Enterprise beim Untersuchen einer Kommunikationsphalanx der Sphäre durch eine Luke in das Sphäreninnere gezogen, wo das Schiff innerhalb weniger Stunden durch Eruptionen des in der Sphäre befindlichen Sterns zerstört zu werden droht. Zusammen gelingt es La Forge und Scotty, den Antrieb der Jenolan zu reaktivieren und mit dem Schutzschild des alten Schiffes die Sphärenluke für eine Zeit lang geöffnet zu halten. Dadurch gelingt der Enterprise der Flug aus der Sphäre, Scotty und La Forge werden vor der Explosion der Jenolan auf die Enterprise gebeamt. Schließlich erhält Scotty durch die Crew ein Shuttle geschenkt, mit dem er seinen Flug zu seinem Altersruhesitz fortsetzt."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Trek Legend Guest Stars Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2020-01-22",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/54EHMfa0iYA"
+							}
 						},
-						"datePublished": "2023-04-06",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/tX0Ff4f1cNk"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Trek Legend Guest Stars Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-04-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/tX0Ff4f1cNk"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
