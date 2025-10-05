@@ -355,8 +355,9 @@ EOT;
 														if (!count($plotArray)) {
 															$plotArray = $episode[$plotType];
 														}
-														$plotValue = $plotArray[0]['@value'];
-														$plotLang = $plotArray[0]['@language'];
+														$firstKey = array_key_first($plotArray);
+														$plotValue = $plotArray[$firstKey]['@value'];
+														$plotLang = $plotArray[$firstKey]['@language'];
 													}
 												}
 											?>

@@ -263,8 +263,9 @@
 												if (!count($plotArray)) {
 													$plotArray = $movie[$plotType];
 												}
-												$plotValue = $plotArray[0]['@value'];
-												$plotLang = $plotArray[0]['@language'];
+												$firstKey = array_key_first($plotArray);
+												$plotValue = $plotArray[$firstKey]['@value'];
+												$plotLang = $plotArray[$firstKey]['@language'];
 											}
 										}
 									?>
