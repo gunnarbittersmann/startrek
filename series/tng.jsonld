@@ -4358,21 +4358,37 @@
 							"@value": "Die Enterprise-D muss – in einen anderen Zeitstrahl versetzt – dafür sorgen, dass die aus einer Raumanomalie erschienene Enterprise-C wieder an ihren Herkunftsort zurückkehrt, damit sich der normale Zeitstrahl wieder einstellt."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Alternate Timelines",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Alternate Timelines",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-10-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/P5q2I_PF41Y"
+							}
 						},
-						"datePublished": "2024-10-31",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/P5q2I_PF41Y"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+								"name": "The Art of Storytelling"
+							},
+							"datePublished": "2025-10-03",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/2Bt1EMTpZJc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
