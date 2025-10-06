@@ -2804,10 +2804,16 @@
 						"name": "Was ist die Sternenflotte?",
 						"datePublished": "2025-08-21"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "Beto films a documentary about Starfleet while the Enterprise aids the non-Federation planet Lutani VII in its war with neighboring planet Kasar. The Enterprise is ordered to transport a Jikaru, a creature that was altered by the Lutani into a weapon, to the war zone. Beto is aggressive in his questioning of the crew, aiming to portray Starfleet in a negative light. The mission is complicated when a ship of Lutani scientists, who regret the creature’s alterations, attack the Jikaru and allow it to escape from the Enterprise. Spock is left in a coma after attempting to communicate with the Jikaru telepathically. Uhura connects with the creature, learning that it is suffering and wishes to be euthanized. Honoring the Jikaru’s request, the Enterprise leads it into a star and the Federation offers to protect the Jikaru homeworld so its children will not be similarly altered by the Lutani. Uhura suggests to Beto that he blames Starfleet for his estranged relationship with Ortegas and the injuries she suffered fighting the Gorn. With a new perspective, Beto’s documentary ultimately praises Starfleet and its personnel."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Beto films a documentary about Starfleet while the Enterprise aids the non-Federation planet Lutani VII in its war with neighboring planet Kasar. The Enterprise is ordered to transport a Jikaru, a creature that was altered by the Lutani into a weapon, to the war zone. Beto is aggressive in his questioning of the crew, aiming to portray Starfleet in a negative light. The mission is complicated when a ship of Lutani scientists, who regret the creature’s alterations, attack the Jikaru and allow it to escape from the Enterprise. Spock is left in a coma after attempting to communicate with the Jikaru telepathically. Uhura connects with the creature, learning that it is suffering and wishes to be euthanized. Honoring the Jikaru’s request, the Enterprise leads it into a star and the Federation offers to protect the Jikaru homeworld so its children will not be similarly altered by the Lutani. Uhura suggests to Beto that he blames Starfleet for his estranged relationship with Ortegas and the injuries she suffered fighting the Gorn. With a new perspective, Beto’s documentary ultimately praises Starfleet and its personnel."
+						},
+						{
+							"@language": "de",
+							"@value": "Beto dreht einen Dokumentarfilm über die Sternenflotte, während die Enterprise den Nicht-Föderationsplaneten Lutani VII in seinem Krieg mit dem Nachbarplaneten Kasar unterstützt. Die Enterprise erhält den Auftrag, einen Jikaru, ein von den Lutani zu einer Waffe umgebautes Wesen, in das Kriegsgebiet zu transportieren. Beto befragt die Besatzung aggressiv und versucht, die Sternenflotte in ein negatives Licht zu stellen. Die Mission wird erschwert, als ein Schiff der Lutani-Wissenschaftler, die die Veränderungen an der Kreatur bedauern, die Jikaru angreift und ihr die Flucht von der Enterprise ermöglicht. Spock liegt im Koma, nachdem er versucht hat, mit dem Jikaru telepathisch zu kommunizieren. Uhura nimmt Kontakt mit der Kreatur auf und erfährt, dass sie leidet und seine Existenz beenden möchte. Die Enterprise kommt dem Wunsch der Jikaru nach und bringt sie zu einem Stern. Die Föderation bietet an, die Heimatwelt der Jikaru zu schützen, damit ihre Kinder nicht in ähnlicher Weise von den Lutani verändert werden. Uhura hält Beto vor Augen, dass er die Sternenflotte für seine entfremdete Beziehung zu Ortegas und die Verletzungen, die sie im Kampf gegen die Gorn erlitten hat, verantwortlich macht. Mit einer neuen Perspektive lobt Beto in seinem Dokumentarfilm schließlich die Sternenflotte und ihr Personal."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -2899,10 +2905,16 @@
 						"name": "Vier und ein halber Vulkanier",
 						"datePublished": "2025-08-28"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "Pike, Chapel, Uhura, and La’An are transformed into Vulcans for a mission, after which they decide to remain Vulcan. Pike becomes obsessed with efficiency and neatness; Uhura manipulates Beto into accepting a mind meld to improve their compatibility for a potential relationship; Chapel ends all of her friendships and her relationship with Korby to focus on work; and La’An develops Romulan tendencies, becoming a sinister warmonger. At a meeting regarding Batel’s request to return from medical leave to her job with the Starfleet Judicial Department, Pike tells Vice Admiral Pasalk that her return would be illogical, and Batel loses her temper with both. Scotty and James Kirk, on leave from the Farragut, become friends while working together to stop La’An. With the help of Number One’s Vulcan ex-boyfriend Doug, Spock connects with the four crewmembers’ katras (spiritual essence) and persuades them to change back. They make amends for their actions. To Batel’s surprise, Pasalk offers her a promotion to head of the Judicial Department following his impending retirement, having been impressed by her outburst."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Pike, Chapel, Uhura, and La’An are transformed into Vulcans for a mission, after which they decide to remain Vulcan. Pike becomes obsessed with efficiency and neatness; Uhura manipulates Beto into accepting a mind meld to improve their compatibility for a potential relationship; Chapel ends all of her friendships and her relationship with Korby to focus on work; and La’An develops Romulan tendencies, becoming a sinister warmonger. At a meeting regarding Batel’s request to return from medical leave to her job with the Starfleet Judicial Department, Pike tells Vice Admiral Pasalk that her return would be illogical, and Batel loses her temper with both. Scotty and James Kirk, on leave from the Farragut, become friends while working together to stop La’An. With the help of Number One’s Vulcan ex-boyfriend Doug, Spock connects with the four crewmembers’ katras (spiritual essence) and persuades them to change back. They make amends for their actions. To Batel’s surprise, Pasalk offers her a promotion to head of the Judicial Department following his impending retirement, having been impressed by her outburst."
+						},
+						{
+							"@language": "de",
+							"@value": "Pike, Chapel, Uhura und La’An werden für eine spezielle Mission in Vulkanier verwandelt und beschließen danach, Vulkanier zu bleiben. Pike wird besessen von Effizienz und Sauberkeit; Uhura manipuliert Beto, damit er einer Gedankenverschmelzung zustimmt, um ihre Kompatibilität für eine mögliche Beziehung zu verbessern; Chapel beendet alle ihre Freundschaften und ihre Beziehung zu Korby, um sich auf die Arbeit zu konzentrieren; und La’An entwickelt romulanische Tendenzen und wird zu einem finsteren Kriegstreiber. Bei einer Besprechung, in der es um Batels Antrag geht, aus dem Krankenurlaub an ihren Arbeitsplatz in der Justizabteilung der Sternenflotte zurückzukehren, erklärt Pike Vizeadmiral Pasalk, dass ihre Rückkehr unlogisch wäre, woraufhin Batel gegenüber beiden die Beherrschung verliert. Scotty und James Kirk, der von der Farragut beurlaubt ist, freunden sich an, während sie zusammenarbeiten, um La’An aufzuhalten. Mit der Hilfe von Nummer Eins’ vulkanischem Ex-Freund Doug verbindet sich Spock mit den Katras (spirituelle Essenz) der vier Besatzungsmitglieder und überredet sie, sich zurückzuverwandeln. Sie leisten Wiedergutmachung für ihre Taten. Zu Batels Überraschung bietet Pasalk ihr nach seiner bevorstehenden Pensionierung eine Beförderung zum Leiter der Justizabteilung an, da er von ihrer unverblümten Ehrlichkeit beeindruckt war."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -2987,10 +2999,16 @@
 						"name": "Terrarium",
 						"datePublished": "2025-09-04"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "While flying a shuttle for a mission, Ortegas is pulled through a wormhole and crashes on a barren moon orbiting a gas giant. She is protected from the moon’s dangers by a stranded Gorn pilot and, despite Ortegas’s initial mistrust, the pair become friends as they survive together and bond over their similarities. The Enterprise has an urgent assignment to deliver vaccines to a colony, limiting the time they can spend searching for Ortegas. Uhura proposes they take the Enterprise partially into the wormhole to find her, and exaggerates the mission’s probability of success to convince Pike. Ortegas and the Gorn ignite the moon’s atmosphere to signal the Enterprise. Upon transporting down to rescue Ortegas, La’An mistakes the Gorn for an enemy and kills her. An enigmatic being called a Metron appears to Ortegas and explains that they brought her and the Gorn together to see if peace between humans and Gorn is possible. Because of La’An’s violent reaction, they believe further study is required. The Metron erases Ortegas’s memories of their conversation, but she remembers and mourns for her new friend."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "While flying a shuttle for a mission, Ortegas is pulled through a wormhole and crashes on a barren moon orbiting a gas giant. She is protected from the moon’s dangers by a stranded Gorn pilot and, despite Ortegas’s initial mistrust, the pair become friends as they survive together and bond over their similarities. The Enterprise has an urgent assignment to deliver vaccines to a colony, limiting the time they can spend searching for Ortegas. Uhura proposes they take the Enterprise partially into the wormhole to find her, and exaggerates the mission’s probability of success to convince Pike. Ortegas and the Gorn ignite the moon’s atmosphere to signal the Enterprise. Upon transporting down to rescue Ortegas, La’An mistakes the Gorn for an enemy and kills her. An enigmatic being called a Metron appears to Ortegas and explains that they brought her and the Gorn together to see if peace between humans and Gorn is possible. Because of La’An’s violent reaction, they believe further study is required. The Metron erases Ortegas’s memories of their conversation, but she remembers and mourns for her new friend."
+						},
+						{
+							"@language": "de",
+							"@value": "Während Ortegas ein Shuttle für eine Forschungsmission fliegt, wird sie durch ein Wurmloch gezogen und stürzt auf einem kargen Mond ab, der einen Gasriesen umkreist. Sie wird von einer gestrandeten Gorn-Pilotin vor den Gefahren des Mondes beschützt. Trotz Ortegas’ anfänglichem Misstrauen freunden sich die beiden an, da sie Gemeinsamkeiten finden und zusammen überleben. Die Enterprise hat den dringenden Auftrag, Impfstoffe an eine Kolonie zu liefern, was die Zeit für die Suche nach Ortegas einschränkt. Uhura schlägt vor, mit der Enterprise in die Mitte der Wurmlochöffnung zu fliegen, um sie zu finden, und übertreibt die Erfolgsaussichten der Mission, um Pike zu überzeugen. Ortegas und der Gorn entzünden die Atmosphäre des Mondes, um der Enterprise ein Signal zu senden. Als sie herunterbeamen, um Ortegas zu retten, verwechselt La’An den Gorn mit einem Feind und tötet sie. Ein Metron (rätselhaftes gottähnliches Wesen) erscheint Ortegas und erklärt, dass sie beide zusammengebracht haben, um zu sehen, ob Frieden zwischen Menschen und Gorn möglich ist. Aufgrund von La’An’s heftiger Reaktion glauben sie, dass weitere Untersuchungen notwendig sind. Der Metron löscht Ortegas’ Erinnerungen an ihr Gespräch, sie erinnert sich an alles andere und trauert um ihre neue Freundin."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3082,10 +3100,16 @@
 						"name": "Neues Leben und neue Zivilisationen",
 						"datePublished": "2025-09-11"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "As Batel prepares to leave the Enterprise to take up her new role, the crew discover that the Vezda has escaped from the transporter pattern buffer in a reconstruction of Gamble’s body. Korby finds Gamble at a doorway to the Vezda prison and the Enterprise goes to rescue him. This is a trap to lure out M’Benga, as he and Gamble need to be together to open the doorway. The crew learn that the unique combination of DNA inside Batel matches the biology of the Beholder statue that guards the prison. To open the doorway without M’Benga and Gamble, the crew devise a plan to simultaneously fire on it from the Enterprise and the Farragut; Spock performs a mind meld with James Kirk so the two can perfectly sync their actions. Pike and Batel enter the prison and confront Gamble, who destroys the Beholder and frees the other Vezda. Using her emerging power, Batel creates an illusion in which she and Pike live a full and happy life together. She then traps all the Vezda in the prison and becomes the Beholder. Pike struggles to move on without Batel as the Enterprise sets out to explore uncharted planets."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "As Batel prepares to leave the Enterprise to take up her new role, the crew discover that the Vezda has escaped from the transporter pattern buffer in a reconstruction of Gamble’s body. Korby finds Gamble at a doorway to the Vezda prison and the Enterprise goes to rescue him. This is a trap to lure out M’Benga, as he and Gamble need to be together to open the doorway. The crew learn that the unique combination of DNA inside Batel matches the biology of the Beholder statue that guards the prison. To open the doorway without M’Benga and Gamble, the crew devise a plan to simultaneously fire on it from the Enterprise and the Farragut; Spock performs a mind meld with James Kirk so the two can perfectly sync their actions. Pike and Batel enter the prison and confront Gamble, who destroys the Beholder and frees the other Vezda. Using her emerging power, Batel creates an illusion in which she and Pike live a full and happy life together. She then traps all the Vezda in the prison and becomes the Beholder. Pike struggles to move on without Batel as the Enterprise sets out to explore uncharted planets."
+						},
+						{
+							"@language": "de",
+							"@value": "Als Batel sich darauf vorbereitet, die Enterprise zu verlassen, um ihre neue Aufgabe anzutreten, entdeckt die Crew, dass die Vezda aus dem Transporter-Musterpuffer entkommen ist und Gambles Körper rekonstruiert hat. Korby findet Gamble an einer Tür zum Gefängnis der Vezda, und die Enterprise macht sich auf, um ihn zu retten. Dies ist jedoch eine Falle, um M’Benga herauszulocken, da er und Gamble zusammen sein müssen, um die Tür zu öffnen. Die Crew erfährt, dass die einzigartige Kombination der DNA in Batel mit der Biologie der Beholder-Statue übereinstimmt, die das Gefängnis bewacht. Um die Tür ohne M’Benga und Gamble zu öffnen, entwickelt die Crew einen Plan, gleichzeitig von der Enterprise und der Farragut aus darauf zu feuern; Spock führt eine Gedankenverschmelzung mit Kirk durch, damit die beiden ihre Aktionen perfekt synchronisieren können. Pike und Batel betreten das Gefängnis und konfrontieren Gamble, der den Beholder zerstört und die anderen Vezda befreit. Mit ihrer neu entdeckten Kraft erschafft Batel eine Illusion, in der sie und Pike ein erfülltes und glückliches Leben zusammen führen. Dann sperrt sie alle Vezda im Gefängnis ein und wird selbst zum Beholder. Pike fällt es schwer, ohne Batel weiterzumachen, als die Enterprise zu einer neuen fünfjährigen Mission aufbricht, um unbekannte Planeten zu erforschen. Als die Enterprise abfliegt, sieht Pike eine Sternschnuppe, von der Batel ihm in der Illusion gesagt hatte, dass sie ein Zeichen dafür sei, dass sie über ihn wacht."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
