@@ -34,6 +34,21 @@
 			"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Retrospective",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+			"name": "OrangeRiver"
+		},
+		"datePublished": "2024-03-29",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Q59bRS3Zq7c"
+		}
+	},
 	"numberOfSeasons": 3,
 	"containsSeason": [
 		{

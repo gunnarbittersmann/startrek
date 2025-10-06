@@ -105,21 +105,38 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Ersteindruck",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-					"name": "Nerdzika"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Retrospective",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+						"name": "OrangeRiver"
+					},
+					"datePublished": "2022-12-23",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/PPGSKOIu1dI"
+					}
 				},
-				"datePublished": "2025-01-08",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/CD1ZjBoca_A"
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Ersteindruck",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2025-01-08",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/CD1ZjBoca_A"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1913,21 +1930,38 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_2"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "en",
-				"name": "Trek, Actually",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#SteveShives",
-					"name": "Steve Shives"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2025-03-19",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/voe1_-rdVmQ"
+					}
 				},
-				"datePublished": "2025-03-19",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/voe1_-rdVmQ"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Retrospective",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+						"name": "OrangeRiver"
+					},
+					"datePublished": "2023-01-27",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/PGvISgQ9izQ"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -3352,25 +3386,42 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_3"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Ersteindruck",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-					"name": "Nerdzika"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Retrospective",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+						"name": "OrangeRiver"
+					},
+					"datePublished": "2023-03-17",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/smEzxaVfTAw"
+					}
 				},
-				"itemReviewed": [
-					{ "@id": "https://bittersmann.de/startrek/series/tng#2" },
-					{ "@id": "https://bittersmann.de/startrek/series/tng#3" }
-				],
-				"datePublished": "2025-02-12",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/_bmMGZFD6qs"
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Ersteindruck",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tng#2" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#3" }
+					],
+					"datePublished": "2025-02-12",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/_bmMGZFD6qs"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -5000,21 +5051,38 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_4"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Ersteindruck",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-					"name": "Nerdzika"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Retrospective",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+						"name": "OrangeRiver"
+					},
+					"datePublished": "2023-05-19",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/XVJ25Qm46Q4"
+					}
 				},
-				"datePublished": "2025-05-21",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/U7jDCPz1ujE"
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Ersteindruck",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2025-05-21",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/U7jDCPz1ujE"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -10241,25 +10309,47 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise_%E2%80%93_Das_n%C3%A4chste_Jahrhundert/Staffel_7"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Ersteindruck",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-					"name": "Nerdzika"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Retrospective",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+						"name": "OrangeRiver"
+					},
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tng#5" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#6" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#7" }
+					],
+					"datePublished": "2023-07-14",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/uT_-5mtzSYM"
+					}
 				},
-				"itemReviewed": [
-					{ "@id": "https://bittersmann.de/startrek/series/tng#6" },
-					{ "@id": "https://bittersmann.de/startrek/series/tng#7" }
-				],
-				"datePublished": "2025-09-24",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/SRzD160cF_g"
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Ersteindruck",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tng#6" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#7" }
+					],
+					"datePublished": "2025-09-24",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/SRzD160cF_g"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
