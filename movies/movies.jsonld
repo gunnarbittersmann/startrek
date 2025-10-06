@@ -33,6 +33,21 @@
 		{
 			"@type": "MovieSeries",
 			"name": "The Original Series",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Retrospective",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2024-05-06",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/3eyshMOvHWQ"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
@@ -765,6 +780,21 @@
 		{
 			"@type": "MovieSeries",
 			"name": "The Next Generation",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Retrospective",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2023-10-28",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/SHwMpothckY"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
@@ -1239,6 +1269,21 @@
 		{
 			"@type": "MovieSeries",
 			"name": "Reboot (Kelvin Timeline)",
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Retrospective",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2025-06-20",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/2Wpvntf3Nzw"
+				}
+			},
 			"hasPart": [
 				{
 					"@type": "Movie",
@@ -1685,6 +1730,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nm694Z9YOdw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retrospective",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+								"name": "OrangeRiver"
+							},
+							"datePublished": "2025-02-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/44VSvg-Kau8"
 							}
 						},
 						{
