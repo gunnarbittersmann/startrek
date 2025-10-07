@@ -43,6 +43,10 @@
 			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
 			"name": "OrangeRiver"
 		},
+		"itemReviewed": [
+			{ "@id": "https://bittersmann.de/startrek/series/tos" },
+			{ "@id": "https://bittersmann.de/startrek/series/tas" }
+		],
 		"datePublished": "2024-03-29",
 		"video": {
 			"@type": "VideoObject",
