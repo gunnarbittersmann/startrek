@@ -145,7 +145,7 @@
 											</td>
 										<?php endif; ?>
 									<?php endif; ?>
-								<?php endif; ?>
+								<?php endif; // (IS_DIRECTOR_VISIBLE) ?>
 								<?php if (IS_AUTHOR_VISIBLE): ?>
 									<?php if ($movie['author']): ?>
 										<td>
@@ -318,12 +318,12 @@
 														<?php endforeach; ?>
 													<?php endif; ?>
 												</p>
-											<?php endif; ?>
+											<?php endif; // ($movie['subjectOf']) ?>
 										</details>
 									</td>
 								<?php else: ?>
 									<td></td>
-								<?php endif; ?>
+								<?php endif; // ($movie['description'] || $movie['abstract'] || $movie['subjectOf']) ?>
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
@@ -385,7 +385,7 @@
 												</div>
 											</details>
 										</td>
-									<?php else: ?>
+									<?php else: // ($movie['review']['video']) ?>
 										<td>
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
@@ -418,7 +418,7 @@
 																			</span>
 																		<?php endforeach; ?>
 																	<?php endif; ?>
-																<?php endif; ?>
+																<?php endif; // ($review['creator']) ?>
 																<?php if ($review['inLanguage'] != 'en'): ?>
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
@@ -451,15 +451,15 @@
 															</div>
 														</details>
 													</li>
-												<?php endforeach; ?>
+												<?php endforeach; // ($movie['review'] as $review) ?>
 											</ul>
 										</td>
-									<?php endif; ?>
-								<?php else: ?>
+									<?php endif; // ($movie['review']['video']) ?>
+								<?php else: // ($movie['review']) ?>
 									<td></td>
-								<?php endif; ?>
+								<?php endif; // ($movie['review']) ?>
 							</tr>
-						<?php endforeach; ?>
+						<?php endforeach; // ($era['hasPart'] as $movie ?>
 						<?php if ($era['review']): ?>
 							<tr lang="en">
 								<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
@@ -622,7 +622,7 @@
 							</tr>
 						<?php endif; // ($era['review']) ?>
 					</tbody>
-				<?php endforeach; ?>
+				<?php endforeach; // ($data['hasPart'] as $era) ?>
 			</table>
 		</main>
 		<footer>
