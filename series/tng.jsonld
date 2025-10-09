@@ -3486,6 +3486,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Der Wissenschaftler Paul Stubbs weilt an Bord, um die äußerst seltene Explosion zu beobachten, die bei der Kollision eines Neutronensterns mit einem Gasplaneten entsteht. Während der Vorbereitungen auf dieses Ereignis passiert Wesley bei einem seiner Experimente ein Malheur, durch das mehrere Naniten entwischen und nun den Prozessor des Hauptcomputers des Schiffes zu fressen beginnen. Dadurch häufen sich auf der Enterprise gravierende Fehlfunktionen. Als Reaktion auf Stubbs’ Versuch, die Naniten zu töten, deaktivieren die Naniten die Lebenserhaltungssysteme des Schiffes. Indem Data als Kommunikationsmedium zwischen Crew und Naniten fungiert, können die Naniten dazu überredet werden, den Computer wiederherzustellen und sich zurückzuziehen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | A.I. Gone Awry",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MI4kg0P0qHY"
+						}
 					}
 				},
 				{
