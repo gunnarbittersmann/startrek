@@ -158,21 +158,38 @@
 						"@language": "en",
 						"@value": "While exploring on the outermost rim of the galaxy the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-10-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hD0c-ZJceuQ"
+							}
 						},
-						"datePublished": "2023-02-09",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/swwLuj5vLbI"
-						}
-					}
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-02-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/swwLuj5vLbI"
+							}
+					 	}
+					]
 				},
 				{
 					"@type": "TVEpisode",
