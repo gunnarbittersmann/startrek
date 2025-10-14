@@ -341,7 +341,21 @@ EOT;
 												$hasPlot = ($episode['description'] || $episode['abstract']);
 												if ($hasPlot) {
 													$plotType = ($episode['description']) ? 'description' : 'abstract';
-													$plotLang = ($episode[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($episode[$plotType])[0];
+													if ($episode[$plotType]['@value']) {
+														$plotValue = $episode[$plotType]['@value'];
+														$plotLang = $episode[$plotType]['@language'];
+													}
+													elseif (is_array($episode[$plotType])) {
+														$plotArray = array_filter($episode[$plotType], function ($entry) {
+															return $entry['@language'] == PREFERRED_LANG;
+														});
+														if (!count($plotArray)) {
+															$plotArray = $episode[$plotType];
+														}
+														$firstKey = array_key_first($plotArray);
+														$plotValue = $plotArray[$firstKey]['@value'];
+														$plotLang = $plotArray[$firstKey]['@language'];
+													}
 												}
 											?>
 											<td>
@@ -361,7 +375,7 @@ EOT;
 													</summary>
 													<?php if ($hasPlot): ?>
 														<p property="<?= htmlSpecialChars($plotType) ?>">
-															<?= htmlSpecialChars($episode[$plotType][$plotLang]) ?>
+															<?= htmlSpecialChars($plotValue) ?>
 														</p>
 													<?php endif; ?>
 													<?php if ($episode['subjectOf']): ?>
@@ -495,7 +509,7 @@ EOT;
 														</div>
 													</details>
 												</td>
-											<?php else: ?>
+											<?php else: // ($episode['review']['video']) ?>
 												<td>
 													<ul>
 														<?php foreach ($episode['review'] as $review): ?>
@@ -573,15 +587,15 @@ EOT;
 																	</div>
 																</details>
 															</li>
-														<?php endforeach; ?>
+														<?php endforeach; // ($episode['review'] as $review) ?>
 													</ul>
 												</td>
-											<?php endif; ?>
-										<?php else: ?>
+											<?php endif; // ($episode['review']['video']) ?>
+										<?php else: // ($episode['review']) ?>
 											<td></td>
-										<?php endif; ?>
+										<?php endif; // ($episode['review']) ?>
 									</tr>
-								<?php endforeach; ?>
+								<?php endforeach; // ($season['episode'] as $episode) ?>
 								<?php if ($season['review']): ?>
 									<tr lang="en">
 										<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
@@ -613,8 +627,8 @@ EOT;
 																		<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
 																	</span>
 																<?php endforeach; ?>
-															<?php endif; ?>
-														<?php endif; ?>
+															<?php endif; // ($season['review']['creator']['name']) ?>
+														<?php endif; // ($season['review']['creator']) ?>
 														<?php if ($season['review']['itemReviewed']): ?>
 															<?php if (parse_url($season['review']['itemReviewed'][0]['@id'], PHP_URL_PATH)
 																== parse_url($season['review']['itemReviewed'][count($season['review']['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
@@ -625,7 +639,7 @@ EOT;
 																		$season['review']['itemReviewed'][count($season['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
 																?>)</span>
 															<?php endif; ?>
-														<?php endif; ?>
+														<?php endif; // ($season['review']['itemReviewed']) ?>
 														<?php if ($season['review']['inLanguage'] != 'en'): ?>
 															<span class="review-lang">(<?= htmlSpecialChars($season['review']['inLanguage']) ?>)</span>
 														<?php endif; ?>
@@ -659,7 +673,7 @@ EOT;
 													</div>
 												</details>
 											</td>
-										<?php else: ?>
+										<?php else: // ($season['review']['video']) ?>
 											<td>
 												<ul>
 													<?php foreach ($season['review'] as $review): ?>
@@ -692,7 +706,7 @@ EOT;
 																				</span>
 																			<?php endforeach; ?>
 																		<?php endif; ?>
-																	<?php endif; ?>
+																	<?php endif; // ($review['creator']) ?>
 																	<?php if ($review['itemReviewed']): ?>
 																		<?php if (parse_url($review['itemReviewed'][0]['@id'], PHP_URL_PATH)
 																			== parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
@@ -703,7 +717,7 @@ EOT;
 																					$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
 																			?>)</span>
 																		<?php endif; ?>
-																	<?php endif; ?>
+																	<?php endif; // ($review['itemReviewed']) ?>
 																	<?php if ($review['inLanguage'] != 'en'): ?>
 																		<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																	<?php endif; ?>
@@ -733,19 +747,19 @@ EOT;
 																				<?= htmlSpecialChars($review['datePublished']) ?>
 																			</time>
 																		</p>
-																	<?php endif; ?>
+																	<?php endif; ($review['name'] || $review['datePublished']) //?>
 																</div>
 															</details>
 														</li>
-													<?php endforeach; ?>
+													<?php endforeach; // ($season['review'] as $review) ?>
 												</ul>
 											</td>
-										<?php endif; ?>
+										<?php endif; // ($season['review']['video']) ?>
 									</tr>
-								<?php endif; ?>
+								<?php endif; // ($season['review']) ?>
 							</tbody>
-						<?php endif; ?>
-					<?php endforeach; ?>
+						<?php endif; // ($season['episode']) ?>
+					<?php endforeach; // ($data['containsSeason'] as $season) ?>
 					<?php if ($data['review']): ?>
 						<tfoot>
 							<tr>
@@ -938,7 +952,7 @@ EOT;
 			</script>
 		</body>
 	</html>
-<?php else: ?>
+<?php else: // ($data) ?>
 	<html
 		id="index"
 		lang="<?= htmlSpecialChars($franchise['inLanguage']) ?>"
@@ -1031,4 +1045,4 @@ EOT;
 			</script>
 		</body>
 	</html>
-<?php endif; ?>
+<?php endif; // ($data) ?>

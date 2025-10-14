@@ -145,7 +145,7 @@
 											</td>
 										<?php endif; ?>
 									<?php endif; ?>
-								<?php endif; ?>
+								<?php endif; // (IS_DIRECTOR_VISIBLE) ?>
 								<?php if (IS_AUTHOR_VISIBLE): ?>
 									<?php if ($movie['author']): ?>
 										<td>
@@ -249,7 +249,21 @@
 										$hasPlot = ($movie['description'] || $movie['abstract']);
 										if ($hasPlot) {
 											$plotType = ($movie['description']) ? 'description' : 'abstract';
-											$plotLang = ($movie[$plotType][PREFERRED_LANG]) ? PREFERRED_LANG : array_keys($movie[$plotType])[0];
+											if ($movie[$plotType]['@value']) {
+												$plotValue = $movie[$plotType]['@value'];
+												$plotLang = $movie[$plotType]['@language'];
+											}
+											elseif (is_array($movie[$plotType])) {
+												$plotArray = array_filter($movie[$plotType], function ($entry) {
+													return $entry['@language'] == PREFERRED_LANG;
+												});
+												if (!count($plotArray)) {
+													$plotArray = $movie[$plotType];
+												}
+												$firstKey = array_key_first($plotArray);
+												$plotValue = $plotArray[$firstKey]['@value'];
+												$plotLang = $plotArray[$firstKey]['@language'];
+											}
 										}
 									?>
 									<td>
@@ -267,7 +281,7 @@
 											</summary>
 											<?php if ($hasPlot): ?>
 												<p property="<?= htmlSpecialChars($plotType) ?>">
-													<?= htmlSpecialChars($movie[$plotType][$plotLang]) ?>
+													<?= htmlSpecialChars($plotValue) ?>
 												</p>
 											<?php endif; ?>
 											<?php if ($movie['subjectOf']): ?>
@@ -304,12 +318,12 @@
 														<?php endforeach; ?>
 													<?php endif; ?>
 												</p>
-											<?php endif; ?>
+											<?php endif; // ($movie['subjectOf']) ?>
 										</details>
 									</td>
 								<?php else: ?>
 									<td></td>
-								<?php endif; ?>
+								<?php endif; // ($movie['description'] || $movie['abstract'] || $movie['subjectOf']) ?>
 								<?php if ($movie['review']): ?>
 									<?php if ($movie['review']['video']): ?>
 										<td property="review" typeof="Review">
@@ -371,7 +385,7 @@
 												</div>
 											</details>
 										</td>
-									<?php else: ?>
+									<?php else: // ($movie['review']['video']) ?>
 										<td>
 											<ul>
 												<?php foreach ($movie['review'] as $review): ?>
@@ -404,7 +418,7 @@
 																			</span>
 																		<?php endforeach; ?>
 																	<?php endif; ?>
-																<?php endif; ?>
+																<?php endif; // ($review['creator']) ?>
 																<?php if ($review['inLanguage'] != 'en'): ?>
 																	<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 																<?php endif; ?>
@@ -437,17 +451,178 @@
 															</div>
 														</details>
 													</li>
-												<?php endforeach; ?>
+												<?php endforeach; // ($movie['review'] as $review) ?>
 											</ul>
 										</td>
-									<?php endif; ?>
-								<?php else: ?>
+									<?php endif; // ($movie['review']['video']) ?>
+								<?php else: // ($movie['review']) ?>
 									<td></td>
-								<?php endif; ?>
+								<?php endif; // ($movie['review']) ?>
 							</tr>
-						<?php endforeach; ?>
+						<?php endforeach; // ($era['hasPart'] as $movie ?>
+						<?php if ($era['review']): ?>
+							<tr lang="en">
+								<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
+									<span class="visually-hidden">season <?= htmlSpecialChars($era['seasonNumber']) ?></span>
+								</th>
+								<?php if ($era['review']['video']): ?>
+									<td property="review" typeof="Review">
+										<details lang="<?= htmlspecialchars($era['review']['inLanguage'] ?? 'en') ?>">
+											<summary
+												aria-description="season <?= htmlSpecialChars($era['seasonNumber']) ?>"
+												<?php if ($era['review']['name'] || $era['review']['datePublished']): ?>
+													title="<?= htmlSpecialChars($era['review']['name']) ?>  <?= htmlSpecialChars($era['review']['datePublished']) ?>"
+												<?php endif; ?>
+											>
+												<?php if ($era['review']['creator']): ?>
+													<?php if ($era['review']['creator']['name']): ?>
+														<span property="creator" typeof="<?= htmlSpecialChars($era['review']['creator']['@type']) ?>">
+															<span class="visually-hidden" property="name">
+																<?= htmlSpecialChars($era['review']['creator']['name']) ?>
+															</span>
+															<abbr aria-hidden="true"><?= htmlSpecialChars(initial($era['review']['creator']['name'])) ?></abbr>
+														</span>
+													<?php elseif (is_array($era['review']['creator'])): ?>
+														<?php foreach ($era['review']['creator'] as $creator): ?>
+															<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																<span class="visually-hidden" property="name">
+																	<?= htmlSpecialChars($creator['name']) ?>
+																</span>
+																<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
+															</span>
+														<?php endforeach; ?>
+													<?php endif; // ($era['review']['creator']['name']) ?>
+												<?php endif; // ($era['review']['creator']) ?>
+												<?php if ($era['review']['itemReviewed']): ?>
+													<?php if (parse_url($era['review']['itemReviewed'][0]['@id'], PHP_URL_PATH)
+														== parse_url($era['review']['itemReviewed'][count($era['review']['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+														<span class="review-range">(<?=
+															htmlSpecialChars(parse_url($era['review']['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+														?>–<?=
+															htmlSpecialChars(parse_url(
+																$era['review']['itemReviewed'][count($era['review']['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+														?>)</span>
+													<?php endif; ?>
+												<?php endif; // ($era['review']['itemReviewed']) ?>
+												<?php if ($era['review']['inLanguage'] != 'en'): ?>
+													<span class="review-lang">(<?= htmlSpecialChars($era['review']['inLanguage']) ?>)</span>
+												<?php endif; ?>
+											</summary>
+											<div>
+												<div property="video" typeof="VideoObject" hidden="">
+													<meta
+														property="embedUrl"
+														content="<?= htmlSpecialChars($era['review']['video']['embedUrl']) ?>"
+													/>
+												</div>
+												<iframe
+													allowfullscreen=""
+													aria-label="<?= htmlSpecialChars($era['review']['name']) ?>"
+													aria-description="season <?= htmlSpecialChars($era['seasonNumber']) ?>"
+												>
+												</iframe>
+												<?php if ($era['review']['name'] || $era['review']['datePublished']): ?>
+													<p>
+														<span property="name"><?= htmlSpecialChars($era['review']['name']) ?></span>
+														<time
+															property="datePublished"
+															<?php if ($era['review']['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																class="new"
+															<?php endif; ?>
+														>
+															<?= htmlSpecialChars($era['review']['datePublished']) ?>
+														</time>
+													</p>
+												<?php endif; ?>
+											</div>
+										</details>
+									</td>
+								<?php else: // ($era['review']['video']) ?>
+									<td>
+										<ul>
+											<?php foreach ($era['review'] as $review): ?>
+												<li property="review" typeof="Review">
+													<details
+														lang="<?= htmlspecialchars($review['inLanguage'] ?? 'en') ?>"
+														name="review-season-<?= htmlSpecialChars($era['seasonNumber']) ?>"
+													>
+														<summary
+															aria-description="season <?= htmlSpecialChars($era['seasonNumber']) ?>"
+															<?php if ($review['name'] || $review['datePublished']): ?>
+																title="<?= htmlSpecialChars($review['name']) ?>  <?= htmlSpecialChars($review['datePublished']) ?>"
+															<?php endif; ?>
+														>
+															<?php if ($review['creator']): ?>
+																<?php if ($review['creator']['name']): ?>
+																	<span property="creator" typeof="<?= htmlSpecialChars($review['creator']['@type']) ?>">
+																		<span class="visually-hidden" property="name">
+																			<?= htmlSpecialChars($review['creator']['name']) ?>
+																		</span>
+																		<abbr aria-hidden="true"><?= htmlSpecialChars(initial($review['creator']['name'])) ?></abbr>
+																	</span>
+																<?php elseif (is_array($review['creator'])): ?>
+																	<?php foreach ($review['creator'] as $creator): ?>
+																		<span property="creator" typeof="<?= htmlSpecialChars($creator['@type']) ?>">
+																			<span class="visually-hidden" property="name">
+																				<?= htmlSpecialChars($creator['name']) ?>
+																			</span>
+																			<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
+																		</span>
+																	<?php endforeach; ?>
+																<?php endif; ?>
+															<?php endif; // ($review['creator']) ?>
+															<?php if ($review['itemReviewed']): ?>
+																<?php if (parse_url($review['itemReviewed'][0]['@id'], PHP_URL_PATH)
+																	== parse_url($review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_PATH)): ?>
+																	<span class="review-range">(<?=
+																		htmlSpecialChars(parse_url($review['itemReviewed'][0]['@id'], PHP_URL_FRAGMENT))
+																	?>–<?=
+																		htmlSpecialChars(parse_url(
+																			$review['itemReviewed'][count($review['itemReviewed']) - 1]['@id'], PHP_URL_FRAGMENT))
+																	?>)</span>
+																<?php endif; ?>
+															<?php endif; // ($review['itemReviewed']) ?>
+															<?php if ($review['inLanguage'] != 'en'): ?>
+																<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
+															<?php endif; ?>
+														</summary>
+														<div>
+															<div property="video" typeof="VideoObject" hidden="">
+																<meta
+																	property="embedUrl"
+																	content="<?= htmlSpecialChars($review['video']['embedUrl']) ?>"
+																/>
+															</div>
+															<iframe
+																allowfullscreen=""
+																aria-label="<?= htmlSpecialChars($review['name']) ?>"
+																aria-description="season <?= htmlSpecialChars($era['seasonNumber']) ?>"
+															>
+															</iframe>
+															<?php if ($review['name'] || $review['datePublished']): ?>
+																<p>
+																	<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																	<time
+																		property="datePublished"
+																		<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																			class="new"
+																		<?php endif; ?>
+																	>
+																		<?= htmlSpecialChars($review['datePublished']) ?>
+																	</time>
+																</p>
+															<?php endif; ($review['name'] || $review['datePublished']) //?>
+														</div>
+													</details>
+												</li>
+											<?php endforeach; // ($era['review'] as $review) ?>
+										</ul>
+									</td>
+								<?php endif; // ($era['review']['video']) ?>
+							</tr>
+						<?php endif; // ($era['review']) ?>
 					</tbody>
-				<?php endforeach; ?>
+				<?php endforeach; // ($data['hasPart'] as $era) ?>
 			</table>
 		</main>
 		<footer>
