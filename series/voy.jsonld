@@ -1760,6 +1760,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager-Crew birgt einen funktionsuntüchtigen Roboter unbekannter Bauart. Lieutenant Torres setzt ihn wieder in Gang, indem sie sein Energiemodul so modifiziert, dass es mit Warp-Plasma betrieben werden kann. Er stellt sich als die automatische Einheit 3947 vor und sagt, er sei auf einem Raumschiff der Pralor stationiert. Diese Spezies, von ihm „die Erbauer“ genannt, kam Jahrzehnte zuvor in einem Krieg um. Torres’ Leistung, das Energiemodul anzupassen, bringt 3947 auf die Idee, dass sie ein prototypisches Energiemodul für die Konstruktion weiterer automatischer Einheiten bauen könnte, was den Robotern erlauben würde, sich „fortzupflanzen“. Captain Janeway verweigert wegen der obersten Direktive ihre Zustimmung. Daraufhin entführt 3947 Torres auf das Pralor-Schiff, auf dem er stationiert ist und dessen Feuerkraft der der Voyager überlegen ist. Torres erklärt sich bereit, einen Prototyp zu bauen, um die Voyager zu retten. Die Konstruktion ist erfolgreich, aber als der Prototyp fertig ist, wird das Pralor-Schiff von einem anderen Raumschiff angegriffen, dessen Besatzung ebenfalls nur aus Robotern besteht. Deren Erbauer, die Cravic, führten mit den Pralor Krieg. Sie leben auch nicht mehr ‒ die Erbauer haben einen Waffenstillstand geschlossen und wollten ihre Kampfroboter vernichten, darum haben die Roboter sie vernichtet. Als Torres das erfährt, zerstört sie den Prototyp. Lieutenant Paris beamt sie in ein Shuttle und kehrt mit ihr zur Voyager zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | A.I. Gone Awry",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/TWTq8kqnQFY"
+						}
 					}
 				},
 				{
