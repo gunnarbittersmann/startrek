@@ -309,7 +309,17 @@
 				"@type": "Person",
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
-			}
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/Tg91tPYefh4"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Khan and his people prepare for inescapable global calamity, and learn they are no longer alone on this world. Are these mysterious new arrivals enemies, or possible allies?"
+				}
+			]
 		},
 		{
 			"@type": "CreativeWork",
