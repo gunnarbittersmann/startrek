@@ -856,7 +856,10 @@ EOT;
 																			<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
 																		</span>
 																	<?php endforeach; ?>
-																<?php endif; ?>
+																<?php endif; // (is_array($review['creator'])) ?>
+															<?php endif; // ($review['creator']) ?>
+															<?php if ($review['inLanguage'] != 'en'): ?>
+																<span class="review-lang">(<?= htmlSpecialChars($review['inLanguage']) ?>)</span>
 															<?php endif; ?>
 														</summary>
 														<div>
