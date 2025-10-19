@@ -64,6 +64,14 @@
 		<main typeof="<?= htmlSpecialChars($data['@type']) ?>" id="main">
 			<h1>Movies</h1>
 			<table>
+				<?php
+					$columnsBeforeReview = 3;
+					if (IS_WORKTRANSLATION_NAME_VISIBLE) { $columnsBeforeReview++; }
+					if (IS_WORKTRANSLATION_DATEPUBLISHED_VISIBLE) { $columnsBeforeReview++; }
+					if (IS_DIRECTOR_VISIBLE) { $columnsBeforeReview++; }
+					if (IS_AUTHOR_VISIBLE) { $columnsBeforeReview++; }
+					if ($data['identifier'] == 'VST') { $columnsBeforeReview++; }
+				?>
 				<?php foreach ($data['hasPart'] as $era): ?>
 					<tbody
 						<?php if ($era['@type']): ?>
@@ -463,7 +471,7 @@
 						<?php if ($era['review']): ?>
 							<tr lang="en">
 								<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
-									<span class="visually-hidden">season <?= htmlSpecialChars($era['seasonNumber']) ?></span>
+									<span class="visually-hidden"><?= htmlSpecialChars($era['name']) ?> films</span>
 								</th>
 								<?php if ($era['review']['video']): ?>
 									<td property="review" typeof="Review">
