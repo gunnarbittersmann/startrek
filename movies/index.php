@@ -471,7 +471,7 @@
 						<?php if ($era['review']): ?>
 							<tr lang="en">
 								<th colspan="<?= htmlSpecialChars($columnsBeforeReview) ?>">
-									<span class="visually-hidden">season <?= htmlSpecialChars($era['seasonNumber']) ?></span>
+									<span class="visually-hidden"><?= htmlSpecialChars($era['name']) ?> films</span>
 								</th>
 								<?php if ($era['review']['video']): ?>
 									<td property="review" typeof="Review">
