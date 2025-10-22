@@ -279,6 +279,10 @@
 				{
 					"@language": "en",
 					"@value": "Khan and his people prepare for inescapable global calamity, and learn they are no longer alone on this world. Are these mysterious new arrivals enemies, or possible allies?"
+				},
+				{
+					"@language": "de",
+					"@value": "Khan und seine Anhänger bereiten sich auf eine unausweichliche globale Katastrophe vor und erkennen, dass sie auf diesem Planeten nicht mehr allein sind. Doch sind die geheimnisvollen Neuankömmlinge Feinde oder mögliche Verbündete?"
 				}
 			]
 		},
@@ -317,7 +321,11 @@
 			"abstract": [
 				{
 					"@language": "en",
-					"@value": "Khan and his people prepare for inescapable global calamity, and learn they are no longer alone on this world. Are these mysterious new arrivals enemies, or possible allies?"
+					"@value": "Khan struggles to understand the Elboreans and their leader, Delmonda, while his own people’s distrust of the newcomers increases in the face of impending catastrophe."
+				},
+				{
+					"@language": "de",
+					"@value": "Khan versucht, die Elboreanier und ihre Anführerin Delmonda zu verstehen, während sein eigenes Volk den Neuankömmlingen angesichts der drohenden Katastrophe immer misstrauischer gegenübersteht."
 				}
 			]
 		},
@@ -325,6 +333,7 @@
 			"@type": "CreativeWork",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#7",
 			"episodeNumber": "7",
+			"name": "I am Marla",
 			"datePublished": "2025-10-20",
 			"director": {
 				"@type": "Person",
@@ -347,7 +356,17 @@
 				"@type": "Person",
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
-			}
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/NfW8mZiFUf4"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Forging a tenuous alliance, Khan’s followers and the Elboreans work toward possible mutual survival. As Khan weighs hard choices affecting both peoples, tragedy strikes."
+				}
+			]
 		},
 		{
 			"@type": "CreativeWork",
