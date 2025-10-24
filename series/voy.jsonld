@@ -6346,6 +6346,21 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "The crew rescues a device with artificial intelligence embedded in rock, that then proceeds to take control of The Doctor and reveals itself to be a weapon of mass destruction."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | A.I. Gone Awry",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-23",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/GJ3PHY2Mz3g"
+						}
 					}
 				},
 				{
