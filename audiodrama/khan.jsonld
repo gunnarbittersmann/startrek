@@ -372,6 +372,7 @@
 			"@type": "CreativeWork",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#8",
 			"episodeNumber": "8",
+			"name": "Original Sin",
 			"datePublished": "2025-10-27",
 			"director": {
 				"@type": "Person",
@@ -394,7 +395,17 @@
 				"@type": "Person",
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
-			}
+			},
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/Hegx5spD1MU"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Five years after disaster sweeps the planet, Khan’s people and the Elboreans prepare their joint, single venture toward salvation. Khan learns the truth behind their predicament."
+				}
+			]
 		},
 		{
 			"@type": "CreativeWork",
