@@ -1,4 +1,6 @@
 <?php
+	const STARFLEET_LOGO = '../starfleet.svg';
+
 	$json = file_get_contents('khan.jsonld');
 	$data = json_decode($json, TRUE);
 ?>
@@ -14,6 +16,27 @@
 		<link rel="stylesheet" href="../style.css"/>
 	</head>
 	<body>
+		<header>
+			<nav>
+				<ol>
+					<li>
+						<a
+							title="Star Trek"
+							aria-label="Star Trek"
+							href="/startrek"
+						>
+							<?php readfile(STARFLEET_LOGO); ?>
+						</a>
+					</li>
+					<li>
+						<a>audio drama</a>
+					</li>
+					<li>
+						<a href="#main" aria-current="page">Khan</a>
+					</li>
+				</ol>
+			</nav>
+		</header>
 		<main typeof="CreativeWorkSeries">
 			<h1><?= htmlspecialchars($data['name']) ?></h1>
 			<table>
