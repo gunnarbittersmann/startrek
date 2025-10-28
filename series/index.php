@@ -430,10 +430,10 @@ EOT;
 														<iframe allowfullscreen="" aria-label="video"></iframe>
 													</details>
 												</td>
-											<?php else: ?>
+											<?php else: // ($episode['video']) ?>
 												<td></td>
-											<?php endif; ?>
-										<?php endif; ?>
+											<?php endif; // ($episode['video']) ?>
+										<?php endif; // ($data['identifier'] == 'VST') ?>
 										<?php if ($episode['review']): ?>
 											<?php if ($episode['review']['video']): ?>
 												<td property="review" typeof="Review">
