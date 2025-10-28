@@ -1,6 +1,7 @@
 <?php
 	const PREFERRED_LANG = 'de';
 	const STARFLEET_LOGO = '../starfleet.svg';
+	const STYLESHEET = '../style.css?date=2025-10-28T01:55Z';
 	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('khan.jsonld');
@@ -15,7 +16,7 @@
 		<link rel="icon" href="../starfleet.svg"/>
 		<link rel="mask-icon" href="../starfleet.svg"/>
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
-		<link rel="stylesheet" href="../style.css"/>
+		<link rel="stylesheet" href="<?= htmlSpecialChars(STYLESHEET) ?>"/>
 	</head>
 	<body>
 		<header>
