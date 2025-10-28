@@ -1,6 +1,7 @@
 <?php
 	const PREFERRED_LANG = 'de';
 	const STARFLEET_LOGO = '../starfleet.svg';
+	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('khan.jsonld');
 	$data = json_decode($json, TRUE);
@@ -129,6 +130,20 @@
 							<?php else: // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 								<td></td>
 							<?php endif; // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
+							<?php if ($episode['video']): ?>
+								<td>
+									<details lang="en" property="video" typeof="VideoObject">
+										<summary>Video</summary>
+										<meta
+											property="embedUrl"
+											content="<?= htmlSpecialChars($episode['video']['embedUrl']) ?>"
+										/>
+										<iframe allowfullscreen="" aria-label="video"></iframe>
+									</details>
+								</td>
+							<?php else: // ($episode['video']) ?>
+								<td></td>
+							<?php endif; // ($episode['video']) ?>
 						</tr>
 					<?php endforeach; // ($data['episode'] as $episode) ?>
 				</tbody>
@@ -158,5 +173,8 @@
 					<cite>Wikipedia</cite>
 				<?php endif; ?>
 		</footer>
+		<script>
+			<?php readfile(SCRIPT); ?>
+		</script>
 	</body>
 </html>
