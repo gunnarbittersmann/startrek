@@ -42,10 +42,10 @@
 			<table>
 				<tbody>
 					<?php foreach ($data['episode'] as $episode): ?>
-						<tr>
-							<td><?= htmlspecialchars($episode['episodeNumber']) ?></td>
-							<td><?= htmlspecialchars($episode['name']) ?></td>
-							<td><?= htmlspecialchars($episode['datePublished']) ?></td>
+						<tr property="episode" typeof="<?= htmlSpecialChars($episode['@type']) ?>">
+							<th property="episodeNumber"><?= htmlspecialchars($episode['episodeNumber']) ?></th>
+							<td property="name"><?= htmlspecialchars($episode['name']) ?></td>
+							<td><time property="datePublished"><?= htmlspecialchars($episode['datePublished']) ?></time></td>
 						</tr>
 					<?php endforeach; // ($data['episode'] as $episode) ?>
 				</tbody>
