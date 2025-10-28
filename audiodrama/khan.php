@@ -130,20 +130,20 @@
 							<?php else: // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 								<td></td>
 							<?php endif; // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
-							<?php if ($episode['video']): ?>
+							<?php if ($episode['audio']): ?>
 								<td>
-									<details lang="en" property="video" typeof="VideoObject">
-										<summary>Video</summary>
+									<details lang="en" property="audio" typeof="AudioObject">
+										<summary>Audio</summary>
 										<meta
 											property="embedUrl"
-											content="<?= htmlSpecialChars($episode['video']['embedUrl']) ?>"
+											content="<?= htmlSpecialChars($episode['audio']['embedUrl']) ?>"
 										/>
-										<iframe allowfullscreen="" aria-label="video"></iframe>
+										<iframe allowfullscreen="" aria-label="audio"></iframe>
 									</details>
 								</td>
-							<?php else: // ($episode['video']) ?>
+							<?php else: // ($episode['audio']) ?>
 								<td></td>
-							<?php endif; // ($episode['video']) ?>
+							<?php endif; // ($episode['audio']) ?>
 						</tr>
 					<?php endforeach; // ($data['episode'] as $episode) ?>
 				</tbody>

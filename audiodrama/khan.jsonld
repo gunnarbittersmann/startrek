@@ -2,7 +2,7 @@
 	"@context": {
 		"@vocab": "https://schema.org/"
 	},
-	"@type": "CreativeWorkSeries",
+	"@type": "PodcastSeries",
 	"name": "Star Trek: Khan",
 	"inLanguage": "en",
 	"isBasedOn": {
@@ -41,7 +41,7 @@
 	],
 	"episode": [
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#1",
 			"episodeNumber": "1",
 			"name": "Paradise",
@@ -68,8 +68,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/UDOn6BBis_8"
 			},
 			"abstract": [
@@ -92,7 +92,7 @@
 						"name": "TrekCulture"
 					},
 					"datePublished": "2025-09-10",
-					"video": {
+					"audio": {
 						"@type": "AudioObject",
 						"embedUrl": "https://shows.acast.com/d5eda24e-db83-4d5f-a814-c968821c56bf/episodes/68c1915205de5daa22916262?"
 					}
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#2",
 			"episodeNumber": "2",
 			"name": "Scheherazade",
@@ -142,8 +142,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/7cuTIdxpZSY"
 			},
 			"abstract": [
@@ -158,7 +158,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#3",
 			"episodeNumber": "3",
 			"name": "Do Your Worst",
@@ -185,8 +185,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/z2kSyl0un-c"
 			},
 			"abstract": [
@@ -201,7 +201,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#4",
 			"episodeNumber": "4",
 			"name": "Magical Thinking",
@@ -228,8 +228,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/VrDZ7x-6W5U"
 			},
 			"abstract": [
@@ -244,7 +244,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#5",
 			"episodeNumber": "5",
 			"name": "Imagination’s Limits",
@@ -271,8 +271,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/3iO16CEe2hY"
 			},
 			"abstract": [
@@ -287,7 +287,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#6",
 			"episodeNumber": "6",
 			"name": "The Good of All",
@@ -314,8 +314,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/Tg91tPYefh4"
 			},
 			"abstract": [
@@ -330,7 +330,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#7",
 			"episodeNumber": "7",
 			"name": "I am Marla",
@@ -357,8 +357,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/NfW8mZiFUf4"
 			},
 			"abstract": [
@@ -369,7 +369,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#8",
 			"episodeNumber": "8",
 			"name": "Original Sin",
@@ -396,8 +396,8 @@
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
 			},
-			"video": {
-				"@type": "VideoObject",
+			"audio": {
+				"@type": "AudioObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/Hegx5spD1MU"
 			},
 			"abstract": [
@@ -408,7 +408,7 @@
 			]
 		},
 		{
-			"@type": "CreativeWork",
+			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#9",
 			"episodeNumber": "9",
 			"datePublished": "2025-11-03",
