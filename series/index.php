@@ -377,7 +377,7 @@ EOT;
 														<p property="<?= htmlSpecialChars($plotType) ?>">
 															<?= htmlSpecialChars($plotValue) ?>
 														</p>
-													<?php endif; ?>
+													<?php endif; // ($hasPlot) ?>
 													<?php if ($episode['subjectOf']): ?>
 														<p>
 															<?php if ($plotLang == 'de'): ?>
@@ -395,7 +395,7 @@ EOT;
 																		(<?= htmlSpecialChars($episode['subjectOf']['inLanguage']) ?>)
 																	</a>
 																</span>
-															<?php else: ?>
+															<?php else: // ($episode['subjectOf']['url']) ?>
 																<?php foreach ($episode['subjectOf'] as $index => $source): ?>
 																	<?php if ($index): ?>
 																		&amp;
@@ -409,15 +409,15 @@ EOT;
 																			(<?= htmlSpecialChars($source['inLanguage']) ?>)
 																		</a>
 																	</span>
-																<?php endforeach; ?>
-															<?php endif; ?>
+																<?php endforeach; // ($episode['subjectOf'] as $index => $source) ?>
+															<?php endif; // ($episode['subjectOf']['url']) ?>
 														</p>
-													<?php endif; ?>
+													<?php endif; // ($episode['subjectOf']) ?>
 												</details>
 											</td>
-										<?php else: ?>
+										<?php else: // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 											<td></td>
-										<?php endif; ?>
+										<?php endif; // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 										<?php if ($data['identifier'] == 'VST'): ?>
 											<?php if ($episode['video']): ?>
 												<td>
