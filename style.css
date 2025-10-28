@@ -237,7 +237,8 @@ td[property="director"],
 td[property="author"],
 td:has([property="author"]),
 td[property="review"],
-td:has([property="video"]) {
+td:has([property="video"]),
+td:has([property="audio"]) {
 	width: 18em;
 }
 
@@ -302,8 +303,9 @@ ul:has(details) {
 	}
 }
 
-details:has([property="video"]) {
-		iframe {
+details:has([property="video"]),
+details:has([property="audio"]) {
+	iframe {
 		margin-bottom: 0;
 	}
 

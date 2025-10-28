@@ -9,7 +9,7 @@
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2025-08-14T18:04Z';
+	const STYLESHEET = '../style.css?date=2025-10-28T01:55Z';
 	const SCRIPT = '../script.js';
 
 	$files = scandir('.');
@@ -377,7 +377,7 @@ EOT;
 														<p property="<?= htmlSpecialChars($plotType) ?>">
 															<?= htmlSpecialChars($plotValue) ?>
 														</p>
-													<?php endif; ?>
+													<?php endif; // ($hasPlot) ?>
 													<?php if ($episode['subjectOf']): ?>
 														<p>
 															<?php if ($plotLang == 'de'): ?>
@@ -395,7 +395,7 @@ EOT;
 																		(<?= htmlSpecialChars($episode['subjectOf']['inLanguage']) ?>)
 																	</a>
 																</span>
-															<?php else: ?>
+															<?php else: // ($episode['subjectOf']['url']) ?>
 																<?php foreach ($episode['subjectOf'] as $index => $source): ?>
 																	<?php if ($index): ?>
 																		&amp;
@@ -409,15 +409,15 @@ EOT;
 																			(<?= htmlSpecialChars($source['inLanguage']) ?>)
 																		</a>
 																	</span>
-																<?php endforeach; ?>
-															<?php endif; ?>
+																<?php endforeach; // ($episode['subjectOf'] as $index => $source) ?>
+															<?php endif; // ($episode['subjectOf']['url']) ?>
 														</p>
-													<?php endif; ?>
+													<?php endif; // ($episode['subjectOf']) ?>
 												</details>
 											</td>
-										<?php else: ?>
+										<?php else: // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 											<td></td>
-										<?php endif; ?>
+										<?php endif; // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 										<?php if ($data['identifier'] == 'VST'): ?>
 											<?php if ($episode['video']): ?>
 												<td>
@@ -430,10 +430,10 @@ EOT;
 														<iframe allowfullscreen="" aria-label="video"></iframe>
 													</details>
 												</td>
-											<?php else: ?>
+											<?php else: // ($episode['video']) ?>
 												<td></td>
-											<?php endif; ?>
-										<?php endif; ?>
+											<?php endif; // ($episode['video']) ?>
+										<?php endif; // ($data['identifier'] == 'VST') ?>
 										<?php if ($episode['review']): ?>
 											<?php if ($episode['review']['video']): ?>
 												<td property="review" typeof="Review">
