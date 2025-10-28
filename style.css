@@ -303,7 +303,7 @@ ul:has(details) {
 }
 
 details:has([property="video"]) {
-		iframe {
+	iframe {
 		margin-bottom: 0;
 	}
 
