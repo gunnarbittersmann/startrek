@@ -1,4 +1,5 @@
 <?php
+	const PREFERRED_LANG = 'de';
 	const STARFLEET_LOGO = '../starfleet.svg';
 
 	$json = file_get_contents('khan.jsonld');
@@ -46,6 +47,88 @@
 							<th property="episodeNumber"><?= htmlspecialchars($episode['episodeNumber']) ?></th>
 							<td property="name"><?= htmlspecialchars($episode['name']) ?></td>
 							<td><time property="datePublished"><?= htmlspecialchars($episode['datePublished']) ?></time></td>
+							<?php if ($episode['description'] || $episode['abstract'] || $episode['subjectOf']): ?>
+								<?php
+									$hasPlot = ($episode['description'] || $episode['abstract']);
+									if ($hasPlot) {
+										$plotType = ($episode['description']) ? 'description' : 'abstract';
+										if ($episode[$plotType]['@value']) {
+											$plotValue = $episode[$plotType]['@value'];
+											$plotLang = $episode[$plotType]['@language'];
+										}
+										elseif (is_array($episode[$plotType])) {
+											$plotArray = array_filter($episode[$plotType], function ($entry) {
+												return $entry['@language'] == PREFERRED_LANG;
+											});
+											if (!count($plotArray)) {
+												$plotArray = $episode[$plotType];
+											}
+											$firstKey = array_key_first($plotArray);
+											$plotValue = $plotArray[$firstKey]['@value'];
+											$plotLang = $plotArray[$firstKey]['@language'];
+										}
+									}
+								?>
+								<td>
+									<details lang="<?= htmlSpecialChars($plotLang) ?>">
+										<summary
+											aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?><?= ($plotLang == 'de' && $translation) ? 'de' : '' ?>"
+										>
+											<?php if ($hasPlot): ?>
+												<?php if ($plotLang == 'de'): ?>
+													Handlung
+												<?php else: ?>
+													Plot
+												<?php endif; ?>
+											<?php else: ?>
+												Links
+											<?php endif; ?>
+										</summary>
+										<?php if ($hasPlot): ?>
+											<p property="<?= htmlSpecialChars($plotType) ?>">
+												<?= htmlSpecialChars($plotValue) ?>
+											</p>
+										<?php endif; // ($hasPlot) ?>
+										<?php if ($episode['subjectOf']): ?>
+											<p>
+												<?php if ($plotLang == 'de'): ?>
+													siehe auch:
+												<?php else: ?>
+													see also:
+												<?php endif; ?>
+												<?php if ($episode['subjectOf']['url']): ?>
+													<span property="subjectOf" typeof="Webpage">
+														<a
+															property="url"
+															href="<?= htmlSpecialChars($episode['subjectOf']['url']) ?>"
+														>
+															<?= htmlSpecialChars($episode['subjectOf']['publisher']['name']) ?>
+															(<?= htmlSpecialChars($episode['subjectOf']['inLanguage']) ?>)
+														</a>
+													</span>
+												<?php else: // ($episode['subjectOf']['url']) ?>
+													<?php foreach ($episode['subjectOf'] as $index => $source): ?>
+														<?php if ($index): ?>
+															&amp;
+														<?php endif; ?>
+														<span property="subjectOf" typeof="Webpage">
+															<a
+																property="url"
+																href="<?= htmlSpecialChars($source['url']) ?>"
+															>
+																<?= htmlSpecialChars($source['publisher']['name']) ?>
+																(<?= htmlSpecialChars($source['inLanguage']) ?>)
+															</a>
+														</span>
+													<?php endforeach; // ($episode['subjectOf'] as $index => $source) ?>
+												<?php endif; // ($episode['subjectOf']['url']) ?>
+											</p>
+										<?php endif; // ($episode['subjectOf']) ?>
+									</details>
+								</td>
+							<?php else: // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
+								<td></td>
+							<?php endif; // ($episode['description'] || $episode['abstract'] || $episode['subjectOf']) ?>
 						</tr>
 					<?php endforeach; // ($data['episode'] as $episode) ?>
 				</tbody>
