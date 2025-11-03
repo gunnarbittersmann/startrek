@@ -39,6 +39,7 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Khan"
 		}
 	],
+	"numberOfEpisodes": 9,
 	"episode": [
 		{
 			"@type": "PodcastEpisode",
@@ -411,6 +412,7 @@
 			"@type": "PodcastEpisode",
 			"@id": "https://bittersmann.de/startrek/podcasts/khan#9",
 			"episodeNumber": "9",
+			"name": "Eternity’s Face",
 			"datePublished": "2025-11-03",
 			"director": {
 				"@type": "Person",
@@ -433,7 +435,17 @@
 				"@type": "Person",
 				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
 				"name": "Nicholas Meyer"
-			}
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/pWJFzQzJxgs"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": " Dissent among Khan’s followers threatens Venture’s launch. Khan faces one last threat to his rule, and a final decision that seals his fate."
+				}
+			]
 		}
 	]
 }
