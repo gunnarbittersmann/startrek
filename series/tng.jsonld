@@ -2878,6 +2878,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Riker wird das Kommando über ein Föderationsraumschiff angeboten. Vorgeblich, um ihn auf diese Rolle vorzubereiten, kommt sein Vater, ein Militärstratege, an Bord. Rikers Entscheidungsfindung gerät in den Hintergrund, als beide mit der Bewältigung ihrer schwierigen Vergangenheit konfrontiert sind. Riker lehnt das Angebot schließlich ab. Währenddessen unternimmt Wesley Anstrengungen, Worf an dessen zehnten Jahrestag der Initiation aufzuheitern, und überrascht ihn zusammen mit Worfs Kollegen im Holodeck mit einem klingonischen Ritual."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Drama",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/2XwhcOIvYJk"
+						}
 					}
 				},
 				{
