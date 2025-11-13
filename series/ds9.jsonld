@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/ds9",
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",

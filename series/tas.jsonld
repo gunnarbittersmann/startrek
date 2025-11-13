@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/tas",
 	"name": "Star Trek: The Animated Series",
 	"identifier": "TAS",
 	"inLanguage": "en",

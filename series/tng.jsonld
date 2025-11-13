@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/tng",
 	"name": "Star Trek: The Next Generation",
 	"identifier": "TNG",
 	"inLanguage": "en",

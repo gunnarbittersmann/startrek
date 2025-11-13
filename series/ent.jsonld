@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/ent",
 	"name": "Star Trek: Enterprise",
 	"identifier": "ENT",
 	"inLanguage": "en",
