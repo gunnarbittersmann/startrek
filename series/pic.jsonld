@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/pic",
 	"name": "Star Trek: Picard",
 	"identifier": "PIC",
 	"inLanguage": "en",

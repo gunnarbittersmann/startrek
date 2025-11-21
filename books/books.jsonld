@@ -1,0 +1,696 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/",
+		"abstract": {
+			"@id": "https://schema.org/abstract",
+			"@container": "@language"
+		},
+		"description": {
+			"@id": "https://schema.org/description",
+			"@container": "@language"
+		}
+	},
+	"@type": "BookSeries",
+	"hasPart": [
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/tos",
+				"name": "Star Trek: The Original Series",
+				"identifier": "TOS",
+				"url": "https://bittersmann.de/startrek/series/tos"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Agents of Influence",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2020-06-09",
+					"description": {
+						"en": "For years, Starfleet Intelligence agents have carried out undercover assignments deep within the Klingon Empire. Surgically altered and rigorously trained in Klingon culture, they operate in plain sight and without any direct support, while collecting information and infiltrating the highest levels of imperial power. Their actions have given Starfleet valuable insight into the inner workings of Klingon government and its relentless military apparatus. After three of Starfleet’s longest serving agents fear exposure, they initiate emergency extraction procedures. Their planned rendezvous with the USS Endeavour goes awry, threatening to reveal their activities and the damaging intelligence they’ve collected during their mission. Tasked by Starfleet to salvage the botched rescue attempt, Captain James T. Kirk and the crew of the USS Enterprise must discover the truth behind a secret weapons experiment while avoiding an interstellar incident with the potential to ignite a new war between the Federation and one of its oldest adversaries."
+					},
+					"url": "https://www.simonandschuster.com/books/Agents-of-Influence/Dayton-Ward/Star-Trek-The-Original-Series/9781982133689",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982133689/agents-of-influence-9781982133689_lg.jpg",
+					"isbn": "9781982133689",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/s9kHaGNDck0"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Living Memory",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChristopherLBennett",
+						"name": "Christopher L. Bennett",
+						"givenName": "Christopher",
+						"additionalName": "L.",
+						"familyName": "Bennett"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2021-06-15",
+					"description": {
+						"en": "While attempting to settle in as commandant of Starfleet Academy, Admiral James T. Kirk must suddenly contend with the controversial, turbulent integration of an alien warrior caste into the student body—and quickly becomes embroiled in conflict when the Academy controversy escalates to murder. Meanwhile, Captain Spock of the USS Enterprise and Commander Pavel Chekov of the USS Reliant are investigating a series of powerful cosmic storms seemingly targeting Federation worlds—unstoppable outbursts emitting from the very fabric of space. Endeavoring to predict where the lethal storms will strike next, Spock and Chekov make the shocking discovery that the answer lies in Commander Nyota Uhura’s past—one that she no longer remembers…."
+					},
+					"url": "https://www.simonandschuster.com/books/Living-Memory/Christopher-L-Bennett/Star-Trek-The-Original-Series/9781982165895",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982165895/living-memory-9781982165895_lg.jpg",
+					"isbn": "9781982165895",
+					"numberOfPages": 320,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Ek8KT91Ev1g"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Lost to Eternity",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GregCox",
+						"name": "Greg Cox",
+						"givenName": "Greg",
+						"familyName": "Cox"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2024-06-23",
+					"description": {
+						"en": "Three Eras. Three Mysteries. One Ancient Enemy? 2024: Almost forty years ago, marine biologist Gillian Taylor stormed away from her dream job at Sausalito’s Cetacean Institute—and was never seen or heard from again. Now a new true crime podcast has reopened that cold case, but investigator Melinda Silver has no idea that her search for the truth about Gillian’s disappearance will ultimately stretch across time and space—and attract the attention of a ruthless obsessive with his own secret agenda. 2268: The U.S.S. Enterprise’s five-year mission is interrupted when Captain James T. Kirk and his crew set out to recover an abducted Federation scientist whose classified secrets are being sought by the Klingons as well. The trail leads to a barbaric world off limits to both Starfleet and the Klingon Empire—and an ageless mastermind on a quest for eternity. 2292: The Osori, an ancient alien species, has finally agreed to establish relations with its much younger neighbors: the Federation, the Klingons, and the Romulans. A joint mission involving ships from all three powers, including the Enterprise-A, turns explosive when one of the Osori envoys is apparently killed. Each side blames the others, but the truth lies buried deep, nearly three hundred years in the past…"
+					},
+					"url": "https://www.simonandschuster.com/books/Lost-to-Eternity/Greg-Cox/Star-Trek-The-Original-Series/9781668050057",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668050057/lost-to-eternity-9781668050057_lg.jpg",
+					"isbn": "9781668050057",
+					"numberOfPages": 400,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2024-08-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/l17QnIGbx1A"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/tng",
+				"name": "Star Trek: The Next Generation",
+				"identifier": "DS9",
+				"url": "https://bittersmann.de/startrek/series/tng"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Pliable Truth",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tng"
+					},
+					"datePublished": "2024-05-21",
+					"abstract": {
+						"en": "A thrilling new Star Trek: The Next Generation and Deep Space Nine adventure from New York Times bestselling author Dayton Ward!"
+					},
+					"description": {
+						"en": "2369: Shortly after Starfleet thwarts a Cardassian attack on a Federation star system, the Cardassian government orders an end to its fifty-year occupation of the planet Bajor. As a result, a newly installed Bajoran government requests immediate assistance from the Federation to mediate how the withdrawal will proceed and what recompense, if any, Bajorans are owed from their brutal oppressors. Captain Jean-Luc Picard is ordered by Starfleet Command to oversee these tense negotiations on Terok Nor, the massive Cardassian space station still orbiting Bajor, even as he still deals with his own recent trauma as a prisoner held and tortured by a Cardassian interrogator. As these critical peace talks get underway, Ensign Ro Laren receives a call for help from a friend thought long dead, exposing an insidious secret from inside Cardassian space. Now, Picard and the crew of the Starship Enterprise must act to prevent an interstellar incident from reigniting deadly hostilities between the Federation and the Cardassians, and shattering any hope of justice for the Bajoran people…"
+					},
+					"url": "https://www.simonandschuster.com/books/Pliable-Truths/Dayton-Ward/Star-Trek-The-Next-Generation/9781668046418",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668046418/pliable-truths-9781668046418_lg.jpg",
+					"isbn": "9781668046418",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/I8EieNKmq9g"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/ds9",
+				"name": "Star Trek: Deep Space Nine",
+				"identifier": "DS9",
+				"url": "https://bittersmann.de/startrek/series/ds9"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Enigma Tales",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/ds9"
+					},
+					"datePublished": "2017-06-27",
+					"abstract": {
+						"en": "From the New York Times bestselling author of The Fall: The Crimson Shadow comes a compelling and suspenseful tale of politics and power set in the universe of Star Trek: Deep Space Nine."
+					},
+					"description": {
+						"en": "Elim Garak has ascended to Castellan of the Cardassian Union…but despite his soaring popularity, the imminent publication of a report exposing his people’s war crimes during the occupation on Bajor looks likely to set the military against him. Into this tense situation come Dr. Katherine Pulaski—visiting Cardassia Prime to accept an award on behalf of the team that solved the Andorian genetic crisis—and Dr. Peter Alden, formerly of Starfleet Intelligence. The two soon find themselves at odds with Garak and embroiled in the politics of the prestigious University of the Union, where a new head is about to be appointed. Among the front-runners is one of Cardassia’s most respected public figures: Professor Natima Lang. But the discovery of a hidden archive from the last years before the Dominion War could destroy Lang’s reputation. As Pulaski and Alden become drawn into a deadly game to exonerate Lang, their confrontation escalates with Castellan Garak—a conflicted leader treading a fine line between the bright hopes for Cardassia’s future and the dark secrets still buried in its past…"
+					},
+					"url": "https://www.simonandschuster.com/books/Enigma-Tales/Una-McCormack/Star-Trek-Deep-Space-Nine/9781501152580",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501152580/enigma-tales-9781501152580_lg.jpg",
+					"isbn": "9781501152580",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/jyOkO7ZoHq0"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/dsc",
+				"name": "Star Trek: Discovery",
+				"identifier": "DSC",
+				"url": "https://bittersmann.de/startrek/series/dsc"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Wonderlands",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/dsc"
+					},
+					"datePublished": "2021-05-18",
+					"description": {
+						"en": "In a desperate attempt to prevent the artificial intelligence known as Control from seizing crucial information that could destroy all sentient life, Commander Michael Burnham donned the “Red Angel” time-travel suit and guided the USS Discovery into the future and out of harm’s way. But something has gone terribly wrong, and Burnham has somehow arrived in a place far different from anything she could have imagined—more than nine hundred years out of her time, with Discovery nowhere to be found, and where the mysterious and cataclysmic event known as “the Burn” has utterly decimated Starfleet and, with it, the United Federation of Planets. How then can she possibly exist day-to-day in this strange place? What worlds are out there waiting to be discovered? Do any remnants of Starfleet and the Federation possibly endure? With more questions than answers, Burnham must nevertheless forge new friendships and new alliances if she hopes to survive this future long enough for the Discovery crew to find her…."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Wonderlands/Una-McCormack/Star-Trek-Discovery/9781982157548",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982157548/star-trek-discovery-wonderlands-9781982157548_lg.jpg",
+					"isbn": "9781982157548",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2021-05-20",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/X5wUiueMZDI"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Somewhere To Belong",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/dsc"
+					},
+					"datePublished": "2023-05-30",
+					"description": {
+						"en": "Captain Michael Burnham and the crew of the USS Discovery are finding that each day is a critical adjustment to their new lives and new missions in an Alpha Quadrant more than nine hundred years in the future. It’s here that Discovery is reconnecting with various worlds where the cataclysmic event known as “the Burn” has decimated Starfleet and, with it, the United Federation of Planets. There’s been precious little time for the crew to truly come to terms with their present reality, as their devotion to duty hides the emotional stress that could impact their effectiveness, and even threaten themselves or others. After a successful journey to yet another planet cut off from the Federation, Discovery picks up a distress signal located in a nearby star system—a plea that harbors roots from their past lives in the 23rd century, and which may now lead to an entirely new crisis, plunging them all into mortal danger…"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Discovery-Somewhere-to-Belong/Dayton-Ward/Star-Trek-Discovery/9781668002292",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668002292/star-trek-discovery-somewhere-to-belong-9781668002292_lg.jpg",
+					"isbn": "9781668002292",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/NcAMGrhgvfA"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/pic",
+				"name": "Star Trek: Picard",
+				"identifier": "PIC",
+				"url": "https://bittersmann.de/startrek/series/pic"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Rogue Elements",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JohnJacksonMiller",
+						"name": "John Jackson Miller",
+						"givenName": "John",
+						"additionalName": "Jackson",
+						"familyName": "Miller"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2022-06-07",
+					"description": {
+						"en": "Starfleet was everything for Cristóbal Rios…until one horrible, inexplicable day when it all went wrong. Aimless and adrift, he grasps at a chance for a future as an independent freighter captain in an area betrayed by the Federation, the border region with the former Romulan Empire. His greatest desire: to be left alone. But solitude isn’t in the cards for the captain of La Sirena, who falls into debt to a roving gang of hoodlums from a planet whose society is based on Prohibition-era Earth. Teamed against his will with Ledger, his conniving overseer, Rios begins an odyssey that brings him into conflict with outlaws and fortune seekers, with power brokers and relic hunters across the stars. Exotic loves and locales await—as well as dangers galore—and Rios learns the hard way that good crewmembers are hard to find, even when you can create your own. And while his meeting with Jean-Luc Picard is years away, Rios finds himself drawing on the Starfleet legend’s experiences when he discovers a mystery that began on one of the galaxy’s most important days…."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Rogue-Elements/John-Jackson-Miller/9781982175207",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982175207/star-trek-picard-rogue-elements-9781982175207_lg.jpg",
+					"isbn": "9781982175207",
+					"numberOfPages": 416,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/lVqX-VVS8TE"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Second Self",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2023-09-19",
+					"description": {
+						"en": "Following the explosive events seen in season one of Star Trek: Picard, Raffi Musiker finds herself torn between returning to her old life as a Starfleet Intelligence officer or something a little more tame—teaching at the Academy, perhaps. The decision is made for her though when a message from an old contact—a Romulan spy—is received, asking for immediate aid. With the help of Elnor and assistance from Jean-Luc Picard, Raffi decides to take on this critical mission—and quickly learns that past sins never stay buried. Finding the truth will be complicated, and deadly…"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Second-Self/Una-McCormack/Star-Trek-Picard/9781982194833",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982194833/star-trek-picard-second-self-9781982194833_lg.jpg",
+					"isbn": "9781982194833",
+					"numberOfPages": 320,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Firewall",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2024-02-27",
+					"description": {
+						"en": "Two years after the USS Voyager’s return from the Delta Quadrant, Seven of Nine finds herself rejected for a position in Starfleet…and instead finds a new home with the interstellar rogue law enforcement corps known as the Fenris Rangers. The Rangers seem like an ideal fit for Seven—but to embrace this new destiny, she must leave behind all she’s ever known, and risk losing the most important thing in her life: her friendship with Admiral Kathryn Janeway."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-Firewall/David-Mack/Star-Trek-Picard/9781668046357",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668046357/star-trek-picard-firewall-9781668046357_lg.jpg",
+					"isbn": "9781668046357",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/saU9MULNM_I"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/snw",
+				"name": "Star Trek: Strange New Worlds",
+				"identifier": "SNW",
+				"url": "https://bittersmann.de/startrek/series/snw"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Toward the Night",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
+						"name": "James Swallow",
+						"givenName": "James",
+						"familyName": "Swallow"
+					},
+					"datePublished": "2025-04-29",
+					"description": {
+						"en": "While patrolling the borders of the Klingon Empire, Captain Christopher Pike and the crew of the USS Enterprise record a series of subspace echoes from a planet orbiting a volatile flare star—and when Lieutenant Spock and Commander Una Chin-Riley lead a landing party to learn more, they discover the ruins of a dead civilization and evidence of starship-grade metals…quite possibly a crash site. As they continue to investigate the strange signals, Spock and Una find shocking signs of dangerous alien life and remnants of what can only be Federation hardware. The trail soon leads Pike and Enterprise’s helmswoman Lieutenant Erica Ortegas deep into the mystery of a lost Starfleet vessel, missing in action for over ninety years—and to a terrible dilemma that will challenge the crew to question their past…and their future."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Strange-New-Worlds-Toward-the-Night/James-Swallow/Star-Trek-Strange-New-Worlds/9781668074565",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668074565/star-trek-strange-new-worlds-toward-the-night-9781668074565_lg.jpg",
+					"isbn": "9781668074565",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2025-07-01",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-nf_8P6b1cA"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Ring of Fire",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"datePublished": "2025-10-07",
+					"description": {
+						"en": "When murder and sabotage imperil the time-sensitive and top-secret mission of a team of civilian scientists, Starfleet deploys Captain Christopher Pike and the Enterprise crew to Kathara Station, a classified research facility located above the accretion disk of a black hole. Lieutenant Commander Una Chin-Riley soon discovers the station’s director, Valkeya, is hiding secrets—but so is Captain Pike, who many years earlier visited this same black hole on a mission that went tragically wrong, and whose consequences have haunted him ever since. Caught in the crossfire on the station are Science Officer Spock, Nurse Christine Chapel, and Security Chief La’An Noonien-Singh, whose romantic entanglements old and new threaten to unravel their bonds of friendship. As enemies converge upon the station, can Valkeya and Pike both atone for the mistakes of their pasts in time to avert a tragedy? With time running out, the survival of Kathara Station, the USS Enterprise, and dozens of innocent lives hinges on their acts of contrition…"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Strange-New-Worlds-Ring-of-Fire/David-Mack/Star-Trek-Strange-New-Worlds/9781668095898",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668095898/star-trek-strange-new-worlds-ring-of-fire-9781668095898_lg.jpg",
+					"isbn": "9781668095898",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YEUCtB8LkTA"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"name": "Star Trek: Coda",
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "Moments Asunder",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"datePublished": "2021-09-28",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "STARFLEET’S FINEST FACES A CHALLENGE UNLIKE ANY OTHER. TOMORROW IS DOOMED: Time is coming apart. Countless alternate and parallel realities are under attack, weakening and collapsing from relentless onslaught. If left unchecked, the universe faces an unstoppable descent toward entropy. WANDERER, ORACLE, ALLY: Scarred and broken after decades spent tracking this escalating temporal disaster, while battling the nameless enemy responsible for it, an old friend seeks assistance from Captain Jean-Luc Picard and the crew of the Starship Enterprise. The apocalypse may originate from their future, but might the cause lie in their past? EVERYTHING THAT WILL BE: Identifying their adversary is but the first step toward defeating them, but early triumphs come with dreadful costs. What will the price be to achieve final victory, and how will that success be measured in futures as yet undefined?"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-1-Moments-Asunder/Dayton-Ward/Star-Trek/9781982158521",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982158521/star-trek-coda-book-1-moments-asunder-9781982158521_lg.jpg",
+					"isbn": "9781982158521",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/hP7D8q19bc0ig"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "The Ashes of Tomorrow",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
+						"name": "James Swallow",
+						"givenName": "James",
+						"familyName": "Swallow"
+					},
+					"datePublished": "2021-10-26",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "THE FUTURE IS AT WAR WITH THE PAST. The epic Star Trek: Coda trilogy continues as friends become foes, the Temporal Apocalypse accelerates, and the catastrophe’s true cause is revealed."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-2-The-Ashes-of-Tomorrow/James-Swallow/Star-Trek/9781982158545",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982158545/star-trek-coda-book-2-the-ashes-of-tomorrow-9781982158545_lg.jpg",
+					"isbn": "9781982158545",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kC0TVceqMuc"
+						}
+					}
+				},
+				{
+					"@type": "Book",
+					"name": "Oblivion’s Gate",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"datePublished": "2021-11-30",
+					"abstract": {
+						"en": "The crews of Jean-Luc Picard, Benjamin Sisko, Ezri Dax, and William Riker unite to prevent a cosmic-level apocalypse—only to find that some fates really are inevitable."
+					},
+					"description": {
+						"en": "THEIR MOST DAUNTING MISSION WILL BE THEIR FINEST HOUR. The epic Star Trek: Coda trilogy comes to a shattering conclusion as the Temporal Apocalypse forces Starfleet’s greatest heroes to make the greatest sacrifices of their lives."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Coda-Book-3-Oblivions-Gate/David-Mack/Star-Trek/9781982159672",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982159672/star-trek-coda-book-3-oblivions-gate-9781982159672_lg.jpg",
+					"isbn": "9781982159672",
+					"numberOfPages": 448,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/OcM7pBnkf14"
+						}
+					}
+				}
+			]
+		}
+	]
+}

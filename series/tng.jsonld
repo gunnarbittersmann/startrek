@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/tng",
 	"name": "Star Trek: The Next Generation",
 	"identifier": "TNG",
 	"inLanguage": "en",
@@ -2878,6 +2879,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Riker wird das Kommando über ein Föderationsraumschiff angeboten. Vorgeblich, um ihn auf diese Rolle vorzubereiten, kommt sein Vater, ein Militärstratege, an Bord. Rikers Entscheidungsfindung gerät in den Hintergrund, als beide mit der Bewältigung ihrer schwierigen Vergangenheit konfrontiert sind. Riker lehnt das Angebot schließlich ab. Währenddessen unternimmt Wesley Anstrengungen, Worf an dessen zehnten Jahrestag der Initiation aufzuheitern, und überrascht ihn zusammen mit Worfs Kollegen im Holodeck mit einem klingonischen Ritual."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/2XwhcOIvYJk"
+						}
 					}
 				},
 				{
@@ -5245,6 +5261,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise befindet sich zu Reparaturzwecken angedockt an einer Raumstation im Erdorbit. Währenddessen erhält Worf auf der Enterprise Besuch von seinen Adoptiveltern, dabei geht es auch um die Entehrung seines Hauses. Dr. Crusher lässt Wesley eine holografische Botschaft seines lange toten Vaters ansehen. Unterdessen ist Picard in Frankreich zu Besuch bei seiner Familie; darunter ist auch sein Bruder, mit dem er sich vor Jahren einst zerstritten hatte. Der Streit flammt erneut auf; zudem erhält Picard das Angebot, statt in der Sternenflotte an einem wissenschaftlichen Projekt auf der Erde mitzuarbeiten. Das Angebot lehnt er schließlich ab und nachdem der Streit mit seinem Bruder ausgestanden ist, kehrt er auf die Enterprise zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-14",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/L8TMvUivNVo"
+						}
 					}
 				},
 				{

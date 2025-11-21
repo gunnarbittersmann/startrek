@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/ds9",
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",
@@ -4548,7 +4549,22 @@
 							"@language": "de",
 							"@value": "Sisko baut nach sehr alten Konstruktionsplänen, die er auf Bajor in einer Bibliothek gefunden hat, ein primitives, mit Solarsegeln betriebenes Raumschiff, um zu beweisen, dass die alten Bajoraner, gemäß ihrer Legenden, mit solchen Schiffen weit gereist sind, etwa bis nach Cardassia. Trotz einiger Schwierigkeiten gelingt Sisko und Jake die Reise dorthin, wo sie von Gul Dukat freundlich empfangen werden."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-20",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/50aJINOfacY"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",

@@ -221,7 +221,8 @@ td:empty {
 	padding: 0 !important;
 }
 
-[property="episodeNumber"] {
+[property="episodeNumber"],
+[property="isBasedOn"] {
 	width: 2em;
 }
 
@@ -231,6 +232,7 @@ tr:last-of-type [property="episodeNumber"] {
 
 td[property="name"],
 td[property="workTranslation"],
+td[property="creator"],
 td[property="director"],
 td[property="author"],
 td:has([property="author"]),

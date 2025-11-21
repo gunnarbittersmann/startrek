@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/snw",
 	"name": "Star Trek: Strange New Worlds",
 	"identifier": "SNW",
 	"inLanguage": "en",

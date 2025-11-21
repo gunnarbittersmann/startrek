@@ -497,6 +497,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-10-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/4iOF4h_HtGY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Sacred Treks",
 							"creator": {
 								"@type": "Person",
@@ -2885,7 +2900,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist unterwegs zum Planeten Babel und befördert über 100 Teilnehmer einer Konferenz über die Aufnahme des Planeten Koridan in die Föderation. Dazu gehört auch der vulkanische Botschafter Sarek. Er und seine menschliche Frau Amanda sind die Eltern von Spock. Als der Botschafter der Tellariten ermordet aufgefunden wird, gerät Sarek, mit dem er sich zuvor gestritten hatte, unter Mordverdacht. Während des Fluges wird die Enterprise durch ein unbekanntes Raumschiff verfolgt. Nachdem Sarek zum wiederholten Male einen Herzinfarkt erleidet, sagt Spock zu, ihm mit einer Blutspende für die überlebensnotwendige Operation zu helfen. Diese Zusage zieht Spock aber wieder zurück, nachdem Kirk durch ein Attentat als Captain ausgefallen ist. Spock trifft diese Entscheidung wegen seines vulkanischen Pflichtbewusstseins für die Personen auf der Enterprise. Amanda ist gegen Spocks Entscheidung. Er muss sich daher entscheiden, seiner vulkanischen oder menschlichen Seite zu folgen. Um Spock die Blutspende dennoch durchführen zu lassen, übernimmt Kirk unter großen Schmerzen wieder das Kommando und kann die Angriffe des fremden Raumschiffs abwehren, das sich daraufhin selbst zerstört. Die Operation mit Blutspende verläuft erfolgreich. Der Attentäter begeht Suizid. Er und das fremde Raumschiff erweisen sich als orionisch."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-31",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/gY_3Bvqc9vQ"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
