@@ -262,25 +262,46 @@
 							"@value": "Georgiou übernimmt auf der Shenzhou wieder das Kommando und lässt Burnham in einer Arrestzelle inhaftieren. Wegen des drohenden Kampfes gegen die klingonische Flotte erhält die Shenzhou Unterstützung durch andere Sternenflottenschiffe, darunter auch die U.S.S. Europa unter dem Kommando des Admirals Anderson. Nach Angriff durch die Klingonen kommt es zu einer Schlacht im All, bei der die Sternenflotte deutliche Verluste erleidet. Die Europa wird vernichtet, die Shenzhou schwer beschädigt. Burnham droht wegen Hüllenbrüchen der Tod. Sie flieht deshalb mit Hilfe des Bordcomputers aus ihrer Arrestzelle, wobei sie kurz das All durchquert. Die Klingonen betrachten sich als Sieger der Schlacht und beanspruchen diesen Teil des Raums für sich. Bis auf ihr Führungsschiff, auf dem sich auch T’Kuvma aufhält, verlassen die klingonischen Schiffe den Schauplatz. Georgiou und Burnham beamen auf das klingonische Schiff, um T’Kuvma als Geisel und damit als Druckmittel in den Friedensverhandlungen mit den Klingonen zu nehmen. Im direkten persönlichen Kampf werden T’Kuvma und Georgiou schwer verletzt und können, im Gegensatz zu Burnham, nicht auf die Shenzhou gebeamt werden. T’Kuvma und Georgiou sterben. Vor einem Militärgericht der Sternenflotte bekennt sich Burnham u. a. der Meuterei für schuldig, ehe sie zu lebenslanger Haft verurteilt wird und ihren Offiziersrang verliert."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#JessieGender",
-							"name": "Jessie Gender"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.2" }
+							],
+							"datePublished": "2025-11-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/adaRc4tdnSg"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#1.1" },
-							{ "@id": "https://bittersmann.de/startrek/series/dsc#1.2" }
-						],
-						"datePublished": "2024-01-08",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/E07tr3fFRgg"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/dsc#1.2" }
+							],
+							"datePublished": "2024-01-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E07tr3fFRgg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
