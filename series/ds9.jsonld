@@ -9411,7 +9411,22 @@
 							"@language": "de",
 							"@value": "Als sie ihre Familie auf dem Planeten New Sidney besucht, erfährt Ezri, dass Mitglieder ihrer Familie in Aktivitäten des verbrecherischen Orion-Syndikats verwickelt sind."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Wt7Jl2MqSDc"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
