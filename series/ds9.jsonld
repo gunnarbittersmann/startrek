@@ -83,6 +83,21 @@
 				"@type": "VideoObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/_7ba5JH9xwk"
 			}
+		},
+		{
+			"@type": "Review",
+			"inLanguage": "de",
+			"name": "Diskussion",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+				"name": "Nerdzika"
+			},
+			"datePublished": "2025-12-03",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/DFZT68T4Y9M"
+			}
 		}
 	],
 	"numberOfSeasons": 7,
