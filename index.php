@@ -94,7 +94,7 @@
 					<a>Music</a>
 					<ul>
 						<li>
-							<a href="music/collection">TNG Collection</a>
+							<a href="music/tng-collection">TNG Collection</a>
 						</li>
 						<li>
 							<a href="music/ds9-main-title">DS9 main title</a>
