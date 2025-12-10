@@ -93,6 +93,9 @@
 					<a>Music</a>
 					<ul>
 						<li>
+							<a href="music/collection">TNG Collection</a>
+						</li>
+						<li>
 							<a href="music/ds9-main-title">DS9 main title</a>
 						</li>
 						<li>
@@ -100,9 +103,6 @@
 						</li>
 						<li>
 							<a href="music/subspace-rhapsody">Subspace Rhapsody</a>
-						</li>
-						<li>
-							<a href="music/collection">Collection</a>
 						</li>
 					</ul>
 				</li>
