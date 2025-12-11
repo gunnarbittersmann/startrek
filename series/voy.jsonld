@@ -8523,6 +8523,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "B’Elanna, nun mit Tom Paris verheiratet, stellt fest, dass sie schwanger ist. In Rückblenden wird enthüllt, dass B’Elanna als Kind darunter gelitten hat, als Halbklingonin von anderen Kindern gehänselt zu werden, und dass sie sich und ihrem klingonischen Temperament die Schuld dafür gibt, dass ihr menschlicher Vater ihre Mutter und sie verlassen hat. Aus Angst, dass es ihrem Kind ähnlich gehen könnte, versucht B’Elanna, Tom und den Doktor dazu zu bringen, das klingonische Erbgut aus ihrem ungeborenen Kind entfernen zu lassen. Nachdem sie vergeblich mit einer Umprogrammierung des Doktors versucht hat, ihren Willen durchzusetzen, gesteht sie Tom, dass sie befürchtet, dass auch er sie und ihr Kind verlassen könne, woraufhin Tom noch einmal seine Liebe für sie und das Kind bekräftigt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-12-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kcKMz5LdvvM"
+						}
 					}
 				},
 				{
