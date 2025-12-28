@@ -100,6 +100,9 @@
 							<a href="music/ds9-main-title">DS9 main title</a>
 						</li>
 						<li>
+							<a href="music/ent-themes">Enterprise Themes</a>
+						</li>
+						<li>
 							<a href="music/dsc-ost">Discovery OST</a>
 						</li>
 						<li>
