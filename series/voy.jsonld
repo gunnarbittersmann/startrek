@@ -2389,6 +2389,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein Transporter-Unfall verschmilzt Lieutenant Tuvok und Neelix zu einem Wesen, das Tuvix genannt wird und sich bald in die Besatzung integriert. Nur seine Beziehung zu Kes ist schwierig. Als der Doktor mit Fähnrich Kims Hilfe einen Weg findet, Tuvix wieder in Tuvok und Neelix aufzuspalten, ist Tuvix dagegen. Er besteht auf seinem Lebensrecht. Captain Janeway befiehlt nach reiflicher Überlegung die Trennung und führt sie selbst durch, nachdem der Doktor sich geweigert hat, weil ein Arzt keinen Schaden zufügen darf."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2020-09-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/QRFWqTQ7xJ0"
+						}
 					}
 				},
 				{
