@@ -1,2 +1,2 @@
-DirectoryIndex 2025.jpg
+DirectoryIndex 2026.jpg
 RedirectMatch permanent "timelines-202([1-5])(.jpg)?" "/startrek/timelines/202$1"
