@@ -146,6 +146,48 @@
 							"embedUrl": "https://www.youtube-nocookie.com/embed/l17QnIGbx1A"
 						}
 					}
+				},
+				{
+					"@type": "Book",
+					"name": "Identity Theft",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GregCox",
+						"name": "Greg Cox",
+						"givenName": "Greg",
+						"familyName": "Cox"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2025-12-02",
+					"description": {
+						"en": "2269: The prospect of peace had seemed unattainable until the assistance of the Federation. Finally, countless ancient enemies have stopped their conflicts simply by listening to one another. On the planet Voyzr, Captain James T. Kirk and his crew aided the planet to realize peace. 2289: Invited to celebrate twenty years of peace, the crew of the USS Enterprise-A is returning to Voyzr as honored guests. Security Chief Pavel Chekov remembers his visit to the planet as a green ensign. He has always believed the negotiations were too easy, and he wondered if there are people on the planet who still long for war—and have been waiting for just the right moment to upend the peace. Unfortunately, Chekov discovers he is right when he finds himself in the middle of a dangerous ploy."
+					},
+					"url": "https://www.simonandschuster.com/books/Identity-Theft/Greg-Cox/Star-Trek-The-Original-Series/9781668096628",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668096628/identity-theft-9781668096628_lg.jpg",
+					"isbn": "9781668096628",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2026-01-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qhbiXR-oySY"
+						}
+					}
 				}
 			]
 		},
