@@ -349,6 +349,60 @@
 			"@type": "BookSeries",
 			"isBasedOn": {
 				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/voy",
+				"name": "Star Trek: Voyager",
+				"identifier": "VOY",
+				"url": "https://bittersmann.de/startrek/series/voy"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "To Lose the Earth",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+						"name": "Kirsten Beyer",
+						"givenName": "Kirsten",
+						"familyName": "Beyer"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/voy"
+					},
+					"datePublished": "2020-10-13",
+					"description": {
+						"en": "As the crew of the Full Circle fleet works to determine the fate of their lost ship, the Galen, a struggle for survival begins at the far edge of the galaxy. New revelations about Species 001, the race that built the biodomes that first drew the fleet to investigate planet DK-1116, force Admiral Kathryn Janeway to risk everything to learn the truth."
+					},
+					"url": "https://www.simonandschuster.com/books/To-Lose-the-Earth/Kirsten-Beyer/Star-Trek-Voyager/9781501138836",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501138836/to-lose-the-earth-9781501138836_lg.jpg",
+					"isbn": "9781501138836",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-11-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ubt-og78fXQ"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
 				"@id": "https://bittersmann.de/startrek/series/dsc",
 				"name": "Star Trek: Discovery",
 				"identifier": "DSC",
