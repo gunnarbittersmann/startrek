@@ -107,6 +107,48 @@
 				},
 				{
 					"@type": "Book",
+					"name": "Harm’s Way",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2022-12-13",
+					"description": {
+						"en": "SOME SECRETS SHOULD STAY BURIED. HIDDEN AGENDAS: Captain James T. Kirk and the Enterprise crew race to save a missing Federation scientist, only to become trapped between the Klingons’s infamous Captain Kang and Starfleet’s mysterious Operation Vanguard. ANCIENT TERRORS: In eons long past, alien hegemons known as the Shedai ruled thousands of worlds in the Milky Way Galaxy. For millennia, their former thralls thought the Shedai were all dead and gone. They were wrong. UNLIKELY ALLIES: For a Starfleet landing party and a Klingon strike team, a race to capture the long-buried secrets of the Shedai turns into a fight for survival—one that can be won only by putting aside their conflicts and working together…"
+					},
+					"url": "https://www.simonandschuster.com/books/Harms-Way/David-Mack/Star-Trek-The-Original-Series/9781668008669",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668008669/harms-way-9781668008669_lg.jpg",
+					"isbn": "9781668008669",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2022-12-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6lhmJ124FDM"
+						}
+					}
+				},
+				{
+					"@type": "Book",
 					"name": "Lost to Eternity",
 					"author": {
 						"@type": "Person",
