@@ -610,6 +610,55 @@
 		},
 		{
 			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "MovieSeries",
+				"name": "Kelvin Universe",
+				"identifier": "Kelvin"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "The Unsettling Stars",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanDeanFoster",
+						"name": "Alan Dean Foster",						
+						"givenName": "Alan",
+						"additionalName": "Dean",
+						"familyName": "Foster"
+					},
+					"datePublished": "2020-04-14",
+					"description": {
+						"en": "Taking place in an alternate timeline created when the Starship Kelvin was destroyed by a Romulan invader from the future, this bold new novel follows Captain James T. Kirk and an inexperienced crew commandeering a repaired U.S.S. Enterprise out of spacedock for a simple shakedown cruise. When a distress call comes in, the Enterprise must aid a large colony ship of alien refugees known as the Perenorean, who are under siege by an unknown enemy. But Kirk and his crew will find that the situation with the peaceful Perenorean is far more complicated than they bargained for, and the answers as to why they were attacked in the first place unfold in the most insidious of ways…"
+					},
+					"url": "https://www.simonandschuster.com/books/The-Unsettling-Stars/Alan-Dean-Foster/Star-Trek/9781982140601",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982140601/the-unsettling-stars-9781982140601_lg.jpg",
+					"isbn": "9781982140601",
+					"numberOfPages": 304,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-04-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/t6At4J4kZaA"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
 			"name": "Star Trek: Coda",
 			"hasPart": [
 				{
