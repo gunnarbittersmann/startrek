@@ -6555,21 +6555,37 @@
 						"@language": "de",
 						"@value": "Die bereits im Ruhestand befindliche Sternenflottenadmiralin Satie kommt an Bord, um eine Explosion aufzuklären, die sich am Warpantrieb der Enterprise ereignet hat. Verdächtigt wird zunächst der klingonische Austauschoffizier J’Dan, der jedoch leugnet, dafür verantwortlich zu sein. Saties Begleiter, der Betazoid Sabin, vermutet aufgrund seiner telepathisch empfangenen Gefühle, dass der ebenfalls verhörte Medizintechniker Simon Tarses in Bezug auf seine teilweise vulkanische Abstammung etwas zu verbergen hat. Dies veranlasst Satie zu der Absicht, Tarses als Verdächtigen für die Explosion zu verhören, obwohl Picard wegen mangelnder Beweise dagegen ist. Selbst nachdem Data und La Forge ermitteln konnten, dass die Explosion nur ein Unglück und kein Anschlag war, verfolgt Satie ihre Absicht weiter. Diese setzt sie in die Tat um, indem sie Picard übergeht und die Anklage unter Aufsicht des hinzugeholten Sternenflottenadmirals Henry fortsetzt. Picards Widerstand gegen Saties Vorgehen, das er als Standgericht beurteilt, führt dazu, dass auch Picard von Satie verhört wird. Als dabei Picard Saties Argumentation zu entkräften versucht, indem er auf ihren Vater verweist, beginnt Satie eine wilde Beschimpfungstirade. Dies veranlasst Henry dazu, sich von dem Verfahren zurückzuziehen, daraufhin wird es abgebrochen."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Courtroom Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Courtroom Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-02-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3ZGtkBNQGbw"
+							}
 						},
-						"datePublished": "2025-02-13",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/3ZGtkBNQGbw"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+								"name": "The Art of Storytelling"
+							},
+							"datePublished": "2026-01-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/A5k4eeU2aFU"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
