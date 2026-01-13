@@ -56,6 +56,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.1",
 					"episodeNumber": "1.1",
+					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
 					"director": {
 						"@type": "Person",
@@ -72,6 +73,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.2",
 					"episodeNumber": "1.2",
+					"name": "Beta Test",
 					"datePublished": "2026-01-15",
 					"director": {
 						"@type": "Person",
