@@ -1,0 +1,465 @@
+{
+	"@context": {
+		"@vocab": "https://schema.org/"
+	},
+	"@type": "PodcastSeries",
+	"name": "Star Trek: Khan",
+	"inLanguage": "en",
+	"isBasedOn": {
+		"@type": "TVSeries",
+		"@id": "https://bittersmann.de/startrek/series/tos",
+		"name": "Star Trek: The Original Series",
+		"identifier": "TOS",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#GeneRoddenberry",
+			"name": "Gene Roddenberry"
+		}
+	},
+	"subjectOf": [
+		{
+			"@type": "Webpage",
+			"inLanguage": "en",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
+			"url": "https://en.wikipedia.org/wiki/Star_Trek:_Khan"
+		},
+		{
+			"@type": "Webpage",
+			"inLanguage": "de",
+			"publisher": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+				"name": "Wikipedia"
+			},
+			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Khan"
+		}
+	],
+	"numberOfEpisodes": 9,
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"creator": {
+			"@type": "Person",
+			"@id": "https://bittersmann.de/startrek/people#JessieGender",
+			"name": "Jessie Gender"
+		},
+		"datePublished": "2025-11-12",
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/lmLBhPqEUYE"
+		}
+	},
+	"episode": [
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#1",
+			"episodeNumber": "1",
+			"name": "Paradise",
+			"datePublished": "2025-09-08",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/UDOn6BBis_8"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Marooned by Captain James T. Kirk on Ceti Alpha V, Khan Noonien Singh and his followers begin building a new civilization, but this strange new world harbors a number of secrets."
+				},
+				{
+					"@language": "de",
+					"@value": "Von Captain James T. Kirk auf Ceti Alpha V ausgesetzt, beginnen Khan Noonien Singh und seine Anhänger mit dem Aufbau einer neuen Zivilisation – doch diese fremde Welt birgt zahlreiche Geheimnisse."
+				}
+			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2025-09-10",
+					"audio": {
+						"@type": "AudioObject",
+						"embedUrl": "https://shows.acast.com/d5eda24e-db83-4d5f-a814-c968821c56bf/episodes/68c1915205de5daa22916262?"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Second Opinion with Dr. Trek",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+						"name": "Larry Nemecek"
+					},
+					"datePublished": "2025-09-07",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/tkYv182puek"
+					}
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#2",
+			"episodeNumber": "2",
+			"name": "Scheherazade",
+			"datePublished": "2025-09-15",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/7cuTIdxpZSY"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "As they acclimate to the beauty and promise of their new home, Khan and his people also encounter deadly dangers waiting to catch them unawares."
+				},
+				{
+					"@language": "de",
+					"@value": "Während sie sich an die Schönheit und Verheißung ihrer neuen Heimat gewöhnen, stoßen Khan und seine Gefolgsleute auch auf tödliche Gefahren, die sie unvorbereitet treffen."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#3",
+			"episodeNumber": "3",
+			"name": "Do Your Worst",
+			"datePublished": "2025-09-22",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/z2kSyl0un-c"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Khan’s nascent colony celebrates its first pregnancy, but they’ve also suffered several losses to their number while a new threat to the entire planet reveals itself."
+				},
+				{
+					"@language": "de",
+					"@value": "Khans junge Kolonie feiert ihre erste Schwangerschaft, hat jedoch auch bereits mehrere Verluste erlitten – während sich zugleich eine neue Bedrohung für den gesamten Planeten offenbart."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#4",
+			"episodeNumber": "4",
+			"name": "Magical Thinking",
+			"datePublished": "2025-09-29",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/VrDZ7x-6W5U"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Marla McGivers identifies an urgent threat to the colony. Khan grapples with leading his followers through increasingly difficult times, and a startling revelation from Marla."
+				},
+				{
+					"@language": "de",
+					"@value": "Marla McGivers erkennt eine dringende Bedrohung für die Kolonie. Khan ringt damit, seine Gefolgsleute durch zunehmend schwierige Zeiten zu führen – und wird zudem mit einer erschütternden Offenbarung Marlas konfrontiert."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#5",
+			"episodeNumber": "5",
+			"name": "Imagination’s Limits",
+			"datePublished": "2025-10-06",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/3iO16CEe2hY"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Khan and his people prepare for inescapable global calamity, and learn they are no longer alone on this world. Are these mysterious new arrivals enemies, or possible allies?"
+				},
+				{
+					"@language": "de",
+					"@value": "Khan und seine Anhänger bereiten sich auf eine unausweichliche globale Katastrophe vor und erkennen, dass sie auf diesem Planeten nicht mehr allein sind. Doch sind die geheimnisvollen Neuankömmlinge Feinde oder mögliche Verbündete?"
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#6",
+			"episodeNumber": "6",
+			"name": "The Good of All",
+			"datePublished": "2025-10-13",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/Tg91tPYefh4"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Khan struggles to understand the Elboreans and their leader, Delmonda, while his own people’s distrust of the newcomers increases in the face of impending catastrophe."
+				},
+				{
+					"@language": "de",
+					"@value": "Khan versucht, die Elboreanier und ihre Anführerin Delmonda zu verstehen, während sein eigenes Volk den Neuankömmlingen angesichts der drohenden Katastrophe immer misstrauischer gegenübersteht."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#7",
+			"episodeNumber": "7",
+			"name": "I am Marla",
+			"datePublished": "2025-10-20",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/NfW8mZiFUf4"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Forging a tenuous alliance, Khan’s followers and the Elboreans work toward possible mutual survival. As Khan weighs hard choices affecting both peoples, tragedy strikes."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#8",
+			"episodeNumber": "8",
+			"name": "Original Sin",
+			"datePublished": "2025-10-27",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/Hegx5spD1MU"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": "Five years after disaster sweeps the planet, Khan’s people and the Elboreans prepare their joint, single venture toward salvation. Khan learns the truth behind their predicament."
+				}
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://bittersmann.de/startrek/podcasts/khan#9",
+			"episodeNumber": "9",
+			"name": "Eternity’s Face",
+			"datePublished": "2025-11-03",
+			"director": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#FredGreenhalgh",
+				"name": "Fred Greenhalgh"
+			},
+			"author": [
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+					"name": "Kirsten Beyer"
+				},
+				{
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#DavidMack",
+					"name": "David Mack"
+				}
+			],
+			"contributor": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#NicholasMeyer",
+				"name": "Nicholas Meyer"
+			},
+			"audio": {
+				"@type": "AudioObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/pWJFzQzJxgs"
+			},
+			"abstract": [
+				{
+					"@language": "en",
+					"@value": " Dissent among Khan’s followers threatens Venture’s launch. Khan faces one last threat to his rule, and a final decision that seals his fate."
+				}
+			]
+		}
+	]
+}
