@@ -1464,6 +1464,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "In der neutralen Zone entdeckt die Enterprise drei Klingonen auf einem Raumschiff, das kurz vor der Explosion steht. Als ein weiteres klingonisches Raumschiff auftaucht, fordert es die Herausgabe der von dem explodierten Raumschiff geretteten Klingonen, weil es sich bei ihnen um Rebellen handelt, die inhaftiert werden sollen. Als die beiden überlebenden Klingonen zu fliehen versuchen, werden sie durch Mannschaftsmitglieder der Enterprise erschossen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qW1YeZ4lhqM"
+						}
 					}
 				},
 				{
