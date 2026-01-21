@@ -2389,6 +2389,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein Transporter-Unfall verschmilzt Lieutenant Tuvok und Neelix zu einem Wesen, das Tuvix genannt wird und sich bald in die Besatzung integriert. Nur seine Beziehung zu Kes ist schwierig. Als der Doktor mit Fähnrich Kims Hilfe einen Weg findet, Tuvix wieder in Tuvok und Neelix aufzuspalten, ist Tuvix dagegen. Er besteht auf seinem Lebensrecht. Captain Janeway befiehlt nach reiflicher Überlegung die Trennung und führt sie selbst durch, nachdem der Doktor sich geweigert hat, weil ein Arzt keinen Schaden zufügen darf."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2020-09-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/QRFWqTQ7xJ0"
+						}
 					}
 				},
 				{
@@ -8523,6 +8538,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "B’Elanna, nun mit Tom Paris verheiratet, stellt fest, dass sie schwanger ist. In Rückblenden wird enthüllt, dass B’Elanna als Kind darunter gelitten hat, als Halbklingonin von anderen Kindern gehänselt zu werden, und dass sie sich und ihrem klingonischen Temperament die Schuld dafür gibt, dass ihr menschlicher Vater ihre Mutter und sie verlassen hat. Aus Angst, dass es ihrem Kind ähnlich gehen könnte, versucht B’Elanna, Tom und den Doktor dazu zu bringen, das klingonische Erbgut aus ihrem ungeborenen Kind entfernen zu lassen. Nachdem sie vergeblich mit einer Umprogrammierung des Doktors versucht hat, ihren Willen durchzusetzen, gesteht sie Tom, dass sie befürchtet, dass auch er sie und ihr Kind verlassen könne, woraufhin Tom noch einmal seine Liebe für sie und das Kind bekräftigt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-12-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kcKMz5LdvvM"
+						}
 					}
 				},
 				{

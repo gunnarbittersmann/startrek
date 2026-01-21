@@ -107,6 +107,48 @@
 				},
 				{
 					"@type": "Book",
+					"name": "Harm’s Way",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DavidMack",
+						"name": "David Mack",
+						"givenName": "David",
+						"familyName": "Mack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2022-12-13",
+					"description": {
+						"en": "SOME SECRETS SHOULD STAY BURIED. HIDDEN AGENDAS: Captain James T. Kirk and the Enterprise crew race to save a missing Federation scientist, only to become trapped between the Klingons’s infamous Captain Kang and Starfleet’s mysterious Operation Vanguard. ANCIENT TERRORS: In eons long past, alien hegemons known as the Shedai ruled thousands of worlds in the Milky Way Galaxy. For millennia, their former thralls thought the Shedai were all dead and gone. They were wrong. UNLIKELY ALLIES: For a Starfleet landing party and a Klingon strike team, a race to capture the long-buried secrets of the Shedai turns into a fight for survival—one that can be won only by putting aside their conflicts and working together…"
+					},
+					"url": "https://www.simonandschuster.com/books/Harms-Way/David-Mack/Star-Trek-The-Original-Series/9781668008669",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668008669/harms-way-9781668008669_lg.jpg",
+					"isbn": "9781668008669",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2022-12-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6lhmJ124FDM"
+						}
+					}
+				},
+				{
+					"@type": "Book",
 					"name": "Lost to Eternity",
 					"author": {
 						"@type": "Person",
@@ -146,6 +188,48 @@
 							"embedUrl": "https://www.youtube-nocookie.com/embed/l17QnIGbx1A"
 						}
 					}
+				},
+				{
+					"@type": "Book",
+					"name": "Identity Theft",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#GregCox",
+						"name": "Greg Cox",
+						"givenName": "Greg",
+						"familyName": "Cox"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/tos"
+					},
+					"datePublished": "2025-12-02",
+					"description": {
+						"en": "2269: The prospect of peace had seemed unattainable until the assistance of the Federation. Finally, countless ancient enemies have stopped their conflicts simply by listening to one another. On the planet Voyzr, Captain James T. Kirk and his crew aided the planet to realize peace. 2289: Invited to celebrate twenty years of peace, the crew of the USS Enterprise-A is returning to Voyzr as honored guests. Security Chief Pavel Chekov remembers his visit to the planet as a green ensign. He has always believed the negotiations were too easy, and he wondered if there are people on the planet who still long for war—and have been waiting for just the right moment to upend the peace. Unfortunately, Chekov discovers he is right when he finds himself in the middle of a dangerous ploy."
+					},
+					"url": "https://www.simonandschuster.com/books/Identity-Theft/Greg-Cox/Star-Trek-The-Original-Series/9781668096628",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668096628/identity-theft-9781668096628_lg.jpg",
+					"isbn": "9781668096628",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2026-01-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qhbiXR-oySY"
+						}
+					}
 				}
 			]
 		},
@@ -155,7 +239,7 @@
 				"@type": "TVSeries",
 				"@id": "https://bittersmann.de/startrek/series/tng",
 				"name": "Star Trek: The Next Generation",
-				"identifier": "DS9",
+				"identifier": "TNG",
 				"url": "https://bittersmann.de/startrek/series/tng"
 			},
 			"hasPart": [
@@ -256,6 +340,60 @@
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/jyOkO7ZoHq0"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "TVSeries",
+				"@id": "https://bittersmann.de/startrek/series/voy",
+				"name": "Star Trek: Voyager",
+				"identifier": "VOY",
+				"url": "https://bittersmann.de/startrek/series/voy"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "To Lose the Earth",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
+						"name": "Kirsten Beyer",
+						"givenName": "Kirsten",
+						"familyName": "Beyer"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/voy"
+					},
+					"datePublished": "2020-10-13",
+					"description": {
+						"en": "As the crew of the Full Circle fleet works to determine the fate of their lost ship, the Galen, a struggle for survival begins at the far edge of the galaxy. New revelations about Species 001, the race that built the biodomes that first drew the fleet to investigate planet DK-1116, force Admiral Kathryn Janeway to risk everything to learn the truth."
+					},
+					"url": "https://www.simonandschuster.com/books/To-Lose-the-Earth/Kirsten-Beyer/Star-Trek-Voyager/9781501138836",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501138836/to-lose-the-earth-9781501138836_lg.jpg",
+					"isbn": "9781501138836",
+					"numberOfPages": 368,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-11-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ubt-og78fXQ"
 						}
 					}
 				}
@@ -561,6 +699,55 @@
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/YEUCtB8LkTA"
+						}
+					}
+				}
+			]
+		},
+		{
+			"@type": "BookSeries",
+			"isBasedOn": {
+				"@type": "MovieSeries",
+				"name": "Kelvin Universe",
+				"identifier": "Kelvin"
+			},
+			"hasPart": [
+				{
+					"@type": "Book",
+					"name": "The Unsettling Stars",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanDeanFoster",
+						"name": "Alan Dean Foster",						
+						"givenName": "Alan",
+						"additionalName": "Dean",
+						"familyName": "Foster"
+					},
+					"datePublished": "2020-04-14",
+					"description": {
+						"en": "Taking place in an alternate timeline created when the Starship Kelvin was destroyed by a Romulan invader from the future, this bold new novel follows Captain James T. Kirk and an inexperienced crew commandeering a repaired U.S.S. Enterprise out of spacedock for a simple shakedown cruise. When a distress call comes in, the Enterprise must aid a large colony ship of alien refugees known as the Perenorean, who are under siege by an unknown enemy. But Kirk and his crew will find that the situation with the peaceful Perenorean is far more complicated than they bargained for, and the answers as to why they were attacked in the first place unfold in the most insidious of ways…"
+					},
+					"url": "https://www.simonandschuster.com/books/The-Unsettling-Stars/Alan-Dean-Foster/Star-Trek/9781982140601",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982140601/the-unsettling-stars-9781982140601_lg.jpg",
+					"isbn": "9781982140601",
+					"numberOfPages": 304,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-04-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/t6At4J4kZaA"
 						}
 					}
 				}

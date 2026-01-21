@@ -68,6 +68,9 @@ fetch(`books.jsonld`)
 							<details>
 								<summary>plot</summary>
 								<p property="description">${book.description.en}</p>
+								${book.url ? `
+									<p><a href="${book.url}">${book.publisher?.name ?? 'Book webpage' }</a></p>
+								` : ''}
 							</details>
 						` : ''}
 					</td>

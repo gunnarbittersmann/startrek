@@ -3223,10 +3223,16 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronBurdette",
 						"name": "Aaron Burdette"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The USS Cerritos is sucked into a parallel universe populated by alternate versions of the crew who have made slightly different life choices. The two crews work together to return the “Prime” Cerritos to its own universe. The captain of the alternate Cerritos is the harsh, disciplinarian counterpart of Lieutenant Beckett Mariner. Wanting to return to being a loose-cannon junior officer again, she kidnaps Prime Mariner and takes her place on the Prime Cerritos. Prime Mariner escapes and convinces the alternate Cerritos crew to get the attention of the Prime Cerritos, allowing the two Mariners to swap back. Meanwhile, former Cerritos crew member D’Vana Tendi leads a crew of Orion pirates to pay off a debt to her sister D’Erika, but longs to return to Starfleet. D’Erika offers to forgive the debt if D’Vana salvages a derelict Orion medical vessel, but D’Vana’s crew comes into conflict with a rival clan of Blue Orions. They subdue the Blue Orions non-lethally and salvage the ship. The Blue Orions declare war on the Tendi clan, and D’Vana postpones returning to Starfleet to help her family win the war."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The USS Cerritos is sucked into a parallel universe populated by alternate versions of the crew who have made slightly different life choices. The two crews work together to return the “Prime” Cerritos to its own universe. The captain of the alternate Cerritos is the harsh, disciplinarian counterpart of Lieutenant Beckett Mariner. Wanting to return to being a loose-cannon junior officer again, she kidnaps Prime Mariner and takes her place on the Prime Cerritos. Prime Mariner escapes and convinces the alternate Cerritos crew to get the attention of the Prime Cerritos, allowing the two Mariners to swap back. Meanwhile, former Cerritos crew member D’Vana Tendi leads a crew of Orion pirates to pay off a debt to her sister D’Erika, but longs to return to Starfleet. D’Erika offers to forgive the debt if D’Vana salvages a derelict Orion medical vessel, but D’Vana’s crew comes into conflict with a rival clan of Blue Orions. They subdue the Blue Orions non-lethally and salvage the ship. The Blue Orions declare war on the Tendi clan, and D’Vana postpones returning to Starfleet to help her family win the war."
+						},
+						{
+							"@language": "de",
+							"@value": "Die Cerritos trifft auf einen Quantenspalt, der sie in ein Parallel-Universum transferiert, wo sie auf die dortige Cerritos stößt, die nur wenig von der eigenen Zeitlinie abweicht. Captain ist Mariner, weil Freeman auf Sternenbasis 80 versetzt wurde. Sie beherrscht ihre Mannschaft im Befehlston und mit einer Peitsche. Um die andere Cerritos in ihr eigenes Universum zurückzuschicken, arbeiten die jeweiligen Doppelgänger zunächst perfekt zusammen, streiten aber schließlich nur noch darüber, welches Universum das richtige ist. Weil Captain Mariner wieder so ungehorsam sein will, wie Leutnant Mariner immer war, betäubt sie ihre Doppelgängerin, um mit ihr die Rolle zu tauschen. Das misslingt im letzten Moment. Tendi führt erfolgreich mehrere orionische Freibeuterinnen an. Ihre Schwester verspricht ihr, dass sie zur Discovery zurückkehren kann, wenn sie ein altes orionisches Kriegsschiff von den „blauen Orionern“ zurückerobert. Dieses erweist sich als Lazarettschiff. Als die blauen Orioner aus Rache der Familie von Tendi den Krieg erklären, entschließt sich Tendi, vorerst ihre Familie weiter zu unterstützen."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3281,10 +3287,16 @@
 						"@id": "https://bittersmann.de/startrek/people#KeithFoglesong",
 						"name": "Keith Foglesong"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The Pirate Queen of Orion orders the war between the Tendis and the Blue Orions to be resolved with a dangerous race through an asteroid field. D’Vana learns that D’Erika is pregnant and becomes overprotective of her sister, interfering with the race and causing them to crash. D’Erika says she hid her pregnancy so D’Vana would not feel obliged to mentor the child instead of returning to Starfleet. The sisters reconcile and finish the race in a tie; the queen decrees that both clans must forfeit their wealth. Meanwhile, the Cerritos helps the planet Targalus IX adjust to its new post-scarcity economy. Two ensigns are kidnapped by formerly wealthy Targalans who resent the loss of their status. They survive by following advice from Lieutenant Brad Boimler and are rescued by Boimler and Mariner. Lieutenant T’Lyn tries to help Lieutenant Sam Rutherford by repairing a shuttle, but he explains that he has been saving it to repair with D’Vana, so T’Lyn wrecks the shuttle again. When D’Vana returns to the Cerritos she asks for the discarded Targalan gold and jewels to be given to her family, restoring their wealth."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Pirate Queen of Orion orders the war between the Tendis and the Blue Orions to be resolved with a dangerous race through an asteroid field. D’Vana learns that D’Erika is pregnant and becomes overprotective of her sister, interfering with the race and causing them to crash. D’Erika says she hid her pregnancy so D’Vana would not feel obliged to mentor the child instead of returning to Starfleet. The sisters reconcile and finish the race in a tie; the queen decrees that both clans must forfeit their wealth. Meanwhile, the Cerritos helps the planet Targalus IX adjust to its new post-scarcity economy. Two ensigns are kidnapped by formerly wealthy Targalans who resent the loss of their status. They survive by following advice from Lieutenant Brad Boimler and are rescued by Boimler and Mariner. Lieutenant T’Lyn tries to help Lieutenant Sam Rutherford by repairing a shuttle, but he explains that he has been saving it to repair with D’Vana, so T’Lyn wrecks the shuttle again. When D’Vana returns to the Cerritos she asks for the discarded Targalan gold and jewels to be given to her family, restoring their wealth."
+						},
+						{
+							"@language": "de",
+							"@value": "Nachdem Tagalus 9 in die Föderation aufgenommen wurde, unterstützt die Cerritos dessen Bevölkerung bei der Abschaffung des ressourcenverschlingenden Kapitalismus. Den Außentrupp führt Boimler an. Als er seinen beiden Untergebenen überraschend eine Stunde frei gibt, tauchen sie nach Ablauf der Zeit nicht wieder auf, denn sie wurden von Gegner der Umgestaltung entführt. Beim Befreiungsversuch werden Boimler und Mariner ebenfalls gefangen genommen, können aber schließlich entkommen. Tendi erfährt, dass ihre Schwester Derika schwanger ist. Ihre Familie muss nach dem Willen der Piratenkönigin bei einer Sonnensegelschiffregatta gegen die blauen Orioner antreten. Der Sieger soll das gesamte Vermögen und die Rechte des Verlierers erhalten. Tendi versucht ihre schwangere Schwester zu schützen, was ihr jedoch misslingt. Ihr Sonnensegler stürzt ab, kann aber nach einer Aussprache der beiden Schwestern doch noch das Schiff der blauen Orioner erreichen. Deshalb verlieren beide Familien ihre Rechte und ihr Vermögens. Tendi darf jedoch auf die Cerritos zurückkehren. Als sie die Wertgegenstände sieht, die gerade auf Tagalus 9 vernichtet werden, kann sie mit Erlaubnis von Captain Freeman einen Teil an ihre Familie und die blauen Orioner übergeben, damit diese wieder eigenes Vermögen besitzen."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",

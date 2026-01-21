@@ -131,6 +131,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-12-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GmgxMqcakfg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Sacred Treks",
 							"creator": {
 								"@type": "Person",
@@ -2100,6 +2115,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Föderation befindet sich im Krieg mit den Klingonen. Kirk hat mit der Enterprise den Auftrag, die Okkupation des strategisch wichtigen besiedelten Planeten Organia durch die Klingonen zu verhindern, die dort eine Operationsbasis errichten wollen. Kirk hat keinen Erfolg damit, den Ältestenrat der friedfertigen Organier, die gänzlich gegen Gewaltanwendung sind, davon zu überzeugen, sich bei der Verteidigung helfen zu lassen. Kirk und Spock sitzen auf Organia fest, während die Klingonen mit der Besetzung des Planeten beginnen. Kirk gibt sich als Organier „Barroner“ aus und wird vom klingonischen Gouverneur Kor dazu gezwungen, als Verbindungsmann zu den Organiern zu dienen. Kirk und Spock wollen den Organiern durch Sabotage zeigen, wie sie sich gegen die Besatzung wehren können. Aleburn, der oberste Organier, verrät ihre wahre Identität an Kor, um ihnen so Gewalt zu ersparen. Daraufhin lässt Kor Kirk und Spock als Spione einsperren, diese werden aber von Aleburn rasch wieder befreit. Aleburn und seine Senatskollegen sorgen mit übermenschlichen Kräften dafür, dass die Waffen sowohl der Klingonen als auch der Sternenflotte überhitzen und dadurch funktionslos werden. Damit haben sie den Krieg abgebrochen. Aleburn erklärt, dass die Organier sich längst über den Evolutionsstand der Menschen und Klingonen hinausentwickelt haben und nun nur als immaterielle Energiewesen existieren."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_ksU0bz3Xcc"
+						}
 					}
 				},
 				{

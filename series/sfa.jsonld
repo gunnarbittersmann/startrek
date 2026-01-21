@@ -56,6 +56,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.1",
 					"episodeNumber": "1.1",
+					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
 					"director": {
 						"@type": "Person",
@@ -66,12 +67,63 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#GaiaViolo",
 						"name": "Gaia Violo"
-					}
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Caleb Mir and his mother, Anisha, are being held on an industrial colony, along with the pirate who helped them flee, Nus Braka. They are tried in court for the murder of a Starfleet officer, which occured while they tried to steal food. Nus Braka is sentenced to jail, and Anisha is sentenced to a rehab facility, and is separated from Caleb. The judge, Nahla Ake, promises to take care of Caleb, but he flees at his mothers guidance. Fifteen years later, Nahla Ake has resigned from Starfleet after shame over the trial, but is offered the chance to be the commandant of the re-established Starfleet Academy. She finds Caleb, who has become a criminal and is still searching for his mother. She offers him the chance to come to Starfleet Academy as a cadet, and in exchange, she will help him find his mother, and she reveals Anisha escaped from a prison colony the year before. Caleb accepts, and begins Starfleet Academy alongside several other students, including Jay-Den, Sam, Darem, and Genesis. While the new cadets are en-route to school in San Francisco aboard the USS Athena, Caleb hacks into the communication system and tried to contact his mother. Nus Braka, who claims he escaped prison with Anisha, finds the USS Athena from that message and disables the ship. The cadets and officers work together to successfully repel Nus Braka, and the ship arrives at Starfleet Academy."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-01-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ndCLFeGxwtI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-01-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/QWFBscYXUIU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-01-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GbPeQgW421A"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.2",
 					"episodeNumber": "1.2",
+					"name": "Beta Test",
 					"datePublished": "2026-01-15",
 					"director": {
 						"@type": "Person",
@@ -88,6 +140,93 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#JaneMaggs",
 							"name": "Jane Maggs"
+						}
+					],
+					"description": {
+						"@language": "en",
+						"@value": "Chancellor Ake welcomes the incoming Starfleet Academy class, and contrasts them with the current War College, the more militarized academy that remained after The Burn. The cadets are assigned roommates; Caleb and Darem complain when they are assigned to the same room. After hearing from Nus Braka that Anisha had been on the planet Goja V, Caleb and Ake search for it, but he is unable to find any record of it. Ake and Admiral Vance discuss an upcoming delegation from the Betazoids, who left the Federation after The Burn. The Betazed president arrives and dismisses the Federation’s requests, saying that it will not sufficiently cater to their needs. Caleb meets Tarima, the daughter of the Betazed president and the leader of a youth organization advocating for rejoining the Federation. He offers her a tour of campus, and she reveals that Goja V is an asteroid within Betazed’s planetary defense system. Tarima learns why Caleb was trying to find Goja V, and becomes angry with him when she assumes he was using her to get information. Caleb and Ake meet, and Ake decides to offer establishing Starfleet Headquarters to get them to join the Federation. They agree; Tarima decides to enroll in the War College, and her brother joins Starfleet Academy, and becomes another roommate for Caleb and Darem."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-01-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/DPCXeCSLjb8"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-01-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/66qpuZPHPEM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-01-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/as4Q3dipSwE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-01-18",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_3Lu5_PBXMw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2026-01-17",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/eKY_V5RRieU?start=735"
+							}
 						}
 					]
 				},
@@ -160,6 +299,53 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#KileyRossetter",
 							"name": "Kiley Rossetter"
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "First Impressions",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.6" }
+							],
+							"datePublished": "2026-01-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/N7PzOd1GstI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.6" }
+							],
+							"datePublished": "2026-01-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1HqVoKL3XOk"
+							}
 						}
 					]
 				},

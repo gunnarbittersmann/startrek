@@ -14,6 +14,11 @@ Review playlists:
 - [Second Opinion with Dr. Trek (Larry Nemecek)](https://www.youtube.com/playlist?list=PL3BUa5EzsGhZ-znmUEI4El7OB0heSy5oj)
 - [Star Trek (Nerdzika)](https://www.youtube.com/playlist?list=PLai-cuOYqaxXUAUhOiz8n9yWdFCzdCzt3)
 
+Books:
+
+- [Best Star Trek Books to Isolate With](https://www.youtube.com/watch?v=WDoPqPS_ytI)
+- [Star Trek Reading Recommendations - Vol. 1](https://www.youtube.com/watch?v=60_NrQHaKdQ)
+
 Timelines
 
 - [Trek on the Tube on X](https://x.com/search?q=from%3Atrekonthetube%20Timelines&f=live)
