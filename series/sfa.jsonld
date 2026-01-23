@@ -58,6 +58,16 @@
 					"episodeNumber": "1.1",
 					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Kids_These_Days_(Star_Trek:_Starfleet_Academy)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
@@ -125,6 +135,16 @@
 					"episodeNumber": "1.2",
 					"name": "Beta Test",
 					"datePublished": "2026-01-15",
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Beta_Test_(Star_Trek:_Starfleet_Academy)"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
