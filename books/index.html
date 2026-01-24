@@ -74,21 +74,7 @@ fetch(`books.jsonld`)
 							</details>
 						` : ''}
 					</td>
-					${book.review?.video ? `
-						<td property="review" typeof="Review">
-							<details lang="en" property="video" typeof="VideoObject">
-								<summary title="${book.review.datePublished ?? ''}">J</summary>
-								<meta
-									property="embedUrl"
-									content="${book.review.video.embedUrl}"
-								/>
-								<iframe
-									allowfullscreen=""
-									aria-label="${book.review.name}"
-								></iframe>
-							</details>
-						</td>
-					` : '<td></td>'}
+					${renderReviews(book.review)}
 				</tr>
 			`);
 		});
@@ -99,6 +85,39 @@ fetch(`books.jsonld`)
 	scriptElement.src = '../script.js';
 	document.body.appendChild(scriptElement);
 });
+
+function renderReviews(reviews) {
+	if (reviews?.video) {
+		return `<td property="review" typeof="Review">${renderReviewDetails(reviews)}</td>`;
+	}
+	else if (reviews?.length) {
+		let html = '<td><ul>';
+		for (const review of reviews) {
+			html += `<li property="review" typeof="Review">${renderReviewDetails(review)}</li>`;
+		}
+		html += '</ul></td>';
+		return html;
+	}
+	else {
+		return '<td></td>';
+	}
+}
+
+function renderReviewDetails(review) {
+	return `
+		<details lang="en" property="video" typeof="VideoObject">
+			<summary title="${review.datePublished ?? ''}">${review.creator?.name.substring(0, 1)}</summary>
+			<meta
+				property="embedUrl"
+				content="${review.video.embedUrl}"
+			/>
+			<iframe
+				allowfullscreen=""
+				aria-label="${review.name}"
+			></iframe>
+		</details>
+	`;
+}
 			</script>
 	</body>
 </html>
