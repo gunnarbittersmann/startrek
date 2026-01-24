@@ -272,10 +272,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.3",
 					"episodeNumber": "1.3",
-					"name": {
-						"@value": "Vitus Reflux",
-						"@language": "la"
-					},
+					"name": "Vitus Reflux",
 					"datePublished": "2026-01-22",
 					"director": {
 						"@type": "Person",
