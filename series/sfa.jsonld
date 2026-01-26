@@ -78,10 +78,16 @@
 						"@id": "https://bittersmann.de/startrek/people#GaiaViolo",
 						"name": "Gaia Violo"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "Caleb Mir and his mother, Anisha, are being held on an industrial colony, along with the pirate who helped them flee, Nus Braka. They are tried in court for the murder of a Starfleet officer, which occured while they tried to steal food. Nus Braka is sentenced to jail, and Anisha is sentenced to a rehab facility, and is separated from Caleb. The judge, Nahla Ake, promises to take care of Caleb, but he flees at his mother’s guidance. Fifteen years later, Nahla Ake has resigned from Starfleet after shame over the trial, but is offered the chance to be the commandant of the re-established Starfleet Academy. She finds Caleb, who has become a criminal and is still searching for his mother. She offers him the chance to come to Starfleet Academy as a cadet, and in exchange, she will help him find his mother, and she reveals Anisha escaped from a prison colony the year before. Caleb accepts, and begins Starfleet Academy alongside several other students, including Jay-Den, Sam, Darem, and Genesis. While the new cadets are en-route to school in San Francisco aboard the USS Athena, Caleb hacks into the communication system and tried to contact his mother. Nus Braka, who claims he escaped prison with Anisha, finds the USS Athena from that message and disables the ship. The cadets and officers work together to successfully repel Nus Braka, and the ship arrives at Starfleet Academy."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Caleb Mir and his mother, Anisha, are being held on an industrial colony, along with the pirate who helped them flee, Nus Braka. They are tried in court for the murder of a Starfleet officer, which occured while they tried to steal food. Nus Braka is sentenced to jail, and Anisha is sentenced to a rehab facility, and is separated from Caleb. The judge, Nahla Ake, promises to take care of Caleb, but he flees at his mother’s guidance. Fifteen years later, Nahla Ake has resigned from Starfleet after shame over the trial, but is offered the chance to be the commandant of the re-established Starfleet Academy. She finds Caleb, who has become a criminal and is still searching for his mother. She offers him the chance to come to Starfleet Academy as a cadet, and in exchange, she will help him find his mother, and she reveals Anisha escaped from a prison colony the year before. Caleb accepts, and begins Starfleet Academy alongside several other students, including Jay-Den, Sam, Darem, and Genesis. While the new cadets are en-route to school in San Francisco aboard the USS Athena, Caleb hacks into the communication system and tried to contact his mother. Nus Braka, who claims he escaped prison with Anisha, finds the USS Athena from that message and disables the ship. The cadets and officers work together to successfully repel Nus Braka, and the ship arrives at Starfleet Academy."
+						},
+						{
+							"@language": "de",
+							"@value": "Der sechsjährige Caleb Mir und seine Mutter Anisha werden auf einem Außenposten der Föderation festgehalten. Anisha wird zusammen mit dem Piraten Nus Braka angeklagt, da dieser einen Sternenflottenoffizier ermordete, um Nahrung für sie zu stehlen. Nus Braka wird zu Lebenslänglich in einer Strafkolonie verurteilt, Anisha muss in ein Rehabilitationslager und wird von Caleb getrennt. Die Richterin und Halb-Lanthanitin Nahla Ake verspricht, sich um Caleb zu kümmern, doch er flieht, weil seine Mutter ihm vorher gesagt hatte, dass er der Föderation nicht trauen darf. Aufgrund dieser Ereignisse verlässt Nahla Ake die Sternenflotte. 15 Jahre später erhält sie das Angebot, Kanzlerin der neu gegründeten Sternenflottenakademie zu werden. Sie findet Caleb, der kriminell geworden ist und immer noch nach seiner Mutter sucht, und bietet ihm die Chance, als Kadett an die Akademie zu kommen. Im Gegenzug will sie ihm helfen, seine Mutter zu finden. Caleb nimmt das Angebot widerwillig an und begibt sich zusammen mit anderen Kadetten an Bord des Schulschiffs USS Athena auf den Weg zur Akademie auf der Erde. Während des Flugs hackt sich Caleb in das Kommunikationssystem und versucht, seine Mutter zu kontaktieren. Dadurch findet der rachsüchtige Nus Braka das Schiff und setzt es außer Gefecht. Durch eine rettende Idee von Caleb gelingt es den Kadetten und Offizieren gemeinsam, Nus Braka abzuwehren. Die USS Athena erreicht die Erde und landet inmitten des Campus in San Francisco, wo das Schiff zugleich das Hauptgebäude der Sternenflottenakademie bildet."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -162,10 +168,16 @@
 							"name": "Jane Maggs"
 						}
 					],
-					"description": {
-						"@language": "en",
-						"@value": "Chancellor Ake welcomes the incoming Starfleet Academy class, and contrasts them with the current War College, the more militarized academy that remained after The Burn. The cadets are assigned roommates; Caleb and Darem complain when they are assigned to the same room. After hearing from Nus Braka that Anisha had been on the planet Goja V, Caleb and Ake search for it, but he is unable to find any record of it. Ake and Admiral Vance discuss an upcoming delegation from the Betazoids, who left the Federation after The Burn. The Betazed president arrives and dismisses the Federation’s requests, saying that it will not sufficiently cater to their needs. Caleb meets Tarima, the daughter of the Betazed president and the leader of a youth organization advocating for rejoining the Federation. He offers her a tour of campus, and she reveals that Goja V is an asteroid within Betazed’s planetary defense system. Tarima learns why Caleb was trying to find Goja V, and becomes angry with him when she assumes he was using her to get information. Caleb and Ake meet and, inspired by a remark of his, Ake proposes to Betazed that the Federation establish its center of government there if they join; they agree. Tarima decides to enroll in the War College, and her brother joins Starfleet Academy, and becomes another roommate for Caleb and Darem."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Chancellor Ake welcomes the incoming Starfleet Academy class, and contrasts them with the current War College, the more militarized academy that remained after The Burn. The cadets are assigned roommates; Caleb and Darem complain when they are assigned to the same room. After hearing from Nus Braka that Anisha had been on the planet Goja V, Caleb and Ake search for it, but he is unable to find any record of it. Ake and Admiral Vance discuss an upcoming delegation from the Betazoids, who left the Federation after The Burn. The Betazed president arrives and dismisses the Federation’s requests, saying that it will not sufficiently cater to their needs. Caleb meets Tarima, the daughter of the Betazed president and the leader of a youth organization advocating for rejoining the Federation. He offers her a tour of campus, and she reveals that Goja V is an asteroid within Betazed’s planetary defense system. Tarima learns why Caleb was trying to find Goja V, and becomes angry with him when she assumes he was using her to get information. Caleb and Ake meet and, inspired by a remark of his, Ake proposes to Betazed that the Federation establish its center of government there if they join; they agree. Tarima decides to enroll in the War College, and her brother joins Starfleet Academy, and becomes another roommate for Caleb and Darem."
+						},
+						{
+							"@language": "de",
+							"@value": "Kanzlerin Ake heißt die neuen Kadetten der Sternenflottenakademie willkommen und stellt ihnen ihre Nachbarn vor, mit denen sie sich den Campus teilen: das Kriegscollege, eine stärker auf Kampfeinsätze ausgerichtete Akademie, die nach dem Brand erhalten geblieben war. Caleb und Darem müssen sich ein Zimmer teilen, was beiden nicht gefällt. Caleb und Ake suchen nach dem Planeten Goja V, wo Anisha zuletzt gesehen worden sein soll, aber in der Datenbank der Sternenflotte ist er nicht zu finden. Auf dem Campus trifft eine Delegation der Betazoiden ein, die nach dem Brand die Föderation verlassen hatten. Der Präsident von Betazed, Emrin Sadal, lehnt das Angebot für einen erneuten Beitritt zur Föderation ab. Caleb trifft Tarima, die Tochter des Präsidenten und Anführerin einer Jugendbewegung, die sich für den Wiedereintritt in die Föderation einsetzt. Er bietet ihr eine Führung über den Campus an, und sie hilft ihm, Goja V in der Datenbank von Betazed zu finden. Inspiriert von einer Bemerkung von Caleb, schlägt Ake Präsident Sadal vor, dass die Föderation ihren neuen Regierungssitz auf Betazed errichtet, und er willigt ein. Tarima beschließt, sich am Kriegscollege einzuschreiben, während ihr Bruder Ocam der Sternenflottenakademie beitritt und ein weiterer Mitbewohner von Caleb und Darem wird."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -299,6 +311,12 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#KileyRossetter",
 							"name": "Kiley Rossetter"
+						}
+					],
+					"description": [
+						{
+							"@language": "de",
+							"@value": "Darem und Genesis wetteifern um die Führung unter den Kadetten der Sternenflottenakademie, während die Rivalität mit dem Kriegscollege mit einem Streich zu eskalieren beginnt, bei dem die Kadetten in ihrer Unterwäsche von den Umkleiden an verschiedene Orte auf dem Campus gebeamt werden. Nahla Ake möchte nicht direkt in den Konflikt eingreifen, stellt ihren Schützlingen aber den seltenen Pilz Vitus Reflux vor, der sehr schnell wächst und empfindlich auf Emotionen reagiert. Die Akademie fordert das Kriegscollege zu einem heimlichen Calica-Spiel heraus (eine Art Laser Tag), um die Rechnung zu begleichen. Dabei scheitert Darem, der durch eine unfaire List zum Team-Captain geworden war, mit seiner aggressiven Strategie, und Genesis gelingt es, mit einer klügeren Strategie das Ruder herumzureißen, bevor das Spiel durch Thok und Reno abgebrochen wird. Darem versöhnt sich mit Genesis und gesteht ihr die Rolle des Team-Captain zu. Diese erkennt die versteckten Hinweise von Ake und entwickelt einen Plan, wie das Kriegscollege mit Hilfe des Vitus Reflux sabotiert werden kann, um den Streichkrieg für sich zu entscheiden. Die Kadetten setzen den Plan gemeinsam in die Tat um und sind erfolgreich."
 						}
 					],
 					"review": [
