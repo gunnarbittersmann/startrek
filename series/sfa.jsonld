@@ -367,6 +367,10 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.4",
 					"episodeNumber": "1.4",
+					"name": {
+						"@value": "Vox in Excelso",
+						"@language": "la"
+					},
 					"datePublished": "2026-01-29",
 					"author": [
 						{
@@ -385,6 +389,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.5",
 					"episodeNumber": "1.5",
+					"name": "Series Acclimation Mil",
 					"datePublished": "2026-02-05",
 					"author": [
 						{
