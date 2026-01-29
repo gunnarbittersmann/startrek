@@ -417,6 +417,11 @@
 						},
 						"datePublished": "2026-01-22"
 					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"name": "Doug Aarniokoski"
+					},
 					"author": [
 						{
 							"@type": "Person",
