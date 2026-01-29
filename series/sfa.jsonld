@@ -58,6 +58,12 @@
 					"episodeNumber": "1.1",
 					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kids von heute",
+						"datePublished": "2026-01-15"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -141,6 +147,12 @@
 					"episodeNumber": "1.2",
 					"name": "Beta Test",
 					"datePublished": "2026-01-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Betatest",
+						"datePublished": "2026-01-15"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -286,6 +298,12 @@
 					"episodeNumber": "1.3",
 					"name": "Vitus Reflux",
 					"datePublished": "2026-01-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Vitus Reflux",
+						"datePublished": "2026-01-22"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -390,6 +408,15 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-01-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Vox in Excelso",
+							"@language": "la"
+						},
+						"datePublished": "2026-01-22"
+					},
 					"author": [
 						{
 							"@type": "Person",
