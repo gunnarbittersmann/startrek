@@ -58,6 +58,12 @@
 					"episodeNumber": "1.1",
 					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Kids von heute",
+						"datePublished": "2026-01-15"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -141,6 +147,12 @@
 					"episodeNumber": "1.2",
 					"name": "Beta Test",
 					"datePublished": "2026-01-15",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Betatest",
+						"datePublished": "2026-01-15"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -304,6 +316,12 @@
 					"episodeNumber": "1.3",
 					"name": "Vitus Reflux",
 					"datePublished": "2026-01-22",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Vitus Reflux",
+						"datePublished": "2026-01-22"
+					},
 					"subjectOf": {
 						"@type": "Webpage",
 						"inLanguage": "en",
@@ -422,6 +440,20 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-01-29",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Vox in Excelso",
+							"@language": "la"
+						},
+						"datePublished": "2026-01-22"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
+						"name": "Doug Aarniokoski"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -432,6 +464,37 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#EricAnthonyGlover",
 							"name": "Eric Anthony Glover"
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-01-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Rqaee6k_ETo"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-01-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cMZQOOAg6U8"
+							}
 						}
 					]
 				},
@@ -458,7 +521,6 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.6",
 					"episodeNumber": "1.6",
-					"name": "Come, Let’s Away",
 					"datePublished": "2026-02-12",
 					"author": [
 						{
