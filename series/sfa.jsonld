@@ -417,6 +417,16 @@
 						},
 						"datePublished": "2026-01-22"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Vox_in_Excelso"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DougAarniokoski",
