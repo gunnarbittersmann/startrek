@@ -498,6 +498,17 @@
 					"episodeNumber": "1.5",
 					"name": "Series Acclimation Mil",
 					"datePublished": "2026-02-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Series Acclimation Mil",
+						"datePublished": "2026-02-05"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Larry Teng"
+					},
 					"author": [
 						{
 							"@type": "Person",
