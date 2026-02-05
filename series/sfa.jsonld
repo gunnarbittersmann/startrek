@@ -520,7 +520,11 @@
 							"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
 							"name": "Tawny Newsome"
 						}
-					]
+					],
+					"description": {
+						"@language": "en",
+						"@value": "Due to her own work as an emissary for the Makers, SAM becomes obsessed with the mystery of Benjamin Sisko, the Emissary of the Prophets who vanished at the end of the Dominion War. At the same time, Ake helps War College Chancellor Kelrec prepare for an important meeting with another chancellor with the help of the Doctor and Reno in an effort to make peace between them. Kelrec reveals that he feels that Ake abandoned Starfleet, leading to his animosity towards her. SAM’s efforts are unsuccessful, but Professor Illa shares with her Jake Sisko’s book Anslem, and SAM has an interaction with Jake through it. Illa reveals that she’s Illa Dax, the current host of the Dax symbiont who was friends with Sisko."
+					}
 				},
 				{
 					"@type": "TVEpisode",
