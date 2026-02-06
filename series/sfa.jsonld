@@ -262,24 +262,6 @@
 								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
 								"name": "Nerdzika"
 							},
-							"datePublished": "2026-01-17",
-							"itemReviewed": [
-								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
-								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
-							],
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/eKY_V5RRieU?start=735"
-							}
-						},
-						{
-							"@type": "Review",
-							"inLanguage": "de",
-							"creator": {
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-								"name": "Nerdzika"
-							},
 							"datePublished": "2026-01-21",
 							"itemReviewed": [
 								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
@@ -562,6 +544,17 @@
 					"episodeNumber": "1.5",
 					"name": "Series Acclimation Mil",
 					"datePublished": "2026-02-05",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Series Acclimation Mil",
+						"datePublished": "2026-02-05"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Larry Teng"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -572,6 +565,56 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
 							"name": "Tawny Newsome"
+						}
+					],
+					"description": {
+						"@language": "en",
+						"@value": " Due to her own work as an emissary for the Makers, SAM becomes obsessed with the mystery of Benjamin Sisko, the Emissary of the Prophets who vanished at the end of the Dominion War. At the same time, Ake helps War College Chancellor Kelrec prepare for an important meeting with another chancellor with the help of the Doctor and Reno in an effort to make peace between them. Kelrec reveals that he feels that Ake abandoned Starfleet, leading to his animosity towards her. SAM’s efforts are unsuccessful, but Professor Illa shares with her Jake Sisko’s book Anslem, and SAM has an interaction with Jake through it. Illa reveals that she’s Illa Dax, the current host of the Dax symbiont who was friends with Sisko."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/jqa7n5IzQJE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/IeEMGXmnhkc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-02-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/j2t4RUe7nm0"
+							}
 						}
 					]
 				},
