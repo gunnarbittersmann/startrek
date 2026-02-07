@@ -234,6 +234,36 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/yubAZSEiskQ"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2022-11-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Dcr8WOH9VW0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2022-11-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6AFjsQcVmaw"
+							}
 						}
 					]
 				},
@@ -380,6 +410,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/rM0DE0wt8Hk"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2022-11-08",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/DR9qvB-xB2I"
+							}
 						}
 					]
 				},
@@ -455,6 +500,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/7RpwsjY1-DU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2022-11-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/IVvEwQlJ8mI"
 							}
 						}
 					]
@@ -659,6 +719,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fy3Y-IZ895Y"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.6" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.8" }
+							],
+							"datePublished": "2022-11-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cn1Wm0_CdtM"
 							}
 						}
 					]
@@ -1128,6 +1208,28 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/gjObw3XQobY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2022-11-21",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.9" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.10" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.12" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.13" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RSwPTuZz6Oc"
 							}
 						}
 					]
