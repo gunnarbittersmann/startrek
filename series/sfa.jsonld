@@ -551,6 +551,16 @@
 						"name": "Series Acclimation Mil",
 						"datePublished": "2026-02-05"
 					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Series_Acclimation_Mil"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
@@ -615,6 +625,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/j2t4RUe7nm0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-02-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ipVclWgYj_k"
 							}
 						}
 					]
