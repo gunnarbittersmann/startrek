@@ -496,6 +496,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Weil die Energiereserven der Voyager fast erschöpft sind, begibt sich die Crew in einen Nebel, von dem sie glaubt, er könne als Energiequelle nutzbar sein. Als die Mannschaft erkennt, dass es sich bei dem Nebel in Wahrheit um eine Lebensform handelt, versuchen sie die Schäden, die sie verursacht haben, zu beheben und entkommen aus der Kreatur."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/o3N2lA8I7Iw"
+						}
 					}
 				},
 				{
