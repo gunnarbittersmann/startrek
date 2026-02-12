@@ -603,6 +603,17 @@
 					"episodeNumber": "1.6",
 					"name": "Come, Let’s Away",
 					"datePublished": "2026-02-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Komm fort",
+						"datePublished": "2026-02-12"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Larry Teng"
+					},
 					"author": [
 						{
 							"@type": "Person",
