@@ -648,7 +648,19 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.6",
 					"episodeNumber": "1.6",
+					"name": "Come, Let’s Away",
 					"datePublished": "2026-02-12",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Komm fort",
+						"datePublished": "2026-02-12"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Larry Teng"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -661,6 +673,10 @@
 							"name": "Kiley Rossetter"
 						}
 					],
+					"description": {
+						"@language": "en",
+						"@value": "The Starfleet Academy and War College cadets are undergoing a routine training exercise aboard the USS Miyazaki, which contains an experimental singularity drive that disabled the ship on first use, killing its crew. Alien cannibals called Furies suddenly attack and take the cadets hostage. To rescue them, Captian Ake must ally with her enemy, Nus Braka. Unfortunately, Nus Braka tricks them into bringing an experimental weapons system from a nearby facility, which he disables. They manage to save the cadets, with help from the Betazoid Tarima, who communicates with Caleb and also kills the Furies. However this is at a price; Nus Braka has ransacked the experimental weapons facility inflicting many casualties."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -688,6 +704,36 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Ir6myIOAzxY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/sb8rwXQYBnk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -705,6 +751,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/1HqVoKL3XOk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-02-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/2trQHkhxOd0"
 							}
 						}
 					]
@@ -750,6 +810,11 @@
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.9",
 					"episodeNumber": "1.9",
 					"datePublished": "2026-03-05",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Jonathan Frakes"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KirstenBeyer",
