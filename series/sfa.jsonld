@@ -727,6 +727,11 @@
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.7",
 					"episodeNumber": "1.7",
 					"datePublished": "2026-02-19",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Olatunde Osunsanmi"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -745,6 +750,11 @@
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.8",
 					"episodeNumber": "1.8",
 					"datePublished": "2026-02-26",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Olatunde Osunsanmi"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -791,6 +801,11 @@
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.10",
 					"episodeNumber": "1.10",
 					"datePublished": "2026-03-12",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"name": "Jonathan Frakes"
+					},
 					"author": [
 						{
 							"@type": "Person",
