@@ -2888,6 +2888,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/DFu1Q0rP3v8"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Good, Bad, Batsh*t Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HailingFrequencies",
+								"name": "Hailing Frequencies"
+							},
+							"datePublished": "2025-08-22",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/LYDp_TKWhCA"
+							}
 						}
 					]
 				},
@@ -2989,6 +3004,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ZaF7zBHrzX0"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Good, Bad, Batsh*t Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HailingFrequencies",
+								"name": "Hailing Frequencies"
+							},
+							"datePublished": "2025-09-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/EzMmMm2bwxM"
+							}
 						}
 					]
 				},
@@ -3082,6 +3112,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/LaRuLjLIWc4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Good, Bad, Batsh*t Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HailingFrequencies",
+								"name": "Hailing Frequencies"
+							},
+							"datePublished": "2025-09-04",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/SrZeZNB7TMk"
 							}
 						}
 					]
@@ -3183,6 +3228,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/j0OSjFxcDCc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Good, Bad, Batsh*t Review",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#HailingFrequencies",
+								"name": "Hailing Frequencies"
+							},
+							"datePublished": "2025-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HYk5AIf24ww"
 							}
 						}
 					]
