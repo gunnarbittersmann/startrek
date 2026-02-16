@@ -506,6 +506,48 @@
 			"hasPart": [
 				{
 					"@type": "Book",
+					"name": "The Last Best Hope",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#UnaMcCormack",
+						"name": "Una McCormack",
+						"givenName": "Una",
+						"familyName": "McCormack"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2020-09-29",
+					"description": {
+						"en": "“Fifteen years ago…you led us out of the darkness. You commanded the greatest rescue armada in history. Then…the unimaginable. What did that cost you? Your faith. Your faith in us. Your faith in yourself. Tell us, why did you leave Starfleet, Admiral?” Every end has a beginning…and this electrifying novel details the events leading into the new Star Trek TV series, introducing you to brand-new characters featured in the life of Jean-Luc Picard—widely considered to be one of the most popular and recognizable characters in all of science fiction."
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-The-Last-Best-Hope/Una-McCormack/Star-Trek-Picard/9781982142186",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982142186/star-trek-picard-the-last-best-hope-9781982142186_lg.jpg",
+					"isbn": "9781982142186",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2020-02-18",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/P5qIPsddpXk"
+						}
+					}
+				},
+				{
+					"@type": "Book",
 					"name": "Rogue Elements",
 					"author": {
 						"@type": "Person",
