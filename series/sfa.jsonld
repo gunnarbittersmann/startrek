@@ -791,6 +791,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/FZuiMgZwf-4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.6" }
+							],
+							"datePublished": "2026-02-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6xcIHh3zGWg"
+							}
 						}
 					]
 				},
