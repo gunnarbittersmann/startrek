@@ -777,6 +777,11 @@
 						"name": "Ko’Zeine",
 						"datePublished": "2026-02-19"
 					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
 					"author": [
 						{
 							"@type": "Person",
