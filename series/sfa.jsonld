@@ -769,7 +769,14 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.7",
 					"episodeNumber": "1.7",
+					"name": "Ko’Zeine",
 					"datePublished": "2026-02-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ko’Zeine",
+						"datePublished": "2026-02-19"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
