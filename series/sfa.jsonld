@@ -793,6 +793,23 @@
 							"@id": "https://bittersmann.de/startrek/people#EricAnthonyGlover",
 							"name": "Eric Anthony Glover"
 						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/UgPllbkNUlU"
+							}
+						}
 					]
 				},
 				{
