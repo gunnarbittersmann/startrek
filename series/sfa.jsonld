@@ -834,6 +834,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.8",
 					"episodeNumber": "1.8",
+					"name": "The Life of the Stars",
 					"datePublished": "2026-02-26",
 					"author": [
 						{
@@ -852,6 +853,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.9",
 					"episodeNumber": "1.9",
+					"name": "300th Night",
 					"datePublished": "2026-03-05",
 					"director": {
 						"@type": "Person",
@@ -880,6 +882,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.10",
 					"episodeNumber": "1.10",
+					"name": "Rubicon",
 					"datePublished": "2026-03-12",
 					"author": [
 						{
