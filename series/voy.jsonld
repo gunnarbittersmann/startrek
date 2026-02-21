@@ -496,6 +496,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Weil die Energiereserven der Voyager fast erschöpft sind, begibt sich die Crew in einen Nebel, von dem sie glaubt, er könne als Energiequelle nutzbar sein. Als die Mannschaft erkennt, dass es sich bei dem Nebel in Wahrheit um eine Lebensform handelt, versuchen sie die Schäden, die sie verursacht haben, zu beheben und entkommen aus der Kreatur."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/o3N2lA8I7Iw"
+						}
 					}
 				},
 				{
@@ -4496,6 +4511,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Seven entdeckt ein Kommunikationsnetz einer unbekannten Spezies, mit dem sie ein Sternenflottenschiff am Rande des Alpha-Quadranten kontaktieren kann. Da akustische Botschaften nicht durchkommen, wird der Doktor als Flaschenpost geschickt. Wie er feststellt, heißt das Schiff Prometheus und ist von Romulanern gekapert worden. Die Besatzung wurde getötet. Der Doktor aktiviert das medizinische Notfall-Hologramm, ein MHN Typ II. Dieses ist zuerst recht arrogant, aber unter Anleitung des Doktors speist es ein gasförmiges Betäubungsmittel in das Ventilationssystem ein, das die Romulaner außer Gefecht setzt. Die beiden MHN übernehmen die Brücke und halten mit einigen Schwierigkeiten das Schiff an. Voyager wird von einem Hirogen kontaktiert; dieser Spezies gehört das Kommunikationsnetz. Sie sind nicht damit einverstanden, dass die Voyager es benutzt. Seven hindert mit einem Feedback-Impuls den Hirogen daran, die Kommunikation zwischen Voyager und Prometheus zu unterbrechen. Inzwischen nähern sich romulanische Schiffe der Prometheus und eröffnen das Feuer. Sternenflottenschiffe tauchen auf und beschießen ebenfalls die Prometheus. Mit Hilfe eines automatisierten Angriffsmodus zerstören die MHN ein romulanisches Schiff und vertreiben die anderen. Der Doktor kontaktiert das Hauptquartier der Sternenflotte und kehrt mit dem Versprechen zurück, dass die Sternenflotte alles tun wird, um die Voyager nach Hause zu bringen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nNcTjfXof4E"
+						}
 					}
 				},
 				{
@@ -6672,6 +6702,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während einer Außenmission fällt B’Elanna Torres durch einen Unfall in ein Koma. Während des Komas hat sie eine Vision, dass sie sich auf der Barke der Toten befindet, einem Segelschiff, das nach klingonischem Mythos die unehrenhaften Krieger zur klingonischen Unterwelt Gre’thor befördert. Sie entdeckt, dass auch ihre Mutter Miral auf dem Schiff ist und dass sie dies verschuldet hat, denn B’Elannas wiederholte Leugnung ihres klingonischen Erbes hat auch ihre Mutter Miral entehrt. Als B’Elanna aus dem Koma erwacht, ist sie von der Realität ihrer Erlebnisse während des Komas überzeugt. Sie überredet Janeway und den Doktor, sie in ein künstliches Koma zu versetzen, damit sie auf die Barke der Toten zurückkehren kann. Dort tauscht sie mit ihrer Mutter den Platz, damit diese ins Sto’Vo’Kor, den Platz für die ehrenhaften Krieger, gelangen kann. In der Hölle angekommen, stellt B’Elanna fest, dass eine veränderte, ihr gegenüber feindselige Version der Voyager ihre eigene individuelle Hölle ist. Miral erscheint erneut, um B’Elanna zu erklären, dass sie nicht ins Sto’Vo’Kor eingehen kann, solange B’Elanna nicht ihre eigene Reise antritt. Erst als B’Elanna erklärt, dass sie das permanente Kämpfen satt habe, erklärt ihre Mutter, sie habe nun den ersten Schritt der Reise hinter sich und sie würden sich wiedersehen. In diesem Moment erwacht B’Elanna auf der Krankenstation und ist froh, am Leben zu sein."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-29",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MjjWcX-UTSk"
+						}
 					}
 				},
 				{

@@ -2716,7 +2716,22 @@
 							"@language": "de",
 							"@value": "Dax löst mit Unterstützung der drei Klingonen Kang, Koloth und Kor einen Blutschwur ein, den einer von Dax’ früheren Wirten einst geleistet hatte. Zusammen besiegen sie einen für frühere Morde verantwortlichen klingonischen Albino."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-23",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/PE1pch_9Uc0"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
