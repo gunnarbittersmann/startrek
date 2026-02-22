@@ -18,6 +18,9 @@
 		if ($name == 'Trek-a-Day') {
 			return 'D';
 		}
+		if ($name == 'Trek Welten') {
+			return 'W';
+		}
 		if (str_starts_with($name, 'The ')) {
 			return $name[4];
 		}

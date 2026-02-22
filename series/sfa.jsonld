@@ -271,6 +271,24 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BIKZMfHTYhg"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-15",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/k_WJ3Qkxwus"
+							}
 						}
 					]
 				},
@@ -314,6 +332,10 @@
 						}
 					],
 					"description": [
+						{
+							"@language": "en",
+							"@value": "The cadets are introduced to Calica, a realistic team combat game. War College cadets use transporters to embarrass Caleb, Darem, Genesis, and Sam. Lt. Chancellor Ake advises her cadets to learn how to make war by gardening, and introduces them to the protected vitus reflux plant, which emulates a person’s emotions. Caleb learns Tarima has enrolled in the War College and is angry she did not tell him, but later reconcile. The War College cadets hack the Academy’s Calica training footage, and embarrass the Academy cadets by displaying all over campus. Darem and Genesis compete to be Calica team captain, and Darem wins. Darem challenges Dzolo and her War College team to a game of Calica. The two teams play in the Academy atrium at night. Darem’s leadership is poor, and he is disqualified for fighting. Genesis takes over, and the Academy scores against the War College. Ake admonishes her cadets, but makes subtle suggestions about how her cadets should retaliate. Taking her hints, the Academy cadets plant the fungus in the dormitory rooms of the War College, feeding it fast-growth chemicals. The fungus grows to enormous size, terrifying the War College cadets. The Academy wins the prank war."
+						},
 						{
 							"@language": "de",
 							"@value": "Darem und Genesis wetteifern um die Führung unter den Kadetten der Sternenflottenakademie, während die Rivalität mit dem Kriegscollege mit einem Streich zu eskalieren beginnt, bei dem die Kadetten in ihrer Unterwäsche von den Umkleiden an verschiedene Orte auf dem Campus gebeamt werden. Nahla Ake möchte nicht direkt in den Konflikt eingreifen, stellt ihren Schützlingen aber den seltenen Pilz Vitus Reflux vor, der sehr schnell wächst und empfindlich auf Emotionen reagiert. Die Akademie fordert das Kriegscollege zu einem heimlichen Calica-Spiel heraus (eine Art Laser Tag), um die Rechnung zu begleichen. Dabei scheitert Darem, der durch eine unfaire List zum Team-Captain geworden war, mit seiner aggressiven Strategie, und Genesis gelingt es, mit einer klügeren Strategie das Ruder herumzureißen, bevor das Spiel durch Thok und Reno abgebrochen wird. Darem versöhnt sich mit Genesis und gesteht ihr die Rolle des Team-Captain zu. Diese erkennt die versteckten Hinweise von Ake und entwickelt einen Plan, wie das Kriegscollege mit Hilfe des Vitus Reflux sabotiert werden kann, um den Streichkrieg für sich zu entscheiden. Die Kadetten setzen den Plan gemeinsam in die Tat um und sind erfolgreich."
@@ -378,6 +400,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/sozqWkdt9B4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3Gei83lMKuc"
+							}
 						}
 					]
 				},
@@ -426,10 +462,16 @@
 							"name": "Eric Anthony Glover"
 						}
 					],
-					"description": {
-						"@language": "en",
-						"@value": "Klingon cadet Jay-Den Kraag learns that his family may have been killed in a starship crash on their way to a refugee camp. During the Burn, the Klingon Empire was destroyed, leaving the Klingons an endangered species facing extinction. As the cadets engage in a series of debates on the topic, Admiral Vance enlists Chancellor Ake’s help to propose a solution to Klingon General Obel Wochak, an ex-lover of hers: asylum on Faan Alpha, a potential new homeworld in Federation space with conditions virtually identical to Qo’noS. However, the Klingons refuse to take what they see as charity and per tradition will only accept the planet via conquest. Jay-Den struggles with the memories of his brother Thar’s death and his family’s subsequent abandonment of Jay-Den before Cadet Master Thok gives him a new perspective on things. At Jay-Den’s suggestion, Vance and Ake stage a battle with Obel, allowing the Klingons to claim their new home by conquest. Jay-Den is honored as a true warrior and Obel reveals that his family survived the crash."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Klingon cadet Jay-Den Kraag learns that his family may have been killed in a starship crash on their way to a refugee camp. During the Burn, the Klingon Empire was destroyed, leaving the Klingons an endangered species facing extinction. As the cadets engage in a series of debates on the topic, Admiral Vance enlists Chancellor Ake’s help to propose a solution to Klingon General Obel Wochak, an ex-lover of hers: asylum on Faan Alpha, a potential new homeworld in Federation space with conditions virtually identical to Qo’noS. However, the Klingons refuse to take what they see as charity and per tradition will only accept the planet via conquest. Jay-Den struggles with the memories of his brother Thar’s death and his family’s subsequent abandonment of Jay-Den before Cadet Master Thok gives him a new perspective on things. At Jay-Den’s suggestion, Vance and Ake stage a battle with Obel, allowing the Klingons to claim their new home by conquest. Jay-Den is honored as a true warrior and Obel reveals that his family survived the crash."
+						},
+						{
+							"@language": "de",
+							"@value": "Der klingonische Kadett Jay-Den Kraag erfährt, dass seine Familie möglicherweise bei einem Raumschiffabsturz auf dem Weg zu einem Flüchtlingslager ums Leben gekommen ist. Die Klingonen sind inzwischen eine vom Aussterben bedrohte Spezies, da ihre Heimatwelt Kronos durch den Brand zerstört wurde. Während die Kadetten über dieses Thema einen Debattierwettbewerb unter Leitung des Doktors führen, bittet Admiral Vance Kanzlerin Ake um Hilfe, um dem klingonischen General Obel Wochak – einem früheren Geliebten von ihr – eine Lösung vorzuschlagen: Asyl auf Faan Alpha, einer neuen Heimatwelt im Raum der Föderation, die Kronos sehr ähnlich ist. Die Klingonen weigern sich jedoch, den Planeten als Geschenk anzunehmen, da ihre Tradition nur die gewaltsame Besitzergreifung kennt. Jay-Den ringt mit den Erinnerungen an den Tod seines Bruders Thar und an die anschließende Verstoßung durch seine Familie, bevor Cadetmaster Thok ihm eine neue Perspektive eröffnet. Auf Jay-Dens Vorschlag hin inszenieren Vance und Ake einen Kampf mit Obel, sodass die Klingonen ihre neue Heimat durch Eroberung beanspruchen können. Jay-Den wird als wahrer Krieger geehrt, und Obel enthüllt, dass seine Familie den Absturz überlebt hat."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -489,6 +531,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/QdqGpsK72I4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RfF3s4HIPtE"
+							}
 						}
 					]
 				},
@@ -531,10 +588,16 @@
 							"name": "Tawny Newsome"
 						}
 					],
-					"description": {
-						"@language": "en",
-						"@value": "Due to her own work as an emissary for the Makers, SAM becomes obsessed with the mystery of Benjamin Sisko, the Emissary of the Prophets who vanished at the end of the Dominion War. At the same time, Ake helps War College Chancellor Kelrec prepare for an important meeting with another chancellor with the help of the Doctor and Reno in an effort to make peace between them. Kelrec reveals that he feels that Ake abandoned Starfleet, leading to his animosity towards her. SAM’s efforts are unsuccessful, but Professor Illa shares with her Jake Sisko’s book Anslem, and SAM has an interaction with Jake through it. Illa reveals that she’s Illa Dax, the current host of the Dax symbiont who was friends with Sisko."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Due to her own work as an emissary for the Makers, SAM becomes obsessed with the mystery of Benjamin Sisko, the Emissary of the Prophets who vanished at the end of the Dominion War. At the same time, Ake helps War College Chancellor Kelrec prepare for an important meeting with another chancellor with the help of the Doctor and Reno in an effort to make peace between them. Kelrec reveals that he feels that Ake abandoned Starfleet, leading to his animosity towards her. SAM’s efforts are unsuccessful, but Professor Illa shares with her Jake Sisko’s book Anslem, and SAM has an interaction with Jake through it. Illa reveals that she’s Illa Dax, the current host of the Dax symbiont who was friends with Sisko."
+						},
+						{
+							"@language": "de",
+							"@value": "Aufgrund ihrer eigenen Tätigkeit als Abgesandte der Schöpfer von Kasq entwickelt Sam eine Besessenheit für das Geheimnis um Benjamin Sisko, den Abgesandten der Propheten von Bajor, der am Ende des Dominion-Krieges verschwand. Hierzu möchte sie sich bei einem Kurs von Professor Illa einschreiben, aber diese lehnt Sam ab, da das Semester bereits zu weit vorangeschritten ist. Zur gleichen Zeit hilft Ake dem Kanzler des Kriegscolleges, Kelrec, sich mit Unterstützung des Doktors und Reno auf ein wichtiges Treffen mit Kanzlerin Amal vom Planeten Alpherat vorzubereiten. Kelrec offenbart, dass er das Gefühl hat, Ake habe die Sternenflotte im Stich gelassen, was seine Feindseligkeit ihr gegenüber erklärt. In einem darauffolgenden Gespräch glätten sich die Wogen wieder. Währenddessen sucht Sam im Zuge ihrer Recherchen eine Bar auf, in der auch Sisko als junger Kadett gewesen ist, und lässt sich von Caleb betrunken machen, um das Gefühl nachempfinden zu können. Die Situation eskaliert, bringt ihr aber keine neuen Erkenntnisse. Resigniert sucht sie Professor Illa auf, und diese leiht ihr Jake Siskos Buch „Anslem“. Sam kann durch dieses Buch mit Jake in Kontakt treten und erfährt die wahre Bedeutung eines Abgesandten. Schließlich enthüllt Illa, dass sie Illa Dax ist – der aktuelle Wirt des Dax-Symbionten, der einst mit Sisko befreundet war."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -636,10 +699,16 @@
 							"name": "Kiley Rossetter"
 						}
 					],
-					"description": {
-						"@language": "en",
-						"@value": "The Academy and War College cadets participate in a routine training exercise aboard the derelict USS Miyazaki, which contains an experimental singularity drive that disabled the ship a century ago, killing its crew. Aliens called Furies board the Miyazaki and take the cadets hostage. Vance and Ake make a deal for assistance with Nus Braka, who has fought Furies before. Braka recommends sonic weapons and Vance suggests using a weapon carried by the USS Sargasso, which is called away from Starbase J-19 Alpha, an experimental weapons facility, to join the battle. After the Furies disable the Sargasso, Starfleet rescues the cadets with help from Tarima, who telepathically communicates with Caleb and through this connection kills the Furies, though not before Vulcan cadet B’Avi is killed in the battle. The entire event is revealed to have been a plot by Braka, who staged the attack upon the Miyazaki in order to lure the Sargasso away from the starbase so that he could have the starbase ransacked, inflicting mass casualties in the process. Tarima is also left comatose after the events and Ake receives a message from Nus Braka in which he torments her about what happened."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Academy and War College cadets participate in a routine training exercise aboard the derelict USS Miyazaki, which contains an experimental singularity drive that disabled the ship a century ago, killing its crew. Aliens called Furies board the Miyazaki and take the cadets hostage. Vance and Ake make a deal for assistance with Nus Braka, who has fought Furies before. Braka recommends sonic weapons and Vance suggests using a weapon carried by the USS Sargasso, which is called away from Starbase J-19 Alpha, an experimental weapons facility, to join the battle. After the Furies disable the Sargasso, Starfleet rescues the cadets with help from Tarima, who telepathically communicates with Caleb and through this connection kills the Furies, though this effort leaves her comatose, and Vulcan cadet B’Avi is killed in the battle. The entire event is revealed to have been a plot by Braka, who staged the attack upon the Miyazaki in order to lure the Sargasso away from the starbase so that he could have the starbase ransacked, inflicting mass casualties in the process. Ake receives a message from Nus Braka in which he taunts her on the success of his scheme."
+						},
+						{
+							"@language": "de",
+							"@value": "Auf einem Raumschiffsfriedhof nehmen die Kadetten der Akademie und des Kriegscolleges an einer gemeinsamen Übung an Bord der verlassenen USS Miyazaki teil, die über einen experimentellen Singularitätsantrieb verfügt, der das Schiff vor einem Jahrhundert außer Gefecht setzte und dabei die gesamte Besatzung tötete. Plötzlich entern Außerirdische, die Furien genannt werden, die Miyazaki und nehmen die Kadetten als Geiseln. Vance und Ake schließen widerwillig ein Abkommen mit Nus Braka, da dieser bereits erfolgreich gegen die Furien gekämpft hat. Braka empfiehlt Schallwaffen, und Vance schlägt vor, eine Waffe einzusetzen, die sich an Bord der USS Sargasso befindet. Diese wird von der Sternenbasis J-19-Alpha – einem Versuchslabor für Waffensysteme – abgezogen, jedoch setzen die Furien die Sargasso außer Gefecht. Die Kadetten können mit Hilfe von Tarima gerettet werden, die telepathisch mit Caleb kommuniziert und durch diese Verbindung die Furien tötet. Für den vulkanischen Kadetten B’Avi kommt die Hilfe jedoch zu spät; er stirbt im Kampf. Tarima fällt durch die außergewöhnliche Belastung ins Koma. Später stellt sich heraus, dass das gesamte Ereignis Teil eines Plans von Braka war: Er hatte den Angriff auf die Miyazaki inszeniert, um die Sargasso von der Sternenbasis J-19-Alpha wegzulocken, sodass er die Basis plündern lassen konnte, was zahlreiche Todesopfer zur Folge hatte."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -744,6 +813,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/FZuiMgZwf-4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.6" }
+							],
+							"datePublished": "2026-02-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6xcIHh3zGWg"
+							}
 						}
 					]
 				},
@@ -751,11 +839,28 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.7",
 					"episodeNumber": "1.7",
+					"name": "Ko’Zeine",
 					"datePublished": "2026-02-19",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ko’Zeine",
+						"datePublished": "2026-02-19"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/Ko%27Zeine"
+					},
 					"director": {
 						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
-						"name": "Olatunde Osunsanmi"
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
 					},
 					"author": [
 						{
@@ -768,18 +873,85 @@
 							"@id": "https://bittersmann.de/startrek/people#EricAnthonyGlover",
 							"name": "Eric Anthony Glover"
 						}
+					],
+					"abstract": {
+						"@language": "de",
+						"@value": "Während eines viertägigen Ausgangs der Kadetten wird Darem scheinbar entführt. Jay-Den folgt ihm und erfährt, dass es sich um ein khionianisches Vorhochzeitsritual handelt; Darem soll später gemeinsam mit seiner Verlobten Kaira Khionia regieren. Auf dem Campus geraten Caleb und Genesis wegen eines unerlaubten Eindringens auf die Brücke der Athena in Schwierigkeiten und werden zu Strafarbeit verurteilt. Bei der Hochzeitsfeier erkennt Darems Verlobte, dass er sich verändert hat, und sagt die Hochzeit ab. Caleb nimmt schließlich wieder Kontakt zu Tarima auf."
+					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Academy cadets go on a four-day break. As Darem is apparently abducted through a portal, Jay-Den, witnessing this, follows, only to learn that this was a Khionian pre-wedding ritual, and that Darem is scheduled to be co-ruler of Khionia with his fiancée, Kaira, several years after he graduates. Daren then names Jay-Den as his Ko’Zeine, or best man. Caleb remains on campus to relax. Though he worries about Tarima, who is recovering on Betazed following the events aboard the Miyazaki, and has not spoken to her since that incident, he is hesitant about sending a message to her. He is joined by Genesis, who is worried about Captain Ake nominating her for the Pre-Command Track. They break into the Athena bridge, where Caleb attempts to talk her out of hacking the main computer, but Reno catches them and summons Ake back from vacation to deal with them. Jay-Den gives a speech at the wedding reception complimenting Darem’s dedication to duty but Darem’s fiancee realizes that he is no longer the man she agreed to marry, and insists he call off the wedding. Ake sentences Caleb and Genesis to manual labor. Caleb finally sends a message to Tarima telling how he actually feels about her."
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/UgPllbkNUlU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WX3dxSyQPCM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-02-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VljEP4VmzzI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-02-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/UZpHcIDbfGY"
+							}
+						}
 					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.8",
 					"episodeNumber": "1.8",
+					"name": "The Life of the Stars",
 					"datePublished": "2026-02-26",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
-						"name": "Olatunde Osunsanmi"
-					},
 					"author": [
 						{
 							"@type": "Person",
@@ -797,6 +969,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.9",
 					"episodeNumber": "1.9",
+					"name": "300th Night",
 					"datePublished": "2026-03-05",
 					"director": {
 						"@type": "Person",
@@ -825,12 +998,8 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/sfa#1.10",
 					"episodeNumber": "1.10",
+					"name": "Rubicon",
 					"datePublished": "2026-03-12",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
-						"name": "Jonathan Frakes"
-					},
 					"author": [
 						{
 							"@type": "Person",

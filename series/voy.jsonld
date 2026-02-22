@@ -4511,6 +4511,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Seven entdeckt ein Kommunikationsnetz einer unbekannten Spezies, mit dem sie ein Sternenflottenschiff am Rande des Alpha-Quadranten kontaktieren kann. Da akustische Botschaften nicht durchkommen, wird der Doktor als Flaschenpost geschickt. Wie er feststellt, heißt das Schiff Prometheus und ist von Romulanern gekapert worden. Die Besatzung wurde getötet. Der Doktor aktiviert das medizinische Notfall-Hologramm, ein MHN Typ II. Dieses ist zuerst recht arrogant, aber unter Anleitung des Doktors speist es ein gasförmiges Betäubungsmittel in das Ventilationssystem ein, das die Romulaner außer Gefecht setzt. Die beiden MHN übernehmen die Brücke und halten mit einigen Schwierigkeiten das Schiff an. Voyager wird von einem Hirogen kontaktiert; dieser Spezies gehört das Kommunikationsnetz. Sie sind nicht damit einverstanden, dass die Voyager es benutzt. Seven hindert mit einem Feedback-Impuls den Hirogen daran, die Kommunikation zwischen Voyager und Prometheus zu unterbrechen. Inzwischen nähern sich romulanische Schiffe der Prometheus und eröffnen das Feuer. Sternenflottenschiffe tauchen auf und beschießen ebenfalls die Prometheus. Mit Hilfe eines automatisierten Angriffsmodus zerstören die MHN ein romulanisches Schiff und vertreiben die anderen. Der Doktor kontaktiert das Hauptquartier der Sternenflotte und kehrt mit dem Versprechen zurück, dass die Sternenflotte alles tun wird, um die Voyager nach Hause zu bringen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nNcTjfXof4E"
+						}
 					}
 				},
 				{

@@ -548,6 +548,48 @@
 				},
 				{
 					"@type": "Book",
+					"name": "The Dark Veil",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JamesSwallow",
+						"name": "James Swallow",
+						"givenName": "James",
+						"familyName": "Swallow"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2021-09-07",
+					"description": {
+						"en": "The Alpha Quadrant is mired in crisis. Within the United Federation of Planets, a terrorist strike on the shipyards of Mars has led to the shutdown of all relief efforts for millions of Romulans facing certain doom from an impending super­nova. But when the USS Titan is drawn into a catastrophic incident on the Romulan-Federation border, Captain William Riker, his family, and his crew find themselves caught between the shocking secrets of an enigmatic alien species and the deadly agenda of a ruthless Tal Shiar operative. Forced into a wary alliance with a Romulan starship commander, Riker and the Titan crew must uncover the truth to stop a devastating attack—but one wrong move could plunge the entire sector into open conflict!"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-The-Dark-Veil/James-Swallow/9781982154073",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982154073/star-trek-picard-the-dark-veil-9781982154073_lg.jpg",
+					"isbn": "9781982154073",
+					"numberOfPages": 336,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2021-01-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-UZQy_W158A"
+						}
+					}
+				},
+				{
+					"@type": "Book",
 					"name": "Rogue Elements",
 					"author": {
 						"@type": "Person",
