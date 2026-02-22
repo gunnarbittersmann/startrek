@@ -271,6 +271,24 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/BIKZMfHTYhg"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-15",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/k_WJ3Qkxwus"
+							}
 						}
 					]
 				},
@@ -381,6 +399,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/sozqWkdt9B4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3Gei83lMKuc"
 							}
 						}
 					]
@@ -498,6 +530,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/QdqGpsK72I4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-01-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RfF3s4HIPtE"
 							}
 						}
 					]
@@ -765,6 +812,25 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/FZuiMgZwf-4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.6" }
+							],
+							"datePublished": "2026-02-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/6xcIHh3zGWg"
 							}
 						}
 					]
