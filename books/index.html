@@ -107,14 +107,18 @@ function renderReviewDetails(book, review) {
 	return `
 		<details name="review-${book.isbn}" lang="en" property="video" typeof="VideoObject">
 			<summary title="${review.datePublished ?? ''}">${review.creator?.name.substring(0, 1)}</summary>
-			<meta
-				property="embedUrl"
-				content="${review.video.embedUrl}"
-			/>
-			<iframe
-				allowfullscreen=""
-				aria-label="${review.name}"
-			></iframe>
+			<div>
+				<div property="video" typeof="VideoObject" hidden="">
+					<meta
+						property="embedUrl"
+						content="${review.video.embedUrl}"
+					/>
+				</div>
+				<iframe
+					allowfullscreen=""
+					aria-label="${review.name}"
+				></iframe>
+			</div>
 		</details>
 	`;
 }
