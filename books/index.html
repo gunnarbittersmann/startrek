@@ -118,7 +118,7 @@ function renderReviewDetails(book, review) {
 					allowfullscreen=""
 					aria-label="${review.name}"
 				></iframe>
-				<p>${review.creator?.name} ${review.datePublished}</p>
+				<p>${review.creator?.name ?? ''} ${review.datePublished ?? ''}</p>
 			</div>
 		</details>
 	`;
