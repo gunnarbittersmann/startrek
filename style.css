@@ -302,6 +302,10 @@ ul:has(details) {
 	}
 }
 
+[property="review"] details > div {
+  margin-bottom: 1em;
+}
+
 details:has([property="video"]) {
 		iframe {
 		margin-bottom: 0;
