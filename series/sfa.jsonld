@@ -959,6 +959,18 @@
 					"episodeNumber": "1.8",
 					"name": "The Life of the Stars",
 					"datePublished": "2026-02-26",
+					"duration": "PT1H5M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Leben der Sterne",
+						"datePublished": "2026-02-26"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
 					"author": [
 						{
 							"@type": "Person",
