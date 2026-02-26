@@ -988,6 +988,37 @@
 							"@language": "en",
 							"@value": "With the cadets struggling with their experiences, Ake calls in Sylvia Tilly to help bring them back together through the play Our Town. Tarima finally returns, but is transferred to Starfleet Academy and has trouble dealing with the changes. Tarima has an emotional meltdown and nearly leaves, but chooses to stay in the end as everyone comes closer together than ever. SAM’s glitching threatens her life, so the Doctor and Ake take her to her homeworld Kasq in hopes that SAM’s Makers can save her, but she is damaged beyond their ability to repair. The Doctor reveals that SAM reminds him of his daughter Belle and the Doctor has been trying to avoid making any more attachments to deal with the emotional pain of his infinite lifespan and the numerous losses that it carries. The Doctor and Ake realize that because the Makers programmed SAM without a childhood, she lacked the resilience that comes with it and was overloaded by her experiences. SAM is rebuilt with the Doctor spending seventeen years on Kasq – equal to two weeks on Earth – raising her before they return to Starfleet."
 						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1wbv2SKSVYI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-02-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Ahyo_b0cg-s"
+							}
+						}
 					]
 				},
 				{
