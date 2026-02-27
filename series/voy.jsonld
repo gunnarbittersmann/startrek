@@ -4964,6 +4964,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Eine Sicherungskopie des Doktors wird nach 700 Jahren im Museum des kyrianischen Volkes aktiviert, nachdem Historiker Überreste der Voyager gefunden haben und eine stark verzerrte Version von deren Geschichte rekonstruiert haben: Voyager sei ein militärisches Raumschiff gewesen, und die Besatzung habe rücksichtslos und grausam agiert und in einem Konflikt mit einer anderen Spezies, den Vaskanern, Partei gegen die Kyrianer ergriffen. So konnten die Vaskaner das Land der Kyrianer besetzen. Erst nach Jahrhunderten wurden die Kyrianer in der vaskanischen Gesellschaft bis zu einem gewissen Grad akzeptiert, sind aber noch nicht gleichberechtigt. Der Doktor stellt richtig, dass die Kyrianer die Aggressoren waren und dass die Voyager-Besatzung nicht Partei ergriff. Schließlich überzeugt er einen Historiker, aber andere Kyrianer sind empört wegen seiner vermeintlichen Lügen. Es kommt zunächst zu gewalttätigen Protesten, bei denen auch das Museum zerstört wird. Später aber bewirkt der Doktor einen Dialog zwischen den Spezies, der zur Versöhnung führt. Er selbst macht sich schließlich auf zum Alpha-Quadranten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/V2sO1-Mg0cY"
+						}
 					}
 				},
 				{
