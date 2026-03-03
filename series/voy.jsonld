@@ -120,6 +120,21 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Tier List",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+					"name": "Trek Welten"
+				},
+				"datePublished": "2024-01-15",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1179,6 +1194,21 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Tier List",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+					"name": "Trek Welten"
+				},
+				"datePublished": "2024-10-05",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/6YaYTJXMrL4"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
