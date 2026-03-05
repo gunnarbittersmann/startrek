@@ -1093,7 +1093,38 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "At the end of the academic year, the cadets perform a ritual declaring themselves as a chosen family. At the same time, Starfleet pulls back after it’s discovered that Braka has weaponized the apocalyptic Omega molecule. Finally receiving a message from Anisha, Caleb, Darem, SAM and Genesis go after her on a planet in Venari Ral space, followed by Ake, Reno, the Doctor and a stowaway Jay-Den and Tarima. Caleb considers abandoning Starfleet for his mother, but goes back when his friends are in trouble. The group is rescued by the Athena and they discover that Braka has boxed the Federation in with Omega mines, leaving only the Athena on the outside."
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-03-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zgW3CR3-7gM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-03-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KA1oJOf-qmk"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
