@@ -248,6 +248,10 @@ details:not(:first-child) {
 	margin-top: 0.5em;
 }
 
+details ::marker {
+  font: 1em/0 monospace;
+}
+
 details p {
 	max-width: 32em;
 	margin-left: -26em;
