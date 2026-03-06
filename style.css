@@ -251,10 +251,12 @@ details:not(:first-child) {
 details ::marker {
   font: 1em/0 monospace;
   content: '▶︎';
+  content: '▶︎' / '';
 }
 
 details[open] ::marker {
   content: '▼';
+  content: '▼' / '';
 }
 
 details p {
