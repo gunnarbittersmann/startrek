@@ -6808,6 +6808,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Der Doktor hat von Captain Janeway die Erlaubnis erhalten, sein Programm so zu modifizieren, dass er zu Tagträumen fähig ist. Während der Doktor Tagträumen nachgeht, in denen er als kommandierendes Notfallprogramm Heldentaten zur Rettung der Voyager vollbringt, wird die Voyager unbemerkt von einem Schiff der Hierarchie beobachtet. Dazu zapfen sie ausgerechnet den Bewusstseinsstrom des Doktors an. Nachdem sie durch die Tagträume des Doktors überzeugt werden, dass es sich bei der Voyager um ein mächtiges Raumschiff mit überlegener Technologie handelt, nehmen sie davon Abstand, die Voyager anzugreifen, um wertvolle Teile auszuschlachten, wie sie es sonst mit fremden Schiffen in ihrem Raum zu tun pflegen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-06",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/me4HX_Jzr_w"
+						}
 					}
 				},
 				{
