@@ -4940,6 +4940,25 @@
 					"description": {
 						"@language": "de",
 						"@value": "Phlox wird dazu gezwungen, zum Stoppen der Seuche die unvollkommenen klingonischen Augments zu perfektionieren. Insgeheim arbeitet er jedoch an einem Antivirus. Die Enterprise holt sich die Hilfe der Columbia und Tuckers, um ihren Warpkernbruch zu verhindern; die klingonischen Subroutinen können dadurch aus dem Computer gelöscht werden. Archer spricht mit Harris, Reeds Kontakt bei der Sektion 31, und zweifelt an dessen Aussage, der zufolge es der Sektion um die Stabilisierung des klingonischen Reiches gehe. Reed nennt, geplagt von Gewissensbissen, Archer die Koordinaten der klingonischen Kolonie, sodass die Enterprise dorthin fliegt. Es stellt sich heraus, dass Harris mit einem klingonischen General kooperiert, der die Kolonie zum Verhindern der Ausbreitung der Seuche zerstören möchte. Die Enterprise kann, unterstützt durch die Columbia, aber den klingonischen Beschuss der Ziele stoppen. Phlox gelingt es trotz des Beschusses, den Antivirus herzustellen. Damit werden die infizierten Klingonen geheilt. Tucker bleibt vorerst auf der Enterprise, um bei den Reparaturen zu helfen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-05",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/ent#4.15" },
+							{ "@id": "https://bittersmann.de/startrek/series/ent#4.16" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/FbKDSE6d9s4"
+						}
 					}
 				},
 				{

@@ -15,6 +15,9 @@
 	$data = json_decode($json, TRUE);
 
 	function initial($name) {
+		if ($name == 'Trek Welten') {
+			return 'W';
+		}
 		if (str_starts_with($name, 'The ')) {
 			return $name[4];
 		}

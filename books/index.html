@@ -68,24 +68,13 @@ fetch(`books.jsonld`)
 							<details>
 								<summary>plot</summary>
 								<p property="description">${book.description.en}</p>
+								${book.url ? `
+									<p><a href="${book.url}">${book.publisher?.name ?? 'Book webpage' }</a></p>
+								` : ''}
 							</details>
 						` : ''}
 					</td>
-					${book.review?.video ? `
-						<td property="review" typeof="Review">
-							<details lang="en" property="video" typeof="VideoObject">
-								<summary title="${book.review.datePublished ?? ''}">J</summary>
-								<meta
-									property="embedUrl"
-									content="${book.review.video.embedUrl}"
-								/>
-								<iframe
-									allowfullscreen=""
-									aria-label="${book.review.name}"
-								></iframe>
-							</details>
-						</td>
-					` : '<td></td>'}
+					${renderReviews(book)}
 				</tr>
 			`);
 		});
@@ -96,6 +85,44 @@ fetch(`books.jsonld`)
 	scriptElement.src = '../script.js';
 	document.body.appendChild(scriptElement);
 });
+
+function renderReviews(book) {
+	if (book.review?.video) {
+		return `<td property="review" typeof="Review">${renderReviewDetails(book, book.review)}</td>`;
+	}
+	else if (book.review?.length) {
+		let html = '<td><ul>';
+		for (const review of book.review) {
+			html += `<li property="review" typeof="Review">${renderReviewDetails(book, review)}</li>`;
+		}
+		html += '</ul></td>';
+		return html;
+	}
+	else {
+		return '<td></td>';
+	}
+}
+
+function renderReviewDetails(book, review) {
+	return `
+		<details name="review-${book.isbn}" lang="en" property="video" typeof="VideoObject">
+			<summary title="${review.datePublished ?? ''}">${review.creator?.name.substring(0, 1)}</summary>
+			<div>
+				<div property="video" typeof="VideoObject" hidden="">
+					<meta
+						property="embedUrl"
+						content="${review.video.embedUrl}"
+					/>
+				</div>
+				<iframe
+					allowfullscreen=""
+					aria-label="${review.name}"
+				></iframe>
+				<p>${review.creator?.name ?? ''} ${review.datePublished ?? ''}</p>
+			</div>
+		</details>
+	`;
+}
 			</script>
 	</body>
 </html>
