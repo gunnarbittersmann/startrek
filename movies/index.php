@@ -15,6 +15,9 @@
 	$data = json_decode($json, TRUE);
 
 	function initial($name) {
+		if ($name == 'Trek-a-Day') {
+			return 'D';
+		}
 		if ($name == 'Trek Welten') {
 			return 'W';
 		}
