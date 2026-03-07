@@ -58,6 +58,7 @@
 					"episodeNumber": "1.1",
 					"name": "Kids These Days",
 					"datePublished": "2026-01-15",
+					"duration": "PT1H16M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -147,6 +148,7 @@
 					"episodeNumber": "1.2",
 					"name": "Beta Test",
 					"datePublished": "2026-01-15",
+					"duration": "PT1H1M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -298,6 +300,7 @@
 					"episodeNumber": "1.3",
 					"name": "Vitus Reflux",
 					"datePublished": "2026-01-22",
+					"duration": "PT1H3M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -334,7 +337,7 @@
 					"description": [
 						{
 							"@language": "en",
-							"@value": "The cadets are introduced to Calica, a realistic team combat game. War College cadets use transporters to embarrass Caleb, Darem, Genesis, and Sam. Lt. Chancellor Ake advises her cadets to learn how to make war by gardening, and introduces them to the protected vitus reflux plant, which emulates a person’s emotions. Caleb learns Tarima has enrolled in the War College and is angry she did not tell him, but later reconcile. The War College cadets hack the Academy’s Calica training footage, and embarrass the Academy cadets by displaying all over campus. Darem and Genesis compete to be Calica team captain, and Darem wins. Darem challenges Dzolo and her War College team to a game of Calica. The two teams play in the Academy atrium at night. Darem’s leadership is poor, and he is disqualified for fighting. Genesis takes over, and the Academy scores against the War College. Ake admonishes her cadets, but makes subtle suggestions about how her cadets should retaliate. Taking her hints, the Academy cadets plant the fungus in the dormitory rooms of the War College, feeding it fast-growth chemicals. The fungus grows to enormous size, terrifying the War College cadets. The Academy wins the prank war."
+							"@value": "The cadets are introduced to Calica, a realistic team combat game. War College cadets use transporters to embarrass Caleb, Darem, Genesis, and Sam. Chancellor Ake advises her cadets to learn how to make war by gardening, and introduces them to the protected vitus reflux plant, which emulates a person’s emotions. Caleb learns Tarima has enrolled in the War College and is angry she did not tell him, but later reconciles. The War College cadets hack the Academy’s Calica training footage, and embarrass the Academy cadets by displaying it all over campus. Darem and Genesis compete to be Calica team captain, and Darem wins. Darem challenges Dzolo and her War College team to a game of Calica. The two teams play in the Academy atrium at night. Darem’s leadership is poor, and he is disqualified for fighting. Genesis takes leadership, and the Academy scores against the War College. Ake admonishes her cadets, but makes subtle suggestions about how her cadets should retaliate. Taking her hints, the Academy cadets plant the fungus in the dormitory rooms of the War College, and feed it fast-growth chemicals. The fungus grows to enormous size, terrifying the War College cadets. The Academy wins the prank war."
 						},
 						{
 							"@language": "de",
@@ -426,6 +429,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-01-29",
+					"duration": "PT58M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -555,6 +559,7 @@
 					"episodeNumber": "1.5",
 					"name": "Series Acclimation Mil",
 					"datePublished": "2026-02-05",
+					"duration": "PT58M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -666,6 +671,7 @@
 					"episodeNumber": "1.6",
 					"name": "Come, Let’s Away",
 					"datePublished": "2026-02-12",
+					"duration": "PT1H2M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -841,6 +847,7 @@
 					"episodeNumber": "1.7",
 					"name": "Ko’Zeine",
 					"datePublished": "2026-02-19",
+					"duration": "PT55M",
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
@@ -874,14 +881,14 @@
 							"name": "Eric Anthony Glover"
 						}
 					],
-					"abstract": {
-						"@language": "de",
-						"@value": "Während eines viertägigen Ausgangs der Kadetten wird Darem scheinbar entführt. Jay-Den folgt ihm und erfährt, dass es sich um ein khionianisches Vorhochzeitsritual handelt; Darem soll später gemeinsam mit seiner Verlobten Kaira Khionia regieren. Auf dem Campus geraten Caleb und Genesis wegen eines unerlaubten Eindringens auf die Brücke der Athena in Schwierigkeiten und werden zu Strafarbeit verurteilt. Bei der Hochzeitsfeier erkennt Darems Verlobte, dass er sich verändert hat, und sagt die Hochzeit ab. Caleb nimmt schließlich wieder Kontakt zu Tarima auf."
-					},
 					"description": [
 						{
 							"@language": "en",
-							"@value": "The Academy cadets go on a four-day break. As Darem is apparently abducted through a portal, Jay-Den, witnessing this, follows, only to learn that this was a Khionian pre-wedding ritual, and that Darem is scheduled to be co-ruler of Khionia with his fiancée, Kaira, several years after he graduates. Daren then names Jay-Den as his Ko’Zeine, or best man. Caleb remains on campus to relax. Though he worries about Tarima, who is recovering on Betazed following the events aboard the Miyazaki, and has not spoken to her since that incident, he is hesitant about sending a message to her. He is joined by Genesis, who is worried about Captain Ake nominating her for the Pre-Command Track. They break into the Athena bridge, where Caleb attempts to talk her out of hacking the main computer, but Reno catches them and summons Ake back from vacation to deal with them. Jay-Den gives a speech at the wedding reception complimenting Darem’s dedication to duty but Darem’s fiancee realizes that he is no longer the man she agreed to marry, and insists he call off the wedding. Ake sentences Caleb and Genesis to manual labor. Caleb finally sends a message to Tarima telling how he actually feels about her."
+							"@value": "The Academy cadets go on a four-day break. As Darem is apparently abducted through a portal, Jay-Den, witnessing this, follows, only to learn that this was a Khionian pre-wedding ritual, and that Darem is scheduled to be co-ruler of Khionia with his fiancée, Kaira, several years after he graduates. Daren then names Jay-Den is his Ko’Zeine, or best man. Caleb remains on campus to relax. Though he worries about Tarima, who is recovering on Betazed following the events aboard the Miyazaki, he has not communicated with her since that incident, having deleted his draft attempts. Caleb is joined by Genesis, who is worried about Captain Ake nominating her for the Pre-Command Track. They break into the Athena bridge, where Caleb attempts to talk her out of hacking the main computer, but Reno catches them and summons Ake back from vacation to deal with them. Jay-Den gives a speech at the wedding reception complementing Darem’s dedication to duty but Darem’s fiancée realizes that he is no longer the man she knew, and insists they end the marriage. Ake sentences Caleb and Genesis to manual labor. Caleb finally sends a message to Tarima telling how he actually feels about her."
+						},
+						{
+							"@language": "de",
+							"@value": "Die Kadetten erhalten einen viertägigen Urlaub, und die meisten verlassen den Campus. Als Darem scheinbar durch ein Portal entführt wird, folgt ihm Jay-Den, muss aber erfahren, dass es sich dabei um ein khionianisches Hochzeitsritual handelt. Eigentlich sollte Darem erst einige Jahre nach seinem Abschluss heiraten und Khionia mit seiner Frau regieren. Da aber die Eltern seiner Verlobten vorzeitig abdankten, wird die Heirat vorgezogen. Darem ernennt Jay-Den zu seinem Ko’Zeine, also zu seinem Trauzeugen. In dieser Funktion hält Jay-Den eine Rede, in der er Darems Pflichtbewusstsein und Selbstlosigkeit hervorhebt, woraufhin Darems Frau erkennt, dass er nicht mehr der Mann ist, den sie einst kannte, und besteht darauf, dass er abdankt und die Ehe annulliert. Währenddessen kommen sich Caleb und Genesis, die allein auf dem Campus zurückgeblieben sind, freundschaftlich näher. Genesis, die von Captain Ake für die Führungslaufbahn vorgeschlagen wird, überredet Caleb unter einem Vorwand, mit ihr in die Brücke der Athena einzubrechen, wo sie den Hauptcomputer hacken will, um bestimmte Details aus ihrer Akte zu löschen. Caleb versucht, sie davon abzuhalten, doch Reno erwischt sie und ruft Ake aus dem Urlaub zurück, die für die beiden 200 Stunden Hilfsarbeiten festlegt und Genesis von der Nominierungsliste streicht. Während der Strafarbeit ermuntert Genesis Caleb, Tarima zu kontaktieren, die sich auf Betazed langsam erholt, und er schickt ihr schließlich eine Nachricht, in der er seine Gefühle für sie beschreibt."
 						}
 					],
 					"review": [
@@ -952,6 +959,28 @@
 					"episodeNumber": "1.8",
 					"name": "The Life of the Stars",
 					"datePublished": "2026-02-26",
+					"duration": "PT1H4M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Das Leben der Sterne",
+						"datePublished": "2026-02-26"
+					},
+					"subjectOf": {
+						"@type": "Webpage",
+						"inLanguage": "en",
+						"publisher": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+							"name": "Wikipedia"
+						},
+						"url": "https://en.wikipedia.org/wiki/The_Life_of_the_Stars"
+					},
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
+						"name": "Andi Armaganian"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -963,6 +992,77 @@
 							"@id": "https://bittersmann.de/startrek/people#JaneMaggs",
 							"name": "Jane Maggs"
 						}
+					],
+					"description": [
+						{
+							"@language": "en",
+							"@value": "With the cadets struggling with their experiences, Ake calls in Sylvia Tilly to help bring them back together through the play Our Town. Tarima finally returns, but is transferred to Starfleet Academy and has trouble dealing with the changes. Tarima has an emotional meltdown and nearly leaves, but chooses to stay in the end as everyone comes closer together than ever. SAM’s glitching threatens her life, so the Doctor and Ake take her to her homeworld Kasq in hopes that SAM’s Makers can save her, but she is damaged beyond their ability to repair. The Doctor reveals that SAM reminds him of his daughter Belle and the Doctor has been trying to avoid making any more attachments to deal with the emotional pain of his infinite lifespan and the numerous losses that it carries. The Doctor and Ake realize that because the Makers programmed SAM without a childhood, she lacked the resilience that comes with it and was overloaded by her trauma. SAM is rebuilt with the Doctor spending seventeen years on Kasq – equal to two weeks on Earth – raising her as his daughter before they return to Starfleet."
+						},
+						{
+							"@language": "de",
+							"@value": "Die Kadetten leiden immer noch unter dem Trauma, das die Tragödie auf der Miyazaki verursacht hat. Um ihnen zu helfen, holt Kanzlerin Ake Sylvia Tilly hinzu, die mit ihnen das Theaterstück Unsere kleine Stadt einstudiert, um das Geschehene zu verarbeiten und die Kadetten wieder als Gemeinschaft zusammenzuführen. Tarima kehrt von Betazed zurück und wird gegen ihren Willen zur Sternenflottenakademie versetzt, damit auch sie ihr Trauma besser verarbeiten kann. Sie hat große Schwierigkeiten, mit den Veränderungen umzugehen, und findet sind nur sehr langsam in die Gemeinschaft ein. Als Sams Fehlfunktionen lebensbedrohlich werden, bringen der Doktor und Ake sie zu ihrer Heimatwelt Kasq, in der Hoffnung, dass ihre Schöpfer sie retten können. Doch sie ist bereits zu schwer beschädigt. Der Doktor und Ake erkennen, dass ihr die natürliche Resilienz fehlt, da sie keine richtige Kindheit hatte. Der Doktor offenbart, dass Sam ihn an seine verstorbene Tochter Belle erinnert, und dass er versucht hat, keine weiteren Bindungen einzugehen, um mit dem emotionalen Schmerz seines unendlichen Lebens und den zahlreichen Verlusten, die es mit sich bringt, zurechtzukommen. Doch um Sam zu helfen, willigt er ein, sie wie seine Tochter aufzuziehen, nachdem sie von ihren Schöpfern neu aufgebaut wurde. Zu dritt verbringen sie siebzehn Jahre auf Kasq, doch da dort die Zeit schneller vergeht, sind auf der Erde nur zwei Wochen vergangen."
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1wbv2SKSVYI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-02-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ndbX_Ekh3QQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-02-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Ahyo_b0cg-s"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-03-01",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/iu2Vux3El1o"
+							}
+						}
 					]
 				},
 				{
@@ -971,9 +1071,16 @@
 					"episodeNumber": "1.9",
 					"name": "300th Night",
 					"datePublished": "2026-03-05",
+					"duration": "PT56M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die 300. Nacht",
+						"datePublished": "2026-03-05"
+					},
 					"director": {
 						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#LarryTeng",
+						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
 						"name": "Jonathan Frakes"
 					},
 					"author": {
@@ -991,6 +1098,58 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#KennethLin",
 							"name": "Kenneth Lin"
+						}
+					],
+					"description": [
+						{
+							"@language": "en",
+							"@value": "At the end of the academic year, the cadets perform a Klingon ritual declaring themselves as a chosen family, though Caleb declines. At the same time, Starfleet pulls back after it’s discovered that Braka has weaponized the apocalyptic Omega molecule. Finally accessing a message from Anisha, Caleb, with Darem, SAM and Genesis, goes after her on a planet in Venari Ral space, followed by Ake, Reno, the Doctor and stowaways Jay-Den and Tarima. Having found his mother, Caleb considers abandoning Starfleet, but goes back when his friends are in trouble. The group is rescued by the Athena, and they discover that Braka has boxed the Federation in with Omega mines, leaving only the Athena – crewed only by the cadets, Ake, Reno, and the Doctor – on the outside. As Ake is reunited with a frightened Anisha, Reno broadcasts a distress call to all Federation ships."
+						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-03-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zgW3CR3-7gM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-03-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3BP1KEHhXZw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-03-05",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KA1oJOf-qmk"
+							}
 						}
 					]
 				},
