@@ -9,6 +9,16 @@
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
 		<link rel="stylesheet" href="../style.css"/>
 		<style>
+			main {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), 1fr));
+				gap: 0.5em;
+			}
+			
+			h1 {
+				grid-column: 1 / -1;
+			}
+			
 			iframe { aspect-ratio: 1 }
 		</style>
 	</head>
@@ -48,7 +58,7 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main" class="players">
+		<main id="main">
 			<h1>Star Trek: Discovery OST</h1>
 			<figure>
 				<iframe width="400" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?si=ZTo6q2V4uFsmovyP&amp;list=PLjya64efcHDAc8FaJOToQUFxQfHhPvW6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
