@@ -9,8 +9,17 @@
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png"/>
 		<link rel="stylesheet" href="../style.css"/>
 		<style>
+			main {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), 1fr));
+				gap: 0.5em;
+				
+				@media (width > 30em) {
+					grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), 1fr) minmax(min(15em, 100%), 1fr));
+				}
+			}
+			
 			iframe { aspect-ratio: 4/3 }
-			.players:has(:is(iframe, figure):nth-of-type(7)) { --columns: 4 }
 		</style>
 	</head>
 	<body>
@@ -52,7 +61,7 @@
 				</ol>
 			</nav>
 		</header>
-		<main id="main" class="players">
+		<main id="main">
 			<hgroup>
 				<h1>Vic Fontaine</h1>
 				<p>(portrayed by James Darren)</p>
