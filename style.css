@@ -235,15 +235,29 @@ td[property="workTranslation"],
 td[property="creator"],
 td[property="director"],
 td[property="author"],
-td:has([property="author"]),
+td:has([property="author"]) {
+	width: 18em;
+}
+
 td[property="review"],
 td:has([property="video"]),
 td:has([property="audio"]) {
-	width: 18em;
+	width: 24em;
 }
 
 details:not(:first-child) {
 	margin-top: 0.5em;
+}
+
+details ::marker {
+  font: 1em/0 monospace;
+  content: '▶︎';
+  content: '▶︎' / '';
+}
+
+details[open] ::marker {
+  content: '▼';
+  content: '▼' / '';
 }
 
 details p {
@@ -282,23 +296,23 @@ ul:has(details) {
 	li:not(:first-of-type) summary {
 		margin-left: 1.5em;
 	}
+}
 	
-	details {
-		/* Safari 18.6 needs this */
-		&[open]::details-content {
-			display: contents;
-		}
-		
-		> div {
-			order: 1;
-			width: 100%;
-			margin-bottom: 1em;
-		
-			&:not(:has(p:last-child))::after {
-				content: '';
-				display: block;
-				height: 1lh;
-			}
+details {
+	/* Safari 18.6 needs this */
+	&[open]::details-content {
+		display: contents;
+	}
+	
+	> div {
+		order: 1;
+		width: 100%;
+		margin-bottom: 1em;
+	
+		&:not(:has(p:last-child))::after {
+			content: '';
+			display: block;
+			height: 1lh;
 		}
 	}
 }

@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/ds9",
 	"name": "Star Trek: Deep Space Nine",
 	"identifier": "DS9",
 	"inLanguage": "en",
@@ -81,6 +82,21 @@
 			"video": {
 				"@type": "VideoObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/_7ba5JH9xwk"
+			}
+		},
+		{
+			"@type": "Review",
+			"inLanguage": "de",
+			"name": "Diskussion",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+				"name": "Nerdzika"
+			},
+			"datePublished": "2025-12-03",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/DFZT68T4Y9M"
 			}
 		}
 	],
@@ -2700,7 +2716,22 @@
 							"@language": "de",
 							"@value": "Dax löst mit Unterstützung der drei Klingonen Kang, Koloth und Kor einen Blutschwur ein, den einer von Dax’ früheren Wirten einst geleistet hatte. Zusammen besiegen sie einen für frühere Morde verantwortlichen klingonischen Albino."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-23",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/PE1pch_9Uc0"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -4548,7 +4579,22 @@
 							"@language": "de",
 							"@value": "Sisko baut nach sehr alten Konstruktionsplänen, die er auf Bajor in einer Bibliothek gefunden hat, ein primitives, mit Solarsegeln betriebenes Raumschiff, um zu beweisen, dass die alten Bajoraner, gemäß ihrer Legenden, mit solchen Schiffen weit gereist sind, etwa bis nach Cardassia. Trotz einiger Schwierigkeiten gelingt Sisko und Jake die Reise dorthin, wo sie von Gul Dukat freundlich empfangen werden."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-20",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/50aJINOfacY"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -9395,7 +9441,22 @@
 							"@language": "de",
 							"@value": "Als sie ihre Familie auf dem Planeten New Sidney besucht, erfährt Ezri, dass Mitglieder ihrer Familie in Aktivitäten des verbrecherischen Orion-Syndikats verwickelt sind."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-11-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Wt7Jl2MqSDc"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",

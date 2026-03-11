@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/ent",
 	"name": "Star Trek: Enterprise",
 	"identifier": "ENT",
 	"inLanguage": "en",
@@ -162,21 +163,38 @@
 							"@value": "Als die Enterprise-Crew einen auf der Erde angeschossenen Klingonen zurück in dessen Heimatwelt bringen möchte, wird sie in Auseinandersetzungen mit den Suliban verwickelt, die sich im sogenannten „temporalen kalten Krieg“ befinden."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-11-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/RFJdgDmDEPs"
+							}
 						},
-						"datePublished": "2023-02-02",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Tyl8L9JGhhc"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-02-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Tyl8L9JGhhc"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -4257,6 +4275,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise-Crew wird anlässlich ihrer Rückkehr von der erfolgreichen Mission unter großem Beifall in San Francisco empfangen. Archer begegnet seiner Ex-Freundin Erica Hernandez, die gerade das Kommando über Columbia, das Schwesterschiff der Enterprise, übernommen hat, und unternimmt eine Klettertour mit ihr. In ihrer Gegenwart fühlt er sich an sein früheres Selbst erinnert und angesichts von Folterhandlungen und anderen ihm unangenehmen und in der Ausdehnung von ihm begangenen Taten ungerechtfertigt als Held verehrt. Durch ihren Zuspruch findet er seinen inneren Frieden wieder, und sie nehmen ihre Beziehung wieder auf. – Begleitet von Tucker besucht T’Pol ihr Zuhause und ihre Mutter auf Vulkan. Dort wird T’Pol alsbald von ihrem ehemaligen Verlobten Koss aufgesucht. Sie befolgt die vulkanischen Traditionen und heiratet ihn auf seinen Wunsch hin, damit ihre wegen der Zerstörung des Klosters P’Jem zum Rücktritt gezwungene Mutter in ihr Amt zurückkehren darf. Tucker, der T’Pol liebt, wohnt der Hochzeit dennoch bei. – Phlox sieht sich in einer Bar auf der Erde einer feindseligen Haltung von Menschen gegenüber Außerirdischen ausgesetzt und entscheidet sich deswegen gegen weitere Landgänge, die er ursprünglich unternehmen wollte."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-12-18",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/WJ_ZenWlXaM"
+						}
 					}
 				},
 				{
@@ -4907,6 +4940,25 @@
 					"description": {
 						"@language": "de",
 						"@value": "Phlox wird dazu gezwungen, zum Stoppen der Seuche die unvollkommenen klingonischen Augments zu perfektionieren. Insgeheim arbeitet er jedoch an einem Antivirus. Die Enterprise holt sich die Hilfe der Columbia und Tuckers, um ihren Warpkernbruch zu verhindern; die klingonischen Subroutinen können dadurch aus dem Computer gelöscht werden. Archer spricht mit Harris, Reeds Kontakt bei der Sektion 31, und zweifelt an dessen Aussage, der zufolge es der Sektion um die Stabilisierung des klingonischen Reiches gehe. Reed nennt, geplagt von Gewissensbissen, Archer die Koordinaten der klingonischen Kolonie, sodass die Enterprise dorthin fliegt. Es stellt sich heraus, dass Harris mit einem klingonischen General kooperiert, der die Kolonie zum Verhindern der Ausbreitung der Seuche zerstören möchte. Die Enterprise kann, unterstützt durch die Columbia, aber den klingonischen Beschuss der Ziele stoppen. Phlox gelingt es trotz des Beschusses, den Antivirus herzustellen. Damit werden die infizierten Klingonen geheilt. Tucker bleibt vorerst auf der Enterprise, um bei den Reparaturen zu helfen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-05",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/ent#4.15" },
+							{ "@id": "https://bittersmann.de/startrek/series/ent#4.16" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/FbKDSE6d9s4"
+						}
 					}
 				},
 				{

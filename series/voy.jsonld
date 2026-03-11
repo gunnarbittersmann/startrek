@@ -3,6 +3,7 @@
 		"@vocab": "https://schema.org/"
 	},
 	"@type": "TVSeries",
+	"@id": "https://bittersmann.de/startrek/series/voy",
 	"name": "Star Trek: Voyager",
 	"identifier": "VOY",
 	"inLanguage": "en",
@@ -119,6 +120,21 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Tier List",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+					"name": "Trek Welten"
+				},
+				"datePublished": "2024-01-15",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -196,21 +212,38 @@
 						"@language": "de",
 						"@value": "Das Föderationsraumschiff USS Voyager ist in den Badlands, im Grenzbereich zwischen der Föderation und der Cardassianischen Union, auf der Suche nach einem Raumschiff der Widerstandsgruppe Maquis. Hier werden beide Raumschiffe von einem Wesen, welches sich selbst als der Fürsorger bezeichnet, in nur wenigen Sekunden in den 70.000 Lichtjahre entfernten Delta-Quadranten entführt. Beide Crews werden dort auf dessen Phalanx teleportiert und nach medizinischen Untersuchungen wieder auf ihre Raumschiffe gebracht. Der Fürsorger hat allerdings keine Zeit, sie auch wieder in den Alpha-Quadranten zu bringen, denn er liegt im Sterben und versucht mit letzter Kraft das Volk der Ocampa mit der für deren Überleben unter der Planetenoberfläche notwendigen Energie zu versorgen. Das Wesen will verhindern, dass nach seinem Tod die Phalanx in die Hände der Völker im Delta-Quadranten fällt, und versucht deren Selbstzerstörung. Als diese aufgrund von technischen Problemen nicht gelingt, beschließen Janeway und Chakotay, der Kommandeur des Maquis-Schiffs, die Phalanx zu zerstören, um so den Ocampa weiter den Schutz vor ihren Feinden zu garantieren. Weil es nötig war, das Raumschiff der Maquis zu opfern, beschließen Janeway und Chakotay an Bord der Voyager eine gemeinsame Crew zu führen und machen sich nun gemeinsam auf den Rückweg in den Alpha-Quadranten. Janeway bleibt Captain und Chakotay wird ihr erster Offizier. Der Talaxianer Neelix und seine Ocampa-Freundin Kes, die der Besatzung im fremden Gebiet hilfreich zu Seite standen, bitten die Voyager auf ihrer Reise begleiten zu dürfen; Neelix bietet seine Dienste als Schiffskoch an. Tom Paris, der eigentlich kein Sternenflottenmitglied ist, wird Pilot der Voyager."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | First Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-10-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pufxSR0_xZs"
+							}
 						},
-						"datePublished": "2023-01-26",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/cncBOdUDGeg"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | First Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-01-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cncBOdUDGeg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -478,6 +511,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Weil die Energiereserven der Voyager fast erschöpft sind, begibt sich die Crew in einen Nebel, von dem sie glaubt, er könne als Energiequelle nutzbar sein. Als die Mannschaft erkennt, dass es sich bei dem Nebel in Wahrheit um eine Lebensform handelt, versuchen sie die Schäden, die sie verursacht haben, zu beheben und entkommen aus der Kreatur."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/o3N2lA8I7Iw"
+						}
 					}
 				},
 				{
@@ -1146,6 +1194,21 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_2"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "de",
+				"name": "Tier List",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+					"name": "Trek Welten"
+				},
+				"datePublished": "2024-10-05",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/6YaYTJXMrL4"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -1562,6 +1625,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager braucht Polyferranid für ihre Warpkernspulen. Chakotay erkundet mit einem Außenteam einen Mond, wo es geringe Vorkommen gibt. Dabei findet er ein Zeichen auf dem Boden, das einem Zeichen der Vorfahren seines Volkes gleicht. Diese wurden nach einem Mythos von „Geistern des Himmels“ erschaffen. Chakotay hat sein Volk als 15-Jähriger verlassen, um die Sternenflottenakademie zu besuchen. Erst nachdem sein Vater im Kampf gegen die Cardassianer getötet worden war, ließ er sich tätowieren und nahm denselben Kampf auf. – Vom Mond geht eine Warpsignatur aus, der die Voyager folgt. Sie führt zu einem Planeten, wo Torres eine hohe Polyferranid-Konzentration ortet. Immer wenn ein Ort mit dem Transporter erfasst wird, bildet sich dort aber ein elektrischer Sturm, deshalb fliegt ein von Chakotay geführtes Außenteam mit einem Shuttle dorthin. Nach der Landung wird Neelix von einem Vogel verletzt, der einem Falken ähnelt. Nachdem er auf die Voyager gebeamt wurde, findet die anderen ein vor Kurzem verlassenes Dorf. Chakotay befiehlt dem Team, die Waffen abzulegen. Als ein heftiger Sturm aufkommt, wird der Rest des Außenteams wieder zur Voyager gebeamt, während Chakotay, der seinen Kommunikator verloren hat, zurückbleibt. Erst als er seine Uniform ablegt, zeigen sich die Bewohner des Planeten. Sie tragen das gleiche Tattoo wie Chakotay, und ihre Vorfahren haben vor 45.000 Jahren die Evolution seines Volkes auf der Erde beeinflusst. Da sie nun von Chakotays guten Absichten überzeugt sind, versorgen die Planetenbewohner die Voyager-Besatzung mit Polyferranid."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-12-04",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MrOOBo5zyek"
+						}
 					}
 				},
 				{
@@ -2356,6 +2434,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein Transporter-Unfall verschmilzt Lieutenant Tuvok und Neelix zu einem Wesen, das Tuvix genannt wird und sich bald in die Besatzung integriert. Nur seine Beziehung zu Kes ist schwierig. Als der Doktor mit Fähnrich Kims Hilfe einen Weg findet, Tuvix wieder in Tuvok und Neelix aufzuspalten, ist Tuvix dagegen. Er besteht auf seinem Lebensrecht. Captain Janeway befiehlt nach reiflicher Überlegung die Trennung und führt sie selbst durch, nachdem der Doktor sich geweigert hat, weil ein Arzt keinen Schaden zufügen darf."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Trek, Actually",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2020-09-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/QRFWqTQ7xJ0"
+						}
 					}
 				},
 				{
@@ -4448,6 +4541,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Seven entdeckt ein Kommunikationsnetz einer unbekannten Spezies, mit dem sie ein Sternenflottenschiff am Rande des Alpha-Quadranten kontaktieren kann. Da akustische Botschaften nicht durchkommen, wird der Doktor als Flaschenpost geschickt. Wie er feststellt, heißt das Schiff Prometheus und ist von Romulanern gekapert worden. Die Besatzung wurde getötet. Der Doktor aktiviert das medizinische Notfall-Hologramm, ein MHN Typ II. Dieses ist zuerst recht arrogant, aber unter Anleitung des Doktors speist es ein gasförmiges Betäubungsmittel in das Ventilationssystem ein, das die Romulaner außer Gefecht setzt. Die beiden MHN übernehmen die Brücke und halten mit einigen Schwierigkeiten das Schiff an. Voyager wird von einem Hirogen kontaktiert; dieser Spezies gehört das Kommunikationsnetz. Sie sind nicht damit einverstanden, dass die Voyager es benutzt. Seven hindert mit einem Feedback-Impuls den Hirogen daran, die Kommunikation zwischen Voyager und Prometheus zu unterbrechen. Inzwischen nähern sich romulanische Schiffe der Prometheus und eröffnen das Feuer. Sternenflottenschiffe tauchen auf und beschießen ebenfalls die Prometheus. Mit Hilfe eines automatisierten Angriffsmodus zerstören die MHN ein romulanisches Schiff und vertreiben die anderen. Der Doktor kontaktiert das Hauptquartier der Sternenflotte und kehrt mit dem Versprechen zurück, dass die Sternenflotte alles tun wird, um die Voyager nach Hause zu bringen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nNcTjfXof4E"
+						}
 					}
 				},
 				{
@@ -4886,6 +4994,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Eine Sicherungskopie des Doktors wird nach 700 Jahren im Museum des kyrianischen Volkes aktiviert, nachdem Historiker Überreste der Voyager gefunden haben und eine stark verzerrte Version von deren Geschichte rekonstruiert haben: Voyager sei ein militärisches Raumschiff gewesen, und die Besatzung habe rücksichtslos und grausam agiert und in einem Konflikt mit einer anderen Spezies, den Vaskanern, Partei gegen die Kyrianer ergriffen. So konnten die Vaskaner das Land der Kyrianer besetzen. Erst nach Jahrhunderten wurden die Kyrianer in der vaskanischen Gesellschaft bis zu einem gewissen Grad akzeptiert, sind aber noch nicht gleichberechtigt. Der Doktor stellt richtig, dass die Kyrianer die Aggressoren waren und dass die Voyager-Besatzung nicht Partei ergriff. Schließlich überzeugt er einen Historiker, aber andere Kyrianer sind empört wegen seiner vermeintlichen Lügen. Es kommt zunächst zu gewalttätigen Protesten, bei denen auch das Museum zerstört wird. Später aber bewirkt der Doktor einen Dialog zwischen den Spezies, der zur Versöhnung führt. Er selbst macht sich schließlich auf zum Alpha-Quadranten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-02-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/V2sO1-Mg0cY"
+						}
 					}
 				},
 				{
@@ -6624,6 +6747,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während einer Außenmission fällt B’Elanna Torres durch einen Unfall in ein Koma. Während des Komas hat sie eine Vision, dass sie sich auf der Barke der Toten befindet, einem Segelschiff, das nach klingonischem Mythos die unehrenhaften Krieger zur klingonischen Unterwelt Gre’thor befördert. Sie entdeckt, dass auch ihre Mutter Miral auf dem Schiff ist und dass sie dies verschuldet hat, denn B’Elannas wiederholte Leugnung ihres klingonischen Erbes hat auch ihre Mutter Miral entehrt. Als B’Elanna aus dem Koma erwacht, ist sie von der Realität ihrer Erlebnisse während des Komas überzeugt. Sie überredet Janeway und den Doktor, sie in ein künstliches Koma zu versetzen, damit sie auf die Barke der Toten zurückkehren kann. Dort tauscht sie mit ihrer Mutter den Platz, damit diese ins Sto’Vo’Kor, den Platz für die ehrenhaften Krieger, gelangen kann. In der Hölle angekommen, stellt B’Elanna fest, dass eine veränderte, ihr gegenüber feindselige Version der Voyager ihre eigene individuelle Hölle ist. Miral erscheint erneut, um B’Elanna zu erklären, dass sie nicht ins Sto’Vo’Kor eingehen kann, solange B’Elanna nicht ihre eigene Reise antritt. Erst als B’Elanna erklärt, dass sie das permanente Kämpfen satt habe, erklärt ihre Mutter, sie habe nun den ersten Schritt der Reise hinter sich und sie würden sich wiedersehen. In diesem Moment erwacht B’Elanna auf der Krankenstation und ist froh, am Leben zu sein."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-29",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/MjjWcX-UTSk"
+						}
 					}
 				},
 				{
@@ -6670,6 +6808,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Der Doktor hat von Captain Janeway die Erlaubnis erhalten, sein Programm so zu modifizieren, dass er zu Tagträumen fähig ist. Während der Doktor Tagträumen nachgeht, in denen er als kommandierendes Notfallprogramm Heldentaten zur Rettung der Voyager vollbringt, wird die Voyager unbemerkt von einem Schiff der Hierarchie beobachtet. Dazu zapfen sie ausgerechnet den Bewusstseinsstrom des Doktors an. Nachdem sie durch die Tagträume des Doktors überzeugt werden, dass es sich bei der Voyager um ein mächtiges Raumschiff mit überlegener Technologie handelt, nehmen sie davon Abstand, die Voyager anzugreifen, um wertvolle Teile auszuschlachten, wie sie es sonst mit fremden Schiffen in ihrem Raum zu tun pflegen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-06",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/me4HX_Jzr_w"
+						}
 					}
 				},
 				{
@@ -8490,6 +8643,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "B’Elanna, nun mit Tom Paris verheiratet, stellt fest, dass sie schwanger ist. In Rückblenden wird enthüllt, dass B’Elanna als Kind darunter gelitten hat, als Halbklingonin von anderen Kindern gehänselt zu werden, und dass sie sich und ihrem klingonischen Temperament die Schuld dafür gibt, dass ihr menschlicher Vater ihre Mutter und sie verlassen hat. Aus Angst, dass es ihrem Kind ähnlich gehen könnte, versucht B’Elanna, Tom und den Doktor dazu zu bringen, das klingonische Erbgut aus ihrem ungeborenen Kind entfernen zu lassen. Nachdem sie vergeblich mit einer Umprogrammierung des Doktors versucht hat, ihren Willen durchzusetzen, gesteht sie Tom, dass sie befürchtet, dass auch er sie und ihr Kind verlassen könne, woraufhin Tom noch einmal seine Liebe für sie und das Kind bekräftigt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-12-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/kcKMz5LdvvM"
+						}
 					}
 				},
 				{

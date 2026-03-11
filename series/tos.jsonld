@@ -131,6 +131,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2025-12-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/GmgxMqcakfg"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Sacred Treks",
 							"creator": {
 								"@type": "Person",
@@ -2100,6 +2115,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Föderation befindet sich im Krieg mit den Klingonen. Kirk hat mit der Enterprise den Auftrag, die Okkupation des strategisch wichtigen besiedelten Planeten Organia durch die Klingonen zu verhindern, die dort eine Operationsbasis errichten wollen. Kirk hat keinen Erfolg damit, den Ältestenrat der friedfertigen Organier, die gänzlich gegen Gewaltanwendung sind, davon zu überzeugen, sich bei der Verteidigung helfen zu lassen. Kirk und Spock sitzen auf Organia fest, während die Klingonen mit der Besetzung des Planeten beginnen. Kirk gibt sich als Organier „Barroner“ aus und wird vom klingonischen Gouverneur Kor dazu gezwungen, als Verbindungsmann zu den Organiern zu dienen. Kirk und Spock wollen den Organiern durch Sabotage zeigen, wie sie sich gegen die Besatzung wehren können. Aleburn, der oberste Organier, verrät ihre wahre Identität an Kor, um ihnen so Gewalt zu ersparen. Daraufhin lässt Kor Kirk und Spock als Spione einsperren, diese werden aber von Aleburn rasch wieder befreit. Aleburn und seine Senatskollegen sorgen mit übermenschlichen Kräften dafür, dass die Waffen sowohl der Klingonen als auch der Sternenflotte überhitzen und dadurch funktionslos werden. Damit haben sie den Krieg abgebrochen. Aleburn erklärt, dass die Organier sich längst über den Evolutionsstand der Menschen und Klingonen hinausentwickelt haben und nun nur als immaterielle Energiewesen existieren."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Klingons!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-01-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_ksU0bz3Xcc"
+						}
 					}
 				},
 				{
@@ -2900,7 +2930,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist unterwegs zum Planeten Babel und befördert über 100 Teilnehmer einer Konferenz über die Aufnahme des Planeten Koridan in die Föderation. Dazu gehört auch der vulkanische Botschafter Sarek. Er und seine menschliche Frau Amanda sind die Eltern von Spock. Als der Botschafter der Tellariten ermordet aufgefunden wird, gerät Sarek, mit dem er sich zuvor gestritten hatte, unter Mordverdacht. Während des Fluges wird die Enterprise durch ein unbekanntes Raumschiff verfolgt. Nachdem Sarek zum wiederholten Male einen Herzinfarkt erleidet, sagt Spock zu, ihm mit einer Blutspende für die überlebensnotwendige Operation zu helfen. Diese Zusage zieht Spock aber wieder zurück, nachdem Kirk durch ein Attentat als Captain ausgefallen ist. Spock trifft diese Entscheidung wegen seines vulkanischen Pflichtbewusstseins für die Personen auf der Enterprise. Amanda ist gegen Spocks Entscheidung. Er muss sich daher entscheiden, seiner vulkanischen oder menschlichen Seite zu folgen. Um Spock die Blutspende dennoch durchführen zu lassen, übernimmt Kirk unter großen Schmerzen wieder das Kommando und kann die Angriffe des fremden Raumschiffs abwehren, das sich daraufhin selbst zerstört. Die Operation mit Blutspende verläuft erfolgreich. Der Attentäter begeht Suizid. Er und das fremde Raumschiff erweisen sich als orionisch."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Family Matters",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2025-10-31",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/gY_3Bvqc9vQ"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
