@@ -1188,6 +1188,11 @@
 					"episodeNumber": "1.10",
 					"name": "Rubincon",
 					"datePublished": "2026-03-12",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
+						"name": "Olatunde Osunsanmi"
+					},
 					"author": [
 						{
 							"@type": "Person",
