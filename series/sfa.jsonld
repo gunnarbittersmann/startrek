@@ -1188,6 +1188,13 @@
 					"episodeNumber": "1.10",
 					"name": "Rubincon",
 					"datePublished": "2026-03-12",
+					"duration": "PT1H8M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Rubicon",
+						"datePublished": "2026-03-12"
+					},
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OlatundeOsunsanmi",
