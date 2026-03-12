@@ -1229,6 +1229,37 @@
 							"@language": "en",
 							"@value": "Vance and Thok reveal that Braka is organizing a cartel of non-member worlds to pillage the Federation and the Athena is on her own. Braka catches up and captures Ake and Anisha, before seemingly destroying the Athena. However, the Doctor projects an illusion of a destroyed ship at the cost of being left glitching. As Braka holds a trial for the Federation, Reno and the cadets work together to repair the ship, track Braka and bring down the wall. Anisha and Ake face their mutual past with Caleb joining them to buy more time. Ake and Caleb expose the fact that the destruction of Braka’s homeworld, something that he blames the Federation for, was caused by Braka’s father, discrediting him. SAM is able to deactivate the mines and Vance arrives with the entire fleet to force the Venari Ral to surrender and arrest Braka. The fleet finally arrives at Betazed for the commissioning ceremony of the new Federation Headquarters and Caleb reconciles with his friends, planning to spend the summer traveling with Anisha before coming back for his second year."
 						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-03-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TtyiH1MFHx0"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-03-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/13ztwO6NncM"
+							}
+						}
 					]
 				}
 			]
