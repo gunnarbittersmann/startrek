@@ -7144,6 +7144,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Auf der Erde arbeitet Lt. Reginald Barclay als Teil eines Projektteams an einem Weg, mit der Voyager Kontakt aufzunehmen. Barclay ist inzwischen so besessen von der Voyager, dass er auf dem Holodeck eine komplette Voyager als Programm regelmäßig laufen lässt und als außerordentlich beliebtes und kompetentes Mitglied der virtuellen Crew seine Freizeit verbringt. Gleichzeitig entwickelt er in Überstunden eine Theorie, wie die Föderation Kontakt mit der Voyager aufnehmen könnte. Als sein Vorgesetzter seine Theorie als zu unausgereift zunächst ablehnt und ihn wegen seiner Obsession und Überarbeitung vom Dienst suspendiert, bricht er ins Labor ein und setzt seine Idee allein um. Er wird dabei entdeckt und verhaftet, nachdem er bereits eine Botschaft an die Voyager abgesetzt hat. Als die Voyager antwortet, wird er wieder in seine Position eingesetzt. Auf der Voyager stoßen die Crew-Mitglieder auf den erfolgreichen Kontakt und auf den für sie unbekannten Lt. Reginald Barclay an."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/W1c7i75cZ94"
+						}
 					}
 				},
 				{
