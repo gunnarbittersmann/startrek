@@ -50,6 +50,20 @@
 		{
 			"@type": "TVSeason",
 			"seasonNumber": 1,
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+					"name": "OrangeRiver"
+				},
+				"datePublished": "2026-03-14",
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/tH1yl_bHydc"
+				}
+			},
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
