@@ -69,6 +69,21 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "Ups & Downs",
+					"creator": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+						"name": "TrekCulture"
+					},
+					"datePublished": "2026-03-20",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/D2CuZ8PzofQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
 					"name": "Trek, Actually",
 					"creator": {
 						"@type": "Person",
