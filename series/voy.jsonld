@@ -7246,6 +7246,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager wird in den Orbit eines Planeten hineingezogen, auf dessen Oberfläche die Zeit für die Bewohner deutlich schneller vergeht als auf der Voyager und im Weltraum um sie herum. Während die Voyager versucht, sich wieder aus dem Orbit zu befreien, ist sie als helles Himmelsphänomen, ähnlich einem großen Stern, für die Bewohner des Planeten zu sehen. Der Anblick der Voyager inspiriert die Kultur auf dem Planeten von den Anfängen in einer Art Steinzeit bis zur Entwicklung der Raumfahrt. Als auf dem Planeten schließlich die Technologie so weit gediehen ist, dass die Bewohner Raumfahrt, Warp-Antrieb und Zeitmodulatoren beherrschen, können sie Kontakt mit der Voyager aufnehmen und ihr helfen, sich aus dem Orbit des Planeten zu befreien."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nBnUSE_VxKA"
+						}
 					}
 				},
 				{
