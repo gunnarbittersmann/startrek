@@ -1153,6 +1153,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während die Enterprise zu Reparaturzwecken auf Sternenbasis 74 angedockt ist, gehen auch einige Binärwesen an Bord, die bei der Instandsetzung helfen. Dabei kapern sie die Enterprise und fliegen zu ihrem Heimatplaneten. Sie verwenden den Computer der Enterprise für ein Backup des von einer Supernova bedrohten Computer ihres Planeten. Mit Hilfe von Picard und Riker gelingt die Rettung der Binärwesen und der Neustart des Computers des Planeten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cT8ZCeOLDj0"
+						}
 					}
 				},
 				{
