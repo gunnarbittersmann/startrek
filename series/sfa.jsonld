@@ -110,6 +110,20 @@
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/tH1yl_bHydc"
 					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2026-03-27",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/uEAF-s6yE3w"
+					}
 				}
 			],
 			"numberOfEpisodes": 10,
