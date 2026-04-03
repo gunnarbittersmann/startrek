@@ -3873,6 +3873,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise stößt in einem Asteroidenfeld auf ein altes Schlachtschiff der Promellianer, die seit einem Kampf mit ihren Feinden, den Menthar, alle tot sind. Dabei gerät die Enterprise alsbald in dieselbe, von den Menthar stammende Falle, die dem promellianischen Schiff einst zum Verhängnis wurde. Sie entzieht nun auch der Enterprise zunehmend die Energie, wodurch die Crew zu sterben droht. Um eine Lösung für das Problem zu suchen, lässt sich LaForge im Holodeck von einem Abbild von Dr. Leah Brahms helfen, die einst an der Konstruktion der Enterprise beteiligt war. Basierend auf der durch die beiden entwickelten Lösungsmöglichkeit kann schließlich Picard das Schiff aus dem Asteroidenfeld und somit aus dem Gefahrenbereich manövrieren."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/RQlD819Se8E"
+						}
 					}
 				},
 				{
