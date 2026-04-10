@@ -9526,6 +9526,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Nachdem Data und La Forge beim Durchspielen eines Sherlock-Holmes-Holodeckprogramms Fehler bemerkt haben, reaktiviert Barclay bei der Suche nach der Fehlerursache die Holodeckfigur Professor Moriarty, die Picard einst im Speicher des Holodecks gesichert hatte, weil er ein Bewusstsein entwickelt hatte. Als Moriarty Picard zu sich kommen lässt – Data und Barclay sind ebenfalls im Holodeck anwesend –, verlässt Moriarty das Holodeck, obwohl dies physikalisch als unmöglich gilt. Picard verweigert Moriarty dessen Wunsch, auch Moriartys Geliebte, die Countess Bartholomew, aus dem Holodeck freizulassen, weil die Crew noch nicht genügend Informationen über das Phänomen von Moriartys Aufenthalt außerhalb des Holodecks hat. Um Picard dennoch zum Umsetzen seiner Forderung zu zwingen, sperrt Moriarty mit einem Trick die Kommandofunktion des Enterprise-Computers und hindert die Crew so daran, mit der Enterprise den Bereich zu verlassen, in dem in Kürze zwei Planeten kollidieren und wodurch die Enterprise zerstört zu werden droht. Data entdeckt nun, dass sich er, Picard und Barclay nach wie vor im Holodeck befinden, und zwar in einem von Moriarty geschaffenen Programm. Jedoch verhindert Moriarty die Beendigung des Programms. Um die Gefahr für die Enterprise abzuwenden, erfüllt Picard Moriartys Forderung, dass dieser und die Countess mit einem Shuttle die Enterprise verlassen können, sodass Moriarty die Kommandofunktion der Enterprise wieder freigibt. Allerdings stellt sich nun heraus, dass Picard die Befreiung Moriartys und der Countess nur in einem Holodeckprogramm innerhalb des ersten Holodeckprogramms inszeniert hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/f7QWhEuSNII"
+						}
 					}
 				},
 				{
