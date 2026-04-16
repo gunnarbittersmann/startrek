@@ -88,6 +88,21 @@
 				"@type": "VideoObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/2wN6xmPFjpA"
 			}
+		},
+		{
+			"@type": "Review",
+			"inLanguage": "de",
+			"name": "Ersteindruck",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+				"name": "Nerdzika"
+			},
+			"datePublished": "2026-04-16",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/y2eQ_MgLIvM"
+			}
 		}
 	],
 	"numberOfSeasons": 7,
