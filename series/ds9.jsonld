@@ -8539,7 +8539,22 @@
 							"@language": "de",
 							"@value": "Als Odo von einem neuen Holosuite-Programm erfährt, in dem der Sänger Vic Fontaine in einem Nachtclub der 1960er Jahre auftritt, okkupiert er das Programm für sich allein und lässt sich von Fontaine dabei helfen, Kiras Liebe zu gewinnen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YEpIwHtgpsY"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
