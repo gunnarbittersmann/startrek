@@ -9088,21 +9088,38 @@
 							"@value": "Der vulkanische Sternenflottencaptain Solok fordert Sisko und seine Crew zu einem Baseball-Wettkampf in der Holosuite heraus."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2023-12-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YaPx92XpMaM"
+							}
 						},
-						"datePublished": "2023-12-12",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/YaPx92XpMaM"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | More Holodeck Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-04-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zeCFE55qRDo"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
