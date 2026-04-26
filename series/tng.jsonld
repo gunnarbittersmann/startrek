@@ -574,6 +574,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise nimmt einen zur Sternenflotte gehörigen Experten für Schiffsantriebe sowie dessen Assistenten, „Der Reisende“ genannt, an Bord, damit sie Tests zur Erhöhung der Effizienz des Warpantriebes durchführen können. Während der Tests, durch die das Schiff unbeabsichtigt in eine weit entfernte, fremde Galaxis fliegt, verschlägt es den Reisenden vorübergehend in eine andere Realität und die Crewmitglieder beginnen plötzlich, ihre eigenen Gedanken als real zu empfinden. Mit der Hilfe von Wesley Crusher, mit dem sich der Reisende angefreundet hat, schafft es der Reisende, das Schiff an seine ursprüngliche Position zu transportieren, wobei der Reisende aber verschwindet."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2026-04-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/5duaHWVwSbQ"
+						}						
 					}
 				},
 				{
