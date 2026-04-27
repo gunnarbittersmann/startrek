@@ -3327,6 +3327,193 @@
 					]
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#4",
+			"seasonNumber": 4,
+			"subjectOf": {
+				"@type": "Webpage",
+				"inLanguage": "en",
+				"publisher": {
+					"@type": "Organization",
+					"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+					"name": "Wikipedia"
+				},
+				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4"
+			},
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.1",
+					"episodeNumber": "4.1",
+					"name": "Valles Marineris",
+					"datePublished": "2026-07-23",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.2",
+					"episodeNumber": "4.2",
+					"name": "Griffin Incident",
+					"datePublished": "2026-07-30",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+						"name": "Kathryn Lyn"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.3",
+					"episodeNumber": "4.3",
+					"datePublished": "2026-08-06",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SkylarJOjeda",
+							"name": "Skylar J. Ojeda"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
+					"episodeNumber": "4.4",
+					"datePublished": "2026-08-13",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+						"name": "Robbie Thompson"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
+					"episodeNumber": "4.5",
+					"datePublished": "2026-08-20",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.6",
+					"episodeNumber": "4.6",
+					"datePublished": "2026-08-27",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+						"name": "Bill Wolkoff"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
+					"episodeNumber": "4.7",
+					"datePublished": "2026-09-03",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
+					"episodeNumber": "4.8",
+					"datePublished": "2026-09-10",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
+					"episodeNumber": "4.9",
+					"datePublished": "2026-09-17",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+						"name": "Onitra Johnson"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
+					"episodeNumber": "4.10",
+					"datePublished": "2026-09-24",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+							"name": "Robbie Thompson"
+						}
+					]
+				}
+			]
 		}
 	]
 }
