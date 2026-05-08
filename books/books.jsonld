@@ -714,6 +714,48 @@
 							"embedUrl": "https://www.youtube-nocookie.com/embed/saU9MULNM_I"
 						}
 					}
+				},
+				{
+					"@type": "Book",
+					"name": "To Defy Fate",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DaytonWard",
+						"name": "Dayton Ward",
+						"givenName": "Dayton",
+						"familyName": "Ward"
+					},
+					"isBasedOn": {
+						"@type": "TVSeries",
+						"@id": "https://bittersmann.de/startrek/series/pic"
+					},
+					"datePublished": "2026-04-28",
+					"description": {
+						"en": "2401: Just weeks after defeating a devastating joint attack by rogue Changelings and remnants of the Borg Collective, Starfleet and the Federation face a long period of recovery that requires replacing lost personnel and ships. While touring the U.S.S. Titan-A, which is just beginning an extensive repair-and-refit process that will take nearly a year to complete, newly promoted Captain Seven of Nine and her first officer, Commander Raffi Musiker, experience a bizarre temporal event which renders them both unconscious and sends Seven into a deep coma. In the aftermath of this inexplicable attack, Admirals Jean-Luc Picard and Beverly Crusher are surprised by the appearance of Crusher’s son, Wesley. Now a Traveler capable of traversing through all of space and time, he warns them that forces he cannot identify are working to disrupt time for unknown and potentially catastrophic reasons. Reality as they know it is in jeopardy and, despite their initial best efforts, the effects are not contained but instead continue to escalate. Picard, Crusher, and Musiker join Wesley in hunting through time to stop whoever or whatever seems hellbent on rewriting history. But what is their unknown adversary’s ultimate objective? Left unchecked, their efforts might well erase from existence those Picard and his friends hold most dear. What could justify attempting to defy fate itself?"
+					},
+					"url": "https://www.simonandschuster.com/books/Star-Trek-Picard-To-Defy-Fate/Dayton-Ward/Star-Trek-Picard/9781668097793",
+					"image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668097793/star-trek-picard-to-defy-fate-9781668097793_lg.jpg",
+					"isbn": "9781668097793",
+					"numberOfPages": 352,
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#PocketBooks",
+						"name": "Pocket Books"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2025-05-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Vg5ZuBgIfUM"
+						}
+					}
 				}
 			]
 		},
