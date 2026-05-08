@@ -4824,6 +4824,25 @@
 					"description": {
 						"@language": "de",
 						"@value": "Hirogen haben die Voyager gekapert. Sie zwingen die halbe Besatzung, an verschiedenen Kampfsimulationen auf dem Holodeck teilzunehmen, darunter die einer von den Deutschen besetzten französischen Stadt während des Zweiten Weltkriegs. Den Besatzungsmitgliedern wurden neurale Interfaces implantiert, durch die sie die Szenarien für real halten. Die Sicherheitsprotokolle sind abgeschaltet. Kim kümmert sich um die Ausweitung des Holodecks auf größere Teile der Voyager, während der Doktor mit einem Hirogen-Arzt die bei den Simulationen Verletzten behandelt. In der Weltkriegssimulation sind Janeway, Tuvok, Torres, Seven und Neelix Résistance-Mitglieder. Chakotay und Paris sind US-Soldaten. Als Seven, die in der Simulation angeschossen wurde, vom Doktor behandelt wird, setzt der ihr neurales Interface außer Funktion. Zurück in der Simulation hilft sie ihm und Kim, die Brücken-Kontrollrelais zu aktivieren und auch Janeways Interface abzuschalten. Durch amerikanischen Artilleriebeschuss des deutschen Hauptquartiers wird die Grenze zwischen dem Holodeck und dem Rest der Voyager durchbrochen. Holografische Soldaten strömen in die Gänge der Voyager. Janeway und Chakotay dringen zur Krankenstation vor und deaktivieren die restlichen Interfaces. Der Hirogen-Anführer erklärt Janeway, dass er die echte Jagd komplett durch Simulationen ersetzen will, weil er befürchtet, dass die Hirogen untergehen werden, wenn sie wie bisher alles der Jagd unterordnen. Er verhandelt mit ihr über die Weitergabe der Holodeck-Technologie und den Abzug der Hirogen, wird aber von einem anderen Hirogen getötet, der seine Pläne nicht gutheißt. Den tötet Janeway, während Kim die Holoemitter überlädt. Schließlich schließt Janeway einen Waffenstillstand mit den Hirogen: Diese bekommen die Holodeck-Technologie und verlassen die Voyager."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.18" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.19" }
+						],
+						"datePublished": "2026-05-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-Bp08UOiBiE"
+						}
 					}
 				},
 				{
