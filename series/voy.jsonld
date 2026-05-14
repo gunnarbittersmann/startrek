@@ -7249,6 +7249,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Tom Paris hat auf dem Holodeck für die Crew ein Programm erschaffen, das in einem irischen Dorf des 19. Jahrhunderts namens Fair Haven spielt. Als die Voyager über mehrere Tage bewegungslos während verschiedener Weltraumphänomene ausharren muss, läuft das Programm viele Tage ununterbrochen zur Unterhaltung der Crew. Auch Janeway nutzt das Programm und verliebt sich in die Figur des Barkeepers Michael, die sie nach ihren Vorstellungen verändert hat. Sie lässt aber dann davon ab, weil sie die Liebe zu einem Hologramm für perspektivlos hält. Als bei einem Sturm sämtliche Energie in die Deflektorschilde geleitet werden muss, wird das Fair-Haven-Programm beschädigt. Janeway sichert danach die Figur des Michael und schützt sie vor Veränderungen. Die Geschichte um Fair Haven wird in Staffel 6 in der Folge Das Geistervolk weitergeführt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-14",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/UBMGj_U_AFE"
+						}
 					}
 				},
 				{
