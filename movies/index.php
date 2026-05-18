@@ -8,7 +8,7 @@
 	const STARFLEET_LOGO = '../starfleet.svg';
 	const FAVICON = STARFLEET_LOGO;
 	const APPLE_TOUCH_ICON = '../apple-touch-icon.png';
-	const STYLESHEET = '../style.css?date=2025-08-14T18:04Z';
+	const STYLESHEET = '../style.css?date=2025-10-28T01:55Z';
 	const SCRIPT = '../script.js';
 
 	$json = file_get_contents('movies.jsonld');

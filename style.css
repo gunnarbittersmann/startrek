@@ -240,7 +240,8 @@ td:has([property="author"]) {
 }
 
 td[property="review"],
-td:has([property="video"]) {
+td:has([property="video"]),
+td:has([property="audio"]) {
 	width: 24em;
 }
 
@@ -316,7 +317,8 @@ details {
 	}
 }
 
-details:has([property="video"]) {
+details:has([property="video"]),
+details:has([property="audio"]) {
 	iframe {
 		margin-bottom: 0;
 	}
