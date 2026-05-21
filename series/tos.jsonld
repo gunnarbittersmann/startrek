@@ -3994,7 +3994,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist zu Forschungszwecken in die Nähe der Erde des Jahres 1968 gereist. Plötzlich beamt sich der Agent 194 mit dem Codenamen Felix Seven Rock an Bord und behauptet, von einem außerirdischen Planeten zu kommen und in wichtiger Mission zur Rettung der Erde unterwegs zu sein. Kirk misstraut ihm und lässt ihn in Arrest stecken, aus dem er aber bald wieder flieht und sich in ein Büro in New York City beamt. Er will verhindern, dass auf der Erde ein Atomkrieg ausbricht, und versucht dazu mit zwei bereits dafür eingeteilten Agenten Kontakt aufzunehmen, die jedoch bei einem Autounfall sterben. Seven Rock beamt sich zur McKinley-Raketenbasis, auf dem die Amerikaner in Kürze eine Atomrakete starten lassen. Kurz bevor der Startcountdown abläuft, kann Seven Rock die Rakete insgeheim manipulieren. Kirk und Spock verfolgen Seven Rock bis in die Raketenbasis, wo beide aber verhaftet werden. Die für die zwei gestorbenen Agenten eingeteilte Frau Roberta beamt Seven Rock zu sich ins Büro und verhindert damit, dass Scotty in der Enterprise Seven Rock zu sich beamt. Kirk und Spock können ihrer Haft entkommen und lassen sich durch Scotty ebenfalls in das Büro beamen. Dort gibt Kirk erst in letzter Sekunde sein Misstrauen gegenüber Seven Rock auf, indem er ihn mit dessen Spezialcomputer die Rakete detonieren lässt, kurz bevor sie auf der Erde Schaden angerichtet hätte."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-21",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nymDkCy90Lc"
+						}
+					}
 				}
 			]
 		},
