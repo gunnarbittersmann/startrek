@@ -1790,6 +1790,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während eines Raumfluges gerät die Enterprise vorübergehend in eine merkwürdige Zeitschleife. Es stellt sich heraus, dass das Phänomen in Zusammenhang steht mit Problemen auf dem wissenschaftlichen Außenposten auf dem Planeten Vandor IV. Mithilfe dessen Leiters Dr. Manheim kann Lieutenant Commander Data die Ursache des Problems lösen. Unterdessen ist Picard mit seinen Gefühlen für Manheims Frau konfrontiert."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-29",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cfRfJhFdg6s"
+						}
 					}
 				},
 				{
