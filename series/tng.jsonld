@@ -4724,6 +4724,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Von seiner Crew mit Nachdruck dazu ermutigt, sich wegen Erschöpfung eine Auszeit zu gönnen, beginnt Picard einen Urlaub auf dem Vergnügungsplaneten Risa. Dabei wird er allerdings in die Suche nach dem Artefakt Tox Uthat verwickelt, an dem die Frau Vash, der Ferengi Sovak und zwei aus dem 27. Jahrhundert angereiste Vorgonen interessiert sind. Während der Suche beginnen Picard und Vash vorübergehend ein Techtelmechtel, bevor Picard erkennt, dass Vash das Artefakt schon vor Wochen gefunden hat und nun den Ferengi abschütteln wollte. Schließlich lässt Picard das Artefakt mit Hilfe der Enterprise zerstören und kehrt auf das Schiff zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-04",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/T4sjTDCl2wU"
+						}
 					}
 				},
 				{
