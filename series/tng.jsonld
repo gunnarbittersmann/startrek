@@ -8147,6 +8147,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise hilft dem Volk der androgynen J’naii beim Wiederfinden eines von deren in einer seltenen Raumanomalie verlorengegangenen Shuttles. Dabei arbeitet Riker mit dem J’naii-Individuum Soren zusammen. Soren erklärt Riker, dass sich die J’naii einst von primitiven, geschlechtsspezifischen Wesen zu höheren, geschlechtslosen Wesen entwickelten und dass es ihnen nun bei Strafe verboten ist, sich mit Vertretern anderer Rassen zu paaren. Soren glaubt aber, anders zu sein, nämlich weiblich, und fühlt sich zu Riker hingezogen. Es entsteht eine Liebesbeziehung zwischen beiden, die aber dem J’naii-Individuum Krite nicht verborgen bleibt. Darum lässt Krite Soren alsbald als andersartig anklagen und zwecks Durchführung einer psychotektischen Therapie verhaften, bei der Soren die weiblichen Empfindungen ausgetrieben werden sollen. Obwohl Picard Riker angesichts der Obersten Direktive davon abrät, in dem Fall zu intervenieren, befreit Riker, unterstützt durch Worf, Soren aus der Gefangenschaft, um Soren mit auf die Enterprise zu nehmen. Soren lehnt jedoch ab mitzukommen, da Soren die Beziehung zu Riker nicht für richtig hält und der Therapie offensichtlich schon unterzogen wurde."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Nerd Out",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2018-11-15",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/PQ0xKWGU6b8"
+						}
 					}
 				},
 				{
