@@ -8217,7 +8217,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist in einer Zeitschleife gefangen, an deren Ende das Schiff zerstört wird. Daher muss die Crew einen Weg finden, die Schleife zu verlassen und somit die Zerstörung des Schiffes zu verhindern."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/HqBcFJfl5Yw"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
