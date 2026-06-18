@@ -4313,7 +4313,22 @@
 							"@language": "de",
 							"@value": "Die Romulaner sehen sich der Gefahr eines Angriffes durch das Dominion ausgesetzt. Den Plan der Romulaner, das Wurmloch zu zerstören, um das Dominion daran zu hindern, in ihren Raum einzudringen, kann aber verhindert werden, da O’Brien durch einen Unfall durch die Zeit reist."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qwIpXdLg3ZM"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
