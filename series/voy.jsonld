@@ -396,6 +396,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager entdeckt einen Planeten, der vor kurzem Schauplatz einer entsetzlichen Katastrophe wurde. Während Untersuchungen gelangen Janeway und Paris durch Subraumspalten zurück in die Zeit vor der Katastrophe und erkennen hier, dass es möglich ist, die Ereignisse zu verhindern. Die Crew der Voyager unternimmt unterdessen eine Rettungsaktion und versucht sich in den Subraum zu schneiden. Janeway begreift, dass diese Aktion die Katastrophe in der Vergangenheit überhaupt erst verursachte, und verhindert diese, was die Zeitlinie wieder herstellt und damit die Katastrophe ungeschehen macht."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bzj_Q81FmPE"
+						}
 					}
 				},
 				{
