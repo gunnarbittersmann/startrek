@@ -3348,7 +3348,10 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.1",
 					"episodeNumber": "4.1",
-					"name": "Valles Marineris",
+					"name": {
+						"@value": "Valles Marineris",
+						"@language": "la"
+					},
 					"datePublished": "2026-07-23",
 					"author": [
 						{
