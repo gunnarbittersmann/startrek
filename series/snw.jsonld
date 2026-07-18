@@ -3525,6 +3525,158 @@
 					]
 				}
 			]
+		},
+		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#5",
+			"seasonNumber": 5,
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_5"
+				}
+			],
+			"numberOfEpisodes": 6,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.1",
+					"episodeNumber": "5.1",
+					"datePublished": "2027",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"name": "Dan Liu"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.2",
+					"episodeNumber": "5.2",
+					"datePublished": "2027",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#VickyKerkhove",
+							"name": "Vicky Kerkhove"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#VickyKerkhove",
+							"name": "Vicky Kerkhove"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.3",
+					"episodeNumber": "5.3",
+					"datePublished": "2027",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+						"name": "Robbie Thompson"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.4",
+					"episodeNumber": "5.4",
+					"datePublished": "2027",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+						"name": "Dana Horgan"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.5",
+					"episodeNumber": "5.5",
+					"datePublished": "2027",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					},
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SkylarJOjeda",
+							"name": "Skylar J. Ojeda"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#5.6",
+					"episodeNumber": "5.6",
+					"datePublished": "2027",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Akiva Goldsman"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+						"name": "Akiva Goldsman"
+					}
+				}
+			]
 		}
 	]
 }
