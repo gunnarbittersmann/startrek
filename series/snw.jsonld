@@ -3394,6 +3394,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.3",
 					"episodeNumber": "4.3",
+					"name": "Human Best Friend",
 					"datePublished": "2026-08-06",
 					"author": [
 						{
@@ -3412,6 +3413,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
+					"name": "A Case of Chiaoscuro",
 					"datePublished": "2026-08-13",
 					"director": {
 						"@type": "Person",
@@ -3428,6 +3430,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
 					"episodeNumber": "4.5",
+					"name": "Level Five Transporter Accident",
 					"datePublished": "2026-08-20",
 					"director": {
 						"@type": "Person",
@@ -3451,6 +3454,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.6",
 					"episodeNumber": "4.6",
+					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
 					"author": {
 						"@type": "Person",
@@ -3462,6 +3466,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
 					"episodeNumber": "4.7",
+					"name": "Like Chronitons Through the Hourglass",
 					"datePublished": "2026-09-03",
 					"author": [
 						{
@@ -3480,6 +3485,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
 					"episodeNumber": "4.8",
+					"name": "Orders of Magnitude",
 					"datePublished": "2026-09-10",
 					"author": {
 						"@type": "Person",
@@ -3491,6 +3497,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
 					"episodeNumber": "4.9",
+					"name": "Once La’An a Time",
 					"datePublished": "2026-09-17",
 					"author": {
 						"@type": "Person",
@@ -3502,6 +3509,7 @@
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
 					"episodeNumber": "4.10",
+					"name": "Tomorrow’s Enterprise",
 					"datePublished": "2026-09-24",
 					"author": [
 						{
