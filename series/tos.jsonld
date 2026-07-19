@@ -4962,6 +4962,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Starter Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-06-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/dUqStd_gHKs"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
