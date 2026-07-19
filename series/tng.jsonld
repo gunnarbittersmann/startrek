@@ -8182,6 +8182,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Starter Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qYtineK0KKQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Woke Trek!",
 							"creator": {
 								"@type": "Person",
