@@ -9252,21 +9252,38 @@
 						"@language": "de",
 						"@value": "Der Doktor hat einen Roman geschrieben, den „Leser“ aus der Perspektive der Hauptperson im Holodeck erleben können. Wie sich herausstellt, ist der Roman eine nur schwach abgeänderte Erzählung der Erlebnisse des Doktors auf der Voyager, wobei die Mitglieder der Crew recht negativ dargestellt werden. Als der Doktor überzeugt wird, seinen Roman wieder zurückzuziehen, weigert sich der Literaturagent, der den Roman dem Doktor abgenommen hat, dies zu tun. Er argumentiert, dass der Doktor keine Person sei und damit auch keine Rechte als Autor hätte. In einer Live-Konferenz zwischen der Voyager und dem Sternenflottenkommando wird der Fall des Doktors ausgehandelt: Der Richter befindet, dass er noch nicht ein Grundsatzurteil über die Rechte von Hologrammen fällen könne, und er stuft den Doktor zwar nicht als Person ein, aber als Autor, womit der Doktor den Roman zurückziehen könne."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Labor Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Starter Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/mLwOWQsHEnI"
+							}
 						},
-						"datePublished": "2023-08-31",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/-uP0xB9PnXA"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Labor Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-08-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-uP0xB9PnXA"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
