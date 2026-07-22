@@ -100,6 +100,21 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"name": "The Queer Futurism of Starfleet Academy",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-07-17",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/-hoOxIPyBUc"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
 					"name": "Talkin’ Star Trek",
 					"creator": [
 						{
