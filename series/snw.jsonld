@@ -3365,6 +3365,11 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-07-23",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
 					"author": [
 						{
 							"@type": "Person",
