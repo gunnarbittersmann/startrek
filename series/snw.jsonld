@@ -3388,7 +3388,16 @@
 							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 							"name": "Alan B. McElroy"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Valles Marineris",
+							"@language": "la"
+						},
+						"datePublished": "2026-07-23"
+					}
 				},
 				{
 					"@type": "TVEpisode",
