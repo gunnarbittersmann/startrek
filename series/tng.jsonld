@@ -8182,12 +8182,11 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
-							"name": "Starter Trek",
-							"creator": {
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#JessieGender",
-								"name": "Jessie Gender"
-							},
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
 							"datePublished": "2026-07-06",
 							"video": {
 								"@type": "VideoObject",
