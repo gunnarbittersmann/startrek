@@ -3484,6 +3484,20 @@
 						{
 							"@type": "Review",
 							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2026-07-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/8qNMSfkRqNk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
 								"@type": "Person",
