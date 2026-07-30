@@ -8519,7 +8519,21 @@
 							"@language": "de",
 							"@value": "Einige Monate später gelingt es Sisko, einen diesen Schritt beinhaltenden Plan umzusetzen, indem er einen eigenen, streng geheimen Plan umsetzt, der mehrere rechtlich und moralisch fragwürdige Schritte beinhaltet, darunter die Weitergabe von biowaffenfähigem Material."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-07-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4CYWKh3gsBU"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
