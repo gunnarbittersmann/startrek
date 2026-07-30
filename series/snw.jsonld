@@ -3504,6 +3504,11 @@
 					"episodeNumber": "4.2",
 					"name": "Griffin Incident",
 					"datePublished": "2026-07-30",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
