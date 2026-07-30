@@ -5433,6 +5433,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während die Enterprise einen kleinen Jungen, der an einer gefährlichen Krankheit leidet, zur weiteren Behandlung zu einer Raumstation bringt, übernimmt Data plötzlich und unangekündigt das Kommando über das Schiff, das er sodann zu einem Planeten fliegt. Dort hinunter gebeamt, trifft er seinen Erschaffer, Dr. Noonian Soong. Wie dieser Data erklärt, hat er Data zu sich gerufen, um Data seinen neu entwickelten Emotionschip zu installieren. Beide werden jedoch überrascht durch Datas Bruder Lore, der mit einem Täuschungsmanöver Data alsbald außer Betrieb setzt, den Chip in sich selbst integrieren lässt und flieht. Die Enterprise-Crew konnte unterdessen das Kommando über das Schiff zurückerlangen. Ein Außenteam gelangt in Soongs Haus, wo es Data und den durch Lore schwer verletzten, sterbenden Soong vorfindet. Data wird wieder aktiviert, die Enterprise kann ihren Flug zur Raumstation fortsetzen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2026-07-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3KsS3DcCyck"
+						}						
 					}
 				},
 				{
