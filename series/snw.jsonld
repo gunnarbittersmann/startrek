@@ -3513,6 +3513,12 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
 						"name": "Kathryn Lyn"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Griffin-Vorfall",
+						"datePublished": "2026-07-30"
 					}
 				},
 				{
