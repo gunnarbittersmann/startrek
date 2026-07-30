@@ -2283,6 +2283,20 @@
 				{
 					"@type": "Review",
 					"inLanguage": "de",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2026-07-23",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/QCou4lmpMDE"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
 					"name": "Recap",
 					"creator": {
 						"@type": "Person",
@@ -3332,16 +3346,28 @@
 			"@type": "TVSeason",
 			"@id": "https://bittersmann.de/startrek/series/snw#4",
 			"seasonNumber": 4,
-			"subjectOf": {
-				"@type": "Webpage",
-				"inLanguage": "en",
-				"publisher": {
-					"@type": "Organization",
-					"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
-					"name": "Wikipedia"
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4"
 				},
-				"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4"
-			},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_4"
+				}	
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -3353,6 +3379,11 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-07-23",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -3376,6 +3407,109 @@
 							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 							"name": "Alan B. McElroy"
 						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Valles Marineris",
+							"@language": "la"
+						},
+						"datePublished": "2026-07-23"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Captain Christopher Pike is offered a promotion to Commodore. The USS Enterprise is caught in a solar storm which sends them back 65 million years to the Cretaceous period on Earth, where crew members encounter dinosaurs. The Enterprise is captured by Martians who are at war with the Dol’drm, an insect-like species from a planet between Mars and Jupiter. Pike offers to help end the conflict peacefully, but their leader Cassell learns that Mars is a barren wasteland in the future and decides to use the Enterprise’s antimatter fuel cell as a weapon. The crew race to stop Cassell from using it against the Dol’drm planet, but Pike makes a last minute decision not to interfere. The planet is destroyed, creating the asteroid belt and shifting Mars’s orbit enough to cause its eventual wasteland state. A fragment from the explosion becomes the Chichxulub asteroid that causes the dinosaurs’ extinction. The Enterprise uses the explosion’s energy to return to their own time, where Pike declines the promotion and instead has first officer Una Chin-Riley / Number One promoted to Commander."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/X1E77FB44nE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uDSCEhShrik"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/89Jvvg5pBXY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-07-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/wjxE9G5awWQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2026-07-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/8qNMSfkRqNk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-07-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TsfNLwOGqmc"
+							}
+						}
 					]
 				},
 				{
@@ -3384,10 +3518,21 @@
 					"episodeNumber": "4.2",
 					"name": "Griffin Incident",
 					"datePublished": "2026-07-30",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
 					"author": {
 						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
-						"name": "Kathryn Lyn"
+						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+						"name": "Robbie Thompson"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Griffin-Vorfall",
+						"datePublished": "2026-07-30"
 					}
 				},
 				{
@@ -3460,6 +3605,28 @@
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 						"name": "Bill Wolkoff"
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JessieGender",
+							"name": "Jessie Gender"
+						},
+						"datePublished": "2026-07-22",
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.2" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.3" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.4" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.5" },
+							{ "@id": "https://bittersmann.de/startrek/series/snw#4.6" }
+						],
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YfluA50vRiU"
+						}
 					}
 				},
 				{

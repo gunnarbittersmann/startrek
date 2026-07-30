@@ -5078,6 +5078,21 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "Dax is reunited with Lenara Kahn, whose previous host was the wife of one of Dax’s former hosts, Torias Dax, and the two struggle with their feelings for one another."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-07-23",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/J_Guao8aMpI"
+						}
 					}
 				},
 				{
