@@ -8182,20 +8182,6 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
-							"name": "Starter Trek"
-						},
-							"datePublished": "2026-07-06",
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/qYtineK0KKQ"
-							}
-						},
-						{
-							"@type": "Review",
-							"inLanguage": "en",
 							"name": "Retro Review | Woke Trek!",
 							"creator": {
 								"@type": "Person",
@@ -8206,6 +8192,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/9xbrbs2TK2c"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qYtineK0KKQ"
 							}
 						}
 					]

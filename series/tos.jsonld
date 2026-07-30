@@ -4962,20 +4962,6 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
-							"name": "Starter Trek"
-						},
-							"datePublished": "2026-06-29",
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/dUqStd_gHKs"
-							}
-						},
-						{
-							"@type": "Review",
-							"inLanguage": "en",
 							"name": "Trek, Actually",
 							"creator": {
 								"@type": "Person",
@@ -5001,6 +4987,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/MUNiNulpueE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-06-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/dUqStd_gHKs"
 							}
 						}
 					]
