@@ -8821,6 +8821,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "In einer Höhle auf der Erde werden Rückstände außerirdischen Lebens und Datas Kopf entdeckt, die sich dort seit etwa 500 Jahren befinden. Die Angelegenheit untersuchend, glaubt die herbeigerufene Enterprise-Crew eine Erklärung für die Entdeckung auf dem Planeten Devidia II zu finden. Dort angekommen, untersucht ein Außenteam eine Höhle mit ähnlichen Erscheinungen wie in der Höhle auf der Erde. Dabei entdeckt Data Lebensformen, die unsichtbar für das Außenteam sind; dabei gelangt er mittels einer unbeabsichtigten Zeitreise in das San Francisco des Jahres 1893. Dort erspielt er sich beim Poker zunächst etwas Geld für seine Lebenshaltung und für die Konstruktion eines Apparates, mit der er in die Zukunft zu kommunizieren hofft. Außerdem trifft er auf eine Guinan gleichende Frau; bei ihrem gemeinsamen Gespräch werden sie von Samuel Clemens belauscht. Außerirdische in menschlicher Gestalt entziehen Menschen in San Francisco mit einem offensichtlich aus der Zukunft stammenden Apparat Energie und füttern damit ihre Artgenossen in der Höhle. Auf der Enterprise indes motiviert Guinan Picard dazu, sich mit in die zeitliche Verzerrung zu begeben, da sich Guinan und Picard sonst nie begegnen. Zur Untersuchung von Datas Verschwinden in die Verzerrung eingetreten, entdeckt das Außenteam einige übergroße Außerirdische, bevor es ein aus leuchtender Energie bestehendes Tor durchschreitet."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-07-31",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/7dKgJwuGMM0"
+						}
 					}
 				}
 			]
