@@ -1188,6 +1188,24 @@
 					"description": {
 						"@language": "de",
 						"@value": "Aus dem Video, das Spock dem Gericht vorführt, geht hervor, dass die Überlebenden auf Talos IV eine Illusion waren, mit der die Talosianer die Enterprise angelockt haben. Wie das Video zeigt, halten die Talosianer Pike und die Frau Vena gefangen, die einzige Überlebende eines Raumschiffabsturzes, der sich 18 Jahre zuvor auf dem Planeten ereignete. Die Talosianer, die auch mit Pike per Gedankenübertragung kommunizieren können, wollen eine menschliche Gesellschaft quasi als Sklaven aufbauen, mit der sie ihr eigenes, bedrohtes Überleben sichern wollen. Dazu zwingen sie Pike mit Illusionen, der Frau näher zu kommen, um mit ihr eine Familie zu gründen. Pike jedoch ist widerspenstig und nutzt eine Fluchtgelegenheit aus dem Gebäude, bei der er einen Talosianer als Geisel nimmt. Pike kann nun mit Vena zurück auf die Enterprise beamen, jedoch weigert sich Vena. Wie Pike erst jetzt erfährt, ist sie in Wirklichkeit durch den einstigen Raumschiffabsturz körperlich völlig entstellt und lebt nur mit Hilfe der Talosianer als hübsche, unversehrte Frau. Nachdem Pike auf die Enterprise zurückgebeamt ist, endet das Video. In der Gegenwart ist die Enterprise indes im Orbit von Talos IV angelangt. Es stellt sich heraus, dass die Talosianer den Gerichtsprozess forciert haben, auch indem sie Mendez als Illusion für Spock und Kirk schufen, um so Pike nach Talos IV zu locken. Dieser geht auf das Angebot der Talosianer ein, hinunterzubeamen und ebenso wie Vena künftig ein Leben in einem unversehrten Körper zu führen. Der reale Mendez auf M11 storniert das Zutrittsverbot auf den Planeten für Pike ausnahmsweise. Spock ist nicht länger angeklagt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.12" }
+						],
+						"datePublished": "2026-08-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/NRFubN06U3E"
+						}
 					}
 				},
 				{
