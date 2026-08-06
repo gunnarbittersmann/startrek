@@ -3751,7 +3751,19 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
-					"datePublished": "2026-09-03"
+					"datePublished": "2026-09-03",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
