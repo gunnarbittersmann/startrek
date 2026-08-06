@@ -3676,41 +3676,14 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
 					"name": "A Case of Chiaoscuro",
-					"datePublished": "2026-08-13",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
-						"name": "Axelle Carolyn"
-					},
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
-						"name": "Robbie Thompson"
-					}
+					"datePublished": "2026-08-13"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
 					"episodeNumber": "4.5",
 					"name": "Level Five Transporter Accident",
-					"datePublished": "2026-08-20",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
-						"name": "Jordan Canning"
-					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
-							"name": "Henry Alonso Myers"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
-						}
-					]
+					"datePublished": "2026-08-20"
 				},
 				{
 					"@type": "TVEpisode",
@@ -3718,11 +3691,6 @@
 					"episodeNumber": "4.6",
 					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
-						"name": "Bill Wolkoff"
-					},
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
@@ -3751,62 +3719,28 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
-					"datePublished": "2026-09-03",
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
-							"name": "Bill Wolkoff"
-						}
-					]
+					"datePublished": "2026-09-03"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
-					"datePublished": "2026-09-10",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
-						"name": "Alan B. McElroy"
-					}
+					"datePublished": "2026-09-10"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
-					"datePublished": "2026-09-17",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
-						"name": "Onitra Johnson"
-					}
+					"datePublished": "2026-09-17"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
-					"datePublished": "2026-09-24",
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
-							"name": "Henry Alonso Myers"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
-							"name": "Robbie Thompson"
-						}
-					]
+					"datePublished": "2026-09-24"
 				}
 			]
 		}
