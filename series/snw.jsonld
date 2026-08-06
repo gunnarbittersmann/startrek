@@ -3770,7 +3770,12 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
-					"datePublished": "2026-09-10"
+					"datePublished": "2026-09-10",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
 				},
 				{
 					"@type": "TVEpisode",
