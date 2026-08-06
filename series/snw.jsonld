@@ -3933,7 +3933,12 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
-					"datePublished": "2026-09-17"
+					"datePublished": "2026-09-17",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+						"name": "Onitra Johnson"
+					}
 				},
 				{
 					"@type": "TVEpisode",
