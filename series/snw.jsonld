@@ -3869,6 +3869,11 @@
 					"episodeNumber": "4.6",
 					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+						"name": "Bill Wolkoff"
+					},
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
