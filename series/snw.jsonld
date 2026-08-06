@@ -3653,18 +3653,23 @@
 					"episodeNumber": "4.3",
 					"name": "Human Best Friend",
 					"datePublished": "2026-08-06",
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SkylarJOjeda",
-							"name": "Skylar J. Ojeda"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
-						}
-					]
+					"duration": "PT48M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#YanaGorskaya",
+						"name": "Yana Gorskaya"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+						"name": "Kathryn Lyn"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Menschlicher bester Freund",
+						"datePublished": "2026-08-06"
+					}
 				},
 				{
 					"@type": "TVEpisode",
