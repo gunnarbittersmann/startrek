@@ -3839,6 +3839,23 @@
 					"name": "Level Five Transporter Accident",
 					"datePublished": "2026-08-20",
 					"duration": "PT55M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
