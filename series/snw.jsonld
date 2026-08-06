@@ -3945,7 +3945,19 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
-					"datePublished": "2026-09-24"
+					"datePublished": "2026-09-24",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+							"name": "Robbie Thompson"
+						}
+					]
 				}
 			]
 		}
