@@ -3676,7 +3676,17 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
 					"name": "A Case of Chiaoscuro",
-					"datePublished": "2026-08-13"
+					"datePublished": "2026-08-13",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+						"name": "Robbie Thompson"
+					}
 				},
 				{
 					"@type": "TVEpisode",
