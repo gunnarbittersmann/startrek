@@ -120,6 +120,7 @@
 					"episodeNumber": "1.1",
 					"name": "Strange New Worlds",
 					"datePublished": "2022-05-05",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
@@ -251,6 +252,7 @@
 					"episodeNumber": "1.2",
 					"name": "Children of the Comet",
 					"datePublished": "2022-05-12",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -355,6 +357,7 @@
 					"episodeNumber": "1.3",
 					"name": "Ghosts of Illyria",
 					"datePublished": "2022-05-19",
+					"duration": "PT46M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeslieHope",
@@ -458,6 +461,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2022-05-26",
+					"duration": "PT54M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -561,6 +565,7 @@
 					"episodeNumber": "1.5",
 					"name": "Spock Amok",
 					"datePublished": "2022-06-02",
+					"duration": "PT52M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RachelLeiterman",
@@ -661,6 +666,7 @@
 					"episodeNumber": "1.6",
 					"name": "Lift Us Where Suffering Cannot Reach",
 					"datePublished": "2022-06-09",
+					"duration": "PT51M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
@@ -746,6 +752,7 @@
 					"episodeNumber": "1.7",
 					"name": "The Serene Squall",
 					"datePublished": "2022-06-16",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
@@ -831,6 +838,7 @@
 					"episodeNumber": "1.8",
 					"name": "The Elysian Kingdom",
 					"datePublished": "2022-06-23",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
@@ -916,6 +924,7 @@
 					"episodeNumber": "1.9",
 					"name": "All Those Who Wander",
 					"datePublished": "2022-06-30",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
@@ -994,6 +1003,7 @@
 					"episodeNumber": "1.10",
 					"name": "A Quality of Mercy",
 					"datePublished": "2022-07-07",
+					"duration": "PT1H3M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -1140,6 +1150,7 @@
 					"episodeNumber": "2.1",
 					"name": "The Broken Circle",
 					"datePublished": "2023-06-15",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -1258,6 +1269,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2023-06-22",
+					"duration": "PT57M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
@@ -1369,6 +1381,7 @@
 					"episodeNumber": "2.3",
 					"name": "Tomorrow and Tomorrow and Tomorrow",
 					"datePublished": "2023-06-29",
+					"duration": "PT1H1M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
@@ -1477,6 +1490,7 @@
 					"episodeNumber": "2.4",
 					"name": "Among the Lotus Eaters",
 					"datePublished": "2023-07-06",
+					"duration": "PT58M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
@@ -1592,6 +1606,7 @@
 					"episodeNumber": "2.5",
 					"name": "Charades",
 					"datePublished": "2023-07-13",
+					"duration": "PT1H",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -1692,6 +1707,7 @@
 					"episodeNumber": "2.6",
 					"name": "Lost in Translation",
 					"datePublished": "2023-07-20",
+					"duration": "PT54M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -1792,6 +1808,7 @@
 					"episodeNumber": "2.7",
 					"name": "Those Old Scientists",
 					"datePublished": "2023-07-22",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -1902,6 +1919,7 @@
 					"episodeNumber": "2.8",
 					"name": "Under the Cloak of War",
 					"datePublished": "2023-07-27",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeffByrd",
@@ -1995,6 +2013,7 @@
 					"episodeNumber": "2.9",
 					"name": "Subspace Rhapsody",
 					"datePublished": "2023-08-03",
+					"duration": "PT1H3M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DermottDowns",
@@ -2105,6 +2124,7 @@
 					"episodeNumber": "2.10",
 					"name": "Hegemony",
 					"datePublished": "2023-08-10",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -2318,6 +2338,7 @@
 					"episodeNumber": "3.1",
 					"name": "Hegemony, Part II",
 					"datePublished": "2025-07-17",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -2395,6 +2416,7 @@
 					"episodeNumber": "3.2",
 					"name": "Wedding Bell Blues",
 					"datePublished": "2025-07-17",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -2523,6 +2545,7 @@
 					"episodeNumber": "3.3",
 					"name": "Shuttle to Kenfori",
 					"datePublished": "2025-07-24",
+					"duration": "PT51M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -2624,6 +2647,7 @@
 					"episodeNumber": "3.4",
 					"name": "A Space Adventure Hour",
 					"datePublished": "2025-07-31",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2725,6 +2749,7 @@
 					"episodeNumber": "3.5",
 					"name": "Through the Lens of Time",
 					"datePublished": "2025-08-07",
+					"duration": "PT55M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
@@ -2848,6 +2873,7 @@
 					"episodeNumber": "3.6",
 					"name": "The Sehlat Who Ate Its Tail",
 					"datePublished": "2025-08-14",
+					"duration": "PT49M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
@@ -2949,6 +2975,7 @@
 					"episodeNumber": "3.7",
 					"name": "What Is Starfleet?",
 					"datePublished": "2025-08-21",
+					"duration": "PT41M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
@@ -3050,6 +3077,7 @@
 					"episodeNumber": "3.8",
 					"name": "Four-and-a-Half Vulcans",
 					"datePublished": "2025-08-28",
+					"duration": "PT55M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -3151,6 +3179,7 @@
 					"episodeNumber": "3.9",
 					"name": "Terrarium",
 					"datePublished": "2025-09-04",
+					"duration": "PT57M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
@@ -3245,6 +3274,7 @@
 					"episodeNumber": "3.10",
 					"name": "New Life and New Civilizations",
 					"datePublished": "2025-09-11",
+					"duration": "PT56M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -3379,6 +3409,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2026-07-23",
+					"duration": "PT1H",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -3518,6 +3549,7 @@
 					"episodeNumber": "4.2",
 					"name": "Griffin Incident",
 					"datePublished": "2026-07-30",
+					"duration": "PT1H",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
@@ -3533,6 +3565,10 @@
 						"inLanguage": "de",
 						"name": "Der Griffin-Vorfall",
 						"datePublished": "2026-07-30"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Returning on a shuttle from a leadership conference, James Kirk, Spock, and La’An come across the derelict ship USS Griffin, which had disappeared nine years ago. They detect no life signs and beam aboard to investigate. The ship powers up upon their arrival, but they begin seeing anomalous activity, including a suspicious woman walking through the halls. The group becomes separated; Spock becomes trapped in the medical bay after the computer informs him that most of the crew was killed after being beamed into empty space, and sees visions of T’Pring. Kirk tries to communicate with the USS Enterprise crew, but is distracted when he hears his infant son crying. La’an sees the video logs of the ship’s chief of security, Rose Harper, who she realizes killed all of the crew, and is the woman walking through the halls. The crew of the Enterprise apparently beams aboard to rescue them, but begins acting strangely. La’An becomes possessed and stabs Kirk in the stomach. The real Enterprise arrives and rescues them; they had never boarded the Griffin. They refer the Griffin to Division 12, which tows the ship away. Kirk attempts to contact his family, and La’An watches the Griffin, and sees Harper in the window."
 					},
 					"review": [
 						{
@@ -3578,6 +3614,36 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/VhLxLJzTAQ8"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3LKe1XO2qhE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-08-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E3e2d2lFERw"
+							}
 						}
 					]
 				},
@@ -3587,16 +3653,67 @@
 					"episodeNumber": "4.3",
 					"name": "Human Best Friend",
 					"datePublished": "2026-08-06",
-					"author": [
+					"duration": "PT48M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#YanaGorskaya",
+						"name": "Yana Gorskaya"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+						"name": "Kathryn Lyn"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Menschlicher bester Freund",
+						"datePublished": "2026-08-06"
+					},
+					"review": [
 						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SkylarJOjeda",
-							"name": "Skylar J. Ojeda"
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gaG-2d5UZAw"
+							}
 						},
 						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/JwtmjAo0yDA"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pzkLvsek6_M"
+							}
 						}
 					]
 				},
@@ -3605,41 +3722,14 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
 					"name": "A Case of Chiaoscuro",
-					"datePublished": "2026-08-13",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
-						"name": "Axelle Carolyn"
-					},
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
-						"name": "Robbie Thompson"
-					}
+					"datePublished": "2026-08-13"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
 					"episodeNumber": "4.5",
 					"name": "Level Five Transporter Accident",
-					"datePublished": "2026-08-20",
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
-						"name": "Jordan Canning"
-					},
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
-							"name": "Henry Alonso Myers"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
-						}
-					]
+					"datePublished": "2026-08-20"
 				},
 				{
 					"@type": "TVEpisode",
@@ -3647,11 +3737,6 @@
 					"episodeNumber": "4.6",
 					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
-						"name": "Bill Wolkoff"
-					},
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
@@ -3680,62 +3765,28 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
-					"datePublished": "2026-09-03",
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
-							"name": "Dana Horgan"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
-							"name": "Bill Wolkoff"
-						}
-					]
+					"datePublished": "2026-09-03"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
-					"datePublished": "2026-09-10",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
-						"name": "Alan B. McElroy"
-					}
+					"datePublished": "2026-09-10"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
-					"datePublished": "2026-09-17",
-					"author": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
-						"name": "Onitra Johnson"
-					}
+					"datePublished": "2026-09-17"
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
-					"datePublished": "2026-09-24",
-					"author": [
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
-							"name": "Henry Alonso Myers"
-						},
-						{
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
-							"name": "Robbie Thompson"
-						}
-					]
+					"datePublished": "2026-09-24"
 				}
 			]
 		}
