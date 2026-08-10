@@ -8215,21 +8215,38 @@
 							"@value": "Sisko träumt von sich als Benny Russell, einem Science-fiction-Schriftsteller, der in den 1950er Jahren versucht, seine von einer Raumstation in ferner Zukunft handelnde Geschichte zu veröffentlichen. Weil sein Titelheld wie Russell selbst ein Afroamerikaner ist, wird er mit Rassismus konfrontiert und hat zahlreiche Widerstände zu überwinden."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Woke Trek!",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-02-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TDvFeo9H5uc"
+							}
 						},
-						"datePublished": "2026-08-07",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/v1UHTy_7iEo"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Woke Trek!",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-08-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/v1UHTy_7iEo"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
