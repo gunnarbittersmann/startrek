@@ -3739,6 +3739,23 @@
 					"name": "A Case of Chiaoscuro",
 					"datePublished": "2026-08-13",
 					"duration": "PT51M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeeraMenon",
+						"name": "Meera Menon"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SkylarOjeda",
+							"name": "Skylar Ojeda"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
 					"workTranslation": {
 						"@type": "TVEpisode",
 						"inLanguage": "de",
