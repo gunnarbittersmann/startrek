@@ -3264,10 +3264,16 @@
 						"@id": "https://bittersmann.de/startrek/people#StephanieAmanteRitter",
 						"name": "Stephanie Amante-Ritter"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The Cerritos is sent to a space hotel where Mariner, Rutherford, Tendi, and T’Lyn are tasked with capturing a nanite swarm that is consuming technology and energy. They are joined by Mariner’s ex-girlfriend Jennifer Sh’reyan, whom Mariner ghosted. Jennifer acts as if they are still dating, and the others encourage Mariner to have a mature conversation about ending their relationship. Boimler joins Commander Jack Ransom in locating Admiral Milius, who has gone AWOL. Boimler suspects Ransom is using him as cannon fodder and briefly sides with Milius, who is resentful of Starfleet after being assigned uninteresting missions. Ransom says he chose Boimler for the mission because of his preparedness and bravery, and Boimler helps subdue Milius. Jennifer admits that she was pretending to still be dating as a way to force Mariner to talk. The two apologize and formalize their breakup. Rutherford finds a way to disable the nanites and discovers that they were controlled by a microscopic Starfleet ship from a parallel universe. Milius is happy when he is assigned to help the ship return home."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Cerritos is sent to a space hotel where Mariner, Rutherford, Tendi, and T’Lyn are tasked with capturing a nanite swarm that is consuming technology and energy. They are joined by Mariner’s ex-girlfriend Jennifer Sh’reyan, whom Mariner ghosted. Jennifer acts as if they are still dating, and the others encourage Mariner to have a mature conversation about ending their relationship. Boimler joins Commander Jack Ransom in locating Admiral Milius, who has gone AWOL. Boimler suspects Ransom is using him as cannon fodder and briefly sides with Milius, who is resentful of Starfleet after being assigned uninteresting missions. Ransom says he chose Boimler for the mission because of his preparedness and bravery, and Boimler helps subdue Milius. Jennifer admits that she was pretending to still be dating as a way to force Mariner to talk. The two apologize and formalize their breakup. Rutherford finds a way to disable the nanites and discovers that they were controlled by a microscopic Starfleet ship from a parallel universe. Milius is happy when he is assigned to help the ship return home."
+						},
+						{
+							"@language": "de",
+							"@value": "Auf einem interstellaren Kreuzfahrtschiff sind metallverschlingende Nanniten aktiv. Mariner, Tendy und Rutherford sollen sie einfangen. Unterstützt werden sie dabei durch Mariners Ex-Freundin Jennifer Sh’reyan, die sich so verhält, als wäre sie noch mit Mariner zusammen. Sie will die Cerritos verlassen, so dass Mariner glaubt, ein klärendes Gespräch vermeiden zu können. Sie arbeiten dennoch gut zusammen und können die Nanniten schließlich einfangen, die sich als verkleinertes Sternenflottenschiff aus einem Parallel-Universum erweisen. Währenddessen ist Boimler beauftragt, Ransom und Billups auf einer Undercover-Mission zu begleiten und den fahnenflüchtigen Admiral Mayhewer zu finden und zurückzubringen. Der war von seinen Missionen gelangweilt, darunter das Melken von Walen. Indem Boimler sich scheinbar auf die Seite Mayhewers stellt, gelingt es, diesen zu überwältigen. Mayhewer wird damit beauftragt, einen Weg zu finden, damit das verkleinerte Sternenflottenschiff in seine eigene Dimension zurückkehren kann, womit er sich nicht langweilen wird."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3337,10 +3343,16 @@
 						"@id": "https://bittersmann.de/startrek/people#DianaTay",
 						"name": "Diana Tay"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The Klingon officer Ma’ah is forced to return to his family farm after being stripped of his captaincy for allowing his crew to mutiny. He is visited by Boimler and Mariner, who offer to help him regain his command. However, Ma’ah is less than enthusiastic, as he would be forced to serve under Bargh, the leader of the Klingon Oversight Council, who abuses his position to deny Ma’ah’s appeals because Ma’ah killed his brother. With encouragement from Boimler, Ma’ah fights and kills Bargh and resolves to start his career anew with his brother Malor as his first officer. Ma’ah then helps the pair to study a new parallel-universe rift in Klingon space; they discover the rifts are not a natural occurrence. Meanwhile, the Cerritos is escorting two food critics back to the homeworld of Dr. Migleemo, the ship’s psychologist. Migleemo’s attempts to impress them with his cooking only receive negative criticism. Tendi, Rutherford, and Captain Carol Freeman expose the critics as frauds who have lost their sense of taste; Migleemo offers to provide therapy, earning their respect."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Klingon officer Ma’ah is forced to return to his family farm after being stripped of his captaincy for allowing his crew to mutiny. He is visited by Boimler and Mariner, who offer to help him regain his command. However, Ma’ah is less than enthusiastic, as he would be forced to serve under Bargh, the leader of the Klingon Oversight Council, who abuses his position to deny Ma’ah’s appeals because Ma’ah killed his brother. With encouragement from Boimler, Ma’ah fights and kills Bargh and resolves to start his career anew with his brother Malor as his first officer. Ma’ah then helps the pair to study a new parallel-universe rift in Klingon space; they discover the rifts are not a natural occurrence. Meanwhile, the Cerritos is escorting two food critics back to the homeworld of Dr. Migleemo, the ship’s psychologist. Migleemo’s attempts to impress them with his cooking only receive negative criticism. Tendi, Rutherford, and Captain Carol Freeman expose the critics as frauds who have lost their sense of taste; Migleemo offers to provide therapy, earning their respect."
+						},
+						{
+							"@language": "de",
+							"@value": "Mariner und Boimler wurden beauftragt, auf Kronos eine Riss im Universum zu untersuchen. Dafür benötigen sie die Hilfe von Ma’ah, der wieder auf den Bauernhof seiner Familie lebt, nachdem ihm von den Klingonen wegen einer Meuterei seiner Besatzung der Rang des Captains entzogen wurde. Boimler entdeckt ein jahrhundertelang nicht angewendetes Ritual, wonach man drei gefährliche Prüfungen bestehen muss, um wieder als Captain eingesetzt zu werden. Mit Hilfe von Mariner, Boimler und Ma’ahs Bruder Malor gelingt es, zwei der Prüfungen zu bestehen. Für die dritte soll Ma’ah ein Mitglied seines Teams töten, doch mithilfe eines weiteren Rituals macht er seinen Kontrahenten Bargh zum Team-Mitglied und tötet ihn in Notwehr. Währenddessen empfängt Dr. Migleemo zwei Restaurantkritiker seines eigenen Volkes auf der Cerritos, welche ihn aber wegen seines Jobs als Counselor und seiner Tätigkeit in der Sternenflotte verachten. Sie bezeichnen die von ihm vorgesetzten Mahlzeiten als ungenießbar und wollen ihn ins Gefängnis bringen. Es stellt sich heraus, dass die zwei Besucher ihren Geschmack verloren haben, es aber nicht zugeben wollten. Dr. Migleemo ist trotz ihrer Feindseligkeiten bereit, sie zu heilen. (Die Episode hat einen abweichende Titelsequenz.)"
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3410,10 +3422,16 @@
 						"@id": "https://bittersmann.de/startrek/people#MayDarmon",
 						"name": "May Darmon"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The Cerritos is forced to dock at Starbase 80, which has a legendary negative reputation among Starfleet. The starbase is understaffed and supplied with obsolete equipment. Mariner, who was previously assigned to Starbase 80, believes the place to be cursed, especially when members of the Cerritos crew start acting like zombies. Ultimately, it is revealed that the phenomenon was caused by an “anaphasic lifeform” named Clem, whom the Cerritos unknowingly picked up on a previous mission, unintentionally possessing them in a failed attempt to communicate. Having proven to be harmless, Clem is invited to remain at Starbase 80. Having gained a new appreciation for the legendary starbase, the Cerritos crew helps to repair many of its issues. Meanwhile, having learned that her alternate-universe counterpart was assigned to Starbase 80, Freeman becomes obsessed with avoiding her counterpart’s mistake. The station’s chief engineer sends her and Ransom on a wild-goose chase through the starbase in order to help him with repairs, and they end up trying to capture a giant bat even after the situation with Clem is resolved."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Cerritos is forced to dock at Starbase 80, which has a legendary negative reputation among Starfleet. The starbase is understaffed and supplied with obsolete equipment. Mariner, who was previously assigned to Starbase 80, believes the place to be cursed, especially when members of the Cerritos crew start acting like zombies. Ultimately, it is revealed that the phenomenon was caused by an “anaphasic lifeform” named Clem, whom the Cerritos unknowingly picked up on a previous mission, unintentionally possessing them in a failed attempt to communicate. Having proven to be harmless, Clem is invited to remain at Starbase 80. Having gained a new appreciation for the legendary starbase, the Cerritos crew helps to repair many of its issues. Meanwhile, having learned that her alternate-universe counterpart was assigned to Starbase 80, Freeman becomes obsessed with avoiding her counterpart’s mistake. The station’s chief engineer sends her and Ransom on a wild-goose chase through the starbase in order to help him with repairs, and they end up trying to capture a giant bat even after the situation with Clem is resolved."
+						},
+						{
+							"@language": "de",
+							"@value": "Aufgrund eines Navigationsproblems kann die Cerritos nicht auf Warp gehen. Der nächste Reparatur-Stützpunkt ist die berüchtigte Sternenbasis 80, auf der Mariner einst von ihrer Mutter „verbannt“ wurde und die sie in sehr negativer Erinnerung behalten hat. Wie befürchtet ist Sternenbasis 80 sehr veraltet, ohne Replikatoren, mit handbedienten Kommunikatoren, defekter Schwerkraft und weiteren Problemen, bei deren Beseitigung die Föderation meistens die Unterstützung verweigert. Freeman und Ransom machen sich auf die Suche nach dem Chefingenieur Ltn. Jakubowski, den sie erst nach langer Suche im Spielkasino finden. Als die Besucher von der Cerritos der Reihe nach zu einer Art „Zombies“ mutieren, was Mariner für den „Fluch“ der Sternenbasis 80 hält, entdeckt ihr Verbindungsoffizier Cassis Knox, eine El-Aurianerin, dass die Infektion in Wirklichkeit von der Cerritos ausgeht und über die Kommunikatoren übertragen wird. Es stellt sich heraus, dass einer der beiden Belugawale von einem anaphasischen Lebewesen namens Clem kontrolliert wird, welches mit der Steuerung der Infizierten überfordert war. Mit Hilfe des Corn-Dog-Servierers Schade gelingt es dem britischen Arzt von Sternenbasis 80, Dr. Horseberry, Clem außer Gefecht zu setzen und damit die Infektion zu stoppen. Als Dankeschön helfen die Besucher von der Cerritos, viele Probleme der Sternenbasis 80 zu lösen, darunter die defekte Schwerkraft und die Fledermaus-Plage."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3483,10 +3501,16 @@
 						"@id": "https://bittersmann.de/startrek/people#AaronBurdette",
 						"name": "Aaron Burdette"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The Cerritos hosts peace talks between two photonic species, the Cubes and the Orbs. Meanwhile, Mariner sees a kindred spirit in Ensign Olly, a descendant of the alien entity the ancient Greeks worshipped as Zeus, and takes her under her wing as they investigate the disappearance of the son and daughter of the leading delegates. Olly ends up hampering the investigation due to her anxiety about being dismissed from Starfleet because of her weak but uncontrolled divine lightning powers, inflaming tensions between the Cubes and the Orbs, who start a war with the Cerritos caught in the middle. Olly uses the tractor beam to incapacitate them, proving her value as a Starfleet officer. It is revealed that the delegates’ children are in love and have produced their own hybrid child, inspiring renewed peace talks. Meanwhile, Boimler, trying to emulate his more successful alternate-universe counterpart, attempts to befriend the cantankerous physician Dr. T’Ana."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The Cerritos hosts peace talks between two photonic species, the Cubes and the Orbs. Meanwhile, Mariner sees a kindred spirit in Ensign Olly, a descendant of the alien entity the ancient Greeks worshipped as Zeus, and takes her under her wing as they investigate the disappearance of the son and daughter of the leading delegates. Olly ends up hampering the investigation due to her anxiety about being dismissed from Starfleet because of her weak but uncontrolled divine lightning powers, inflaming tensions between the Cubes and the Orbs, who start a war with the Cerritos caught in the middle. Olly uses the tractor beam to incapacitate them, proving her value as a Starfleet officer. It is revealed that the delegates’ children are in love and have produced their own hybrid child, inspiring renewed peace talks. Meanwhile, Boimler, trying to emulate his more successful alternate-universe counterpart, attempts to befriend the cantankerous physician Dr. T’Ana."
+						},
+						{
+							"@language": "de",
+							"@value": "Sternzeit 59482,3: Die Cerritos hilft bei der Versöhnung von Cubes und Orbs, zwei photonischen Lebensformen aus dem Veraflex-Nebel. Dabei stört immer wieder die neue Ensign Olly, eine Vertreterin der Aliens, die als griechische Götter verehrt wurden und die deshalb einen Lorbeerkranz im Haar trägt. Mariner übernimmt die „Patenschaft“ über Olly, da sie in ihr eine „Seelenverwandte“ zu erkennen glaubt, die ebenfalls keine Autoritäten akzeptiert. Als Quadrolon, ein junger Cube, und Ondiara, eine junge Orbs, vermisst werden, und die beiden photonischen Lebensformen sich gegenseitig des Mordes verdächtigen, behindert Olly die Ermittlungen, um ihre von den Vorfahren geerbten energetischen Blitzschleuderfähigkeiten geheim zu halten. Die Konflikte zwischen Orbs und Cubes eskalieren, und sie schießen mit Energieblitzen aufeinander. Mariner fordert Olly auf, ihre energetischen Speicherfähigkeiten zu benutzen, um den Beschuss zu verhindern. Das gelingt nur vorübergehend. Als alle Orbs sich zu einem einzigen Riesenorb und alle Cubes sich zu einem einzigen Riesencube vereinigen und sich weiter bekämpfen, findet Olly eine ingenieurtechnische Lösung, um mittels einer Konfigurationsänderung des Traktorstrahls die beiden Spezies voneinander zu trennen und zu vereinzeln. Quadrolon und Ondiara tauchen wieder auf und erweisen sich als Liebespaar, das sogar schon ein gemeinsames Kind gezeugt hat. Die Friedensgespräche werden deshalb wieder aufgenommen. Parallel gelingt es Boimler nach mehreren vergeblichen Versuchen, von der mürrischen Ärztin Dr. T’Ana akzeptiert und in deren Buchklub eingeladen zu werden."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3556,10 +3580,16 @@
 						"@id": "https://bittersmann.de/startrek/people#AndrewMueth",
 						"name": "Andrew Mueth"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "Mariner, Tendi and T’Lyn go undercover to a pre-industrial planet, Dilmer III, which is subject to time dilation such that a week passes on the planet for every second on the Cerritos. Their mission is to prevent the locals from discovering Starfleet technology from yet another parallel universe, which turns out to be the head of the android Starfleet officer Data. However, Boimler and Rutherford’s latest attempt to emulate Boimler’s alternate-universe counterpart accidentally disables the transporter, forcing the three women to spend a year on the planet during the minute it takes to repair the transporter. Believing she is competing with T’Lyn for the position of senior science officer, Tendi desperately tries to outdo T’Lyn in scientific achievement; she reactivates Data’s head while T’Lyn develops innovations in local agriculture. They draw the attention of a suspicious Dilmerian named Snell, who tries to expose them as witches, but they are able to discredit him in front of his community. After they are returned to the Cerritos, before returning to his home universe, Data recommends to Captain Freeman that she promote both Tendi and T’Lyn."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "Mariner, Tendi and T’Lyn go undercover to a pre-industrial planet, Dilmer III, which is subject to time dilation such that a week passes on the planet for every second on the Cerritos. Their mission is to prevent the locals from discovering Starfleet technology from yet another parallel universe, which turns out to be the head of the android Starfleet officer Data. However, Boimler and Rutherford’s latest attempt to emulate Boimler’s alternate-universe counterpart accidentally disables the transporter, forcing the three women to spend a year on the planet during the minute it takes to repair the transporter. Believing she is competing with T’Lyn for the position of senior science officer, Tendi desperately tries to outdo T’Lyn in scientific achievement; she reactivates Data’s head while T’Lyn develops innovations in local agriculture. They draw the attention of a suspicious Dilmerian named Snell, who tries to expose them as witches, but they are able to discredit him in front of his community. After they are returned to the Cerritos, before returning to his home universe, Data recommends to Captain Freeman that she promote both Tendi and T’Lyn."
+						},
+						{
+							"@language": "de",
+							"@value": "Nachdem die Cerritos mehrere Zeitspalten geschlossen hat, durch die andere Realitäten in ihr Universum eindringen konnten, werden Mariner, Tendi und T’Lyn zu einer Undercover-Mission auf den Planeten Dilmer III geschickt, wo eine lilafarbene Enterprise aus einem Alternativuniversum den Kopf von Data zurückgelassen hat. Während einer Woche auf dem Planeten vergeht aufgrund der dortigen Zeitdilatation nur eine Sekunde auf der Cerritos. Boimler und Rutherford bekleckern versehentlich die Transporterkonsole mit Essen und es vergeht ein ganzes Jahr auf dem Planeten, bis die Konsole wieder benutzbar ist und sie ihre drei Freunde zurückholen können. Die haben zwar unterdessen Datas Kopf geborgen, aber während sie von dem Einheimischen Snell misstrauisch ausspioniert werden, nutzen sie die verbliebene Zeit auf unterschiedliche Art. Während Tendi Datas Kopf reaktivieren kann, betreibt T’Lyn erfolgreichen Gartenbau betrieben, stellt daraus medizinische Haarprodukte her und schafft damit eine wirtschaftliche Basis für ihr gemeinsames Dasein. Mariner wollte Picard nacheifern (siehe Episode „Das zweite Leben“), indem sie Freunde findet und Flötespielen lernt, handelt aber so unglücklich bzw. naiv, dass sie immer wieder im Gefängnis landet, wo sie sich schließlich mit den Mitgefangenen anfreundet. Captain Freeman, die sich anfangs entscheiden wollte, ob sie Tendi und T’Lyn zum leitenden Wissenschaftsoffizier ernennt, folgt dem Rat von Datas Kopf, beide gleichberechtigt mit dem Posten zu betrauen, bevor dieser in sein Universum zurückgesendet und auch diese Zeitspalte verschlossen wird."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3632,10 +3662,16 @@
 						"@id": "https://bittersmann.de/startrek/people#CullenCrawford",
 						"name": "Cullen Crawford"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "The senior officers of the Cerritos go about a typical day. Freeman has a full schedule attending performances and rituals to support crew members. Chief engineer Billups deals with a crisis of cascading equipment failures. Ransom manages a team of squabbling ensigns wrangling a herd of Buhgoons—space creatures with cloaking capabilities—for inspection by a visiting ecologist; Ransom feigns incompetence to help the ensigns work together by redirecting their hostility towards himself instead of each other. Security chief Shaxs meditates to deal with his trauma from the Cardassian occupation of his planet Bajor, imagining himself killing a mountain of Cardassians and his own younger self. T’Ana, having been criticized for not providing enough painkillers to her patients, subjects herself to painful treatments to prove her point. When the ecologist reveals himself as the leader of a team of alien Clickets aiming to use the Buhgoons’ cloaking ability to dominate the galaxy, the crew fights back; Freeman remembers that Clickets hate to be complimented and praises the attackers until they retreat. At the end of the day, Freeman’s husband arrives on the Cerritos to celebrate their anniversary, having been invited by the captain’s aide Stevens."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "The senior officers of the Cerritos go about a typical day. Freeman has a full schedule attending performances and rituals to support crew members. Chief engineer Billups deals with a crisis of cascading equipment failures. Ransom manages a team of squabbling ensigns wrangling a herd of Buhgoons—space creatures with cloaking capabilities—for inspection by a visiting ecologist; Ransom feigns incompetence to help the ensigns work together by redirecting their hostility towards himself instead of each other. Security chief Shaxs meditates to deal with his trauma from the Cardassian occupation of his planet Bajor, imagining himself killing a mountain of Cardassians and his own younger self. T’Ana, having been criticized for not providing enough painkillers to her patients, subjects herself to painful treatments to prove her point. When the ecologist reveals himself as the leader of a team of alien Clickets aiming to use the Buhgoons’ cloaking ability to dominate the galaxy, the crew fights back; Freeman remembers that Clickets hate to be complimented and praises the attackers until they retreat. At the end of the day, Freeman’s husband arrives on the Cerritos to celebrate their anniversary, having been invited by the captain’s aide Stevens."
+						},
+						{
+							"@language": "de",
+							"@value": "Die Lower-Deck-Offiziere tauschen sich darüber aus, dass sie meistens gar nichts davon erfahren, was die Brücken-Offiziere erleben. Freeman folgt dem umfangreichen Terminkalender, den ihr Adjutant Stevens zusammengestellt hat, um möglichst viele Besatzungsmitglieder kennenzulernen. Dr. T’Ana muss sich gegenüber den anderen Brückenoffizieren rechtfertigen, weil sie so rücksichtslos mit ihren Patienten umgeht. Daraufhin nimmt sie selbst beinahe unerträgliche Schmerzen in Kauf, um die Schmerzsensoren neu einzustellen. Selbst ein auf Töten eingestellter Phaser schadet ihr nicht. Shaxs hat aufgrund seiner unverarbeiteten Kriegserlebnisse Halluzinationen und versucht dies durch Meditation zu überwinden. Ransom gelingt es auf unorthodoxe Weise, die miteinander zerstrittenen Kadetten aus zwei verschiedenen Schichten zur Zusammenarbeit zu bewegen, die den Auftrag haben, friedliche Buhgoons-Kühe aus dem Weltall einzufangen. Der Wissenschaftler, für den die Buhgoons gedacht sind, erweist sich als Inkognito-Vertreter der feindlichen Clickets-Spezies, die sich die Tarnfähigkeiten der Buhgoons aneignen wollen. Der Versuch der Clickets, die Cerritos zu entern, scheitert schließlich, als sich Freeman daran erinnert, dass die Clickets auf Komplimente allergisch reagieren. Schließlich kommt überraschend Admiral Alonzo Freeman auf die Cerritos, um mit seiner Frau den gemeinsamen Hochzeitstag zu feiern."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3705,10 +3741,16 @@
 						"@id": "https://bittersmann.de/startrek/people#LaurenMcGuire",
 						"name": "Lauren McGuire"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "William Boimler, a clone of Brad created in a transporter accident, captains the starship Anaximander on a mission to find and stop the source of the recent interdimensional rifts which threaten the multiverse. His crew includes alternate-reality versions of characters from other Star Trek series, including multiple copies of Ensign Harry Kim, and picks up an alternate Mariner who is an engineer. Mariner devises a way to track the vessel creating the rifts. Its captain is an alternate Lily Sloane (the co-inventor of warp drive), who instead invented interdimensional travel; the rifts are an unintended side effect of her vessel. Sloane agrees to help return the interdimensional crew home. The only Harry Kim to have achieved the rank of Lieutenant hijacks Sloane’s ship and kidnaps the other Kims to take them to a reality where they are respected, although he beams the others out when they resist. The damaged ship explodes after entering the rift, creating an energy wave that threatens to destroy the multiverse. William directs the wave to his own universe, trusting that his counterpart and friends on the Cerritos will find a solution in time."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "William Boimler, a clone of Brad created in a transporter accident, captains the starship Anaximander on a mission to find and stop the source of the recent interdimensional rifts which threaten the multiverse. His crew includes alternate-reality versions of characters from other Star Trek series, including multiple copies of Ensign Harry Kim, and picks up an alternate Mariner who is an engineer. Mariner devises a way to track the vessel creating the rifts. Its captain is an alternate Lily Sloane (the co-inventor of warp drive), who instead invented interdimensional travel; the rifts are an unintended side effect of her vessel. Sloane agrees to help return the interdimensional crew home. The only Harry Kim to have achieved the rank of Lieutenant hijacks Sloane’s ship and kidnaps the other Kims to take them to a reality where they are respected, although he beams the others out when they resist. The damaged ship explodes after entering the rift, creating an energy wave that threatens to destroy the multiverse. William directs the wave to his own universe, trusting that his counterpart and friends on the Cerritos will find a solution in time."
+						},
+						{
+							"@language": "de",
+							"@value": "William Boimler, der in Episode 12 als Transporterklon aus Brad entstand, ist nicht tot, wie in Episode 28 mitgeteilt wurde. In Wirklichkeit hat er das Kommando über die „Anaximander“ erhalten, die einen Geheimauftrag ausführen soll, da ein unbekannter Verursacher interdimensionale Risse im Multiversum verursacht. Zur Besatzung gehören Personen aus alternativen Realitäten anderer „Star-Trek“-Serien, darunter Curzon Dax, T’Pol, Garrak, Julian Bashir als Holo-Doktor und mehrere Versionen von Harry Kim. Als auch noch eine alternative Mariner in die Besatzung aufgenommen wird, gelingt es, die von dem Unbekannten erzeugten Risse im Multiversum gezielt dort entstehen zu lassen, wo man sich gerade befindet. Bei der Verfolgung der Verursacher stürzen beide Schiffe auf einen von vernunftbegabten Monstern bewohnten Planeten. Es stellt sich heraus, dass das verfolgte Schiff von Lily Sloane befehligt wurde, die im realen Universum gemeinsam mit Zefram Cochrane den Warpantrieb entwickelt hatte. In ihrem alternativen Universum erfand sie den Interdimensionalantrieb, der von ihr unbemerkt die Risse erzeugte. Im Gegenzug für die Hilfe bei der Reparatur ihres Schiffes verspricht Lilly, der „Anaximander“ zur Rückkehr in ihre eigene Realität zu verhelfen. Der einzige Harry Kim, der den Rang eines Lieutenant hat, entführt jedoch Lillys Schiff, um alle Kims in seine Realität zu bringen. Lillys Schiff, aus dem zuvor alle anderen Kims herausgebeamt wurden, explodiert beim Eintritt in den Riss und löst eine tödliche Energiewelle aus. Williams Besatzung hat nur die Möglichkeit, die Welle in ein einzelnes Universum zu lenken, um alle anderen zu beschützen. William sendet die Welle in sein eigenes Universum, weil er seinen Freunden auf der „Cerritos“ vertraut, die Gefahr beseitigen zu können."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",
@@ -3778,10 +3820,16 @@
 						"@id": "https://bittersmann.de/startrek/people#MikeMcMahan",
 						"name": "Mike McMahan"
 					},
-					"description": {
-						"@language": "en",
-						"@value": "After receiving William Boimler’s message, the Cerritos is dispatched to close the rift, which is extending a “Schrödinger possibility field” that is having strange effects on everything in the vicinity. Meanwhile, Ma’ah and his brother Malor, on the run from Bargh’s vengeful sister Relga, seek asylum on the Cerritos, which comes under attack by Relga’s fleet. Ensign Olly uses her powers to drain Relga’s shields, causing her ship to be destroyed by the rift. Although the Cerritos suffers from the effects of the Schrödinger field, it is able to reach the rift thanks to Tendi and T’lyn’s coordination. Unable to close it, Mariner creates a dam that contains the destructive energy but leaves the rift permanently open. Starfleet begins a mission to explore the multiverse, overseen by Freeman and her husband from aboard Starbase 80 – which is immune to the rift’s effects due to its outdated systems – and joined by the Anaximander crew. Ma’ah is given command of Relga’s fleet while Jack Ransom is promoted to captain of the Cerritos. Before setting out on new adventures, Ransom promotes both Boimler and Mariner to provisional first officer and Rutherford decides to permanently remove his cybernetic implant."
-					},
+					"description": [
+						{
+							"@language": "en",
+							"@value": "After receiving William Boimler’s message, the Cerritos is dispatched to close the rift, which is extending a “Schrödinger possibility field” that is having strange effects on everything in the vicinity. Meanwhile, Ma’ah and his brother Malor, on the run from Bargh’s vengeful sister Relga, seek asylum on the Cerritos, which comes under attack by Relga’s fleet. Ensign Olly uses her powers to drain Relga’s shields, causing her ship to be destroyed by the rift. Although the Cerritos suffers from the effects of the Schrödinger field, it is able to reach the rift thanks to Tendi and T’lyn’s coordination. Unable to close it, Mariner creates a dam that contains the destructive energy but leaves the rift permanently open. Starfleet begins a mission to explore the multiverse, overseen by Freeman and her husband from aboard Starbase 80 – which is immune to the rift’s effects due to its outdated systems – and joined by the Anaximander crew. Ma’ah is given command of Relga’s fleet while Jack Ransom is promoted to captain of the Cerritos. Before setting out on new adventures, Ransom promotes both Boimler and Mariner to provisional first officer and Rutherford decides to permanently remove his cybernetic implant."
+						},
+						{
+							"@language": "de",
+							"@value": "Ein klingonischer „Bird of Prey“ unter dem Befehl der ehrgeizigen Relga stößt auf die tödliche Energiewelle aus dem anderen Universum und versucht, die Schuld für die eigenen Verluste der Föderation anzuhängen. Als Brad Boimler eine Nachricht seines Klon-Zwillings erhält, die ihn auf die Energiewelle hinweist, gelingt es ihm gemeinsam mit seinen Freunden, die Brückenoffiziere von der Notwendigkeit des sofortigen Eingreifens zu überzeugen. Da kein anderes Schiff verfügbar ist, muss das sie Cerritos selbst tun, wofür eine Menge von technischen Anpassungen erforderlich sind. Vor der Fertigstellung trifft das Schiff bereits auf die Klingonen und flieht in die multiverse Energiewelle, wodurch sie mehrmals die Bauart wechselt. Da die Klingonen ihre Anpassungen bereits vorgenommen haben, sind sie zunächst nicht von den Quantensprüngen betroffen. Nachdem Commander Freeman von ihrer Besatzung kreative Ideen verlangt, gelingt es, die Konfigurationsänderungen der Klingonen erfolgreich zu sabotieren, so dass sich diese in wütende Prä-Klingonen verwandeln und ihr Schiff explodiert. Da die Quantenspalte nicht auf herkömmliche Art geschlossen werden kann, gelingt es schließlich, sie zu begrenzen und zu kontrollieren, so dass ab sofort ein geördneter Transfer zwischen den verschiedenen Realitäten möglich wird. Da nur die veraltete Sternenbasis 80 den Energiewellen standhalten kann, wird diese an das neue Tor verlegt. Mariners Eltern Admiral Alonzo Freeman und Commander Carol Freeman werden mit der Leitung beauftragt, so dass Ransom neuer Captain der Cerritos wird. Er macht Mariner und Boimler provisorisch zu gleichberechtigten Ersten Offizieren, um später den besseren von ihnen endgültig zum Ersten Offizier zu ernennen. Rutherford entschließt sich, ab sofort auf sein kybernetisches Transplantat zu verzichten."
+						}
+					],
 					"review": [
 						{
 							"@type": "Review",

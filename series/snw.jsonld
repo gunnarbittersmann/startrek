@@ -3568,7 +3568,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "Returning on a shuttle from a leadership conference, James Kirk, Spock, and La’An come across the derelict ship USS Griffin, which had disappeared nine years earlier. They detect no life signs and beam aboard to investigate. They begin seeing anomalous activity, including a suspicious woman walking the halls. Spock becomes trapped in the medical bay after the computer informs him that most of the crew was killed after being beamed into empty space, and sees visions of T’Pring. Kirk tries to communicate with the USS Enterprise crew, but is distracted when he hears his infant son crying. La’An sees the video logs of the ship’s chief of security, Rose Harper, who she realizes killed all of the crew, and is the woman walking through the halls. The crew of the Enterprise apparently beams aboard to rescue them, but begins acting strangely. La’An becomes possessed and stabs Kirk in the stomach. The real Enterprise arrives and rescues them, never having boarded the Griffin. They refer the Griffin to Division 12, which tows the ship away. Kirk attempts to contact his family, and La’An watches the Griffin, seeing Harper behind a window."
+						"@value": "Returning on a shuttle from a leadership conference, James Kirk, Spock, and La’An come across the derelict ship USS Griffin, which had disappeared nine years earlier. They detect no life signs and beam aboard to investigate. They begin seeing anomalous activity, including a suspicious woman walking the halls. Spock becomes trapped in the medical bay after the computer informs him that most of the crew was killed after being beamed into empty space, and sees visions of T’Pring. Kirk tries to communicate with the USS Enterprise crew, but is distracted when he hears his infant son crying. La’An sees the video logs of the ship’s chief of security, Rose Harper, who she realizes killed all of the crew, and is the woman walking through the halls. The crew of the Enterprise apparently beams aboard to rescue them, but begins acting strangely. La’An becomes possessed and stabs Kirk in the stomach. The real Enterprise arrives and rescues them, never having boarded the Griffin. They refer the Griffin to Division 12, which tows the ship away. Kirk attempts to contact his family, and La’An watches the towing of the Griffin from the Enterprise, seeing Harper behind a window."
 					},
 					"review": [
 						{
@@ -3714,6 +3714,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pzkLvsek6_M"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/5EODFiA0QEk"
+							}
 						}
 					]
 				},
@@ -3722,7 +3737,62 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
 					"name": "A Case of Chiaoscuro",
-					"datePublished": "2026-08-13"
+					"datePublished": "2026-08-13",
+					"duration": "PT51M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeeraMenon",
+						"name": "Meera Menon"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SkylarOjeda",
+							"name": "Skylar Ojeda"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ein Fall von Chiaoscuro",
+						"datePublished": "2026-08-13"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xSi7ifJG28k"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VevJNPMlX1c"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
