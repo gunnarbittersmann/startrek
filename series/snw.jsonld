@@ -3737,7 +3737,14 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
 					"episodeNumber": "4.4",
 					"name": "A Case of Chiaoscuro",
-					"datePublished": "2026-08-13"
+					"datePublished": "2026-08-13",
+					"duration": "PT51M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ein Fall von Chiaoscuro",
+						"datePublished": "2026-08-13"
+					}
 				},
 				{
 					"@type": "TVEpisode",
