@@ -1945,7 +1945,22 @@
 							"@language": "de",
 							"@value": "Der Große Nagus Zek, der oberste Ferengi, macht Quark zum Teilhaber an Geschäften der Ferengi mit den Dosi, einer Rasse im Gamma-Quadranten, die zum Dominion gehört."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Progenitor Episodes",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-14",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YdRjQ4_rcy8"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -8251,6 +8266,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/v1UHTy_7iEo"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/nFuVCjuLcLU"
 							}
 						}
 					]
