@@ -4018,25 +4018,46 @@
 							"@value": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Time Travel Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Time Travel Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+							],
+							"datePublished": "2023-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
-							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
-						],
-						"datePublished": "2023-07-06",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+							],
+							"datePublished": "2024-09-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Esq_IBfu4wg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
