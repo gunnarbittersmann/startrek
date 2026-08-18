@@ -452,6 +452,20 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman’s Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/xzCa497munE"
+						}
 					}
 				},
 				{
