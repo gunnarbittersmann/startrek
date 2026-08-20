@@ -3837,7 +3837,14 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
 					"episodeNumber": "4.5",
 					"name": "Level Five Transporter Accident",
-					"datePublished": "2026-08-20"
+					"datePublished": "2026-08-20",
+					"duration": "PT55M",
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Stufe-5 Transporterunfall",
+						"datePublished": "2026-08-20"
+					}
 				},
 				{
 					"@type": "TVEpisode",
