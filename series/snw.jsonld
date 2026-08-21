@@ -3670,6 +3670,10 @@
 						"name": "Menschlicher bester Freund",
 						"datePublished": "2026-08-06"
 					},
+					"description": {
+						"@language": "en",
+						"@value": "Tensions are high on the overworked Enterprise, particularly between Scott and Ortegas. Pike decides to send the primary shift to a resort where the atmosphere causes an allegedly safe and temporary release of inhibitions. Just as they arrive, Ortegas and Scott find themselves together with a gap in their memory, with instructions to deliver a message to Pike. Working together, they need to first recover their stolen shuttlecraft and then deal with a bomb planted there before it destroys the Enterprise and sabotages important negotiations. Their colleagues are of little help: Pike gets a tattoo, Number One sings Klingon power ballads, M’Benga takes up bartending, and La’An and Chapel disrupt an exercise class and a bingo game respectively. Spock seems less affected, but is unburdening himself with what he believes to be a hallucination of Kirk. They get the shuttlecraft and bomb off the ship, and Spock (with the help of Kirk, who turns out to be have been real all along) beams them out just before the explosion."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -3762,6 +3766,10 @@
 						"name": "Ein Fall von Chiaoscuro",
 						"datePublished": "2026-08-13"
 					},
+					"description": {
+						"@language": "en",
+						"@value": "Number One, M’Benga, and Uhura enter the Klingon-occupied Mat’aar system on a shuttlecraft to recover a missing Starfleet probe. They succeed, but are detected and need to hide on the main planet, where color perception is blocked and the residents dress like those in 1940s Earth. Due to a fortuitous resemblance, Number One assumes the role of Nevette, a Mat’aaran who is both a prominent collaborator and the leader of a sophisticated Mat’aaran resistance organization. Uhura is arrested and interrogated by Kor, the local commander, and is later released but learns the current Klingon plan. Over M’Benga’s advice, Number One carries out Nevette’s previous plan to disrupt that plan and allow some Mat’aarans to escape the planet. On the Enterprise, La’An suspects that the recovered probe has been sabotaged. It hasn’t, but her investigation finds two other covert transmissions, one of which involves Chapel covering up an illegal mercy mission by a Starfleet hospital ship. La’An agrees not to reveal this."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -3806,6 +3814,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/VevJNPMlX1c"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_Gw81J_3Eos"
+							}
 						}
 					]
 				},
@@ -3814,7 +3837,77 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
 					"episodeNumber": "4.5",
 					"name": "Level Five Transporter Accident",
-					"datePublished": "2026-08-20"
+					"datePublished": "2026-08-20",
+					"duration": "PT55M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Stufe-5 Transporterunfall",
+						"datePublished": "2026-08-20"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_Rj4y0TgWAk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1WgEMxy8Uqk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BgBV0yY-zQI"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -3822,6 +3915,11 @@
 					"episodeNumber": "4.6",
 					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+						"name": "Bill Wolkoff"
+					},
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
@@ -3850,28 +3948,62 @@
 					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
-					"datePublished": "2026-09-03"
+					"datePublished": "2026-09-03",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
-					"datePublished": "2026-09-10"
+					"datePublished": "2026-09-10",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
-					"datePublished": "2026-09-17"
+					"datePublished": "2026-09-17",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+						"name": "Onitra Johnson"
+					}
 				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
-					"datePublished": "2026-09-24"
+					"datePublished": "2026-09-24",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+							"name": "Robbie Thompson"
+						}
+					]
 				}
 			]
 		}
