@@ -11473,21 +11473,37 @@
 						"@language": "de",
 						"@value": "Unter den Trauergästen bei der Beerdigung ihrer Großmutter Felisa Howard auf dem Planeten Caldos IV sieht Dr. Crusher auch einen Mann, den sie als Ronin identifiziert, einen Liebhaber Felisas. Trotz der Warnung von Felisas ehemaligem Haushälter Ned Quint zündet Crusher die Kerze in dem Kerzenständer an, der Felisa gehörte. Dadurch erscheint ihr Ronin als Geist, der sie darüber informiert, dass Ronin 1647 in Glasgow geboren wurde und sich zunächst in Jessyl Howard, später in deren Tochter, danach in deren Tochter usw. verliebt hatte. Ronin erreicht durch seinen Kontakt mit Crusher, dass sie die Sternenflotte verlässt und sich, Felisas Platz einnehmend, zu ihm als neue Liebhaberin auf den Planeten begibt. Zudem hilft die Enterprise der Kolonie bei der Behebung von Problemen mit deren Wetterkontrollsystem, die sich in zunehmenden Stürmen bemerkbar machen. Als Quint das Wetterkontrollsystem auf Caldos abschalten will, wird er durch Entladungen anaphasischer Energie getötet. Da Data solche Energie auch als von Felisas Grab ausgehend entdeckt, lässt Picard Felisa trotz Ronins Widerstand exhumieren. Nachdem Ronin deshalb Picard, Data und La Forge außer Gefecht gesetzt und Felisa wiederbelebt hat, enthüllt er ggü. Crusher, dass Ronin ein Wesen aus anaphasischer Energie ist und unter Verwendung der Kerze und des Wetterkontrollsystems die Crusher-Familie dazu benutzt hat, körperlich am Leben zu bleiben. Entsetzt darüber, zerstört Crusher die Kerze und Ronins Körper per Phaserbeschuss."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2021-02-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
+							}
 						},
-						"datePublished": "2021-02-19",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WwG72q5-350"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
