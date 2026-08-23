@@ -92,7 +92,7 @@
 					<a>Audio drama</a>
 					<ul>
 						<li>
-							<a href="audiodrama/khan">Khan</a>
+							<a href="audiodramas/khan">Khan</a>
 						</li>
 					</ul>
 				</li>
