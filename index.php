@@ -38,6 +38,7 @@
 
 			main > ul > li > a {
 				min-width: 6em;
+				margin-block-end: 2em;
 			}
  
 			main > ul > li > :is(ul, ol) {
