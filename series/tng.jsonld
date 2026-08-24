@@ -2702,6 +2702,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise nimmt die junge Salia, die künftige Thronfolgerin des Planeten Daled IV, und ihre Gouvernante, die alte Anya, als Passagiere an Bord. Wesley Crusher verliebt sich auf den ersten Blick in Salia und lässt sich von Riker und Guinan dabei helfen, sich auf ein Rendezvous mit Salia einzustellen. Alsbald stellt sich heraus, dass ihre Liebe keine Zukunft hat, da sie, ebenso wie Anya, eine Gestaltwandlerin ist, und als Thronfolgerin den Planeten nicht verlassen können wird."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/0YBLQxPpGIg"
+						}
 					}
 				},
 				{
