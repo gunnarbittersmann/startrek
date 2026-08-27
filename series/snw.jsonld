@@ -3934,10 +3934,17 @@
 					"episodeNumber": "4.6",
 					"name": "Off-Hour",
 					"datePublished": "2026-08-27",
+					"duration": "PT57M",
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 						"name": "Bill Wolkoff"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Schichtende",
+						"datePublished": "2026-08-27"
 					},
 					"review": {
 						"@type": "Review",
