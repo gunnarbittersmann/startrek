@@ -123,6 +123,36 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_1"
 				}
 			],
+			"review": {
+				"@type": "Review",
+				"inLanguage": "en",
+				"name": "Trek, Actually",
+				"creator": {
+					"@type": "Person",
+					"@id": "https://bittersmann.de/startrek/people#SteveShives",
+					"name": "Steve Shives"
+				},
+				"datePublished": "2026-03-25",
+				"itemReviewed": [
+					{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+					{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+				],
+				"video": {
+					"@type": "VideoObject",
+					"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+				}
+			},
 			"episode": [
 				{
 					"@type": "TVEpisode",
