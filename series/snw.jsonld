@@ -3996,6 +3996,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ovDRBw1aOPk"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -4128,6 +4134,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/KwkiacKIwfw"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -4246,6 +4258,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/zRi_vIXe3hc"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						}
 					]
@@ -4452,6 +4470,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/9WUcmdtbv2w"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						}
 					]
@@ -4558,6 +4582,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/5q2VmcGgnqA"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						}
 					]
