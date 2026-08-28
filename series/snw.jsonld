@@ -3528,7 +3528,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/X1E77FB44nE"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3646,7 +3681,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/cUQBJz1c1H0"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3750,7 +3820,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/gaG-2d5UZAw"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3.5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3846,7 +3951,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/xSi7ifJG28k"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3942,7 +4082,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/_Rj4y0TgWAk"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -4027,7 +4202,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/TMYyns0swLY"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8.9,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
