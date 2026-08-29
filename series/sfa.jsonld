@@ -199,6 +199,20 @@
 					"inLanguage": "en",
 					"creator": {
 						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+						"name": "Mr. Know-It-All"
+					},
+					"datePublished": "2026-03-23",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dKeiBEl9DIU"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
 						"name": "OrangeRiver"
 					},
