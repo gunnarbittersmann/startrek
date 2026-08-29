@@ -2135,6 +2135,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-02-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zm_-Kd227EM"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -2246,6 +2260,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ArbFg_e75_4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-02-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/rOooPcnRzHE"
 							}
 						},
 						{
@@ -2365,6 +2393,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-03-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WinegpE4Ljk"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -2476,6 +2518,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ur6-N5lxX-A"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-03-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/JezRwYyUjbo"
 							}
 						},
 						{
@@ -2595,6 +2651,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-03-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Z8lSdbeKkZo"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -2699,6 +2769,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/vOKzLsjBmrw"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-03-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TzcFRV5LvVg"
 							}
 						},
 						{
@@ -2808,6 +2892,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/wLJOd3lV2x0"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-03-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/c8Z-Nby6roQ"
+							}
 						}
 					]
 				},
@@ -2900,6 +2998,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/gDUXZQvqKxc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-04-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/b6nOXD_wAU8"
 							}
 						},
 						{
@@ -3029,6 +3141,20 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-04-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/yNNcW19cpWY"
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -3133,6 +3259,20 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fLjIHcSFLnA"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2023-04-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HV4eJyuz22M"
 							}
 						},
 						{
