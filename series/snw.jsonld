@@ -2704,6 +2704,25 @@
 				},
 				{
 					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+						"name": "Mr. Know-It-All"
+					},
+					"datePublished": "2026-01-26",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#2" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#3" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/fu-YVr-2K3c"
+					}
+				},
+				{
+					"@type": "Review",
 					"inLanguage": "de",
 					"creator": {
 						"@type": "Person",
