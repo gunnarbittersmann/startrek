@@ -2831,6 +2831,9 @@
 						},
 						{
 							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#24ilCaEhfA4"
+							},
 							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
@@ -2957,6 +2960,9 @@
 						},
 						{
 							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#24ilCaEhfA4"
+							},
 							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
@@ -2973,6 +2979,7 @@
 						},
 						{
 							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#24ilCaEhfA4",
 							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
