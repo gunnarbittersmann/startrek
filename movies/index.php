@@ -18,6 +18,9 @@
 		if ($name == 'Trek Welten') {
 			return 'W';
 		}
+		if (str_starts_with($name, 'Mr. ')) {
+			return $name[4];
+		}
 		if (str_starts_with($name, 'The ')) {
 			return $name[4];
 		}
