@@ -578,19 +578,37 @@ EOT;
 																				aria-describedby="<?= htmlSpecialChars($episode['@identifier']) ?>"
 																			>
 																			</iframe>
-																			<?php if ($review['name'] || $review['datePublished']): ?>
+																			<?php if ($review['name'] || $review['datePublished'] || ($review['reviewRating'] && $review['reviewRating']['ratingValue'])): ?>
 																				<p>
-																					<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
-																					<time
-																						property="datePublished"
-																						<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
-																							class="new"
-																						<?php endif; ?>
-																					>
-																						<?= htmlSpecialChars($review['datePublished']) ?>
-																					</time>
+																					<?php if ($review['name']): ?>
+																						<span property="name"><?= htmlSpecialChars($review['name']) ?></span>
+																					<?php endif; ?>
+																					<?php if ($review['datePublished']): ?>
+																						<time
+																							property="datePublished"
+																							<?php if ($review['datePublished'] > date_format(date_create('- 2 days'), 'Y-m-d')): ?>
+																								class="new"
+																							<?php endif; ?>
+																						>
+																							<?= htmlSpecialChars($review['datePublished']) ?>
+																						</time>
+																					<?php endif; ?>
+																					<?php if ($review['reviewRating'] && $review['reviewRating']['ratingValue']): ?>
+																						<span property="reviewRating" typeof="<?= htmlSpecialChars($review['reviewRating']['@type']) ?>">
+																							rating:
+																							<?php if ($review['reviewRating']['bestRating']): ?>
+																								<span property="ratingValue"><?=
+																									htmlSpecialChars($review['reviewRating']['ratingValue'])
+																								?></span>/<span property="bestRating"><?=
+																									htmlSpecialChars($review['reviewRating']['bestRating'])
+																								?></span>
+																							<?php else: ?>
+																								<span property="ratingValue"><?= htmlSpecialChars($review['reviewRating']['ratingValue']) ?></span>
+																							<?php endif; ?>
+																						</span>
+																					<?php endif; // ($review['reviewRating'] && $review['reviewRating']['ratingValue']) ?>
 																				</p>
-																			<?php endif; ?>
+																			<?php endif; // ($review['name'] || $review['datePublished'] || ($review['reviewRating'] && $review['reviewRating']['ratingValue'])) ?>
 																		</div>
 																	</details>
 																</li>
