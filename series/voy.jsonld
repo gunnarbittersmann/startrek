@@ -88,6 +88,21 @@
 				"@type": "VideoObject",
 				"embedUrl": "https://www.youtube-nocookie.com/embed/2wN6xmPFjpA"
 			}
+		},
+		{
+			"@type": "Review",
+			"inLanguage": "de",
+			"name": "Ersteindruck",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+				"name": "Nerdzika"
+			},
+			"datePublished": "2026-04-16",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/y2eQ_MgLIvM"
+			}
 		}
 	],
 	"numberOfSeasons": 7,
@@ -120,21 +135,83 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Raumschiff_Voyager/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Tier List",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#TrekWelten",
-					"name": "Trek Welten"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
 				},
-				"datePublished": "2024-01-15",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Tier List",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+						"name": "Trek Welten"
+					},
+					"datePublished": "2024-01-15",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -381,6 +458,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager entdeckt einen Planeten, der vor kurzem Schauplatz einer entsetzlichen Katastrophe wurde. Während Untersuchungen gelangen Janeway und Paris durch Subraumspalten zurück in die Zeit vor der Katastrophe und erkennen hier, dass es möglich ist, die Ereignisse zu verhindern. Die Crew der Voyager unternimmt unterdessen eine Rettungsaktion und versucht sich in den Subraum zu schneiden. Janeway begreift, dass diese Aktion die Katastrophe in der Vergangenheit überhaupt erst verursachte, und verhindert diese, was die Zeitlinie wieder herstellt und damit die Katastrophe ungeschehen macht."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bzj_Q81FmPE"
+						}
 					}
 				},
 				{
@@ -895,6 +987,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Janeway und Torres beamen Proben eines Protosterns an Bord. Kim soll bei der Analyse helfen, aber er ist in einem Beowulf-Holoroman verschwunden. Das Programm kann nicht beendet werden, und die Sicherheitsprotokolle funktionieren nicht. Chakotay und Tuvok suchen nach Kim. Man erzählt ihnen, dass „Beowulf“ (Kim) im Kampf vom Monster Grendel getötet worden sei, das jede Nacht einen Krieger hole. Janeway und Torres schließen aus Chakotays und Tuvoks Tricorder-Daten, dass photonische Energie des Protosterns ins Holodeck gelangt sein könnte. Möglicherweise wurde Kim dadurch in Energie umgewandelt. Auch Chakotay und Tuvok verschwinden bei der Konfrontation mit „Grendel“, und der Doktor wird auf die Suche geschickt, da er als Hologramm weniger gefährdet erscheint. Als er auf das „Monster“ trifft, analysiert er es als photonische Energieformation. Er entkommt knapp. Torres schließt aus den Tricorder-Daten des Doktors, dass die photonische Energie intelligent sein könnte, und untersucht mit Paris noch einmal die Proben des Protosterns. Daraufhin „flieht“ eine Probe und zeigt dabei intelligentes Verhalten. Sie verschwindet in einem photonischen Gitter, in dem die Voyager drei bioelektrische Muster registriert. Janeway nimmt an, dass dies die vermissten Besatzungsmitglieder sind, die von photonischen Lebewesen im Protostern als Geiseln genommen wurden, als Reaktion auf die „Entführung“ der Proben des Protosterns durch die Voyager. Der Doktor geht wieder aufs Holodeck und übergibt die letzte Probe „Grendel“. Daraufhin lässt dieser Kim, Chakotay und Tuvok frei."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-30",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/IdfAdSKnAtE"
+						}
 					}
 				},
 				{
@@ -2857,6 +2964,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager bringt einige Enaraner zu deren Heimatplaneten. Torres hat sehr intensive Träume, in denen sie in der Rolle einer jungen Enaranerin namens Korenna eine heimliche Liebesbeziehung mit einem jungen Mann hat. Dieser gehört einer Gruppe von oppositionellen Enaranern an, die ohne Technologie leben wollen. Schließlich wird diese Gruppe angeblich umgesiedelt und vernichtet sich selbst durch Kämpfe und Krankheiten, anscheinend werden sie aber in Wirklichkeit ermordet. Korennas Liebhaber wird vor ihren Augen getötet. Es stellt sich heraus, dass die Träume Erinnerungen sind; sie wurden Torres telepathisch von Jora (Korenna) Mirell, einer älteren Enaranerin, übermittelt, damit sie nicht verlorengehen. Nachdem Mirell ihre letzten Erinnerungen an Torres weitergegeben hat, wird sie von dieser tot aufgefunden. Beim Abschiedsfest für die Enaraner konfrontiert Torres Jor Brel, deren Anführer, mit diesen Erinnerungen und beschuldigt ihn, Mirell getötet zu haben. Er streitet alles ab, und niemand glaubt Torres. Kurz bevor die Voyager Enara Prime erreicht und die Enaraner von Bord gehen, überzeugt Torres Jessen, eine enaranische Ingenieurin, mit der sie zusammengearbeitet hat, die Erinnerungen telepathisch zu übernehmen und selbst nachzuprüfen, ob der Massenmord stattgefunden hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-08-21",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/6lSEcwvLPKM"
+						}
 					}
 				},
 				{
@@ -3683,6 +3805,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Zwei Wissenschaftler der Voth, einer saurierartigen Spezies aus dem Delta-Quadranten, erforschen, woher ihre Spezies stammt. Sie haben die Theorie, dass ihr Ursprung auf einem anderen Planeten liegt. Aufgrund von Knochenfunden und Berichten über die Voyager-Crew entwerfen sie ein hypothetisches Bild eines Menschen, das sie mit Hilfe neuerer Daten immer weiter verfeinern. Sie nehmen an, dass der Heimatplanet der Menschen auch der der Voth ist. Schließlich treffen sie getarnt auf der Voyager ein und beobachten die Besatzung. Kim und Tuvok enttarnen die Wissenschaftler und nehmen einen gefangen. Chakotay wird vom anderen gefangen genommen, der mit ihm zu seinem Schiff flieht. Er erläutert Chakotay seine Theorie und bekommt von ihm Informationen über die Erde und die Menschen. Sie schließen, dass die Voth sich auf der Erde entwickelt und den Planeten in Raumschiffen verlassen haben. Die Wissenschaftler sind jetzt überzeugt, dass ihre Theorie einer Herkunft aus der Ferne richtig ist, und stellen ihrer Regentin Chakotay als lebenden Beweis vor. Diese sieht aber den Herrschaftsanspruch der Voth bedroht, falls sich herausstellt, dass der Ursprung der Spezies nicht im Delta-Quadranten liegt, und zwingt daher die Wissenschaftler, ihre Theorie öffentlich zu widerrufen. Dabei benutzt sie die Besatzungsmitglieder der Voyager, die in ihrer Gewalt sind, als Druckmittel: Diese müssten sonst den Rest ihres Lebens in einer Strafkolonie verbringen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Ups & Downs",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+							"name": "TrekCulture"
+						},
+						"datePublished": "2026-08-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/mEuTIGJE5ik"
+						}
 					}
 				},
 				{
@@ -4042,6 +4179,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Bei einer Erkundungsmission auf einem fremden Planeten wird Chakotays Shuttle abgeschossen, und er wird von Vori-Soldaten gefangen genommen. Diese befinden sich in einem lange andauernden Krieg mit den Kradin, die sie ihre Nemesis nennen. Der Kommandant lässt Chakotay frei. Da es gefährlich wäre, allein zum Shuttle zurückzugehen, wird Chakotay von einem Soldaten begleitet. Sie finden das Shuttle zerstört vor, und der Soldat wird von Kradin getötet. Chakotay muss seine Uniform und seine Waffe übernehmen. Die Vori-Soldaten betonen die Grausamkeit der Kradin und die Notwendigkeit, den Planeten gegen diese zu verteidigen. Bei einem Gefecht mit den Kradin wird Chakotay von der Einheit getrennt. Er erreicht ein Vori-Dorf, in dem er die Nacht verbringt. Das Dorf wird von Kradin überfallen, die gegen Chakotays Widerstand die Alten umbringen und die anderen Dorfbewohner verschleppen. Chakotay wird vom einzigen überlebenden Mitglied „seiner“ Einheit gerettet. Als Tuvok mit einigen Kradin-Soldaten erscheint, erkennt Chakotay ihn zuerst nicht; Tuvok sieht für ihn wie ein Kradin aus. Tuvok erklärt ihm, dass alles, was Chakotay auf dem Planeten erlebt zu haben meint, eine Illusion war. Die Vori rekrutieren regelmäßig Fremde auf diese Weise. Die Kradin bezeichnen die Vori als ihre Nemesis und werfen ihnen dieselben Grausamkeiten vor wie die Vori ihnen. Chakotay weiß, dass es lange dauern wird, den ihm eingeimpften Hass auf die Kradin zu überwinden."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-08-13",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/vvB7kErdsPc"
+						}
 					}
 				},
 				{
@@ -4794,6 +4946,25 @@
 					"description": {
 						"@language": "de",
 						"@value": "Hirogen haben die Voyager gekapert. Sie zwingen die halbe Besatzung, an verschiedenen Kampfsimulationen auf dem Holodeck teilzunehmen, darunter die einer von den Deutschen besetzten französischen Stadt während des Zweiten Weltkriegs. Den Besatzungsmitgliedern wurden neurale Interfaces implantiert, durch die sie die Szenarien für real halten. Die Sicherheitsprotokolle sind abgeschaltet. Kim kümmert sich um die Ausweitung des Holodecks auf größere Teile der Voyager, während der Doktor mit einem Hirogen-Arzt die bei den Simulationen Verletzten behandelt. In der Weltkriegssimulation sind Janeway, Tuvok, Torres, Seven und Neelix Résistance-Mitglieder. Chakotay und Paris sind US-Soldaten. Als Seven, die in der Simulation angeschossen wurde, vom Doktor behandelt wird, setzt der ihr neurales Interface außer Funktion. Zurück in der Simulation hilft sie ihm und Kim, die Brücken-Kontrollrelais zu aktivieren und auch Janeways Interface abzuschalten. Durch amerikanischen Artilleriebeschuss des deutschen Hauptquartiers wird die Grenze zwischen dem Holodeck und dem Rest der Voyager durchbrochen. Holografische Soldaten strömen in die Gänge der Voyager. Janeway und Chakotay dringen zur Krankenstation vor und deaktivieren die restlichen Interfaces. Der Hirogen-Anführer erklärt Janeway, dass er die echte Jagd komplett durch Simulationen ersetzen will, weil er befürchtet, dass die Hirogen untergehen werden, wenn sie wie bisher alles der Jagd unterordnen. Er verhandelt mit ihr über die Weitergabe der Holodeck-Technologie und den Abzug der Hirogen, wird aber von einem anderen Hirogen getötet, der seine Pläne nicht gutheißt. Den tötet Janeway, während Kim die Holoemitter überlädt. Schließlich schließt Janeway einen Waffenstillstand mit den Hirogen: Diese bekommen die Holodeck-Technologie und verlassen die Voyager."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.18" },
+							{ "@id": "https://bittersmann.de/startrek/series/voy#4.19" }
+						],
+						"datePublished": "2026-05-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/-Bp08UOiBiE"
+						}
 					}
 				},
 				{
@@ -7144,6 +7315,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Auf der Erde arbeitet Lt. Reginald Barclay als Teil eines Projektteams an einem Weg, mit der Voyager Kontakt aufzunehmen. Barclay ist inzwischen so besessen von der Voyager, dass er auf dem Holodeck eine komplette Voyager als Programm regelmäßig laufen lässt und als außerordentlich beliebtes und kompetentes Mitglied der virtuellen Crew seine Freizeit verbringt. Gleichzeitig entwickelt er in Überstunden eine Theorie, wie die Föderation Kontakt mit der Voyager aufnehmen könnte. Als sein Vorgesetzter seine Theorie als zu unausgereift zunächst ablehnt und ihn wegen seiner Obsession und Überarbeitung vom Dienst suspendiert, bricht er ins Labor ein und setzt seine Idee allein um. Er wird dabei entdeckt und verhaftet, nachdem er bereits eine Botschaft an die Voyager abgesetzt hat. Als die Voyager antwortet, wird er wieder in seine Position eingesetzt. Auf der Voyager stoßen die Crew-Mitglieder auf den erfolgreichen Kontakt und auf den für sie unbekannten Lt. Reginald Barclay an."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/W1c7i75cZ94"
+						}
 					}
 				},
 				{
@@ -7185,6 +7371,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Tom Paris hat auf dem Holodeck für die Crew ein Programm erschaffen, das in einem irischen Dorf des 19. Jahrhunderts namens Fair Haven spielt. Als die Voyager über mehrere Tage bewegungslos während verschiedener Weltraumphänomene ausharren muss, läuft das Programm viele Tage ununterbrochen zur Unterhaltung der Crew. Auch Janeway nutzt das Programm und verliebt sich in die Figur des Barkeepers Michael, die sie nach ihren Vorstellungen verändert hat. Sie lässt aber dann davon ab, weil sie die Liebe zu einem Hologramm für perspektivlos hält. Als bei einem Sturm sämtliche Energie in die Deflektorschilde geleitet werden muss, wird das Fair-Haven-Programm beschädigt. Janeway sichert danach die Figur des Michael und schützt sie vor Veränderungen. Die Geschichte um Fair Haven wird in Staffel 6 in der Folge Das Geistervolk weitergeführt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-14",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/UBMGj_U_AFE"
+						}
 					}
 				},
 				{
@@ -7231,6 +7432,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Voyager wird in den Orbit eines Planeten hineingezogen, auf dessen Oberfläche die Zeit für die Bewohner deutlich schneller vergeht als auf der Voyager und im Weltraum um sie herum. Während die Voyager versucht, sich wieder aus dem Orbit zu befreien, ist sie als helles Himmelsphänomen, ähnlich einem großen Stern, für die Bewohner des Planeten zu sehen. Der Anblick der Voyager inspiriert die Kultur auf dem Planeten von den Anfängen in einer Art Steinzeit bis zur Entwicklung der Raumfahrt. Als auf dem Planeten schließlich die Technologie so weit gediehen ist, dass die Bewohner Raumfahrt, Warp-Antrieb und Zeitmodulatoren beherrschen, können sie Kontakt mit der Voyager aufnehmen und ihr helfen, sich aus dem Orbit des Planeten zu befreien."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Voyager",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nBnUSE_VxKA"
+						}
 					}
 				},
 				{

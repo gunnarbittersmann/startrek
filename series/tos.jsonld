@@ -206,8 +206,8 @@
 						"@value": "Auf einen Notruf reagierend, nimmt die Enterprise eine vor 200 Jahren von dem Raumschiff Valiant ausgesetzte Unfallboje an Bord. Deren Untersuchung ergibt, dass die Valiant, bevor sie die Selbstzerstörungssequenz auslöste, im Schiffscomputer nach Informationen über außersinnliche Wahrnehmung suchte. Die Enterprise durchfliegt – ebenso wie einst die Valiant – eine seltsame Raumbarriere, wodurch neun Crewmitglieder sterben und Enterprise-Navigator Gary Mitchell übernatürliche Kräfte entwickelt, die ständig stärker werden. Dadurch und durch Spocks Erkenntnis, dass Ähnliches auch auf der Valiant geschah und dies letztlich zu ihrer Zerstörung führte, stellt Mitchell eine zunehmende Gefahr für die Enterprise dar. Kirk fasst deshalb den Entschluss, ihn auf einem verlassenen Planeten zwangsweise auszusetzen. Als das Außenteam Mitchell dort zurücklassen will, überwältigt er es. Dr. Elizabeth Dehner, die offenbar auch beim Durchflug der Barriere beeinflusst worden war, hat nun ähnliche Kräfte wie Mitchell. Dieser spielt sich zu einem gottgleichen Wesen auf. Dehner widersteht dessen Einfluss und hilft Kirk dabei, Mitchell zu überwältigen. Dabei kommen Mitchell und Dehner zu Tode."
 					},
 					"review": {
-						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 						"@type": "Review",
+						"@id": "https://bittersmann.de/startrek/reviews#yWrYvtW9ZN8",
 						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
@@ -217,6 +217,7 @@
 						},
 						"itemReviewed": [
 							{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#0.2" },
 							{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
 						],
 						"datePublished": "2023-01-05",
@@ -259,21 +260,83 @@
 					"url": "https://de.wikipedia.org/wiki/Raumschiff_Enterprise/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "de",
-				"name": "Ersteindruck",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#Nerdzika",
-					"name": "Nerdzika"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
 				},
-				"datePublished": "2024-10-30",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/7Q3IAUoRelU"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Ersteindruck",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2024-10-30",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/7Q3IAUoRelU"
+					}
 				}
-			},
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -540,8 +603,8 @@
 							}
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#yWrYvtW9ZN8",
 							"inLanguage": "en",
 							"name": "Retro Review | First Episodes",
 							"creator": {
@@ -551,6 +614,7 @@
 							},
 							"itemReviewed": [
 								{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tos#0.2" },
 								{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
 							],
 							"datePublished": "2023-01-05",
@@ -1188,6 +1252,24 @@
 					"description": {
 						"@language": "de",
 						"@value": "Aus dem Video, das Spock dem Gericht vorführt, geht hervor, dass die Überlebenden auf Talos IV eine Illusion waren, mit der die Talosianer die Enterprise angelockt haben. Wie das Video zeigt, halten die Talosianer Pike und die Frau Vena gefangen, die einzige Überlebende eines Raumschiffabsturzes, der sich 18 Jahre zuvor auf dem Planeten ereignete. Die Talosianer, die auch mit Pike per Gedankenübertragung kommunizieren können, wollen eine menschliche Gesellschaft quasi als Sklaven aufbauen, mit der sie ihr eigenes, bedrohtes Überleben sichern wollen. Dazu zwingen sie Pike mit Illusionen, der Frau näher zu kommen, um mit ihr eine Familie zu gründen. Pike jedoch ist widerspenstig und nutzt eine Fluchtgelegenheit aus dem Gebäude, bei der er einen Talosianer als Geisel nimmt. Pike kann nun mit Vena zurück auf die Enterprise beamen, jedoch weigert sich Vena. Wie Pike erst jetzt erfährt, ist sie in Wirklichkeit durch den einstigen Raumschiffabsturz körperlich völlig entstellt und lebt nur mit Hilfe der Talosianer als hübsche, unversehrte Frau. Nachdem Pike auf die Enterprise zurückgebeamt ist, endet das Video. In der Gegenwart ist die Enterprise indes im Orbit von Talos IV angelangt. Es stellt sich heraus, dass die Talosianer den Gerichtsprozess forciert haben, auch indem sie Mendez als Illusion für Spock und Kirk schufen, um so Pike nach Talos IV zu locken. Dieser geht auf das Angebot der Talosianer ein, hinunterzubeamen und ebenso wie Vena künftig ein Leben in einem unversehrten Körper zu führen. Der reale Mendez auf M11 storniert das Zutrittsverbot auf den Planeten für Pike ausnahmsweise. Spock ist nicht länger angeklagt."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"itemReviewed": [
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.11" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#1.12" }
+						],
+						"datePublished": "2026-08-05",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/NRFubN06U3E"
+						}
 					}
 				},
 				{
@@ -2062,6 +2144,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Auf dem Gesteinsabbauplaneten Janus VI, auf dem ein dringend benötigtes Mineral gewonnen wird, ereignen sich seit kurzem etliche Todesfälle unter den Bergbauleuten. Die Enterprise-Crew kommt zu Hilfe, um sie aufzuklären, und beginnt damit, die mutmaßlich dafür verantwortliche monsterähnliche Kreatur in den Stollen zu suchen und unschädlich zu machen. Der zeitliche Druck dafür erhöht sich, als die Umwälzpumpe des Reaktors verschwindet, der der Lebenserhaltung dient. Rasch bestätigt sich Spocks Hypothese, der zufolge es sich um mindestens ein auf Silizium basierendes Lebewesen handelt. Das Wesen bewegt sich sehr schnell durch den Fels und scheidet eine stark ätzende Substanz aus. Als Kirk und Spock ihm gegenüberstehen, wagt Spock es, seine Gedanken mit dem Wesen zu verschmelzen. Dabei erfährt er, dass es Horta heißt und voller Angst ist, weil der menschliche Bergbau ihre Art bedroht, welche deshalb kurz vor dem Aussterben steht. Das Wesen hat die Morde offensichtlich begangen, um ihre Brut zu schützen, bei der es sich um lauter kugelförmige Siliziumknollen handelt und von denen durch den Bergbau schon etliche getötet worden sind. McCoy heilt die durch die Bejagung schwer verletzte Horta. Durch Spock als Vermittler einigt sich Horta mit den Bergbauleuten, künftig in friedlicher Koexistenz zu leben und dass sie die von ihr geschaffenen Stollen für den Bergbau nutzen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-07-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/RC3IEWnocSQ"
+						}
 					}
 				},
 				{
@@ -3994,7 +4091,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist zu Forschungszwecken in die Nähe der Erde des Jahres 1968 gereist. Plötzlich beamt sich der Agent 194 mit dem Codenamen Felix Seven Rock an Bord und behauptet, von einem außerirdischen Planeten zu kommen und in wichtiger Mission zur Rettung der Erde unterwegs zu sein. Kirk misstraut ihm und lässt ihn in Arrest stecken, aus dem er aber bald wieder flieht und sich in ein Büro in New York City beamt. Er will verhindern, dass auf der Erde ein Atomkrieg ausbricht, und versucht dazu mit zwei bereits dafür eingeteilten Agenten Kontakt aufzunehmen, die jedoch bei einem Autounfall sterben. Seven Rock beamt sich zur McKinley-Raketenbasis, auf dem die Amerikaner in Kürze eine Atomrakete starten lassen. Kurz bevor der Startcountdown abläuft, kann Seven Rock die Rakete insgeheim manipulieren. Kirk und Spock verfolgen Seven Rock bis in die Raketenbasis, wo beide aber verhaftet werden. Die für die zwei gestorbenen Agenten eingeteilte Frau Roberta beamt Seven Rock zu sich ins Büro und verhindert damit, dass Scotty in der Enterprise Seven Rock zu sich beamt. Kirk und Spock können ihrer Haft entkommen und lassen sich durch Scotty ebenfalls in das Büro beamen. Dort gibt Kirk erst in letzter Sekunde sein Misstrauen gegenüber Seven Rock auf, indem er ihn mit dessen Spezialcomputer die Rakete detonieren lässt, kurz bevor sie auf der Erde Schaden angerichtet hätte."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-21",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/nymDkCy90Lc"
+						}
+					}
 				}
 			]
 		},
@@ -4928,21 +5040,38 @@
 						"@language": "de",
 						"@value": "Die Enterprise ist auf dem Weg, den Planeten Ariannus zu entseuchen. Unterwegs begegnet ihr eine von Raumbasis 4 als gestohlen gemeldete Raumfähre der Föderation. Die Fähre wird an Bord geholt. Aus ihr steigt auf dem Hangardeck ein Humanoid, dessen linke Körperseite schwarz und die rechte weiß ist. Der geschwächte Fremde namens Lokai vom Planeten Cheron wird auf die Krankenstation gebracht und soll sich als Dieb vor dem Raumflottenkommando verantworten. Lokai sagt aus, aus einer Notlage heraus gehandelt zu haben. Es kommt zur Begegnung mit einem weiteren Raumschiff, dessen einziger Passagier sich vor dessen Zerstörung auf die Brücke der Enterprise beamt. Es ist Kommissar Bele vom Planeten Cheron. Er ist genau umgekehrt gefärbt wie Lokai und befindet sich auf der Jagd nach ihm, da dieser ein entflohener Verräter sei. Bele bringt die Enterprise auf den Kurs nach Cheron, um Lokai dorthin zu bringen. Kirk, Spock und Scott starten die Selbstzerstörungs-Sequenz. Bele gibt sich sieben Sekunden vor der Zerstörung geschlagen und Kirk bricht die Sequenz ab. Die Enterprise wird wieder auf Kurs nach Ariannus gebracht. Nach erfolgreichem Abschluss der Dekontamination von Ariannus lässt Kirk direkten Kurs auf die Raumbasis 4 setzen. Bele sabotiert die Selbstzerstörung und bringt die Enterprise erneut auf Kurs nach Cheron. Spock stellt dort fest, dass die gesamte Bevölkerung ausgelöscht wurde. Bele gibt dennoch nicht auf. Er jagt Lokai durch das Schiff auf den verlassenen Planeten, wo ihnen nun nichts mehr außer ihrem Hass verbleibt."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Trek, Actually",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2025-06-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/4vdSC1c6ZDE"
+							}
 						},
-						"datePublished": "2025-06-25",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/4vdSC1c6ZDE"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Woke Trek!",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-07-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MUNiNulpueE"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

@@ -101,6 +101,83 @@
 					"url": "https://de.wikipedia.org/wiki/Enterprise/Staffel_1"
 				}
 			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Tier List",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+						"name": "Trek Welten"
+					},
+					"datePublished": "2024-01-15",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+					}
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -2588,6 +2665,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Auf ein Hilfsgesuch des denobulanischen Wissenschaftsrates reagierend, beginnt ein Außenteam der Enterprise, auf einem Planeten nach drei Denobulanern zu suchen, da diesen durch Xantoraner die baldige Verhaftung droht. In einem Höhlensystem zu ihnen unterwegs, stürzen Tucker, Mayweather und Reed in einem Abgrund ab, wobei sich Mayweather ein Bein bricht. Tucker und Reed müssen die Denobulaner schließlich zum Verlassen ihrer Forschungsstätte zwingen und schaffen es zusammen mit Mayweather unter einsetzendem xantoranischen Bombardement in letzter Sekunde bis an Bord der Enterprise. Gleichzeitig behandelt Phlox einen von einem verunfallten Raumschiff geretteten, verletzten Antaraner. Beider Völker sind, seitdem die Denobulaner einst 20 Millionen Antaraner töteten, isoliert und hegen eine starke Abneigung gegeneinander. Deshalb verweigert der Verletzte zunächst die Hilfe von Phlox und nimmt sogar seinen Tod in Kauf. Phlox andererseits verweigert Archers Befehl, den Verletzten gegen dessen Willen zu behandeln. Nach einem Gespräch mit T’Pol beginnt sich Phlox’ Meinung über die Antaraner aber zu ändern. Um seinem eigenen Sohn ein Vorbild zu sein, überzeugt Phlox schließlich den Verletzten davon, sich behandeln zu lassen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-08-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Vi8ecvgtJg0"
+						}
 					}
 				},
 				{
@@ -5248,6 +5340,21 @@
 						"@value": "Etwa im Jahr 2370 lässt Commander Riker auf der Enterprise D ein Holodeckprogramm ablaufen, das die letzte Reise der Enterprise NX-01 zeigt. Das Programm dient Riker im Rahmen einer Konsultation bei Troi zur Entscheidungsfindung, ob er Captain Picard über den von Sternenflottenmitgliedern einst vertuschten Tod von 71 Crewmitgliedern des Raumschiffs Pegasus informieren sollte. Im Jahr 2161 ist die Enterprise unter Captain Archer unterwegs zur Erde, wo er bei der Gründungszeremonie der Vereinten Föderation der Planeten als wichtiger Redner vorgesehen ist. Archer kann dem mittlerweile als kriminell geltenden Shran die Erfüllung eines Gefallens nicht verwehren, der die Rettung seiner entführten jungen Tochter beinhaltet. Ein Außenteam um Shran und Archer rettet die Tochter aus der Hand der Entführer, jedoch betrügt Shran die Entführer, indem er mit einem gefälschten Edelstein bezahlt. Nachdem das Außenteam zur Enterprise NX-01 zurückgekehrt ist, entern die einstigen Entführer das Schiff, um sich an Shran zu rächen. Tucker vereitelt den Racheakt, indem er eine Explosion auslöst, die die Enterer und ihn selbst tötet. Damit verhindert er auch, dass Archer von den Enterern getötet wird, damit dieser wie geplant an der Zeremonie teilnehmen kann. Archer hält schließlich seine Rede und Riker entscheidet sich dafür, Picard zu informieren."
 					},
 					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-05-01",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/me9ptyXaIKQ"
+							}
+						},
 						{
 							"@type": "Review",
 							"inLanguage": "en",

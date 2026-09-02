@@ -110,6 +110,66 @@
 				{
 					"@type": "Review",
 					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
 					"name": "Retrospective",
 					"creator": {
 						"@type": "Person",
@@ -574,6 +634,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise nimmt einen zur Sternenflotte gehörigen Experten für Schiffsantriebe sowie dessen Assistenten, „Der Reisende“ genannt, an Bord, damit sie Tests zur Erhöhung der Effizienz des Warpantriebes durchführen können. Während der Tests, durch die das Schiff unbeabsichtigt in eine weit entfernte, fremde Galaxis fliegt, verschlägt es den Reisenden vorübergehend in eine andere Realität und die Crewmitglieder beginnen plötzlich, ihre eigenen Gedanken als real zu empfinden. Mit der Hilfe von Wesley Crusher, mit dem sich der Reisende angefreundet hat, schafft es der Reisende, das Schiff an seine ursprüngliche Position zu transportieren, wobei der Reisende aber verschwindet."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2026-04-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/5duaHWVwSbQ"
+						}						
 					}
 				},
 				{
@@ -1153,6 +1227,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während die Enterprise zu Reparaturzwecken auf Sternenbasis 74 angedockt ist, gehen auch einige Binärwesen an Bord, die bei der Instandsetzung helfen. Dabei kapern sie die Enterprise und fliegen zu ihrem Heimatplaneten. Sie verwenden den Computer der Enterprise für ein Backup des von einer Supernova bedrohten Computer ihres Planeten. Mit Hilfe von Picard und Riker gelingt die Rettung der Binärwesen und der Neustart des Computers des Planeten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-03-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cT8ZCeOLDj0"
+						}
 					}
 				},
 				{
@@ -1761,6 +1850,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während eines Raumfluges gerät die Enterprise vorübergehend in eine merkwürdige Zeitschleife. Es stellt sich heraus, dass das Phänomen in Zusammenhang steht mit Problemen auf dem wissenschaftlichen Außenposten auf dem Planeten Vandor IV. Mithilfe dessen Leiters Dr. Manheim kann Lieutenant Commander Data die Ursache des Problems lösen. Unterdessen ist Picard mit seinen Gefühlen für Manheims Frau konfrontiert."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-05-29",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/cfRfJhFdg6s"
+						}
 					}
 				},
 				{
@@ -3858,6 +3962,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise stößt in einem Asteroidenfeld auf ein altes Schlachtschiff der Promellianer, die seit einem Kampf mit ihren Feinden, den Menthar, alle tot sind. Dabei gerät die Enterprise alsbald in dieselbe, von den Menthar stammende Falle, die dem promellianischen Schiff einst zum Verhängnis wurde. Sie entzieht nun auch der Enterprise zunehmend die Energie, wodurch die Crew zu sterben droht. Um eine Lösung für das Problem zu suchen, lässt sich LaForge im Holodeck von einem Abbild von Dr. Leah Brahms helfen, die einst an der Konstruktion der Enterprise beteiligt war. Basierend auf der durch die beiden entwickelten Lösungsmöglichkeit kann schließlich Picard das Schiff aus dem Asteroidenfeld und somit aus dem Gefahrenbereich manövrieren."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/RQlD819Se8E"
+						}
 					}
 				},
 				{
@@ -4408,6 +4527,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-06-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/HzFCrd5RpvE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retro Review | Alternate Timelines",
 							"creator": {
 								"@type": "Person",
@@ -4665,6 +4799,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Von seiner Crew mit Nachdruck dazu ermutigt, sich wegen Erschöpfung eine Auszeit zu gönnen, beginnt Picard einen Urlaub auf dem Vergnügungsplaneten Risa. Dabei wird er allerdings in die Suche nach dem Artefakt Tox Uthat verwickelt, an dem die Frau Vash, der Ferengi Sovak und zwei aus dem 27. Jahrhundert angereiste Vorgonen interessiert sind. Während der Suche beginnen Picard und Vash vorübergehend ein Techtelmechtel, bevor Picard erkennt, dass Vash das Artefakt schon vor Wochen gefunden hat und nun den Ferengi abschütteln wollte. Schließlich lässt Picard das Artefakt mit Hilfe der Enterprise zerstören und kehrt auf das Schiff zurück."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-04",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/T4sjTDCl2wU"
+						}
 					}
 				},
 				{
@@ -5344,6 +5493,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Während die Enterprise einen kleinen Jungen, der an einer gefährlichen Krankheit leidet, zur weiteren Behandlung zu einer Raumstation bringt, übernimmt Data plötzlich und unangekündigt das Kommando über das Schiff, das er sodann zu einem Planeten fliegt. Dort hinunter gebeamt, trifft er seinen Erschaffer, Dr. Noonian Soong. Wie dieser Data erklärt, hat er Data zu sich gerufen, um Data seinen neu entwickelten Emotionschip zu installieren. Beide werden jedoch überrascht durch Datas Bruder Lore, der mit einem Täuschungsmanöver Data alsbald außer Betrieb setzt, den Chip in sich selbst integrieren lässt und flieht. Die Enterprise-Crew konnte unterdessen das Kommando über das Schiff zurückerlangen. Ein Außenteam gelangt in Soongs Haus, wo es Data und den durch Lore schwer verletzten, sterbenden Soong vorfindet. Data wird wieder aktiviert, die Enterprise kann ihren Flug zur Raumstation fortsetzen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+							"name": "The Art of Storytelling"
+						},
+						"datePublished": "2026-07-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/3KsS3DcCyck"
+						}						
 					}
 				},
 				{
@@ -5487,7 +5650,7 @@
 							"@id": "https://bittersmann.de/startrek/people#SteveShives",
 							"name": "Steve Shives"
 						},
-						"datePublished": "20204-02-01",
+						"datePublished": "2024-02-01",
 						"video": {
 							"@type": "VideoObject",
 							"embedUrl": "https://www.youtube-nocookie.com/embed/JvAruLYJmVU"
@@ -8073,7 +8236,39 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise hilft dem Volk der androgynen J’naii beim Wiederfinden eines von deren in einer seltenen Raumanomalie verlorengegangenen Shuttles. Dabei arbeitet Riker mit dem J’naii-Individuum Soren zusammen. Soren erklärt Riker, dass sich die J’naii einst von primitiven, geschlechtsspezifischen Wesen zu höheren, geschlechtslosen Wesen entwickelten und dass es ihnen nun bei Strafe verboten ist, sich mit Vertretern anderer Rassen zu paaren. Soren glaubt aber, anders zu sein, nämlich weiblich, und fühlt sich zu Riker hingezogen. Es entsteht eine Liebesbeziehung zwischen beiden, die aber dem J’naii-Individuum Krite nicht verborgen bleibt. Darum lässt Krite Soren alsbald als andersartig anklagen und zwecks Durchführung einer psychotektischen Therapie verhaften, bei der Soren die weiblichen Empfindungen ausgetrieben werden sollen. Obwohl Picard Riker angesichts der Obersten Direktive davon abrät, in dem Fall zu intervenieren, befreit Riker, unterstützt durch Worf, Soren aus der Gefangenschaft, um Soren mit auf die Enterprise zu nehmen. Soren lehnt jedoch ab mitzukommen, da Soren die Beziehung zu Riker nicht für richtig hält und der Therapie offensichtlich schon unterzogen wurde."
-					}
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Nerd Out",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2018-11-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PQ0xKWGU6b8"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Woke Trek!",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-07-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/9xbrbs2TK2c"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -8128,7 +8323,22 @@
 							"@language": "de",
 							"@value": "Die Enterprise ist in einer Zeitschleife gefangen, an deren Ende das Schiff zerstört wird. Daher muss die Crew einen Weg finden, die Schleife zu verlassen und somit die Zerstörung des Schiffes zu verhindern."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-11",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/HqBcFJfl5Yw"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -9496,6 +9706,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Nachdem Data und La Forge beim Durchspielen eines Sherlock-Holmes-Holodeckprogramms Fehler bemerkt haben, reaktiviert Barclay bei der Suche nach der Fehlerursache die Holodeckfigur Professor Moriarty, die Picard einst im Speicher des Holodecks gesichert hatte, weil er ein Bewusstsein entwickelt hatte. Als Moriarty Picard zu sich kommen lässt – Data und Barclay sind ebenfalls im Holodeck anwesend –, verlässt Moriarty das Holodeck, obwohl dies physikalisch als unmöglich gilt. Picard verweigert Moriarty dessen Wunsch, auch Moriartys Geliebte, die Countess Bartholomew, aus dem Holodeck freizulassen, weil die Crew noch nicht genügend Informationen über das Phänomen von Moriartys Aufenthalt außerhalb des Holodecks hat. Um Picard dennoch zum Umsetzen seiner Forderung zu zwingen, sperrt Moriarty mit einem Trick die Kommandofunktion des Enterprise-Computers und hindert die Crew so daran, mit der Enterprise den Bereich zu verlassen, in dem in Kürze zwei Planeten kollidieren und wodurch die Enterprise zerstört zu werden droht. Data entdeckt nun, dass sich er, Picard und Barclay nach wie vor im Holodeck befinden, und zwar in einem von Moriarty geschaffenen Programm. Jedoch verhindert Moriarty die Beendigung des Programms. Um die Gefahr für die Enterprise abzuwenden, erfüllt Picard Moriartys Forderung, dass dieser und die Countess mit einem Shuttle die Enterprise verlassen können, sodass Moriarty die Kommandofunktion der Enterprise wieder freigibt. Allerdings stellt sich nun heraus, dass Picard die Befreiung Moriartys und der Countess nur in einem Holodeckprogramm innerhalb des ersten Holodeckprogramms inszeniert hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-09",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/f7QWhEuSNII"
+						}
 					}
 				},
 				{

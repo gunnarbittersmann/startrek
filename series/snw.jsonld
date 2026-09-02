@@ -98,20 +98,82 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_1"
 				}
 			],
-			"review": {
-				"@type": "Review",
-				"inLanguage": "en",
-				"creator": {
-					"@type": "Person",
-					"@id": "https://bittersmann.de/startrek/people#JessieGender",
-					"name": "Jessie Gender"
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2022-07-09",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/BJ3lUuWmL8c"
+					}
 				},
-				"datePublished": "2022-07-09",
-				"video": {
-					"@type": "VideoObject",
-					"embedUrl": "https://www.youtube-nocookie.com/embed/BJ3lUuWmL8c"
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
 				}
-			},
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -120,6 +182,7 @@
 					"episodeNumber": "1.1",
 					"name": "Strange New Worlds",
 					"datePublished": "2022-05-05",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
@@ -251,6 +314,7 @@
 					"episodeNumber": "1.2",
 					"name": "Children of the Comet",
 					"datePublished": "2022-05-12",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -355,6 +419,7 @@
 					"episodeNumber": "1.3",
 					"name": "Ghosts of Illyria",
 					"datePublished": "2022-05-19",
+					"duration": "PT46M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#LeslieHope",
@@ -458,6 +523,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2022-05-26",
+					"duration": "PT54M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -561,6 +627,7 @@
 					"episodeNumber": "1.5",
 					"name": "Spock Amok",
 					"datePublished": "2022-06-02",
+					"duration": "PT52M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#RachelLeiterman",
@@ -661,6 +728,7 @@
 					"episodeNumber": "1.6",
 					"name": "Lift Us Where Suffering Cannot Reach",
 					"datePublished": "2022-06-09",
+					"duration": "PT51M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
@@ -746,6 +814,7 @@
 					"episodeNumber": "1.7",
 					"name": "The Serene Squall",
 					"datePublished": "2022-06-16",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
@@ -831,6 +900,7 @@
 					"episodeNumber": "1.8",
 					"name": "The Elysian Kingdom",
 					"datePublished": "2022-06-23",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
@@ -916,6 +986,7 @@
 					"episodeNumber": "1.9",
 					"name": "All Those Who Wander",
 					"datePublished": "2022-06-30",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisByrne",
@@ -994,6 +1065,7 @@
 					"episodeNumber": "1.10",
 					"name": "A Quality of Mercy",
 					"datePublished": "2022-07-07",
+					"duration": "PT1H3M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -1140,6 +1212,7 @@
 					"episodeNumber": "2.1",
 					"name": "The Broken Circle",
 					"datePublished": "2023-06-15",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -1258,6 +1331,7 @@
 						"@language": "la"
 					},
 					"datePublished": "2023-06-22",
+					"duration": "PT57M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
@@ -1369,6 +1443,7 @@
 					"episodeNumber": "2.3",
 					"name": "Tomorrow and Tomorrow and Tomorrow",
 					"datePublished": "2023-06-29",
+					"duration": "PT1H1M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AmandaRow",
@@ -1477,6 +1552,7 @@
 					"episodeNumber": "2.4",
 					"name": "Among the Lotus Eaters",
 					"datePublished": "2023-07-06",
+					"duration": "PT58M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#EduardoSanchez",
@@ -1592,6 +1668,7 @@
 					"episodeNumber": "2.5",
 					"name": "Charades",
 					"datePublished": "2023-07-13",
+					"duration": "PT1H",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -1692,6 +1769,7 @@
 					"episodeNumber": "2.6",
 					"name": "Lost in Translation",
 					"datePublished": "2023-07-20",
+					"duration": "PT54M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -1792,6 +1870,7 @@
 					"episodeNumber": "2.7",
 					"name": "Those Old Scientists",
 					"datePublished": "2023-07-22",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -1902,6 +1981,7 @@
 					"episodeNumber": "2.8",
 					"name": "Under the Cloak of War",
 					"datePublished": "2023-07-27",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JeffByrd",
@@ -1995,6 +2075,7 @@
 					"episodeNumber": "2.9",
 					"name": "Subspace Rhapsody",
 					"datePublished": "2023-08-03",
+					"duration": "PT1H3M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DermottDowns",
@@ -2105,6 +2186,7 @@
 					"episodeNumber": "2.10",
 					"name": "Hegemony",
 					"datePublished": "2023-08-10",
+					"duration": "PT53M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -2283,6 +2365,20 @@
 				{
 					"@type": "Review",
 					"inLanguage": "de",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+						"name": "Nerdzika"
+					},
+					"datePublished": "2026-07-23",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/QCou4lmpMDE"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
 					"name": "Recap",
 					"creator": {
 						"@type": "Person",
@@ -2304,6 +2400,7 @@
 					"episodeNumber": "3.1",
 					"name": "Hegemony, Part II",
 					"datePublished": "2025-07-17",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
@@ -2381,6 +2478,7 @@
 					"episodeNumber": "3.2",
 					"name": "Wedding Bell Blues",
 					"datePublished": "2025-07-17",
+					"duration": "PT50M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -2509,6 +2607,7 @@
 					"episodeNumber": "3.3",
 					"name": "Shuttle to Kenfori",
 					"datePublished": "2025-07-24",
+					"duration": "PT51M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#DanLiu",
@@ -2610,6 +2709,7 @@
 					"episodeNumber": "3.4",
 					"name": "A Space Adventure Hour",
 					"datePublished": "2025-07-31",
+					"duration": "PT48M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JonathanFrakes",
@@ -2711,6 +2811,7 @@
 					"episodeNumber": "3.5",
 					"name": "Through the Lens of Time",
 					"datePublished": "2025-08-07",
+					"duration": "PT55M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndiArmaganian",
@@ -2834,6 +2935,7 @@
 					"episodeNumber": "3.6",
 					"name": "The Sehlat Who Ate Its Tail",
 					"datePublished": "2025-08-14",
+					"duration": "PT49M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#ValerieWeiss",
@@ -2935,6 +3037,7 @@
 					"episodeNumber": "3.7",
 					"name": "What Is Starfleet?",
 					"datePublished": "2025-08-21",
+					"duration": "PT41M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
@@ -3036,6 +3139,7 @@
 					"episodeNumber": "3.8",
 					"name": "Four-and-a-Half Vulcans",
 					"datePublished": "2025-08-28",
+					"duration": "PT55M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
@@ -3137,6 +3241,7 @@
 					"episodeNumber": "3.9",
 					"name": "Terrarium",
 					"datePublished": "2025-09-04",
+					"duration": "PT57M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AndrewCoutts",
@@ -3160,7 +3265,7 @@
 						},
 						{
 							"@language": "de",
-							"@value": "Während Ortegas ein Shuttle für eine Forschungsmission fliegt, wird sie durch ein Wurmloch gezogen und stürzt auf einem kargen Mond ab, der einen Gasriesen umkreist. Sie wird von einer gestrandeten Gorn-Pilotin vor den Gefahren des Mondes beschützt. Trotz Ortegas’ anfänglichem Misstrauen freunden sich die beiden an, da sie Gemeinsamkeiten finden und zusammen überleben. Die Enterprise hat den dringenden Auftrag, Impfstoffe an eine Kolonie zu liefern, was die Zeit für die Suche nach Ortegas einschränkt. Uhura schlägt vor, mit der Enterprise in die Mitte der Wurmlochöffnung zu fliegen, um sie zu finden, und übertreibt die Erfolgsaussichten der Mission, um Pike zu überzeugen. Ortegas und die Gorn entzünden die Atmosphäre des Mondes, um der Enterprise ein Signal zu senden. Als sie herunterbeamen, um Ortegas zu retten, verwechselt La’An die Gorn mit einem Feind und tötet sie. Ein Metron (rätselhaftes gottähnliches Wesen) erscheint Ortegas und erklärt, dass sie beide zusammengebracht haben, um zu sehen, ob Frieden zwischen Menschen und Gorn möglich ist. Aufgrund von La’An’s heftiger Reaktion glauben sie, dass weitere Untersuchungen notwendig sind. Der Metron löscht Ortegas’ Erinnerungen an ihr Gespräch, sie erinnert sich an alles andere und trauert um die Gorn."
+							"@value": "Während Ortegas ein Shuttle für eine Forschungsmission fliegt, wird sie durch ein Wurmloch gezogen und stürzt auf einem kargen Mond ab, der einen Gasriesen umkreist. Sie wird von einer gestrandeten Gorn-Pilotin vor den Gefahren des Mondes beschützt. Trotz Ortegas’ anfänglichem Misstrauen freunden sich die beiden an, da sie Gemeinsamkeiten finden und zusammen überleben. Die Enterprise hat den dringenden Auftrag, Impfstoffe an eine Kolonie zu liefern, was die Zeit für die Suche nach Ortegas einschränkt. Uhura schlägt vor, mit der Enterprise in die Mitte der Wurmlochöffnung zu fliegen, um sie zu finden, und übertreibt die Erfolgsaussichten der Mission, um Pike zu überzeugen. Ortegas und die Gorn entzünden die Atmosphäre des Mondes, um der Enterprise ein Signal zu senden. Als sie herunterbeamen, um Ortegas zu retten, verwechselt La’An die Gorn mit einem Feind und tötet sie. Ein Metron (rätselhaftes gottähnliches Wesen) erscheint Ortegas und erklärt, dass sie beide zusammengebracht haben, um zu sehen, ob Frieden zwischen Menschen und Gorn möglich ist. Aufgrund von La’Ans heftiger Reaktion glauben sie, dass weitere Untersuchungen notwendig sind. Der Metron löscht Ortegas’ Erinnerungen an ihr Gespräch, sie erinnert sich an alles andere und trauert um die Gorn."
 						}
 					],
 					"review": [
@@ -3231,6 +3336,7 @@
 					"episodeNumber": "3.10",
 					"name": "New Life and New Civilizations",
 					"datePublished": "2025-09-11",
+					"duration": "PT56M",
 					"director": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#MajaVrvilo",
@@ -3323,6 +3429,947 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/j0OSjFxcDCc"
 							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/snw#4",
+			"seasonNumber": 4,
+			"subjectOf": [
+				{
+					"@type": "Webpage",
+					"inLanguage": "en",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4"
+				},
+				{
+					"@type": "Webpage",
+					"inLanguage": "de",
+					"publisher": {
+						"@type": "Organization",
+						"@id": "https://bittersmann.de/startrek/organizations#Wikipedia",
+						"name": "Wikipedia"
+					},
+					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_4"
+				}	
+			],
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.1",
+					"episodeNumber": "4.1",
+					"name": {
+						"@value": "Valles Marineris",
+						"@language": "la"
+					},
+					"datePublished": "2026-07-23",
+					"duration": "PT1H",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AkivaGoldsman",
+							"name": "Akiva Goldsman"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						}
+					],
+					"contributor": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+							"name": "Alan B. McElroy"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": {
+							"@value": "Valles Marineris",
+							"@language": "la"
+						},
+						"datePublished": "2026-07-23"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Captain Christopher Pike is offered a promotion to Commodore. The USS Enterprise is caught in a solar storm which sends them back 65 million years to the Cretaceous period on Earth, where crew members encounter dinosaurs. The Enterprise is captured by Martians who are at war with the Dol’drm, an insect-like species from a planet between Mars and Jupiter. Pike offers to help end the conflict peacefully, but their leader Cassell learns that Mars is a barren wasteland in the future and decides to use the Enterprise’s antimatter fuel cell as a weapon. The crew race to stop Cassell from using it against the Dol’drm planet, but Pike makes a last minute decision not to interfere. The planet is destroyed, creating the asteroid belt and shifting Mars’s orbit enough to cause its eventual wasteland state. A fragment from the explosion becomes the Chichxulub asteroid that causes the dinosaurs’ extinction. The Enterprise uses the explosion’s energy to return to their own time, in which Pike declines the promotion and instead has first officer Una Chin-Riley / Number One promoted to Commander."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/X1E77FB44nE"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/uDSCEhShrik"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/89Jvvg5pBXY"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-07-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/wjxE9G5awWQ"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#Nerdzika",
+								"name": "Nerdzika"
+							},
+							"datePublished": "2026-07-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/8qNMSfkRqNk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-07-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TsfNLwOGqmc"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.2",
+					"episodeNumber": "4.2",
+					"name": "Griffin Incident",
+					"datePublished": "2026-07-30",
+					"duration": "PT1H",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AxelleCarolyn",
+						"name": "Axelle Carolyn"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+						"name": "Robbie Thompson"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Der Griffin-Vorfall",
+						"datePublished": "2026-07-30"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Returning on a shuttle from a leadership conference, James Kirk, Spock, and La’An come across the derelict ship USS Griffin, which had disappeared nine years earlier. They detect no life signs and beam aboard to investigate. They begin seeing anomalous activity, including a suspicious woman walking the halls. Spock becomes trapped in the medical bay after the computer informs him that most of the crew was killed after being beamed into empty space, and sees visions of T’Pring. Kirk tries to communicate with the USS Enterprise crew, but is distracted when he hears his infant son crying. La’An sees the video logs of the ship’s chief of security, Rose Harper, who she realizes killed all of the crew, and is the woman walking through the halls. The crew of the Enterprise apparently beams aboard to rescue them, but begins acting strangely. La’An becomes possessed and stabs Kirk in the stomach. The real Enterprise arrives and rescues them, never having boarded the Griffin. They refer the Griffin to Division 12, which tows the ship away. Kirk attempts to contact his family, and La’An watches the towing of the Griffin from the Enterprise, seeing Harper behind a window."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cUQBJz1c1H0"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-07-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/b7cApyf7Wvo"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VhLxLJzTAQ8"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/3LKe1XO2qhE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"datePublished": "2026-08-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E3e2d2lFERw"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.3",
+					"episodeNumber": "4.3",
+					"name": "Human Best Friend",
+					"datePublished": "2026-08-06",
+					"duration": "PT48M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#YanaGorskaya",
+						"name": "Yana Gorskaya"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#KathrynLyn",
+						"name": "Kathryn Lyn"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Menschlicher bester Freund",
+						"datePublished": "2026-08-06"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Tensions are high on the overworked Enterprise, particularly between Scott and Ortegas. Pike decides to send the primary shift to a resort where the atmosphere causes an allegedly safe and temporary release of inhibitions. Just as they arrive, Ortegas and Scott find themselves together with a gap in their memory, with instructions to deliver a message to Pike. Working together, they need to first recover their stolen shuttlecraft and then deal with a bomb planted there before it destroys the Enterprise and sabotages important negotiations. Their colleagues are of little help: Pike gets a tattoo, Number One sings Klingon power ballads, M’Benga takes up bartending, and La’An and Chapel disrupt an exercise class and a bingo game respectively. Spock seems less affected, but is unburdening himself with what he believes to be a hallucination of Kirk. They get the shuttlecraft and bomb off the ship, and Spock (with the help of Kirk, who turns out to be have been real all along) beams them out just before the explosion."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/gaG-2d5UZAw"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3.5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/JwtmjAo0yDA"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pzkLvsek6_M"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/5EODFiA0QEk"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.4",
+					"episodeNumber": "4.4",
+					"name": "A Case of Chiaoscuro",
+					"datePublished": "2026-08-13",
+					"duration": "PT51M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MeeraMenon",
+						"name": "Meera Menon"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SkylarOjeda",
+							"name": "Skylar Ojeda"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Ein Fall von Chiaoscuro",
+						"datePublished": "2026-08-13"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Number One, M’Benga, and Uhura enter the Klingon-occupied Mat’aar system on a shuttlecraft to recover a missing Starfleet probe. They succeed, but are detected and need to hide on the main planet, where color perception is blocked and the residents dress like those in 1940s Earth. Due to a fortuitous resemblance, Number One assumes the role of Nevette, a Mat’aaran who is both a prominent collaborator and the leader of a sophisticated Mat’aaran resistance organization. Uhura is arrested and interrogated by Kor, the local commander, and is later released but learns the current Klingon plan. Over M’Benga’s advice, Number One carries out Nevette’s previous plan to disrupt that plan and allow some Mat’aarans to escape the planet. On the Enterprise, La’An suspects that the recovered probe has been sabotaged. It hasn’t, but her investigation finds two other covert transmissions, one of which involves Chapel covering up an illegal mercy mission by a Starfleet hospital ship. La’An agrees not to reveal this."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/xSi7ifJG28k"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/r47MIv3vewA"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/VevJNPMlX1c"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_Gw81J_3Eos"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.5",
+					"episodeNumber": "4.5",
+					"name": "Level Five Transporter Accident",
+					"datePublished": "2026-08-20",
+					"duration": "PT55M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JordanCanning",
+						"name": "Jordan Canning"
+					},
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Stufe-5 Transporterunfall",
+						"datePublished": "2026-08-20"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "As Scott prepares an experiment to extend its range, La’An breaks off her relationship with Spock, and the latter invites T’Pring to visit the Enterprise to help him rededicate himself to logic. As Spock watches from a shuttlecraft, the experiment causes the ship to briefly vanish, then return with everyone on board transformed into puppets. Returning, Spock finds himself the only person to operate most of the controls. An Orion ship, sensing only one life form there, hails them, and Uhura accidentally reveals the truth to them. An Orion party board the ship and easily take over the bridge, but cannot operate the ship without access codes. Spock refuses, and the Orion captain throws the puppet Pike out into space. But Pike is unharmed, and when the crew get him back, he formulates a plan to recapture the ship, using the special advantages of their new form. T’Pring agrees that “hijinks” are the only logical solution to their absurd situation. A chaotic mass attack distracts the Orions long enough for Spock to remove the oxygen from the bridge, disabling both the Orions and himself. Scott is able to reverse the effect, but the crew first enjoy visiting open space without suits. When Spock recovers, T’Pring (in her original form) claims no knowledge of any puppets."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/_Rj4y0TgWAk"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/1WgEMxy8Uqk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BgBV0yY-zQI"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/QEtEpNbDA4o"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.6",
+					"episodeNumber": "4.6",
+					"name": "Off-Hour",
+					"datePublished": "2026-08-27",
+					"duration": "PT57M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#DanLiu",
+						"name": "Dan Liu"
+					},
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+						"name": "Bill Wolkoff"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Schichtende",
+						"datePublished": "2026-08-27"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "As the Enterprise travels to Starbase 7 for scheduled repairs, the crew prepares for the end of their shift and their much-anticipated weekend. In sickbay, Christine Chapel learns that Joseph M’Benga is considering leaving the Enterprise and has arranged for former chief medical officer Dr. Phil Boyce to potentially replace him. Chapel reacts angrily, but M’Benga points out that she has similarly avoided committing herself permanently to the ship. Their argument is interrupted when the Enterprise encounters an unusual slipstream while traveling at warp that pulls them in and throws them violently off course. The resulting turbulence causes widespread damage, disables communications, and isolates sections of the ship from one another. With the ship accelerating towards a catastrophic warp threshold, the crew determines they have less than an hour before the Enterprise is destroyed. Scotty and cadet A’Sha become trapped and attempt to restore ship systems, Una is seriously injured while restoring artificial gravity, and a laboratory table breaks loose and crushes M’Benga against a wall while saving Christine. While trying to prevent him from dying, she discovers his work involving an unusual form of neutrino radiation and theorizes that the particles present within the slipstream may possess properties capable of repairing his injuries. Scotty deduces that these same neutrinos can also be harnessed to restore the Enterprise’s depleted fuel. With ship sensors still offline, Spock performs a spacewalk to retrieve the necessary information from the ion pod but passes out from radiation sickness in the process. La’An, refusing to leave him behind, performs a spacewalk to retrieve him and performs a mind meld with a barely-conscious Spock to retrieve the information from his memory. The collected data confirms Christine’s theory and she uses the newly-collected neutrinos to save M’Benga while Scotty uses the collected neutrinos to refuel the ship and restore enough power for the crew to regain control."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TMYyns0swLY"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8.9,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-08-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pRh7pFvCaac"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-07-22",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.2" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.3" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.4" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.5" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.6" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YfluA50vRiU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-08-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/o13B8IL6VAs"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7467RCw7qs4"
+							}
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.7",
+					"episodeNumber": "4.7",
+					"name": "Like Chronitons Through the Hourglass",
+					"datePublished": "2026-09-03",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#DanaHorgan",
+							"name": "Dana Horgan"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
+							"name": "Bill Wolkoff"
+						}
+					]
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.8",
+					"episodeNumber": "4.8",
+					"name": "Orders of Magnitude",
+					"datePublished": "2026-09-10",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
+						"name": "Alan B. McElroy"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.9",
+					"episodeNumber": "4.9",
+					"name": "Once La’An a Time",
+					"datePublished": "2026-09-17",
+					"author": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
+						"name": "Onitra Johnson"
+					}
+				},
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/snw#4.10",
+					"episodeNumber": "4.10",
+					"name": "Tomorrow’s Enterprise",
+					"datePublished": "2026-09-24",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#HenryAlonsoMyers",
+							"name": "Henry Alonso Myers"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
+							"name": "Robbie Thompson"
 						}
 					]
 				}

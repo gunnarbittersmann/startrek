@@ -123,6 +123,83 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine/Staffel_1"
 				}
 			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#JessieGender",
+						"name": "Jessie Gender"
+					},
+					"datePublished": "2026-03-23",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/st#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/vst#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sco#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dOUZrEWtkrU"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-03-25",
+					"itemReviewed": [
+						{ "@id": "https://bittersmann.de/startrek/series/tos#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tas#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/tng#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ds9#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/voy#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ent#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pic#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/ld#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/pro#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/snw#1" },
+						{ "@id": "https://bittersmann.de/startrek/series/sfa#1" }
+					],
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/0sH6xfxe4RQ"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "de",
+					"name": "Tier List",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+						"name": "Trek Welten"
+					},
+					"datePublished": "2024-01-15",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/cySBAdBeSFg"
+					}
+				}
+			],
 			"episode": [
 				{
 					"@type": "TVEpisode",
@@ -4018,25 +4095,46 @@
 							"@value": "Sisko nimmt die Rolle des getöteten Anführers ein und führt den Aufstand an. Schließlich kann das Team in seine Zeit zurückkehren."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Time Travel Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Time Travel Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+							],
+							"datePublished": "2023-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
-							{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
-						],
-						"datePublished": "2023-07-06",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/D6VWGIl8l70"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.11" },
+								{ "@id": "https://bittersmann.de/startrek/series/ds9#3.12" }
+							],
+							"datePublished": "2024-09-02",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Esq_IBfu4wg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -4313,7 +4411,22 @@
 							"@language": "de",
 							"@value": "Die Romulaner sehen sich der Gefahr eines Angriffes durch das Dominion ausgesetzt. Den Plan der Romulaner, das Wurmloch zu zerstören, um das Dominion daran zu hindern, in ihren Raum einzudringen, kann aber verhindert werden, da O’Brien durch einen Unfall durch die Zeit reist."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Time Loops and Paradoxes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-06-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/qwIpXdLg3ZM"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -5063,6 +5176,21 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "Dax is reunited with Lenara Kahn, whose previous host was the wife of one of Dax’s former hosts, Torias Dax, and the two struggle with their feelings for one another."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Woke Trek!",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-07-23",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/J_Guao8aMpI"
+						}
 					}
 				},
 				{
@@ -8170,6 +8298,38 @@
 							"@language": "de",
 							"@value": "Sisko träumt von sich als Benny Russell, einem Science-fiction-Schriftsteller, der in den 1950er Jahren versucht, seine von einer Raumstation in ferner Zukunft handelnde Geschichte zu veröffentlichen. Weil sein Titelheld wie Russell selbst ein Afroamerikaner ist, wird er mit Rassismus konfrontiert und hat zahlreiche Widerstände zu überwinden."
 						}
+					],
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Trek, Actually",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2024-02-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TDvFeo9H5uc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Woke Trek!",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-08-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/v1UHTy_7iEo"
+							}
+						}
 					]
 				},
 				{
@@ -8539,7 +8699,22 @@
 							"@language": "de",
 							"@value": "Als Odo von einem neuen Holosuite-Programm erfährt, in dem der Sänger Vic Fontaine in einem Nachtclub der 1960er Jahre auftritt, okkupiert er das Programm für sich allein und lässt sich von Fontaine dabei helfen, Kiras Liebe zu gewinnen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | More Holodeck Episodes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-04-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YEpIwHtgpsY"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -9073,21 +9248,38 @@
 							"@value": "Der vulkanische Sternenflottencaptain Solok fordert Sisko und seine Crew zu einem Baseball-Wettkampf in der Holosuite heraus."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2023-12-12",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YaPx92XpMaM"
+							}
 						},
-						"datePublished": "2023-12-12",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/YaPx92XpMaM"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | More Holodeck Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2026-04-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/zeCFE55qRDo"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
