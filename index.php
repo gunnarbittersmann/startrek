@@ -13,7 +13,7 @@
 	$franchise = json_decode($json, TRUE);
 
 	$json = file_get_contents('presentations/presentations.jsonld');
-	$presentations = json_decode($json, TRUE);
+	$presentations = json_decode($json, TRUE)['@graph'];
 ?>
 <!DOCTYPE html>
 <html
