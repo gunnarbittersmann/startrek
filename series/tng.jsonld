@@ -2762,6 +2762,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise nimmt die junge Salia, die künftige Thronfolgerin des Planeten Daled IV, und ihre Gouvernante, die alte Anya, als Passagiere an Bord. Wesley Crusher verliebt sich auf den ersten Blick in Salia und lässt sich von Riker und Guinan dabei helfen, sich auf ein Rendezvous mit Salia einzustellen. Alsbald stellt sich heraus, dass ihre Liebe keine Zukunft hat, da sie, ebenso wie Anya, eine Gestaltwandlerin ist, und als Thronfolgerin den Planeten nicht verlassen können wird."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/0YBLQxPpGIg"
+						}
 					}
 				},
 				{
@@ -8267,6 +8281,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/9xbrbs2TK2c"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qYtineK0KKQ"
+							}
 						}
 					]
 				},
@@ -8867,6 +8895,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "In einer Höhle auf der Erde werden Rückstände außerirdischen Lebens und Datas Kopf entdeckt, die sich dort seit etwa 500 Jahren befinden. Die Angelegenheit untersuchend, glaubt die herbeigerufene Enterprise-Crew eine Erklärung für die Entdeckung auf dem Planeten Devidia II zu finden. Dort angekommen, untersucht ein Außenteam eine Höhle mit ähnlichen Erscheinungen wie in der Höhle auf der Erde. Dabei entdeckt Data Lebensformen, die unsichtbar für das Außenteam sind; dabei gelangt er mittels einer unbeabsichtigten Zeitreise in das San Francisco des Jahres 1893. Dort erspielt er sich beim Poker zunächst etwas Geld für seine Lebenshaltung und für die Konstruktion eines Apparates, mit der er in die Zukunft zu kommunizieren hofft. Außerdem trifft er auf eine Guinan gleichende Frau; bei ihrem gemeinsamen Gespräch werden sie von Samuel Clemens belauscht. Außerirdische in menschlicher Gestalt entziehen Menschen in San Francisco mit einem offensichtlich aus der Zukunft stammenden Apparat Energie und füttern damit ihre Artgenossen in der Höhle. Auf der Enterprise indes motiviert Guinan Picard dazu, sich mit in die zeitliche Verzerrung zu begeben, da sich Guinan und Picard sonst nie begegnen. Zur Untersuchung von Datas Verschwinden in die Verzerrung eingetreten, entdeckt das Außenteam einige übergroße Außerirdische, bevor es ein aus leuchtender Energie bestehendes Tor durchschreitet."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Progenitor Episodes",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-07-31",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/7dKgJwuGMM0"
+						}
 					}
 				}
 			]
@@ -8955,25 +8998,42 @@
 						"@language": "de",
 						"@value": "Das durch das Zeitportal geschrittene Enterprise-Außenteam entdeckt in einer Leichenhalle San Franciscos, dass einigen Menschen die Nervenenergie abgesaugt wurde, wodurch sie starben. Die dafür verantwortlichen Außerirdischen, in Gestalt eines menschlichen Ehepaares befindlich, kann das Außenteam überwältigen und als Gefangene mit in die Höhle nehmen, die den Außerirdischen als Zeitreiseort dient. Das Außenteam trifft wieder mit Data zusammen, der durch den neugierigen Samuel Clemens verfolgt wird. Als Clemens die durch die Zeit Gereisten, die er als Bedrohung empfindet, in der Höhle mit einem Colt bedroht, flieht einer der beiden Außerirdischen per Zeitreise. In dem Moment werden auch Clemens und das Außenteam – mit Ausnahme von Picard und Datas Kopf – in das 24. Jahrhundert versetzt, und zwar wieder in die Höhle auf Devidia II. Nachdem Picard im Beisein der verletzten Guinan von dem anderen Außerirdischen erfahren hat, dass dessen Artgenossen die abgesaugte Energie zum Überleben brauchen, versteckt er in Datas Kopf die Botschaft, die Höhle nicht mit Photonentorpedos zu zerstören. Auf der Enterprise entdeckt La Forge im Kopf von Data, den er unterdessen auf den Körperrumpf reinstalliert hat, die Botschaft, sodass der zum Beenden der Aktivitäten der Außerirdischen dienende Beschuss der Höhle in letzter Sekunde ausgesetzt wird. Dadurch und durch eine an Clemens vor dessen Rückkehr ins 19. Jahrhundert mitgegebene Botschaft für Picard schafft es Picard, in das 24. Jahrhundert zurückzukehren."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Time Travel Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Time Travel Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#5.26" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#6.1" }
+							],
+							"datePublished": "2023-06-30",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ahjQhtTdcYc"
+							}
 						},
-						"itemReviewed": [
-							{ "@id": "https://bittersmann.de/startrek/series/tng#5.26" },
-							{ "@id": "https://bittersmann.de/startrek/series/tng#6.1" }
-						],
-						"datePublished": "2023-06-30",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/ahjQhtTdcYc"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Progenitor Episodes",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-08-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/YyjEJoJ5dww"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -11487,21 +11547,37 @@
 						"@language": "de",
 						"@value": "Unter den Trauergästen bei der Beerdigung ihrer Großmutter Felisa Howard auf dem Planeten Caldos IV sieht Dr. Crusher auch einen Mann, den sie als Ronin identifiziert, einen Liebhaber Felisas. Trotz der Warnung von Felisas ehemaligem Haushälter Ned Quint zündet Crusher die Kerze in dem Kerzenständer an, der Felisa gehörte. Dadurch erscheint ihr Ronin als Geist, der sie darüber informiert, dass Ronin 1647 in Glasgow geboren wurde und sich zunächst in Jessyl Howard, später in deren Tochter, danach in deren Tochter usw. verliebt hatte. Ronin erreicht durch seinen Kontakt mit Crusher, dass sie die Sternenflotte verlässt und sich, Felisas Platz einnehmend, zu ihm als neue Liebhaberin auf den Planeten begibt. Zudem hilft die Enterprise der Kolonie bei der Behebung von Problemen mit deren Wetterkontrollsystem, die sich in zunehmenden Stürmen bemerkbar machen. Als Quint das Wetterkontrollsystem auf Caldos abschalten will, wird er durch Entladungen anaphasischer Energie getötet. Da Data solche Energie auch als von Felisas Grab ausgehend entdeckt, lässt Picard Felisa trotz Ronins Widerstand exhumieren. Nachdem Ronin deshalb Picard, Data und La Forge außer Gefecht gesetzt und Felisa wiederbelebt hat, enthüllt er ggü. Crusher, dass Ronin ein Wesen aus anaphasischer Energie ist und unter Verwendung der Kerze und des Wetterkontrollsystems die Crusher-Familie dazu benutzt hat, körperlich am Leben zu bleiben. Entsetzt darüber, zerstört Crusher die Kerze und Ronins Körper per Phaserbeschuss."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2021-02-19",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
+							}
 						},
-						"datePublished": "2021-02-19",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/vBLGX9q8VvU"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WwG72q5-350"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",

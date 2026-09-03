@@ -2022,7 +2022,22 @@
 							"@language": "de",
 							"@value": "Der Große Nagus Zek, der oberste Ferengi, macht Quark zum Teilhaber an Geschäften der Ferengi mit den Dosi, einer Rasse im Gamma-Quadranten, die zum Dominion gehört."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Progenitor Episodes",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-14",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/YdRjQ4_rcy8"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -3484,7 +3499,21 @@
 							"@language": "de",
 							"@value": "Um seine Gäste zu beeindrucken, erzählt Quark, dass er einen Klingonen, der in Wirklichkeit betrunken in sein eigenes Messer gestürzt ist, im Kampf getötet habe. Grilka, die Frau des Klingonen, kommt nach DS9, um ihre Familienehre wiederherzustellen und Quark als neues Familienoberhaupt zu heiraten."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-08-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/W3OfWc29A_4"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -6634,21 +6663,37 @@
 							"@value": "Durch einen Drehkörper wird die Defiant in die Zeit Captain Kirks zurückversetzt. Sie trifft auf die USS Enterprise NCC-1701, die die Raumstation K7 umkreist. Sisko und seine Mannschaft finden heraus, dass der Mensch, den sie auf Cardassia an Bord genommen haben, in Wirklichkeit ein klingonischer Spion ist, der sich an Captain Kirk rächen will und dadurch die Zeitlinie gefährdet. Es gelingt der Crew der Defiant den Mord zu verhindern und in ihre eigene Zeit zurückzukehren."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Trek Legend Guest Stars Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Trek Legend Guest Stars Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-04-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/DF5xunu0R4s"
+							}
 						},
-						"datePublished": "2023-04-20",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/DF5xunu0R4s"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-08-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MfhnjUOMfFw"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -8329,6 +8374,20 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/v1UHTy_7iEo"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/nFuVCjuLcLU"
+							}
 						}
 					]
 				},
@@ -8649,7 +8708,21 @@
 							"@language": "de",
 							"@value": "Einige Monate später gelingt es Sisko, einen diesen Schritt beinhaltenden Plan umzusetzen, indem er einen eigenen, streng geheimen Plan umsetzt, der mehrere rechtlich und moralisch fragwürdige Schritte beinhaltet, darunter die Weitergabe von biowaffenfähigem Material."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-07-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/4CYWKh3gsBU"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",

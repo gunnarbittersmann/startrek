@@ -2308,6 +2308,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Auf dem Planeten Dekendi III möchte Dr. Phlox von einer, dort auf einer Medizinerkonferenz anwesenden vulkanischen Delegation die neuesten Forschungsergebnisse für die Behandlung des Panara-Syndroms erhalten. Dabei handelt es sich um eine auch tödlich verlaufende Krankheit, die sich Vulkanier bei der Gedankenverschmelzung mit Artgenossen zuziehen können und die T’Pol schon seit einem Jahr hat. Da Gedankenverschmelzungen, bei denen auch Emotionen übertragen werden, unter dem größten Teil der Vulkanier gemeinhin geächtet sind, lehnt es die Delegation ab, Phlox zu helfen – auch, nachdem sie herausgefunden hat, dass T’Pol die Patientin ist, der deshalb – sehr zu Archers Unmut – die baldige Abberufung von der Enterprise droht. Obwohl T’Pol zu der Gedankenverschmelzung einst gegen ihren Willen gezwungen wurde, lehnt sie zunächst Archers Vorschlag ab, gegen das Vorgehen der Delegation zu protestieren. Juris, eines der Delegationsmitglieder, übergibt T’Pol heimlich die neuesten Forschungsergebnisse, durch die sie geheilt würde, und teilt ihr dabei mit, dass er zum Kreise derer gehört, die Gedankenverschmelzungen praktizieren, es aber aus Angst vor Stigmatisierung nicht enthüllen möchten. Als Archer, sich um T’Pol bemühend, einer Anhörung T’Pols vor der Delegation beiwohnt, rettet Juris T’Pol mit der nicht vereinbarten Enthüllung von T’Pols einstiger gedanklicher Vergewaltigung, belastet sich allerdings damit und mit seiner ebenfalls verkündeten Befürwortung von Gedankenverschmelzungen so schwer, dass nun er mit seiner eigenen Abberufung rechnen muss."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-07-27",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/7sRmVvTIr9I"
+						}
 					}
 				},
 				{
