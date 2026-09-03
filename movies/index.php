@@ -38,7 +38,7 @@
 >
 	<head>
 		<meta charset="UTF-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="viewport" content="width=device-width"/>
 		<title><?= htmlSpecialChars($data['name']) ?> movies</title>
 		<link rel="icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
 		<link rel="mask-icon" href="<?= htmlSpecialChars(FAVICON) ?>"/>
