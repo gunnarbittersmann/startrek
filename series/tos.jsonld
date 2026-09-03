@@ -2280,6 +2280,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise befindet sich gerade zwecks Kartografierung im Orbit eines unbekannten Planeten, als sie durch einen kosmischen Impuls erschüttert wird, während die Gravitation des Planeten vorübergehend und unerklärlicherweise auf 0 sinkt. Auf der Oberfläche des Planeten findet ein Außenteam den Mann Lazarus, der dorthin vor dem Wesen geflohen ist, das für den Impuls verantwortlich ist. Auf die Enterprise geholt, erlebt er wiederholt imaginär einen Kampf gegen das Wesen. Er fordert die Siliziumkristalle der Enterprise als Mittel gegen das Wesen, jedoch verweigert Kirk sie ihm. Lazarus behauptet, dass das Wesen, das humanoid ist, zwei Kristalle gestohlen hat und ganze Welten vernichten kann. Indes hat man von der Enterprise aus auf dem Planeten eine neue, unbekannte Strahlungsquelle entdeckt, die in Zusammenhang mit dem Verschwinden der beiden Kristalle zu stehen scheint. Lazarus, der sich wie mit gespaltener Persönlichkeit verhält, gibt sich nun als ewiger Zeitreisender zu erkennen. Spock und Kirk verstehen, dass die Strahlungsquelle aus einem anderen Universum stammt und dass es zwei Lazarus-Individuen geben muss, eins davon als Materie, eins als Antimaterie. Der eine Lazarus stiehlt die Siliziumkristalle von der Enterprise, um damit den anderen Lazarus zu bekämpfen. Schließlich opfert sich der eine Lazarus, um das Universum zu retten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-09-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/oWk_eqxWJtA"
+						}
 					}
 				},
 				{
