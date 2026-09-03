@@ -206,8 +206,8 @@
 						"@value": "Auf einen Notruf reagierend, nimmt die Enterprise eine vor 200 Jahren von dem Raumschiff Valiant ausgesetzte Unfallboje an Bord. Deren Untersuchung ergibt, dass die Valiant, bevor sie die Selbstzerstörungssequenz auslöste, im Schiffscomputer nach Informationen über außersinnliche Wahrnehmung suchte. Die Enterprise durchfliegt – ebenso wie einst die Valiant – eine seltsame Raumbarriere, wodurch neun Crewmitglieder sterben und Enterprise-Navigator Gary Mitchell übernatürliche Kräfte entwickelt, die ständig stärker werden. Dadurch und durch Spocks Erkenntnis, dass Ähnliches auch auf der Valiant geschah und dies letztlich zu ihrer Zerstörung führte, stellt Mitchell eine zunehmende Gefahr für die Enterprise dar. Kirk fasst deshalb den Entschluss, ihn auf einem verlassenen Planeten zwangsweise auszusetzen. Als das Außenteam Mitchell dort zurücklassen will, überwältigt er es. Dr. Elizabeth Dehner, die offenbar auch beim Durchflug der Barriere beeinflusst worden war, hat nun ähnliche Kräfte wie Mitchell. Dieser spielt sich zu einem gottgleichen Wesen auf. Dehner widersteht dessen Einfluss und hilft Kirk dabei, Mitchell zu überwältigen. Dabei kommen Mitchell und Dehner zu Tode."
 					},
 					"review": {
-						"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 						"@type": "Review",
+						"@id": "https://bittersmann.de/startrek/reviews#yWrYvtW9ZN8",
 						"inLanguage": "en",
 						"name": "Retro Review | First Episodes",
 						"creator": {
@@ -217,6 +217,7 @@
 						},
 						"itemReviewed": [
 							{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+							{ "@id": "https://bittersmann.de/startrek/series/tos#0.2" },
 							{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
 						],
 						"datePublished": "2023-01-05",
@@ -602,8 +603,8 @@
 							}
 						},
 						{
-							"@id": "https://bittersmann.de/startrek/reviews/steveshives/tos#0.1-1.3",
 							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#yWrYvtW9ZN8",
 							"inLanguage": "en",
 							"name": "Retro Review | First Episodes",
 							"creator": {
@@ -613,6 +614,7 @@
 							},
 							"itemReviewed": [
 								{ "@id": "https://bittersmann.de/startrek/series/tos#0.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/tos#0.2" },
 								{ "@id": "https://bittersmann.de/startrek/series/tos#1.3" }
 							],
 							"datePublished": "2023-01-05",
@@ -2292,6 +2294,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise befindet sich gerade zwecks Kartografierung im Orbit eines unbekannten Planeten, als sie durch einen kosmischen Impuls erschüttert wird, während die Gravitation des Planeten vorübergehend und unerklärlicherweise auf 0 sinkt. Auf der Oberfläche des Planeten findet ein Außenteam den Mann Lazarus, der dorthin vor dem Wesen geflohen ist, das für den Impuls verantwortlich ist. Auf die Enterprise geholt, erlebt er wiederholt imaginär einen Kampf gegen das Wesen. Er fordert die Siliziumkristalle der Enterprise als Mittel gegen das Wesen, jedoch verweigert Kirk sie ihm. Lazarus behauptet, dass das Wesen, das humanoid ist, zwei Kristalle gestohlen hat und ganze Welten vernichten kann. Indes hat man von der Enterprise aus auf dem Planeten eine neue, unbekannte Strahlungsquelle entdeckt, die in Zusammenhang mit dem Verschwinden der beiden Kristalle zu stehen scheint. Lazarus, der sich wie mit gespaltener Persönlichkeit verhält, gibt sich nun als ewiger Zeitreisender zu erkennen. Spock und Kirk verstehen, dass die Strahlungsquelle aus einem anderen Universum stammt und dass es zwei Lazarus-Individuen geben muss, eins davon als Materie, eins als Antimaterie. Der eine Lazarus stiehlt die Siliziumkristalle von der Enterprise, um damit den anderen Lazarus zu bekämpfen. Schließlich opfert sich der eine Lazarus, um das Universum zu retten."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-09-03",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/oWk_eqxWJtA"
+						}
 					}
 				},
 				{

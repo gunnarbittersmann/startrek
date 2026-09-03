@@ -3528,7 +3528,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/X1E77FB44nE"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3646,7 +3681,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/cUQBJz1c1H0"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3750,7 +3820,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/gaG-2d5UZAw"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 3.5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3846,7 +3951,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/xSi7ifJG28k"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -3942,7 +4082,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/_Rj4y0TgWAk"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -4013,6 +4188,10 @@
 						"name": "Schichtende",
 						"datePublished": "2026-08-27"
 					},
+					"description": {
+						"@language": "en",
+						"@value": "As the Enterprise travels to Starbase 7 for scheduled repairs, the crew prepares for the end of their shift and their much-anticipated weekend. In sickbay, Christine Chapel learns that Joseph M’Benga is considering leaving the Enterprise and has arranged for former chief medical officer Dr. Phil Boyce to potentially replace him. Chapel reacts angrily, but M’Benga points out that she has similarly avoided committing herself permanently to the ship. Their argument is interrupted when the Enterprise encounters an unusual slipstream while traveling at warp that pulls them in and throws them violently off course. The resulting turbulence causes widespread damage, disables communications, and isolates sections of the ship from one another. With the ship accelerating towards a catastrophic warp threshold, the crew determines they have less than an hour before the Enterprise is destroyed. Scotty and cadet A’Sha become trapped and attempt to restore ship systems, Una is seriously injured while restoring artificial gravity, and a laboratory table breaks loose and crushes M’Benga against a wall while saving Christine. While trying to prevent him from dying, she discovers his work involving an unusual form of neutrino radiation and theorizes that the particles present within the slipstream may possess properties capable of repairing his injuries. Scotty deduces that these same neutrinos can also be harnessed to restore the Enterprise’s depleted fuel. With ship sensors still offline, Spock performs a spacewalk to retrieve the necessary information from the ion pod but passes out from radiation sickness in the process. La’An, refusing to leave him behind, performs a spacewalk to retrieve him and performs a mind meld with a barely-conscious Spock to retrieve the information from his memory. The collected data confirms Christine’s theory and she uses the newly-collected neutrinos to save M’Benga while Scotty uses the collected neutrinos to refuel the ship and restore enough power for the crew to regain control."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -4027,7 +4206,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/TMYyns0swLY"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8.9,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
@@ -4079,6 +4293,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/o13B8IL6VAs"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-08-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7467RCw7qs4"
+							}
 						}
 					]
 				},
@@ -4088,6 +4317,12 @@
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
 					"datePublished": "2026-09-03",
+					"duration": "PT45M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnnaDokoza",
+						"name": "Anna Dokoza"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -4098,6 +4333,93 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 							"name": "Bill Wolkoff"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wie Chronitonen durch das Stundenglas",
+						"datePublished": "2026-09-03"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-03",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/WAgC7l8ru0A"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 6.2,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6.5,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-03",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/QtxqBY6W4yk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-03",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Q12A7MOCYck"
+							}
 						}
 					]
 				},
