@@ -4317,6 +4317,7 @@
 					"episodeNumber": "4.7",
 					"name": "Like Chronitons Through the Hourglass",
 					"datePublished": "2026-09-03",
+					"duration": "PT45M",
 					"author": [
 						{
 							"@type": "Person",
@@ -4328,7 +4329,13 @@
 							"@id": "https://bittersmann.de/startrek/people#BillWolkoff",
 							"name": "Bill Wolkoff"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Wie Chronitonen durch das Stundenglas",
+						"datePublished": "2026-09-03"
+					}
 				},
 				{
 					"@type": "TVEpisode",
