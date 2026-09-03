@@ -4318,6 +4318,11 @@
 					"name": "Like Chronitons Through the Hourglass",
 					"datePublished": "2026-09-03",
 					"duration": "PT45M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AnnaDokoza",
+						"name": "Anna Dokoza"
+					},
 					"author": [
 						{
 							"@type": "Person",
