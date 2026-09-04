@@ -818,8 +818,8 @@ EOT;
 																<abbr aria-hidden="true"><?= htmlSpecialChars(initial($creator['name'])) ?></abbr>
 															</span>
 														<?php endforeach; ?>
-													<?php endif; ?>
-												<?php endif; ?>
+													<?php endif; // elseif (is_array($data['review']['creator'])) ?>
+												<?php endif; // ($data['review']['creator']) ?>
 											</summary>
 											<div>
 												<div property="video" typeof="VideoObject" hidden="">
@@ -850,7 +850,7 @@ EOT;
 											</div>
 										</details>
 									</td>
-								<?php else: ?>
+								<?php else: // ($data['review']['video']) ?>
 									<td>
 										<ul>
 											<?php foreach ($data['review'] as $review): ?>
@@ -914,13 +914,13 @@ EOT;
 														</div>
 													</details>
 												</li>
-											<?php endforeach; ?>
+											<?php endforeach; // ($data['review'] as $review) ?>
 										</ul>
 									</td>
-								<?php endif; ?>
+								<?php endif; // ($data['review']['video']) ?>
 							</tr>
 						</tfoot>
-					<?php endif; ?>
+					<?php endif; // ($data['review']) ?>
 				</table>
 			</main>
 			<footer>
