@@ -1750,6 +1750,20 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2025-01-26",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/v2Hpur5XtbU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"name": "Retrospective",
 							"creator": {
 								"@type": "Person",
