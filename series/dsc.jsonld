@@ -218,6 +218,12 @@
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/hI825UX0ngQ"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": 7,
+						"worstRating": 0,
+						"bestRating": 10
 					}
 				}
 			],
