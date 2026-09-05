@@ -3110,16 +3110,16 @@
 						"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
 						"name": "Mr. Know-It-All"
 					},
-					"itemReviewed": [
-						{ "@id": "https://bittersmann.de/startrek/series/dsc#1" },
-						{ "@id": "https://bittersmann.de/startrek/series/dsc#2" },
-						{ "@id": "https://bittersmann.de/startrek/series/dsc#3" },
-						{ "@id": "https://bittersmann.de/startrek/series/dsc#4" }
-					],
 					"datePublished": "2024-04-03",
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/fsgh3ZdbJ9Q"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": 10,
+						"worstRating": 0,
+						"bestRating": 10
 					}
 				}
 			],
