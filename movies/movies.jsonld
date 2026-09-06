@@ -1759,6 +1759,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/v2Hpur5XtbU"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 4,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
