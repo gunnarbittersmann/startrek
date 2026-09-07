@@ -1505,6 +1505,20 @@
 					"description": {
 						"@language": "de",
 						"@value": "Als die Voyager auf eine im Weltall lebende Form in der Art von Geißeltierchen trifft, wird sie unerwartet in den Schwarm dieser Wesen hineingezogen, was zu schwerwiegenden Problemen mit den Schiffssystemen führt. Während die Besatzung versucht, einen Ausweg zu finden, zeigt Kes plötzlich seltsame Symptome, die auf eine Störung ihres Stoffwechsels durch den Schwarm zurückzuführen sind. Dies führt zu einer unerwarteten Entwicklung in Bezug auf Kes’ reproduktive Phase, die sie vor schwierige Entscheidungen stellt. Jede Ocampa erreicht nur einmal im Leben den Zustand des „Elogiums“ und kann nur dann ein Kind bekommen. Währenddessen diskutieren Kathryn und Chakotay über die möglichen Konsequenzen von Kindern an Bord der Voyager. Die Situation wird noch komplizierter, als Kes Neelix bittet, der Vater ihres Kindes zu werden, und er zögert zunächst. Während die Voyager weiterhin vom Schwarm bedroht wird, gelingt es der Crew schließlich, sich durch ein cleveres Manöver zu befreien. Kes entscheidet sich letztendlich dagegen, jetzt ein Kind zu bekommen, aber der Doktor ist optimistisch, dass sie noch eine Chance haben wird, wenn der Schwarm nicht mehr stört. In einer ironischen Wendung erfährt Kathryn, dass ein anderes Besatzungsmitglied, Fähnrich Samantha Wildman, schwanger ist."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-09-07",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/roR3vLSNvmE"
+						}						
 					}
 				},
 				{
@@ -9390,7 +9404,6 @@
 							}
 						}
 					]
-				},
 				{
 					"@type": "TVEpisode",
 					"@id": "https://bittersmann.de/startrek/series/voy#7.21",
