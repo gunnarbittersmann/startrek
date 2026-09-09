@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/snw",
 	"name": "Star Trek: Strange New Worlds",
+	"sameAs": "https://www.wikidata.org/wiki/Q94527193",
 	"identifier": "SNW",
 	"inLanguage": "en",
 	"isBasedOn": {

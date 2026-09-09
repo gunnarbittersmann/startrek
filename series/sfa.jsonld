@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/sfa",
 	"name": "Star Trek: Starfleet Academy",
+	"sameAs": "https://www.wikidata.org/wiki/Q117350388",
 	"identifier": "SFA",
 	"inLanguage": "en",
 	"creator": {

@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/ld",
 	"name": "Star Trek: Lower Decks",
+	"sameAs": "https://www.wikidata.org/wiki/Q62573569",
 	"identifier": "LD",
 	"inLanguage": "en",
 	"isBasedOn": {

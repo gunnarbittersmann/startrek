@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/pic",
 	"name": "Star Trek: Picard",
+	"sameAs": "https://www.wikidata.org/wiki/Q62573305",
 	"identifier": "PIC",
 	"inLanguage": "en",
 	"isBasedOn": {

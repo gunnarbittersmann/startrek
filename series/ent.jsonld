@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/ent",
 	"name": "Star Trek: Enterprise",
+	"sameAs": "https://www.wikidata.org/wiki/Q380519",
 	"identifier": "ENT",
 	"inLanguage": "en",
 	"isBasedOn": {

@@ -13,6 +13,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/vst",
 	"name": "Star Trek: very Short Treks",
+	"sameAs": "https://www.wikidata.org/wiki/Q122241007",
 	"identifier": "VST",
 	"inLanguage": "en",
 	"isBasedOn": {

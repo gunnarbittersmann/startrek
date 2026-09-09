@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/tos",
 	"name": "Star Trek: The Original Series",
+	"sameAs": "https://www.wikidata.org/wiki/Q1077",
 	"identifier": "TOS",
 	"inLanguage": "en",
 	"creator": {
@@ -35,23 +36,23 @@
 		}
 	],
 	"review": {
-		"@type": "Review",
-		"inLanguage": "en",
-		"name": "Retrospective",
-		"creator": {
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
-			"name": "OrangeRiver"
-		},
-		"itemReviewed": [
-			{ "@id": "https://bittersmann.de/startrek/series/tos" },
-			{ "@id": "https://bittersmann.de/startrek/series/tas" }
-		],
-		"datePublished": "2024-03-29",
-		"video": {
-			"@type": "VideoObject",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/Q59bRS3Zq7c"
-		}
+			"@type": "Review",
+			"inLanguage": "en",
+			"name": "Retrospective",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+				"name": "OrangeRiver"
+			},
+			"itemReviewed": [
+				{ "@id": "https://bittersmann.de/startrek/series/tos" },
+				{ "@id": "https://bittersmann.de/startrek/series/tas" }
+			],
+			"datePublished": "2024-03-29",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/Q59bRS3Zq7c"
+			}
 	},
 	"numberOfSeasons": 3,
 	"containsSeason": [

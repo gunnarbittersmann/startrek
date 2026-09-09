@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/tas",
 	"name": "Star Trek: The Animated Series",
+	"sameAs": "https://www.wikidata.org/wiki/Q20922",
 	"identifier": "TAS",
 	"inLanguage": "en",
 	"isBasedOn": {

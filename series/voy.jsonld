@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/voy",
 	"name": "Star Trek: Voyager",
+	"sameAs": "https://www.wikidata.org/wiki/Q156329",
 	"identifier": "VOY",
 	"inLanguage": "en",
 	"isBasedOn": {

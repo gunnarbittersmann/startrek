@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/dsc",
 	"name": "Star Trek: Discovery",
+	"sameAs": "https://www.wikidata.org/wiki/Q21296543",
 	"identifier": "DSC",
 	"inLanguage": "en",
 	"isBasedOn": {

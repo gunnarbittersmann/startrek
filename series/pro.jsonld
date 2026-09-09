@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/pro",
 	"name": "Star Trek: Prodigy",
+	"sameAs": "https://www.wikidata.org/wiki/Q65250765",
 	"identifier": "PRO",
 	"inLanguage": "en",
 	"isBasedOn": {

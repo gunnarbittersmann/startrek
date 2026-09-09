@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/tng",
 	"name": "Star Trek: The Next Generation",
+	"sameAs": "https://www.wikidata.org/wiki/Q16290",
 	"identifier": "TNG",
 	"inLanguage": "en",
 	"isBasedOn": {

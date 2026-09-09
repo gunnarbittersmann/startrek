@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/ds9",
 	"name": "Star Trek: Deep Space Nine",
+	"sameAs": "https://www.wikidata.org/wiki/Q108774",
 	"identifier": "DS9",
 	"inLanguage": "en",
 	"isBasedOn": {
