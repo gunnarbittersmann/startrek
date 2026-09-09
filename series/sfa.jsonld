@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/sfa",
 	"name": "Star Trek: Starfleet Academy",
+	"sameAs": "https://www.wikidata.org/wiki/Q117350388",
 	"identifier": "SFA",
 	"inLanguage": "en",
 	"creator": {
@@ -46,6 +47,52 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(Fernsehserie)"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Ups & Downs From 60 Years Of Star Trek",
+		"creator": {
+			"@type": "Organization",
+			"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+			"name": "TrekCulture"
+		},
+		"datePublished": "2026-09-09",
+		"itemReviewed": [
+			{ "@id": "https://bittersmann.de/startrek/series/tos" },
+			{ "@id": "https://bittersmann.de/startrek/series/tas" },
+			{ "@id": "https://bittersmann.de/startrek/series/tng" },
+			{ "@id": "https://bittersmann.de/startrek/series/ds9" },
+			{ "@id": "https://bittersmann.de/startrek/series/voy" },
+			{ "@id": "https://bittersmann.de/startrek/series/ent" },
+			{ "@id": "https://bittersmann.de/startrek/series/dsc" },
+			{ "@id": "https://bittersmann.de/startrek/series/st" },
+			{ "@id": "https://bittersmann.de/startrek/series/pic" },
+			{ "@id": "https://bittersmann.de/startrek/series/ld" },
+			{ "@id": "https://bittersmann.de/startrek/series/pro" },
+			{ "@id": "https://bittersmann.de/startrek/series/snw" },
+			{ "@id": "https://bittersmann.de/startrek/series/vst" },
+			{ "@id": "https://bittersmann.de/startrek/series/sco" },
+			{ "@id": "https://bittersmann.de/startrek/series/sfa" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q107940" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q465478" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221305" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q471842" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q241218" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q579757" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q723679" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221236" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q673198" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q388319" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q213081" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q171711" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q15929448" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q106948764" }
+		],
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/CI0KP0n52ZI"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{

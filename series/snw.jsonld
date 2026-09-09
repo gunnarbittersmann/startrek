@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/snw",
 	"name": "Star Trek: Strange New Worlds",
+	"sameAs": "https://www.wikidata.org/wiki/Q94527193",
 	"identifier": "SNW",
 	"inLanguage": "en",
 	"isBasedOn": {
@@ -70,6 +71,52 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Ups & Downs From 60 Years Of Star Trek",
+		"creator": {
+			"@type": "Organization",
+			"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+			"name": "TrekCulture"
+		},
+		"datePublished": "2026-09-09",
+		"itemReviewed": [
+			{ "@id": "https://bittersmann.de/startrek/series/tos" },
+			{ "@id": "https://bittersmann.de/startrek/series/tas" },
+			{ "@id": "https://bittersmann.de/startrek/series/tng" },
+			{ "@id": "https://bittersmann.de/startrek/series/ds9" },
+			{ "@id": "https://bittersmann.de/startrek/series/voy" },
+			{ "@id": "https://bittersmann.de/startrek/series/ent" },
+			{ "@id": "https://bittersmann.de/startrek/series/dsc" },
+			{ "@id": "https://bittersmann.de/startrek/series/st" },
+			{ "@id": "https://bittersmann.de/startrek/series/pic" },
+			{ "@id": "https://bittersmann.de/startrek/series/ld" },
+			{ "@id": "https://bittersmann.de/startrek/series/pro" },
+			{ "@id": "https://bittersmann.de/startrek/series/snw" },
+			{ "@id": "https://bittersmann.de/startrek/series/vst" },
+			{ "@id": "https://bittersmann.de/startrek/series/sco" },
+			{ "@id": "https://bittersmann.de/startrek/series/sfa" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q107940" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q465478" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221305" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q471842" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q241218" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q579757" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q723679" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221236" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q673198" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q388319" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q213081" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q171711" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q15929448" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q106948764" }
+		],
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/CI0KP0n52ZI"
+		}
+	},
 	"numberOfSeasons": 5,
 	"containsSeason": [
 		{
@@ -5093,7 +5140,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "A bandaged and amnesiac Pike wakes up in sickbay. M’Benga says that two weeks ago, there was a shuttlecraft accident—he has amnesia and Spock is in a coma so that he requires a “live heart transplant”. Pike visits the ship’s counselor but is interrupted by Uhura, who has just learned that she is Pike’s daughter. The strange events and odd melodramatic speech of his colleagues lead Pike to suspect that their reality has been affected, and he soon learns that Trelane has imprisoned the crew in a soap opera, for his academic project to study human emotion. Meanwhile, La’An has captured Spock’s half-brother Sybok to use as a heart donor. Sybok escapes her, but decides to donate anyway after an emotional speech from La’An. While attempting to deal with his family drama with Uhura, Pike finds a reference to Juliet, Pike’s daughter from the full happy life he experienced with Marie. Juliet says “just because it didn’t happen doesn’t mean that it wasn’t real”, as they reconcile. Both Trelane and his supervisor are moved by the genuine emotion, so she approves his project and the ship is restored to normal. Spock and La’An remain as friends, and Pike consults the counselor to deal with his grief."
+						"@value": "A bandaged Pike wakes up in sickbay. M’Benga says that two weeks ago, a shuttlecraft accident left Pike with amnesia and Spock in a coma so that he requires a “live heart transplant”. Pike visits the ship’s counselor but is interrupted by Uhura, who has just learned that she is Pike’s daughter. The strange events and odd melodramatic speech of his colleagues lead Pike to suspect that supernatural entities may be involved, and he soon learns that Trelane has imprisoned the crew in a soap opera, for his academic project to study human emotion. Meanwhile, La’An has captured Spock’s half-brother Sybok to use as a heart donor. Sybok escapes her, but decides to donate anyway after an emotional speech from La’An. While attempting to resolve his family drama with Uhura, Pike instead meets Juliet, Pike’s daughter from the full happy life he experienced with Marie. Juliet says “just because it didn’t happen doesn’t mean that it wasn’t real”, as they reconcile. Both Trelane and his supervisor are moved by the genuine emotion, so she approves his project and the ship is restored to normal. Spock and La’An remain as friends, and Pike consults the counselor to deal with his grief."
 					},
 					"review": [
 						{
@@ -5173,6 +5220,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Q12A7MOCYck"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/x8EE6F-vIVo"
 							}
 						}
 					]
