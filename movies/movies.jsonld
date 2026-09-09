@@ -51,7 +51,9 @@
 			"hasPart": [
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q107940",
 					"name": "Star Trek: The Motion Picture",
+					"sameAs": "https://www.wikidata.org/wiki/Q107940",
 					"datePublished": "1979-12-07",
 					"director": {
 						"@type": "Person",
@@ -195,7 +197,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q465478",
 					"name": "Star Trek II: The Wrath of Khan",
+					"sameAs": "https://www.wikidata.org/wiki/Q465478",
 					"datePublished": "1982-06-04",
 					"director": {
 						"@type": "Person",
@@ -301,7 +305,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q221305",
 					"name": "Star Trek III: The Search for Spock",
+					"sameAs": "https://www.wikidata.org/wiki/Q221305",
 					"datePublished": "1984-06-01",
 					"director": {
 						"@type": "Person",
@@ -395,7 +401,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q471842",
 					"name": "Star Trek IV: The Voyage Home",
+					"sameAs": "https://www.wikidata.org/wiki/Q471842",
 					"datePublished": "1986-11-26",
 					"director": {
 						"@type": "Person",
@@ -533,7 +541,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q241218",
 					"name": "Star Trek V: The Final Frontier",
+					"sameAs": "https://www.wikidata.org/wiki/Q241218",
 					"datePublished": "1989-06-09",
 					"director": {
 						"@type": "Person",
@@ -659,7 +669,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q579757",
 					"name": "Star Trek VI: The Undiscovered Country",
+					"sameAs": "https://www.wikidata.org/wiki/Q579757",
 					"datePublished": "1991-12-06",
 					"director": {
 						"@type": "Person",
@@ -813,7 +825,9 @@
 			"hasPart": [
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q723679",
 					"name": "Star Trek Generations",
+					"sameAs": "https://www.wikidata.org/wiki/Q723679",
 					"datePublished": "1994-11-18",
 					"director": {
 						"@type": "Person",
@@ -931,7 +945,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q221236",
 					"name": "Star Trek: First Contact",
+					"sameAs": "https://www.wikidata.org/wiki/Q221236",
 					"datePublished": "1996-11-22",
 					"director": {
 						"@type": "Person",
@@ -1049,7 +1065,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q673198",
 					"name": "Star Trek: Insurrection",
+					"sameAs": "https://www.wikidata.org/wiki/Q673198",
 					"datePublished": "1998-12-11",
 					"director": {
 						"@type": "Person",
@@ -1170,7 +1188,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q388319",
 					"name": "Star Trek: Nemesis",
+					"sameAs": "https://www.wikidata.org/wiki/Q388319",
 					"datePublished": "2002-12-13",
 					"director": {
 						"@type": "Person",
@@ -1302,7 +1322,9 @@
 			"hasPart": [
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q213081",
 					"name": "Star Trek",
+					"sameAs": "https://www.wikidata.org/wiki/Q213081",
 					"datePublished": "2009-04-07",
 					"director": {
 						"@type": "Person",
@@ -1418,7 +1440,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q171711",
 					"name": "Star Trek Into Darkness",
+					"sameAs": "https://www.wikidata.org/wiki/Q171711",
 					"datePublished": "2013-05-16",
 					"director": {
 						"@type": "Person",
@@ -1524,7 +1548,9 @@
 				},
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q15929448",
 					"name": "Star Trek Beyond",
+					"sameAs": "https://www.wikidata.org/wiki/Q15929448",
 					"datePublished": "2016-07-07",
 					"director": {
 						"@type": "Person",
@@ -1631,7 +1657,9 @@
 			"hasPart": [
 				{
 					"@type": "Movie",
+					"@id": "https://bittersmann.de/startrek/movies#Q106948764",
 					"name": "Star Trek: Section 31",
+					"sameAs": "https://www.wikidata.org/wiki/Q106948764",
 					"datePublished": "2025-01-24",
 					"director": {
 						"@type": "Person",
