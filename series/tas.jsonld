@@ -1024,6 +1024,21 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-09-10",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/1V5QsDxnK-w"
+						}
 					}
 				},
 				{
