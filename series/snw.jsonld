@@ -5245,10 +5245,22 @@
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
 					"datePublished": "2026-09-10",
+					"duration": "P1HT3M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
+						"name": "Sharon Lewis"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 						"name": "Alan B. McElroy"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Verhältnismäßigkeiten",
+						"datePublished": "2026-09-10"
 					}
 				},
 				{
