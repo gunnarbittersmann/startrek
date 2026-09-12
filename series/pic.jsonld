@@ -2307,6 +2307,25 @@
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/05Bp1usR43c"
 					}
+				},
+				{
+					"@type": "Review",
+					"isPartOf": {
+						"@id":"https://bittersmann.de/startrek/reviews#HV4eJyuz22M"
+					},
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+						"name": "Mr. Know-It-All"
+					},
+					"datePublished": "2023-04-20",
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": 9,
+						"worstRating": 0,
+						"bestRating": 10
+					}
 				}
 			],
 			"numberOfEpisodes": 10,
@@ -2429,6 +2448,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/zm_-Kd227EM"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -2558,6 +2583,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/rOooPcnRzHE"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -2687,6 +2718,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/WinegpE4Ljk"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -2816,6 +2853,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/JezRwYyUjbo"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -2945,6 +2988,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Z8lSdbeKkZo"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -3067,6 +3116,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/TzcFRV5LvVg"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -3189,6 +3244,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/c8Z-Nby6roQ"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						}
 					]
@@ -3296,6 +3357,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/b6nOXD_wAU8"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -3435,6 +3502,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/yNNcW19cpWY"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 10,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
@@ -3547,6 +3620,7 @@
 						},
 						{
 							"@type": "Review",
+							"@id":"https://bittersmann.de/startrek/reviews#HV4eJyuz22M",
 							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
@@ -3557,6 +3631,12 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/HV4eJyuz22M"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 0,
+								"bestRating": 10
 							}
 						},
 						{
