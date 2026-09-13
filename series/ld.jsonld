@@ -1747,7 +1747,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1831,7 +1831,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1915,7 +1915,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1998,7 +1998,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2081,7 +2081,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -2184,7 +2184,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
