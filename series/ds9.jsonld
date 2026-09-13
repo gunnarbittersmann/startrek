@@ -8434,7 +8434,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nFuVCjuLcLU"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
+										"name": "Tawny Newsome"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 5
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+										"name": "Andrew Ti"
+									},
+									"ratingValue": 4.5,
+									"worstRating": 0,
+									"bestRating": 5
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#JessieGender",
+										"name": "Jessie Gender"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 5
+								}
+							]
 						}
 					]
 				},
