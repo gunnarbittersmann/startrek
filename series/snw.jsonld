@@ -5236,6 +5236,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/x8EE6F-vIVo"
 							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -5359,6 +5378,44 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/fAgSyOol3S0"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.8" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cZ6fy0XEL04"
 							}
 						}
 					]
