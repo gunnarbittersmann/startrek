@@ -3818,25 +3818,6 @@
 						},
 						{
 							"@type": "Review",
-							"inLanguage": "de",
-							"name": "Recap",
-							"creator": {
-								"@type": "Person",
-								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
-								"name": "Trek Welten"
-							},
-							"itemReviewed": [
-								{ "@id": "https://bittersmann.de/startrek/series/ld#5.1" },
-								{ "@id": "https://bittersmann.de/startrek/series/ld#5.2" }
-							],
-							"datePublished": "2024-10-24",
-							"video": {
-								"@type": "VideoObject",
-								"embedUrl": "https://www.youtube-nocookie.com/embed/jDrQ-_CdlK0"
-							}
-						},
-						{
-							"@type": "Review",
 							"isPartOf": {
 								"@id": "https://bittersmann.de/startrek/reviews#cmg7GJurMj4"
 							},
@@ -3871,6 +3852,25 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/cmg7GJurMj4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "de",
+							"name": "Recap",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TrekWelten",
+								"name": "Trek Welten"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/ld#5.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/ld#5.2" }
+							],
+							"datePublished": "2024-10-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/jDrQ-_CdlK0"
 							}
 						}
 					]
