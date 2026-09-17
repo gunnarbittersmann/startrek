@@ -235,7 +235,7 @@
 					"reviewRating": {
 						"@type": "Rating",
 						"ratingValue": 9,
-						"worstRating": 0,
+						"worstRating": 1,
 						"bestRating": 10
 					}
 				}
@@ -488,7 +488,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -613,7 +613,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -740,7 +740,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -861,7 +861,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -982,7 +982,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1088,7 +1088,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1194,7 +1194,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1293,7 +1293,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1400,7 +1400,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1582,7 +1582,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1717,7 +1717,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1846,7 +1846,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1982,7 +1982,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -2118,7 +2118,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2239,7 +2239,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2356,7 +2356,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -2484,7 +2484,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2615,7 +2615,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2729,7 +2729,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2965,7 +2965,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3094,7 +3094,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -3254,7 +3254,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3376,7 +3376,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3520,7 +3520,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3642,7 +3642,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3764,7 +3764,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3886,7 +3886,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4001,7 +4001,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 6,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4123,7 +4123,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4322,7 +4322,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -4495,7 +4495,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -4654,7 +4654,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4936,7 +4936,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -5102,7 +5102,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -5236,6 +5236,25 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/x8EE6F-vIVo"
 							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -5261,6 +5280,10 @@
 						"inLanguage": "de",
 						"name": "Verhältnismäßigkeiten",
 						"datePublished": "2026-09-10"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Pike’s landing party beam down, following a possible distress call, and enter a cave where they are out of contact. Just then, Admiral Reeger takes command of the ship to follow traces of a cloaked ship, believed to have killed millions in a previous attack, placing the visiting James Kirk as first officer. They track the ship to a planet with 5000 inhabitants, and Reeger orders the Enterprise to wipe all life there. When Kirk questions this and then attempts to contact Starfleet covertly, Reeger sends him to the brig, where he escapes from La’An and consults with M’Benga (who served with Reeger and also Kirk’s father). Meanwhile, in the cave, the call was faked by Andorian pirates who capture the party and demand Starfleet command codes. Uhura pretends to comply, but instead uses their equipment to disable and then singlehandedly defeat them. Kirk is recaptured, claims to have sabotaged the phasers, and goads Reeger into such irrationality that M’Benga relieves him. Later M’Benga confesses to drugging Reeger with cordrazine, risking his career, though it was actually Kirk that did it. Uhura is promoted Lieutenant Junior, though she regrets that her mentee A’Sha (stabbed by the pirates) plans to leave Starfleet."
 					},
 					"review": [
 						{
@@ -5316,6 +5339,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NYOuxWXnlg4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -5326,6 +5364,59 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ANQ1x3RgkdE"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fAgSyOol3S0"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.8" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cZ6fy0XEL04"
+							}
 						}
 					]
 				},
@@ -5335,11 +5426,104 @@
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
 					"datePublished": "2026-09-17",
+					"duration": "P49M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
+						"name": "Sydney Freeland"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
 						"name": "Onitra Johnson"
-					}
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Es La’an einmal",
+						"datePublished": "2026-09-17"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-hqk-EccUXM"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6.7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 4.8,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hL91dPMHJ6w"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Eedk2AHCscc"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",

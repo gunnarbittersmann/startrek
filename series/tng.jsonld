@@ -9336,6 +9336,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise ist in einen Sternenschwarm geflogen, um ihn zu kartografieren. Um die Arbeiten zu beschleunigen, verwendet man auch Energie aus dem Warpantrieb. Alsbald erleben mehrere Crewmitglieder merkwürdige Dinge und erhalten fragmentarische Erinnerungen: La Forges Visor versagt vorübergehend und Crusher diagnostiziert, dass Rikers Arm amputiert und operativ reimplantiert worden ist. Übereinstimmend erzeugen die betroffenen Crewmitglieder im Holodeck auf Basis ihrer bislang unerklärlichen Erinnerungsfragmente eine Simulation eines OP-Tisches. Zudem tritt in einem der Frachträume eine Emissionsquelle von Subraumpartikeln auf, die sich vergrößert und einen baldigen Hüllenbruch zu verursachen droht. Nachdem die Abwesenheit zweier Crewmitglieder festgestellt ist und eines davon bei seiner Rückkehr zu Tode kommt, fällt der Verdacht der Crew auf Außerirdische, die die Crewmitglieder in den Subraum entführt haben. Um das Phänomen zu erkunden, lässt sich Riker ausgestattet mit einem Peilgerät abermals in den Subraum entführen, wo er sich und das andere Crewmitglied auf besagten OP-Tischen wiederfindet, an denen die Außerirdischen mit ihnen experimentieren. Riker rettet seine Kollegin, indem er mit ihr durch den Subraumspalt auf die Enterprise flieht, kurz bevor der Spalt durch Übermittlung eines von der Crew veranlassten Gravitonimpulses kollabiert. Die Führungsoffiziere finden keine Erklärung für den Zweck der Entführungen durch die Außerirdischen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-09-17",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/ApsRQxcbW4k"
+						}
 					}
 				},
 				{
