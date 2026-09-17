@@ -5426,10 +5426,22 @@
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
 					"datePublished": "2026-09-17",
+					"duration": "P49M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
+						"name": "Sydney Freeland"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
 						"name": "Onitra Johnson"
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Es La’an einmal",
+						"datePublished": "2026-09-17"
 					}
 				},
 				{
