@@ -5379,7 +5379,21 @@
 							"@language": "de",
 							"@value": "Als Quark Rom und dessen Sohn Nog mit einem geschenkten Raumschiff zur Sternenflottenakademie auf der Erde bringt, werden die drei wegen technischer Probleme in das Jahr 1947 versetzt und in einer nordamerikanischen Militärbasis inhaftiert, von wo sie schließlich mit der Hilfe des heimlich mitgereisten Odo wieder fliehen und in ihre Zeit zurückkehren können."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-09-21",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/LQ2cKng-0AM"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
