@@ -5570,6 +5570,12 @@
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
 					"datePublished": "2026-09-24",
+					"duration": "P1H2M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -5581,7 +5587,13 @@
 							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
 							"name": "Robbie Thompson"
 						}
-					]
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Enterprise von morgen",
+						"datePublished": "2026-09-24"
+					}
 				}
 			]
 		}
