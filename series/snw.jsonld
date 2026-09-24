@@ -5283,7 +5283,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "Pike’s landing party beam down, following a possible distress call, and enter a cave where they are out of contact. Just then, Admiral Reeger takes command of the ship to follow traces of a cloaked ship, believed to have killed millions in a previous attack, placing the visiting James Kirk as first officer. They track the ship to a planet with 5000 inhabitants, and Reeger orders the Enterprise to wipe all life there. When Kirk questions this and then attempts to contact Starfleet covertly, Reeger sends him to the brig, where he escapes from La’An and consults with M’Benga (who served with Reeger and also Kirk’s father). Meanwhile, in the cave, the call was faked by Andorian pirates who capture the party and demand Starfleet command codes. Uhura pretends to comply, but instead uses their equipment to disable and then singlehandedly defeat them. Kirk is recaptured, claims to have sabotaged the phasers, and goads Reeger into such irrationality that M’Benga relieves him. Later M’Benga confesses to drugging Reeger with cordrazine, risking his career, though it was actually Kirk that did it. Uhura is promoted Lieutenant Junior, though she regrets that her mentee A’Sha (stabbed by the pirates) plans to leave Starfleet."
+						"@value": "Pike’s landing party beam down, following a possible distress call, and enter a cave where they are out of contact. Just then, Admiral Reeger takes command of the ship to follow traces of a cloaked ship, believed to have killed millions in a previous attack, placing the visiting James Kirk as first officer. They track the ship to a planet with 5000 inhabitants, and Reeger orders the Enterprise to eliminate all life there. When Kirk questions this and then attempts to contact Starfleet covertly, Reeger sends him to the brig, where he escapes from La’An and consults with M’Benga (who served with Reeger and also Kirk’s father). Meanwhile, in the cave, the call was faked by Andorian pirates who capture the party and demand Starfleet command codes. Uhura pretends to comply, but instead uses their equipment to disable and then singlehandedly defeat them. Kirk is recaptured, claims to have sabotaged the phasers, and goads Reeger into such irrationality that M’Benga relieves him. Later M’Benga confesses to drugging Reeger with cordrazine, risking his career, though actually Kirk did this. Uhura is promoted to Lieutenant (JG), though she regrets that her mentee A’Sha (stabbed by the pirates) plans to leave Starfleet."
 					},
 					"review": [
 						{
@@ -5443,6 +5443,10 @@
 						"name": "Es La’an einmal",
 						"datePublished": "2026-09-17"
 					},
+					"description": {
+						"@language": "en",
+						"@value": "While La’An struggles with psychological issues caused by her Augment DNA, the Enterprise encounters a mysterious disc-shaped world traveling through space. La’An accompanies Pike, Spock and Pelia on an exploration mission on the planet, which turns out to be the Elysian Kingdom, created by Dr M’Benga’s sick daughter, and populated by fantasy versions of the Enterprise crew. After the expedition is captured, La’An reluctantly poses as Princess Thalia, who is challenging the tyrannical Queen Neve. While Pike and Spock‘s fantasy alter egos beam aboard the Enterprise (and use the latter’s magic to pose as their originals) to escape Neve, Pelia poses as the fantasy author Benny Russell. Neve transforms herself into a dragon and pursues Pike and Spock, leading to a brief space skirmish with the Enterprise. After Kirk’s fantasy alter ego is transformed into a werewolf, La’An battles her fantasy alter ego and makes peace with her inner struggle. Neve ends her attack and makes peace with the Enterprise, gifting La’An with a dog named Runa. Pelia remains with the habitat to bring it to port."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -5522,6 +5526,41 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Eedk2AHCscc"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7YFICjEQctE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E9iSAHi9734"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -5531,6 +5570,12 @@
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
 					"datePublished": "2026-09-24",
+					"duration": "P1H2M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -5541,6 +5586,78 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
 							"name": "Robbie Thompson"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Enterprise von morgen",
+						"datePublished": "2026-09-24"
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/knN1H9v1HYs"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6.5,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pxAJVjCrxEE"
+							}
 						}
 					]
 				}
