@@ -11363,6 +11363,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Worf kehrt per Shuttle von einem Bat’leth-Wettkampf zur Enterprise zurück. Dort überraschen ihn seine Kollegen mit einer Feier zu seinem Geburtstag. Dabei und auch später an anderen Orten auf der Enterprise erlebt er mehrfach Schwindelgefühle, nach denen er sich jedes Mal in einer anderen Realität wiederfindet. In einer davon ist er mit Troi verheiratet und Wesley Crusher dient auf der Brücke als taktischer Offizier, während Picard schon seit Jahren tot ist. Worf erlebt zahlreiche Diskontinuitäten, d. h. Dinge und Umstände, die ihm bislang selbstverständlich waren, stellen sich ihm plötzlich als inexistent oder anders dar. In einer der Realitäten erkennt Data die Ursache für Worfs Schicksal: Worfs Quantensignatur ist anders als die der anderen Enterprise-Bewohner. Worf kam während der Rückkehr zur Enterprise mit einem Quantenspalt im Raum-Zeit-Kontinuum in Kontakt, das wie ein Schlüsselloch viele andere Quantenrealitäten durchschneidet. Weil bei den Wechseln Worfs in eine andere Realität stets La Forge in seiner Nähe war, erkennt Data, dass La Forges Visor den Effekt des Quantenflusses, in dem sich Worf befindet, intensiviert hat. Die Crew der Realität, in der Worf als erster Offizier dient, hilft ihm bei der Rückkehr in seine ursprüngliche Realität, indem sie ihn per Shuttle den Quantenspalt durchqueren lässt, mit dem er in Kontakt gekommen war."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-09-24",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Wegafcco0PE"
+						}
 					}
 				},
 				{
