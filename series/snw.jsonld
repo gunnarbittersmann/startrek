@@ -5608,7 +5608,42 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/knN1H9v1HYs"
-							}
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6.5,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
 						},
 						{
 							"@type": "Review",
