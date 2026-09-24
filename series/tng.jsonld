@@ -5418,6 +5418,24 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/1WBbAfLLM7E"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#TheArtOfStorytelling",
+								"name": "The Art of Storytelling"
+							},
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/tng#3.26" },
+								{ "@id": "https://bittersmann.de/startrek/series/tng#4.1" }
+							],
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/PPg3TwgehAw"
+							}						
 						}
 					]
 				},
