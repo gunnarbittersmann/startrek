@@ -4157,6 +4157,23 @@
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_4"
 				}	
 			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-09-30",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/W3obaXgjWOs"
+					}
+				}
+			],
 			"numberOfEpisodes": 10,
 			"episode": [
 				{
@@ -5445,7 +5462,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "While La’An struggles with psychological issues caused by her Augment DNA, the Enterprise encounters a mysterious disc-shaped world traveling through space. La’An accompanies Pike, Spock and Pelia on an exploration mission on the planet, which turns out to be the Elysian Kingdom, created by Dr M’Benga’s sick daughter, and populated by fantasy versions of the Enterprise crew. After the expedition is captured, La’An reluctantly poses as Princess Thalia, who is challenging the tyrannical Queen Neve. While Pike and Spock‘s fantasy alter egos beam aboard the Enterprise (and use the latter’s magic to pose as their originals) to escape Neve, Pelia poses as the fantasy author Benny Russell. Neve transforms herself into a dragon and pursues Pike and Spock, leading to a brief space skirmish with the Enterprise. After Kirk’s fantasy alter ego is transformed into a werewolf, La’An battles her fantasy alter ego and makes peace with her inner struggle. Neve ends her attack and makes peace with the Enterprise, gifting La’An with a dog named Runa. Pelia remains with the habitat to bring it to port."
+						"@value": "While La’An struggles with psychological issues caused by her Augment DNA, the Enterprise encounters a mysterious disc-shaped world traveling through space. La’An accompanies Pike, Spock and Pelia on an exploration mission on the planet, which turns out to be the Elysian Kingdom, created by Dr M’Benga’s sick daughter, and populated by fantasy versions of the Enterprise crew. After the expedition is captured, La’An reluctantly poses as Princess Thalia, who is challenging the tyrannical Queen Neve. While Pike and Spock’s fantasy alter egos beam aboard the Enterprise (and use the latter’s magic to pose as their originals) to escape Neve, Pelia poses as the fantasy author Benny Russell. Neve transforms herself into a dragon and pursues Pike and Spock, leading to a brief space skirmish with the Enterprise. After Kirk’s fantasy alter ego is transformed into a werewolf, La’An battles her fantasy alter ego and makes peace with her inner struggle. Neve ends her attack and makes peace with the Enterprise, gifting La’An with a dog named Runa. Pelia remains with the habitat to bring it to port."
 					},
 					"review": [
 						{
@@ -5594,6 +5611,10 @@
 						"name": "Die Enterprise von morgen",
 						"datePublished": "2026-09-24"
 					},
+					"description": {
+						"@language": "en",
+						"@value": "The Enterprise is sent to study a white hole when an explosion occurs. Uhura encounters a duplicate of herself, who reveals that she is from one year in the future, when Pike has become admiral, and James Kirk has become captain and begun the Enterprise’s next five-year mission starting with investigating a black hole. Both Uhuras learn that Mr. Scott has been killed in the explosion, and work with each other and Spock across time to resolve the situation. The nature of the explosion and temporal anomaly is revealed to be caused by an entity of pure energy being ‘birthed’ between the two singularities, which the crew dubs a ‘space baby’. The alien’s caretakers restore the timeline, and both Uhuras bid each other farewell."
+					},
 					"review": [
 						{
 							"@type": "Review",
@@ -5648,6 +5669,21 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TdHXY29yxBE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
 							"creator": {
 								"@type": "Person",
 								"@id": "https://bittersmann.de/startrek/people#JessieGender",
@@ -5657,6 +5693,41 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/pxAJVjCrxEE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KpL02j9PxDM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bbpOyus0Z8Y"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 10,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
