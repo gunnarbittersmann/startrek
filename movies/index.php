@@ -20,9 +20,6 @@
 		if ($name == 'Trek Welten') {
 			return 'W';
 		}
-		if ($name == 'Starter Trek') {
-			return 'Y';
-		}
 		if (str_starts_with($name, 'Mr. ')) {
 			return $name[4];
 		}
