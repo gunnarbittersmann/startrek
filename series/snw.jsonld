@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/snw",
 	"name": "Star Trek: Strange New Worlds",
+	"sameAs": "https://www.wikidata.org/wiki/Q94527193",
 	"identifier": "SNW",
 	"inLanguage": "en",
 	"isBasedOn": {
@@ -70,6 +71,52 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Ups & Downs From 60 Years Of Star Trek",
+		"creator": {
+			"@type": "Organization",
+			"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+			"name": "TrekCulture"
+		},
+		"datePublished": "2026-09-09",
+		"itemReviewed": [
+			{ "@id": "https://bittersmann.de/startrek/series/tos" },
+			{ "@id": "https://bittersmann.de/startrek/series/tas" },
+			{ "@id": "https://bittersmann.de/startrek/series/tng" },
+			{ "@id": "https://bittersmann.de/startrek/series/ds9" },
+			{ "@id": "https://bittersmann.de/startrek/series/voy" },
+			{ "@id": "https://bittersmann.de/startrek/series/ent" },
+			{ "@id": "https://bittersmann.de/startrek/series/dsc" },
+			{ "@id": "https://bittersmann.de/startrek/series/st" },
+			{ "@id": "https://bittersmann.de/startrek/series/pic" },
+			{ "@id": "https://bittersmann.de/startrek/series/ld" },
+			{ "@id": "https://bittersmann.de/startrek/series/pro" },
+			{ "@id": "https://bittersmann.de/startrek/series/snw" },
+			{ "@id": "https://bittersmann.de/startrek/series/vst" },
+			{ "@id": "https://bittersmann.de/startrek/series/sco" },
+			{ "@id": "https://bittersmann.de/startrek/series/sfa" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q107940" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q465478" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221305" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q471842" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q241218" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q579757" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q723679" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221236" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q673198" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q388319" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q213081" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q171711" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q15929448" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q106948764" }
+		],
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/CI0KP0n52ZI"
+		}
+	},
 	"numberOfSeasons": 5,
 	"containsSeason": [
 		{
@@ -188,7 +235,7 @@
 					"reviewRating": {
 						"@type": "Rating",
 						"ratingValue": 9,
-						"worstRating": 0,
+						"worstRating": 1,
 						"bestRating": 10
 					}
 				}
@@ -441,7 +488,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -566,7 +613,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -693,7 +740,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -814,7 +861,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -935,7 +982,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1041,7 +1088,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1147,7 +1194,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1246,7 +1293,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1353,7 +1400,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -1535,7 +1582,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1670,7 +1717,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1799,7 +1846,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -1935,7 +1982,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -2071,7 +2118,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2192,7 +2239,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2309,7 +2356,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -2437,7 +2484,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2568,7 +2615,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2682,7 +2729,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -2918,7 +2965,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 10,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3047,7 +3094,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -3207,7 +3254,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3329,7 +3376,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3473,7 +3520,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3595,7 +3642,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 9,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3717,7 +3764,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3839,7 +3886,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -3954,7 +4001,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 6,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4076,7 +4123,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4109,6 +4156,23 @@
 					},
 					"url": "https://de.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds/Staffel_4"
 				}	
+			],
+			"review": [
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"name": "Trek, Actually",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SteveShives",
+						"name": "Steve Shives"
+					},
+					"datePublished": "2026-09-30",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/W3obaXgjWOs"
+					}
+				}
 			],
 			"numberOfEpisodes": 10,
 			"episode": [
@@ -4275,7 +4339,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -4448,7 +4512,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						},
@@ -4607,7 +4671,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -4889,7 +4953,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 8,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -5055,7 +5119,7 @@
 							"reviewRating": {
 								"@type": "Rating",
 								"ratingValue": 7.5,
-								"worstRating": 0,
+								"worstRating": 1,
 								"bestRating": 10
 							}
 						}
@@ -5093,7 +5157,7 @@
 					},
 					"description": {
 						"@language": "en",
-						"@value": "A bandaged and amnesiac Pike wakes up in sickbay. M’Benga says that two weeks ago, there was a shuttlecraft accident—he has amnesia and Spock is in a coma so that he requires a “live heart transplant”. Pike visits the ship’s counselor but is interrupted by Uhura, who has just learned that she is Pike’s daughter. The strange events and odd melodramatic speech of his colleagues lead Pike to suspect that their reality has been affected, and he soon learns that Trelane has imprisoned the crew in a soap opera, for his academic project to study human emotion. Meanwhile, La’An has captured Spock’s half-brother Sybok to use as a heart donor. Sybok escapes her, but decides to donate anyway after an emotional speech from La’An. While attempting to deal with his family drama with Uhura, Pike finds a reference to Juliet, Pike’s daughter from the full happy life he experienced with Marie. Juliet says “just because it didn’t happen doesn’t mean that it wasn’t real”, as they reconcile. Both Trelane and his supervisor are moved by the genuine emotion, so she approves his project and the ship is restored to normal. Spock and La’An remain as friends, and Pike consults the counselor to deal with his grief."
+						"@value": "A bandaged Pike wakes up in sickbay. M’Benga says that two weeks ago, a shuttlecraft accident left Pike with amnesia and Spock in a coma so that he requires a “live heart transplant”. Pike visits the ship’s counselor but is interrupted by Uhura, who has just learned that she is Pike’s daughter. The strange events and odd melodramatic speech of his colleagues lead Pike to suspect that supernatural entities may be involved, and he soon learns that Trelane has imprisoned the crew in a soap opera, for his academic project to study human emotion. Meanwhile, La’An has captured Spock’s half-brother Sybok to use as a heart donor. Sybok escapes her, but decides to donate anyway after an emotional speech from La’An. While attempting to resolve his family drama with Uhura, Pike instead meets Juliet, Pike’s daughter from the full happy life he experienced with Marie. Juliet says “just because it didn’t happen doesn’t mean that it wasn’t real”, as they reconcile. Both Trelane and his supervisor are moved by the genuine emotion, so she approves his project and the ship is restored to normal. Spock and La’An remain as friends, and Pike consults the counselor to deal with his grief."
 					},
 					"review": [
 						{
@@ -5174,6 +5238,40 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Q12A7MOCYck"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/x8EE6F-vIVo"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -5183,11 +5281,161 @@
 					"episodeNumber": "4.8",
 					"name": "Orders of Magnitude",
 					"datePublished": "2026-09-10",
+					"duration": "P1HT3M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SharonLewis",
+						"name": "Sharon Lewis"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#AlanBMcElroy",
 						"name": "Alan B. McElroy"
-					}
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Verhältnismäßigkeiten",
+						"datePublished": "2026-09-10"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "Pike’s landing party beam down, following a possible distress call, and enter a cave where they are out of contact. Just then, Admiral Reeger takes command of the ship to follow traces of a cloaked ship, believed to have killed millions in a previous attack, placing the visiting James Kirk as first officer. They track the ship to a planet with 5000 inhabitants, and Reeger orders the Enterprise to eliminate all life there. When Kirk questions this and then attempts to contact Starfleet covertly, Reeger sends him to the brig, where he escapes from La’An and consults with M’Benga (who served with Reeger and also Kirk’s father). Meanwhile, in the cave, the call was faked by Andorian pirates who capture the party and demand Starfleet command codes. Uhura pretends to comply, but instead uses their equipment to disable and then singlehandedly defeat them. Kirk is recaptured, claims to have sabotaged the phasers, and goads Reeger into such irrationality that M’Benga relieves him. Later M’Benga confesses to drugging Reeger with cordrazine, risking his career, though actually Kirk did this. Uhura is promoted to Lieutenant (JG), though she regrets that her mentee A’Sha (stabbed by the pirates) plans to leave Starfleet."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/l2sx9fyqBHo"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8.8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 7.9,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NYOuxWXnlg4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/ANQ1x3RgkdE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/fAgSyOol3S0"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#cZ6fy0XEL04",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-15",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.7" },
+								{ "@id": "https://bittersmann.de/startrek/series/snw#4.8" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/cZ6fy0XEL04"
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -5195,11 +5443,143 @@
 					"episodeNumber": "4.9",
 					"name": "Once La’An a Time",
 					"datePublished": "2026-09-17",
+					"duration": "P49M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#SydneyFreeland",
+						"name": "Sydney Freeland"
+					},
 					"author": {
 						"@type": "Person",
 						"@id": "https://bittersmann.de/startrek/people#OnitraJohnson",
 						"name": "Onitra Johnson"
-					}
+					},
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Es La’an einmal",
+						"datePublished": "2026-09-17"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "While La’An struggles with psychological issues caused by her Augment DNA, the Enterprise encounters a mysterious disc-shaped world traveling through space. La’An accompanies Pike, Spock and Pelia on an exploration mission on the planet, which turns out to be the Elysian Kingdom, created by Dr M’Benga’s sick daughter, and populated by fantasy versions of the Enterprise crew. After the expedition is captured, La’An reluctantly poses as Princess Thalia, who is challenging the tyrannical Queen Neve. While Pike and Spock’s fantasy alter egos beam aboard the Enterprise (and use the latter’s magic to pose as their originals) to escape Neve, Pelia poses as the fantasy author Benny Russell. Neve transforms herself into a dragon and pursues Pike and Spock, leading to a brief space skirmish with the Enterprise. After Kirk’s fantasy alter ego is transformed into a werewolf, La’An battles her fantasy alter ego and makes peace with her inner struggle. Neve ends her attack and makes peace with the Enterprise, gifting La’An with a dog named Runa. Pelia remains with the habitat to bring it to port."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-hqk-EccUXM"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 5,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6.7,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 4.8,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hL91dPMHJ6w"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Eedk2AHCscc"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-20",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7YFICjEQctE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-18",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/E9iSAHi9734"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -5207,6 +5587,12 @@
 					"episodeNumber": "4.10",
 					"name": "Tomorrow’s Enterprise",
 					"datePublished": "2026-09-24",
+					"duration": "P1H2M",
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#ChrisFisher",
+						"name": "Chris Fisher"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -5217,6 +5603,132 @@
 							"@type": "Person",
 							"@id": "https://bittersmann.de/startrek/people#RobbieThompson",
 							"name": "Robbie Thompson"
+						}
+					],
+					"workTranslation": {
+						"@type": "TVEpisode",
+						"inLanguage": "de",
+						"name": "Die Enterprise von morgen",
+						"datePublished": "2026-09-24"
+					},
+					"description": {
+						"@language": "en",
+						"@value": "The Enterprise is sent to study a white hole when an explosion occurs. Uhura encounters a duplicate of herself, who reveals that she is from one year in the future, when Pike has become admiral, and James Kirk has become captain and begun the Enterprise’s next five-year mission starting with investigating a black hole. Both Uhuras learn that Mr. Scott has been killed in the explosion, and work with each other and Spock across time to resolve the situation. The nature of the explosion and temporal anomaly is revealed to be caused by an entity of pure energy being ‘birthed’ between the two singularities, which the crew dubs a ‘space baby’. The alien’s caretakers restore the timeline, and both Uhuras bid each other farewell."
+					},
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "WTH Just Happened?",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/knN1H9v1HYs"
+							},
+							"reviewRating": [
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#EllieLittlechild",
+										"name": "Ellie Littlechild"
+									},
+									"ratingValue": 8,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#SeanFerrick",
+										"name": "Seán Ferrick"
+									},
+									"ratingValue": 6.5,
+									"worstRating": 0,
+									"bestRating": 10
+								},
+								{
+									"@type": "Rating",
+									"author": {
+										"@type": "Person",
+										"@id": "https://bittersmann.de/startrek/people#TomRobertsFinn",
+										"name": "Tom Roberts-Finn"
+									},
+									"ratingValue": 6,
+									"worstRating": 0,
+									"bestRating": 10
+								}
+							]
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2026-09-25",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TdHXY29yxBE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#JessieGender",
+								"name": "Jessie Gender"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pxAJVjCrxEE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Second Opinion with Dr. Trek",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#LarryNemecek",
+								"name": "Larry Nemecek"
+							},
+							"datePublished": "2026-09-27",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/KpL02j9PxDM"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-09-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/bbpOyus0Z8Y"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 10,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				}

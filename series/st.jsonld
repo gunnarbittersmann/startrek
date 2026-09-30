@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/st",
 	"name": "Star Trek: Short Treks",
+	"sameAs": "https://www.wikidata.org/wiki/Q56816581",
 	"identifier": "ST",
 	"inLanguage": "en",
 	"isBasedOn": {
