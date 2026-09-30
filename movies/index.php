@@ -17,6 +17,7 @@
 	function initial($name) {
 		if ($name == 'Starter Trek') {
 			return 'Y';
+		}
 		if ($name == 'Trek Welten') {
 			return 'W';
 		}
