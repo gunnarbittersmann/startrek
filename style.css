@@ -350,7 +350,7 @@ details:has([property="video"]) {
 		display: none;
 	}
 	
-	table, caption, tbody, tr, th, td {
+	table, caption, tbody, tfoot, tr, th, td {
 		display: block;
 		width: 100% !important;
 	}
