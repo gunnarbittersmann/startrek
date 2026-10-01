@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/sfa",
 	"name": "Star Trek: Starfleet Academy",
+	"sameAs": "https://www.wikidata.org/wiki/Q117350388",
 	"identifier": "SFA",
 	"inLanguage": "en",
 	"creator": {
@@ -46,6 +47,52 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(Fernsehserie)"
 		}
 	],
+	"review": {
+		"@type": "Review",
+		"inLanguage": "en",
+		"name": "Ups & Downs From 60 Years Of Star Trek",
+		"creator": {
+			"@type": "Organization",
+			"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+			"name": "TrekCulture"
+		},
+		"datePublished": "2026-09-09",
+		"itemReviewed": [
+			{ "@id": "https://bittersmann.de/startrek/series/tos" },
+			{ "@id": "https://bittersmann.de/startrek/series/tas" },
+			{ "@id": "https://bittersmann.de/startrek/series/tng" },
+			{ "@id": "https://bittersmann.de/startrek/series/ds9" },
+			{ "@id": "https://bittersmann.de/startrek/series/voy" },
+			{ "@id": "https://bittersmann.de/startrek/series/ent" },
+			{ "@id": "https://bittersmann.de/startrek/series/dsc" },
+			{ "@id": "https://bittersmann.de/startrek/series/st" },
+			{ "@id": "https://bittersmann.de/startrek/series/pic" },
+			{ "@id": "https://bittersmann.de/startrek/series/ld" },
+			{ "@id": "https://bittersmann.de/startrek/series/pro" },
+			{ "@id": "https://bittersmann.de/startrek/series/snw" },
+			{ "@id": "https://bittersmann.de/startrek/series/vst" },
+			{ "@id": "https://bittersmann.de/startrek/series/sco" },
+			{ "@id": "https://bittersmann.de/startrek/series/sfa" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q107940" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q465478" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221305" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q471842" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q241218" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q579757" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q723679" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q221236" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q673198" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q388319" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q213081" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q171711" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q15929448" },
+			{ "@id": "https://bittersmann.de/startrek/movies#Q106948764" }
+		],
+		"video": {
+			"@type": "VideoObject",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/CI0KP0n52ZI"
+		}
+	},
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
@@ -192,6 +239,20 @@
 					"video": {
 						"@type": "VideoObject",
 						"embedUrl": "https://www.youtube-nocookie.com/embed/j5FIwCti5aA"
+					}
+				},
+				{
+					"@type": "Review",
+					"inLanguage": "en",
+					"creator": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+						"name": "Mr. Know-It-All"
+					},
+					"datePublished": "2026-03-23",
+					"video": {
+						"@type": "VideoObject",
+						"embedUrl": "https://www.youtube-nocookie.com/embed/dKeiBEl9DIU"
 					}
 				},
 				{
@@ -431,6 +492,30 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-01-16",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.1" },
+								{ "@id": "https://bittersmann.de/startrek/series/sfa#1.2" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-K9B0E4yrwk"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"creator": {
 								"@type": "Person",
@@ -558,6 +643,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/sozqWkdt9B4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-01-23",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/TrHJ-n5tKWE"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -676,6 +781,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/QdqGpsK72I4"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-01-31",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qBxrfNrJs3Q"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -787,6 +912,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ipVclWgYj_k"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-02-06",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/7Sfjj7BrU9s"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 5,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -948,6 +1093,26 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-02-13",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/o8th2CoVaxg"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -1076,6 +1241,40 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/UZpHcIDbfGY"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-02-21",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/BoZYXgqJ5VM"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-02-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/t2KSp7-Lqdw"
+							}
 						}
 					]
 				},
@@ -1187,6 +1386,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/iu2Vux3El1o"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-02-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/oXz2pNlFhGw"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 6,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -1304,6 +1523,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/yuaBuhd5UjU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-03-07",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/-iLaFOZVsjA"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -1428,6 +1667,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/A30zS3ToPhk"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2026-03-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qptpPxqqXiY"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 4,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]

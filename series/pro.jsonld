@@ -5,6 +5,7 @@
 	"@type": "TVSeries",
 	"@id": "https://bittersmann.de/startrek/series/pro",
 	"name": "Star Trek: Prodigy",
+	"sameAs": "https://www.wikidata.org/wiki/Q65250765",
 	"identifier": "PRO",
 	"inLanguage": "en",
 	"isBasedOn": {
@@ -65,21 +66,69 @@
 			"url": "https://de.wikipedia.org/wiki/Star_Trek:_Prodigy"
 		}
 	],
-	"review": {
-		"@type": "Review",
-		"inLanguage": "en",
-		"name": "Retrospective",
-		"creator": {
-			"@type": "Person",
-			"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
-			"name": "OrangeRiver"
+	"review": [
+		{
+			"@type": "Review",
+			"inLanguage": "en",
+			"name": "Ups & Downs From 60 Years Of Star Trek",
+			"creator": {
+				"@type": "Organization",
+				"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+				"name": "TrekCulture"
+			},
+			"datePublished": "2026-09-09",
+			"itemReviewed": [
+				{ "@id": "https://bittersmann.de/startrek/series/tos" },
+				{ "@id": "https://bittersmann.de/startrek/series/tas" },
+				{ "@id": "https://bittersmann.de/startrek/series/tng" },
+				{ "@id": "https://bittersmann.de/startrek/series/ds9" },
+				{ "@id": "https://bittersmann.de/startrek/series/voy" },
+				{ "@id": "https://bittersmann.de/startrek/series/ent" },
+				{ "@id": "https://bittersmann.de/startrek/series/dsc" },
+				{ "@id": "https://bittersmann.de/startrek/series/st" },
+				{ "@id": "https://bittersmann.de/startrek/series/pic" },
+				{ "@id": "https://bittersmann.de/startrek/series/ld" },
+				{ "@id": "https://bittersmann.de/startrek/series/pro" },
+				{ "@id": "https://bittersmann.de/startrek/series/snw" },
+				{ "@id": "https://bittersmann.de/startrek/series/vst" },
+				{ "@id": "https://bittersmann.de/startrek/series/sco" },
+				{ "@id": "https://bittersmann.de/startrek/series/sfa" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q107940" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q465478" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q221305" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q471842" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q241218" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q579757" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q723679" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q221236" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q673198" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q388319" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q213081" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q171711" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q15929448" },
+				{ "@id": "https://bittersmann.de/startrek/movies#Q106948764" }
+			],
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/CI0KP0n52ZI"
+			}
 		},
-		"datePublished": "2024-11-22",
-		"video": {
-			"@type": "VideoObject",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/EOZSm2H7-UE"
+		{
+			"@type": "Review",
+			"inLanguage": "en",
+			"name": "Retrospective",
+			"creator": {
+				"@type": "Person",
+				"@id": "https://bittersmann.de/startrek/people#OrangeRiver",
+				"name": "OrangeRiver"
+			},
+			"datePublished": "2024-11-22",
+			"video": {
+				"@type": "VideoObject",
+				"embedUrl": "https://www.youtube-nocookie.com/embed/EOZSm2H7-UE"
+			}
 		}
-	},
+	],
 	"numberOfSeasons": 2,
 	"containsSeason": [
 		{
@@ -1123,6 +1172,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/u1nJJCODRJw"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-10-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/dPxfrWrwNBk"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 7,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -1287,6 +1356,26 @@
 						},
 						{
 							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-11-11",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/qZxz7l8u-s0"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
 							"inLanguage": "de",
 							"name": "Recap",
 							"creator": {
@@ -1393,6 +1482,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/oBoKsy3Pfdw"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-11-17",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/MtcljNKWfUM"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -1471,6 +1580,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/nnRPIeaMIg4"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/NAC6FagHH6o"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -1601,6 +1730,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/8asciiZ1Izk"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/hWCLo0JGfmE"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 8.5,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -1680,6 +1829,26 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/XAl0WGy3TtU"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-09",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/rH6TWcyxIL8"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -1767,6 +1936,26 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/X-VyafByyPU"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-15",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/jO9iEbyK-O0"
+							},
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 1,
+								"bestRating": 10
+							}
 						}
 					]
 				},
@@ -1845,6 +2034,25 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/Xp7yl_9k4-k"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#pe-elh7yHlM"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-29",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 9,
+								"worstRating": 1,
+								"bestRating": 10
 							}
 						}
 					]
@@ -1946,6 +2154,44 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/ronU-Rod1Q8"
+							}
+						},
+						{
+							"@type": "Review",
+							"isPartOf": {
+								"@id": "https://bittersmann.de/startrek/reviews#pe-elh7yHlM"
+							},
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-29",
+							"reviewRating": {
+								"@type": "Rating",
+								"ratingValue": 10,
+								"worstRating": 1,
+								"bestRating": 10
+							}
+						},
+						{
+							"@type": "Review",
+							"@id": "https://bittersmann.de/startrek/reviews#pe-elh7yHlM",
+							"inLanguage": "en",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#MrKnowItAll",
+								"name": "Mr. Know-It-All"
+							},
+							"datePublished": "2022-12-29",
+							"itemReviewed": [
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.19" },
+								{ "@id": "https://bittersmann.de/startrek/series/pro#1.20" }
+							],
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/pe-elh7yHlM"
 							}
 						}
 					]
