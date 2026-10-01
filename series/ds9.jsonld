@@ -2723,7 +2723,22 @@
 							"@language": "de",
 							"@value": "Arjin, ein junger Trill, kommt auf die Station. Dax soll testen, ob er bereit ist einen Symbionten zu empfangen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Other Universes",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-10-01",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/y92FuvfSpLk"
+						}
+					}
 				},
 				{
 					"@type": "TVEpisode",
