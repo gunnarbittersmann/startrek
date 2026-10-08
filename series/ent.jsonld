@@ -602,6 +602,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Zu Erkundungszwecken besucht die Enterprise einen Planeten, auf dem sich das vulkanische Kloster P’Jem befindet. Das Kloster wird jedoch durch Andorianer belagert, die die Vulkanier verdächtigen, ihren Planeten mit geheimer Technologie auszuspionieren. Als Archer, T’Pol und Tucker im Kloster eintreffen, werden sie durch Andorianer gefangen genommen und mit den Mönchen eingesperrt. Alsbald schmieden die drei einen Ausbruchsplan und setzen ihn mit Hilfe der Enterprise-Crew um, mit der sie unbemerkt von den Andorianern kommunizieren. Während des Ausbruchs entdecken sie sehr zu ihrer Überraschung schließlich eine riesige vulkanische Überwachungsanlage, womit sich der Verdacht der Andorianer bestätigt. Mit dieser Erkenntnis lassen die Andorianer die Crew frei, und Archer lässt die Andorianer unbehelligt abziehen."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Enterprise",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-10-08",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/Sey0eTo3pSo"
+						}
 					}
 				},
 				{
