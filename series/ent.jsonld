@@ -1787,6 +1787,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Beim gemeinsamen Essen mit Archer und Tucker erzählt T’Pol eine Geschichte von ihrer Urgroßmutter T’Mir, die in den 1950er Jahren als erste Offizierin auf einem vulkanischen Raumschiff tätig ist. Als dieses auf der Erde – in der Nähe der Bergwerks-Kleinstadt Carbon Creek, Pennsylvania – notlanden muss, ist sie zwecks Überleben zusammen mit ihren beiden überlebenden Mannschaftskollegen, darunter einer namens Mestral, dazu gezwungen, im Ort eine Arbeit aufzunehmen. Mestral widersetzt sich T’Mirs Anweisungen, sich nicht in die Geschichte einzumischen und unnötigen Kontakt mit den Einheimischen zu vermeiden, indem er eine Liebesbeziehung beginnt und eingeschlossene Bergleute befreit. Nach mehreren Monaten Wartezeit in Carbon Creek werden sie, ohne dass die Menschen sie als Außerirdische enttarnen konnten, durch ein vulkanisches Schiff abgeholt, das auf den Notruf aufmerksam geworden war; Mestral bleibt jedoch wegen eigener Neugierde auf der Erde. T’Pol enthüllt die Geschichte gegenüber Archer und Tucker zu deren Verwunderung zwar als erfunden, packt jedoch danach in ihrem Quartier die Handtasche aus, die T’Mir einst aus Carbon Creek mitnahm."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Enterprise",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-10-15",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/r-G29N7oLzA"
+						}
 					}
 				},
 				{
