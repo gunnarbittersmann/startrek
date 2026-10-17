@@ -97,6 +97,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/sfa#1",
 			"seasonNumber": 1,
 			"review": [
 				{
@@ -1690,6 +1691,37 @@
 							}
 						}
 					]
+				}
+			]
+		},
+		{
+			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/sfa#2",
+			"seasonNumber": 2,
+			"numberOfEpisodes": 10,
+			"episode": [
+				{
+					"@type": "TVEpisode",
+					"@id": "https://bittersmann.de/startrek/series/sfa#2.1",
+					"episodeNumber": "2.1",
+					"datePublished": "2027-03",
+					"author": [
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JaneMaggs",
+							"name": "Jane Maggs"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#JennyLumet",
+							"name": "Jenny Lumet"
+						}
+					],
+					"contributor": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#AlexKurtzman",
+						"name": "Alex Kurtzman"
+					}
 				}
 			]
 		}
