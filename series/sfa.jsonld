@@ -97,6 +97,7 @@
 	"containsSeason": [
 		{
 			"@type": "TVSeason",
+			"@id": "https://bittersmann.de/startrek/series/sfa#1",
 			"seasonNumber": 1,
 			"review": [
 				{
