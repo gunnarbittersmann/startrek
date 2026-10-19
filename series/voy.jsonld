@@ -3524,6 +3524,55 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "Vulcan crewmember Vorik passes on the Pon farr to B’Elanna. Meanwhile, seemingly uninhabited planet Sakari is explored. After ruins are discovered, and a few survivors are found underground by the crew, it becomes obvious that local culture was destroyed by invaders. Remains of one of the invaders are found and identified - they were Borg."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-10-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bl5uc0X7CT0"
+						},
+						"reviewRating": [
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
+									"name": "Tawny Newsome"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+									"name": "Andrew Ti"
+								},
+								"ratingValue": 3,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							}
+						]
 					}
 				},
 				{
