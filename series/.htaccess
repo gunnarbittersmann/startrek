@@ -1,8 +1,8 @@
-Options -MultiViews
-RewriteEngine On
-RewriteBase /startrek/series
-RewriteRule index.phps index.phps.php
-RewriteRule index.jsonld series.jsonld
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule (.+)$ index.php?series=$1
+# Options -MultiViews
+# RewriteEngine On
+# RewriteBase /startrek/series
+# RewriteRule index.phps index.phps.php
+# RewriteRule index.jsonld series.jsonld
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule (.+)$ index.php?series=$1
