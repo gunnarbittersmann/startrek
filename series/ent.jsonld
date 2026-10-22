@@ -1843,6 +1843,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Als sich die Enterprise einem unbekannten Planeten nähert, reißt eine gewaltige Explosion ein Loch in den Schiffsrumpf, es gibt zahlreiche Verletzte. Schnell wird klar, dass das Schiff in ein Minenfeld geraten ist. Eine Mine haftet an der Außenhülle. Während Mayweather die von einem romulanischen Schiff zum Rückzug gedrängte Enterprise aus dem Minenfeld herausmanövriert, macht sich Reed im Raumanzug daran, die haftende Mine zu entschärfen. Dabei bohrt sich ein Minenstandfuß durch Reeds Bein und fixiert ihn somit. Deshalb beginnt Archer, auf Reeds Anleitung hin die Mine zu entschärfen. Dabei unterhalten sie sich über Reeds Freizeit. Als Archers Entschärfungsbemühungen scheitern und die Romulaner das Schiff zum weiteren Rückzug drängen, lässt er den Hüllenteil, auf dem sich Mine und Reed befinden, von der Schiffspanzerung absprengen. Es gelingt ihm, Reed von dem Standfuß zu trennen, bevor die Mine explodiert."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | Spotlight on Enterprise",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-10-22",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/uzPioukntlU"
+						}
 					}
 				},
 				{
