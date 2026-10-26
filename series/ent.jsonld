@@ -5216,6 +5216,44 @@
 					"description": {
 						"@language": "de",
 						"@value": "Vorgeblich zur Verbesserung der Beziehungen zwischen der Sternenflotte und dem Orion-Syndikat verkauft das Syndikatsmitglied Harrad-Sar die Koordinaten eines Planeten mit umfangreichen Rohstoffvorkommen an Archer und schenkt ihm dazu noch drei attraktive Frauen. Während die Enterprise zwecks Prüfung der Koordinaten zum Planeten unterwegs ist, verführen die Frauen zunehmend die männlichen Crewmitglieder und instrumentalisieren Kelby, den vor Tuckers Rückkehr leitenden Ingenieur. Mit seiner Hilfe sabotieren sie den Warpantrieb, sodass dieser ausfällt und der baldige Angriff Harrad-Sars droht. Phlox diagnostiziert, dass ein Pheromon der Frauen bei den Männern zu einer starken Erhöhung des Adrenalinspiegels führt und diese dadurch wahnsinnig und draufgängerisch werden, während die weiblichen Besatzungsmitglieder Kopfschmerzen bekommen und antriebslos werden. Tucker wegen seiner Beziehung zu T’Pol und diese wegen ihrer vulkanischen Spezieszugehörigkeit sind nicht von der körperlichen Veränderung betroffen. So können sie die Bemühungen Harrad-Sars und der Frauen stoppen, die Enterprise zu Orion-Marodeuren zu schleppen, die Archer nach dem Leben trachten. Die Frauen verlassen das Schiff. – Als T’Pol Tucker mit einem Kuss zu überreden versucht, auf der Enterprise zu bleiben, verrät der, dass er seine Rückversetzung von der Columbia schon beantragt hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-10-26",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/dDJIJ27mbMY"
+						},
+						"reviewRating": [
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+									"name": "Andrew Ti"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								"ratingValue": 1,
+								"worstRating": 0,
+								"bestRating": 5
+							}
+						]
 					}
 				},
 				{
