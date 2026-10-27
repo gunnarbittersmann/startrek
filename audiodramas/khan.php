@@ -134,7 +134,9 @@
 							<?php if ($episode['audio']): ?>
 								<td>
 									<details lang="en" property="audio" typeof="AudioObject">
-										<summary>Audio</summary>
+										<summary>
+											Audio
+										</summary>
 										<meta
 											property="embedUrl"
 											content="<?= htmlSpecialChars($episode['audio']['embedUrl']) ?>"
