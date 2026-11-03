@@ -4487,7 +4487,56 @@
 							"@language": "de",
 							"@value": "Der große Nagus, der Anführer der Ferengi, kommt nach DS9 und ist merkwürdig verändert. Er zeigt sich auf einmal wohltätig und gibt neue „Regeln des Erwerbs“ heraus, in denen die Ferengie aufgefordert werden, dem grenzenlosen Profitstreben abzuschwören. Quark und Rom entdecken, dass er vor Kurzem bei den Wurmlochwesen, den Propheten, war und versuchen nun, ihren alten Nagus zurückzubekommen, indem sie mit ihnen Kontakt aufnehmen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-11-02",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/bCxt8RhVKT4"
+						},
+						"reviewRating": [
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
+									"name": "Tawny Newsome"
+								},
+								"ratingValue": 4,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+									"name": "Andrew Ti"
+								},
+								"ratingValue": 5,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								"ratingValue": 5,
+								"worstRating": 0,
+								"bestRating": 5
+							}
+						]
+					}
 				},
 				{
 					"@type": "TVEpisode",
