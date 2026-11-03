@@ -580,6 +580,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Fuzzy Little Guys",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
