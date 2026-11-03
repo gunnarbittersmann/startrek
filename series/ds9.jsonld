@@ -3565,6 +3565,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Quarkstops",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
@@ -4491,6 +4492,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Quarkstops",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
@@ -5480,6 +5482,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Quarkstops",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
@@ -8571,6 +8574,7 @@
 						{
 							"@type": "Review",
 							"inLanguage": "en",
+							"name": "Star Trek Was Always Political Episodes",
 							"creator": {
 								"@type": "Organization",
 								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
@@ -8940,6 +8944,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Progenitor Episodes",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",

@@ -2422,6 +2422,7 @@
 					"review": {
 						"@type": "Review",
 						"inLanguage": "en",
+						"name": "Star Trek Was Always Political Episodes",
 						"creator": {
 							"@type": "Organization",
 							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
