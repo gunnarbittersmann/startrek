@@ -4689,6 +4689,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Die Enterprise wehrt einen Raketenangriff im offenen All ab und verfolgt die Geschosse bis zu einem Asteroiden zurück. Eine Untersuchung ergibt, dass der Asteroid auf einem Kollisionskurs mit dem Planeten Daran V ist, der nur mit einem Antrieb möglich ist, er also ein Raumschiff sein muss. Captain Kirk beschließt, es zu erkunden. Dr. McCoy berichtet Kirk davon, dass er an der tödlichen Blutkrankheit Xenopolycytemia leidet und nur noch zwölf Monate zu leben hat. Auf der Oberfläche des Asteroiden werden Kirk, Spock und McCoy von Menschen angegriffen und ins Innere des Schiffes Yonada gebracht. Die Kultur, die dort lebt, wird von einem Orakel und dessen Hohepriesterin Natira beherrscht. Das Orakel kontrolliert die Bewohner des Asteroiden, die nicht wissen, dass sie in einem Raumschiff leben. Spock und Kirk untersuchen heimlich das Orakel und entdecken, dass es sich um einen Computer handelt, der vom alten Volk der Fabrini vor 10.000 Jahren gebaut wurde, als das Schiff vor der Zerstörung ihres Sonnensystems auf die Reise ging. Natira will McCoy heiraten. Dieser will auf dem Asteroiden bleiben. Spock kann mit Hilfe eines heiligen Handbuchs die Steuerung von Yonada reparieren und findet in den Archiven des Orakels ein Heilmittel für McCoys Krankheit. Dieser kehrt nach der erfolgreichen Kurskorrektur von der Yonada auf die Enterprise zurück und kann dort geheilt werden. Er wird Natira bald wiedersehen, wenn Yonada das Ziel erreicht hat."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | The Six Doctors",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-11-12",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/AaIjQAiSMwc"
+						}
 					}
 				},
 				{
