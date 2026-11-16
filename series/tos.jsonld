@@ -3514,7 +3514,57 @@
 							"@language": "de",
 							"@value": "Als Kirk, Chekov und Uhura auf den Planeten Gamma II hinunterbeamen wollen, verschwinden sie plötzlich und finden sich auf dem fremden Planeten Triskelion wieder. Dort sind sie unter der Herrschaft des Sklavenhalters Galt, der stellvertretend für gewisse Versorger auftritt. Galt ist in der Lage, die Untergebenen durch schmerzverursachende Gehorsamkeitshalsbänder zu bestrafen. Jeder der drei erhält einen anderen Sklaven zugewiesen, der ihn mit dem Ziel ausbilden soll, später ein erfolgreicher Sklave zu sein und an einen Sklavenhalter verkauft zu werden. Als Kirk in einem Schaukampf seinen Gegner besiegt und somit gegenüber den Versorgern Stärke beweist, werden die drei zu Sklaven ernannt. Dabei schließen die Versorger Wetten auf die Sklaven ab, um sich zu unterhalten. Kirks Ausbilderin ist die Sklavin Shahna, der er die Werte eines Lebens in Freiheit und der Liebe vermittelt, die ihr bislang fremd waren. Als die drei aus ihren Zellen ausgebrochen sind, diszipliniert Galt sie mit den Halsbändern. Unterdessen hat die Enterprise Triskelion gefunden. Die Versorger zeigen Kirk, dass sie in gehirnähnlicher Form tief unter der Erde existieren. Kirk kann sie von einer Wette überzeugen, die einen viel spektakuläreren Kampf beinhaltet. Den Kampf gegen drei Angreifer auf Leben und Tod gewinnt Kirk, sodass er Freiheit für sich und seine Crew erreicht und, dass die Versorger die Sklaven zu freieren Individuen erziehen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Game Recognizes Game",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-11-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/"
+						},
+						"reviewRating": [
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
+									"name": "Tawny Newsome"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+									"name": "Andrew Ti"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							}
+						]
+					}
 				},
 				{
 					"@type": "TVEpisode",
