@@ -2193,6 +2193,21 @@
 					"description": {
 						"@language": "de",
 						"@value": "Ein fremdes Wesen gelangt an Bord der Enterprise und dringt in Trois Körper ein, woraufhin sie schwanger wird und zwei Tage später einen Jungen gebärt, der rasend schnell heranwächst. Währenddessen hat die Enterprise eine Probe eines lebensgefährlichen Erregers an Bord genommen, der kurze Zeit später zu wachsen beginnt und Besatzung und Passagiere zu töten droht. Als die Lebensform im Körper des Jungen davon erfährt, sieht sie sich in der Schuld für den Viruswachstum und verlässt den Körper des Jungen, wodurch die Gefahr gebannt wird."
+					},
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Retro Review | The Six Doctors",
+						"creator": {
+							"@type": "Person",
+							"@id": "https://bittersmann.de/startrek/people#SteveShives",
+							"name": "Steve Shives"
+						},
+						"datePublished": "2026-11-19",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/_yDUGEqOtqs"
+						}
 					}
 				},
 				{
