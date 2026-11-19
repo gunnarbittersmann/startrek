@@ -10427,6 +10427,11 @@
 							"url": "https://de.wikipedia.org/wiki/Verd%C3%A4chtigungen"
 						}
 					],
+					"director": {
+						"@type": "Person",
+						"@id": "https://bittersmann.de/startrek/people#CliffBole",
+						"name": "Cliff Bole"
+					},
 					"author": [
 						{
 							"@type": "Person",
@@ -10442,11 +10447,6 @@
 					"abstract": {
 						"@language": "en",
 						"@value": "Dr. Crusher risks her career to solve the murder of Ferengi scientist Dr. Reyga and vindicate his research."
-					},
-					"director": {
-						"@type": "Person",
-						"@id": "https://bittersmann.de/startrek/people#CliffBole",
-						"name": "Cliff Bole"
 					},
 					"description": {
 						"@language": "de",
