@@ -671,6 +671,21 @@
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/yWrYvtW9ZN8"
 							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Progenitor Episodes",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-07-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/S4PWP4NCgss"
+							}
 						}
 					]
 				},
@@ -2558,21 +2573,38 @@
 							"@value": "Spock verhält sich merkwürdig und emotional, ohne den ihm bekannten Grund dafür preiszugeben, und ersucht deshalb bei Kirk um Urlaub auf seinem Heimatplaneten Vulkan. Kirk kann ihm den Urlaub zunächst nicht gewähren, da die Enterprise einen wichtigen diplomatischen Termin auf Altea VI wahrnehmen muss. Erst als McCoy erkennt, dass Spocks Verhalten tödlich enden könne, genehmigt Kirk den Flug nach Vulkan. Spock vertraut Kirk nun an, dass er sich im Pon Farr befindet, der vulkanischen Brunft. Obwohl das Sternenflottenkommando darauf besteht, dass die Enterprise zunächst nach Altea VI fliegt, lässt Kirk nach Vulkan Kurs setzen. Dort in Begleitung von Kirk und McCoy angekommen, wird Spock von seiner ihm schon vor Jahren versprochenen Frau T’Pring erwartet. Um T’Pring endgültig für sich zu gewinnen, muss Spock sich im Rahmen vulkanischer Tradition noch duellieren. T’Pring erwählt Kirk als seinen Gegner. Das auf Leben und Tod geführte Duell in einer Arena gewinnt Spock. Danach gibt T’Pring zu, dass sie nur deshalb Kirk als Spocks Gegner gewählt hat, um damit den ursprünglich dafür vorgesehenen Vulkanier Spong zu verschonen, in den sie in Wirklichkeit verliebt ist. Kirk indes ist nicht wirklich gestorben, sondern hat mit Hilfe einer Injektion McCoys überlebt. Nach dem Kampf ist Spocks Pon Farr beendet."
 						}
 					],
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Review | Steve’s Favorite Episodes",
-						"creator": {
-							"@type": "Person",
-							"@id": "https://bittersmann.de/startrek/people#SteveShives",
-							"name": "Steve Shives"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Review | Steve’s Favorite Episodes",
+							"creator": {
+								"@type": "Person",
+								"@id": "https://bittersmann.de/startrek/people#SteveShives",
+								"name": "Steve Shives"
+							},
+							"datePublished": "2023-02-16",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/I93Xzg8JpRA"
+							}
 						},
-						"datePublished": "2023-02-16",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/I93Xzg8JpRA"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "“Spicy” Episodes",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-09-28",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/aM2NoKx5oYg"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -3396,21 +3428,38 @@
 						"@language": "en",
 						"@value": "Tribbles – purring, fluffy, and fertile creatures – disrupt the exploitation of a disputed planet between the Klingon Empire and the Federation. The Enterprise responds to a priority 1 distress signal from Space Station K7 on the edge of the Neutral Zone and close to Sherman’s Planet. Mr. Baris asks Kirk to provide protection to the storage facility on the space station to preserve an improved grain that will help the Federation to gain control of Sherman’s Planet and prevent the Klingons from capturing it. Kirk sanctions the security guard and also gives shore leave to the crew aboard the Enterprise. Uhura and Chekov find an interesting creature called a tribble on the station and bring it aboard the Enterprise. Tribbles begin to reproduce exponentially and spread everywhere on the Enterprise. A Klingon ship also reaches the K7 facility for shore leave and Kirk allows it under the Enterprise’s protection. Tribbles begin to enter the vent systems of the Enterprise and Space Station K7, destroying the crop. Later it is revealed that the crop was poisoned by a Klingon spy aboard the space station. The poison also killed the Tribbles that ate the grain. Kirk finds the spy and Scotty finds a way to get rid of the tribbles from the Enterprise."
 					},
-					"review": {
-						"@type": "Review",
-						"inLanguage": "en",
-						"name": "Retro Ups & Downs",
-						"creator": {
-							"@type": "Organization",
-							"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
-							"name": "TrekCulture"
+					"review": [
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Retro Ups & Downs",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#TrekCulture",
+								"name": "TrekCulture"
+							},
+							"datePublished": "2023-12-24",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/Or6MDkKByFs"
+							}
 						},
-						"datePublished": "2023-12-24",
-						"video": {
-							"@type": "VideoObject",
-							"embedUrl": "https://www.youtube-nocookie.com/embed/Or6MDkKByFs"
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Fuzzy Little Guys",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-08-10",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/0P475Vskz0k"
+							}
 						}
-					}
+					]
 				},
 				{
 					"@type": "TVEpisode",
@@ -3465,7 +3514,57 @@
 							"@language": "de",
 							"@value": "Als Kirk, Chekov und Uhura auf den Planeten Gamma II hinunterbeamen wollen, verschwinden sie plötzlich und finden sich auf dem fremden Planeten Triskelion wieder. Dort sind sie unter der Herrschaft des Sklavenhalters Galt, der stellvertretend für gewisse Versorger auftritt. Galt ist in der Lage, die Untergebenen durch schmerzverursachende Gehorsamkeitshalsbänder zu bestrafen. Jeder der drei erhält einen anderen Sklaven zugewiesen, der ihn mit dem Ziel ausbilden soll, später ein erfolgreicher Sklave zu sein und an einen Sklavenhalter verkauft zu werden. Als Kirk in einem Schaukampf seinen Gegner besiegt und somit gegenüber den Versorgern Stärke beweist, werden die drei zu Sklaven ernannt. Dabei schließen die Versorger Wetten auf die Sklaven ab, um sich zu unterhalten. Kirks Ausbilderin ist die Sklavin Shahna, der er die Werte eines Lebens in Freiheit und der Liebe vermittelt, die ihr bislang fremd waren. Als die drei aus ihren Zellen ausgebrochen sind, diszipliniert Galt sie mit den Halsbändern. Unterdessen hat die Enterprise Triskelion gefunden. Die Versorger zeigen Kirk, dass sie in gehirnähnlicher Form tief unter der Erde existieren. Kirk kann sie von einer Wette überzeugen, die einen viel spektakuläreren Kampf beinhaltet. Den Kampf gegen drei Angreifer auf Leben und Tod gewinnt Kirk, sodass er Freiheit für sich und seine Crew erreicht und, dass die Versorger die Sklaven zu freieren Individuen erziehen."
 						}
-					]
+					],
+					"review": {
+						"@type": "Review",
+						"inLanguage": "en",
+						"name": "Game Recognizes Game",
+						"creator": {
+							"@type": "Organization",
+							"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+							"name": "Starter Trek"
+						},
+						"datePublished": "2026-11-16",
+						"video": {
+							"@type": "VideoObject",
+							"embedUrl": "https://www.youtube-nocookie.com/embed/"
+						},
+						"reviewRating": [
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#TawnyNewsome",
+									"name": "Tawny Newsome"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#AndrewTi",
+									"name": "Andrew Ti"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							},
+							{
+								"@type": "Rating",
+								"author": {
+									"@type": "Person",
+									"@id": "https://bittersmann.de/startrek/people#JessieGender",
+									"name": "Jessie Gender"
+								},
+								"ratingValue": 2,
+								"worstRating": 0,
+								"bestRating": 5
+							}
+						]
+					}
 				},
 				{
 					"@type": "TVEpisode",
@@ -5149,6 +5248,21 @@
 							"video": {
 								"@type": "VideoObject",
 								"embedUrl": "https://www.youtube-nocookie.com/embed/MUNiNulpueE"
+							}
+						},
+						{
+							"@type": "Review",
+							"inLanguage": "en",
+							"name": "Star Trek Was Always Political Episodes",
+							"creator": {
+								"@type": "Organization",
+								"@id": "https://bittersmann.de/startrek/organizations#StarterTrek",
+								"name": "Starter Trek"
+							},
+							"datePublished": "2026-06-29",
+							"video": {
+								"@type": "VideoObject",
+								"embedUrl": "https://www.youtube-nocookie.com/embed/dUqStd_gHKs"
 							}
 						}
 					]
